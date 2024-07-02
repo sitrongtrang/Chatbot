@@ -1,0 +1,21 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+
+# Ignore model files
+*.gguf
+
+# Ignore data files
+Data/
