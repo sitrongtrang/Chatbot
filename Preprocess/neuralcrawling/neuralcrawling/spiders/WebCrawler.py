@@ -1,8 +1,6 @@
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
-from scrapy.crawler import CrawlerProcess
 import scrapy
-from Preprocess.neuralcrawling.neuralcrawling.items import NeuralcrawlingItem
 import os
 import subprocess
 from dotenv import load_dotenv
@@ -38,6 +36,18 @@ class WebCrawler(CrawlSpider):
 
     seen = {}
 
+    def replace_title(self, title, url):
+        replace = title
+        for x in ["Student", "Admin", "Instructor", "Observer"]:
+            if (x + "-Guide") in url and "How do I" in title:
+                role = "as a " + x.lower() if x == "Student" else "as an " + x.lower() 
+                if role not in title:
+                    replace =  replace + " " + role
+        # for x in ["Student-Guide", "Admin-Guide", "Instructor-Guide", "Observer-Guide", "Video-Guide", "Canvas-Basics-Guide", "Troubleshooting"]:
+        #     if x in url and x.replace("-", " ") not in title:
+        #         replace = x.replace("-", " ") + " - " + replace
+        return replace
+
     def extract_title(self, response):
         title = response.css('div.lia-message-subject::text').getall()
         title = ''.join(title)
@@ -49,12 +59,13 @@ class WebCrawler(CrawlSpider):
             title = title.replace(char, '')
 
         title = title.replace('/', ' or ')
-
+        title = title.replace("’", "'")
         return title
 
     def parse_detail(self, response):
         curr_url = response.url.replace('community.canvaslms.com:443', 'community.canvaslms.com')
         title = self.extract_title(response)
+        title = self.replace_title(title , curr_url)
         WebCrawler.seen[curr_url] = title
         yield {
             'url': curr_url,
@@ -76,11 +87,10 @@ class WebCrawler(CrawlSpider):
             self.log(f'Saved file {filename}')
 
 
-def run_crawler():
-    spider_name = 'mycrawler'
+def run_crawler(spider_name):
     output_file = os.path.join(project_directory, r'Data\urls.json')
     if os.path.exists(output_file):
         os.remove(output_file)
     subprocess.run(['scrapy', 'crawl', spider_name, '-o', output_file])
 
-run_crawler()
+run_crawler(WebCrawler.name)
