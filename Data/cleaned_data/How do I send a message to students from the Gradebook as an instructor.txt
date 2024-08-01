@@ -1,0 +1,40 @@
+How do I send a message to students from the Gradebook as an instructor
+Open Gradebook
+In Course Navigation, click the Grades link.
+Open Assignment Menu
+Hover the cursor over the assignment or assignment group column header and click the Options icon.
+Message Students
+Click the Message Students Who link.
+View Compose Message
+In the Compose Message window, you can select a category of students to message, manage the recipients by role or individually, enter a message title, and compose a message.
+Select Message Category
+Choose a category of students to message in the For students who drop-down menu. By default, the Have submitted message category is selected. To message students who have submitted, click one of the following radio buttons:
+All submissions: Message students who have any submissions.
+Graded submissions: Message students who have graded submissions.
+Not graded submissions: Message students who have ungraded submissions.
+To message a different category of students, click the For students who... drop-down menu. Then select one of the other available categories for assignments:
+Have not yet submitted: Students who haven't submitted the assignment, even if they have been manually awarded a grade. You have the option to skip excused students.
+Have not been graded: Students whose assignments have not yet been graded (submitted or unsubmitted).
+Scored less than [point value]: Students who earned a grade on their assignment less than a cutoff value.
+Scored more than [point value]: Students who earned a grade on their assignment more than a cutoff value. 
+Reassigned: Students who have submitted an assignment and you have reassigned it to them.
+To message students based on an assignment group or the Total column, select one of the following categories:
+Total grade higher than [percent value]: Students whose total grade is more than a cutoff value. 
+Total grade lower than [percent value]: Students whose total grade is more than a cutoff value. 
+Note: Available categories options vary based on the assignment type or group.
+Enter Cutoff Value
+If you are messaging students who scored more than or less than a value or whose total score is higher than or lower than a value, enter a number of points in the Cutoff Value field.
+Note: The cutoff value is based on values in the open gradebook, and those values may be different than the values students see in their Grades.
+Manage Recipients
+To select or deselect users with a given role, click the checkboxes in the Send Message To field. 
+To view, add, or remove specific users, click the Show all recipients link. 
+When you show all recipients, you can manage individual recipients included in a message. To remove a user, click the Remove icon. To add a user, click the Add icon.
+Enter Message Content
+By default, the subject is a message based on your selections. To edit the subject, enter a different subject in the Subject field.
+Type a message to the students in the Message field. 
+To attach a file to the message, click the Attach button. 
+To create a media recording or upload a media file, click the Media icon. 
+To send the message, click the Send button.
+Notes: 
+Although one message most likely will be sent to multiple students at the same time, each student receives an individual message.
+You can also message students by gradebook assignments.

@@ -1,0 +1,194 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6ab600af-c9f1-40d0-8505-6b52b2d030ac" class="text-block-content">
+    <p>The Card View Dashboard displays course cards for all your favorite active courses. Course cards can help you organize your student's courses by adding a nickname or customizing the color, which is synced with the color shown for the course in the Calendar. Depending on your institution's preference, the Card View may be your default Dashboard.</p>
+<p>The Card View Dashboard also includes the Dashboard sidebar, which displays a Coming Up feed and includes a link to the global Grades page.</p>
+<p>You can change your Dashboard view at any time using the Dashboard Options icon.</p>
+<p>Favorited courses are removed from the Card View Dashboard when the course is concluded. Concluded courses that were previously favorited are still shown as favorited in the <a href="/t5/Observer-Guide/How-do-I-view-a-list-of-all-Canvas-courses-in-which-I-am-an/ta-p/566" target="_blank">Courses list</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course_cards" data-step-uuid="74188f2c-09be-4fb5-b47d-2ba71d02ea68">
+    <h2 id="view_course_cards" class="step-title screensteps-heading">View Course Cards</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/836/308/original/85c54bd5-3bff-4597-9d4f-a923a7ce2c57.png" srcset="" alt="View Course Cards" height="730" width="747">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7e46e6b5-2090-4bb2-bad9-fdf30297a789" class="text-block-content">
+    <p>By default, active course cards are automatically added by Canvas and display up to 20 courses. </p>
+<p>Dashboard courses are ordered alphabetically by course name; nicknames and course codes do not apply to course ordering. </p>
+<p><strong>Note:</strong> If you want to remove the default course card setting, you can <a href="/t5/Observer-Guide/How-do-I-customize-my-Courses-list-as-an-observer/ta-p/564" target="_blank">customize the course list</a> and manually select your favorite courses to display in the Dashboard. When you favorite at least one course, the Dashboard will only display favorited courses. Canvas will also continue to automatically favorite new published course enrollments.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-observing-students" data-step-uuid="cc92b79f-b4d4-495f-89bb-41cfebd670cd">
+    <h2 id="view-observing-students" class="step-title screensteps-heading">View Student Dashboards</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/330/372/original/b2196a91-03f3-4cec-b11c-057a2d473e93.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/330/372/medium/b2196a91-03f3-4cec-b11c-057a2d473e93.png" srcset="" alt="View Student Dashboards" height="347" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6f59da3c-0331-4816-a3bf-e8e315890506" class="text-block-content">
+    <p>To filter your dashboard by student, click the <strong>Student</strong> drop-down menu [1], then click the student's name [2]. The dashboard view displays based on your student's dashboard view.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_card_details" data-step-uuid="35d2bfbe-b0b0-4379-b8ba-2abc57302490">
+    <h2 id="view_card_details" class="step-title screensteps-heading">View Card Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/298/996/original/a29cbc54-c7b2-4413-b975-4ddad190a30f.png" srcset="" alt="View Card Details" height="637" width="616">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0d154da8-8a5f-4f6b-ab4e-233e655cd285" class="text-block-content">
+    <p>Course cards display an overview of course information including the course name, course code, term, and the student(s) you are observing in the course [1].</p>
+<p>Each card can include up to four tabs [2], which represent the four main Canvas features for student course activity: Assignments, Announcements, Discussions, and Files. These tabs mimic visibility and order in Course Navigation, so for instance, if an instructor hides the Announcements link, the Announcements tab will not display on the course card.</p>
+<p>An unread icon on the Discussions or Announcements tab indicates that there is a new discussion or announcement in the course [3]. The number in the icon indicates the number of new items.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_nickname" data-step-uuid="6eba51c1-9cde-4a5a-9669-b4d0a23e39ee">
+    <h2 id="create_nickname" class="step-title screensteps-heading">Create Nickname</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/298/994/original/ff1bf5d2-5de1-4d7c-af2e-bef89bd4fadc.png" srcset="" alt="Create Nickname" height="400" width="360">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9e73e0dd-4a91-4da9-a425-4734eef4f6f9" class="text-block-content">
+    <p>If one of your student's courses includes a long or confusing name, you can create a nickname for the course. Most courses are created using Student Information Systems (SIS) that generate course names based on terms, departments, and section numbers, and courses with similar names may be hard to distinguish.</p>
+<p>Course nicknames appear in the Dashboard, Course Navigation Menu, course breadcrumbs, and notification emails.</p>
+<p>A course nickname does not affect the course name at the account or course level; it only changes the name of the course for the individual user who created the nickname.</p>
+<p>If you need to know the original name of the course, you can hover over the nickname and the original name will appear. Additionally, the course code is not affected and always displays on the course card for course reference.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>This feature does not currently apply to the global Grades page and Dashboard sidebar elements such as the Coming Up feed.</li>
+<li>Course nicknames are limited to 59 characters.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage_nickname" data-step-uuid="574b9288-dfe9-4226-a6cb-76092f8ad930">
+    <h3 id="manage_nickname" class="step-title screensteps-heading">Manage Nickname</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/298/992/original/9e44daa9-df2f-4014-ab4f-6f038aacacf6.png" srcset="" alt="Manage Nickname" height="400" width="360">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_40621a2f-f83d-49b9-94dc-e8747148da93" class="text-block-content">
+    <p>To add a nickname, click the <strong>Options</strong> icon [1], then type the name in the nickname field [2]. Click the <strong>Apply </strong>button [3].</p>
+<p>To remove a nickname, open the card options and remove the nickname. The Nickname field will display the original name of the course.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="change_course_color" data-step-uuid="50e6f499-664f-4cf1-a08e-e5b5cddd642a">
+    <h2 id="change_course_color" class="step-title screensteps-heading">Change Course Color</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/298/989/original/2d66ff19-a8ed-458d-8d1a-d763c97a6fe5.png" srcset="" alt="Change Course Color" height="400" width="361">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e6ab3ecd-2238-4bf1-9fb3-6ec181f3b26e" class="text-block-content">
+    <p>Course cards can help you organize courses by customizing the color, which is synced with the color shown for the course in the Calendar. </p>
+<p>To change the color, click the card's <strong>Options</strong> icon [1], then select a new color. The check mark indicates the selected color [2], and the hex color code displays in the text field [3]. </p>
+<p>If you want to use a color not shown in the window, you can enter the color's hex code directly in in the text field. The hex field will display a warning icon if the hex code is not valid. Additionally, any variation of white is not accepted as a course color.</p>
+<p>Click the <strong>Apply</strong> button [4]. </p>
+<p><strong>Note: </strong>If you change the color for a course in the Calendar, the color also updates in the Dashboard.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="move-course-cards" data-step-uuid="ad5b80b9-b1fc-4eac-aefb-db10861e5b8a">
+    <h2 id="move-course-cards" class="step-title screensteps-heading">Move Course Cards</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/298/987/original/fc133e6f-c9ae-461b-b9b3-3660ea5344be.png" srcset="" alt="Reorder Course Cards" height="400" width="360">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4a6ad7e8-7c0c-4b39-b9ea-733a67eafb7c" class="text-block-content">
+    <p>You can also move a course card to another location in the Dashboard or remove a card from the Dashboard. Click the <strong>Options </strong>icon [1] and select the <strong>Move</strong> tab [2]. Depending on the placement of the existing card, you can move the card to the top of the Dashboard, ahead or behind a specific card, or to the bottom of the Dashboard [3].</p>
+<p>Once a dashboard card has been reordered, new courses added to the Dashboard always display at the end of all existing courses.</p>
+<p>To remove the course card from the Dashboard, click the <strong>Unfavorite </strong>option [4].</p>
+<p><strong>Note: </strong>The Unfavorite option only displays if you previously selected favorite courses.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="drag-and-drop-course-cards" data-step-uuid="be3d3d82-de0e-4262-b2ac-be40a0173e91">
+    <h3 id="drag-and-drop-course-cards" class="step-title screensteps-heading">Drag and Drop Course Cards</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/299/001/original/b4607738-b165-47a0-a117-5ad186e0c37d.png" srcset="" alt="Drag and Drop Course Cards" height="709" width="601">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c3bae18b-0098-4119-8237-3855b46b7d2c" class="text-block-content">
+    <p>You can also manually drag and drop a course card to another location in the Dashboard. Click a course card and drag it to the desired location. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_color_overlay" data-step-uuid="85c1b7b8-9f08-4dab-88da-0e9b13e4774f">
+    <h2 id="view_color_overlay" class="step-title screensteps-heading">View Color Overlay</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/299/003/original/241d0d1e-e368-404c-8659-714e34c6609b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/299/003/medium/241d0d1e-e368-404c-8659-714e34c6609b.png" srcset="" alt="View Color Overlay" height="372" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3b098292-ba97-4499-9919-b2ed18ca6b6f" class="text-block-content">
+    <p>Some courses may include an image for the course behind the course color [1]. By default, course cards with an image include a color overlay. To remove the color overlay from all course cards that contain an image, click the <strong>Options</strong> icon [2] and then deselect the <strong>Color Overlay</strong> option [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="remove_color_overlay" data-step-uuid="e48f2696-5e0b-400b-83f0-36b79e0f89f9">
+    <h3 id="remove_color_overlay" class="step-title screensteps-heading">Remove Color Overlay</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/299/006/original/f1bbb645-88af-4480-8169-70fc5fd10177.png" srcset="" alt="Remove Color Overlay" height="318" width="597">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_51145ff6-eedf-4417-ab17-7f3a5662237f" class="text-block-content">
+    <p>When the color overlay is removed, the course color will display as a circle behind the card's <strong>Options</strong> icon. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,226 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_DDFE2F60-221D-0135-BBA9-22000BC102FE" class="text-block-content">
+    <p>You can grant access to an individual student, several students, or the entire class to have extra attempts on a quiz. If your quiz is locked, you can also manually unlock the quiz for a student, even if the student has not yet taken the quiz.</p>
+<p>You can add extra attempts through accessing student quiz results or moderating the quiz. </p>
+<p><strong>Accessing Student Quiz Results</strong> is a quick way to allow an extra attempt for an individual student.</p>
+<p><strong>Moderating the quiz</strong> lets you allow extra attempts for individual students as well as multiple students at once. This option also allows you to grant extra attempts for students who have not yet taken the quiz. For timed quizzes, you can grant <a href="/t5/Instructor-Guide/Once-I-publish-a-timed-quiz-how-can-I-give-my-students-extra/ta-p/999" target="_blank">extra time for an attempt</a>. If your quiz options allow students to view results <a href="/t5/Instructor-Guide/What-options-can-I-set-in-a-quiz/ta-p/683" target="_blank">only once after each attempt</a>, you can also let students view quiz results one more time. </p>
+<p>You can also use these options to remove attempts as well. For instance, if you need to remove a student attempt, you can decrease the attempts accordingly.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>When extra attempts are given via the Moderate Quiz option, Canvas keeps the highest quiz score. You can keep the most recent score or an average of all scores by giving all students multiple attempts in the <a href="/t5/Instructor-Guide/What-options-can-I-set-in-a-quiz/ta-p/683" target="_blank">quiz scoring options.</a>
+</li>
+<li>Quiz availability dates still apply when moderating a quiz. If the Until date passes before a student completes their extra attempt(s), any in-progress quizzes auto-submit and the quiz closes, even if the student's attempt has not expired.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="C4B1BDA4-216C-49C0-9ACA-595A2D24609B">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/740/original/a1d74493-e389-4945-90e7-a29d59119a31.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DDFE66C0-221D-0135-BBAB-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quiz" data-step-uuid="C6771255-3953-4FCD-9736-49D366321A06">
+    <h2 id="open_quiz" class="step-title screensteps-heading">Open Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/253/236/original/b6c76aae-68d5-43b7-9c6a-8064d365a340.png" srcset="" alt="Open Quiz" height="276" width="771">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DDFEA0F0-221D-0135-BBAD-22000BC102FE" class="text-block-content">
+    <p>Click the name of the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_extra_attempt_through_student_quiz_results" data-step-uuid="537E5678-33FB-4161-A1E0-E1BFD1FABD47">
+    <h2 id="add_extra_attempt_through_student_quiz_results" class="step-title screensteps-heading">Add Extra Attempt through Student Quiz Results</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/247/846/original/9b313d99-a0b1-4430-9e14-b35d12d562f7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/247/846/medium/9b313d99-a0b1-4430-9e14-b35d12d562f7.png" srcset="" alt="Add Extra Attempts through Student Quiz Results" height="346" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DDFEDFE0-221D-0135-BBAF-22000BC102FE" class="text-block-content">
+    <p>To add an extra attempt for an individual student, click the <strong>Options</strong> icon [1], then select the <strong>Show Student Quiz Results</strong> link [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_student" data-step-uuid="67547894-C086-4AC8-A802-1DE72EEE4BC7">
+    <h3 id="select_student" class="step-title screensteps-heading">Select Student</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/701/original/9d22a68a-9ee4-4450-b1bd-059f6aaf3344.png" srcset="" alt="Select Student" height="361" width="824">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DDFF10E0-221D-0135-BBB1-22000BC102FE" class="text-block-content">
+    <p>Under the heading <em>Students who have taken the quiz,</em> click the name of the student.</p>
+<p><strong>Note</strong>: To give an extra attempt to students who have not taken the quiz, you need to add an attempt by moderating the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="allow_this_student_an_extra_attempt" data-step-uuid="6E9A4DBE-A24C-4F21-91E3-7D2B01CA0067">
+    <h3 id="allow_this_student_an_extra_attempt" class="step-title screensteps-heading">Allow this Student an Extra Attempt</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/957/804/original/dda956f0-0215-42c7-97d0-b59fefaa6649.png" srcset="" alt="Add Extra Attempt through Student Quiz Results" height="389" width="272">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DDFF4320-221D-0135-BBB3-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Allow this student an extra attempt </strong>button. The student will automatically receive an extra attempt for the quiz.</p>
+<p><strong>Note: </strong>Quiz availability dates still apply when moderating a quiz. If the Until date passes before a student completes their extra attempt, any in-progress quizzes auto-submit and the quiz closes, even if the student's attempt has not expired.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_extra_attempt_through_moderate_this_quiz" data-step-uuid="F45E594D-5D5F-479F-BA55-15C907E2676F">
+    <h2 id="add_extra_attempt_through_moderate_this_quiz" class="step-title screensteps-heading">Add Extra Attempt through Moderate This Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/247/844/original/2fcb0284-1d59-45fc-8a34-49e7c07dc50d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/247/844/medium/2fcb0284-1d59-45fc-8a34-49e7c07dc50d.png" srcset="" alt="Add Extra Attempt through Moderate This Quiz" height="237" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DDFF76D0-221D-0135-BBB5-22000BC102FE" class="text-block-content">
+    <p>To add attempts for one or more students, click the<strong> Moderate This Quiz</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="moderate_quiz" data-step-uuid="4380D6A3-11EE-4862-95B4-5A4001769FB8">
+    <h2 id="moderate_quiz" class="step-title screensteps-heading">Moderate Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/013/578/original/9e34f018-e25b-488f-b44a-e22139d9d9d6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/013/578/medium/9e34f018-e25b-488f-b44a-e22139d9d9d6.png" srcset="" alt="Moderate Quiz" height="342" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DDFFA710-221D-0135-BBB7-22000BC102FE" class="text-block-content">
+    <p>To moderate a quiz for one student, locate the student and click the <strong>Edit</strong> icon [1]. You can also filter students in your course by using the <strong>Search People</strong> field [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="4F88D611-9B8E-4761-93FB-33B5996F2D7E">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/705/352/original/4b6ec351-288e-4b40-8d46-b33b170b795e.png" srcset="" alt="Give Student Extension" height="415" width="496">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DDFFD880-221D-0135-BBB9-22000BC102FE" class="text-block-content">
+    <p>Type the number of extra attempts you'd like to give to the student in the <strong>Extra Attempts</strong> field [1]. </p>
+<p>If your quiz is locked because of availability dates, you need to unlock the quiz for the student by clicking the <strong>manually unlock the quiz for the next attempt</strong> checkbox and update the <a href="/t5/Instructor-Guide/How-do-I-make-a-quiz-available-before-or-after-the-due-date/ta-p/1241" target="_blank">availability dates for the individual student or the entire class</a> [2].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The Extra Attempts field only displays for quizzes that have set the number of attempts allowed for students.</li>
+<li>If a quiz requires an access code, students will still need to enter that code to begin their quiz attempt after it has been manually unlocked.</li>
+<li>Quiz availability dates still apply when moderating a quiz. If the Until date passes before a student completes their extra attempt, any in-progress quizzes auto-submit and the quiz closes, even if the student's attempt has not expired.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="adjust_additional_options" data-step-uuid="757b6db7-9bcf-4b02-a76e-2049e1f21019">
+    <h3 id="adjust_additional_options" class="step-title screensteps-heading">Adjust Additional Options</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/705/354/original/112d27db-6d2e-4acf-829a-cb3e70b19c17.png" srcset="" alt="Adjust Additional Options" height="461" width="496">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE000C40-221D-0135-BBBB-22000BC102FE" class="text-block-content">
+    <p>Depending on your quiz settings, the student extension box may contain additional options.</p>
+<p>If the quiz has a time limit and you want to give more time, type the number of extra minutes in the <strong>Extra Time on Every Attempt </strong>field [1]. <span style="color:rgb(29,29,29);">If the student hasn't taken the quiz, the extra time will be added to the student's initial attempt and additional attempts. Learn more about </span><a href="/t5/Instructor-Guide/Once-I-publish-a-timed-quiz-how-can-I-give-my-students-extra/ta-p/999" target="_blank"><span style="color:rgb(29,29,29);">managing extra time</span></a><span style="color:rgb(29,29,29);"> in timed quizzes.</span></p>
+<p>If the quiz is saved with the <a href="/t5/Instructor-Guide/What-options-can-I-set-in-a-quiz/ta-p/683" target="_blank">Only Once After Each Attempt option</a>, you can <strong>let the student see the quiz results one more time </strong>[2]. Results include both their responses and the correct answers. Once the student has viewed the quiz results, the results view extension will be reset and the results will be hidden again. Learn more about <a href="/t5/Instructor-Guide/What-options-can-I-set-in-a-quiz/ta-p/683" target="_blank">limiting quiz results</a>.</p>
+<p><strong>Note</strong>: If the Only Once option is selected and students have also been granted an extra attempt on the quiz, students will be able to view the results before they take the quiz, as well as after they complete the quiz. If students are allowed multiple attempts on a quiz, you may want to edit the quiz and select the <a href="/t5/Instructor-Guide/What-options-can-I-set-in-a-quiz/ta-p/683" target="_blank"><span style="color:rgb(38,38,38);">Allow Multiple Attempts</span></a><span style="color:rgb(38,38,38);"> </span>option, which gives an option to let students see their quiz responses only after the last attempt.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="save_changes" data-step-uuid="90b9db60-a50b-4908-b3b5-7e59b64454a1">
+    <h3 id="save_changes" class="step-title screensteps-heading">Save Changes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/716/original/869ae9a1-f887-47f3-b01b-db792b8a13a3.png" srcset="" alt="Save Changes" height="65" width="171">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE004150-221D-0135-BBBD-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="moderate_quiz_for_multiple_students" data-step-uuid="F70AFC55-0CEC-4254-ACA7-CE42A434E0B1">
+    <h2 id="moderate_quiz_for_multiple_students" class="step-title screensteps-heading">Moderate Quiz For Multiple Students</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/013/576/original/1493b0af-dc75-4224-bbbf-da1b12f19ab3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/013/576/medium/1493b0af-dc75-4224-bbbf-da1b12f19ab3.png" srcset="" alt="Moderate Quiz for Multiple Students" height="558" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE007650-221D-0135-BBBF-22000BC102FE" class="text-block-content">
+    <p>If you want to select multiple students, click the checkbox [1] next to each of their names. If you want to select all students, click the top checkbox [2]. Click <strong>Change Extensions for [#] Selected Students</strong> button [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="79E43D95-DBBE-4B0E-B651-DA07E91BDAA5">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/705/356/original/a4653055-ee2f-4a17-aab8-5a35471c1c0c.png" srcset="" alt="Give Multiple Students Extensions" height="461" width="496">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE00A6C0-221D-0135-BBC1-22000BC102FE" class="text-block-content">
+    <p>Complete the extensions for the students you selected. Remember, depending on your quiz settings, additional quiz options may display for all selected students.</p>
+<p>When you are finished, click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

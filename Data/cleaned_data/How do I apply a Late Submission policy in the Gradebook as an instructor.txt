@@ -1,0 +1,24 @@
+How do I apply a Late Submission policy in the Gradebook as an instructor
+Open Grades
+In Course Navigation, click the Grades link.
+Open Gradebook Settings
+Click the Settings icon.
+View Late Policies
+In Gradebook Settings, view the Late Policies tab.
+Apply Late Submission Policy
+Click the Automatically apply deduction to late submissions checkbox. 
+Note: Selecting this checkbox will automatically apply the deduction you set for any late submissions in the course that have previously been graded as well as apply to future late submissions you grade.
+Set Deduction
+To set the percentage you want late submissions to be deducted, set a percentage in the Late Submission Deduction field. Then set the interval for which you would like Canvas to deduct points in the Deduction Interval drop-down menu. Available interval options are Day or Hour.
+Set Lowest Possible Grade
+To manage the lowest possible grade threshold for the late policy, enter a percentage in the Lowest possible grade field. The lowest possible grade percentage is the lowest score a student can receive when late policy deductions are applied to grades entered above that percentage. Any grade awarded equal to or below that percentage will not receive late policy deductions.
+Apply Settings
+Click the Apply Settings button. 
+View Grades
+View the affected grades in the Gradebook.
+View Grade Detail Tray
+In the Grade Detail Tray, you can view details about the student's grade and adjust settings on each student's individual submission. 
+In the Grade info section, you can view or edit the grade you awarded the student for their submission, the late penalty deduction, and the student's final grade on the assignment.
+In the Status section, you can view how many days late the student submitted the assignment and adjust the amount of days late in the interval field. You can also manually change the submission to a status other than Late, but changing the status will remove any late penalties that had been automatically applied to the student's submission.
+View Late Policy Warning
+If you set a late policy, and then adjust any of the parameters, Canvas will display a warning to notify you that changing the late policy will affect previously graded submissions. To exclude a submission from the late penalty you will have to manually change a submission's status to something other than late in the Grade Detail Tray.

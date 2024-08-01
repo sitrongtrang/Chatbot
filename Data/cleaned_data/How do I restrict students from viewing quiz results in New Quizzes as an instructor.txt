@@ -1,0 +1,22 @@
+How do I restrict students from viewing quiz results in New Quizzes as an instructor
+Open Quiz
+To restrict students from view quiz results, find the quiz you want to open.
+To open the Build page, click the Options icon and then click the Build link.
+To create a new quiz, click the Add Quiz button.
+Open Settings
+Click the Settings tab.
+View Warning Message
+If students have already submitted the quiz, a warning message will appear on the Delivery Settings page.
+Hide Student Results
+By default, students can view all results for their quiz attempts. To hide quiz results from students, click the Restrict student result view button. When this option is enabled, instructors can manage what is displayed to students in their quiz results page. This includes answer choices, feedback, and scores.
+Note: Students may still see their quiz grades in the Gradebook when the Restrict student result view option is enabled. To hide grades from students in the Gradebook, you need to enable a posting policy in the Gradebook.
+Manage Result View Settings
+When the Restrict student result view setting is enabled, you can select quiz items that display to students. To display an item in student results, click the checkbox for the item. Any items that are not select remain hidden.
+Show Points
+To display the points awarded for the overall quiz and individual questions in the quiz results page, click the Show points awarded checkbox.
+To display the points possible for the overall quiz and individual questions in the quiz results page, click the Show points possible checkbox.
+Show Items & Questions
+To display quiz items and questions in the quiz results page, click the Show items and questions checkbox.
+If the Show items and questions option is enabled, you can also manage the option to display student responses and item feedback. To display student responses in the quiz results page, click the Show student response checkbox. To display item feedback in the quiz results page, click the Show item feedback checkbox.
+If the Show student response option is enabled, you can display to students if their response was correct or incorrect by clicking the Indicate response as correct/incorrect checkbox.
+If the Indicate response as correct/incorrect option is enabled, you can indicate correct answers when incorrect responses were selected by clicking the Show correct answer with incorrect response checkbox.

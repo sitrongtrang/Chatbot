@@ -1,0 +1,163 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_57ED2180-1CA2-0135-C199-22000AB760A3" class="text-block-content">
+    <p>Each Canvas account displays a default Canvas theme. As an admin, you can create and manage themes using Canvas templates, or you can <a href="/t5/Admin-Guide/How-do-I-create-a-theme-for-an-account-using-the-Theme-Editor/ta-p/242" target="_blank">create a theme</a> specifically designed for your institution.</p>
+<p>Custom branding is hosted at the account level, and by default, sub-accounts and their associated courses inherit account branding. However, you can choose to <a href="/t5/Admin-Guide/How-do-I-set-details-for-an-account/ta-p/194" target="_blank">allow sub-accounts to use the Theme Editor</a> to create their own custom themes. When the Theme Editor is enabled for sub-accounts, any design elements they do not specifically change will inherit the account level design. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you are a sub-account admin and the Themes link is not visible in Account Navigation, Themes has not been enabled for sub-accounts.</li>
+<li>By default, consortium child accounts inherit the theme applied in the parent account. However, a consortium child account can create a new theme for the child account.</li>
+<li>If you want to apply additional branding that is currently not supported in the Theme Editor, you can <a href="/t5/Admin-Guide/How-do-I-upload-custom-JavaScript-and-CSS-files-to-an-account/ta-p/253" target="_blank">upload custom cascading style sheets (CSS) and JavaScript (JS) files to your account</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="0f5d1702-d264-43b1-9042-c970e5c719c4">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57ED5800-1CA2-0135-C19B-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_themes" data-step-uuid="cbbd7e8a-07df-4074-9ef2-d22e1234acf9">
+    <h2 id="open_themes" class="step-title screensteps-heading">Open Themes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/794/256/original/bfa89ae8-153e-4368-ab1d-52d268b7478c.png" srcset="" alt="Open Theme Editor " height="302" width="179">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57ED8B70-1CA2-0135-C19D-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Themes </strong>link. </p>
+<p><strong>Note: </strong>If sub-account themes have been enabled, each sub-account also includes a <strong>Themes</strong> link. To open the Theme Editor for a sub-account, click the <strong>Sub-Accounts </strong>link to locate and open the sub-account, then click the sub-account's <strong>Themes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_theme_sections" data-step-uuid="699ae5f4-0dfa-446d-9ab9-e12c399bec5b">
+    <h2 id="view_theme_sections" class="step-title screensteps-heading">View Theme Sections</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/086/940/original/0e4327e7-eb10-4915-9fe3-f42c62b566af.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/086/940/medium/0e4327e7-eb10-4915-9fe3-f42c62b566af.png" srcset="" alt="View Theme Sections" height="446" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57EDBF10-1CA2-0135-C19F-22000AB760A3" class="text-block-content">
+    <p>The Themes page displays all available templates and saved themes for your institution. </p>
+<p>All default themes for Canvas display in the Templates section [1]. Default templates are used as a starting point for admins to create their own themes and cannot be deleted. </p>
+<p>Once a theme is saved in the account, the page displays the My Themes section [2]. My Themes shows all themes saved for the account. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_theme" data-step-uuid="aae6c0fd-1cbc-421e-8889-07495f2b726f">
+    <h2 id="open_theme" class="step-title screensteps-heading">Open Theme</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/086/942/original/49e007c8-0484-4bd7-bb59-c87e81bc55d3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/086/942/medium/49e007c8-0484-4bd7-bb59-c87e81bc55d3.png" srcset="" alt="Open Theme" height="446" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57EDEE70-1CA2-0135-C1A1-22000AB760A3" class="text-block-content">
+    <p>To open and view any theme, hover over the theme and click the <strong>Open in Theme Editor</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_theme" data-step-uuid="c9cd5109-e1e7-4194-b284-32b98f43248e">
+    <h2 id="create_theme" class="step-title screensteps-heading">Create Theme</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/086/944/original/ea01e16f-0482-46c7-a069-7f77a95fa49e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/086/944/medium/ea01e16f-0482-46c7-a069-7f77a95fa49e.png" srcset="" alt="Create Theme" height="266" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57EF1560-1CA2-0135-C1A3-22000AB760A3" class="text-block-content">
+    <p>To <a href="/t5/Admin-Guide/How-do-I-create-a-theme-for-an-account-using-the-Theme-Editor/ta-p/242" target="_blank">create a theme,</a> open and modify your preferred template [1], or click the <strong>Add Theme </strong>button [2]. You can also create a theme based on a saved template. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_current_theme" data-step-uuid="d67a72e6-2908-4790-a310-77c572adbaf0">
+    <h2 id="view_current_theme" class="step-title screensteps-heading">View Current Theme</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/086/950/original/8ee7c95b-b4d6-4d40-88cd-87f4a55d3ecd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/086/950/medium/8ee7c95b-b4d6-4d40-88cd-87f4a55d3ecd.png" srcset="" alt="View Current Theme" height="266" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57EF5B40-1CA2-0135-C1A5-22000AB760A3" class="text-block-content">
+    <p>Once a theme is applied to the account, the theme is marked as the current theme. The current theme includes a green bar and check mark icon below the name of the theme. If an account includes multiple saved themes, the active theme is ordered first. </p>
+<p>To apply a different theme, open and apply any other saved theme or create a new theme for the account.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-multiple-active-themes" data-step-uuid="50c3e215-1e58-4d8c-b787-e9d8e9afdb9b">
+    <h3 id="view-multiple-active-themes" class="step-title screensteps-heading">View Multiple Active Themes</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/086/948/original/cb430fbf-5f4c-4396-82f0-3943d3fb1f9d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/086/948/medium/cb430fbf-5f4c-4396-82f0-3943d3fb1f9d.png" srcset="" alt="View Multiple Active Themes" height="300" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9533e9b7-41af-4355-a1fa-771c9267b142" class="text-block-content">
+    <p>If multiple themes display an information icon [1], each theme includes the same set of values that are being applied as the current theme. To delete one of the themes, locate the theme and click the <strong>Delete</strong> icon. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete_theme" data-step-uuid="e6380192-f29e-47b3-b7d7-3a52d4f9ef90">
+    <h2 id="delete_theme" class="step-title screensteps-heading">Delete Theme</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/086/946/original/7ae6a7e6-f1dd-4591-881f-4e5301a20d23.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/086/946/medium/7ae6a7e6-f1dd-4591-881f-4e5301a20d23.png" srcset="" alt="Delete Theme" height="450" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57EF8FA0-1CA2-0135-C1A7-22000AB760A3" class="text-block-content">
+    <p>To delete a saved theme, click the <strong>Delete </strong>icon. </p>
+<p><strong>Note: </strong>The current theme cannot be deleted. To delete the current theme, open and apply any other saved theme or create a new theme for the account.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

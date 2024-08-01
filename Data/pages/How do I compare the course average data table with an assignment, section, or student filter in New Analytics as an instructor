@@ -1,0 +1,274 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_54b7c9bf-39aa-46c9-942e-34a4fe0e2a20" class="text-block-content">
+    <p>As part of <a href="/t5/Instructor-Guide/How-do-I-view-average-course-grade-analytics-in-a-data-table-in/ta-p/1199" target="_blank">viewing the average course grade in a data table</a>, you can use filters to compare section, student, and assignment results with the course average.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If you cannot view the New Analytics link in Course Navigation, you may have to make the link visible via the Navigation tab in Course Settings. If the New Analytics link is not available in the Navigation tab, your institution has disabled this feature.</li>
+<li>Data is refreshed in New Analytics every 24 hours. Please confirm the time the data was last updated in the course, as content may be outdated compared to recent course activity and student submissions.</li>
+<li>In order for New Analytics to display in Canvas, third-party cookies may need to be enabled in your browser settings.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_courses" data-step-uuid="d0696ab3-7611-47f8-bcf5-afe354e47f59">
+    <h2 id="open_courses" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/746/original/99c83ae9-9b12-42f9-b2e9-b795da78de66.png" srcset="" alt="Open Course" height="476" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f9fc8924-2270-43a9-b931-551755099aef" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-new-analytics" data-step-uuid="a0b69db4-f859-4f9e-bfaa-62890bf4da67">
+    <h2 id="open-new-analytics" class="step-title screensteps-heading">Open New Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/065/original/8d806728-3cb2-4308-8eba-a8365e12458e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/065/medium/8d806728-3cb2-4308-8eba-a8365e12458e.png" srcset="" alt="Open Analytics Beta" height="514" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f96f34f5-3f6d-4f17-b771-16cc0a82f188" class="text-block-content">
+    <p>To open New Analytics, click the <strong>New Analytics</strong> link in Course Navigation [1] or click the <strong>New Analytics</strong> button in the Course Home Page [2].</p>
+<p><strong>Note</strong>: If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-course-grade-analytics" data-step-uuid="7f174d42-a1a4-4a73-b603-5b0579e33f03">
+    <h2 id="open-course-grade-analytics" class="step-title screensteps-heading">Open Course Grade Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/067/original/c9a2d779-5457-4e2f-8194-14f86e95d913.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/067/medium/c9a2d779-5457-4e2f-8194-14f86e95d913.png" srcset="" alt="Open Course Grade Analytics" height="224" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c8848e18-314b-4771-bd60-649a8a3d67bc" class="text-block-content">
+    <p>Click the <strong>Course Grade</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-data-table" data-step-uuid="a4c572f9-3da3-41ae-8fe2-3fd8d94e9c9f">
+    <h2 id="view-data-table" class="step-title screensteps-heading">View Data Table</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/876/214/original/bb9858a5-152d-4fe4-a4a1-3d8b0ec7a132.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/876/214/medium/bb9858a5-152d-4fe4-a4a1-3d8b0ec7a132.png" srcset="" alt="View Data Table" height="182" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_862e0cc1-0288-49fc-8652-8ce315262c3a" class="text-block-content">
+    <p>Click the <strong>Chart Options</strong> icon [1] and click the <strong>Data Table</strong> option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-data" data-step-uuid="23c035d6-854a-4ebc-9fbd-51915e89c7c0">
+    <h2 id="filter-data" class="step-title screensteps-heading">Filter Data</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/876/199/original/1ba0a328-0860-4166-b50a-eeebd3277bd6.png" srcset="" alt="Filter Data" height="299" width="825">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92e59992-34ed-493c-ad3d-3152c109dbda" class="text-block-content">
+    <p>Click the <strong>Filter</strong> field [1]. Type the name of a section, student, or assignment [2]. Canvas will populate all matching results. </p>
+<p>When the item displays in the menu, click the item name [3].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/876/205/original/632fc1fa-25b1-46e2-9418-cb94b17667b6.png" srcset="" alt="Scroll with Filter" height="394" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ad1c7b7d-bd07-465c-84a0-c6cb7fcdfa2b" class="text-block-content">
+    <p>You can also click the <strong>Filter</strong> field and use the scroll to locate and select a section, student, or assignment. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-additional-filters" data-step-uuid="c877fd58-e590-474f-875f-a392e4939dee">
+    <h3 id="view-additional-filters" class="step-title screensteps-heading">View Additional Filters</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/876/207/original/668dbe76-26bb-484b-84b0-065e57ff2ea7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/876/207/medium/668dbe76-26bb-484b-84b0-065e57ff2ea7.png" srcset="" alt="View Additional Filters" height="306" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1dbf111b-779f-43c5-be9c-8146c9023b98" class="text-block-content">
+    <p>To add another filter, locate the additional filter. The Filter field supports up to three filters. The All Sections filter cannot be removed.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-by-assignment" data-step-uuid="1f0f7940-e446-4772-89bd-118ae54eef6a">
+    <h2 id="filter-by-assignment" class="step-title screensteps-heading">Filter by Assignment</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/876/191/original/c647943f-9eb9-4807-b0ec-e4ec4f25799f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/876/191/medium/c647943f-9eb9-4807-b0ec-e4ec4f25799f.png" srcset="" alt="Filter by Assignment Type Enabled" height="298" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ac9c660a-1109-4d0b-b9ad-da51f34fa5fe" class="text-block-content">
+    <p>By default, analytics selects all assignment types to display within the page [1]. Each assignment in the table displays the results for each selected assignment type. </p>
+<p>To view additional assignments within the filtered results, scroll within the table [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/876/201/original/9c2810f6-1e11-45eb-95c5-b9515bd92f15.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/876/201/medium/9c2810f6-1e11-45eb-95c5-b9515bd92f15.png" srcset="" alt="Filter by Assignment Type Removed" height="277" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9822971b-7c1f-40a9-85a4-2c2a321ed8b9" class="text-block-content">
+    <p>To filter by assignment type, remove the checkbox next to the assignment type. The table dynamically updates the results based on the assignment type selected or removed in the filter.</p>
+<p><strong>Note</strong>: At least one assignment type is required at all times.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-section-or-student-filtered-results" data-step-uuid="a61023af-16ce-4161-9736-af0cf3fc7cae">
+    <h2 id="view-section-or-student-filtered-results" class="step-title screensteps-heading">View Filtered Results</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/876/193/original/09201b2e-4235-464c-b1ae-00dc74ad1c34.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/876/193/medium/09201b2e-4235-464c-b1ae-00dc74ad1c34.png" srcset="" alt="View Filtered Results" height="324" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_611c1ca6-e2a0-4337-932d-99ee1e808480" class="text-block-content">
+    <p>The added filter displays in the analytics results. Each filter is identified by a specific color.</p>
+<p>Each filter and color are displayed on the side of the table. Each filter displays its data on a single row.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/876/197/original/7a7c9ecb-8268-428f-b90c-f625123e19e4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/876/197/medium/7a7c9ecb-8268-428f-b90c-f625123e19e4.png" srcset="" alt="Display Shapes" height="331" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ab5d8424-fa48-441e-b059-d56e8bfe38c3" class="text-block-content">
+    <p>When viewing filters, the default shape for each color is a circle, but you can choose to enable shapes for improved contrast by clicking the <strong>Chart Options </strong>icon [1] and selecting the <strong>Display Shapes</strong> option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-data-comparison" data-step-uuid="7ee23e5f-5ac3-4da1-bbd1-7f0328e570f7">
+    <h2 id="view-data-comparison" class="step-title screensteps-heading">View Data Comparison</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/876/187/original/c9901cb7-d56f-42c2-9a6c-31c1144a61f9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/876/187/medium/c9901cb7-d56f-42c2-9a6c-31c1144a61f9.png" srcset="" alt="View Data Comparison" height="263" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f115a817-257a-4b27-941a-d31788fcf878" class="text-block-content">
+    <p>To view specific data for a specific result, click the data percentage in the table.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-section-comparison" data-step-uuid="a01eac01-884c-4502-aef1-baaf156230e8">
+    <h3 id="view-section-comparison" class="step-title screensteps-heading">View Section Comparison</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/876/216/original/372d11b9-a903-4cc8-8714-587666775981.png" srcset="" alt="View Section Comparison" height="408" width="530">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0dbf06ba-6e9f-4e67-aad1-0348910e1c0b" class="text-block-content">
+    <p>In a section comparison, details provide additional metrics for the section name, assignment name, assignment due date, average grade for the assignment, low and high grades by percentage, and number of missing and late submissions. The percentage bar includes a tooltip that displays the number of students who achieved the average grade [1]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-send-a-message-to-all-students-based-on-specific-course/ta-p/1162" target="_blank">send a message to all students</a> in the section, click the <strong>Message </strong>icon [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/876/211/original/c3b4d305-1823-463c-a95b-8548007c8391.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/876/211/medium/c3b4d305-1823-463c-a95b-8548007c8391.png" srcset="" alt="View Submissions by Status" height="282" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9e2f985b-6901-4a7a-8af1-d39298e53393" class="text-block-content">
+    <p>When comparing sections, you can also view submissions by status: missing and late. To view the names of students within each status, click the link for the status [1]. The card displays the student information for the submission statuses, including the names and last login date for each student [2].</p>
+<p>To message these students specifically, click the <strong>Message</strong> icon [3].</p>
+<p>To export the submission status list as a CSV file, click the <strong>Download</strong> link [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-student-comparison" data-step-uuid="2e7f447b-6274-4d0a-a4b9-bb12c3677142">
+    <h3 id="view-student-comparison" class="step-title screensteps-heading">View Student Comparison</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/876/189/original/a25fa31f-cf87-48b9-9b27-0bd292fd91e9.png" srcset="" alt="View Student Comparison" height="360" width="525">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9f80b5dd-59f9-4fc6-acee-f42a8c31dfc7" class="text-block-content">
+    <p>In a student comparison, details provide additional metrics for the students full name, last access date, overall course grade percentage, assignment name and due date, the students grade for the assignment, and the status of the assignment and submission date.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-send-a-message-to-an-individual-student-in-New/ta-p/1187" target="_blank">send a message to the individual student</a>, click the <strong>Message</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export-table-csv" data-step-uuid="60044b43-242c-4e62-826b-25041ba1912a">
+    <h2 id="export-table-csv" class="step-title screensteps-heading">Export Table CSV</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/279/592/original/708fdf96-9d80-4551-9c8a-4298f494a4ee.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/279/592/medium/708fdf96-9d80-4551-9c8a-4298f494a4ee.png" srcset="" alt="Export Table CSV" height="119" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b93c157f-2f34-4a5d-b355-a4fa303594f1" class="text-block-content">
+    <p>To export analytics data as a CSV file, click the <strong>Download CSV</strong> button. </p>
+<p>CSV data is exported according to the filtered data.</p>
+<p>CSV files display a student's full name, sortable name, Canvas user ID, SIS user ID or email (if applicable), overall course grade, the percent that assignments have been on time, the last page view time, the last participation time, and the last time the student logged out.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

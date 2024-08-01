@@ -1,0 +1,165 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0D7CCB90-AAE2-0135-15C9-06467EE270FA" class="text-block-content">
+    <p>Each individual assignment column includes options to sort by grade and assignment status. By default, the Gradebook is sorted by student last name in ascending order.</p>
+<p>When sorting by status, each grade only displays one status. Sorting may affect any assignments that have been dropped according to a drop rule in the assignments page. The dominant status is always shown, so if an assignment is missing or late but is also a dropped grade, the dropped grade status will be shown. However, you can view the Grade Detail Tray to view additional details about the grade.</p>
+<p>The following keyboard shortcuts are supported in the Gradebook:</p>
+<ul>
+<li>S: Sort the grid on the currently selected column. Student name and Notes columns sort alphabetically. Other columns sort by grade (low to high).</li>
+<li>M: Open the menu for the currently selected column.</li>
+<li>Esc: Close the menu for the currently selected column.</li>
+<li>G: Open the Assignment Detail page for the currently selected assignment.</li>
+<li>C: Open the Grade Detail tray for the currently selected assignment.</li>
+</ul>
+<p><strong>Note: </strong>Sorting is not available for anonymous assignments.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-grades" data-step-uuid="d0fe1867-62c2-40fc-95ab-66773bf66b3d">
+    <h2 id="open-grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/014/original/83051f29-2149-4143-9f45-750fcff48b04.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c49763c7-7b70-4994-b611-7f600dfccfa2" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-assignment-menu" data-step-uuid="0a644519-597c-488a-b414-14c69afa0f1d">
+    <h2 id="open-assignment-menu" class="step-title screensteps-heading">Open Assignment Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/860/536/original/725ddad8-b80c-45af-b176-98429d87a7b4.png" srcset="" alt="Open Assignment Menu" height="300" width="297">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9adbd690-0158-4c3b-9ae7-fa29aa8836f6" class="text-block-content">
+    <p>Hover over the assignment column header and click the<strong> Options</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sort-column" data-step-uuid="9c78212c-e506-46ee-94fd-03070b1e2eec">
+    <h2 id="sort-column" class="step-title screensteps-heading">Sort Column</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/038/080/original/001401a8-a8a8-473b-af39-24f4e3d8ba99.png" srcset="" alt="Sort Column" height="396" width="404">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_be2253b2-978b-4816-9f1d-41d1b0c93ef5" class="text-block-content">
+    <p>Click the <strong>Sort by</strong> link, then select the option how you want to sort the column.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sort-by-grade" data-step-uuid="c43c75bf-c3c4-4ac9-a3e7-c46ed7369423">
+    <h2 id="sort-by-grade" class="step-title screensteps-heading">Sort by Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/038/082/original/2e78cada-e14a-48fe-987c-5dc322399da0.png" srcset="" alt="Sort by Grade" height="394" width="395">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3f435e0c-ad96-45f1-ab5c-90da97d564b8" class="text-block-content">
+    <p>To sort by grade, select the <strong>Grade - Low to High</strong> or <strong>Grade - High to Low</strong> option. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sort-by-missing" data-step-uuid="19e1626a-06f7-44ed-b082-6cabb6006ef2">
+    <h2 id="sort-by-missing" class="step-title screensteps-heading">Sort by Missing</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/038/084/original/230933bc-efeb-4f08-90a9-18cb69782080.png" srcset="" alt="Sort by Missing" height="397" width="396">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d45a49c5-ccf8-47ce-b3d1-67dd3741d6b9" class="text-block-content">
+    <p>To sort by missing status, select the <strong>Missing</strong> option. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sort-by-late" data-step-uuid="d6ce2652-0bb0-48a7-95f3-937fa9cd3a7e">
+    <h2 id="sort-by-late" class="step-title screensteps-heading">Sort by Late</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/038/086/original/e21f66f5-daf5-4c32-a2ee-4f4423569f17.png" srcset="" alt="Sort by Late" height="393" width="395">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_84392477-e10e-4bd4-b24d-5d3ed92ede2f" class="text-block-content">
+    <p>To sort by late status, select the <strong>Late</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sort-by-excused" data-step-uuid="c143ed58-0953-4940-b993-85ee5550de5b">
+    <h2 id="sort-by-excused" class="step-title screensteps-heading">Sort by Excused</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/038/088/original/fd4cbcd0-d5f3-43e8-9b0c-2cc0ed515829.png" srcset="" alt="Sort by Excused" height="393" width="398">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7a474703-06c0-4d44-935a-134f09efb7cc" class="text-block-content">
+    <p>To sort by excused status, select the <strong>Excused</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sort-by-unposted" data-step-uuid="65384ed1-9553-4583-8f66-410bdf043932">
+    <h2 id="sort-by-unposted" class="step-title screensteps-heading">Sort by Unposted</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/038/090/original/74726979-2da5-4554-99e0-ade430b4def9.png" srcset="" alt="Sort by Unposted" height="395" width="396">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5932d4f2-e8f5-4c64-93cd-88ed3d38bb10" class="text-block-content">
+    <p>To sort by unposted status, select the <strong>Unposted</strong> option.</p>
+<p><strong>Note:</strong> You can only filter by the unposted status when the grade posting policy is set to manually post grades. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sort-by-student-name" data-step-uuid="ccb11222-d617-4ce1-a3d6-893a4183df11">
+    <h2 id="sort-by-student-name" class="step-title screensteps-heading">Sort by Student Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/943/966/original/e9b950a9-f56f-4b40-9c99-52a3093332dc.png" srcset="" alt="Sort by Student Name" height="308" width="430">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fffd5715-2d89-477d-86c5-5e526d2f09de" class="text-block-content">
+    <p>To remove individual assignment column sorting options, sort by student name. </p>
+<p>Click the <strong>Options</strong> icon in the Student Name column [1], then select the <strong>Sort by</strong> option [2] and select a sorting option [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

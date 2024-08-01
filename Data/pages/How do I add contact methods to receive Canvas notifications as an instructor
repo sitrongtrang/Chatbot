@@ -1,0 +1,112 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_004AADD0-220C-0135-EAA5-22000BC102FE" class="text-block-content">
+    <p>In Canvas you can add contact methods to receive notifications. Contact methods allow you to select how you want to be notified when various events occur within a course. Notifications are applied to all courses in Canvas. Canvas supports notification through email, Slack, and various web services. </p>
+<p>Once you add contact methods, you can <a href="/t5/Instructor-Guide/How-do-I-manage-my-Canvas-notification-settings-as-an-instructor/ta-p/1222" target="_blank">set your own Notification Settings</a> to select how often you want to be notified of course events. </p>
+<p>View a <a href="https://community.canvaslms.com/t5/Video-Guide/Notification-Settings-All-Users/ta-p/383690" target="_blank">video about Notification Settings</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_settings" data-step-uuid="d80fbd25-1ca8-4952-a725-25deae86ba7e">
+    <h2 id="open_user_settings" class="step-title screensteps-heading">Open User Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/376/660/original/5d9b87b1-1b09-42a2-8d3d-eea636f5773e.png" srcset="" alt="Open User Settings" height="607" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_004AE490-220C-0135-EAA7-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Account</strong> link [1], then click the <strong>Settings </strong>link [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_ways_to_contact" data-step-uuid="a595fdce-54e4-4fc2-9716-debe4561808b">
+    <h2 id="add_ways_to_contact" class="step-title screensteps-heading">Add Ways to Contact</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/513/940/original/fb97dc39-bd64-4c54-b94b-7afe77516469.png" srcset="" alt="Add Ways to Contact" height="358" width="267">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_004B14F0-220C-0135-EAA9-22000BC102FE" class="text-block-content">
+    <p>In the Ways to Contact sidebar, your account displays the <a href="/t5/Instructor-Guide/How-do-I-change-my-default-email-address-in-my-user-account-as/ta-p/1183" target="_blank">default email</a> associated with your account, if any. However, if you want to <a href="/t5/Instructor-Guide/How-do-I-add-an-additional-email-address-as-a-contact-method-in/ta-p/1221" target="_blank">add an additional email address</a>, click the <strong>Add Email Address</strong> link [1].</p>
+<p>If you have multiple Canvas accounts, you can view the <strong>Add</strong> icon [2], which allows you to <a href="/t5/Instructor-Guide/How-do-I-merge-my-user-account-with-an-account-using-the-same/ta-p/1223" target="_blank">merge the address with another Canvas account</a> that uses the same email address.</p>
+<p>If you want to add <a href="/t5/Instructor-Guide/How-do-I-add-Slack-as-a-contact-method-in-Canvas-as-an/ta-p/822" target="_blank">Slack</a> as a contact method, click the <strong>Add Contact Method</strong> link [3]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_communication_warnings" data-step-uuid="37098faf-8e3b-4216-a6b3-6e1e9149de6b">
+    <h3 id="view_communication_warnings" class="step-title screensteps-heading">View Communication Warnings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/513/943/original/5d1b667d-fc08-41f4-a72e-863095dc4118.png" srcset="" alt="View Communication Warnings" height="380" width="267">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_004B4B90-220C-0135-EAAB-22000BC102FE" class="text-block-content">
+    <p>Canvas does not send notifications to communication channels that have bounced, which means the channel can no longer attempt to generate or send a notification. Bounces can occur from invalid addresses (caused by address typos, changed addresses, etc.) or blocked servers.</p>
+<p>In User Settings, Canvas may display the following icons to indicate a contact method's status:</p>
+<ul>
+<li>
+<strong>Warning </strong>[1]: indicates a bounced contact method. To correct the error, you can remove then re-add the contact method to your profile.</li>
+<li>
+<strong>Check Mark</strong> [2]: notifies you of an unconfirmed email address.</li>
+</ul>
+<p>To delete a contact method, click the <strong>Delete</strong> icon [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="link_to_web_services" data-step-uuid="53c25e91-c034-4cd0-9fba-a1a62388b53c">
+    <h2 id="link_to_web_services" class="step-title screensteps-heading">Link to Web Services</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/257/716/original/f0e98d2b-6f71-4c2a-9c38-916f28b78af5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/257/716/medium/f0e98d2b-6f71-4c2a-9c38-916f28b78af5.png" srcset="" alt="Link to Web Services" height="291" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_004B7CA0-220C-0135-EAAD-22000BC102FE" class="text-block-content">
+    <p>The Web Services portion on your settings page is divided into two columns. Services you have already registered, such as through the Ways to Contact section of your settings, or through course Collaborations and assignments, appear in the left column under the <strong>Registered Services </strong>heading [1]. Other services that are available for registration appear in the right column under the <strong>Other Services</strong> heading [2]. </p>
+<p>Learn how to add <a href="/t5/Instructor-Guide/How-do-I-connect-to-web-services-outside-of-Canvas-as-an/ta-p/738" target="_blank">web services</a> in Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_approved_integrations" data-step-uuid="e87d6578-3ebd-4e80-85d0-054058766d7c">
+    <h2 id="view_approved_integrations" class="step-title screensteps-heading">View Approved Integrations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/787/870/original/251d757e-ba66-4df8-97a0-6f1b5bb6d329.png" srcset="" alt="View Approved Integrations" height="309" width="770">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_004BB020-220C-0135-EAAF-22000BC102FE" class="text-block-content">
+    <p>When you allow third-party integrations to access your account, the Approved Integrations section will appear and display the authorized integrations. Each integration will show you the name of the app, the purpose (if one is noted), the date the app was last used, the date the app expires, and a link to view further details. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

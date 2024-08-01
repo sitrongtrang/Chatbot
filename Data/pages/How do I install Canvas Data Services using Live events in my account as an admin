@@ -1,0 +1,197 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_f1eba7a1-2444-4650-b06f-8fba75021ceb" class="text-block-content">
+    <p>As an admin, you can install Canvas Data Services in your account. Enabling Canvas Data Services creates a link in your Account Navigation, where you can <a href="/t5/Admin-Guide/How-do-I-use-Live-Events-with-the-Data-Services-Portal/ta-p/258" target="_blank">view and manage Canvas Data streams</a>. Canvas Data Services is separate feature from the <a href="/t5/Admin-Guide/How-do-I-use-the-Canvas-Data-1-Portal-for-an-account/ta-p/261" target="_blank">Canvas Data Portal</a>.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Installing an external tool is an account permission. If you cannot view the Developer Keys link in Account Navigation, this permission has is not enabled for your user account.</li>
+<li>Canvas Data streams may include personal information for Canvas users. You should only stream data to trusted services and endpoints.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="07df8b74-9f24-45bc-861c-73801060afb5">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_969837de-9205-4b43-bae6-0a78c9da94ba" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-developer-keys" data-step-uuid="a48ba3a1-c1bb-4715-92e2-eea37d8f8355">
+    <h2 id="open-developer-keys" class="step-title screensteps-heading">Open Developer Keys</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/867/535/original/7426f93d-19f3-4a59-aee6-0291873bc812.png" srcset="" alt="Open Developer Keys" height="267" width="174">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8c1e95a0-a6e1-4326-b62c-f446b5c055ed" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Developer Keys</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-inherited-tab" data-step-uuid="adf66ce9-52a9-4889-bd44-bce726d07ea5">
+    <h2 id="open-inherited-tab" class="step-title screensteps-heading">Open Inherited Tab</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/867/529/original/0fa1af1d-199d-4f8d-8978-d919097a7bf5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/867/529/medium/0fa1af1d-199d-4f8d-8978-d919097a7bf5.png" srcset="" alt="Open Inherited Tab" height="198" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_afdbb4c6-4b6d-441a-a46a-4cc0a62a9449" class="text-block-content">
+    <p>In the Developer Keys page, click the <strong>Inherited</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-canvas-data-services-key" data-step-uuid="184e1004-94be-4f5b-a768-0473f1a6e235">
+    <h2 id="view-canvas-data-services-key" class="step-title screensteps-heading">View Canvas Data Services Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/867/543/original/e28748f8-c784-4ef7-94f1-dacaa98011f6.png" srcset="" alt="View Canvas Data Services Key" height="425" width="766">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d9a5cdb7-9a95-4289-836f-a6155a8aa08e" class="text-block-content">
+    <p>Find the <strong>Canvas Data Services</strong> key [1]. If necessary, set the key to On by clicking the <strong>State</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="copy-client-id" data-step-uuid="0369aaa9-b2a2-447b-9f6a-a70f20351510">
+    <h3 id="copy-client-id" class="step-title screensteps-heading">Copy Client ID</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/867/539/original/9461976d-1859-45c5-9fde-7c899638fce0.png" srcset="" alt="Copy Client ID" height="268" width="752">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1c59856d-bdff-45d1-89b1-1f378d8f016c" class="text-block-content">
+    <p>Copy the client ID found in the Details column.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account-settings" data-step-uuid="1c737e0e-33ed-4804-90f9-83f4584da858">
+    <h2 id="open-account-settings" class="step-title screensteps-heading">Open Account Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/869/156/original/a22dd5ff-8adc-48b9-afce-6d4206ab4f66.png" srcset="" alt="Open Account Settings" height="273" width="184">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f55d7e4c-6c67-4a9b-a44e-69c5fe6ed827" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-app-configurations" data-step-uuid="634abd31-9025-4e14-999a-251fa88729c5">
+    <h2 id="open-app-configurations" class="step-title screensteps-heading">Open App Configurations</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/867/525/original/76a26154-ab45-4891-b0d2-3deea6de8d0f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/867/525/medium/76a26154-ab45-4891-b0d2-3deea6de8d0f.png" srcset="" alt="Open App Configurations" height="215" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3f639fe0-8953-404d-b822-cdae67770ee9" class="text-block-content">
+    <p>Click the <strong>Apps</strong> tab [1]. Then click the <strong>View App Configurations</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-app" data-step-uuid="5e447437-af46-425f-9823-30c24b73f2be">
+    <h3 id="add-app" class="step-title screensteps-heading">Add App</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/867/523/original/5667ec27-2f5d-489d-a9b5-6a2ea8c21633.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/867/523/medium/5667ec27-2f5d-489d-a9b5-6a2ea8c21633.png" srcset="" alt="Add App" height="215" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f16d9d8c-34f3-441a-9099-fde9d9e0a3d0" class="text-block-content">
+    <p>Click the <strong>Add App</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-app-details" data-step-uuid="943b718e-7ba5-4e62-90ce-5994074faff2">
+    <h2 id="enter-app-details" class="step-title screensteps-heading">Enter App Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/882/926/original/e1a58a03-8b32-4cbb-ae8f-f8148bca8ab7.png" srcset="" alt="Enter App Details" height="335" width="638">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_48b0b19c-83a3-466c-9b89-0bcc8f13ca4d" class="text-block-content">
+    <p>In the Configuration Type menu, select the <strong>By Client ID</strong> option [1].</p>
+<p>Then paste the Canvas Data Services client ID in the <strong>Client ID</strong> field [2].</p>
+<p>Click the <strong>Submit</strong> button [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="verify-app-installation" data-step-uuid="a4b02fc9-4a02-4697-aed0-f83cb0b45307">
+    <h3 id="verify-app-installation" class="step-title screensteps-heading">Verify App Installation</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/882/928/original/63b232f7-2fe0-4dfe-be18-fa11d4658076.png" srcset="" alt="Verify App Installation" height="235" width="632">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_266e27c0-367b-46ab-a3b2-553bea750d82" class="text-block-content">
+    <p>To verify that you want to install Canvas Data Services, click the <strong>Install</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-canvas-data-services" data-step-uuid="f4db64b2-a8a1-4f68-8cee-462eedfae6be">
+    <h2 id="view-canvas-data-services" class="step-title screensteps-heading">View Canvas Data Services</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/867/537/original/f632b262-642f-4254-82f0-988b9ce43aca.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/867/537/medium/f632b262-642f-4254-82f0-988b9ce43aca.png" srcset="" alt="View Canvas Data Services" height="596" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8841aaf2-78a4-4a06-8f56-b66a747d41e6" class="text-block-content">
+    <p>Once Data Services is installed, you can view the <strong>Data Services</strong> link in your Account Navigation [1].</p>
+<p>Clicking the Data Services link will open the <strong>Data Streaming Options</strong> page [2]. From this page, you can <a href="/t5/Admin-Guide/How-do-I-use-Live-Events-with-the-Data-Services-Portal/ta-p/258" target="_blank">create and manage data streams</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

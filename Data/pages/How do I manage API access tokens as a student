@@ -1,0 +1,146 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_97eec3c8-e550-479f-9710-488fc5f2f17c" class="text-block-content">
+    <p>You can manage API access tokens from your User Settings. Access tokens provide access to Canvas resources through the Canvas API. Access tokens can be generated automatically for third-party applications or created manually.</p>
+<p>Using the Canvas API allows the access token holder to access the same Canvas resources that you can access. For example, third-party applications, including devices you have used to open the Canvas Student app, are authorized to access Canvas on your behalf. For more information on using the Canvas API, view the <a href="https://canvas.instructure.com/doc/api/index.html" target="_blank" rel="nofollow noopener noreferrer">Canvas API documentation</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-user-settings" data-step-uuid="cb4680ce-d5cd-4b64-bff1-b6a170b1ca15">
+    <h2 id="open-user-settings" class="step-title screensteps-heading">Open User Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/304/932/original/087a0df3-d31a-4727-ba4d-768c98229a9e.png" srcset="" alt="Open User Settings" height="617" width="457">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_25168308-28e4-46bb-aaa5-746ce9f9194f" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Account</strong> link [1], then click the <strong>Settings</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-access-tokens" data-step-uuid="4602005b-0433-401f-8f89-dc8555c8203b">
+    <h2 id="view-access-tokens" class="step-title screensteps-heading">View Access Tokens</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/784/051/original/033d4573-b8e4-4b72-8d8e-4574fbc7447a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/784/051/medium/033d4573-b8e4-4b72-8d8e-4574fbc7447a.png" srcset="" alt="View Access Tokens" height="1103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a37854f4-8ef4-44b5-a137-e481388c73e3" class="text-block-content">
+    <p>Third-party applications with access tokens and user-generated access tokens are listed in the Approved Integrations section [1]. </p>
+<p>For each access token, you can view the name [2], purpose [3], expiration date [4], and date of last use [5].</p>
+<p><strong>Note:</strong> Mobile access tokens are generated for you when you log in to a Canvas mobile app and never expire. To remove access for a mobile application, the access token must be deleted.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-access-token" data-step-uuid="394153f2-65fe-400b-af29-338ac58944b0">
+    <h2 id="add-access-token" class="step-title screensteps-heading">Add Access Token</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/093/519/original/a8efe835-1f4b-4eb0-80a3-8e10df982df3.png" srcset="" alt="Add Access Token" height="494" width="773">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0fa44dc6-4dcd-45cf-bbec-62ee0301fc3e" class="text-block-content">
+    <p>To manually add an access token, click the <strong>Add New Access Token</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-token-details" data-step-uuid="cb0a61f6-5b28-4b18-bb51-f67029e16c36">
+    <h3 id="add-token-details" class="step-title screensteps-heading">Add Token Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/093/517/original/d324a9dc-95d2-4a78-9704-9102da2b8766.png" srcset="" alt="Add Token Details" height="437" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4ac28a75-7c5a-4a20-b46a-303e52f6fbe1" class="text-block-content">
+    <p>Enter a description for your access token in the Purpose field [1]. You can also select an expiration date by clicking the Calendar icon [2]. To generate a token with no expiration, leave the Expires field empty.</p>
+<p>To generate a new access token, click the <strong>Generate Token</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-access-token" data-step-uuid="acd2612f-6a3e-4086-b3c5-aa56a0595ad8">
+    <h2 id="view-access-token" class="step-title screensteps-heading">View Access Token</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/093/525/original/9f506a76-5dba-42c0-bda0-0afb73576dc9.png" srcset="" alt="View Access Token" height="556" width="777">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2cfc34f6-cfde-4f00-906a-e0d2c4e63618" class="text-block-content">
+    <p>View the token description [1]. To view details for the token, click the <strong>details</strong> link [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-token-details" data-step-uuid="083b1838-93aa-41b2-9535-feb02e75fd96">
+    <h3 id="view-token-details" class="step-title screensteps-heading">View Token Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/093/530/original/20ec3fae-b100-4469-8c22-514ab3f31479.png" srcset="" alt="View Token Details" height="398" width="715">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_535df2c9-dcf6-4a32-8a3f-2619eeb388f4" class="text-block-content">
+    <p>The access token details include a token that can be used to make API calls on your behalf [1].</p>
+<p>To regenerate an access token, click the <strong>Regenerate Token</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete-application" data-step-uuid="e2b36295-2dbc-4aad-9b9d-b103ebcfc5c5">
+    <h2 id="delete-application" class="step-title screensteps-heading">Delete Access Token</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/093/515/original/8b30e5a2-d27d-4803-8f27-029a7d58a273.png" srcset="" alt="Delete Application" height="327" width="775">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_26639ee6-0584-4173-91fe-510c61170359" class="text-block-content">
+    <p>To delete an access token, click the <strong>Delete</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-deletion" data-step-uuid="f69d00f5-6fb8-437a-a93c-9739848982f7">
+    <h3 id="confirm-deletion" class="step-title screensteps-heading">Confirm Deletion</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/093/513/original/5021c4ac-490c-4041-a5b7-892aa50ba086.png" srcset="" alt="Confirm Deletion" height="134" width="455">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ae2ee95-f816-40d7-b2e8-18ebe4a4429d" class="text-block-content">
+    <p>To confirm the deletion, click the <strong>OK</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

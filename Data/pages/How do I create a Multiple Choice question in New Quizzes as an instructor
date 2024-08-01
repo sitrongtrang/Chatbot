@@ -1,0 +1,220 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_a110da34-5e42-4937-9ab5-0a85fb36ffd7" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can create a Multiple Choice question in New Quizzes.<strong> </strong>To create a question with multiple correct answers, <a href="/t5/Instructor-Guide/How-do-I-create-a-Multiple-Answer-question-in-New-Quizzes/ta-p/977" target="_blank">create a Multiple Answer quiz question</a>.</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate Multiple Choice questions</a> to create a new question.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="3cd0aeb0-0744-43b1-aca7-0286f2b7aa0f">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/890/254/original/b988d485-ac1f-48f4-ae32-8b73fea4ab25.png" srcset="" alt="Add Question" height="415" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b8267b54-8e21-4f02-95a2-0aadd0ea5946" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="0b2a1821-4bf8-43f6-9488-4588a6b63872">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add Multiple Choice Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/776/099/original/5bd00b18-32f0-48a7-8148-4f92f218b69b.png" srcset="" alt="Add Multiple Choice Question" height="465" width="476">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0fc3a6f0-6912-41fb-8ab8-d6ca9dfa0eb1" class="text-block-content">
+    <p>Click the <strong>Add Multiple Choice</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-details" data-step-uuid="29b9023e-f90e-40b9-8ff7-469b4317703b">
+    <h2 id="add-question-details" class="step-title screensteps-heading">Add Question Title and Stem</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/261/original/3f24758e-f069-4b99-a08d-76bd618fc034.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/261/medium/3f24758e-f069-4b99-a08d-76bd618fc034.png" srcset="" alt="Add Question Title and Stem" height="112" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7f05c3eb-5969-4323-9903-f1582749b9dc" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Question Stem</strong> field [2], add a question stem. The question stem contains the question and, if necessary, additional instructions and information. You can <a href="/t5/Colder-Storage/How-do-I-use-the-Rich-Content-Editor-in-New-Quizzes/td-p/249724" target="_blank">use the Rich Content Editor</a> to format and add content to your question stem.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-answers" data-step-uuid="ac31dfb2-9b5d-4b8e-8911-3cef022d1276">
+    <h2 id="add-answers" class="step-title screensteps-heading">Add Answers</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/263/original/587b0cf2-c774-46bd-8d96-00e2115e0c04.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/263/medium/587b0cf2-c774-46bd-8d96-00e2115e0c04.png" srcset="" alt="Add Answers" height="295" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b70e3676-417c-4f41-adde-77d238d9003f" class="text-block-content">
+    <p>To add answers to a Multiple Choice question, type the answers in the <strong>Answer</strong> fields [1]. To select the correct answer, click the button next to that answer [2]. </p>
+<p>To add an additional answer choice, click the <strong>Add Answer</strong> link [3]. To delete an answer, click the <strong>Delete</strong> icon [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-answer-feedback" data-step-uuid="b4739138-1a4b-4ed1-835e-16aa32e633c2">
+    <h3 id="add-answer-feedback" class="step-title screensteps-heading">Add Answer Feedback</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/265/original/ffeca022-cc35-4c27-bb6b-25c0b765534d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/265/medium/ffeca022-cc35-4c27-bb6b-25c0b765534d.png" srcset="" alt="Add Answer Feedback" height="430" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ae4737af-32a9-4099-844a-676b13d31840" class="text-block-content">
+    <p>To provide students with feedback for a specific answer choice, click the <strong>Feedback</strong> icon [1]. Then enter the feedback in the Rich Content Editor [2].</p>
+<p>To save your feedback, click the <strong>Done</strong> button [3]. After feedback has been added to an answer, the Feedback icon will display as shaded [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-on-screen-calculator" data-step-uuid="b9f08b17-4b43-426e-a0e5-4597241f82c4">
+    <h2 id="enable-on-screen-calculator" class="step-title screensteps-heading">Enable On-Screen Calculator</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/303/369/original/5467923f-438f-4a7a-b6ae-55ac6f7b19d9.png" srcset="" alt="Enable On-Screen Calculator" height="335" width="703">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ea818005-f272-46d6-82a0-ad8077471132" class="text-block-content">
+    <p>To allow students to use an on-screen calculator for this question, click the <strong>Show on-screen calculator</strong> checkbox [1]. </p>
+<p>If you select this option, you can choose either a basic calculator [2] or scientific calculator [3]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="vary-points-by-answer" data-step-uuid="bff68e94-f47b-4f39-b450-0953291f5ef4">
+    <h2 id="vary-points-by-answer" class="step-title screensteps-heading">Vary Points by Answer</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/267/original/d05e79f7-f48e-4db9-9f7c-6333b2a13328.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/267/medium/d05e79f7-f48e-4db9-9f7c-6333b2a13328.png" srcset="" alt="Vary Points by Answer" height="488" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4f12672d-ef62-4774-b5f3-780c1f3334c7" class="text-block-content">
+    <p>To vary points based on student responses, click the <strong>Vary points by answer</strong> checkbox [1].</p>
+<p>With this option selected, you can set specific point totals for each option by typing the point value in the <strong>Points</strong> field [2] or using the arrows to increase or decrease the point value [3].</p>
+<p>When this option is enabled, the total points will display the highest point value possible for an answer [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="shuffle-answers" data-step-uuid="dc0d751e-5915-4199-85b6-f0de09f2c675">
+    <h2 id="shuffle-answers" class="step-title screensteps-heading">Shuffle Answers</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/270/original/64c3ac3a-1b30-47f4-9d32-6ec6fb31f5cd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/270/medium/64c3ac3a-1b30-47f4-9d32-6ec6fb31f5cd.png" srcset="" alt="Shuffle Answers" height="436" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0f12a410-b4d5-4f58-b172-d8756ba37e61" class="text-block-content">
+    <p>To shuffle answer choices, click the <strong>Shuffle Choices</strong> checkbox [1]. By default, all answer choices are shuffled and display as unlocked. To lock an answer in its location, click the <strong>Lock</strong> icon [2]. To unlock a locked question, click the <strong>Unlock</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="666f59b4-aa41-4a34-ae3c-7f806ca61974">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/272/original/3ac5ff03-4b18-4a0d-b070-fa2e0b94e941.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/272/medium/3ac5ff03-4b18-4a0d-b070-fa2e0b94e941.png" srcset="" alt="Align to Outcome" height="303" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cdaa5afb-7e0a-487b-8aa4-f5d67f8d7081" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="1fbc5297-2eda-4678-9a03-3a21f39fae48">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/274/original/b474eecc-9d7e-4099-b3ed-ff523a7479e3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/274/medium/b474eecc-9d7e-4099-b3ed-ff523a7479e3.png" srcset="" alt="Add to Item Bank" height="156" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2dad5856-2cce-4b99-80af-1e7cec9bc69e" class="text-block-content">
+    <p>If you want to save a question to use in other quizzes, you can add it to an item bank.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note:</strong> After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="078a714f-9384-4b44-acf2-532ba912e86e">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value and Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/276/original/d846389c-c042-41b7-b323-b2f664dd0451.png" srcset="" alt="Add Point Value and Feedback" height="234" width="749">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_55478d03-885b-4200-83e8-27b301551299" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-feedback-to-a-question-in-New-Quizzes/ta-p/591" target="_blank">leave feedback for students</a>, click the <strong>Feedback</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="3c7e688e-1cb3-435f-bd7e-88517eb8c80d">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/278/original/754b8837-51b7-4d7c-bdb1-eee705bbd411.png" srcset="" alt="Save Question" height="67" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9613e139-92fd-4858-92d6-f05f72bce9ec" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,25 @@
+How do I create and manage organizations in the Edu App Center as an admin
+Open Organizations
+Click the Admin link. In the drop-down menu, select the Organizations link.
+View Organizations
+View the organizations in your account. To filter organizations by name, click the Filters link.
+Each organization displays the number of apps, members, and administrators.
+Create Organization
+To create a new organization, click the Create Organization button.
+Enter Information
+Enter your organization name in the Organization Name field and website URL in the Website field.
+To display new apps by default, click the Automatically make new apps visible on the allow list checkbox. 
+Click the Save Changes button.
+Open Organization Details
+To view more information about an organization, click the View Organization button.
+View Details
+From the Details page, you can view the the organization's name, approval status, date created, and partner level.
+To view app information, click the Apps tab. To view organization members, click the Members tab. To view App Center tokens, click the App Center Tokens tab.
+To manage your allow list, click the Manage Allow List. button. To create a new app token, click the Create New Token button.
+To edit organization details, click the Edit button.
+Note: When an invalid access token is inputted into the Edu App Center, no tools display.
+Add Member
+To add a member to your organization, click the Add Member button.
+Enter Member Details
+Enter the email address for the member in the Email Address field. To designate the member as an administrator, click the Checked if this member is an administrator of the organization checkbox.
+To add the member to your organization, click the Save Changes button.

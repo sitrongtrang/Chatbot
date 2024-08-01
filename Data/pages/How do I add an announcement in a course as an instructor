@@ -1,0 +1,183 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_85807080-1BB5-0135-D500-22000B5A851D" class="text-block-content">
+    <p>You can create an announcement to share important information with all users within your course and with users in sections of a course. In your notification preferences, you can choose to receive notifications for announcements created by you as well as replies to announcements you've created.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Your course must be published for students to receive announcement notifications. If you import an announcement from another Canvas course, new announcement notifications will not send to course users.</li>
+<li>If an announcement is created before the course start date and the Students can only participate in the course between these dates setting is enabled, students will not receive announcement notifications.</li>
+<li>Notifications are not sent for announcements created before the course has been published.</li>
+<li>Student app users cannot view announcements on the homepage. However, they can view announcements in the course's Announcements navigation.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I add an announcement in a course?" src="https://community.instructuremedia.com/embed/ccba5047-7ac6-4203-a9f4-79d6983641a5" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_announcements" data-step-uuid="D9A1AFA2-5C45-4042-9D74-0E830ED02724">
+    <h2 id="open_announcements" class="step-title screensteps-heading">Open Announcements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/740/356/original/177230e5-4c7e-4562-9d0e-03ea249c94f6.png" srcset="" alt="Open Announcements" height="267" width="179">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85817150-1BB5-0135-D502-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Announcements</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_announcement" data-step-uuid="998D8591-DA4F-48D7-9A86-3274EFA08D96">
+    <h2 id="add_announcement" class="step-title screensteps-heading">Add Announcement</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/493/232/original/03a292e9-5db6-4af9-8a98-61bf2ca2cbcd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/493/232/medium/03a292e9-5db6-4af9-8a98-61bf2ca2cbcd.png" srcset="" alt="Add Announcement" height="63" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_858305F0-1BB5-0135-D504-22000B5A851D" class="text-block-content">
+    <p>Click the<strong> Add Announcement</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_announcement" data-step-uuid="67EA692D-72D8-4491-9DFD-77A1F1010A72">
+    <h2 id="create_announcement" class="step-title screensteps-heading">Create Announcement</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/036/688/original/d942236b-4917-4c9d-95e7-c7ee907de3a4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/036/688/medium/d942236b-4917-4c9d-95e7-c7ee907de3a4.png" srcset="" alt="Create Announcement" height="474" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85849690-1BB5-0135-D506-22000B5A851D" class="text-block-content">
+    <p>Type a title for the announcement in the topic title field [1] and add content in the Rich Content Editor [2]. </p>
+<p><strong>Note:</strong> The Rich Content Editor includes a word count display below the bottom right corner of the text box.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-sections" data-step-uuid="74e5f5eb-a6fd-433a-b345-189caac6d9d7">
+    <h3 id="select-sections" class="step-title screensteps-heading">Select Sections</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/906/318/original/b4ae2eab-ff2e-4851-bd7f-d354f531cc6a.png" srcset="" alt="Select Sections" height="95" width="698">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6b4f38e0-8f8d-4500-9ef0-f6e42c058459" class="text-block-content">
+    <p>By default, Canvas will send your announcement to all sections within your course. To select specific sections for your announcement, click the <strong>Post to</strong> drop-down menu and select sections from the list provided.  </p>
+<p><strong>Note: </strong>If your course does not have sections, Canvas will still show the All Sections option, and all course users can view the announcement. </p>
+<p>Teachers and TA's are notified of all new course Announcements, unless they are Section restricted.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-attachment" data-step-uuid="158065f4-9612-4d77-bbb0-13b8b2f550f5">
+    <h3 id="add-attachment" class="step-title screensteps-heading">Add Attachment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/846/895/original/f7a0d230-e597-4852-bcc3-926899b5339d.png" srcset="" alt="Add Attachment" height="532" width="344">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_525de1b1-fa15-499c-aebf-e4e9698a8c6a" class="text-block-content">
+    <p>To add an attachment to your discussion, click the <strong>Choose File </strong>button [1]. </p>
+<p>If required by your institution, you will need to select usage right settings for your attachment. To manage usage right settings, click the <strong>Set usage rights</strong> icon [2].</p>
+<p>In the <strong>Usage Right </strong>drop-down menu [3], select one of five usage rights. If you are an instructor and are not sure which usage right applies to your file, please consult your institutional admin for guidance:</p>
+<ul>
+<li>I hold the copyright (original content created by you)</li>
+<li>I have obtained permission to use the file (authorized permission by the author)</li>
+<li>The material is in the public domain (explicitly assigned to public domain, cannot be copyrighted, or is no longer protected by copyright)</li>
+<li>The material is subject to an exception - e.g. fair use, the right to quote, or others under applicable copyright laws (excerpt or summary used for commentary, news reporting, research, or analysis in education)</li>
+<li>The material is licensed under <a href="https://creativecommons.org/licenses/" target="_blank" rel="nofollow noopener noreferrer">Creative Commons</a>; this option also requires setting a specific Creative Commons license</li>
+</ul>
+<p>If known, enter the copyright holder information in the <strong>Copyright Holder </strong>field [4].</p>
+<p>To save your usage right settings, click the <strong>Save</strong> button [5]. You can edit usage right settings by clicking the Set usage rights icon.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-announcement-options" data-step-uuid="0526bf9d-ec94-4c60-9fc1-814717fe8d0c">
+    <h3 id="select-announcement-options" class="step-title screensteps-heading">Select Options</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/544/872/original/ccd36279-ea78-42b8-a687-14dad4bd49a2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/544/872/medium/ccd36279-ea78-42b8-a687-14dad4bd49a2.png" srcset="" alt="Select Announcement Options" height="366" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8023693c-ee34-4aa2-b059-543720026c84" class="text-block-content">
+    <p>In the Options section, you can select various options for your announcement. </p>
+<p>Additionally, you can <a href="/t5/Instructor-Guide/How-do-I-allow-or-disallow-announcement-replies-in-a-course/ta-p/707" target="_blank">allow users to comment</a> on the announcement [1] and require students to reply to a post before seeing other replies [2]. </p>
+<p>You can also enable an announcement podcast feed [3] and allow students to <a href="/t5/Instructor-Guide/How-do-I-allow-students-to-like-replies-in-a-course-announcement/ta-p/1220" target="_blank">like announcement replies</a> [4].</p>
+<p>You can <a href="/t5/Instructor-Guide/How-do-I-delay-posting-an-announcement-until-a-specific-date-in/ta-p/1203" target="_blank">delay the posting of your announcement</a> [5], which allows you to schedule the announcement for a future date.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>By default, comments are not allowed in announcements unless the Allow users to comment checkbox is selected.</li>
+<li>The Allow users to comment option is persistent, meaning the option you select when creating or editing an announcement will carry over when you create a new announcement in the course. However, the Participants must respond to the topic before viewing other replies option is not persistent.</li>
+<li>Comment options may not be available to you if announcement comments are disabled in your course. <a href="/t5/Instructor-Guide/How-do-I-disable-announcement-replies-for-an-entire-course/ta-p/904" target="_blank">Check your Course Settings</a> if you cannot view these checkboxes. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_announcement" data-step-uuid="BF3BB296-186F-496C-9FBA-1920D8B8BB4F">
+    <h2 id="save_announcement" class="step-title screensteps-heading">Publish Announcement</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/809/946/original/994d5f50-af00-4801-9291-8c22f807ed86.png" srcset="" alt="Publish Announcement" height="75" width="199">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85862CF0-1BB5-0135-D508-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Publish</strong> button.</p>
+<p><strong>Note</strong>: Unless you are using the delay posting option in Announcements, once you click Publish, your announcement will immediately be posted in your course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_announcement" data-step-uuid="BFACF4E8-6B5D-4CD8-B46C-CA40A367D55C">
+    <h2 id="view_announcement" class="step-title screensteps-heading">View Announcement</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/478/009/original/2eaa41c9-74eb-45af-9628-546335957eb8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/478/009/medium/2eaa41c9-74eb-45af-9628-546335957eb8.png" srcset="" alt="View Announcement" height="191" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85876DE0-1BB5-0135-D50A-22000B5A851D" class="text-block-content">
+    <p>View the announcement in the Announcements Index Page.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

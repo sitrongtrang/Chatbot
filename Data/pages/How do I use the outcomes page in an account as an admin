@@ -1,0 +1,113 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_d4008cf2-d3f5-4df2-af02-4bc454ffa0e8" class="text-block-content">
+    <p>Outcomes are used to track mastery in an account or course. From the account outcomes page, you can create and manage outcomes, create outcome groups, import outcomes, and manage rubrics for an account.</p>
+<p>This lesson displays how to use the Outcomes page in the classic Outcomes page view. If the Outcomes page in your account displays differently than the images in this lesson, <a href="/t5/Admin-Guide/How-do-I-use-the-outcomes-page-in-an-account-in-Improved/ta-p/486333" target="_blank">learn how to use the account outcomes page in an account</a> that has enabled the Improved Outcomes Management feature option.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="ce83cf2f-dcd1-4afc-aff2-7dc9f43bc86c">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e535bfd7-bf45-4ea4-a1b7-abd95f899e1a" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="b9e5b628-1a86-4408-be37-070e2d147c9d">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/794/original/dff9a445-a108-446c-a0be-b62b014263fb.png" srcset="" alt="Open Outcomes" height="233" width="137">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_23d2b755-82fd-427c-958d-57b612d7c7d3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcomes" data-step-uuid="a1d2250a-3957-495a-a701-26d82117551a">
+    <h2 id="view-outcomes" class="step-title screensteps-heading">View Outcomes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/779/original/e915e289-24db-4777-8e27-600f1e244065.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/779/medium/e915e289-24db-4777-8e27-600f1e244065.png" srcset="" alt="View Outcomes" height="477" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bff3515a-6f5f-4b6c-9596-0d6c75ac5e88" class="text-block-content">
+    <p>On the outcomes page, you can <a href="/t5/Admin-Guide/How-do-I-create-an-outcome-for-an-account/ta-p/128" target="_blank">create a new outcome</a> [1], <a href="/t5/Admin-Guide/How-do-I-create-outcome-groups-for-an-account/ta-p/129" target="_blank">create a new outcome group</a> [2], and <a href="/t5/Admin-Guide/How-do-I-find-an-existing-outcome-to-add-to-an-account/ta-p/254" target="_blank">find an outcome</a> [3].</p>
+<p>If you have permission, you can <a href="/t5/Admin-Guide/How-do-I-import-outcomes-for-an-account/ta-p/267" target="_blank">import an outcome</a> [4].</p>
+<p>To view details about an outcome group, click the name of the outcome group [5]. </p>
+<p>To view an outcome, click the name of the outcome [6].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcome" data-step-uuid="255d4989-11ff-4e0b-a17d-76a598ddd55f">
+    <h2 id="view-outcome" class="step-title screensteps-heading">View Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/744/645/original/8b506f33-1234-4755-ad2a-c79624b5a52a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/744/645/medium/8b506f33-1234-4755-ad2a-c79624b5a52a.png" srcset="" alt="View Outcome" height="616" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eb1183e4-92d7-4b02-a35e-539e8ef8cee2" class="text-block-content">
+    <p>To view an outcome, click the name of the outcome [1].</p>
+<p>You can view the outcome description [2], criterion ratings [3], points needed for mastery [4], the calculation method [5], and the calculation method explanation [6].</p>
+<p>To view items aligned with the outcome and outcome artifacts, click the outcome title [7].</p>
+<p><strong>Note: </strong>If mastery scales and calculation methods do not display for your outcome, your institution has enabled account-wide and/or course-wide <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-scales-in-an-account/ta-p/429017" target="_blank">mastery scales</a> and <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-calculations-in-an-account/ta-p/429016" target="_blank">calculation methods</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-outcome" data-step-uuid="91d45ab6-3fc1-491c-9ec6-e4cc29579189">
+    <h2 id="manage-outcome" class="step-title screensteps-heading">Manage Outcome and Outcome Group</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/740/923/original/f13bb80e-5e29-46a9-9f76-4ba75baa2ad6.png" srcset="" alt="Manage Outcome" height="370" width="626">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fb30fcea-3208-489b-947f-fd374db1c4e3" class="text-block-content">
+    <p>You can move [1], edit [2], or delete [3] an outcome or outcome group.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>You cannot delete an outcome that has been used to assess students.</li>
+<li>If a rubric includes an outcome that has been used to assess a submission, edits made to the outcome are not reflected in previous rubric assessments.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

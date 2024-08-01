@@ -1,0 +1,108 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_16AEE440-1CAB-0135-C986-22000B5A851D" class="text-block-content">
+    <p>By default, users can login in directly to Canvas using Canvas authentication. However, all Canvas users must have a Canvas account before they can log in to Canvas. </p>
+<p>Canvas authentication includes an option called self registration, which displays a registration banner on your account login page that allows users to create their own Canvas accounts. By default, Canvas authentication is enabled for all institutions, but self registration is disabled. You can also require users to complete a Captcha form before completing the registration process. You can also require Multi-Factor Authentication (MFA).</p>
+<p>Note that Canvas authentication can be used without self registration. For instance, some institutions want to create user accounts with a student information system (SIS) and <a href="/t5/Admin-Guide/How-do-I-import-SIS-data-to-a-Canvas-account/ta-p/98" target="_blank">import SIS data</a> into Canvas but allow users to log in using the default Canvas login page. Canvas authentication also supports <a href="/t5/Admin-Guide/How-do-I-configure-SSO-settings-for-my-authentication-provider/ta-p/217" target="_blank">Single Sign On (SSO) authentication</a>, which allows you to customize your login information, and can be used in addition to <a href="/t5/Admin-Guide/How-do-I-configure-third-party-authentication-providers-for-a/ta-p/225" target="_blank">third-party authentication providers</a>.</p>
+<p><strong>Self Registration Accounts</strong></p>
+<p>You can allow self registration for all user roles (students, instructors, observers) or only observer roles.</p>
+<ul>
+<li>
+<strong>Student Accounts</strong>: Self registration is used with self enrollment. When users sign up as a student, a join code is required to access the course. Self enrollment creates the join code, which instructors can give to students to sign up in the course. Learn more about <a href="/t5/Admin-Guide/What-user-enrollment-and-registration-options-are-available-in/ta-p/256" target="_blank">self enrollment options</a> in your account.</li>
+<li>
+<strong>Instructor Accounts</strong>: Instructors can sign up for a Canvas account through self registration if your institution does not already create instructor accounts.</li>
+<li>
+<strong>Observer Accounts</strong>: Parents and other users who want to observe a student sign up through Canvas through the observer role.</li>
+</ul>
+<p> </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Canvas authentication can only be deleted from the authentication page if another third party authentication provider has been enabled. If the only existing authentication provider is deleted, Canvas authentication will be restored as the default provider.</li>
+<li>Canvas authentication passwords require a minimum of eight characters. </li>
+<li>If the All Account Types option is selected, it is recommended to require users to complete a Captcha form to avoid the creation of spam users.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="ae4b7617-b727-4378-a10d-2d2f5cfae961">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16AF4580-1CAB-0135-C988-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_authentication" data-step-uuid="5a49ea1d-b6f9-4829-b0dd-31a0d99c657a">
+    <h2 id="open_authentication" class="step-title screensteps-heading">Open Authentication</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/797/034/original/open-authentication.png" srcset="https://media.screensteps.com/image_assets/assets/005/797/034/original/open-authentication.png 2.0x, https://media.screensteps.com/image_assets/assets/005/797/034/original_lowres/open-authentication.png" alt="Open Authentication" height="274" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16AF7C30-1CAB-0135-C98A-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Authentication </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="change_self_registration" data-step-uuid="6357382f-d708-4761-bc25-0fc6e642e749">
+    <h2 id="change_self_registration" class="step-title screensteps-heading">Configure Self Registration</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/527/832/original/e1e21390-b280-4d15-99f7-1ba7fbfae3c8.png" srcset="" alt="Configure Self Registration" height="507" width="698">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16AFB0F0-1CAB-0135-C98C-22000B5A851D" class="text-block-content">
+    <p>By default, Self Registration is disabled. To enable Self Registration, select the radio button for the registration type for your account. </p>
+<p>To allow self registration for all users, select the <strong>All Account Types</strong> option [1]. To limit self registration to observers (including parents), select the <strong>Observer Accounts Only</strong> option [2].</p>
+<p>To require users to complete a Captcha form before completing the registation process, click the <strong>Require Captcha for Self Registration</strong> checkbox [3].</p>
+<p>Canvas enforces MFA is functionally equivalent to the legacy UIs checkbox for MFA Required being enabled. </p>
+<p>To have Canvas enforce the MFA, select the <strong>Canvas enforces MFA </strong>option [4].  </p>
+<p>To have the user opt in, select <strong>User can opt in to MFA </strong>option [5].</p>
+<p><strong>Note:</strong> If the All Account Types option is selected, it is recommended to require users to complete a Captcha form to avoid the creation of spam users.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_self_registration" data-step-uuid="1a9225cc-e876-47fd-be20-cf7bee6b50aa">
+    <h2 id="save_self_registration" class="step-title screensteps-heading">Save Self Registration</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/097/original/55a80bec-084d-45d7-8841-c79444e71b8e.png" srcset="" alt="Save Self Registration" height="69" width="91">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16AFEA90-1CAB-0135-C98E-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

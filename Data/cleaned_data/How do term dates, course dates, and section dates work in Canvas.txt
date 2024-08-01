@@ -1,0 +1,29 @@
+How do term dates, course dates, and section dates work in Canvas
+View Term Details
+In the Terms page, administrators can view term dates. Term dates define a fixed period of time for an institution where users can participate in a course. Term dates can also be used for semesters, trimesters, or quarters. In this example, the term runs from July 2, 2018, to December 23, 2018.
+Administrators have control over when specific users can participate in the courses. Unless otherwise specified, Students inherit the term start and term end date, while Teachers, TAs and Designers dates inherit a whenever start date to the term end date. Whenever means that these user roles can always access a course before the term begins.
+Note: Instructors and students cannot view the Terms page. However, instructors can view term dates in Course Settings. Admins should make sure instructors and students are aware of term dates for their institution publicly, such as through a course catalog, website posting, or other distribution method.
+Warning about End Term Dates
+Again, in the example about access dates, the ending dates would be as follows:
+Instructors (teachers) can access courses until 12:00 am on December 31, 2018 (last full day is December 30).
+Everyone else with a term end date can access courses until 12:00 am on December 23, 2018 (last full day is December 22).
+When a term has concluded, associated courses are placed in a read-only (archived) state. Read-only means that a course is not available for submitting assignments, posting discussions, uploading files, grading, or any other action-based task within a course. 
+Note: Canvas currently does not generate a warning about term dates as it does for course dates.
+View Future Enrollments
+Once a user is added to a course, terms set default dates for when users have access to courses assigned to that term. Access relates to published courses.
+If a course is unpublished or does not include a link, students cannot have access to any course content until the start date of the term. 
+If a course is published, students are able to view content before the start of the term. However, they cannot fully participate in the course, such as submitting an assignment or contributing to a discussion topic. On the start date of the term, students can fully participate in the course. 
+Some institutions may choose to publish their courses on the same day as the term start date, so prior access to course content is not an issue. However, some prefer to allow instructors to publish their own courses ahead of the term start date and restrict student access to the course completely before the course begins. Students can also be restricted from being able to view a course after it has ended.
+View Course Dates
+Courses may be assigned to the Default Term or a specific term. By default, course dates default to the term dates. However, course dates can be set to override the term dates or compliment the term dates. Both admins and instructors can manage these dates.
+To override the term dates, select the Course option from the Participation dropdown. Course participation dates can be set within the term or extend past the term. Adding a course participation start or end date adds or removes the course to or from the Card View Dashboard (if the course is marked as favorite), and students can still participate in the course by accessing their Courses list until the end of the term. The course is in a read-only state for students and observers outside of the course participation dates.
+For example, if the term dates were August 31 to December 20, the instructor could set access to the course a week later and end the course a week earlier. By shortening the course participation start and end dates, students will only have read-only access to the course before and after those dates. The instructor can still manage course content and grades before the term end date set for instructors.
+Admins and instructors can also change student access settings to allow or restrict students from viewing the course before the start or end date.
+Notes: 
+If a course participation end date is set to midnight, a warning message displays.
+Course dates determine placement in a student's Courses list (past, current, or future enrollment).
+View Section Dates
+The Section dates are the most mobile. Sections can be moved from term to term or course to course. If section enrollments need to be moved, such as for cross-listing a section into another course, section enrollments should be moved before students submit any coursework, as course participation cannot be transferred across sections. 
+Section dates default to the course dates, unless you also set up section override dates. 
+Override dates are only created if the Student Participation checkbox is selected as part of creating section start and end dates (both dates are required).
+Sections can have various start and end dates. For example, Section 2 could be set with a start date of September 26, 2018, and an end date of December 14, 2018. Sections within the same course can share course material and have varied due dates.

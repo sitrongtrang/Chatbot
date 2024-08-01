@@ -1,0 +1,36 @@
+How do I set up Canvas Data 2 with an API client (Postman) as an admin
+Use Canvas Data 2 API Resources
+View Canvas Data 2 Usage Workflow resource document
+API specification and schema
+Step by step video with Postman
+Example with Postman using a Client ID and Client Secret pair for authorization: collection and environment file
+Notes: 
+The Postman reference solutions are examples and were created to demonstrate and make it easier to quick start and try out the API flow. We are not committing to maintain it for this community. You can use any API client of your choice.
+If you are using Postman client then it is good to know that if you download the OpenAPI spec, it can be directly imported into Postman (and most probably other API clients have similar features).
+Generate Client ID and Secret
+Before using Postman, you need to generate a Client ID and Secret for Canvas Data 2.
+Import Collection File
+In Postman, click the Collections link and then click the Import button. 
+Download and import the Postman Collection file.
+Upload Collection File
+Click the Upload Files button.
+Locate the collection file and click the Open button.
+Import Postman Collection File
+Click the Import button.
+View Collection
+View the collection file.
+Import Environment File
+In Postman, click the Environments link and then click the Import button. 
+Download and import the Postman Environment file.
+Upload Files
+Click the Upload Files button.
+Locate the collection file and click the Open button.
+Import Postman Environment File
+Click the Import button.
+View Environment
+View the environment.
+In the CLIENT_ID field and CLIENT_SECRET field, add the Client ID and Secret generated in Identity Services. 
+To save the collection, click the Save icon.
+View Additional Resources
+Entity relationship visualiser
+PostgSQL schema or MySQL schema: meant to capture the database structure of data queried with DAP API. One can populate this structure by feeding TSV or CSV data with COPY, good for inserting both snapshots and incremental updates.

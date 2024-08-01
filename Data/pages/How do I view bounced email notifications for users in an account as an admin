@@ -1,0 +1,120 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_e53f0d74-d616-4185-846b-eb2f98cf2f39" class="text-block-content">
+    <p>Admins who are allowed to view notifications can access the Bounced Emails tab in Admin Tools. The Bounced Emails tab displays bounced email notifications for all users in an account.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="a18593df-b133-42c4-b54a-130050b02d0c">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c2e53fc9-3439-4c5a-b727-ba011c9becde" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-admin-tools" data-step-uuid="ac0a53a2-156d-4d36-92f8-b5fd33818a92">
+    <h2 id="open-admin-tools" class="step-title screensteps-heading">Open Admin Tools</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png" srcset="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png 2.0x, https://media.screensteps.com/image_assets/assets/005/796/780/original_lowres/open-admin-tools.png" alt="" height="282" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1bac75b3-174a-41f3-9134-be49d3343d79" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Admin Tools</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-bounced-emails" data-step-uuid="b2515bb4-801a-4d49-abe4-2d3434b332b0">
+    <h2 id="open-bounced-emails" class="step-title screensteps-heading">Open Bounced Emails</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/036/805/original/4e7c1c23-bc9f-4b6f-a3de-21fcba8e4a82.png" srcset="" alt="Open Bounced Emails" height="114" width="515">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_69cf2cb5-f23d-4905-b588-64c182d7c857" class="text-block-content">
+    <p>Click the <strong>Bounced Emails</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search-bounced-emails" data-step-uuid="f6115665-7eef-4b05-9816-3fbc0b068f0f">
+    <h2 id="search-bounced-emails" class="step-title screensteps-heading">Search Bounced Emails</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/036/807/original/0c2065c0-37ad-42bf-a1df-9409a22625d0.png" srcset="" alt="Search Bounced Emails" height="363" width="665">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6cdc19bf-8305-4e93-a7d7-792200a4aafc" class="text-block-content">
+    <p>To view all bounced email notifications in your account, click the <strong>Search</strong> button [1].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="filter-bounced-emails" data-step-uuid="f96248cf-95ac-49fa-ac00-c20e24cd4cd2">
+    <h3 id="filter-bounced-emails" class="step-title screensteps-heading">Filter Bounced Emails</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/036/809/original/55d80e96-1b8b-4909-81de-3d4475db23e0.png" srcset="" alt="Filter Bounced Emails" height="592" width="628">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5e58a01c-94d9-4c44-ae8b-d96b97f4df59" class="text-block-content">
+    <p>To find specific bounced email notifications, you can apply filters to your search. You can filter by user email address and/or date.</p>
+<p>To filter bounced email notifications by email address, type an email address in the <strong>Address</strong> field. Wildcards are permitted for both the email username and domain name [1].</p>
+<p>To view bounced email notifications after a certain date, type or select a date in the <strong>Last bounced after</strong> field [2].</p>
+<p>To view bounced email notifications before a certain date, type or select a date in the <strong>Last bounced before</strong> field [3].</p>
+<p>To view bounced email notifications between specific dates, enter a date in both date fields.</p>
+<p>To view bounced email notifications with your selected filters, click the <strong>Search</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-bounced-emails" data-step-uuid="38dc9fdc-c6a1-43a6-bea7-9a0fb3f2faa1">
+    <h2 id="view-bounced-emails" class="step-title screensteps-heading">View Bounced Emails</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/120/904/original/0ccb14b6-dd6d-4ce7-a8b5-00fb21d84ae5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/120/904/medium/0ccb14b6-dd6d-4ce7-a8b5-00fb21d84ae5.png" srcset="" alt="View Bounced Emails" height="406" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47ddb892-28b2-41bf-a56f-913c59e9f0d7" class="text-block-content">
+    <p>The bounced email notification results display the intended recipient's name [1],  the email address [2], the most recent bounce date [3], and the reason the email bounced [4].</p>
+<p>To download bounced email results as a CSV file, click the <strong>Download these results as CSV </strong>link [5]. </p>
+<p><strong>Note: </strong>If a user's information is not included in the bounced email results, the user may be listed on the Amazon Web Services (AWS) suppression list. To verify whether a particular email address is on this list and to request removal, reach out to Canvas Support. Additionally, the AWS suppression list is automatically cleared every two weeks by Amazon.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,138 @@
+What types of files can be previewed in Canvas
+Document Preview Files
+The following file types are supported for Canvas DocViewer:
+.doc
+.ods
+.sxc
+.docx
+.odt
+.sxi
+.key
+.pages
+.sxw
+.numbers
+.pdf
+.txt
+.odf
+.ppt
+.xlsx
+.odg
+.pptx
+.xls
+.odp
+.rtf
+Notes: 
+HTML located within a text file (.txt) cannot be previewed or annotated in DocViewer and must be downloaded to view the content.
+Audio and video located within Powerpoint files (.ppt/.pptx) cannot be previewed in DocViewer and must be downloaded to view the content.
+In the Canvas Teacher and Canvas Student apps, OpenDocument files (.ods/.odt) cannot be previewed in DocViewer. However, if the user has a third party app installed on the device, they can use that app to view OpenDocument formats.
+To preview Apple iWork files (.pages, .numbers, and .key), your Canvas account must be located within the United States. 
+Document Preview Fonts
+The following fonts are supported for Canvas DocViewer:
+AR PL UMing
+Light (CN, HK, TW, TWE)
+DejaVu SansExtra Light
+Book
+Bold
+Oblique
+Bold Oblique
+Condensed
+IPA MinchoRegular
+AR PL UKai
+Book (CN, HK, TW, TWE)
+DejaVu Sans CondensedBook
+Bold
+Oblique
+Bold Oblique
+Condensed
+Condensed Bold
+Condensed Oblique
+Condensed Bold Oblique
+Times New RomanRegular
+Italic
+Bold
+Bold Italic
+ArialRegular
+Bold
+Italic
+Bold Italic
+GeorgiaRegular
+Italic
+Bold
+Bold Italic
+VerdanaRegular
+Italic
+Bold
+Bold Italic
+Arial NarrowRegular
+Italic
+Bold Italic
+IPAP MinchoRegular
+Un BatangRegular
+Bold
+Arial UnicodeRegular
+Bold
+IPA GothicRegular
+Un DinaruRegular
+Bold
+Light
+CalibriRegular
+Bold
+Italic
+Bold Italic
+IPAP GothicRegular
+Un DotumRegular
+Bold
+DejaVu SerifBook
+Bold
+Italic
+Bold Italic
+MeiryoRegular
+Un GraphicRegular
+Bold
+DotumRegular
+M Hei PRCRegular
+Un GungseoRegular
+CambriaRegular
+Bold
+Italic
+Bold Italic
+M Hei HK MediumRegular
+Un PilgiRegular
+Bold
+Cambria MathRegular
+MingLiu  Regular
+Wingdings 1Regular
+Comic SansRegular
+Bold
+Monotype SortsRegular
+Wingdings 2Regular
+Courier NewRegular
+Italic
+Bold
+Bold Italic
+Palace Script MTRegular
+Wingdings 3Regular
+DejaVu Serif CondensedBook
+Bold
+Italic
+Bold Italic
+Condensed
+Condensed Bold
+Condensed Italic
+Condensed Bold Italic
+SimSun Regular
+DejaVu Sans MonoBook
+Oblique
+Bold
+Bold Oblique
+SymbolRegular
+Image Preview Files
+The following image files are supported for Canvas DocViewer:
+.bmp
+.png
+.tiff
+.jpeg
+.svg
+.jpg
+.tif
+Note: TIF and TIFF file previews are not native to most browsers and may not preview in Canvas.

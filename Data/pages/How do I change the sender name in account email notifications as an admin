@@ -1,0 +1,130 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_43A0B260-1D6E-0135-B6F3-22000AB760A3" class="text-block-content">
+    <p>Canvas gives administrators the option to set up a custom sender name for Canvas notifications. This custom text can be your institution name or whatever sender information you would like to use. Using the custom text field helps students identify account notification emails more easily and improves the quality of student-instructor interaction.</p>
+<p>Setting a custom sender name does not affect course notifications, which are always sent as the name of the course. However, daily and weekly course summaries (which can mention multiple courses) are sent as an account notification.</p>
+<p>If no custom name is set, Canvas uses the account default.</p>
+<p><strong>Note: </strong>Sub-account admins cannot change the sender name in account email notifications.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="f03017b0-61f2-4559-afa6-116336667d77">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43A19930-1D6E-0135-B6F5-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="26E87309-4895-44E9-B693-5A420E4C1DF8">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/342/original/0589d223-3a39-4de4-8d5f-c0467b5dc7df.png" srcset="" alt="Open Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43A1E130-1D6E-0135-B6F7-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_notifications" data-step-uuid="16135B0E-1553-4A70-8614-9319BBBB4A56">
+    <h2 id="open_notifications" class="step-title screensteps-heading">Open Notifications</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/577/075/original/4d3b65d2-deab-4ac6-a60d-7133069af928.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/577/075/medium/4d3b65d2-deab-4ac6-a60d-7133069af928.png" srcset="" alt="Open Notifications" height="70" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43A21680-1D6E-0135-B6F9-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Notifications </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_custom_from_name" data-step-uuid="F6094868-E737-4B02-8469-3E677F57772C">
+    <h2 id="select_custom_from_name" class="step-title screensteps-heading">Select Custom "From" Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/966/992/original/1d7f74b7-2cad-4554-ac1c-0c0408693d4e.png" srcset="" alt="Select Custom &amp;quot;From&amp;quot; Name" height="623" width="773">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43A24880-1D6E-0135-B6FB-22000AB760A3" class="text-block-content">
+    <p>Select the Custom "From" Name button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="change_custom_from_name" data-step-uuid="39E69DCD-7E29-4908-8811-51F114F9D047">
+    <h2 id="change_custom_from_name" class="step-title screensteps-heading">Change Custom "From" Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/966/988/original/79020ca1-d277-45b2-aa3c-717251ef5385.png" srcset="" alt="Change Custom &amp;quot;From&amp;quot; Name" height="325" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43A27AF0-1D6E-0135-B6FD-22000AB760A3" class="text-block-content">
+    <p>Type your preferred name into the <strong>Custom "From" Name</strong> field [1]. Verify the example of the name as it will display in the "from" field of the email notification [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_default_canvas_setting" data-step-uuid="924F9A1D-7968-4F16-AD49-ACFA2785F443">
+    <h2 id="select_default_canvas_setting" class="step-title screensteps-heading">Select Default Canvas Setting</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/966/990/original/548f5ba1-6b66-438e-b8ec-7aea59022f2b.png" srcset="" alt="Select Default Canvas Setting" height="632" width="785">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43A2B140-1D6E-0135-B6FF-22000AB760A3" class="text-block-content">
+    <p>If you do not want to have a Custom "From" Name, select the Default Canvas Setting option [1]. The "From" name will display as Instructure Canvas [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_settings" data-step-uuid="23E46B42-C43E-4077-9627-41AA2EA75523">
+    <h2 id="update_settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/343/original/49df880b-33dc-4f3b-a09f-39d2b80539ad.png" srcset="" alt="Update Settings" height="75" width="174">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43A2E500-1D6E-0135-B701-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Update Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

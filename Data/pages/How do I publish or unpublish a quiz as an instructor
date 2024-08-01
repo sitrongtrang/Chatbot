@@ -1,0 +1,142 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A4651D30-222E-0135-6BAE-22000BC102FE" class="text-block-content">
+    <p>As an instructor, you can publish or unpublish quizzes in a course. Unpublished content is invisible to students, and graded quizzes are excluded from grade calculations. </p>
+<p><strong>Note</strong>: If you use Modules in your course and add a Quiz to a Module, please be aware that the state of the Module overrides the state of all module items. You may want to consider leaving Quizzes unpublished until you are ready to publish the entire Module. For more information please see the <a href="/t5/Instructor-Guide/How-do-I-publish-or-unpublish-a-module-as-an-instructor/ta-p/571" target="_blank">Modules Draft State lesson</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="c11bacbe-3ac8-4e0b-a4f3-9ac5066ea38a">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/914/original/4ed97734-9aa3-420f-b049-7382c7fe1ba2.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A4654F60-222E-0135-6BB0-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_status_of_all_quizzes" data-step-uuid="e8938125-62be-4d01-a858-ea454c012dc1">
+    <h2 id="view_status_of_all_quizzes" class="step-title screensteps-heading">View Status of All Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/246/501/original/0cffd0c7-fce8-4600-a5ba-c477f0010b34.png" srcset="" alt="View Status of All Quizzes" height="119" width="114">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A46581F0-222E-0135-6BB2-22000BC102FE" class="text-block-content">
+    <p>On the Quizzes Index page, you can view the status of each quiz. Green icons indicate the quiz is published [1]. Gray icons indicate unpublished quizzes [2]. You can change the status of a Quiz by toggling the published and unpublished icons.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="publish_a_quiz" data-step-uuid="6027cd06-5505-41af-97f0-a889e3e4824f">
+    <h3 id="publish_a_quiz" class="step-title screensteps-heading">Publish a Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/246/503/original/9d0c1cd0-4566-4d95-8dca-bf447fd4841c.png" srcset="" alt="Publish a Quiz" height="150" width="132">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A465AF20-222E-0135-6BB4-22000BC102FE" class="text-block-content">
+    <p>To publish a quiz, click the unpublished icon. The hover text will confirm you want to publish the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unpublish_a_quiz" data-step-uuid="906acfbd-9273-43c7-aefb-64b5d90f17b3">
+    <h3 id="unpublish_a_quiz" class="step-title screensteps-heading">Unpublish a Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/122/348/original/5de7813c-21fa-4078-bf6c-a878e7620b82.png" srcset="" alt="Unpublish a Quiz" height="163" width="331">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A465E090-222E-0135-6BB6-22000BC102FE" class="text-block-content">
+    <p>To unpublish a quiz, hover over the published icon and view its status. If the quiz can be unpublished, the hover text will confirm you want to unpublish the quiz [1]. Click the icon to confirm.</p>
+<p>Quizzes with student submissions cannot be unpublished, and the hover text will notify you accordingly [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_status_within_an_individual_quiz" data-step-uuid="183b279e-a4c1-4a3b-b582-379e50877dd2">
+    <h2 id="view_status_within_an_individual_quiz" class="step-title screensteps-heading">View Status within an Individual Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/246/493/original/c0e753af-2d3f-4ae7-ba43-8448c9acb646.png" srcset="" alt="View Status within an Individual Quiz" height="301" width="805">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A4661380-222E-0135-6BB8-22000BC102FE" class="text-block-content">
+    <p>Within individual quizzes, the quiz status is shown next to the quiz options.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="publish_a_quiz_1" data-step-uuid="0779ce64-c63a-4b7d-9d6e-ecaace60b457">
+    <h3 id="publish_a_quiz_1" class="step-title screensteps-heading">Publish a Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/246/490/original/5b3d3e02-ef99-4a98-91fd-3a8e59648c77.png" srcset="" alt="Publish a Quiz" height="301" width="805">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A4664520-222E-0135-6BBA-22000BC102FE" class="text-block-content">
+    <p>To publish a quiz, click the <strong>Publish</strong> button. The button will change from gray to green.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unpublish_a_quiz_1" data-step-uuid="91615d27-1d33-47d2-a3db-73e4d9332a30">
+    <h3 id="unpublish_a_quiz_1" class="step-title screensteps-heading">Unpublish a Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/246/499/original/eaf806bd-8149-4e6c-82e6-8ec664a8a937.png" srcset="" alt="Unpublish a Quiz" height="137" width="802">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A4667600-222E-0135-6BBC-22000BC102FE" class="text-block-content">
+    <p>To unpublish a quiz, hover over the published button and view its status. If the quiz can be unpublished, the hover text will confirm you want to unpublish the quiz, and the button will change from gray to red. Click the button to confirm. </p>
+<p>Quizzes with student submissions cannot be unpublished. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="quizzes_student_view" data-step-uuid="df9408d0-fad2-4459-a472-791b5076bf1f">
+    <h2 id="quizzes_student_view" class="step-title screensteps-heading">Quizzes Student View</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/254/178/original/bceb739e-b5a7-4df1-8ad3-3b699a10c007.png" srcset="" alt="Quizzes Student View" height="524" width="830">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A466BA50-222E-0135-6BBE-22000BC102FE" class="text-block-content">
+    <p>Students cannot see any of the actions involved with published status, such as published and unpublished icons and setting icons. Students will only see published quizzes, which are posted in gray text.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

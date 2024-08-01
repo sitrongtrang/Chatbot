@@ -1,0 +1,36 @@
+What are SIS Imports
+When would I use SIS imports?
+With SIS imports, you can:
+Import SIS data with CSV files or automatically import via the Canvas API
+Import SIS data with IMS Enterprise Specification XML zip files
+Import SIS data with Banner Grade Exchange Results XML
+Create an automated data integration with Canvas
+Import Types
+The SIS Import page supports a few formats for standard imports to Canvas: Instructure formatted CSV or zipfile of CSVs, IMS Enterprise Specification XML zip, or Banner Grade Exchange Results XML. 
+A standard import only processes changes that are specifically listed in the upload file and is an efficient way to upload a few records. For example, if a student enrollment was listed as active in a prior import but not present in the current enrollment, no change will take place to the student enrollment. The enrollment will remain active until marked as deleted or completed in a standard import (or is marked as not present in a Full Batch update for the term where the course is listed). During the beginning of a term, course enrollments change regularly; submitting a standard import frequently helps keep enrollments current in an account. 
+When uploading SIS data with CSV files, you may import an individual CSV text file or you may compress multiple files into a single ZIP file to bulk import data. If you are using the Instructure format for importing files, the files should be in the following order: users, accounts, terms, courses, sections, enrollments, and logins.
+Full Batch Updates
+Canvas supports full batch updates for each import type. This option will only affect data that has been involved in a previous SIS job – either created by a previous import, or referenced by a SIS job after a SIS ID was manually added. Manually created courses with no SIS ID, for example, won't be deleted even if they don't appear in the new SIS import.
+For enrollments, this option means the linked user and course/sections require SIS IDs. A Canvas record will be deleted if it is not included in the current import file. 
+This option can delete large data sets without any prompt or warning for confirmation and affects data created in previous SIS imports.
+Full batch updates are useful if:
+Your source SIS software doesn't have a way to send delete records as part of an import, and you need to remove a fair portion of the imported data
+You want to be sure your current enrollment and data set are consistent with your SIS enrollment and course data
+Your SIS doesn't track changes to course state or enrollments for students and/or teachers
+You want to delete courses that you have migrated to Canvas from another LMS
+Multi Term Batch Mode
+If you want to run a batch against all terms in the same import, you can enable multi term batch mode. This mode can only be enabled in the API and requires a change threshold as noted in the SIS Import Format Documentation. 
+UI Overrides
+Canvas supports user interface (UI) overrides through SIS imports. When a user makes changes to certain data fields in Canvas (e.g., a user's name), this change is "sticky" and is set as the new default. Selecting the Override UI option allows Canvas to overwrite any "sticky" data updated in the Canvas UI. Otherwise, attempting an import with conflicting data would be disregarded and the existing user data would not be changed. To view the full list of "sticky" data fields, see the SIS Imported Format Documentation.
+This option may be useful if:
+You forgot to restrict user options in account settings, such as allowing users to change their names, delete their institution-assigned email address, etc., and you want to run an update to be sure they are in sync. Note that this will NOT impact the user's display name if they changed it. Only the full name and sortable name would be changed.
+You allowed them to change their names (above example) on purpose, but want to periodically sync with your current data.
+You want to maintain control over the names of users and courses, or if you know a name change occurred for a user or course.
+Overriding UI changes also allows one of two additional options: process as UI changes or clear UI-changed state.
+Process as UI changes. This option overrides changes that have taken place in the UI as "sticky" data; all data acts as if the changes were actually manually updated in the UI.
+This option may be useful if:
+You don't want subsequent imports to overwrite the data you are currently importing.
+Clear UI-changed state. This option removes the "stickiness" of all data that exists in this import; future imports with this data will not indicate any data in the UI as "sticky".
+This option may be useful if:
+You accidentally checked the "Process as UI changes" option and you need to fix the affected data.
+You forgot to remove the ability for users to rename themselves, course names, or remove the institutional email and you want to clear the stickiness of the UI changes that have occurred.

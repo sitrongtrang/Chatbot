@@ -1,0 +1,35 @@
+How do I audit an assessment in SpeedGrader as an instructor
+Open SpeedGrader
+Open Speedgrader from the assignment or from the Gradebook.
+Open Student Submission
+Use the student list to locate a student submission.
+Note: If the assignment was set to hide student names, or student names were hidden in SpeedGrader settings, the student list displays all student names as anonymous. In anonymous grading, the student list order does not match the order in the Gradebook and is randomized for each assignment.
+View Assessment Audit
+SpeedGrader toolbar icons will appear differently depending on the version of the Gradebook you are using.
+Confirm that the assignment grades have been posted. Then click the Assessment audit link.
+Notes: 
+The Assessment Audit link only displays once assignment grades have been posted.
+Moderated assignments cannot post grades to the New Gradebook until final grades have been posted.
+View Submission Details
+The Assessment Audit tray displays details about the submission, including the final grade and a timestamp of when the submission was graded.
+The tray displays a timestamp showing when grades for a non-moderated assignment were posted to the Gradebook. If an assignment is moderated, the tray displays the time the grade was posted to the student.
+View Anonymity Status
+The sidebar also displays the anonymity status of the assignment. 
+If the entire assignment was graded anonymously, the sidebar displays the Anonymous On status. 
+If the assignment was only moderated and was not graded anonymously, the sidebar displays the Anonymous Off status.
+View Partially Anonymous Assignment
+If anonymity was turned off during the grading process, the anonymity status displays as Partially Anonymous. Partially anonymous means that anonymity was turned off and back on for any of the three levels of anonymity during the grading process—student anonymity, grader-to-grader anonymity, or grader-to-final grader anonymity.
+Additionally, if a grader updated the assignment at any time, the name of the grader displays an alert icon, and the audit trail displays the modified actions.
+View Grader Details
+If there is more than one grader for the assignment, each grader will display in the sidebar. 
+To view the audit trail for a user, click the arrow icon next to the user's name. 
+View Event List
+The event list displays the start date and time of the audit trail and a list of events the user took while interacting with the submission. 
+The event list may include events related to the following:
+Assignment created or updated
+Submission created or updated
+Anonymity status changed
+Grades posted or hidden
+Muted status changed
+DocViewer annotations and comments created
+Submission comments created

@@ -1,0 +1,205 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_D30E4530-0940-0135-5418-22000AB760A3" class="text-block-content">
+    <p>As an instructor, you can control which links appear in Course Navigation. Canvas includes a set of default Course Navigation links that are shown by default and cannot be renamed. Depending on your course configuration, other links may be available and may be customizable.</p>
+<p>Links to sections that don't have any content and that students cannot create content for will be automatically hidden for students and will display the Visibility icon to instructors. For example, if there are no learning outcomes set for the course, you will see the Outcomes link with the Visibility icon, but students will not see the link at all. Configured External Apps may create additional Course Navigation links.</p>
+<p>Disabling a course navigation link creates the following redirects:</p>
+<ul>
+<li>
+<strong>Hidden only (cannot be disabled but still accessible via direct URL):</strong> Discussions and Grades</li>
+<li>
+<strong>Page disabled; redirected to Home page:</strong> Announcements, Assignments, Conferences, Collaborations, Files, Modules, Outcomes, Quizzes, Pages, People, Rubrics, and Syllabus</li>
+<li>
+<strong>Page disabled; won't appear in navigation:</strong> Any LTI links, such as Attendance, Chat, and SCORM</li>
+</ul>
+<p>Reordering and hiding Course Navigation links for Announcements, Assignments, Discussions, and Files also affects the course tabs in the <a href="/t5/Instructor-Guide/How-do-I-view-my-favorite-courses-in-the-Card-View-Dashboard-as/ta-p/803" target="_blank">Dashboard course view </a>for all users. Additionally, disabling the Files link will hide the Files tab in the Content Selector in the Rich Content Editor for students.</p>
+<p>The following course navigation links will still be visible to instructors even if they have been hidden or disabled: Home, Announcements, Assignments, Collaborations, Conferences, Discussions, Files, Grades, Modules, Outcomes, Pages, People, Quizzes, Rubrics, Settings, and Syllabus. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Navigation links that cannot be disabled require the URL access to display related data in other Canvas areas. Access to hidden pages may be further restricted by changing specific student permissions in Canvas. Contact your Canvas admin for assistance.</li>
+<li>If you disable the Course Navigation link for an external tool, the link no longer displays in your Course Navigation list.</li>
+<li>If the course navigation link for the page is disabled and hidden from students, the Student View button does not display.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="5BF08EB2-F570-4873-90F1-5716622224B7">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/606/529/original/b2f2e6c7-d99c-4318-a821-d2245ea398fc.png" srcset="" alt="Open Settings" height="245" width="199">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D30FD850-0940-0135-541A-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_navigation" data-step-uuid="8A707500-DBDE-4B84-B32B-E85262CB03A7">
+    <h2 id="open_navigation" class="step-title screensteps-heading">Open Navigation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/750/245/original/8db5b0f6-d353-4d63-b2f3-98df24454251.png" srcset="" alt="Open Navigation" height="80" width="547">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D3101B50-0940-0135-541C-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Navigation </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="drag-and-drop-navigation-links" data-step-uuid="f132d8da-1d7a-4103-82bd-32d2649c3600">
+    <h2 id="drag-and-drop-navigation-links" class="step-title screensteps-heading">Drag and Drop Navigation Links</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/957/833/original/62ac803c-a09f-402a-9b5a-d813cd0881e9.png" srcset="" alt="Drag and Drop Navigation Links" height="860" width="466">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67234d65-de8d-4a13-bef2-8d37b7a03ed9" class="text-block-content">
+    <p>You can use the drag and drop option to reorder navigation links. Click the navigation link you would like to move. Drop the navigation link in the desired location by releasing the mouse.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="move-navigation-links" data-step-uuid="77a6bde7-dcd7-489d-a0b8-fe94b147b9f0">
+    <h2 id="move-navigation-links" class="step-title screensteps-heading">Move Navigation Links</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/116/617/original/f153c7ce-980c-4364-b164-0c92c1df1dd4.png" srcset="" alt="Move Navigation Links" height="369" width="511">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e6c3e401-e2ea-40ee-8c53-7cc8a1f3a1dd" class="text-block-content">
+    <p>You can also use the Move To option to reorder an navigation link. Click the <strong>Options </strong>icon [1] and select the <strong>Move </strong>link [2].</p>
+<p><strong>Note: </strong>The Move To option only moves an navigation link within its respective section (visible or hidden). Hidden items must first be enabled before they can be ordered among visible navigation items. A hidden item cannot be moved directly to the enabled link section using the Move To option.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="place-navigation-link-location" data-step-uuid="93081f8a-536f-4860-94c6-3fd2641bdee4">
+    <h3 id="place-navigation-link-location" class="step-title screensteps-heading">Place Navigation Link Location</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/829/original/7fa1769b-9f99-4e66-bc99-49805726ff48.png" srcset="" alt="Place Navigation Link Location" height="352" width="332">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1b39b3ae-2496-48fb-8571-8bf437de7911" class="text-block-content">
+    <p>In the Move Navigation Item sidebar, click the <strong>Place</strong> drop-down menu [1]. Select the placement of the navigation link you are moving [2]. You can move the link so it is located at the top of the list, before a specific navigation link, after a specific navigation link, or at the bottom of the list.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="place-before-or-after" data-step-uuid="616c9d14-ad30-4a23-a5ae-565f8b2db013">
+    <h3 id="place-before-or-after" class="step-title screensteps-heading">Place Before or After</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/818/original/bdbcffca-0b1f-4043-9280-ddc026944b02.png" srcset="" alt="Place Before or After" height="552" width="333">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5edef4f3-59ee-471e-a456-87d69631a3a8" class="text-block-content">
+    <p>If you selected the <strong>Before</strong> or <strong>After </strong>option, click the second drop-down menu [1]. Select the navigation link that should be before or after the link you are moving, as indicated by the option selected in the previous menu [2]. </p>
+<p>If you want to move the navigation link to another location, change the sidebar placement options as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="close-sidebar" data-step-uuid="991b4bcf-3175-4c6b-beec-e1ca0036dcb7">
+    <h3 id="close-sidebar" class="step-title screensteps-heading">Move Navigation Item</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/816/original/10bc76c7-d27f-42ff-b3b0-706edd0e451e.png" srcset="" alt="Move Navigation Item" height="317" width="330">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5d3fdeed-f782-4f31-bdd7-b1185b07f36e" class="text-block-content">
+    <p>Click the <strong>Move</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="hide_navigation_links" data-step-uuid="55157429-484b-48aa-97b6-5d548082b402">
+    <h2 id="hide_navigation_links" class="step-title screensteps-heading">Hide Navigation Links</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/317/585/original/82d11da4-06c6-4534-999d-894bf716d11e.png" srcset="" alt="Hide Navigation Links" height="312" width="495">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D310B1D0-0940-0135-5422-22000AB760A3" class="text-block-content">
+    <p>To hide a navigation link, click the link <strong>Options</strong> icon [1] and select the <strong>Disable</strong> option [2]. </p>
+<p>You can also drag and drop the link to the hidden section at the bottom of the page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-navigation-links" data-step-uuid="5b6fee6c-8778-41fa-bdb9-043f1b012828">
+    <h2 id="enable-navigation-links" class="step-title screensteps-heading">Enable Navigation Links</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/606/534/original/e6a8ee43-f5b6-4f54-819f-43dafa3d6e83.png" srcset="" alt="Enable Navigation Links" height="431" width="536">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D310E3A0-0940-0135-5424-22000AB760A3" class="text-block-content">
+    <p>To enable a link in the hidden section [1], click the <strong>Options</strong> icon [2] and click the <strong>Enable </strong>button [3].</p>
+<p>You can also drag and drop the link above the hidden section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_navigation" data-step-uuid="8783e4bb-3703-4a96-83c6-2a49b210a246">
+    <h2 id="save_navigation" class="step-title screensteps-heading">Save Navigation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/750/240/original/6ba88eb4-8cce-4648-840d-98b8e7ccbd98.png" srcset="" alt="Save Navigation" height="67" width="93">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D3122600-0940-0135-5426-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-course-navigation-menu" data-step-uuid="27221005-2d76-42ba-9426-ac89b8cd127f">
+    <h2 id="view-course-navigation-menu" class="step-title screensteps-heading">View Course Navigation Links</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/957/836/original/032a41fa-15d5-433a-9ec0-02289cef1167.png" srcset="" alt="View Course Navigation Links" height="759" width="254">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4dce8572-eb8b-4c48-a9fd-d5b9706c5ff3" class="text-block-content">
+    <p>View the Course Navigation Menu. Navigation links will display in the same order that you have designated in Course Settings.</p>
+<p>Any Course Navigation link that is hidden from students displays the <strong>Visibility</strong> icon [1]. A link may be hidden to students because the feature area has no content [2] or because the link is disabled [3]. Links that are manually disabled by a course instructor display at the bottom of the Course Navigation Menu above the Settings link [4].</p>
+<p><strong>Note:</strong> If you have disabled a Course Navigation link to an external tool, that link will not display in Course Navigation and is hidden to all course users, including instructors.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

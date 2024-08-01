@@ -1,0 +1,32 @@
+How do I import grades in the Gradebook as an instructor
+Create CSV File
+For new files, save the file as Grades-Course_Name.csv. 
+Required columns and order
+Student Name
+Student ID
+SIS User ID (only required if you use SIS)
+SIS Login ID (only required if you use SIS)
+Section
+Assignment (this can be for an existing assignment or a new assignment; retain IDs for existing assignments)
+Note: If you don't want to create a new CSV file, you can always download the CSV from Canvas, change it, and re-upload the same file and the changes you made will appear in Canvas once you re-upload the CSV file.
+Open Gradebook
+In Course Navigation, click the Grades link.
+Upload Scores
+Click the Import button.
+Choose File
+Click the Choose File or Browse button (depending on your browser).
+Open File
+Locate the CSV file then click the Open button.
+Upload Data
+Click the Upload Data button.
+Upload New Data
+If you add a new column to the CSV file and then upload the file, Canvas will ask you what you want to do with the new column. In the drop-down menu, choose the A new assignment option. Then assign the number of points possible. Click the Continue button.
+Notes: 
+When multiple grading periods is enabled, CSV file uploads cannot create new assignments.
+New assignments created via a CSV file upload are automatically published and maintain the course posting policy.
+Save Changes
+Review the changes made to your Gradebook. Any changes that will result in a lower grade than the previous version are highlighted in red.
+If you upload assignments with no grade changes, they will be hidden from the upload. 
+Click the Save Changes button.
+View Updated Gradebook
+View the updated data in the Gradebook.

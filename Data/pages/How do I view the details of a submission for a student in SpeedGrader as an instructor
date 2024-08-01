@@ -1,0 +1,162 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4F1A35B0-22E3-0135-9EDB-22000AB760A3" class="text-block-content">
+    <p>You can view the details of a student's submission in the SpeedGrader sidebar. If a student has resubmitted an assignment, you can view previous versions.</p>
+<p>However, when <a href="/t5/Instructor-Guide/How-do-I-hide-student-names-in-SpeedGrader/ta-p/768" target="_blank">anonymous grading</a> is enabled, submission details are hidden in the submission sidebar until the assignment is unmuted or assignment grades are posted.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Instructors cannot delete assignment submissions. If you need to delete an inappropriate assignment submission, contact your administrator.</li>
+<li>If a quiz includes more than 65 total submissions, individual attempts cannot be viewed in SpeedGrader.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speedgrader" data-step-uuid="9785149C-D97B-46B9-B14D-D333A7FAFAFC">
+    <h2 id="open_speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/029/original/8f07bc3d-4fd2-4723-aa3a-4a10d3988b78.png" srcset="" alt="Open SpeedGrader" height="54" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4F1B2610-22E3-0135-9EDD-22000AB760A3" class="text-block-content">
+    <p>Open SpeedGrader from any assignment, graded discussion, or quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_student_submission" data-step-uuid="a7158023-f76c-47f1-a480-6c2194d30760">
+    <h2 id="open_student_submission" class="step-title screensteps-heading">Open Student Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/027/original/7113020d-3059-46c0-a219-786d6e2c2b21.png" srcset="" alt="Open Student Submission" height="386" width="368">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4F1B8FF0-22E3-0135-9EDF-22000AB760A3" class="text-block-content">
+    <p>Use the <a href="/t5/Instructor-Guide/How-do-I-use-the-student-list-to-view-student-submissions-in/ta-p/770" target="_blank">student list</a> to locate a student submission.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_submission_details" data-step-uuid="4dd2c1ce-bf2d-406b-9803-df316e7f6331">
+    <h2 id="view_submission_details" class="step-title screensteps-heading">View Submission Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/737/962/original/a9732fce-b012-46ef-b03c-4a48ebda3d46.png" srcset="" alt="View Submission Details" height="50" width="302">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4F1BC2E0-22E3-0135-9EE1-22000AB760A3" class="text-block-content">
+    <p>When you open SpeedGrader for a particular assignment, you will see each individual submission and the date and time that it was submitted [1]. If the assignment was submitted after the due date, you will see a late label [2]. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>When anonymous grading is enabled, submission details are hidden in the submission sidebar. Details will be visible when the assignment is either unmuted or assignment grades have been posted. </li>
+<li>If a student's quiz was submitted automatically, the submission time stamp reflects a five minute grace period that begins once the time limit and/or due date have passed and may not align with the allotted time.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_submission" data-step-uuid="d9af3133-f636-472b-a2c2-61840a088519">
+    <h2 id="download_submission" class="step-title screensteps-heading">Download Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/025/original/86a834d2-1585-4bb9-935e-d26ae218360b.png" srcset="" alt="Download Submission" height="89" width="305">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4F1BF7F0-22E3-0135-9EE3-22000AB760A3" class="text-block-content">
+    <p>If an assignment can be downloaded, you can view the name of the submission and a download link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-uploading-and-failed-submission-details" data-step-uuid="67863be7-8929-4637-b334-bb308ee4e018">
+    <h3 id="view-uploading-and-failed-submission-details" class="step-title screensteps-heading">View Uploading and Failed Submission Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/996/182/original/4056112d-5d10-4f6e-b544-ca59d9c78aa2.png" srcset="" alt="View Failed and Uploading Submission Details" height="77" width="591">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eaff1fd0-2f23-4828-9da2-37593964f25b" class="text-block-content">
+    <p>If a Google Drive or Microsoft Office 365 assignment upload is queued for submission, an <em>Uploading</em> icon displays next to the assignment link [1].</p>
+<p>When a Google Drive or Microsoft Office 365 assignment submission fails to upload, an <em>Upload Failed</em> icon displays next to the assignment link [2]. </p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="verify_student_annotation_views" data-step-uuid="8297e03b-03a6-4820-b1c5-1c118a542f94">
+    <h2 id="verify_student_annotation_views" class="step-title screensteps-heading">Verify Student Annotation Views</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/597/516/original/6df71417-229a-41df-a122-f1cd210f82d9.png" srcset="" alt="View SpeedGrader Annotations" height="71" width="327">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4F1C2950-22E3-0135-9EE5-22000AB760A3" class="text-block-content">
+    <p>If you add annotations to an assignment using <a href="/t5/Instructor-Guide/How-do-I-add-annotated-comments-in-student-submissions-using/ta-p/694" target="_blank">Canvas DocViewer</a>, you can view when the student viewed the annotations. SpeedGrader shows the date and time that the student opened the file and viewed your feedback. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="evaluate_multiple_submissions" data-step-uuid="09497b6f-ed15-4046-a424-ad5fb74300fd">
+    <h2 id="evaluate_multiple_submissions" class="step-title screensteps-heading">Evaluate Multiple Submissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/019/original/0a1ac6a0-017c-4804-89c5-52f686af1162.png" srcset="" alt="Evaluate Multiple Submissions" height="272" width="305">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4F1C5BA0-22E3-0135-9EE7-22000AB760A3" class="text-block-content">
+    <p>If a student has submitted more than one assignment, the submission view will include a drop-down menu [1] where you can view prior submissions. </p>
+<p>By default, the date of the most recent assignment will always be shown first. Canvas will warn you if you are not viewing the most recent submission [2].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>When anonymous grading is enabled, the submission menu displays submission by number (e.g., Submission 1, Submission 2).</li>
+<li>When the Allow Multiple file AGS submissions count as one submission is enabled, students can select multiple files to be uploaded to a third-party assignment in Canvas. However, some third-party tools may not be built to accommodate this feature.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="see_all_quiz_attempts" data-step-uuid="0f14ec93-f776-4c6e-9100-0e0c036e058b">
+    <h2 id="see_all_quiz_attempts" class="step-title screensteps-heading">See All Quiz Attempts</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/805/258/original/c10ff0ea-51ae-47bd-868c-eb144d59725d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/805/258/medium/c10ff0ea-51ae-47bd-868c-eb144d59725d.png" srcset="" alt="See All Quiz Attempts" height="117" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4F1C9280-22E3-0135-9EE9-22000AB760A3" class="text-block-content">
+    <p>If a quiz includes more than 65 total submissions, individual attempts cannot be viewed in SpeedGrader. </p>
+<p>To view prior Classic Quiz attempts for a specific student, click the <strong>See all quiz attempts</strong> link [1]. </p>
+<p>To view prior New Quiz attempts for a specific student, click the <strong>Moderate </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

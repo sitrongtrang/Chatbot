@@ -1,0 +1,32 @@
+How do I enable a course as a blueprint course as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Courses
+In Account Navigation, click the Courses link. 
+Note: When you open an account, the account defaults to the Courses page.
+Find Course
+To find the course in the account, use the filter and search options.
+Open Settings
+In the courses list, click the course Settings icon.
+Open Course Details
+Click the Course Details tab.
+Enable Course
+Click the Enable course as a Blueprint Course checkbox.
+View Restrictions
+If the course cannot be enabled as a blueprint course, the checkbox is grayed out. A course cannot be enabled as a blueprint course if the course contains student enrollments.
+If the course is already associated with a blueprint course, you can view the course name and course ID as a reference (e.g. courses/XXX). The name of the blueprint course includes a link to access the blueprint course.
+Define General Locked Objects
+By default, the course is defined for General Locked Objects, meaning that any objects locked in the blueprint course are subject to general attributes that cannot be edited in associated courses. 
+Select Attributes
+As part of the general settings, select the attributes for the locked objects in this course. General locked objects support four attributes across any course object: content, points, availability dates, and due dates. 
+The option to lock content is selected by default, though it can be deselected as a lock option. 
+Locked objects cannot be edited in associated courses. For instance, when Content is selected as a locked object attribute, instructors in associated courses are not able to edit any content for any locked objects. Content also includes the title of the content item.
+Define Locked Objects by Type
+To define locked objects by type, select the Locked Objects by Type option. This setting means that any objects locked in the course are subject to specific settings set by type that cannot be edited in associated courses. 
+Select Attributes
+Blueprint courses support and sync five object types: assignments, discussions, pages, files, and quizzes. To select an attribute for an object type, expand the attribute type menu and select individual attributes that apply to each locked object. When an attribute is selected, the attribute name displays next to the object type.
+Notes:
+Attributes do not need to be the same for each object type. Additionally, depending on the object type, not all attributes may be available.
+Rubrics can be updated and synced as part of blueprint courses. However, if points have been locked for an assignment, updating the rubric’s point value does not affect the assignment point value.
+Update Course Details
+Click the Update Course Details button.

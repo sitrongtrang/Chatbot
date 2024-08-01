@@ -1,0 +1,27 @@
+How do I view and manage statistic and chart data in Admin Analytics as an admin
+In the beta environment only, Admin Analytics and Course Analytics data is pulled from Canvas Data 2 (CD2)/Data Access Platform (DAP). All data will be migrated to CD2/DAP on August 1, 2024. You can migrate your data to CD2/DAP before August 1, 2024 by contacting your Customer Success Manager (CSM).
+View Admin Analytics
+In Admin Analytics, you can view data via the Overview, Course, or Student Dashboards. Statistics and charts vary depending on the dashboard.
+View Statistic or Chart Description
+To view a statistic's or chart's description, hover over the statistic or chart Information icon. 
+Manage Statistic or Chart Options
+To manage options for a statistic or chart, hover over the statistic or chart and click the Options icon. 
+To download statistic or chart data, click the Download data link. 
+To see an expanded or full screen view of the chart, click the View option.
+To refresh the statistic's or chart's cache, click the Clear cache & refresh link.
+View Additional Chart Data
+You can view details for a data point included in a chart by hovering over the data point.
+To view additional information on a data point, click the data point. 
+Note: Due to the size of data included, it's not possible to view or download data from the Interactions Over Time chart. 
+Zoom into Chart Area
+To zoom into a specific area of a chart, click and drag your cursor around the area in which you want to view.
+To zoom out to the original view, click the Reset Zoom button. 
+Manage Additional Chart Data
+A modal displays additional data point information. Columns vary depending on the chart and data point selected.
+To view selected filters, click the Filters arrow.
+To sort data by a column, hover over the column and click the Sort icon.
+To manage options for a column, hover over the column and click the column's Options icon.
+If a course name is listed in the modal, you can navigate to the course by clicking the course name.
+To download data point information, click the Download link. You can download up to 5,000 rows of information.
+To close the modal, click the Close icon.
+Learn more about dashboard charts and statistics.

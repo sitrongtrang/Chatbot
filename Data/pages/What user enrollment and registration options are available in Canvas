@@ -1,0 +1,73 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_710ADE50-1D6D-0135-048A-22000BC102FE" class="text-block-content">
+    <p>As an account admin, you can set different enrollment and registration options for your account. Available options include self enrollment, self registration, and open registration.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="self_enrollment" data-step-uuid="0dc0a5ba-53fd-4ce1-8ac7-66e378c627fb">
+    <h2 id="self_enrollment" class="step-title screensteps-heading">Self Enrollment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/311/original/74001e4a-fd69-4d1e-a474-67fc292f54fd.png" srcset="" alt="Self Enrollment" height="79" width="456">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_710B1D60-1D6D-0135-048C-22000BC102FE" class="text-block-content">
+    <p>Self-enrollment is an open enrollment method that allows students to use a secret URL or code to join a course. This option requires students to have an existing Canvas account—most institutions automatically create Canvas accounts for each student through SIS import. </p>
+<p>If you <a href="/t5/Admin-Guide/How-do-I-enable-self-enrollment-in-an-account-and-allow-students/ta-p/122" target="_blank">enable self enrollment</a> for an account, instructors can allow self-enrollment for their course in Course Settings to generate the secret URL or code to send to students. </p>
+<p>Instructors can also add a link to the course home page for students to join the course at any time. This option also works well for courses added to the <a href="/t5/Admin-Guide/How-do-I-view-my-institution-s-Public-Course-Index-as-an-admin/ta-p/163" target="_blank">Public Course Index</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="self_registration" data-step-uuid="3b30d982-f6f2-44c4-816b-81b9dc5acf11">
+    <h2 id="self_registration" class="step-title screensteps-heading">Self Registration</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/313/original/b30cabb2-2561-4efc-ab07-47462a31330b.png" srcset="" alt="Self Registration" height="382" width="852">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_710B4E80-1D6D-0135-048E-22000BC102FE" class="text-block-content">
+    <p>Self registration is an authentication method through Canvas that allows users without an account to create an account for themselves. </p>
+<p>If you <a href="/t5/Admin-Guide/How-do-I-configure-self-registration-through-Canvas/ta-p/257" target="_blank">enable self registration</a> but students do not have a Canvas account, self registration allows them to create their own account to log in to Canvas and join the course. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_registration" data-step-uuid="28828d09-c794-451e-ab29-7ec2289aa6f8">
+    <h2 id="open_registration" class="step-title screensteps-heading">Open Registration</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/315/original/d4f1c604-e7c7-4ce6-a8c2-3467b442e6a2.png" srcset="" alt="Open Registration" height="322" width="517">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_710B7920-1D6D-0135-0490-22000BC102FE" class="text-block-content">
+    <p>Open registration allows students to be added to a course, even if the students don't have a Canvas account in your institution. Students will create their account during the course enrollment process. </p>
+<p>You can <a href="/t5/Admin-Guide/How-do-I-enable-open-registration-in-an-account-and-allow/ta-p/145" target="_blank">enable open registration</a> in your account settings.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

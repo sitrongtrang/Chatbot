@@ -1,0 +1,127 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_805A5680-220B-0135-EA54-22000BC102FE" class="text-block-content">
+    <p>You can move students within groups. However, changes should be made before assigning a group to an assignment.</p>
+<p>If a student is added to or removed from a group after receiving submissions, the submissions and grades may not align correctly. If a student is added to a group after the group submission, any re-submissions will overwrite the original submission; all previous grades will remain but the Gradebook will show the assignment was resubmitted since last graded. If you want to move a group member with a graded submission, you may want to <a href="/t5/Instructor-Guide/How-do-I-view-all-groups-in-a-course-as-an-instructor/ta-p/696" target="_blank">clone the group set</a> instead.</p>
+<p><strong>Note:</strong> In group assignments, all students should be assigned to groups before the assignment is published. Grades and submissions may be affected for students who were not in a group at the time of assignment submission but who were later added to a group.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_people" data-step-uuid="0D027042-E139-4572-8897-468697F42031">
+    <h2 id="open_people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/949/059/original/eb1454fa-32a3-49b4-898b-50c9530b663e.png" srcset="" alt="Open People" height="260" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_805A8C80-220B-0135-EA56-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_group_set" data-step-uuid="2A711337-362A-4670-8A61-C9B7F0D1E770">
+    <h2 id="open_group_set" class="step-title screensteps-heading">Open Group Set</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/381/443/original/633f723c-9371-4c08-85e8-564edf942eba.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/381/443/medium/633f723c-9371-4c08-85e8-564edf942eba.png" srcset="" alt="Open Group Set" height="204" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_805AC2A0-220B-0135-EA58-22000BC102FE" class="text-block-content">
+    <p>Click the name of the group set.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="move_student_via_drag_and_drop" data-step-uuid="D1D4B102-6D3B-42CD-A320-2C886B1CBC24">
+    <h2 id="move_student_via_drag_and_drop" class="step-title screensteps-heading">Move Student via Drag and Drop</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/381/451/original/2330a19a-b3c9-4d9e-9b3a-2620c2079b3c.png" srcset="" alt="Move Student via Drag and Drop" height="276" width="675">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_805AF5E0-220B-0135-EA5A-22000BC102FE" class="text-block-content">
+    <p>Expand the group where you want to move the student [1]. Click the student's name and drag it to another group [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="move_student_via_user_settings" data-step-uuid="ede700dc-852b-442e-bee6-f455c2691f43">
+    <h2 id="move_student_via_user_settings" class="step-title screensteps-heading">Move Student via Move To Option</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/381/447/original/bcfb87ad-1be3-4270-8299-4b1dedf9594b.png" srcset="" alt="Move Student via Move To Option" height="267" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_805B27C0-220B-0135-EA5C-22000BC102FE" class="text-block-content">
+    <p>You can also click the student name <strong>Options </strong>menu [1] and select the <strong>Move To... </strong>link [2]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="place-student-location" data-step-uuid="ef6c863b-c28c-4bea-a2a7-35141ac5b0ae">
+    <h3 id="place-student-location" class="step-title screensteps-heading">Move Student</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/381/453/original/00bf0942-c26e-41f6-8d99-cfdc5dc73a6b.png" srcset="" alt="Place Student Location" height="268" width="334">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_805B5710-220B-0135-EA5E-22000BC102FE" class="text-block-content">
+    <p>In the Move Student sidebar, click the <strong>Place</strong> drop-down menu [1]. Select the group where you want to move the student [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/381/449/original/a67d828b-c4ba-44cb-a4ec-3e4470bc3442.png" srcset="" alt="Move Student" height="265" width="326">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_891e6a9c-68f4-49d3-ab20-69ed8bfab93d" class="text-block-content">
+    <p>Click the <strong>Move</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_groups" data-step-uuid="1898553A-DBDB-4045-8935-8A4BD1DC290F">
+    <h2 id="view_groups" class="step-title screensteps-heading">View Groups</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/381/445/original/e149008f-e24b-480d-b83d-cf2993ce4971.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/381/445/medium/e149008f-e24b-480d-b83d-cf2993ce4971.png" srcset="" alt="View Groups" height="451" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_805B8720-220B-0135-EA60-22000BC102FE" class="text-block-content">
+    <p>Verify the student has been moved to a different group.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,186 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_91d3ba30-4d33-4cbb-ad51-0f1338cbae63" class="text-block-content">
+    <p>You can manually post grades or submission comments for an assignment where student grades have been hidden. Student grades can be hidden in one of three ways: selecting a <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-an-assignment-in-the/ta-p/574" target="_blank">manual grade posting policy for an assignment</a>, selecting a <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-a-course-in-the/ta-p/588" target="_blank">manual grading posting policy for a course,</a> or <a href="/t5/Instructor-Guide/How-do-I-hide-grades-that-were-previously-posted-in-the/ta-p/721" target="_blank">hiding scores from an assignment's Options menu</a>. Manual posting policies automatically hide grades for students and should be set before you enter any grades. The option to hide grades from the assignment's Options menu is only available once grades have been entered.</p>
+<p>Grades or comments can be posted to everyone or only to students with graded submissions or submissions with comments. When grades are posted to everyone, students with ungraded submissions will see that their submission does not have a grade on their grades page. When grades are only posted to students with graded submissions, students with ungraded submissions and no submission comments will see an icon on their grades page that indicates grades are still being worked on. However, students with ungraded submissions that have submission comments will be able to view submission comments.</p>
+<p>If a manual posting policy is set for an assignment and grades are posted to everyone, the manual posting policy will become inactive and future grades will be posted automatically.</p>
+<p>Submission comments can be posted even if no grade is entered. Students will be able to see posted comments before grades are posted.</p>
+<p>Learn more about <a href="/t5/Instructor-Guide/How-do-I-use-posting-policies-in-a-course/ta-p/928" target="_blank">managing grade visibility in your course</a> and view the <a href="http://bit.ly/cnvs-grade-visibility-flowchart" target="_blank" rel="nofollow noopener noreferrer">interactive Student Grade Visibility Flowchart</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If you make changes to an assignment with hidden grades, the total score as you see it (in both the Gradebook and the student Grades page) will be affected. However, students will not see any changes when they view their Grades page. Once you post the assignment grades, the total grade in the student's view will update accordingly. </li>
+<li>Grades for anonymous and moderated assignments are hidden by default. Moderated assignments grades and submission comments cannot be unhidden until final grades have been posted.</li>
+<li>Posting grades for an anonymous assignment will remove anonymity from the assignment.</li>
+<li>Students can see peer review comments when assignment grades are hidden. However, students can only see instructor comments if the instructor posts grades or submission comments.</li>
+<li>If you post grades for an assignment with varied due dates, all students will receive score results at the same time. </li>
+<li>Viewing the Total Column in the Gradebook may be restricted when multiple grading periods are enabled.</li>
+<li>In Classic Quizzes, students will not be able to see their quiz responses while quiz grades are hidden.</li>
+<li>In New Quizzes, hiding grades will not affect a student's ability to access their quiz scores. Student visibility of New Quizzes scores must be managed from the <a href="/t5/Instructor-Guide/How-do-I-manage-settings-for-a-quiz-in-New-Quizzes/ta-p/581" target="_blank">quiz settings menu</a>.</li>
+<li>If your institution uses an SIS, posting grades does not automatically sync grades to your SIS. You must first post grades and then sync them to your SIS.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_gradebook" data-step-uuid="4d0c73aa-a1af-4a02-b19c-77af8d95b65a">
+    <h2 id="open_gradebook" class="step-title screensteps-heading">Open Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/026/original/08b46342-7d27-4f85-a6f2-46d194d88c29.png" srcset="" alt="Open Gradebook" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6fbab453-22f4-4b9e-a0fe-0d471cde886f" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment" data-step-uuid="23707727-49b4-4ce3-9d33-442186c186d3">
+    <h2 id="open_assignment" class="step-title screensteps-heading">Open Assignment Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/863/original/08d24a6f-6157-422a-a281-0b65e8ba6a06.png" srcset="" alt="Open Assignment" height="233" width="614">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_06c97a33-c05d-4a09-851c-a39cdf6add6f" class="text-block-content">
+    <p>Any assignment with hidden grades is indicated by the <strong>Visibility</strong> icon [1].</p>
+<p>Hover over the assignment column header and click the<strong> Options</strong> icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="curve_grades" data-step-uuid="240f7069-dbc8-4bce-b612-11c07aec2836">
+    <h2 id="curve_grades" class="step-title screensteps-heading">Open Post Grades Tray</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/865/original/f78f9b60-fe5f-449d-9141-6b9eede9d46a.png" srcset="" alt="Open Post Grades Tray" height="399" width="615">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2303e13c-fde7-41b5-9e82-201eb5cd622b" class="text-block-content">
+    <p>Click the <strong>Post grades</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-all-grades-posted" data-step-uuid="bda2a394-6cb9-45b5-b563-7eaf9cd59518">
+    <h3 id="view-all-grades-posted" class="step-title screensteps-heading">View Other Messages</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/305/672/original/8f30c511-eec6-4702-b3d0-3e224aeec0fb.png" srcset="" alt="View Other Messages" height="400" width="590">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d70ae66e-febb-4a3c-a693-518eeaeb0550" class="text-block-content">
+    <p>If student grades are already posted, the Options menu displays that all grades are posted [1]. To <a href="/t5/Instructor-Guide/How-do-I-hide-grades-that-were-previously-posted-in-the/ta-p/721" target="_blank">hide student grades</a>, click the <strong>Hide grades</strong> link [2].</p>
+<p>If there are no grades or comments on the assignment, the Options menu will display that there are no grades to hide or post [3].</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-hidden-grades" data-step-uuid="0abf21f4-96e9-48d1-ace5-efb239e0e703">
+    <h2 id="view-hidden-grades" class="step-title screensteps-heading">View Hidden Grades</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/725/726/original/269065a8-3bb1-49a1-8e96-e0b6163e7d63.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/725/726/medium/269065a8-3bb1-49a1-8e96-e0b6163e7d63.png" srcset="" alt="View Hidden Grades" height="476" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6cb7d105-bd86-42c3-b802-f038d666ffe0" class="text-block-content">
+    <p>The Post Grades tray includes a numbered indicator that displays the total number of hidden grades for the assignment [1].</p>
+<p>When the Post Grades tray is open, hidden grades are indicated by a <strong>Dot</strong> icon [2].</p>
+<p>Ungraded submissions with submission comments do not display the Dot icon unless the grades were previously manually hidden [3]. However, comments will still post to students.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-posting-option" data-step-uuid="4f79cc91-3ca0-453d-af35-10fdf36cc8b6">
+    <h2 id="select-posting-option" class="step-title screensteps-heading">Select Posting Option</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/033/547/original/4c9e8aa3-d64c-4298-84c4-5ebb1f613717.png" srcset="" alt="Select Posting Option" height="474" width="326">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45721ff4-87af-4630-b637-3e198dc82979" class="text-block-content">
+    <p>To post grades and submission comments to all students, click the <strong>Everyone</strong> option [1]. When the Everyone option is selected, the Visibility icon will be removed from the grades page for all students, including students with ungraded submissions. An assignment notification will also be sent to all students.</p>
+<p>To post grades to students with graded submissions or submissions with comments, click the <strong>Graded</strong> option [2]. When the Graded option is selected, the Visibility icon will only be removed from the grades page for students with graded submissions or submissions with comments. Assignment notifications will only be sent to students with graded submissions.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Grades can only be posted to everyone in anonymous assignments.</li>
+<li>If grades are posted to everyone in an assignment with a manual posting policy, the manual posting policy will become inactive and future grades will be posted automatically.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-sections" data-step-uuid="bed9936e-8598-4445-878e-f56eb28613d4">
+    <h2 id="select-sections" class="step-title screensteps-heading">Select Sections</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/033/851/original/1325a715-ca30-4e63-8523-a48aed1aa01e.png" srcset="" alt="Select Sections" height="576" width="322">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4b3030d2-aa29-4e63-bab0-c566ab4bbccb" class="text-block-content">
+    <p>To post grades or comments for specific sections, click the <strong>Specific Section</strong> button [1]. Then select the sections where you want to post grades [2].</p>
+<p><strong>Note:</strong> You cannot post grades for specific sections in anonymous assignments.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="post-grades" data-step-uuid="45f2ddc4-d659-4642-9e96-63a55fe7b354">
+    <h2 id="post-grades" class="step-title screensteps-heading">Post Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/607/756/original/0a95680a-688d-4d61-9270-6c5772160c9c.png" srcset="" alt="Post Grades" height="65" width="160">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b7c0bd23-7e93-4411-bc55-d9a03593650c" class="text-block-content">
+    <p>To post grades or submission comments, click the <strong>Post</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-gradebook" data-step-uuid="d59f4e1e-b401-4f7f-8bd9-6746b831f516">
+    <h2 id="view-gradebook" class="step-title screensteps-heading">View Gradebook</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/725/730/original/3eb2f4d0-a9eb-406e-89f4-9a9d34619cc4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/725/730/medium/3eb2f4d0-a9eb-406e-89f4-9a9d34619cc4.png" srcset="" alt="View Gradebook" height="455" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_497a2864-3355-44a4-935d-8fa006b940e9" class="text-block-content">
+    <p>Assignments with a manual posting policy display a <strong>Manual</strong> label [1] in the assignment header. If grades were posted to everyone for an assignment with a manual posting policy, future grades will post to students automatically. If grades or comments were posted only to students with graded submissions or submission comments, future grades will be hidden from students and the Visibility icon will display in the assignment header [2]. </p>
+<p>Assignments with an automatic posting policy do not display a Manual label in the assignment header [3]. Any future graded submissions will display to students.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,31 @@
+How do I grade one quiz question at a time in SpeedGrader as an instructor
+Open Quizzes
+In Course Navigation, click the Quizzes link.
+Open Quiz
+Click the name of the quiz you want to open. 
+Open SpeedGrader
+In the Sidebar, click the SpeedGrader link. 
+Open SpeedGrader Options
+To enable question grading, click the SpeedGrader settings icon and select Options from the drop-down menu.
+Select Grade by Question
+ Select the Grade by question (beta) checkbox.
+View Number Bar 
+When question grading is enabled, Canvas will display a number bar above the quiz view panel to represent each question in your quiz. 
+Numbers in gray boxes with gray numbers represent questions that have already been graded. These are multiple-choice, true/false, and other types of questions where instructors can assign the answer and have Canvas grade the quiz automatically. 
+Numbers in white boxes with blue numbers represent questions that need to be graded manually. Canvas will also display a red notification bar with the quiz questions that need to be reviewed and assigned a grade.
+Note: Manually graded questions will turn gray in the question bar once a score is entered and updated for a student.
+View Additional Questions 
+If the number of questions in your quiz exceeds the width of the number bar, you can use the arrows at either end of the number bar to advance to additional questions. 
+You can also scroll down the quiz to locate the quiz question you want to view. The number bar will adjust automatically as you scroll.
+Note: The question bar is dynamic according to the size of your browser view. Zooming into your browser’s window will decrease the number of questions in the number bar, while zooming out will increase the number of questions. The minimum number of questions that will appear within the largest zoom view is 18.
+Select Questions 
+To view a question, click the question number in the number bar. 
+If a question needs to be manually graded, you can click the question number directly within the notification window. 
+Note: When hovering over any box in the number bar, the box will temporarily fill with a light gray color to indicate which quiz number you want to select.
+View Blue Outline in Number Bar
+Once you begin to view the quiz, a blue outline around the number will identify the question you are currently viewing. A blue outline will also appear around the entire question.
+Assign Grade
+To assign a grade for a question or to revise the grade for an automatically graded question, enter the score in the points field, then click the Update Scores button.
+Note: You may also enter fudge points to adjust a student's score for an entire quiz. 
+Advance to Next Student
+To grade a student submission for the same question, click the arrow in the student menu or click the drop-down menu and select a student from the student list. SpeedGrader will show the same quiz question for the next student. 

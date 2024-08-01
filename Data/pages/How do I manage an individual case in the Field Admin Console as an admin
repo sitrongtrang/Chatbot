@@ -1,0 +1,342 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_76a1426f-03d1-43d8-bc9d-bb0766ceb5d4" class="text-block-content">
+    <p>After you have opened a case from the <a href="/t5/Admin-Guide/How-do-I-view-my-support-cases-in-the-Instructure-support-portal/ta-p/130" target="_blank">Cases page</a>, you can manage details for an individual case.</p>
+<p><strong>Note:</strong> Field Admin Console features may vary based on account and user settings. Based on the permissions for your role, you may not be able to view or use the features described in this lesson.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-case" data-step-uuid="1cb4a4cf-f2f3-43cd-880c-0a80b7392951">
+    <h2 id="open-case" class="step-title screensteps-heading">Open Case</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/053/252/original/46f0a666-0840-4f57-b94e-1578e63ecdbe.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/053/252/medium/46f0a666-0840-4f57-b94e-1578e63ecdbe.png" srcset="" alt="Open Case" height="281" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_451401dc-f004-43fb-b61a-20466e844d30" class="text-block-content">
+    <p><a href="/t5/Admin-Guide/How-do-I-view-my-support-cases-in-the-Instructure-support-portal/ta-p/130" target="_blank">To view all cases,</a> click the <strong>Cases</strong> tab [1]. </p>
+<p>To filter cases by Instructure product, status, cases created today, cases assigned to you, recently viewed cases, or triaged cases, click the <strong>Filter</strong> menu [2]. </p>
+<p>To search for a case, enter the case number or details in the <strong>Search</strong> field  [3].</p>
+<p>The click the case number link for the case you want to view [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-case" data-step-uuid="cdd5eef6-fa3e-4b2b-a045-52c645fffdd8">
+    <h2 id="view-case" class="step-title screensteps-heading">View Case</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/191/515/original/72c00e24-3915-40a2-93d1-bb802b3977fb.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/191/515/medium/72c00e24-3915-40a2-93d1-bb802b3977fb.png" srcset="" alt="View Case" height="258" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e73794aa-7044-4e87-8142-70c276d70293" class="text-block-content">
+    <p>Each case displays important details at a glance [1], including case number, owner name, date/time opened, highest escalation level, and contact name. </p>
+<p>You can also view the TIR status in the <strong>TIR Met</strong> field [2]. If the TIR was met, the field will display a Green flag icon. If the TIR was missed, the field will display a Red flag icon.</p>
+<p>To follow a case, click the <strong>Follow</strong> button [3]. To edit case details, click the <strong>Edit</strong> button [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-case-details" data-step-uuid="403e8063-c2fc-4691-b4f4-abeb823c2f6c">
+    <h2 id="view-case-details" class="step-title screensteps-heading">View Case Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/602/852/original/cf21fd7b-cfb3-4e9b-b501-fa44815f1133.png" srcset="" alt="View Case Details" height="569" width="419">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_251f0f0b-fceb-4fb9-b92e-3567258c8d2e" class="text-block-content">
+    <p>The Case Details fields allow you to view and edit information about the case, including:</p>
+<ul>
+<li>user to whom the case will be transferred [1]</li>
+<li>case status [2]</li>
+<li>name of the person who submitted the case[3] </li>
+<li>email address of the person who submitted the case [4]</li>
+<li>case subject [5] </li>
+<li>case description [6]</li>
+<li>Canvas URL where the case was submitted [7]</li>
+<li>Canvas components [8]</li>
+</ul>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-chatter-view" data-step-uuid="ad800dd8-7633-418e-b63e-db4ed86786ac">
+    <h2 id="view-chatter-view" class="step-title screensteps-heading">View Chatter Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/191/518/original/807f0762-0064-4429-85c3-04d53dc9110e.png" srcset="" alt="View Chatter View" height="463" width="811">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8e8f5377-bb27-4678-8fdb-3e2ae78ee964" class="text-block-content">
+    <p>To view the case activity feed and comments, click the <strong>Chatter</strong> tab [1].</p>
+<p>To add a comment to the case, enter your comment in the <strong>Share an update</strong> field [2] and click the <strong>Share</strong> button [3]. Comments entered through the Post option sends an email to the address listed in the Web email field for the case.</p>
+<p>To attach a comment to feed item, click the <strong>Comment</strong> link for the item [4]. To like a feed item, click the <strong>Like</strong> link [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="change-case-status" data-step-uuid="d2577cad-771b-4cb7-8633-bece1fb2a1e8">
+    <h3 id="change-case-status" class="step-title screensteps-heading">Change Case Status</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/191/522/original/79e398b4-921d-4254-be99-f47dd7b8962d.png" srcset="" alt="Change Case Status" height="227" width="773">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ab5e908a-95a6-4c4a-8069-8081089fe535" class="text-block-content">
+    <p>To change the case status, click the <strong>Change Status</strong> tab [1]. Then select the new status from the <strong>Status</strong> drop-down menu [2]. To save the status, click the <strong>Save</strong> button [3].</p>
+<p><strong>Note:</strong> When sending a message to Canvas Support, change the case status to Open. Otherwise, the support team may not receive your update. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="transfer-case" data-step-uuid="3619896e-8e0e-4bd1-b01e-27571d7a462d">
+    <h3 id="transfer-case" class="step-title screensteps-heading">Transfer Case</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/602/860/original/d4b0e2b4-a21f-4db8-9108-21c123c99813.png" srcset="" alt="Transfer Case" height="270" width="804">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_923f3072-61e0-418b-b71f-8ac42f7db938" class="text-block-content">
+    <p>To transfer the case, click the <strong>Transfer</strong> tab [1]. Then click the search field to located the field admin who will receive the case [2].</p>
+<p>To save, click the <strong>Save</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-details-tab" data-step-uuid="bea72940-dbe1-42b1-914f-ba26f371795f">
+    <h2 id="view-details-tab" class="step-title screensteps-heading">View Details Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/602/862/original/8eb9c09e-3651-4afa-b7a0-ddbb52925cd4.png" srcset="" alt="View Details Tab" height="310" width="785">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7801d398-fe4a-4589-b92c-a8b05f204306" class="text-block-content">
+    <p>To view case details, click the <strong>Details</strong> tab [1]. From the Details tab, you can view and edit information about a case.</p>
+<p>To edit a field in the Case Details tab, click the <strong>Edit</strong> icon [2].</p>
+<p>The <strong>Case Number </strong>field displays the case number [3]. The <strong>Subject</strong> field displays what the end-user typed in the subject line [4]. The <strong>Description</strong> field displays what the end-user typed in the case [5].</p>
+<p>The <strong>Case Owner </strong>field displays the user currently assigned to the case [6]. To change the case owner, click the <strong>Case Owner</strong> icon [7].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-canvas-details" data-step-uuid="32063799-5fd2-449b-ae1b-d9ae809fe9e0">
+    <h3 id="view-canvas-details" class="step-title screensteps-heading">View Canvas Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/901/883/original/eb1ff61f-2944-4be1-b5d4-396e2eb32e3d.png" srcset="" alt="View Canvas Details" height="335" width="784">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d98a54a1-3bf5-46de-a6b2-be7725b5568b" class="text-block-content">
+    <p>The <strong>Canvas Details</strong> section displays Canvas-specific information about the case [1]:</p>
+<ul>
+<li>
+<strong>Status</strong> [2]: displays the case status. Status can be set to open, new, pending, on hold, solved, or closed as duplicate.</li>
+<li>
+<strong>Become User URL</strong> [3]: displays the page where the user submitted the ticket. This URL also allows you to see what the end user sees in Canvas.</li>
+<li>
+<strong>Canvas URL</strong> [4]: displays Canvas instance from which case was submitted.</li>
+<li>
+<strong>Contact Name</strong> [5]: displays the name of the individual who facilitates communication with the Requester.</li>
+<li>
+<strong>Canvas Component Section</strong> [6]: describes whether the case relates to an entire account, a specific course, a Canvas user, an LTI or integration, or a non-Canvas issue.</li>
+<li>
+<strong>Canvas Component Affected</strong> [7]: describes the feature in Canvas where the bug or issue comes from.</li>
+<li>
+<strong>Canvas Component Action</strong> [8]: describes the action that led to the case creation.</li>
+<li>
+<strong>Canvas Component Issue</strong> [9]: describes the purpose behind the case creation.</li>
+<li>
+<strong>Disability/Accessibility Related</strong> [10]: designates if the case relates to disability or accessibility concerns.</li>
+</ul>
+<p>To learn more about options available for the Canvas Components fields, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Field-Admin-Console-Canvas-Components/ta-p/387087" target="_blank">Canvas Component resource document</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-email-copies" data-step-uuid="53829759-cd2b-4ea5-a278-b3a3d0b3b7f4">
+    <h3 id="add-email-copies" class="step-title screensteps-heading">Add Email Copies</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/503/876/original/709f70c7-7fd3-4c02-8b03-d22524733924.png" srcset="" alt="Add Email Copies" height="117" width="739">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b4cc0a65-de4e-47f0-9d21-9ac327097b71" class="text-block-content">
+    <p>The <strong>Add CC</strong> field contains any email address that will receive notifications for case updates.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-additional-information" data-step-uuid="6412d638-9377-4437-b168-106dfb324769">
+    <h3 id="view-additional-information" class="step-title screensteps-heading">View Additional Information</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/901/893/original/bfcf29e2-a2ff-409c-9bf1-7449b48615f7.png" srcset="" alt="View Additional Information" height="618" width="770">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a7065f49-e4ec-433b-a375-359574aca5da" class="text-block-content">
+    <p>The <strong>Additional Information</strong> section displays additional information that relates to the case [1]:</p>
+<ul>
+<li>
+<strong>Case Origin</strong> [2]: displays where the case originated, such as email, phone, or online submission.</li>
+<li>
+<strong>Priority</strong> [3]: describes the urgency with which the case should be addressed.</li>
+<li>
+<strong>Transfer</strong> [4]: allows users to transfer case to another field admin.</li>
+<li>
+<strong>Account Name</strong> [5]: displays the name of the account</li>
+<li>
+<strong>Web Email</strong> [6]: displays the requester's email address.</li>
+<li>
+<strong>Requester Name</strong> [7]: displays the name of the user who created the case.</li>
+<li>
+<strong>User ID</strong> [8]: displays the requester's user ID.</li>
+<li>
+<strong>Requester Role</strong> [9]: displays the requester's role(s). To add or remove a role, click the role title and click the Arrow keys [10].</li>
+</ul>
+<p>To disable notifications on the case, click the <strong>Disable Notifications</strong> checkbox [11].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-comment" data-step-uuid="bd843efc-4d82-41ca-b8ec-93111025c1d8">
+    <h3 id="add-comment" class="step-title screensteps-heading">Add Comment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/901/880/original/9da4a11e-3ada-422f-a82f-6b83e5c6170e.png" srcset="" alt="Add Comment" height="205" width="759">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_84325991-340b-4089-976f-8c10c51c63f2" class="text-block-content">
+    <p>To add a comment to the case, enter the comment in the <strong>Public Comment</strong> field.</p>
+<p>The <strong>Owner Name</strong> field displays the name of the case owner.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-web-information" data-step-uuid="ea65a713-f6e0-4ac4-b1ff-ae70db8fdb0e">
+    <h3 id="view-web-information" class="step-title screensteps-heading">View Web Information</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/905/718/original/d958ac4f-64f7-49c5-8366-67bddd53a0d9.png" srcset="" alt="View Web Information" height="266" width="393">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59487d66-871c-4211-9070-fb1cc700b8c0" class="text-block-content">
+    <p>The<strong> HTTP Environment</strong> field indicates the end user's operating system, browser version, and IP address [1]. To interpret this string, visit the <a href="https://udger.com/resources/online-parser" target="_blank" rel="nofollow noopener noreferrer">user agent string website </a>and paste the text in the window for analysis.</p>
+<p>The<strong> Stacktrace</strong> field contains the engineering error message [2]. This field will be filled out if the ticket was submitted from a Page Error report. This message is usually only decipherable by the engineer who wrote the code but may contain some information that will lead you on the right path toward resolution.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-files-tab" data-step-uuid="f391037a-8d61-45de-b599-8cd4ee55d54c">
+    <h2 id="view-files-tab" class="step-title screensteps-heading">View Files Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/602/867/original/8c9cd622-b7f0-4edb-ba31-dd26e87a065e.png" srcset="" alt="View Files Tab" height="256" width="769">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1ebed437-e665-49eb-9315-79daeb49856f" class="text-block-content">
+    <p>To view files, click the <strong>Files</strong> tab [1]. </p>
+<p>Each attached file displays the title [2], type [3], date of last modification [4], and user who attached the file [5].</p>
+<p>To view a preview of the file, click the file title [6]. To attach a new file, click the <strong>Upload Files</strong> button [7].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-case-actions-tab" data-step-uuid="0d73198d-ec53-4183-8041-7fcfd9391a18">
+    <h2 id="view-case-actions-tab" class="step-title screensteps-heading">View Macro Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/602/870/original/3ca841ea-db35-4a87-b782-6f1667d4a108.png" srcset="" alt="View Case Actions Tab" height="558" width="799">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60c48de5-15d1-4b71-96e8-556213c3e8ce" class="text-block-content">
+    <p>To apply a macro to the case, click the <strong>Macro</strong> tab [1]. You can apply a classic macro object or new object.</p>
+<p>To apply a new macro, click the <strong>Select Macro</strong> drop-down menu in the Apply Custom Macro Lighting menu [2]. Then click the <strong>Next</strong> button [3].</p>
+<p>To apply a classic macro, click the <strong>Macro</strong> drop-down menu [4] and click the <strong>Apply</strong> button [5].</p>
+<p><strong>Note:</strong> Old macros were deprecated on June 1, 2021.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-escalate-tab" data-step-uuid="bfdef176-da58-464f-91f9-9a2232f1bbb8">
+    <h2 id="view-escalate-tab" class="step-title screensteps-heading">View Escalate Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/602/872/original/d0cba660-b9be-401b-8e2f-515ee1fafde0.png" srcset="" alt="View Escalate Tab" height="122" width="806">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_34342e64-16d1-4b5d-93d2-4f5eb3226f82" class="text-block-content">
+    <p>To <a href="/t5/Admin-Guide/How-do-I-escalate-a-case-to-Canvas-Support-in-the-Field-Admin/ta-p/404487" target="_blank">escalate the case to Canvas Support</a>, click the <strong>Escalate</strong> tab [1] and click the <strong>Escalate</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-sis-escalation-tab" data-step-uuid="0a874667-6ddb-4493-b5fd-6e654e42f9ed">
+    <h2 id="view-sis-escalation-tab" class="step-title screensteps-heading">View SIS Escalation Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/092/413/original/3729d340-e931-4a6a-936c-52f985a34a6a.png" srcset="" alt="View SIS Escalation Tab" height="213" width="735">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e2f426d9-59a1-49cc-aaae-df12abbb3d3e" class="text-block-content">
+    <p>To <a href="/t5/Admin-Guide/How-do-I-escalate-an-SIS-case-to-SIS-Support-in-the-Field-Admin/ta-p/567739" target="_blank">escalate the case to the SIS support team</a>, click the <strong>SIS Escalation</strong> tab [1] and submit the SIS Case Form [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-recording-transcript-tab" data-step-uuid="be4f1ac0-8719-4203-94de-6c4c73b2a812">
+    <h2 id="view-recording-transcript-tab" class="step-title screensteps-heading">View Recording/Transcript Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/603/083/original/34db25af-0069-4712-9efe-4b177103ad14.png" srcset="" alt="View Recording/Transcript Tab" height="440" width="803">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c4a9d476-a72a-46fc-95bf-ab444b4cac47" class="text-block-content">
+    <p>To view phone recordings or chat transcripts from the case, click the <strong>Recording/Transcript</strong> tab [1].</p>
+<p>To view the full transcript for a chat, click the chat transcript date link [2].</p>
+<p>To listen to a call recording, click the call recording date link [3] and click the <strong>Open Call Recording</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,27 @@
+How do I change the status of a submission in SpeedGrader as an instructor
+View SpeedGrader
+SpeedGrader includes several areas to help you locate and view student submissions, grade submissions, and add comments to submissions.
+View Submission Status
+View the assignment status. To change the submission status, click the Edit button.
+Select Late Status
+To select a Late status, click the Late option. 
+The Late status indicates an assignment that was submitted after the due date. You can enter how late the student submitted the assignment in the Day(s) or Hour(s) field. The name of the field is determined by the late policy settings in the Gradebook.
+SpeedGrader displays the late penalty applied and the final grade for the assignment.
+Note: The Day(s)/Hour(s) field supports up to two decimal places.
+Select Missing Status
+To select a Missing status, click the Missing option. 
+The Missing status indicates an online assignment that has not been submitted and is past the due date.
+Note: When the Automatically apply grade for missing submissions setting is enabled, entering MI or mi in the assignment cell applies the missing status to an assignment.
+Select Excused Status
+To select an Excused status, click the Excused option. 
+The Excused status indicates that the student has been excused from making a submission. Students are not able to submit excused assignments, and excused assignments are not calculated in the student's total grade. You can also excuse an assignment by typing EX in the assignment cell. 
+Select Custom Status
+Depending on your institution, you may be able to view and select a custom status. 
+To select an custom status, click the custom status option. You cannot make changes to the custom statuses.
+Select No Status
+To select no status, click the None option.
+The None status indicates that no status exists, or that the assignment was turned in before the due date. 
+You can also update any late or missing assignment to have no status if you do not want a label displayed in the student's grades page.
+Student View Assignment Status
+Students can view a label for the given submission status in the Grades page. Labels display for late submissions and missing submissions. Excused assignments display EX in the assignment's Score field.
+Assignments without a status or None status do not display a label.

@@ -1,0 +1,31 @@
+How do I create a Multiple Answer question in New Quizzes as an instructor
+Add Question
+To create a question, click the Add button anywhere in the quiz.
+Add Multiple Answer Question
+Click the Add Multiple Answer button.
+Add Question Title and Stem
+In the Question Title field, add a question title. Question titles are optional and are not visible to students.
+In the Question Stem field, add the question stem. The question stem contains the question itself and, if necessary, additional instructions and information. You can use the Rich Content Editor to format and add content to your question stem.
+Add Answers
+To add answers to the Multiple Answer question, type the answers in the Answer fields. To select the correct answers, click the checkbox next to the answers. 
+To add an additional answer choice, click the Add Answer link. To delete an answer, click the Delete icon.
+Shuffle Choices
+To shuffle answer choices, click the Shuffle Choices checkbox. By default all answer choices are shuffled and display as unlocked. To lock an answer in its location, click the Lock icon. To unlock a locked question, click the Unlock icon.
+Enable On-Screen Calculator
+To allow students to use an on-screen calculator for this question, click the Show on-screen calculator checkbox. 
+If you select this option, you can choose either a basic calculator or scientific calculator. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.
+Note: The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.
+Select Grading Option
+You can select a grading option for the question. To award partial credit with a penalty for the question, click the Partial credit with penalty option. The Partial credit with penalty option awards points for each correct answer selected and deducts points for each incorrect answer selected.
+Partial credit is calculated by dividing the total points possible by the number of correct answers for the question. This amount is awarded for each correct answer selected and deducted for each incorrect answer selected. No points are awarded or deducted for answers that are not selected. Zero is the lowest possible score. For example, if a question is worth 4 points and there are 2 correct answers, Canvas divides 4 by 2 and awards 2 points for correct answers selected and deducts 2 points for incorrect answers. If a student selects 2 correct answers and 1 incorrect answer, the student will receive 2 points total (4 points awarded for correct answers and 2 points deducted for incorrect answers).
+To award points only for an exact match, click the Exact Match option. The Exact Match option only awards points if all correct answers are selected and no incorrect answers are selected.
+Align to Outcome
+To align the question to an outcome, click anywhere in the Align to Outcomes section.
+Add to Item Bank
+To add the question to an item bank, click the Add to Bank link.
+Note: After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.
+Add Point Value and Feedback
+To customize the point value for the question, type the point value in the Points field or use the arrows to increase or decrease the point value.
+To leave feedback for students, click the Feedback icon.
+Save Question
+To save the question, click the Done button.

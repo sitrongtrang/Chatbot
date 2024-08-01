@@ -1,0 +1,141 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8D5253E0-F53A-0138-1645-12F2183ABDFB" class="text-block-content">
+    <p>You can manage placements for an external app in your account. Placements determine where an app can be seen and used in Canvas. </p>
+<p>App placement categories include course navigation, account navigation, user navigation, homework submissions, Rich Content Editor button, migration selection, link selection (modules), and assignment selection.</p>
+<p>When managing app placements, placements can be set to active or inactive. Active placements display in the Canvas feature area listed in the App Placements menu. Inactive placements are removed from the Canvas feature area listed in the App Placements menu.</p>
+<p><strong>Note:</strong> Managing external app placements in the App Configuration page in account settings only applies to LTI 1.1 tools. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="8D5268A0-F53A-0138-1646-12F2183ABDFB">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8D5292E0-F53A-0138-1648-12F2183ABDFB" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="8D52AA20-F53A-0138-1649-12F2183ABDFB">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/748/620/original/2eaffa29-a595-456d-a6c6-7bbd61b737e6.png" srcset="" alt="Open Settings" height="232" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8D52D460-F53A-0138-164B-12F2183ABDFB" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_apps" data-step-uuid="8D52E690-F53A-0138-164C-12F2183ABDFB">
+    <h2 id="open_apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/850/457/original/f0a12df7-8c0e-484a-9915-a53f99e61419.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/850/457/medium/f0a12df7-8c0e-484a-9915-a53f99e61419.png" srcset="" alt="Open Apps" height="78" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8D530830-F53A-0138-164E-12F2183ABDFB" class="text-block-content">
+    <p>Click the <strong>Apps </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_app_configurations" data-step-uuid="8D532390-F53A-0138-164F-12F2183ABDFB">
+    <h2 id="view_app_configurations" class="step-title screensteps-heading">View App Configurations </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/850/455/original/27d2cd57-4d08-4849-9f58-c171f3cdc66d.png" srcset="" alt="View App Configurations " height="232" width="758">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8D534B40-F53A-0138-1651-12F2183ABDFB" class="text-block-content">
+    <p>To configure an app, click the <strong>View App Configurations</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-placements" data-step-uuid="e8742c7a-8928-4779-bb98-3d2343764855">
+    <h2 id="open-placements" class="step-title screensteps-heading">Open Placements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/850/451/original/a19271e9-b8f8-43c4-9a11-db742182a616.png" srcset="" alt="Open Placements" height="423" width="763">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94c33daa-6e59-4b6c-902f-f1554a1e84e6" class="text-block-content">
+    <p>Locate the external app you want to manage [1]. Then click the <strong>Settings</strong> button [2] and select the <strong>Placements</strong> option [3].</p>
+<p><strong>Note: </strong>When you click the Placements link, you may see a No Placements Enabled message. This message indicates that the app does not have any specified placements within Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-placements" data-step-uuid="16988c89-d191-4816-a5c3-7c1a10020cc5">
+    <h2 id="view-placements" class="step-title screensteps-heading">View Placements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/850/459/original/e3cfdab2-1ac6-4665-8917-8250c370c5cc.png" srcset="" alt="View Placements" height="294" width="321">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cbc0d27f-ffe5-473f-bdc2-58dbe02d9110" class="text-block-content">
+    <p>The App Placements menu displays all placements for the external app [1]. An active placement displays the <strong>Checkmark</strong> icon [2]. An inactive placement displays the <strong>X </strong>icon [3].</p>
+<p>Depending on the LTI tool, the following app placement categories can be viewed in the App Placements Menu:</p>
+<ul>
+<li>Assignment Selection: Configure an LTI tool to be selectable as an assignment during assignment creation or editing.</li>
+<li>Editor Button: Configure an LTI tool to display as a button in the Rich Content Editor.</li>
+<li>Homework Submissions: Configure an LTI tool to display when a student is submitting content for an assignment. When a tool is configured, users will see an additional tab during assignment submission for assignments that accept online submissions.</li>
+<li>Link Selection: Configure an LTI tool to select LTI to launch URLs as module items.</li>
+<li>Navigation: Configure an LTI tool to display as a link in the navigation for a course, account, or user.</li>
+<li>Migration Selection: Configure an LTI tool to display in the Course Imports menu of a course.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-placement" data-step-uuid="91348ab9-f3d6-4748-9d93-e800f9c77a0f">
+    <h2 id="manage-placement" class="step-title screensteps-heading">Manage Placement</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/850/453/original/bba906c3-a68a-423e-bf73-161935577e4f.png" srcset="" alt="Manage Placement" height="292" width="357">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dd789d7a-752c-4265-b0c8-3c0fd32fee56" class="text-block-content">
+    <p>To disable an active placement,  click the <strong>Checkmark</strong> icon [1]. To enable an inactive placement, click the <strong>X </strong>icon [2].</p>
+<p>To close the App Placements menu, click the <strong>Close</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

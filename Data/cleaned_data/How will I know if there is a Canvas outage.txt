@@ -1,0 +1,12 @@
+How will I know if there is a Canvas outage
+View Canvas Status Page
+Visit status.instructure.com for incident reports regarding Canvas. The reports are global announcements that may or may not affect your institution. The Canvas Status Page will only include outages that last longer than 15 minutes.
+View Status Icons
+On the Status Page, icons are used to describe the current status of Canvas as a whole and specific components within Canvas. These icons will correlate with the following statuses:
+Operational: component is working as expected
+Degraded Performance: component is experiencing slowness outside of expected range
+Partial Outage: component is experiencing extreme slowness with intermittent downtime that typically affects a small subset of users
+Major Outage: component is no longer functional or experiencing partial outage that affects large number of Canvas users
+Maintenance: component has been intentionally taken down for major repairs
+Subscribe to the Admin Mailing List
+Contact your Customer Success Manager to subscribe to the Admin Mailing List. If you are subscribed to the mailing list, you will receive emails if your institution is affected by a Canvas outage. 

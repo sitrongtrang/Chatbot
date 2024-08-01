@@ -1,0 +1,155 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2D0E0300-2223-0135-119B-22000AB760A3" class="text-block-content">
+    <p>A grading scheme is a set of criteria that measures varying levels of achievement in a course. Course-level grading schemes are grading schemes that you can create and enable for a course or assignment. Account-level grading schemes are grading schemes created by your institution that you can use in a course or assignment. Without a grading scheme, scores are not measured against any specific standard. </p>
+<p>You can <a href="/t5/Instructor-Guide/How-do-I-enable-a-grading-scheme-for-a-course/ta-p/1042" target="_blank">enable a grading scheme</a> created by your institution, you can <a href="/t5/Instructor-Guide/How-do-I-add-a-grading-scheme-in-a-course/ta-p/1054" target="_blank">add a new grading scheme</a> specific to your course, and you can <a href="/t5/Instructor-Guide/How-do-I-view-and-manage-grading-schemes-in-a-course/ta-p/1188" target="_blank">view and manage grading schemes</a>.</p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/Grading-Schemes-Admins/ta-p/383872" target="_blank">View a video about Grading Schemes</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="common_grading_schemes" data-step-uuid="3dfa0040-e674-48cf-af07-eba84f394dba">
+    <h2 id="common_grading_schemes" class="step-title screensteps-heading">Common Grading Schemes</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2D0E8970-2223-0135-119C-22000AB760A3" class="text-block-content">
+    <p>Grading schemes are built based on points and percentage ranges, and each percentage range is assigned a name value. You can create any type of grading scheme by editing the name and percentage range for each item. When enabling a grading scheme for a course, the grading scheme is applied to the students' final grades in addition to the overall percentage. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Grading schemes only support two decimal places.</li>
+<li>The only scores allowed in the Gradebook are those defined in the grading scheme. </li>
+<li>Gradebook entries that are not specifically defined in the grading scheme revert back to the icon showing that the submission needs to be graded. Depending on an assignment's display grade, some Gradebook entries cannot convert to a grading scheme.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="letter_grades" data-step-uuid="32956375-770b-41a3-8f2b-bc076114b3e2">
+    <h3 id="letter_grades" class="step-title screensteps-heading">Letter Grades</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/260/523/original/45a04704-659c-41ce-aa39-baaae2a68c5e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/260/523/medium/45a04704-659c-41ce-aa39-baaae2a68c5e.png" srcset="" alt="Letter Grades" height="560" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2D0F10E0-2223-0135-119E-22000AB760A3" class="text-block-content">
+    <p>Letter Grades is the most traditional type of grading scheme and is the default format for new grading schemes. Only supported scores are allowed in the Gradebook, so if you build a letter grade scheme with name values for only A, B, and C, you cannot enter a score that converts to an A- or B+.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="performance" data-step-uuid="a0239157-3141-440d-b2b8-0a7a918483d7">
+    <h3 id="performance" class="step-title screensteps-heading">Performance</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/526/original/a9712af5-633f-44cf-90db-eb476e07ed39.png" srcset="" alt="Performance" height="408" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2D0F78D0-2223-0135-11A2-22000AB760A3" class="text-block-content">
+    <p>Performance grading schemes are based on a standard of individual performance. Only supported scores are allowed in the Gradebook, so if you build a performance scheme with the name values of only <em>Excellent</em> and <em>Poor</em>, you cannot enter a score of <em>Good</em>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="points" data-step-uuid="2f9fccbd-cc47-44b4-ae34-ddbfb4447666">
+    <h3 id="points" class="step-title screensteps-heading">Points</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/528/original/a81a9a7d-4025-4441-8b3e-c67ce088a90f.png" srcset="" alt="Points" height="450" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e2edf764-2ea4-42e1-acc2-497fbaf601a8" class="text-block-content">
+    <p>Points grading schemes are based on a set of points in a range. When the course grading scheme is point-based, Assignment Group totals and Final Score display a tooltip of raw earned points and total points. In the gradebook cell, points display scaled points as fractions.</p>
+<p><strong>Note:</strong> When the Final Grade Override feature option is enabled for an institution and a course is using a point-based grading scheme, instructors can override the grade with a letter grade only.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course_grading_schemes" data-step-uuid="77970745-d2e3-43c2-b6c7-dc397f63a0e8">
+    <h2 id="course_grading_schemes" class="step-title screensteps-heading">Course Grading Schemes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/272/360/original/eab62955-5056-4268-b966-f3d4f6fae1c8.png" srcset="" alt="Course Grading Schemes" height="362" width="846">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2D0FB310-2223-0135-11A4-22000AB760A3" class="text-block-content">
+    <p>When enabling a grading scheme for a course, the grading scheme is applied to the students' final grades in addition to the overall percentage. Learn how to enable a <a href="/t5/Instructor-Guide/How-do-I-enable-a-grading-scheme-for-a-course/ta-p/1042" target="_blank">course grading scheme</a>.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="student_view" data-step-uuid="35b7b1ba-4641-4c3e-8b70-6e39c94ac793">
+    <h3 id="student_view" class="step-title screensteps-heading">Student View</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/055/471/original/5154b0d2-02d8-4b26-912b-7cb72c719f5b.png" srcset="" alt="Student View" height="1031" width="850">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2D0FE680-2223-0135-11A6-22000AB760A3" class="text-block-content">
+    <p>Students can view the results of the grading scheme on their Grades page.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assignment_grading_schemes" data-step-uuid="af8c3c11-05c5-441d-a71a-39221dd92348">
+    <h2 id="assignment_grading_schemes" class="step-title screensteps-heading">Assignment Grading Schemes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/055/469/original/6390f1a6-4938-48db-a410-06086f1cbf06.png" srcset="" alt="Assignment Grading Schemes" height="363" width="623">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2D101810-2223-0135-11A8-22000AB760A3" class="text-block-content">
+    <p>Grading schemes can be applied specifically to individual assignments. Each assignment includes a field that allows you to choose how the grade is displayed in the Gradebook and in the student Grades page. Learn how to enable an <a href="/t5/Instructor-Guide/How-do-I-add-a-grading-scheme-to-an-assignment/ta-p/1066" target="_blank">assignment grading scheme</a>.</p>
+<p>For <strong>Letter Grade Schemes</strong>, you can input scores in the Gradebook depending on the assignment display type:</p>
+<ul>
+<li>For any assignment type, you can enter grades as points or a percentage. For instance, if an assignment is worth 10 points and the student earns 9, you can input 9 or 90% (which displays the grade defined in the percentage range). </li>
+<li>When an assignment grade display is specifically set to Letter Grade, you can also input a letter grade directly, such as an A-. </li>
+</ul>
+<p>For <strong>Performance schemes</strong>, you can input scores in the Gradebook by points, percentage, or performance value. For instance, if an assignment is worth 10 points and the student earns 9, you can input 9 or 90% (which displays the performance defined in the percentage range). You can also input a performance value directly.</p>
+<p><strong>Note:</strong> Grading schemes do not apply to Assignment Group columns in the Gradebook. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="student_view_1" data-step-uuid="3e44784a-6d19-4399-b38c-fbde2edae956">
+    <h3 id="student_view_1" class="step-title screensteps-heading">Student View</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/055/466/original/80bd5464-3abf-4610-b305-2ba253f12b8f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/055/466/medium/80bd5464-3abf-4610-b305-2ba253f12b8f.png" srcset="" alt="Student View" height="525" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2D1048C0-2223-0135-11AA-22000AB760A3" class="text-block-content">
+    <p>In the Grades page, students can see their grades displayed with both the points earned and the grading scheme equivalent.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

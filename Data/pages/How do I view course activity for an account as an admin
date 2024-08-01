@@ -1,0 +1,140 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_647256E0-1CA4-0135-38D2-22000AB760A3" class="text-block-content">
+    <p>As an admin, you can generate a course activity log for a course in your account. This log includes a <a href="https://canvas.instructure.com/doc/api/courses.html" target="_blank" rel="nofollow noopener noreferrer">time-stamped overview of all activity for a course</a>, including user name, activity type, source, and a link to view the activity details.</p><p><strong>Notes:</strong></p><ul>
+<li>Course activity in Admin Tools cannot be viewed by sub-account admins.</li>
+<li>Course activity stores course data for up to one year.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="f864551c-59d9-4c3d-b042-b5096c1c1982">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f44fd06c-3ac4-4d41-968f-f7930475e643" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_admin_tools" data-step-uuid="e6254b74-b37b-44b9-955b-6b14666b0656">
+    <h2 id="open_admin_tools" class="step-title screensteps-heading">Open Admin Tools</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png" srcset="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png 2.0x, https://media.screensteps.com/image_assets/assets/005/796/780/original_lowres/open-admin-tools.png" alt="Open Admin Tools" height="282" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_647290B0-1CA4-0135-38D4-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Admin Tools </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_logging" data-step-uuid="daaad1c0-c5ab-415b-b3b1-f42eab470fd4">
+    <h2 id="open_logging" class="step-title screensteps-heading">Open Logging</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/043/849/original/684129a0-8222-4803-8001-279c9ef54822.png" srcset="" alt="Open Logging" height="286" width="523">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6472C410-1CA4-0135-38D6-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Logging</strong> tab. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_log_type" data-step-uuid="d88eed56-cb0c-40ac-bc13-9d8f52f49d51">
+    <h2 id="select_log_type" class="step-title screensteps-heading">Select Log Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/043/851/original/906f4d7b-88de-4733-85d9-58981c11eabf.png" srcset="" alt="Select Log Type" height="286" width="523">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6472F530-1CA4-0135-38D8-22000AB760A3" class="text-block-content">
+    <p>From the log type drop-down menu, select the <strong>Course Activity </strong>option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search_by_course_name_or_course_id" data-step-uuid="9f3695e1-d017-472e-bb39-a2286e67c8c6">
+    <h2 id="search_by_course_name_or_course_id" class="step-title screensteps-heading">Search by Course Name or Course ID</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/537/original/d07764df-f6c3-447a-8abc-029e8e9a7390.png" srcset="" alt="Search by Course Name or Course ID" height="345" width="542">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_64732490-1CA4-0135-38DA-22000AB760A3" class="text-block-content">
+    <p>Search by <strong>Course ID</strong> or course name [1]. You can locate your course ID number at the end of your course URL (i.e. canvas.instructure.com/courses/XXXXXX).</p>
+<p>Once you start to type the course information, Canvas will generate a drop-down list of matching Canvas courses. Results are based on valid field entries, so if no results appear (especially if searching by name), confirm the information and try again.</p>
+<p>You can also enter a date range in the date fields [2]. Dates are not required, but adding dates will narrow your results.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_course_activity" data-step-uuid="fb17c985-bd5a-4dc4-a7da-2353a07c9636">
+    <h2 id="find_course_activity" class="step-title screensteps-heading">Find Course Activity</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/693/670/original/cd173ef0-da6c-4c1a-9ad6-4d17647f904d.png" srcset="" alt="Find Course Activity" height="68" width="90">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_64735650-1CA4-0135-38DC-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Find </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course_activity" data-step-uuid="26ceef34-d9e1-49b6-bc2c-59a47531d487">
+    <h2 id="view_course_activity" class="step-title screensteps-heading">View Course Activity</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/693/672/original/21b6d937-eefb-42be-bc4a-f374f0072f6c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/693/672/medium/21b6d937-eefb-42be-bc4a-f374f0072f6c.png" srcset="" alt="View Course Activity" height="198" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_64738AA0-1CA4-0135-38DE-22000AB760A3" class="text-block-content">
+    <p>Canvas will display any applicable results for the field(s) you selected:</p>
+<ul>
+<li>The <strong>Date </strong>of the activity</li>
+<li>The <strong>Time</strong> of the activity</li>
+<li>The <strong>User </strong>who performed the activity</li>
+<li>The <strong>Type </strong>of activity (concluded, unconcluded, published, deleted, restored, updated, created, copied to, copied from, reset to, and reset from)</li>
+<li>The <strong>Source</strong> of the activity (manual or via API)</li>
+<li>The <strong>Event Details</strong> of the activity type (click View Details link) </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

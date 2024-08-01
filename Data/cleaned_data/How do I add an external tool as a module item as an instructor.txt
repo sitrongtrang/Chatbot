@@ -1,0 +1,19 @@
+How do I add an external tool as a module item as an instructor
+Open Modules
+In Course Navigation, click the Modules link.
+Add Module Item
+Click the Add Item button.
+Add External Tool
+In the Add [Item Type] To: drop-down menu, select the External Tool option.
+Find External Tool
+Locate the configured tool and click the Search icon. An external window will appear in your browser; follow the instructions to add the tool.
+Add Unconfigured Tool
+If you want to add a tool that has not been configured in your course, locate the configuration URL for the tool you want to link to and type the URL in the URL field. 
+Give your External Tool a Page Name. 
+To have the tool open in a new browser tab, click the Load this tool in a new tab checkbox. When adding external tools as module items in the future, the option you select, to open the tool in the existing tab or a new tab, displays as the default.
+Choose whether or not to indent the item in the module drop-down menu. 
+Note: Because Basic LTI configurations can be added at a later time, the dialog will accept URLs that don't match any existing configurations. However, when you try to navigate to an external tool that is not configured, you'll see an error message indicating the problem. 
+Add Item
+Click the Add Item button.
+View Module
+View the external tool in your module.

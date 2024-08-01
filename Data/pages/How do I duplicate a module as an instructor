@@ -1,0 +1,92 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9bdabde9-2bb8-4f55-bebe-3c78e7455019" class="text-block-content">
+    <p>You can duplicate assignments, graded discussions, and pages in a module within a course. When a module is copied, the word <em>Copy</em> is added to the end of the module.</p>
+<p>Duplicating a module defaults the copied module to an unpublished status. <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-assignment/ta-p/636" target="_blank">Assignment duplication</a>, <a href="/t5/Instructor-Guide/How-do-I-duplicate-a-page-in-a-course/ta-p/630" target="_blank">page duplication</a>, and <a href="/t5/Instructor-Guide/How-do-I-duplicate-a-discussion-in-a-course/ta-p/756" target="_blank">discussion duplication</a> are currently supported in modules. Please note the exceptions associated with each item type. </p>
+<p>Items duplicated in the Modules page follow the same behavior as a new item created in a module. The item displays in the Modules page but is also visible in the item's respective index page. All assignments, pages, and graded discussions within the copied module also include the word Copy at the end of the module item name.</p>
+<p><strong>Duplication Limitations</strong></p>
+<p>The following limitations apply when duplicating a module:</p>
+<ul>
+<li>
+<strong>Quizzes</strong>—Only quizzes created with New Quizzes are supported for duplication within modules. If a module contains a quiz created with the classic Canvas quiz tool, the option to duplicate a module does not display in the module menu. Modules can be duplicated by removing the classic quiz from the module. Classic quizzes are indicated by an empty Quiz icon; New quizzes are indicated by a filled Quiz icon.</li>
+<li>
+<strong>External Tool (LTI) Assignments</strong>—A module cannot be duplicated if it contains an external tool (LTI) assignment. If a module contains an external tool assignment, the option to duplicate a module does not display in the module menu. Modules can be duplicated by removing the external tool assignment from the module. The only exception to LTI tools is New Quizzes.</li>
+</ul>
+<p> </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If applicable, the Modules page displays any Blueprint Course icons after the page is refreshed.</li>
+<li>The content in a MasteryPath module can be duplicated, but the duplicate will not retain the MasteryPath.</li>
+<li>If you have set prerequisites or unlock dates for modules, they are not included as part of the duplicate.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-modules" data-step-uuid="a87e1c06-a8c6-4759-8e63-8367d2fe92cd">
+    <h2 id="open-modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/325/original/ea459c9b-28c3-4cd8-b96c-205f3f7d71bb.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2c3a6bc6-7800-4489-8a2c-92932773ff14" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="duplicate-module-item" data-step-uuid="1c678e2c-b56d-48ad-a8b2-6118215b4961">
+    <h2 id="duplicate-module-item" class="step-title screensteps-heading">Duplicate Module</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/351/149/original/16e21270-2315-4380-95df-06c69eaad154.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/351/149/medium/16e21270-2315-4380-95df-06c69eaad154.png" srcset="" alt="Duplicate Module" height="358" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a55be65d-984b-418b-bc12-28edd86c20c3" class="text-block-content">
+    <p>Locate the module you want to duplicate and click the <strong>Options</strong> icon [1]. Click the <strong>Duplicate</strong> link [2].</p>
+<p><strong>Note: </strong>If a module cannot be duplicated, the Duplicate link will not appear in the Options menu.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-duplicate" data-step-uuid="e20be95e-f3ac-46e3-80ee-863b3d79fb0c">
+    <h2 id="view-duplicate" class="step-title screensteps-heading">View Duplicate</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/351/153/original/dbb69e55-2fc7-4890-9643-49109e15fa27.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/351/153/medium/dbb69e55-2fc7-4890-9643-49109e15fa27.png" srcset="" alt="View Duplicate" height="355" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ecd8df37-8aef-4319-bc8a-209c2293e54b" class="text-block-content">
+    <p>View the duplicate module in the Modules Index Page.</p>
+<p><strong>Note: </strong>If applicable to your course, the Modules page displays any Blueprint Course or Sync to SIS icons after the page is refreshed.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

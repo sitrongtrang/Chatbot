@@ -1,0 +1,54 @@
+How do I view assignments or students individually in the Gradebook as an instructor
+Open Gradebook
+In Course Navigation, click the Grades link.
+Switch to Individual Gradebook
+Click the Gradebook menu, then click the Individual Gradebook link.
+Select Section
+In the Select a section drop-down menu, select the section you want to view.
+Select Grading Period
+When Multiple Grading Periods are enabled in a course, select the grading period you want to view in the Select a Grading Period drop-down menu. 
+Note: You can only manage grades for assignments in a current or future grading period. Once the close date for a grading period has passed, you cannot edit grades for the prior grading period.
+Sort Assignments
+In the Sort assignments drop-down menu, select how to sort assignments. You can sort by assignment group and position, alphabetically, or by due date.
+Select Gradebook Settings
+Select any settings you want to display in the Gradebook Individual View.
+To give ungraded assignments a zero grade, click the Treat Ungraded Assignments as 0 checkbox.
+To hide student names, click the Hide Student Names checkbox. To display concluded enrollments, click the Show Concluded Enrollments checkbox.
+To display theNotes Column in the Student Information section, click the Show Notes in Student Info checkbox. To show totals as points instead of percentage, click the Show Totals as Points on Student Grade Page checkbox.
+Notes:
+The Treat Ungraded Assignments as 0 option may be restricted when multiple grading periods are enabled
+The Show Totals as Points on Student Grade Page option is only available if you are using unweighted assignment groups in your course
+You can also select additional Gradebook settings by clicking the corresponding button: 
+To download scores in a CSV file, click the Download Current Scores button.
+To upload scores in a CSV file, click the Upload Scores button.
+To view the history of grading changes, click the View Gradebook History link.
+Select Student
+In the Select a student drop-down menu, select the name of the student whose information you want to view. If you want to view all students beginning with the first student in your course or section, click the Next Student button. To return to the previous student, click the Previous Student button.
+Student names will be sorted by last name and displayed according to your section preference in the Global Settings drop-down menu.
+Select Assignment
+In the Select an assignment drop-down menu, select the student's assignment you want to view. If you want to view the first assignment in your course, click the Next Assignment button. To view the previous assignment, click the Previous Assignment button.
+Assignments will be displayed according to your sorting preference in the Global Settings drop-down menu.
+View Gradebook Information
+Once you select a student and an assignment, the Grading, Student Information, and Assignment Information sections will display all corresponding content. Scroll down the page to view each of these sections. You can revisit the Gradebook settings at any time to hide and show settings.
+In the Grading section, you can manage the grade for the selected student and assignment.
+To change a student's grade, enter the grade in the Grade field. To excuse the assignment,click the Excuse This Assignment for the Selected Student checkbox.
+To view submission details, click the Submission Details button.
+View Submission Details
+The Submission Details page displays the assignment grade, submission date and time, and any submitted files. To view more details, click the More details in the SpeedGrader link.
+To change the grade, enter the grade in the Grade field and click the Update Grade button.
+To add a comment for the student, enter the comment in the Add a comment field and click the Post Comment button.
+View Student Information
+The Student Information section displays the student's name, secondary ID, and course sections. To open the student's Grades page, click the name of the student.
+If the Show Notes in Student Info option has been selected in Global Settings, Student Information section will also display the Notes field.
+In the Grades table, you can view grades for each assignment group. When grading periods are weighted and the All Grading Periods options is selected, the Grades section displays the weight of each grading period.
+The Grades table also displays the student's final grade. The final grade may not be available when multiple grading periods are enabled.
+View Assignment Information
+The Assignment Information section allows you manage settings and view information for the entire assignment.
+To open the assignment details page, click the name of the assignment. To open the assignment in SpeedGrader, click the See this assignment in SpeedGrader link.
+To download all submissions, click the Download all submissions button.
+You can also view the submission types enabled for the assignment, the number of graded submissions, the number of points possible, average score, high score, and low score.
+To send a message to students who meet specific criteria, click the Message Students who button.
+To set a default grade for the assignment, click the Set default grade button. To curve grades for the assignment, click the Curve Grades button.
+Note: The Message students who button will not display if you are viewing an anonymous assignment.
+Switch to Traditional Gradebook
+To switch to the Traditional Gradebook, click the Gradebook drop-down menu and select the Traditional Gradebook option.

@@ -1,0 +1,29 @@
+How do I configure an LTI key for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Developer Keys
+In Account Navigation, click the Developer Keys link.
+Add LTI Key
+Click the Add Developer Key button. Then click the Add LTI Key option.
+Enter LTI Settings
+Enter the settings for the LTI key:
+Key Name: The name of the company or external tool.
+Owner Email: The email of the person who owns the external tool.
+Redirect URIs: Redirect URI data should be provided by the tool provider. If you select the Paste JSON configuration method, the Redirect URI field will fill in automatically once you have entered the LTI 1.3 configuration.
+Notes: Any notes about the LTI key, such as the reason it was created.
+Select Configuration Method
+To select the method you want to use to configure your LTI tool, click the Method drop-down menu.
+Enter Manual Entry Details
+To manually enter the details for your LTI key, click the Manual Entry option.If the tool provider requests that their tool be set up via manual entry, they will need to provide the details to fill the required fields. Required fields are title, description, target link URL, OpenID connect initiation URL, and JWK method. JWK method can be set to public JWK or public JWK URL.You can also enter non-required details for LTI Advantage services, additional settings and placements. Any items selected in the Placements field will display as LTI setting items.Notes:
+If the LTI vendor is unable to provide the information for the required fields, you may want to configure the tool via the Paste JSON or Enter URL option.
+LTI keys created without icons in the Editor Button placement automatically display a default icon with the first initial of the tool’s name in the Rich Content Editor.
+To have the LTI as an assignment submission type, select the Submission Type Selection placement type. The Submission Type Selection placement is only available for Instructure approved LTI tools.
+Enter JSON Details
+To paste JSON formatting for your LTI 1.3 configuration, click the Paste JSON option.Then enter the JSON formatting in the LTI 1.3 Configurationfield.
+Enter JSON URL
+To enter a JSON URL, click the Enter URL option. Then enter the JSON URL in the JSON URL field.
+Save LTI Key
+To save your LTI key, click the Save button.Note:If you add a LTI tool and the LTI tool includes a Submission Type Selection placement that is not approved by Instructure for the particular LTI tool, a warning will display after saving the LTI Key.
+View LTI Key
+View your LTI key. LTI keys are indicated by the External Tool icon.
+Each LTI key includes a client ID. Copy or write down the client ID to enable the external tool from your Account Settings or to share it with users to enable the tool in a course.

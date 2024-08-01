@@ -1,0 +1,186 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_75aa91d2-846e-47c6-ab68-4a5d23484e79" class="text-block-content">
+    <p>If the Account and Course Level Outcome Mastery Scales feature option is enabled for your account, mastery scales and calculation methods are separated from individual outcomes and the Outcomes page displays Mastery Scales and Calculation Methods tabs. </p>
+<p>From the Mastery tab, you can set mastery scales for the entire account.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Enabling the Account and Course Level Outcome Mastery Scales feature option will affect current account data.</li>
+<li>The default criterion mastery ratings display a 0-4 scale.</li>
+<li>If a rubric with aligned outcomes has been used to assess an assignment before Account and Course Level Outcome Mastery Scales are enabled, the assignment is not affected. However, any assignments not previously assessed by the rubric are affected if mastery scores are adjusted.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="6988c67a-28f2-4ce8-acce-1b682dd6bc66">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_23945580-97f4-4be8-8b2b-a85ce18b2ee6" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="b84bfc3c-e213-4f5c-bb37-0a93554c57f7">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/832/788/original/cda2108d-b74e-42f3-821e-ad4d0eb5101c.png" srcset="" alt="Open Outcomes" height="282" width="160">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f4e41a60-a965-49ff-91c2-873357d071ef" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-mastery" data-step-uuid="a160fd80-967a-470e-96ea-2dda04021ff5">
+    <h2 id="open-mastery" class="step-title screensteps-heading">Open Mastery</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/002/669/original/5e28aa74-2709-4775-886b-1df5c4c6c2a3.png" srcset="" alt="Open Mastery" height="69" width="345">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b60ba97b-ea80-4d25-b4f9-d68486fdfe72" class="text-block-content">
+    <p>To view and manage the mastery scale for the account, click the <strong>Mastery</strong> tab.</p>
+<p><strong>Note:</strong> If the Mastery tab does not display in the Outcomes page, account-level outcome mastery scales have not been enabled by your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-mastery-scale" data-step-uuid="1d9215ab-5068-48d0-a785-78b28839b943">
+    <h2 id="manage-mastery-scale" class="step-title screensteps-heading">Manage Mastery Scale</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/003/575/original/c73dd89b-604e-4a96-bd15-352a65087be7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/003/575/medium/c73dd89b-604e-4a96-bd15-352a65087be7.png" srcset="" alt="Manage Mastery Scale" height="503" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1678e81d-151a-4eed-8669-9cf27fe40d59" class="text-block-content">
+    <p>The Mastery page displays the mastery scale used as the default for all courses in your account. By default, the account mastery scale includes five levels: Exceeds Mastery, Mastery, Near Mastery, Below Mastery, and No Evidence.</p>
+<p>For each mastery level, you can view a description for the level [1], level points [2], and level color [3].</p>
+<p>To modify a  level description, enter a description in the <strong>Description</strong> field [4].</p>
+<p>To modify the point value associated with level achievement, enter a value in the <strong>Points</strong> field [5].</p>
+<p>To specify the level that indicates student mastery, locate the level in the list and click the <strong>Mastery</strong> radio button [6].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="change-color" data-step-uuid="37542f52-2abc-4074-b373-01aef61b0ec2">
+    <h2 id="change-color" class="step-title screensteps-heading">Change Color</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/003/577/original/1a3d5777-8ebe-44f2-9a2e-372435aa78d8.png" srcset="" alt="Change Color" height="383" width="207">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bd4eaaa3-8436-40aa-9af2-85b10fe81eb7" class="text-block-content">
+    <p>Each mastery level is assigned a color that displays when viewing outcome scores in the Learning Mastery Gradebook. To change the level's color, click the <strong>Change</strong> link [1]. Then click the icon for the color you want to use [2] or enter the color's hex code in the text field [3]. If the hex code is not valid, the field displays a warning icon. Any variation of white is not accepted as a color.</p>
+<p>To save your color selection, click the Apply button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-mastery-level" data-step-uuid="6fd9f8a3-6940-4ae3-aac5-ad9cf9ac1ecd">
+    <h2 id="add-mastery-level" class="step-title screensteps-heading">Add Mastery Level</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/003/579/original/d80fae24-1bdf-46e2-808f-9fb9642bfb14.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/003/579/medium/d80fae24-1bdf-46e2-808f-9fb9642bfb14.png" srcset="" alt="Add Mastery Level" height="141" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5887b77c-5b54-4bf2-9574-7fb6c727c7f1" class="text-block-content">
+    <p>To add a new mastery level, click the <strong>Add Mastery Level</strong> button [1]. The new level displays at the bottom of the list and cannot be moved [2]. However, the mastery levels will be sorted numerically after your changes are saved.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete-mastery-level" data-step-uuid="da6e35c3-10c8-4143-a3e1-3f970bbd3d35">
+    <h2 id="delete-mastery-level" class="step-title screensteps-heading">Delete Mastery Level</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/003/581/original/dd02179e-f440-4ba5-9c44-966e6eb13e23.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/003/581/medium/dd02179e-f440-4ba5-9c44-966e6eb13e23.png" srcset="" alt="Delete Mastery Level" height="266" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d38e5fd6-aef6-4c3a-aea2-f811d2d95bc0" class="text-block-content">
+    <p>To delete a mastery level, click the <strong>Delete</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-deletion" data-step-uuid="8d3d1c1c-87be-40ed-b05f-76aee244eb83">
+    <h3 id="confirm-deletion" class="step-title screensteps-heading">Confirm Deletion</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/003/583/original/d1caf828-2782-4986-b6f0-388208ee740c.png" srcset="" alt="Confirm Deletion" height="218" width="481">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_db814294-0a41-42f3-99d8-e2901edf3760" class="text-block-content">
+    <p>To confirm you want to delete the mastery level, click the <strong>Confirm</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-mastery-scale" data-step-uuid="4cc3d901-62a9-43a7-9582-133bf7fc97d2">
+    <h2 id="save-mastery-scale" class="step-title screensteps-heading">Save Mastery Scale</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/002/673/original/417bff72-3e6c-49cf-8ace-39304345ef71.png" srcset="" alt="Save Mastery Scale" height="68" width="187">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ac8c8d85-187d-4835-ba81-949f46f3431e" class="text-block-content">
+    <p>To save changes to the mastery scale, click the <strong>Save Mastery Scale</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-changes" data-step-uuid="22f2d851-84f5-4ce6-9600-fd7f8f3cb0d4">
+    <h3 id="confirm-changes" class="step-title screensteps-heading">Confirm Changes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/003/585/original/2e5166a7-dd25-47a3-a6e0-86b948108073.png" srcset="" alt="Confirm Changes" height="264" width="475">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d5fa6fef-c18c-4598-bc8e-096582b4f41a" class="text-block-content">
+    <p>Saving your mastery scale changes will update all rubrics aligned to outcomes that have not been assessed in your account. To confirm your changes, click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

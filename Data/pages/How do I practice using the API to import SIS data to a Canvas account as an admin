@@ -1,0 +1,95 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_EB045C10-1D71-0135-21E4-22000B5A851D" class="text-block-content">
+    <p>When creating an <a href="/t5/Admin-Guide/How-do-I-create-an-automated-data-integration-for-an-account/ta-p/255" target="_blank">automated data integration</a> with Canvas, you should practice using the API to import SIS data to Canvas. One method of using an API is through cURL, a command line tool for transferring data that is supported on all operating systems (Windows, Linux, and OSX). In this lesson, examples should work with Windows 7+, Windows Server 2003+, Ubuntu 12+ (Desktop/Server), and OSX Mountain Lion+. </p>
+<p>The examples in this lesson are provided to help you learn how to practice using the API to import content into Canvas using SIS imports.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="install_curl" data-step-uuid="a4d8476d-292f-46af-8639-2d7183702ff7">
+    <h2 id="install_curl" class="step-title screensteps-heading">Install cURL</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB047BA0-1D71-0135-21E5-22000B5A851D" class="text-block-content">
+    <p>On your computer or operating system, ensure that cURL is installed properly on your computer or operating system.</p>
+<p><strong>OS X &amp; Linux (Ubuntu)</strong></p>
+<p>cURL should already be installed and run from the <a href="http://en.wikipedia.org/wiki/Terminal_(OS_X)" target="" rel="nofollow noopener noreferrer">Terminal</a> application. </p>
+<p>cURL may already be installed. If not already installed, run the following command with a user that has sudo privileges:</p>
+<pre><code>sudo apt-get install curl</code></pre>
+<p>After installing cURL, test the installation by typing the following command on a terminal or command prompt:</p>
+<pre><code>curl --version</code></pre>
+<p>If successfully installed, the version of cURL should be displayed.</p>
+<p><strong>Windows</strong></p>
+<p>If you are planning to use Windows as your import server you should consider using PowerShell instead of cURL for your production import tool. PowerShell is native to Windows and should result in a more reliable import script than using cURL and a batch file. We only recommend using cURL on Windows for testing purposes. <a href="/t5/Admin-Guide/How-do-I-install-PowerShell-3-0-on-a-Windows-machine/ta-p/209" target="_blank">Learn how to install PowerShell on Windows.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_test_file" data-step-uuid="227bee04-4c1e-4d2a-b014-5cd32a169ceb">
+    <h2 id="import_test_file" class="step-title screensteps-heading">Import Test File</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB0496A0-1D71-0135-21E6-22000B5A851D" class="text-block-content">
+    <p>Practice using the API before adding the complexity of a script.</p>
+<ol>
+<li>In the “tmp” directory, create a CSV file name \P\P\P\Pthat will create a basic course. The file name is case sensitive. Or, you can also use this example file: <a href="https://s3.amazonaws.com/tr-learncanvas/files/sis-imports/test_course.csv" target="_blank" rel="nofollow noopener noreferrer">test_course.csv</a>
+</li>
+<li>Open a terminal command prompt and change directory into the “tmp” directory.</li>
+<li>Run the command below replacing &lt;api_token&gt; with the API token you created earlier and &lt;canvas_fqdn&gt; with the domain name you use to access Canvas (example: institution_name.test.instructure.com):</li>
+</ol>
+<pre><code>curl -F attachment=@test_course.csv -H "Authorization: Bearer &lt;api_token&gt;" 'https://&lt;canvas_fqdn&gt;/api/v1/accounts/self/sis_imports.json?import_type=instructure_csv'</code></pre>
+<p>Upon success, you should receive <a href="http://en.wikipedia.org/wiki/JSON" target="_blank" rel="nofollow noopener noreferrer">a string of JSON</a> back from the server that indicates the import has been created and provides an ID for the import job. The JSON will look something like:</p>
+<pre><code>{"created_at":"2014-02-27T13:03:39Z","ended_at":null,"updated_at":"2014-02-27T13:03:39Z","progress":0,"id":6670997,"workflow_state":"created","data":{"import_type":"instructure_csv"}}</code></pre>
+<p>The "id" and "workflow_state" parameters are important pieces of information to know as you develop your script. Their absence or value could indicate a problem. If you did not get an "id" parameter, or your "workflow_state"<strong> </strong>tag is anything other than <em>created</em><strong>,</strong> you will need to troubleshoot the cause before proceeding.</p>
+<p><strong>Note</strong>: When this command is complete, you'll need the "id" parameter to check the status of an import.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="check_import_status" data-step-uuid="0eda767e-2eb3-48bd-ba83-a47612474c8d">
+    <h2 id="check_import_status" class="step-title screensteps-heading">Check Import Status</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB04B250-1D71-0135-21E7-22000B5A851D" class="text-block-content">
+    <p>An important part of the automated import process is to know the status of your previous import before processing your next import. </p>
+<p>If you decide to do a standard import, you must fix the previous import before processing your next import because information may be lost from the failed/incomplete import job. If you are using full batch imports, the state is still important because you do not want to start your next full batch until the preceding batch has finished. Depending on your update frequency, size of import, and other factors, a full batch import could easily overrun your time window.</p>
+<p>Run the following command with these replacements:</p>
+<ul>
+<li>Replace &lt;api_token&gt; with the API token created earlier</li>
+<li>Replace &lt;canvas_fqdn&gt; with your Canvas domain</li>
+<li>Replace &lt;import_id&gt; with the ID from your test file import</li>
+</ul>
+<pre><code>curl -H "Authorization: Bearer &lt;api_token&gt;" 'https://&lt;canvas_fqdn&gt;/api/v1/accounts/self/sis_imports/&lt;import_id&gt;'</code></pre>
+<p>The command should return a JSON response that contains the status and result if the import is complete. The following is an example of result of the command run in the previous step:</p>
+<pre><code>{"created_at":"2014-02-27T13:03:39Z","ended_at":"2014-02-27T13:03:39Z","updated_at":"2014-02-27T13:03:39Z","progress":100,"id":6670997,"workflow_state":"imported","data":{"import_type":"instructure_csv","supplied_batches":["course"],"counts":{"accounts":0,"terms":0,"abstract_courses":0,"courses":1,"sections":0,"xlists":0,"users":0,"enrollments":0,"groups":0,"group_memberships":0,"grade_publishing_results":0}}}</code></pre>
+<p>Here are a few key points to consider regarding the JSON results:</p>
+<p><strong>progress</strong>: In a running job, the "progress" parameter indicates the percentage complete for the job. When a job is done running, the progress will be 100 percent.</p>
+<p><strong>workflow_state</strong>: The "workflow_state" parameter indicates the current state of a running job. In most cases, a successfully completed job will indicate a state of "imported." If you see anything other than "imported" or "importing," you will need to stop here and troubleshoot the cause before proceeding.</p>
+<ul>
+<li>If the state is "importing," try running the command again until the state returns "imported". </li>
+<li>If the state is "imported_with_messages" or "failed_with_messages," check the contents of "processing_warnings" or "processing_errors".</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,87 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_31A1AF20-1D71-0135-B0D5-22000AB760A3" class="text-block-content">
+    <p>When creating an <a href="/t5/Admin-Guide/How-do-I-create-an-automated-data-integration-for-an-account/ta-p/255" target="_blank">automated data integration</a> with Canvas, you need to create a script to automatically import data to Canvas. An SIS script automatically synchronizes the users in your institution with your Canvas account. This lesson presents programming languages and other considerations when creating a script file.  </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="script_programming_languages" data-step-uuid="8d5e0bd9-8d6c-4302-ac34-ceb3f0ab6cf2">
+    <h2 id="script_programming_languages" class="step-title screensteps-heading">Script Programming Languages</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_31A1D370-1D71-0135-B0D6-22000AB760A3" class="text-block-content">
+    <p>The import script can be as simple or complex as your institution requires. Additionally, a variety of programming languages can be used to write your import script/program. As long as the programming language can make HTTPS calls and upload files via HTTPS the language can be used to create an import script. </p>
+<p>Due to a tremendous amount of variables that exist among each institution, Canvas does not officially support or promote the use of any specific scripting language or script that users can import data to Canvas, such as:</p>
+<ul>
+<li>Bash Shell (cURL)</li>
+<li>C#</li>
+<li>Java</li>
+<li>PowerShell</li>
+<li>Python</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="server_file_folders" data-step-uuid="e75c83c8-32c9-42dd-a86d-0b0543c4a22a">
+    <h2 id="server_file_folders" class="step-title screensteps-heading">Server File Folders</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/562/811/original/74036a00-6a2a-4a73-ba3c-5d6336754ad4.png" srcset="" alt="Server File Folders" height="202" width="186">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_31A279E0-1D71-0135-B0D8-22000AB760A3" class="text-block-content">
+    <p>On the server or computer that will run the import process (Windows/Linux/Mac), you'll need to create a folder structure to store your import applications (script, logs, active files, etc).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="script_considerations" data-step-uuid="8409a6b7-9850-4199-a907-71c3fc8e13dc">
+    <h2 id="script_considerations" class="step-title screensteps-heading">Script Considerations</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_31A2EC80-1D71-0135-B0D9-22000AB760A3" class="text-block-content">
+    <p>A simple example of an SIS script is to create a script that runs at specific times and checks a directory in your folder scructure to see if there are files that need to be sent to Canvas. If there are files, the script could compress them into a .zip file and send them to Canvas. <a href="https://s3.amazonaws.com/tr-learncanvas/files/sis-imports/BasicScriptFlowchart.png" target="_blank" rel="nofollow noopener noreferrer">View the SIS script flowchart.</a> </p>
+<p>When creating a script, you should consider potential problems such as: </p>
+<ul>
+<li>Whether the script checks for errors to see if the upload succeeded.</li>
+<li>Whether the script looks to see if the last import is finished. If you set your run frequency shorter than the import processing time for a run, the frequency could result in new batches queuing before an import is finished.</li>
+<li>Whether the script looks to see if there is a previous import—and whether or not the previous import succeeded. This verification is important regardless of whether full batch or standard imports are used as you do not want updates to run out of order.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sample_scripts" data-step-uuid="043aecf5-3e52-48e3-bdbb-6ce282714789">
+    <h2 id="sample_scripts" class="step-title screensteps-heading">Sample Scripts</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_31A34700-1D71-0135-B0DA-22000AB760A3" class="text-block-content">
+    <p>The Canvas Community has provided a <a href="https://github.com/unsupported/canvas" target="_blank" rel="nofollow noopener noreferrer">GitHub repository of sample scripts</a> that address many script considerations. Even with very simple tools, these examples show how to implement a basic automated import script.</p>
+<p><strong>Note</strong>: Each sample GitHub script will have its own requirements and additional components that may need to be installed for proper functionality.</p>
+<p>By using the tools that are presented in these tutorials, you should now be better prepared to create your own automated import tool. If you run into challenges, please <a href="https://community.canvaslms.com/groups/lms-migration" target="_blank">visit our migration and integration community forum</a>. You may find other people there who can help with comments and suggestions on your script.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

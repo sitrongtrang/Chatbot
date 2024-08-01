@@ -1,0 +1,38 @@
+How do I copy content from another Canvas course using the Course Import tool as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Import Content into Course
+Click the Import Course Content link.
+Select Content Type
+In the Content Type drop-down menu, select the Copy a Canvas Course option.
+Search for a Course
+In the Search for a course drop-down menu, select the course you would like to access. Courses are ordered alphabetically by most recent term. You can also choose to include completed courses by selecting the Include completed courses checkbox, which is selected by default.
+To search for a course by name, enter the name in the Course Name field. Click the name of the course when it appears.
+Note: If you have access to more than 100 courses, the search page only displays the Course Name field.
+Select Migration Content
+To import all content from the course, select the All content radio button. 
+If you want to select specific content, click the Select specific content radio button. 
+Note: If you select the specific content option, you are required to select the content you want to import after you review the remaining page options. After you start importing the content, the import selection cannot be canceled. 
+Bulk Migrate Existing Quizzes as New Quizzes
+If allowed by your institution, you can bulk migrate existing quizzes into New Quizzes by clicking the Import existing quizzes as New Quizzes checkbox. 
+If your institution enables the quiz migration feature, question banks linked via a question group in Classic Quizzes will migrate to New Quizzes. If the quiz migration feature is not enabled by your institution, questions from question banks must be individually added before migrating to New Quizzes.
+Notes: 
+New Quizzes does not include a survey feature. Therefore, surveys migrated from Classic Quizzes come over as standard quizzes in New Quizzes.
+After migration to New Quizzes, multiple dropdown questions display as matching questions.
+Text No Question questions migrate to New Quizzes as Stimulus questions. An instructor must add a question in order for it to display in a quiz.
+Question groups with manually created questions will migrate as item banks in New Quizzes.
+If a quiz is migrated multiple times, Canvas uses smart merging to decipher the question bank content that should be retained. This process helps ensure all content is retained, such as in cases where multiple users may be making edits to a quiz at the same time.
+Practice quizzes from Classic Quizzes can be migrated to New Quizzes. Once migrated, by default, the practice quizzes are displayed as zero points possible and are hidden from the Gradebook and Grades page.
+Adjust Events and Due Dates
+If you want to adjust the due dates associated with the course events and assignments, click the Adjust events and due dates checkbox.
+Import Blueprint Course Settings
+You can import settings from a blueprint course into another blueprint course. Importing blueprint settings applies the same lock preferences to objects as the original blueprint course. To import settings from a blueprint course, click the Import Blueprint Course Settings checkbox.
+View Content Import Warning Message
+When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.
+Import Course
+Click the Import button. 
+View Current Jobs
+The Current Jobs section displays the status of your import. Running reports display a progress bar indicating the time remaining to complete the import.
+If you chose to select specific content in your course, the current job will show as Waiting for Select, which means you must select the content you want to import.
+The import may also display other status indicators as part of the import process. Learn more about course import statuses.
+View the content from any completed imports by accessing any link in Course Navigation.

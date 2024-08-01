@@ -1,0 +1,23 @@
+How do I create a macro in the Field Admin Console as an admin
+Open Macros 
+To open the Macros page, click the Macros tab.
+Create New Macro
+To create a new macro, click the New button.
+Add Macro Details
+Enter the details for the macro. Macro details include:
+Name
+Account: displays the account where macro can be used. To remove an account, click the Remove icon.
+Transfer: transfers cases to designated field admin
+Status: designates case status, which can be set to open, new, pending, on hold, solved, or closed as duplicate.
+Canvas Component Section: describes whether the case relates to an entire account, a specific course, a Canvas user, an LTI or integration, or a non-Canvas issue.
+Canvas Component Affected: describes the feature in Canvas where the bug or issue comes from.
+Canvas Component Action: describes the action that led to the case creation.
+Disable Notifications: prevents notification emails from sending to Case Owner, Case Contact, and Case CC.
+Chatter Comment: adds comment to every case
+To learn more about options available for the Canvas Components fields, view the Canvas Component resource document.
+Save Macro
+To save your macro, click the Save button. To save your macro and begin creating a new macro, click the Save & New button.
+To delete your macro, click the Cancel button.
+View Macro
+View the macro.
+To edit the macro, click the Edit button. To delete your macro, click the Delete button. To duplicate your macro, click the Clone button.

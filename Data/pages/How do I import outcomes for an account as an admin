@@ -1,0 +1,197 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_57aec7ad-6bc8-409c-9f43-2cb8631a90cc" class="text-block-content">
+    <p>You can bulk import outcomes for your account using a CSV file. A bulk import allows you to add new outcomes to your account or update the details of multiple outcomes at one time. </p>
+<p>The CSV file must be formatted correctly according to the <a href="https://canvas.instructure.com/doc/api/file.outcomes_csv.html" target="_blank" rel="nofollow noopener noreferrer">Outcomes Import Format Documentation</a>. If you don't want to create a new CSV file, you can download the <a href="/t5/Admin-Guide/How-do-I-view-reports-for-an-account/ta-p/109" target="_blank">Outcomes Export report</a> from Canvas, change it, and re-upload the same file. </p>
+<p>After your CSV file has been processed, you will receive an email notification confirming a successful import or displaying errors with your file. If there were errors, the email will contain details about the first 100 errors including the row of the error and a short description. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Outcomes import supports CSV or JSON files.</li>
+<li>Importing outcomes is an account permission. If you do not have permission to import outcomes, your institution has restricted this feature.</li>
+<li>In new outcomes, the vendor_guid field must not contain a colon.</li>
+<li>Depending on your institution's preference, your Outcomes page may not match the images shown in this lesson. However, functionality of the page remains the same.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="639cfd78-160f-48c6-8132-aabe96c65d55">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_700e3d2b-1b41-44e1-a1fa-4d459154b0a2" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="161ed99a-b766-4ab3-9f20-646b808aa2fa">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/375/original/ac09683e-8fac-4eca-b591-1dca5037da4d.png" srcset="" alt="Open Outcomes" height="296" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0322bfb5-b74d-41ca-92a3-4630e07fa07c" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-outcomes" data-step-uuid="cb40e72d-1baf-42d3-84d2-e27d77145ee2">
+    <h2 id="import-outcomes" class="step-title screensteps-heading">Import Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/380/613/original/5ffae5bc-44c4-4cfd-bb31-c6b58d61cc9c.png" srcset="" alt="Import Outcomes" height="73" width="442">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fd2a1cfa-0ec0-4716-92b5-c297b3ce9935" class="text-block-content">
+    <p>Click the <strong>Import</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload-file" data-step-uuid="e90bd7d0-8792-49c9-b39d-fbae39d539f3">
+    <h2 id="upload-file" class="step-title screensteps-heading">Upload File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/445/233/original/fe7980bd-6f07-4f83-8d50-752d8ef31411.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/445/233/medium/fe7980bd-6f07-4f83-8d50-752d8ef31411.png" srcset="" alt="Upload File" height="538" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6914010b-a79a-43fd-ba7c-05d230eb0d48" class="text-block-content">
+    <p>Drag and drop your CSV file to the upload area, or click in the upload area to choose a file from your computer.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-file" data-step-uuid="e9431028-cc11-4012-bd37-a75e68089556">
+    <h3 id="open-file" class="step-title screensteps-heading">Open File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/597/599/original/0d525b43-1720-4e0d-be82-3c97ccec496a.png" srcset="" alt="Open File" height="435" width="722">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_62c3f2ed-aa7f-4810-adf9-589f58b5f245" class="text-block-content">
+    <p>Locate the CSV file [1] and then click the <strong>Open</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-status" data-step-uuid="75fa520f-eb5c-4d5a-a61f-f64d35696315">
+    <h2 id="import-status" class="step-title screensteps-heading">View Import Status</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/610/original/46cca68e-0721-4dbd-a96a-9c01c9d54055.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/610/medium/46cca68e-0721-4dbd-a96a-9c01c9d54055.png" srcset="" alt="Import Status" height="239" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f6516a39-8b73-406c-a218-87d838088ad8" class="text-block-content">
+    <p>Canvas displays a loading page while the file uploads. Large CSV files may take time to import. You can leave the Outcomes page at any time without disrupting the import process. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="import-success" data-step-uuid="b375f0c6-d2f7-45cd-b862-22b3298ae329">
+    <h3 id="import-success" class="step-title screensteps-heading">View Import Success</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/605/original/d57c3974-3cab-4046-b429-3794283decea.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/605/medium/d57c3974-3cab-4046-b429-3794283decea.png" srcset="" alt="Import Success" height="156" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_27ff8cbb-29f5-49ee-a3ad-7487059ebe93" class="text-block-content">
+    <p>When the file has been successfully imported, Canvas displays a confirmation message. You will also receive an email that the import was successful.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="import-error" data-step-uuid="18b2b5ef-47b3-49c9-9d2e-866bac9332a1">
+    <h3 id="import-error" class="step-title screensteps-heading">View Import Errors and Warnings</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/609/original/a8d46f19-9d51-48f9-96e4-b00c41cbe9d8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/609/medium/a8d46f19-9d51-48f9-96e4-b00c41cbe9d8.png" srcset="" alt="Import Error" height="156" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fe58d711-dae1-44d0-8d2c-25d380cfb7ac" class="text-block-content">
+    <p>If the import was not successful, or if the import altered existing outcomes, Canvas displays an error message.</p>
+<p>The error message displays for outcome import errors and for outcome import warnings. </p>
+<p>You will receive an email with details about the first 100 errors and warnings. Each error or warning will include the CSV row number and a description of the error or warning. </p>
+<p>Import errors stop the import process entirely and need to be fixed before outcomes can be imported successfully. The following types of errors may occur in CSV files:</p>
+<ul>
+<li>Required headings are missing</li>
+<li>Other headings are placed after the ratings header</li>
+<li>Invalid headers are present</li>
+<li>Required fields are missing</li>
+<li>Import file contains no data</li>
+<li>Invalid UTF-8 string</li>
+</ul>
+<p>When an import warning occurs, Canvas skips the affected row and the import moves on. The following types of warnings may occur in CSV files:</p>
+<ul>
+<li>Rating tiers have missing points</li>
+<li>Rating tiers have invalid point values</li>
+<li>Rating tiers have points in wrong order</li>
+<li>Object type is incorrect</li>
+<li>Parent group refers to missing outcomes</li>
+<li>Parent groups are invalid</li>
+<li>Workflow state is invalid</li>
+<li>Calculation validation method not specified</li>
+<li>Group receives invalid fields</li>
+<li>Outcome edits are not within the same context</li>
+</ul>
+<p>Correct the errors in the CSV file according to the <a href="https://canvas.instructure.com/doc/api/file.outcomes_csv.html" target="_blank" rel="nofollow noopener noreferrer">Outcomes Import Format Documentation</a> and re-import the file.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcomes" data-step-uuid="e2f37def-8612-4d80-922a-d281432136f7">
+    <h2 id="view-outcomes" class="step-title screensteps-heading">View Outcomes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/606/original/ac7b9884-e982-4fbb-aa23-b9aefe56cbe1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/606/medium/ac7b9884-e982-4fbb-aa23-b9aefe56cbe1.png" srcset="" alt="View Outcomes" height="508" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_61674d87-a8e4-439a-88c2-fad883ca002c" class="text-block-content">
+    <p>View the outcomes imported into your account.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

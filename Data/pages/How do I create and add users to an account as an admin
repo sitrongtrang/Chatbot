@@ -1,0 +1,127 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6CED8480-1D81-0135-83F9-22000B5A851D" class="text-block-content">
+    <p>You can add new users to your account. Users can only be added at the account level. Only root account admins can add users to an account.</p>
+<p>If you use SIS Imports, you do not need to add any users to your account, as they can be added through your student information system (SIS). </p>
+<p><strong>Account Invitations</strong></p>
+<p>When a user account is manually added, Canvas gives an option to generate an account invitation. If this invitation is sent, the user is invited to complete the registration process by creating a password. Once the user has an account, the user can also be added to a course. If a user is invited to a course without having an account, the user will have to create an account before accepting the course invitation.</p>
+<p>When users are invited to a course manually, they can view the course invitation link in their email and click it to view a preview of the Canvas course. To officially accept, they must click an Accept button in the Canvas interface. However, if you prefer to disable course previews and have users automatically join the course when they view the Canvas course, please contact your Customer Success Manager to disable invitation previews.</p>
+<p><strong>Email Addresses</strong></p>
+<p>Canvas identifies users by email address. When students are added to a course, Canvas attempts to reconcile any email address conflicts when the user first logs in to the course:</p>
+<ul>
+<li>If the user does not have a username in the course's root account, the user's email address is linked to another user within the account, or the institution does not use delegated authentication if open registration is enabled, an account will be created for the user. Adding an email address that is not already linked to an account will only work if Open Registration is enabled.</li>
+<li>If the email address is already associated with an account, the student will be asked to log in to Canvas using his or her existing email address. </li>
+<li>Sometimes a student may be using multiple email addresses within Canvas. If a student responds to an account invitation at one email address, but is logged in to Canvas using a different email address, the student will be asked if they want to link both addresses to the same account. </li>
+</ul>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>You can also add a user to a sub account by adding them to a course associated with the sub account. </li>
+<li>If enabled for your institution, you can <a href="/t5/Admin-Guide/How-do-I-add-temporary-enrollments-in-an-account/ta-p/590493" target="_blank">create temporary enrollments</a>. Temporary enrollments allows you to give a user access to another user's courses for a specific time frame.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="cf6fb16b-ecd9-469a-a006-f6b7620f2603">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6CEE5BD0-1D81-0135-83FB-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_users" data-step-uuid="f479a661-5998-4350-9960-0cc7d741e39d">
+    <h2 id="open_users" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/391/original/59a3b177-c463-4464-9ce9-51c59096b183.png" srcset="" alt="Open People" height="298" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6CEF6B00-1D81-0135-83FD-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_new_user" data-step-uuid="A05F4B62-1892-4EF3-80A2-D151A44BDA75">
+    <h2 id="add_new_user" class="step-title screensteps-heading">Add User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/594/707/original/6b619c86-aa69-4969-87dc-0ffd8518492a.png" srcset="" alt="Add New User " height="66" width="625">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6CF07FE0-1D81-0135-83FF-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add People</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_user_details" data-step-uuid="8B20A162-F863-4A4D-AE49-4C2F1E9D4259">
+    <h2 id="add_user_details" class="step-title screensteps-heading">Add User Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/076/214/original/8b3e03c6-f21a-469c-90d8-14c6325327c4.png" srcset="" alt="Add User Details" height="487" width="800">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6CF107F0-1D81-0135-8401-22000B5A851D" class="text-block-content">
+    <p>Complete the following fields:</p>
+<ul>
+<li>
+<strong>Full Name </strong>[1] is used for grading, SIS imports, and other administrative items.</li>
+<li>
+<strong>Display Name</strong> [2] is the what other users will see in discussions, announcements, etc. The user can set his or her own display name if the setting is enabled.</li>
+<li>
+<strong>Sortable Name </strong>[3]<strong> </strong>is the user's last name, first name default. This name appears in sorted lists and admins can search for it.</li>
+<li>
+<strong>Email </strong>[4] is used as the user's default email address in Canvas. Emails are used to send course notifications.</li>
+<li>
+<strong>SIS ID </strong>[5] is the SIS ID of the user. This field is only used for institutions using SIS imports and only displays to you if you have the correct account-level SIS permissions. </li>
+<li>
+<strong>Email the user about this account creation </strong>[6] is an option to send the user an email about his or her new account. This option is selected by default. If you do not want the user to be notified about the account, deselect this checkbox.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_user" data-step-uuid="b79f0eb7-1d59-4b20-ac8d-26c2dd9ff52a">
+    <h2 id="add_user" class="step-title screensteps-heading">Add User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/076/216/original/866623e2-d6c1-4de5-ba08-a9ea24d5f8a2.png" srcset="" alt="Add User" height="74" width="205">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6CF19030-1D81-0135-8403-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add User </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

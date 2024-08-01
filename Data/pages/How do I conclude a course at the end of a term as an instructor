@@ -1,0 +1,92 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8672CE70-1F04-0135-A93C-22000B5A851D" class="text-block-content">
+    <p>When a course is completed and you want to provide read-only access to the course, you may be able to conclude the course manually in Canvas. However, if your institution uses software that automatically concludes enrollments, you do not have to manually end your course since the end date of the course will automatically conclude the course on your behalf. </p>
+<p>When courses are manually concluded, all enrollments are removed from the course and placed in the prior enrollments page. All users in the course will have read-only access. This change applies to all enrollments, including course instructors. Instructor-based roles will no longer have the same access in the course and will result in loss of course functionality and user information, such as viewing SIS data. If full functionality is still required for instructors but you want to conclude the course for students, learn how to <a href="/t5/FRD-Colder-Storage/How-do-I-change-the-start-and-end-dates-for-a-course/td-p/257743" target="_blank">change the end date of your course</a> instead.</p>
+<p>Once a course is concluded, if you do not want students to be able to view the course at all, you can <a href="/t5/Instructor-Guide/How-do-I-restrict-student-access-to-a-course-before-or-after-the/ta-p/1269" target="_blank">restrict students from viewing prior courses</a>.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Manually concluding a course is a course permission. If the Conclude this Course button does not appear in Course Settings, this setting has been restricted for your course.</li>
+<li>Manually concluding, or hard concluding, a course results in loss of user access and functionality for all user roles. To preserve user access and information, and course functionality for instructors, consider soft concluding a course using course end dates.</li>
+<li>When a course is concluded, the course end date is automatically populated with the current date and time.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="CA8D7965-61EE-48BC-AF48-29C1EE1B857F">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/759/201/original/ef370b1d-af46-4794-ace9-f52fe2e2875d.png" srcset="" alt="Open Settings" height="243" width="178">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8673DBD0-1F04-0135-A93E-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="conclude_this_course" data-step-uuid="311FA0B2-26D9-47EA-8B03-EBCCC0A7165E">
+    <h2 id="conclude_this_course" class="step-title screensteps-heading">Conclude This Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/194/original/286d9483-e474-4eb6-8bbf-24af705644e2.png" srcset="" alt="Conclude This Course" height="482" width="282">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_86741030-1F04-0135-A940-22000B5A851D" class="text-block-content">
+    <p>To conclude your course, click the <strong>Conclude this Course</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="conclude_course" data-step-uuid="E17A6283-7B0C-4AAE-A14A-A446557B98CF">
+    <h2 id="conclude_course" class="step-title screensteps-heading">Conclude Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/196/original/f0ff8ec8-6623-4dfa-af57-488b648aff60.png" srcset="" alt="Conclude Course" height="290" width="635">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_867448B0-1F04-0135-A942-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Conclude Course</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_confirmation" data-step-uuid="C9671B0B-BFF9-4A4E-A0EE-5EFB06455A90">
+    <h2 id="view_confirmation" class="step-title screensteps-heading">View Confirmation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/200/original/7cd4f038-0819-439d-aed9-91c8e2ea1dae.png" srcset="" alt="View Confirmation" height="65" width="502">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_86747FA0-1F04-0135-A944-22000B5A851D" class="text-block-content">
+    <p>Verify that the course has been concluded. </p>
+<p><strong>Note</strong>: Admins can unconclude courses if necessary. If you are an instructor, please contact your admin for assistance.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

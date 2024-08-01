@@ -1,0 +1,36 @@
+How do I import Thin Common Cartridge files as separate modules as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Import Content into Course
+Click the Import Course Content link.
+Select Content Type
+In the Content Type drop-down menu, select the Common Cartridge 1.x Package option. Complete any additional fields required for the content. 
+Select Specific Content
+In the Content section, click the Select specific content radio button. 
+View Content Import Warning Message
+When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.
+Import Content
+Click the Import button. 
+A progress indicator displays the upload status by percentage.
+Select Content
+In the Current Jobs section, click the Select Content button.
+View Content
+Thin Common Cartridge files are shown as one module. Click the Modules expand icon.
+Select All Group Content
+Locate the content by expanding the nested structure. Content groups show the number of items within the group. 
+If you want to import an entire content group, select the checkbox next to the group.
+Select Module Import Option
+Like other course import types, selecting a content group selects all items within the module group. However, Thin Common Cartridge content is always imported as one module, which can be extremely cumbersome in a Canvas course. 
+By default, content is imported as one module. If you would rather import content as separate modules, click the Import sub-modules separately radio button. 
+Note: If you want to import several content groups as separate modules, module settings are applied on a per-content-group basis, meaning you must fully expand each content group and specify the separate modules option. Otherwise, all selected content in the hierarchy will always be imported as one module.
+Select Specific Group Content
+To import only a few items from a content group, select the specific items to be imported. Canvas places a dash in the content group checkbox, indicating not all items are selected within the group. 
+Selecting individual content items automatically imports content as separate modules.
+Select Content
+Click the Select Content button.
+View Current Jobs
+The Current Jobs section displays the status of your import. The import displays progress bar indicating the time remaining to complete the import. 
+The import may also display errors as part of the import status. Learn more about course import statuses.
+When the course has completed, view modules content by accessing the Modules link in Course Navigation. 
+View Modules
+View the modules content in your course, either as one module or separate modules. 

@@ -1,0 +1,28 @@
+How do I create a global announcement in an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Settings
+In Account Settings, click the Settings link.
+Note: To make an announcement in a sub-account, click the Sub-Accounts link, select a sub-account, then click the sub-account's Settings link.
+Open Announcements Tab
+Click the Announcements tab. 
+Add New Announcement
+Click the Add New Announcement button.
+Add Announcement Details
+In the Title field, type the title of the announcement. 
+In the Announcement type field, set the Announcement type (warning, error, information, question, or calendar). 
+In the Message field, create the announcement using the Rich Content Editor. The Rich Content Editor includes a word count display below the bottom right corner of the text box.
+In the Show to section, select the roles of users who should see the announcement. You can select both course and account roles. Selecting a role will send a notification to every user who has that role in any course. If no roles are selected, the announcement will display for everyone with a course in the originating account or sub-account.
+Note: If your institution is associated with a trust account, you can choose to only show the announcement to users within the current domain.
+Choose Start and End Dates
+Choose the start and end dates for the announcement by typing in the fields or selecting the Calendar icons (required).
+Send Announcement Notification
+To send a notification directly to users when the announcement starts, click the Send notification directly to users when announcement starts checkbox. Users who have enabled the Global Announcement notification preference will receive a notification when the announcement starts.
+Publish Announcement
+Click the Publish Announcement button.
+View Global Announcement
+View the global announcement. The announcement includes the name of your account or sub-account.
+Manage Announcement
+To copy a global announcement, click the Duplicate icon. Edit the announcement details. Then publish the announcement.
+To edit a global announcement, click the Edit icon. Edit the announcement details. Then save the changes.
+To delete a global announcement, click the Delete icon. Then confirm that you want to delete the announcement.

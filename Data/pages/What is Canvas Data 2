@@ -1,0 +1,101 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_68bd714c-fb1b-423d-b356-4ff5ab446d42" class="text-block-content">
+    <p>Canvas Data 2 provides streamlined, bulk access to low-latency data for customers and partners to enable data warehouses and learning analytics.</p>
+<p>For more information about Canvas Data 2, view the <a href="https://api-gateway.instructure.com/doc/" target="_blank" rel="nofollow noopener noreferrer">API specification</a>.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Features that allow users to interact with analytics or generate reports from within the Canvas Learning Management System (LMS) user interface are not part of this work.</li>
+<li>New users without access to Canvas Data 1 should contact their Customer Success Manager (CSM) to be onboarded to Canvas Data 2. Current Canvas Data 1 users will be onboarded to Canvas Data 2 on a phased, rolling basis.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas-data-2" data-step-uuid="3b84cc53-4cad-41b0-b02d-ffe69fa922f4">
+    <h2 id="canvas-data-2" class="step-title screensteps-heading">Canvas Data 2</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1f7e1ae2-39b9-479c-97bc-5c3180d7f266" class="text-block-content">
+    <p>Canvas Data 2 offering is a set of services and technologies that provides institutions with access to download their raw data across various Instructure educational products. Canvas Data 2 allows institution IT/data teams to retrieve their school's LMS data in bulk and keep it up-to-date (4 hours of data freshness) to conduct their own research and build custom reports, dashboards, and tools to meet the unique needs of the institution. Canvas Data 2 allows access to high-fidelity source data and provides more granular data.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="audience-and-usage" data-step-uuid="84eec3ad-c812-47e5-8deb-16beeb127385">
+    <h2 id="audience-and-usage" class="step-title screensteps-heading">Audience and Usage</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0ed16edd-c3f7-4467-902e-020e28c23803" class="text-block-content">
+    <p>The intended audience for this tool is institution data analysts, developers, or data administrators with some knowledge of raw data collection and transformation. </p>
+<p>Institutions are likely to use this data for analytics and custom reporting initiatives.</p>
+<p>Usage:</p>
+<ul>
+<li>Low latency (4 hours)</li>
+<li>Transactional data</li>
+<li>Operational data</li>
+<li>Bulk transfers</li>
+</ul>
+<p><strong>Note: </strong>Canvas Data 2 is an opt-in product, nevertheless in the initial phase as customers are onboarded in an ongoing fashion, the data freshness may be higher than 4 hours.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="data-schema-and-versioning" data-step-uuid="a9d0b6be-76fd-4d8d-9da5-b2cbd3bccf3a">
+    <h2 id="data-schema-and-versioning" class="step-title screensteps-heading">Data Schema and Versioning</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fe6f450d-571a-4195-9a18-38a56d5043ea" class="text-block-content">
+    <p>Canvas Data 2 introduces a new relational data schema instead of the star schema from Canvas Data 1.</p>
+<p>The Canvas Data 2 schema is versioned; any updates (additions and deletions) create a new schema version for a table.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="data-refresh-and-formats" data-step-uuid="a3988342-ad83-48a2-8b1c-96158e84341d">
+    <h2 id="data-refresh-and-formats" class="step-title screensteps-heading">Data Refresh and Formats</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5eba6e26-2cc2-46e6-b3dd-c8683a7afd97" class="text-block-content">
+    <p>Data is available approximately within 4 hours from the transaction in Canvas.</p>
+<p>The following formats are available:</p>
+<ul>
+<li>JSON</li>
+<li>CSV</li>
+<li>TSV</li>
+<li>Parquet</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="datasets" data-step-uuid="7ddf675c-f9ae-4544-8afa-d26e82b93668">
+    <h2 id="datasets" class="step-title screensteps-heading">Datasets</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d09fcefa-eb35-4be8-9fa6-50a0346aa14a" class="text-block-content">
+    <p>There are 89 unique datasets (tables).</p>
+<p>Data will be available as snapshots (state at current point in time) or incremental updates (most recent changes between two points in time).</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

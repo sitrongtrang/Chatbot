@@ -1,0 +1,150 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BC277510-1EDC-0135-BB0A-22000BC102FE" class="text-block-content">
+    <p>If you've previously created an appointment group in the Scheduler, you can view and edit existing appointment groups. You can also view and edit individual time slots in an appointment group, including users who have signed up for each time slot.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>The Scheduler tool is optional. If it is not already enabled for your account, please contact your Canvas administrator..</li>
+<li>When an instructor or TA creates an appointment group for an entire course, all course section users can view the appointment group. However, if an appointment group is made for a specific section or is added by a section-restricted instructor or TA, only users in that section can view the appointment group.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_calendar" data-step-uuid="50606d0f-1d7c-49f9-88ee-b1070e2a3ea0">
+    <h2 id="open_calendar" class="step-title screensteps-heading">Open Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/351/655/original/c9e40d0b-13c0-49a6-a133-cf3bd377fb1f.png" srcset="" alt="Open Calendar" height="612" width="96">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC285960-1EDC-0135-BB0C-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Calendar</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_appointment_group" data-step-uuid="cd3e2079-789c-43c1-ae05-a84664d5a012">
+    <h2 id="view_appointment_group" class="step-title screensteps-heading">View Appointment Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/124/001/original/efac3ad1-5ca3-4835-b316-7616f905c3d0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/124/001/medium/efac3ad1-5ca3-4835-b316-7616f905c3d0.png" srcset="" alt="View Appointment Group" height="573" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC288EE0-1EDC-0135-BB0E-22000BC102FE" class="text-block-content">
+    <p>Locate the appointment group in your calendar. Appointment slots that have been reserved are shown in a solid color. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_appointment_group" data-step-uuid="b49853d9-bc43-45de-b055-385ccfbd75bc">
+    <h2 id="open_appointment_group" class="step-title screensteps-heading">Open Appointment Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/124/003/original/5d863b5a-c345-42af-96a2-2bfe505c2e5a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/124/003/medium/5d863b5a-c345-42af-96a2-2bfe505c2e5a.png" srcset="" alt="Open Appointment Group" height="553" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC28C280-1EDC-0135-BB10-22000BC102FE" class="text-block-content">
+    <p>To open the appointment group, click any time slot in the appointment group [1]. In the appointment window, click the <strong>Group Details </strong>button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_appointment_group_details" data-step-uuid="4787953e-237e-4e2d-8763-05e8963502f8">
+    <h3 id="edit_appointment_group_details" class="step-title screensteps-heading">Edit Appointment Group Details</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/124/005/original/c2a66e60-e7e6-4601-851e-e58b653bd9c6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/124/005/medium/c2a66e60-e7e6-4601-851e-e58b653bd9c6.png" srcset="" alt="Edit Appointment Group Details" height="830" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC28F510-1EDC-0135-BB12-22000BC102FE" class="text-block-content">
+    <p>In the appointment group page, you can view the course associated with the appointment group [1], and you can edit the group details.  </p>
+<p>For each appointment group, you can edit the name of the group [2].  You can add new appointment group sets and additional time slots to the entire group [3], and you can add or modify the assignment group location [4], group details [5], and group options [6].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you want to edit or delete existing time slots, you can edit individual time slots in the calendar.</li>
+<li>The option to have students sign up in groups can only be selected when an appointment group is created.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_appointment_slots" data-step-uuid="3ac880e5-3d78-4297-bd8a-87a28be01455">
+    <h3 id="view_appointment_slots" class="step-title screensteps-heading">View Appointment Slots</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/124/008/original/2476c2ca-b065-4bfd-9f73-b331b9b887f5.png" srcset="" alt="View Appointment Slots" height="264" width="700">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC292660-1EDC-0135-BB14-22000BC102FE" class="text-block-content">
+    <p>At the bottom of the Appointment Group details page, you can view all appointments in the group [1]. Each time slot shows the date and time and whether or not the time slot is available. You can also view the name of each student who signed up for the time slot. </p>
+<p>If a time slot has been reserved by a student but also includes the word <em>Available</em>, the time slot includes an additional slot that can be filled by another student.</p>
+<p>If you want to send a message to students in the appointment group, click the <strong>Message Students</strong> button [2]. You can send a message to all users in the appointment group, users who haven't signed up for a time slot, and users who have signed up.</p>
+<p>When messaging students, messages are sent as individual messages.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage_appointment_group" data-step-uuid="cd218d39-6d1c-4048-a109-0e002f172288">
+    <h3 id="manage_appointment_group" class="step-title screensteps-heading">Manage Appointment Group</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/124/010/original/7faba4eb-1d7a-4abe-b9fa-6bf3861d49ed.png" srcset="" alt="Manage Appointment Group" height="92" width="296">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC296470-1EDC-0135-BB16-22000BC102FE" class="text-block-content">
+    <p>To delete the appointment group, click the <strong>Delete Group</strong> button [1]. <em>Please note this option does not provide a warning and cannot be undone</em>. Deleting the group will also delete any appointments that have been reserved by students. </p>
+<p>To cancel changes in the assignment group, click the <strong>Cancel</strong> button [2].</p>
+<p>To save changes in the assignment group, click the <strong>Save</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_appointment_slot" data-step-uuid="88b3d2b8-3531-4812-8e3b-b3fcdd4a7917">
+    <h2 id="manage_appointment_slot" class="step-title screensteps-heading">Manage Appointment Slot</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/124/012/original/cc0f57e2-7849-4991-851d-3179e43ab5a0.png" srcset="" alt="Manage Appointment Slot" height="561" width="764">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC2997A0-1EDC-0135-BB18-22000BC102FE" class="text-block-content">
+    <p>In the calendar, you can manage time slots individually. To view details about a time slot, including who signed up in the time slot, click the appointment link [1].</p>
+<p>If you want to edit a specific time slot, click the <strong>Edit </strong>button [2]. Editing a time slot allows you to edit the description of the appointment. You can also limit the slot to a specific number of users. Changing either of these values in an individual time slot does not affect the description or user signup limit for the entire group. For instance, if the assignment group limited each slot to one user, and you individually edit a specific time slot to allow three users, only that time slot is affected by the user limit change.</p>
+<p>If you need to <a href="/t5/Instructor-Guide/How-do-I-remove-students-from-a-Scheduler-appointment-in-a/ta-p/1260" target="_blank">remove a time slot</a>, click the <strong>Delete</strong> button [3].</p>
+<p>In time slots that have been reserved, you can send a message to the user(s) in the time slot [4].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

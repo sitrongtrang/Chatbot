@@ -1,0 +1,33 @@
+How do I assign a graded discussion to everyone in a course as an instructor
+Open Discussions
+In Course Navigation, click the Discussions link. 
+Add Discussion
+Click the Add Discussion button.
+Enter Discussion Details
+Enter a topic title and discussion details. 
+Set Graded Discussion
+Click the Graded checkbox.
+Enter Grading Details
+Enter the number of points possible. Select the Grading Type and Assignment Group, and assign Peer Reviews, if any.
+Assign to Everyone
+By default, Canvas will assign your graded discussion for everyone in your course.
+Edit Due and Availability Dates
+In the date fields, add your preferred date(s) with the following options:
+Due: Set the date and time that the graded discussion is due. The due date will already be populated for you if you created a discussion shell, but you can change it if necessary.
+Available From: Set the date and time when the discussion will become available.
+Until: Set the date and time when the discussion will no longer be available.
+Notes: 
+If you have set section override dates in your course, you may need to select a course section and set due and availability dates that fall within the section override dates
+Beneath the Due Date and Availability Date fields, Canvas will display the time zone date and time according to context. If you manage courses in a time zone other than your local time zone and create or edit a due date for a discussion, the course and local times are displayed for reference.
+Save and Publish
+If you are ready to publish your discussion, click the Save & Publish button. If you want to create a draft of your discussion and publish it later, click the Save button.
+View Date Error
+If you submit an invalid string of due dates and try to save the discussion, Canvas generates an error notification. Such invalid entries include not unlocking the discussion before it is due, not placing the due date inside the range of availability dates, or assigning a date that is outside the course or term dates.
+Correct the date and then update the discussion again.
+Notes:
+If the course does not include specified course start and end dates, Canvas validates the discussion against the term date set for the course.
+If your course is not using Multiple Grading Periods, the Assign field validates the due date against the closed grading period and requires the discussion date to be past the date of the closed grading period.
+View Discussion Due Date
+View the due date assigned to the discussion in the classic Discussions interface or the Discussions Redesign interface.
+View Discussions Page
+On the Discussions Index Page, the discussion shows the dates assigned to the discussion. 

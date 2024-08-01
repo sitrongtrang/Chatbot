@@ -1,0 +1,160 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_26e2030a-5153-47d4-8990-9c0860c80184" class="text-block-content">
+    <p>The Student Name column displays the students in your course. You can view options to sort names by first or last name, SIS ID, Integration ID, and Login ID and display names by either first or last name. You can also choose to view concluded and inactive enrollments. </p>
+<p>Additionally, the Secondary Info menu allows secondary information to display below the student’s name. Options include the student’s section, SIS ID, Integration ID, Login ID, Group, or no display. Only one secondary information option can be displayed at one time.</p>
+<p>The following keyboard shortcuts are supported in the Gradebook:</p>
+<ul>
+<li>S: Sort the grid on the currently selected column. Student name and Notes columns sort alphabetically. Other columns sort by grade (low to high).</li>
+<li>M: Open the menu for the currently selected column.</li>
+<li>Esc: Close the menu for the currently selected column.</li>
+<li>G: Open the Assignment Detail page for the currently selected assignment.</li>
+<li>C: Open the Grade Detail tray for the currently selected assignment.</li>
+</ul>
+<p><strong>Note:</strong> Student names display according to the Sortable Name listed in a user's personal account settings.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="012e364e-a9dd-4a51-bc98-f0787b5f006b">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/766/990/original/6cddc1bd-351d-4c6f-aaaf-b60efb182e2d.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d1c4d011-caad-4591-8c2f-a7b4a7d03368" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-student-name-menu" data-step-uuid="4088ea2b-d1ec-4b32-b9eb-458b109cd7c6">
+    <h2 id="open-student-name-menu" class="step-title screensteps-heading">Open Student Name Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/095/original/1343c96c-880b-42d6-b9a0-6bbb8a9fe768.png" srcset="" alt="Open Student Name Menu" height="342" width="180">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ca3f6d39-90fd-4555-9e8e-13b29c1fd833" class="text-block-content">
+    <p>Hover over the Student Name column header and select the<strong> Options</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sort-names-alphabetically" data-step-uuid="ff7d6007-bbd3-4d75-8a83-8684c0965f45">
+    <h2 id="sort-names-alphabetically" class="step-title screensteps-heading">Sort Student Names</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/744/127/original/b27a3172-243b-4951-860b-6c762f72eb32.png" srcset="" alt="Sort by Name" height="385" width="459">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b2c5d946-0bd6-4b0e-ab4d-b91a7207df92" class="text-block-content">
+    <p>To sort students by last name, select the <strong>Sort by</strong> link. By default, names are sorted alphabetically by last name from A-Z [1].</p>
+<p>To sort students by SIS ID, click the <strong>SIS ID</strong> option [2].</p>
+<p>To sort students by Integration ID, click the <strong>Integration ID</strong> option [3].</p>
+<p>To sort students by Login ID, click the <strong>Login ID</strong> option [4].</p>
+<p>To order students in ascending order, click the <strong>A-Z</strong> option [5].</p>
+<p>To order students in descending order, click the<strong> Z-A</strong> option [6].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="sort-student-first-names" data-step-uuid="da98eead-4dd8-47e5-9bc0-5df8b406b6da">
+    <h3 id="sort-student-first-names" class="step-title screensteps-heading">Sort Student First Names</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/999/239/original/68e1a80d-8b29-4ae9-a10d-6be14aa9cb70.png" srcset="" alt="Sort Student First Names" height="369" width="406">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d49830a4-cfcc-4434-b535-615d3817db26" class="text-block-content">
+    <p>When the Allow gradebook users to view and export student first and last names in separate columns account setting is enabled, you can sort students by first name.</p>
+<p>To sort by first name, click the <strong>Student First Name</strong> option icon [1]. Then select the <strong>Sort by</strong> link [2] and select the <strong>Name</strong> option [3]. By default, first names are sorted alphabetically A-Z.</p>
+<p><strong>Note: </strong>Sorting students by last name continues to be available.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="display-name-order" data-step-uuid="56b16671-016a-4947-9f52-4339f41c67de">
+    <h2 id="display-name-order" class="step-title screensteps-heading">Display Name Order</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/093/original/c53c16ae-4ce5-4138-82b4-3baf4279f693.png" srcset="" alt="Display Name Order" height="309" width="422">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2e9a2c0b-adb1-4e86-8bbe-a902b436a843" class="text-block-content">
+    <p>To display names in a specific name order, select the <strong>Display as</strong> link. By default, names display as first name, last name. To sort in descending order, click the <strong>Last, First Name</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-secondary-info" data-step-uuid="25efe6f1-d5de-46fc-8f3b-acc72c0f7f1d">
+    <h2 id="view-secondary-info" class="step-title screensteps-heading">View Secondary Info</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/539/085/original/505e15c8-02ec-4f2b-8c1d-3a9c49212e31.png" srcset="" alt="View Secondary Info" height="408" width="408">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1b7d6d10-5a9b-401c-b736-917a25631b49" class="text-block-content">
+    <p>To view secondary information for students, select the <strong>Secondary info</strong> link. You can have the Student Name column display each student's section [1], SIS ID [2], Integration ID [3], Login ID [4], or Group [5]. You can also choose to have the column display no secondary information [6].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="show-enrollments" data-step-uuid="89865cf6-eb5f-43fa-90f5-80655501fd3d">
+    <h2 id="show-enrollments" class="step-title screensteps-heading">Show Enrollments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/091/original/26621bb0-f685-4fae-9a46-eaa4ffaf6b18.png" srcset="" alt="Show Enrollments" height="305" width="268">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3efa56c2-ad60-4938-a3a4-f0bee95c560b" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-view-grades-for-inactive-or-concluded-student/ta-p/753" target="_blank">view grades for inactive or concluded enrollments</a>, view the Show section and select the <strong>Inactive enrollments</strong> or <strong>Concluded enrollments</strong> link. You can view both enrollment types at the same time in the Gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search-students" data-step-uuid="a82713d1-a9b2-47f1-bdeb-b2c06dc50fcc">
+    <h2 id="search-students" class="step-title screensteps-heading">Search Students</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/722/963/original/cf47dfd2-00c6-47ad-9957-f4852be11da8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/722/963/medium/cf47dfd2-00c6-47ad-9957-f4852be11da8.png" srcset="" alt="Filter Students" height="151" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0fbd71db-997c-45d1-bacf-96cb656dbf74" class="text-block-content">
+    <p>By default, the Gradebook shows all active students. To search for students by name or SIS ID, enter your search query in the <strong>Search Students</strong> field. The Gradebook automatically filters results as you type.</p>
+<p>The Search Students field allows multiple student names to be filtered at the same time. </p>
+<p>The Search Students field also respects Concluded and Inactive Enrollment options. If the Concluded Enrollment or Inactive Enrollment options are selected as filters, no Concluded or Inactive enrollments display in the Gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

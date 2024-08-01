@@ -1,0 +1,112 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_bc5d28c0-f1ef-4ab7-977d-811db387f664" class="text-block-content">
+    <p>When creating a New Quiz, you can choose to set up an quiz with anonymous grading. Selecting the anonymous grading option hides student names from graders when they view assignment submissions in SpeedGrader.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Anonymous Grading is currently a course feature option. To enable this feature, learn how to manage feature options in the <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">course features lesson</a>. If the Anonymous Grading option is not available for your course, your institution admin has not enabled the Anonymous Grading <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Feature-Option-Summary/ta-p/531316" target="_blank">account feature option</a>.</li>
+<li>You or an admin can enable or disable the anonymous grading option at any time. Any edits made to the assignment will be tracked, and auditing tools will be added to help with accountability in a future release.</li>
+<li>Posting grades for an anonymous New Quizzes will remove anonymity from the quiz.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-assignments" data-step-uuid="e282f9b2-c6c8-4bd0-823c-21acd76a9d50">
+    <h2 id="open-assignments" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/936/681/original/dab2e93d-9e53-4f2c-a49d-f8f6c42cd3f7.png" srcset="" alt="Open Quizzes" height="277" width="155">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d4c2a66c-146e-44cc-b952-1d7418635770" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link. </p>
+<p><strong>Note:</strong> You can also access quizzes from the Assignments page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-quiz" data-step-uuid="d0a00efd-9a7e-407c-a611-34b97d7a2472">
+    <h2 id="add-quiz" class="step-title screensteps-heading">Add Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/936/683/original/4351c57f-92ef-4882-a391-91ba81c3cdff.png" srcset="" alt="Add Quiz" height="219" width="745">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9bac9f7f-b4d1-4319-8661-d84171e13307" class="text-block-content">
+    <p>Click the <strong>Add Quiz</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-classic-quiz" data-step-uuid="3e8468c1-2bf2-4026-934b-608ee8d25f8d">
+    <h3 id="add-classic-quiz" class="step-title screensteps-heading">Select Quiz Engine</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/945/905/original/ee8a2d0b-be3a-483f-ae25-5032e23bf29f.png" srcset="" alt="Select Quiz Engine" height="531" width="476">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d13e17e6-f482-4d4d-9c10-c936de9ed6a6" class="text-block-content">
+    <p>If your course has New Quizzes enabled, you must select a quiz engine.</p>
+<p>To select New Quizzes, click the <strong>New Quizzes</strong> option [1].</p>
+<p>Then click the <strong>Submit</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-anonymous-grading" data-step-uuid="8775d9b0-18fb-417a-a8da-75e1cd19f216">
+    <h2 id="select-anonymous-grading" class="step-title screensteps-heading">Select Anonymous Grading</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/936/685/original/848c68fd-b856-4d4b-9244-d0c21f944393.png" srcset="" alt="Select Anonymous Grading" height="145" width="554">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6e670ced-d13d-4c14-88bf-1c6a5c5ccfd5" class="text-block-content">
+    <p>Click the <strong>Graders cannot view student names</strong> checkbox. </p>
+<p><strong>Note: </strong>Once changes are saved you cannot remove anonymous grading.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-assignment" data-step-uuid="5ceeb8bf-3498-4e35-9bc5-4f6017460a98">
+    <h2 id="save-assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/936/687/original/b574960d-afbc-42dc-8723-2367faeb3c92.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/936/687/medium/b574960d-afbc-42dc-8723-2367faeb3c92.png" srcset="" alt="Save Assignment" height="88" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_48f36743-4229-40f1-808c-989f62ff79e3" class="text-block-content">
+    <p>If you want to notify users about any future assignment changes, click the <strong>Notify users that this content has changed </strong>checkbox [1].</p>
+<p>To save your quiz details, click the <strong>Save </strong>button [2]. To save and publish your quiz, click the <strong>Save &amp; Publish </strong>button [3].</p>
+<p>To open the New Quizzes build page and add questions and content to your quiz, click the <strong>Build </strong>button [4].</p>
+<p><strong>Note: </strong>Once changes are saved you cannot remove anonymous grading.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

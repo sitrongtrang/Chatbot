@@ -1,0 +1,148 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_58F634B0-1E47-0135-C646-22000B5A851D" class="text-block-content">
+    <p>When you create an assignment, you can choose to add an external app (LTI tool) as a submission type. External apps must be <a href="/t5/Instructor-Guide/How-do-I-add-an-external-app-in-a-course/ta-p/1082" target="_blank">added in your course</a> before they can be added to an assignment. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The External Tool submission type does not support group assignments or peer reviews.</li>
+<li>Grade passback from external applications (LTI tools) to the Canvas Gradebook is not restricted by course start dates. When students have access to a course before a course start date, they can participate in assignments using some external applications (LTI tools), and grades for those assignments will populate the Gradebook. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="dc536405-539e-447d-a7c9-a03817925187">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/742/817/original/cb9e8bdc-825f-4013-8161-ef638fc89b32.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_58F7D4C0-1E47-0135-C648-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="76ff6198-cc18-4701-8201-57f687194763">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/255/474/original/86e4d082-fbcc-44eb-9072-def6dc50d64f.png" srcset="" alt="Add Assignment" height="71" width="319">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_58F80A40-1E47-0135-C64A-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_submission_type" data-step-uuid="6c5bed8b-68a2-402a-96f4-e7201d532bf7">
+    <h2 id="select_submission_type" class="step-title screensteps-heading">Select External Tool Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/058/original/7b9b049f-db77-4624-bbb4-0a6b06ef30a0.png" srcset="" alt="Select Submission Type" height="290" width="534">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_58F83CD0-1E47-0135-C64C-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Submission Type</strong> drop-down menu, select the <strong>External Tool </strong>option. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-submission-tool-submission-type" data-step-uuid="5d0aebe0-ddcb-4714-bedf-0d5f3ea7fde2">
+    <h3 id="select-submission-tool-submission-type" class="step-title screensteps-heading">Select Submission Tool Submission Type</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/276/043/original/e931bb7d-ca4f-4733-a43c-ffd7030aa6c4.png" srcset="" alt="Select Submission Tool Submission Type" height="224" width="513">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d88bfbff-a492-4cb2-9d66-92cd4ce80d4f" class="text-block-content">
+    <p>In the <strong>Submission Type </strong>drop-down menu, you may be able to select an external tool directly [1].</p>
+<p>The external tool displays an icon [2], the name of the tool [3], and the tool description [4].</p>
+<p><strong>Note: </strong>To select an external tool directly from the Submission Type drop-down menu, your institution must set Submission Type Selection as a <a href="/t5/Admin-Guide/How-do-I-configure-an-LTI-key-for-an-account/ta-p/140" target="_blank">placement option for the external tool in the Developer Keys page</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_external_tool" data-step-uuid="b21e1e50-0ad3-4e45-ba90-3e1d4b90cdcd">
+    <h2 id="find_external_tool" class="step-title screensteps-heading">Find External Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/135/700/original/b56c3a58-7fd2-44d6-a012-254efb33f406.png" srcset="" alt="Find External Tool" height="290" width="534">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_58F87270-1E47-0135-C64E-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Find</strong> button [1] or enter the External Tool URL in the URL field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configure_external_tool" data-step-uuid="fe1a14b3-4083-453d-bb87-72469c918593">
+    <h2 id="configure_external_tool" class="step-title screensteps-heading">Configure External Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/135/698/original/32568054-3072-4076-bd44-b99e103d11b2.png" srcset="" alt="Configure External Tool" height="412" width="414">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_58F8A620-1E47-0135-C650-22000B5A851D" class="text-block-content">
+    <p>Click the name of the LTI<strong> </strong>tool [1]. Depending on the tool type, you may be taken to a separate screen for further configuration.</p>
+<p>If you want the assignment to load in a new tab, click the <strong>Load in a new tab</strong> checkbox [2]. Click the <strong>Select</strong> button [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="load-tool-in-a-new-tab" data-step-uuid="27f98dad-379c-4acb-84b0-586825baa57b">
+    <h3 id="load-tool-in-a-new-tab" class="step-title screensteps-heading">Load Tool in a New Tab</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/135/696/original/fac3ee85-9213-4a5b-a50d-55c07c446ad3.png" srcset="" alt="Desktop" height="285" width="525">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ce14aa5c-b571-4818-b172-aac2dbee9272" class="text-block-content">
+    <p>To load the assignment in a new tab, click the <strong>Load This Tool In A New Tab</strong> checkbox.</p>
+<p><strong>Note: </strong>If you enabled the Load in a new tab checkbox when configuring the external tool, the Load this Tool In A New Tab checkbox will already be selected.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="ec713ace-956a-4ef1-be37-d090225e108e">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/067/original/9ae61ecf-dddf-4a04-bdb2-7d6d989580b2.png" srcset="" alt="Save and Publish" height="95" width="307">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_58F8DAE0-1E47-0135-C652-22000B5A851D" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

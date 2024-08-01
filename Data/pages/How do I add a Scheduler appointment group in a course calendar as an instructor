@@ -1,0 +1,241 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6F2A8770-1ED9-0135-8E1A-22000B5A851D" class="text-block-content">
+    <p>If Scheduler is enabled for your institution, you can create appointment groups in the Scheduler. Appointment groups create a block of time where students can meet with you. Students can sign up for appointment times in their own calendars.</p>
+<p>Appointments display in your calendar after a student or group has reserved a time slot. Appointment details are also included when you export the calendar using the Calendar feed.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If user participation is limited to dates between the <a href="/t5/Instructor-Guide/How-do-I-change-the-start-and-end-dates-for-a-course/ta-p/452354" target="_blank">course start and end dates</a>, Scheduler events cannot be edited or deleted after the date the course ends.</li>
+<li>The Scheduler tool is optional. If it is not already enabled for your account, please contact your Canvas administrator.</li>
+<li>When an instructor or TA creates an appointment group for an entire course, all course section users can view the appointment group. However, if an appointment group is made for a specific section or is added by a section-restricted instructor or TA, only users in that section can view the appointment group.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_calendar" data-step-uuid="68813492-95ac-4ac1-851a-fd2e12d5063f">
+    <h2 id="open_calendar" class="step-title screensteps-heading">Open Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/351/655/original/c9e40d0b-13c0-49a6-a133-cf3bd377fb1f.png" srcset="" alt="Open Calendar" height="612" width="96">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2C4360-1ED9-0135-8E1C-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Calendar</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_event" data-step-uuid="3e62fda4-fb94-449e-b487-bd2aaeabdc03">
+    <h2 id="add_event" class="step-title screensteps-heading">Add Event</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/123/027/original/cfcbcda0-c294-45ec-91ee-e33a39d71cba.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/123/027/medium/cfcbcda0-c294-45ec-91ee-e33a39d71cba.png" srcset="" alt="Add Event" height="447" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2C7910-1ED9-0135-8E1E-22000B5A851D" class="text-block-content">
+    <p>In the Calendars list, click the checkbox for the calendar in which you want to add the appointment group [1]. Appointment groups can be added to multiple calendars.</p>
+<p>Click any date on the calendar to add an event [2]. Or, click the arrows next to the month name to navigate to a different month [3] and select a date.</p>
+<p>If you don't want to manually locate the date, you can click the <strong>Add </strong>icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_appointment_group" data-step-uuid="d538854f-d4e6-4b30-8944-d00e1b20a15f">
+    <h2 id="open_appointment_group" class="step-title screensteps-heading">Open Appointment Group</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/123/029/original/998e4502-180f-4510-b63b-5798fdd1a277.png" srcset="" alt="Open Appointment Group" height="105" width="388">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2CB530-1ED9-0135-8E20-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Appointment Group</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_name_and_location" data-step-uuid="d7fe2de8-9d02-4c99-8865-ceb8785fd81c">
+    <h2 id="create_name_and_location" class="step-title screensteps-heading">Create Name and Location</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/308/108/original/27626d1d-0631-4479-8098-aab93265ee7b.png" srcset="" alt="Create Name and Location" height="258" width="284">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2CE8D0-1ED9-0135-8E22-22000B5A851D" class="text-block-content">
+    <p>Type the name of the appointment in the name field [1]. Type the location of the appointment in the location field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_calendars" data-step-uuid="b8c9d00e-9e1f-4441-a44b-8c48e8d8e671">
+    <h2 id="select_calendars" class="step-title screensteps-heading">Select Calendars</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/308/948/original/e9725028-856b-40c0-86bf-746ef208ab9c.png" srcset="" alt="Select Calendars" height="254" width="311">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2D2070-1ED9-0135-8E24-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Select</strong> <strong>Calendars</strong> button [1]. To select the course(s) or section(s) where you want to show the appointment group, click the checkbox next to the course name or section name [2]. To close the Calendar list, click the <strong>Done </strong>button [3].</p>
+<p>If you want to select certain sections from your course, click the arrow icon [4].</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The calendar cannot be modified once the appointment group is saved. However, additional calendars can be added to the original appointment group.</li>
+<li>If the course or section you want to select does not display in the Select Calendars list, return to the calendar and click the checkbox for the course or section in the Calendars list.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="allow-group-signup" data-step-uuid="6a76017e-3025-4b13-b9bf-48e0404f739b">
+    <h3 id="allow-group-signup" class="step-title screensteps-heading">Allow Group Signup</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/123/031/original/d391918a-9448-414b-a342-e478bdc8d149.png" srcset="" alt="Allow Group Signup" height="239" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5f3261e2-c2f5-4ae1-a563-e3acc4c7858c" class="text-block-content">
+    <p>If you have <a href="/t5/Instructor-Guide/How-do-I-add-a-group-set-in-a-course/ta-p/693" target="_blank">created at least one group set</a> in your course, you can have students sign up in groups by clicking the <strong>Have students sign up in groups </strong>checkbox [1]. Then select the name of the group category you want to use for the group signup [2]. </p>
+<p><strong>Note:</strong> The groups option is only available if you previously selected the calendar for the entire course. You cannot select a calendar for a specific section because Canvas does not currently support sections in groups.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="allow_group_signup" data-step-uuid="bc3ffda9-e075-4947-9837-8a98fb4bcb2b">
+    <h3 id="allow_group_signup" class="step-title screensteps-heading">Allow Observer Signup</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/123/033/original/585f28f1-71d9-4e1f-8889-12f8315b64ff.png" srcset="" alt="Allow Group Signup" height="195" width="281">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2DB6C0-1ED9-0135-8E26-22000B5A851D" class="text-block-content">
+    <p>To allow observers to sign-up for appointments, click the <strong>Allow observers to sign up</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_appointment_time_range" data-step-uuid="31b89cd2-d40f-4e8e-b153-b9492550a657">
+    <h2 id="set_appointment_time_range" class="step-title screensteps-heading">Set Appointment Time Range</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/308/115/original/92b3df54-52e9-416c-b4f7-4cf671aead34.png" srcset="" alt="Set Appointment Time Range" height="159" width="421">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2E1DD0-1ED9-0135-8E28-22000B5A851D" class="text-block-content">
+    <p>In the date field [1], enter the date of the appointment. You can also select a date by clicking the <strong>Calendar </strong>icon. </p>
+<p>Set the time range for the appointment by typing in the time range field [2]. You must include at least one time slot.</p>
+<p>You can split the time range into multiple time slots by entering the division time into the time field [3]. For instance, if you want to create 15-minute meeting times from 2:00 pm until 5:00 pm, enter the number 15. </p>
+<p>To create the time slots, click the <strong>Go </strong>button [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="modify_appointment_times" data-step-uuid="91db31a4-5a6c-4999-9344-636789f0ef18">
+    <h3 id="modify_appointment_times" class="step-title screensteps-heading">Modify Appointment Times</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/123/035/original/f6f4ea84-ba81-460f-8104-64c683df1027.png" srcset="" alt="Modify Appointment Times" height="275" width="429">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2E58A0-1ED9-0135-8E2A-22000B5A851D" class="text-block-content">
+    <p>You can manually change any appointment time created by the division. If you want to remove an appointment time, click the <strong>Remove </strong>icon.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The appointment date, time range, and appointment slots cannot be modified after the appointment group is saved. However, additional dates, time ranges, and appointment slots can be added to the original appointment group. </li>
+<li>You must create at least one time slot for each appointment group.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_appointment_options" data-step-uuid="3343a273-3217-4ebc-bd2e-047a6dd37b2f">
+    <h2 id="set_appointment_options" class="step-title screensteps-heading">Set Appointment Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/055/644/original/eb229d18-e880-455b-84ce-e94b3a4f7ca3.png" srcset="" alt="Set Appointment Options" height="197" width="450">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2E8F70-1ED9-0135-8E2C-22000B5A851D" class="text-block-content">
+    <p>You can limit how many users can sign up for a time slot by clicking the <strong>Limit each time slot</strong> checkbox and typing the number of time slots in the limit field [1]. If you selected the option to have students sign up in groups, this field reads as <em>Limit each time slot for x groups</em>. </p>
+<p>To make the appointment slots public to students in the course, click the <strong>Allow students to see who has signed up for time slots that are still available</strong> checkbox [2]. Selecting this option also allows students to see comments other students add to their appointments.</p>
+<p>If you want to limit the number of appointments available, click the <strong>Limit participants to attend [number] appointment(s)</strong> checkbox [3].</p>
+<p><strong>Note:</strong> When using the group signup option, only one group member needs to sign up for a time slot on behalf of their group. Each member in the group will see the appointment on their own group calendar.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_appointment_details" data-step-uuid="726d6427-99af-4226-b715-79e192285079">
+    <h2 id="add_appointment_details" class="step-title screensteps-heading">Add Appointment Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/308/105/original/928da0a0-e099-4fd8-aca9-ace7082a636c.png" srcset="" alt="Add Appointment Details" height="106" width="693">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2F6BA0-1ED9-0135-8E2E-22000B5A851D" class="text-block-content">
+    <p>If you want to add details about the appointment group, type them in the details field.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="publish_appointment_group" data-step-uuid="2094a8c2-e7d6-4f60-a64c-a577f5de6140">
+    <h2 id="publish_appointment_group" class="step-title screensteps-heading">Publish Appointment Group</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/308/106/original/9e36593a-1953-4513-b09f-973bce1995c1.png" srcset="" alt="Publish Appointment Group" height="73" width="194">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2F9F60-1ED9-0135-8E30-22000B5A851D" class="text-block-content">
+    <p>Click <strong>Publish</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_calendar" data-step-uuid="f447dd94-4dbd-4963-b797-1286d644974e">
+    <h2 id="view_calendar" class="step-title screensteps-heading">View Calendar</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/123/037/original/2d0c4287-7495-4b32-9fe0-305f159deae4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/123/037/medium/2d0c4287-7495-4b32-9fe0-305f159deae4.png" srcset="" alt="View Calendar" height="429" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2FDB50-1ED9-0135-8E32-22000B5A851D" class="text-block-content">
+    <p>View the appointment dates and times in your course calendar. <a href="/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar-as/ta-p/536" target="_blank">Students can reserve time slots</a>. <a href="/t5/Observer-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar-as/ta-p/595739" target="_blank">Observers, if allowed, can also reserve time slots</a>. Time slots that have been reserved by users will show as a solid color.</p>
+<p><strong>Note:</strong> If you added an appointment group to more than one course, appointment slots only display in the calendar for the first course shown in the appointment group.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

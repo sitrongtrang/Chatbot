@@ -1,0 +1,150 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_e5e52484-1619-4c95-960b-3904fa617e02" class="text-block-content">
+    <p>When creating a new event, if you want to create the same event multiple times for yourself or for a group, you can create a recurring (or repeating) event. Repeating events creates multiple copies of the event every day, week, or month. For example, you may create a recurring group event for a weekly study group. This may help keep you organized and prepared for your course.</p>
+<p>Tips for recurring events:</p>
+<ul>
+<li>Weekly events are repeated on the day of the week of the first event. For example, if an event is created on a Monday and repeats weekly, the next instance of the event will appear on the following Monday, regardless of the actual date.‬</li>
+<li>‪Monthly events are repeated on the day of the month of the first event. For example, if an event is created on July 6 and repeats monthly, the next instance of the event will appear on August 6. ‬ </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_calendar" data-step-uuid="62823c40-0c9a-45e6-aea3-b9b6fed7ed7b">
+    <h2 id="open_calendar" class="step-title screensteps-heading">Open Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/881/678/original/89a67921-b930-44be-8be3-f9c44ceaed78.png" srcset="" alt="Open Calendar " height="605" width="95">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ee6bd27b-dae7-490b-b06f-7ba1f42d9fc7" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Calendar</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_event" data-step-uuid="ce7d946b-b2b2-4cf0-b7ef-4d45c0619370">
+    <h2 id="add_event" class="step-title screensteps-heading">Add Event</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/882/209/original/6da5204b-e9eb-416f-8b64-20a1e0d7c323.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/882/209/medium/6da5204b-e9eb-416f-8b64-20a1e0d7c323.png" srcset="" alt="Add Event" height="579" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e27bf43c-4170-422d-aae0-624dc707ba49" class="text-block-content">
+    <p>Click any date on the calendar to add an event [1]. Or, click the arrows next to the month name to navigate to a different month [2] and select a date.</p>
+<p>If you don't want to manually locate the date, you can click the <strong>Add</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_more_options" data-step-uuid="72fc036d-c0ec-4423-bd51-3460838972b4">
+    <h2 id="view_more_options" class="step-title screensteps-heading">Add Event Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/881/837/original/eed11b06-bb24-4ea8-a056-ec1e0df93bb9.png" srcset="" alt="Add Event Details" height="696" width="529">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_21507755-f98c-413f-833f-897a36fe35c3" class="text-block-content">
+    <p>Enter a title for the event [1]. </p>
+<p>Depending on how you added your event, the date may be populated for you. If not, enter a date in the date field [2].</p>
+<p>The calendar times may also be populated for you in the From and To fields [3]. To edit, use the dropdown or enter the start and end time for your event. To create an all-day event, leave the From and To fields blank so there is no start and end time for your event. </p>
+<p>In the <strong>Frequency</strong> drop-down menu, you can set recurring calendar events [4].</p>
+<p>If a location is required, enter a location for the event [5]. </p>
+<p>In the <strong>Calendar</strong> drop-down menu, select the calendar you want to add the event to [6].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-event-frequency" data-step-uuid="02f695d7-e277-4be8-a3d5-4839f8cdfa74">
+    <h2 id="add-event-frequency" class="step-title screensteps-heading">Add Event Frequency</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/881/839/original/4a925555-ab87-49e8-bcd6-0a8fc7d19670.png" srcset="" alt="Add Event Frequency" height="348" width="531">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b6f5bbd7-9108-4f3c-930e-4d2d5c9a4a51" class="text-block-content">
+    <p>In the <strong>Frequency</strong> drop-down menu [1], you can select from multiple recurring options, including no repeat, daily, weekly, monthly, annually, every weekday, or a custom frequency.</p>
+<p><strong>Notes: </strong>Each frequency selection has an occurrence default:</p>
+<ul>
+<li>daily = 365 (days in a year)</li>
+<li>weekly = 52 (weeks in a year)</li>
+<li>monthly = 12 (months in a year)</li>
+<li>annually = 5 (The event will occur for five years)</li>
+<li>every weekday = 52 * 5 (weeks in a year * weekdays)</li>
+<li>Additionally, users can have a maximum of 400 occurrences.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-event-custom-frequency" data-step-uuid="f9a8d1d5-1e7b-4085-9e7a-cc0d85f25aa0">
+    <h3 id="add-event-custom-frequency" class="step-title screensteps-heading">Add Event Custom Frequency</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/881/841/original/95bcf8b4-726c-4bd6-b4ff-cdc859a325a7.png" srcset="" alt="Add Event Custom Frequency" height="520" width="557">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ff0248f-235d-441f-8d92-98b931e85abf" class="text-block-content">
+    <p>To create a custom recurring event, select how often the event repeats [1], which day(s) it repeats on [2], and when it ends [3]. Click the <strong>Done</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_event" data-step-uuid="6ea168b6-e565-43ce-8d5a-fcd9f158e58b">
+    <h2 id="create_event" class="step-title screensteps-heading">Submit Event</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/881/843/original/00dc5b10-52a3-47b0-b58a-61b8ca293f76.png" srcset="" alt="Submit Event" height="83" width="260">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_69d88d23-3818-470d-97b3-afac93cf0221" class="text-block-content">
+    <p>Click the <strong>Submit </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_events" data-step-uuid="aab561cd-8b16-47b2-a394-d371412b528c">
+    <h2 id="view_events" class="step-title screensteps-heading">View Events</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/881/845/original/f0b8e917-f741-4663-ba57-23e7c7f3d684.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/881/845/medium/f0b8e917-f741-4663-ba57-23e7c7f3d684.png" srcset="" alt="View Events" height="544" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b3b9d899-78e9-4388-b976-b40e42226a98" class="text-block-content">
+    <p>View the events in your calendar. </p>
+<p>Remember, once created, duplicate events are not linked together and are independent events. Therefore, if you need to modify an event, each event has to be edited individually.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,27 @@
+How do I import SCORM files as an assignment as an instructor
+Open SCORM
+In Course Navigation, click the SCORM link.
+Upload File
+Click the Upload button.
+Open File
+Select the file from your computer and click the Open button.
+Choose Import Type
+Once the file is uploaded, select they object import type. Click the Choose Import Type menu and select an option . You can import the file as a graded assignment, an ungraded assignment, or a page. 
+Note: The import type selected when importing a SCORM file is permanent and cannot be changed in Canvas. If a SCORM file is uploaded as an ungraded assignment, the assignment is not worth points, the assignment is not added to the gradebook, and students cannot earn a grade for the assignment.
+Import File
+Click the Go button.
+Note: If content does not immediately load, your LTI tool may need to be reconfigured. Please contact your admin for assistance.
+View File
+To view the assignment in Canvas or to edit assignment details, click the Assignment icon.
+View in Assignments
+Imported SCORM assignments also display on the Assignments Index page. Once imported, you can move the assignment to an assignment group and add it as a module item. 
+Preview File
+To preview the uploaded content, click the Preview icon. 
+Preview File
+SCORM assignment previews display the files they appear for students in your course. By default, the file preview displays a No Score label. However, if you complete the assignment in preview mode, the display changes to reflect an earned score.
+To reset the test content, click the Reset button. 
+To close the preview window, click the Done button.
+Note: All SCORM uploads default to 100 points possible. 
+Delete File
+To delete a SCORM file, click the Delete icon.
+Note: If you delete a SCORM assignment in the Assignments page, you can still view the assignment on the SCORM page. Clicking the Assignment icon generates an error. However, if you delete the assignment in the SCORM page, the assignment is also deleted from all other applicable Canvas locations. 

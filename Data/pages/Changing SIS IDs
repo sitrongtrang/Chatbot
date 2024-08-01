@@ -1,0 +1,130 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F746E350-6C84-0138-C795-0ED2891A6CD5" class="text-block-content">
+    <p>As an account administrator, when modifying an SIS ID you may encounter the error message, “The SIS ID is already in use”. SIS IDs must be completely unique for the item type you are modifying. If a user has the SIS ID of “S0001”, then no other user can have that ID except the existing one. </p>
+<p>If you are not a Canvas administrator for your school, please contact your Canvas admin.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>While the troubleshooting steps in this guide cover users specifically, the concepts apply for any item with an SIS ID.</li>
+<li>Deleted items retain their SIS IDs until they are changed.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="b4427765-3f8a-462b-bfad-7e16de5945f6">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/339/851/original/33f41039-8ce7-4adc-9bc7-772794cc6ac7.png" srcset="" alt="Open Account" height="674" width="455">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e89bbfbe-6a7d-4bc0-908a-91496242aeb6" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], and then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search-people" data-step-uuid="06f69c5c-ef51-4a15-aee0-dff5161cdcc8">
+    <h2 id="search-people" class="step-title screensteps-heading">Search People</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/339/853/original/713d0130-869c-46c4-a981-1a0ba9a5573c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/339/853/medium/713d0130-869c-46c4-a981-1a0ba9a5573c.png" srcset="" alt="Search People" height="67" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7d3c952d-99a6-4470-888b-11720041f957" class="text-block-content">
+    <p>In Account Navigation, click the <strong>People</strong> link [1]. In <a href="https://community.canvaslms.com/docs/DOC-14245-4214857445" target="_blank">the account People page, </a>search for the SIS ID [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-title" data-step-uuid="F746FA10-6C84-0138-C796-0ED2891A6CD5">
+    <h2 id="step-title" class="step-title screensteps-heading">Confirm Active User</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F7471ED0-6C84-0138-C798-0ED2891A6CD5" class="text-block-content">
+    <p>If a user exists on the account, confirm that you are using the correct SIS ID. If this is a duplicate account for the correct user, <a href="https://community.canvaslms.com/docs/DOC-12630-421473706" target="_blank">you can merge the users</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="no-active-user-in-account" data-step-uuid="44f34953-702c-40dc-ab08-4a83c9fc8f33">
+    <h2 id="no-active-user-in-account" class="step-title screensteps-heading">No Active User in Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/360/476/original/1806d629-0113-429c-b83a-cbb55563c79d.png" srcset="" alt="Shared Content" height="445" width="588">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cc5a172d-2837-4bfc-894e-3872b4239a28" class="text-block-content">
+    <p>If you search for the SIS ID that is in use and get the message “No Users Found”, the user is most likely a deleted user. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-deleted-user" data-step-uuid="7515444f-e874-4f72-9bdf-e9c8a230eee9">
+    <h2 id="confirm-deleted-user" class="step-title screensteps-heading">Confirm Deleted User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/360/478/original/1f202949-5986-43ee-b1c0-d7e125da78ed.png" srcset="" alt="Confirm Deleted User" height="618" width="404">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d05f73f1-1964-42c9-af0f-b0bfebc9fcdd" class="text-block-content">
+    <p>To confirm that the SIS ID belongs to a deleted user, run an account <a href="https://community.canvaslms.com/docs/DOC-12627-421480121" target="_blank">provisioning report for Users</a>, and select the <strong>Include Deleted Objects</strong> checkbox.</p>
+<p>If the SIS ID is being used on a deleted user, you can either merge users or create a change_sis_id CSV import.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="merge-users" data-step-uuid="e8666567-e508-4722-81a3-720c63c1a20d">
+    <h3 id="merge-users" class="step-title screensteps-heading">Merge Users</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_20a02051-00f7-4fae-bb0f-81f7c78d2bcd" class="text-block-content">
+    <p>If you would like to merge the users, run a <a href="/t5/Admin-Guide/How-do-I-format-CSV-text-files-for-uploading-SIS-data-into-a/ta-p/216" target="_blank">users.csv SIS Import</a> with that deleted user’s information, and change the user's status to active.</p>
+<p>After they are restored, <a href="https://community.canvaslms.com/docs/DOC-12585-4214164118" target="_blank">you can then choose to merge those users</a> or change the restored user’s SIS ID.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="change_sis_id-csv" data-step-uuid="7accee57-cd59-46ca-ac98-5657b77027d6">
+    <h3 id="change_sis_id-csv" class="step-title screensteps-heading">Change_SIS_ID.CSV</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a190d41e-f723-49c8-91fc-1f48bd6713c8" class="text-block-content">
+    <p>Alternatively, if you do not want to merge the user but would still like to use the SIS ID, <a href="https://community.canvaslms.com/docs/DOC-12585-4214164118#change_sis_id-csv" target="_blank">create and import a change_sis_id.csv SIS Import</a>. This import removes the SIS ID from the deleted user, and replaces it with one of your choosing.</p>
+<p>The new_id field can be anything, though we typically recommend appending “_deleted” to the original SIS ID, to help you identify the deleted user if necessary, e.g.:</p>
+<ul>
+<li>old_id: S0001</li>
+<li>new_id: S0001_deleted</li>
+<li>type: user</li>
+</ul>
+<p>After that SIS Import runs successfully, you can then return to the new user and modify the SIS ID. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

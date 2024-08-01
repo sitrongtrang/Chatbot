@@ -1,0 +1,171 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_763059E0-1D71-0135-B55C-22000AB760A3" class="text-block-content">
+    <p>Student Information System (SIS) Imports are a great way to manually import bulk data (or changes) into the Canvas system. This lesson will provide the basic lessons on how to use the Canvas API and the programming language of your choice to set up an automated system to manage your SIS import workflow.</p>
+<p>Several programming languages can be used to build an automated integration tool with Canvas. If your preferred programming language can make Secure Socket Layer (SSL) web calls (HTTPS) to an external server and has the ability to post files, you can apply the steps in this lesson to the programming language of your choice (or just install cURL and write a batch file). This lesson provides a simple approach to setting up a basic automated import system. However, you may want to develop a more complex system based on your skills and the abilities of your specific SIS integration.</p>
+<p><strong>Testing Data Integrations</strong></p>
+<p>To avoid affecting data in your production environment, you may want to set up your SIS integration in <a href="/t5/Admin-Guide/How-do-I-access-the-Canvas-test-environment-as-an-admin/ta-p/180" target="_blank">your test environment</a> for accurate testing. Every three weeks, the day after a new Canvas production release, your production environment will create an updated copy for your test environment so you can test with up-to-date data. Once you have confirmed your data works correctly, you can re-apply your SIS integration to your production environment.</p>
+<p>Alternatively, you can create your changes in your production environment, then wait for the next refresh before you begin practicing in your test environment.</p>
+<p><strong>Advanced Help</strong></p>
+<ul>
+<li><a href="https://community.canvaslms.com/groups/lms-migration" target="">Canvas Community Migrations and Integrations Group</a></li>
+<li><a href="https://canvas.instructure.com/doc/api/index.html" target="" rel="nofollow noopener noreferrer">Canvas API Documentation</a></li>
+<li>
+<a href="https://canvas.instructure.com/doc/api/sis_imports.html" target="" rel="nofollow noopener noreferrer">SIS Imports via Canvas API</a> (automated)</li>
+<li>
+<a href="https://community.canvaslms.com/t5/LMS-Migration-Strategies/gh-p/migration" target="">SIS Imports via Canvas UI </a>(manual)</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="585b68c3-976d-4845-88a9-26b4af342b88">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7631F9E0-1D71-0135-B55E-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-permissions" data-step-uuid="509e7f49-4bad-4ded-8da3-06332eaf8bc4">
+    <h2 id="open-permissions" class="step-title screensteps-heading">Open Permissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/780/645/original/a172626b-4015-419f-92fc-f477f973c058.png" srcset="" alt="Open Permissions" height="238" width="137">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4261f4db-b08c-48be-8717-f59d15981d89" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Permissions </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modify_user_role_and_permissions" data-step-uuid="095b1b6e-2e5e-40d9-b340-a7e4d5ecbdf4">
+    <h2 id="modify_user_role_and_permissions" class="step-title screensteps-heading">Modify User Role and Permissions</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/727/621/original/f959ec2f-fa4a-4eab-a392-467b8d2876ab.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/727/621/medium/f959ec2f-fa4a-4eab-a392-467b8d2876ab.png" srcset="" alt="Modify User Roles and Permissions" height="342" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_763234D0-1D71-0135-B560-22000AB760A3" class="text-block-content">
+    <p>In the Account Roles tab, <a href="/t5/Admin-Guide/How-do-I-add-an-account-level-role-in-the-Permissions-page/ta-p/99" target="_blank">create an account-level user role</a> and allow the user to manage SIS data. If you do not want to create a new user role, you can use an existing user role and modify the permissions. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manually_add_new_user" data-step-uuid="3551ccc4-ac50-443d-be11-b0acc2f8f476">
+    <h2 id="manually_add_new_user" class="step-title screensteps-heading">Manually Add New User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/002/original/2e63afe1-09c2-44da-aaa4-309cb4225867.png" srcset="" alt="Manually Add New User" height="543" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76327010-1D71-0135-B562-22000AB760A3" class="text-block-content">
+    <p>You'll need to <a href="/t5/Admin-Guide/How-do-I-create-and-add-users-to-an-account/ta-p/90" target="_blank">manually add a new user</a> to manage the SIS data. You can use an existing user imported via SIS, but manually creating a new user is beneficial for security purposes. This new user will end up with only one permission, but that one permission grants the ability to create, modify, and delete many object types in Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_user_as_admin" data-step-uuid="f0c2fa4f-def3-4f96-9a70-ec013ad4dae5">
+    <h2 id="add_user_as_admin" class="step-title screensteps-heading">Add User as Admin</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/998/original/2c2357d2-8503-4738-9c2b-5b278722d547.png" srcset="" alt="Add User as Admin" height="321" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7632A240-1D71-0135-B564-22000AB760A3" class="text-block-content">
+    <p>To enable SIS permissions, add your admin as an <a href="/t5/Admin-Guide/How-do-I-add-an-admin-to-an-account/ta-p/212" target="_blank">administrative user to your account.</a> Set the user with the user role where you enabled the SIS data permission.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="obtain_api_access_token" data-step-uuid="dc3a8c67-b3b7-4210-b1aa-0daabc534df0">
+    <h2 id="obtain_api_access_token" class="step-title screensteps-heading">Obtain API Access Token</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/000/original/e6334e93-efef-4ccd-be54-94a533173d8b.png" srcset="" alt="Obtain API Access Token" height="438" width="508">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7632D690-1D71-0135-B566-22000AB760A3" class="text-block-content">
+    <p>Log out of Canvas and then log back in as the new user. In User Settings under Approved Integrations, add a new access token. Leave the expiration date blank unless you have a reason to specify a date. Learn how to <a href="/t5/Admin-Guide/How-do-I-manage-API-access-tokens-as-an-admin/ta-p/89" target="_blank">obtain an API access token</a>. </p>
+<p><strong>Note</strong>: Be sure to save this API access token in a safe place. An API access token is effectively the same as a username and password, so treat it with similar security. Remember that the token created in your test environment will be replaced by the token created in your production environment during the next test environment refresh period.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_data_via_api" data-step-uuid="c523c417-0b51-47ed-8052-72410e6cec8c">
+    <h2 id="import_data_via_api" class="step-title screensteps-heading">Import Data via API</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7632F1B0-1D71-0135-B567-22000AB760A3" class="text-block-content">
+    <pre><code>curl -H "Authorization: Bearer &lt;api_token&gt;" 'https://&lt;canvas_fqdn&gt;/api/v1/accounts/self/sis_imports/&lt;import_id&gt;'</code></pre>
+<p>Practice importing data via the API. One API method is using cURL, a command line tool for transferring data that is supported on all operating systems (Windows, Linux, and OSX). The API can show you how to practice importing a test file and checking the status of a previous import.</p>
+<p>Learn more about <a href="/t5/Admin-Guide/How-do-I-practice-using-the-API-to-import-SIS-data-to-a-Canvas/ta-p/100" target="_blank">using the API to import data into Canvas</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_import_script" data-step-uuid="11c7ebad-0395-45b5-af7b-e0edf6e4b671">
+    <h2 id="create_import_script" class="step-title screensteps-heading">Create Import Script</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76330D20-1D71-0135-B568-22000AB760A3" class="text-block-content">
+    <p>Using your preferred programming language, create an SIS script. An SIS script automatically synchronizes the users in your institution with your Canvas account. <a href="https://s3.amazonaws.com/tr-learncanvas/files/sis-imports/BasicScriptFlowchart.png" target="_blank" rel="nofollow noopener noreferrer">View the SIS script flowchart.</a> </p>
+<p>The import script can be as simple or complex as your institution requires. Additionally, a variety of programming languages can be used to write your import script/program. </p>
+<p>Learn more about creating a <a href="/t5/Admin-Guide/What-do-I-need-to-know-about-creating-a-script-to-automatically/ta-p/268" target="_blank">Canvas SIS script</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export_data_and_create_canvas_csv_file" data-step-uuid="47216db7-6278-4194-a7dd-398f7afc69e2">
+    <h2 id="export_data_and_create_canvas_csv_file" class="step-title screensteps-heading">Export Data and Create Canvas CSV File</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_763325F0-1D71-0135-B569-22000AB760A3" class="text-block-content">
+    <p>Export your SIS data in a <a href="/t5/Admin-Guide/How-do-I-format-CSV-text-files-for-uploading-SIS-data-into-a/ta-p/216" target="_blank">Canvas CSV file format</a>. Place the file(s  ) into a directory or folder that only contains CSV files ready to be imported. Depending on your SIS, this step may be automated. For more information on integration, please contact your Canvas Customer Success Manager.</p>
+<p><strong>SIS Exports</strong></p>
+<p>Due to extensive variations among Student Information Systems (SIS),   this lesson cannot document one all-inclusive method for exporting data. However, here are a few possible data access methods that may be available to you:</p>
+<ul>
+<li>API access: The SIS may provide an API in some form that will allow you to collect data.</li>
+<li>Direct data (database  access): The SIS may allow direct database (or other direct data  ) access to your SIS data.</li>
+<li>Report generation or data export: The SIS may have the ability to run reports or export data and have them delivered via email, from a web site/program, or saved to a folder.</li>
+<li>Trigger or tracking events: The SIS may have the ability to run jobs on a triggered event. This type of tracking may be better suited to direct API manipulation of Canvas objects, but you could have a script/program that collects the triggered changes for batch updates at frequent intervals using SIS imports.</li>
+</ul>
+<p>Once you know how to access your SIS data, a script/program could be written and used to manipulate and filter the data to match the format required for CSV SIS imports. In some cases, you may have to manually perform this step. You will need to work with your SIS administrative team or vendor to work out the best way to export data.</p>
+<p><strong>Note</strong>: While working with your SIS team, be sure to provide them with the Canvas CSV file format documentation, which may reduce the complexity of or eliminate the need for a script/program to prepare the data before the import.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

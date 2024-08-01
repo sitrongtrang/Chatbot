@@ -1,0 +1,402 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1f3a1933-a2ae-419f-8e0b-7f4c86792f01" class="text-block-content">
+    <p>You can move a Classic Quizzes <a href="/t5/Instructor-Guide/How-do-I-create-a-question-bank-in-a-course/ta-p/1228" target="_blank">question bank</a> to a New Quizzes <a href="/t5/Instructor-Guide/How-do-I-manage-item-banks-in-New-Quizzes/ta-p/1052" target="_blank">item bank</a>. Follow these general steps:</p>
+<ol>
+<li>Create a Classic Quiz containing the question bank items. </li>
+<li>Export the quiz. </li>
+<li>Create a New Quizzes item bank.</li>
+<li>Import the quiz content into the New Quizzes item bank.</li>
+</ol>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">New Quizzes feature option</a> must be enabled for the course.</li>
+<li>You can learn more about <a href="https://community.canvaslms.com/t5/The-Product-Blog/New-Quizzes-Migration-Question-Banks-to-Item-Banks/ba-p/580551" target="_blank">quiz migration</a>.</li>
+<li>When the <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">Disable Classic Quiz Creation feature option</a> is enabled for the course or enabled and locked at the account level, you cannot create new Classic Quizzes. However, existing Classic Quizzes can continue to be edited, imported, and migrated to New Quizzes.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-1-create-quiz-in-classic-quizzes" data-step-uuid="2acc24eb-6ec8-4495-b16f-28898674e8e2">
+    <h2 id="step-1-create-quiz-in-classic-quizzes" class="step-title screensteps-heading">Create Quiz in Classic Quizzes</h2>
+        <div class="step screensteps-section screensteps-depth-2" id="open_quizzes" data-step-uuid="e17d20cc-723d-4562-870a-0bb61d46258d">
+    <h3 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/120/original/b77674f0-22ba-41e7-9914-c17f83522e3c.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_02ac929b-6382-4331-afa4-910d9d1946a8" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_quiz" data-step-uuid="c8b3b12d-6a5e-41b5-9f5b-a31ea14e2fb1">
+    <h3 id="add_quiz" class="step-title screensteps-heading">Add Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/122/original/1e7f22ee-7a5a-46be-94c6-39f0953c34f3.png" srcset="" alt="Add Quiz" height="70" width="149">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1ad642ba-e2a7-448a-bfaa-023c33bb059a" class="text-block-content">
+    <p>Click the <strong>Add Quiz</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="add-classic-quiz" data-step-uuid="4690bd6a-f5ce-4356-9c76-8b7d86cb2152">
+    <h4 id="add-classic-quiz" class="step-title screensteps-heading">Select Classic Quizzes</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/124/original/597b214f-4468-4864-9252-11873c0f7cc1.png" srcset="" alt="Select Quiz Engine" height="531" width="476">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cb8cbcbd-8ec5-4ac3-855a-13b8755491c8" class="text-block-content">
+    <p>Click the <strong>Classic Quizzes</strong> option [1]. Then click the <strong>Submit</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_quiz_details" data-step-uuid="abbd5d8d-6ff1-41fb-be21-eba56c88b379">
+    <h3 id="edit_quiz_details" class="step-title screensteps-heading">Edit Quiz Details</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/223/126/original/abc52a22-ffcb-4a6c-a1fc-b8c95a517ff0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/223/126/medium/abc52a22-ffcb-4a6c-a1fc-b8c95a517ff0.png" srcset="" alt="Edit Quiz Details" height="1447" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8bb127cc-711a-4063-a4c2-a33a14a38479" class="text-block-content">
+    <p>In the <strong>Details</strong> tab, enter the name of the quiz [1]. You may want to use a name related to your Question Bank. In the Rich Content Editor [2], provide a description.</p>
+<p>To avoid adding this quiz to your Gradebook, click the <strong>Quiz Type</strong> drop-down menu and select the <strong>Practice Quiz </strong>option [3].</p>
+<p>Complete the remaining quiz sections [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="save-quiz" data-step-uuid="35be86e9-1af9-43e4-8f80-20c7c0e8b988">
+    <h3 id="save-quiz" class="step-title screensteps-heading">Save Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/130/original/5c7b1bb8-a256-4c75-ad9d-6a6639720764.png" srcset="" alt="Save Quiz" height="71" width="316">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91d75803-df85-4f6d-9413-57fce0f9d947" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit-quiz" data-step-uuid="ebe17403-eea0-44fa-ae2f-06d327b23d6f">
+    <h3 id="edit-quiz" class="step-title screensteps-heading">Edit Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/300/086/original/48fea5dd-7e93-4936-9e41-d39d005fd147.png" srcset="" alt="Edit Quiz" height="303" width="767">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60144afe-43b2-46db-8986-c938669c32c8" class="text-block-content">
+    <p>In the Classic Quiz you created, click the <strong>Edit</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_new_question_group" data-step-uuid="9c1729ac-ab9b-40e8-b72d-dd4e10998534">
+    <h3 id="add_new_question_group" class="step-title screensteps-heading">Add Questions</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/301/976/original/57a1b9cc-7867-47b1-804b-e4341e834721.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/301/976/medium/57a1b9cc-7867-47b1-804b-e4341e834721.png" srcset="" alt="Add New Question Group" height="274" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c07fc63e-b1d1-4d65-8086-945a1d1145fe" class="text-block-content">
+    <p>Click the <strong>Questions </strong>tab [1]. Click the<strong> Find Questions</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-question-bank-questions" data-step-uuid="ce8fddeb-1b3c-485b-af92-a89eb9e1eb76">
+    <h3 id="add-question-bank-questions" class="step-title screensteps-heading">Add Question Bank Questions</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/301/978/original/a5a7dc1e-ec93-4c55-8cde-619383b0e083.png" srcset="" alt="Add Question Bank Questions" height="433" width="598">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_daa51447-5699-4d98-8d33-79b3b6a720de" class="text-block-content">
+    <p>Click the question bank whose items you want to migrate [1]. </p>
+<p>Select the checkboxes of questions to migrate [2], or, to select all the questions, click the <strong>Select All</strong> link [3].</p>
+<p>Click the <strong>Add Questions </strong>button [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="save-quiz_1" data-step-uuid="e0a300ad-1cdb-46a7-8683-ef70fd0031da">
+    <h4 id="save-quiz_1" class="step-title screensteps-heading">Save Quiz</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/139/original/fc6c3fae-cdf2-4a68-a029-d16754496d3f.png" srcset="" alt="Save Quiz" height="71" width="316">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ae9685c0-4621-401f-81ae-d62446318217" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-2-export-classic-quiz" data-step-uuid="a93092c2-a6f7-464d-97b7-6042bc095942">
+    <h2 id="step-2-export-classic-quiz" class="step-title screensteps-heading">Export Classic Quiz</h2>
+        <div class="step screensteps-section screensteps-depth-2" id="open-settings" data-step-uuid="490d0edb-e766-4ab6-bc12-4c26bcd3e33e">
+    <h3 id="open-settings" class="step-title screensteps-heading">Open Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/141/original/89444a71-04ec-46b4-b8c8-7f58bf75fa10.png" srcset="" alt="Open Settings" height="242" width="150">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_86465a9a-8c40-42e3-b753-ea25d63813ad" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="export_course_content" data-step-uuid="0a59d28d-393f-476a-b7df-e0cdd09adba2">
+    <h3 id="export_course_content" class="step-title screensteps-heading">Export Course Content</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/143/original/d6c9cd66-4a10-4ac0-a732-fced675dc686.png" srcset="" alt="Export Course Content" height="438" width="281">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c43674fa-0b63-43bf-b542-2a8257169c55" class="text-block-content">
+    <p>In the sidebar, click the <strong>Export Course Content</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="choose_export_type" data-step-uuid="76136030-302f-4f1f-9fc4-c9e76522830f">
+    <h3 id="choose_export_type" class="step-title screensteps-heading">Choose Export Type</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/301/981/original/e576cc81-eff8-41a1-b93f-cdf2b8db4856.png" srcset="" alt="Choose Export Type" height="708" width="557">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6caf38a5-c1b2-4f54-8232-6df8f32813c3" class="text-block-content">
+    <p>In the Export Type section, click the <strong>Quiz</strong> radio button [1]. </p>
+<p>Click the checkboxes of the quiz or quizzes you want to export [2].</p>
+<p>Click the<strong> Create Export</strong> button [3].</p>
+<p><strong>Note:</strong> When you create an export, Canvas creates an export archive where you can download previously exported files [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_quiz_export" data-step-uuid="474d7ccf-6cc7-49eb-aa06-88a3997a3bb8">
+    <h3 id="view_quiz_export" class="step-title screensteps-heading">View Quiz Export</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/148/original/2f5e5d8a-9ff9-442f-902b-451d7fca50e8.png" srcset="" alt="View Quiz Export" height="256" width="456">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49b360dc-8234-46c7-ba2c-d4585f1a6d5c" class="text-block-content">
+    <p>When the export is complete, download the ZIP file by clicking the <strong>New Export</strong> link.</p>
+<p><strong>Note</strong>: Content exports expire after 30 days and can no longer be downloaded.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-3-create-new-quizzes-item-bank" data-step-uuid="3157abca-9a6b-4e3c-952b-cbb5efc02dd3">
+    <h2 id="step-3-create-new-quizzes-item-bank" class="step-title screensteps-heading">Create New Quizzes Item Bank</h2>
+        <div class="step screensteps-section screensteps-depth-2" id="open-item-banks" data-step-uuid="fc795860-5221-4361-903f-3338e51a944d">
+    <h3 id="open-item-banks" class="step-title screensteps-heading">Open Item Banks</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/150/original/a6701a12-90ad-4de4-8f35-3f570fc66343.png" srcset="" alt="Open Item Banks " height="242" width="167">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a3ca7e67-5962-4bc4-a214-38d76a575c0b" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Item Banks</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-item-bank" data-step-uuid="0207729e-97dd-4576-bf9d-f8f95e8c511b">
+    <h3 id="add-item-bank" class="step-title screensteps-heading">Add Item Bank</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/223/152/original/fa485f91-9fdd-4e94-825d-b90ba2cfc77f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/223/152/medium/fa485f91-9fdd-4e94-825d-b90ba2cfc77f.png" srcset="" alt="Add Item Bank" height="386" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8041b069-fcf9-4c2d-b840-b129d0855ebc" class="text-block-content">
+    <p>Click the <strong>Add Bank</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="name-item-bank" data-step-uuid="ff453ee1-8cd5-4826-8a18-6c3c7a871f32">
+    <h3 id="name-item-bank" class="step-title screensteps-heading">Name Item Bank</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/300/093/original/afe17972-c89c-4acb-b34b-251f135e9e87.png" srcset="" alt="Name Item Bank" height="332" width="495">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_32f10f97-25a1-4245-ae0e-1aa96cb589a3" class="text-block-content">
+    <p>In the <strong>Bank Name</strong> field [1], enter the name of the item bank. You can share the new item bank to the current course by clicking the <strong>Share </strong>checkbox [2]. To save your bank, click the <strong>Create Bank</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-item-bank" data-step-uuid="fe979cc6-be8b-4f65-a82b-5848097487ea">
+    <h3 id="view-item-bank" class="step-title screensteps-heading">Open Item Bank</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/223/159/original/947b4898-1895-4ae1-a0fd-7f47785cf6b6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/223/159/medium/947b4898-1895-4ae1-a0fd-7f47785cf6b6.png" srcset="" alt="Open Item Bank" height="377" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f9920dad-6b1c-4157-bad9-9a05de9de246" class="text-block-content">
+    <p>Click the new item bank link.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-4-import-classic-quiz-export-to-new-quizzes-item-bank" data-step-uuid="605beb12-fbe5-4a7f-976a-4e973ca641a4">
+    <h2 id="step-4-import-classic-quiz-export-to-new-quizzes-item-bank" class="step-title screensteps-heading">Import Classic Quiz Export to New Quizzes Item Bank</h2>
+        <div class="step screensteps-section screensteps-depth-2" id="import-content" data-step-uuid="c06b2af5-5c59-494a-8434-34d5c0e7e2b0">
+    <h3 id="import-content" class="step-title screensteps-heading">Import Content</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/301/984/original/9273687c-894f-48c4-a018-51511f9926ea.png" srcset="" alt="Import Content" height="292" width="771">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6edcf3e6-30d4-4c29-ba4e-28fd53b7f1ea" class="text-block-content">
+    <p>Click the <strong>Options</strong> icon [1] then select the <strong>Import Content</strong> option [2].</p>
+<p><strong>Note:</strong> To select the Import Content option, the item bank must not contain any questions yet [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="import-qti-file" data-step-uuid="8a49fbed-037b-4b3f-9549-004a34044def">
+    <h4 id="import-qti-file" class="step-title screensteps-heading">Select Export File</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/166/original/77af23e7-a289-4677-979b-96c1a158c6d7.png" srcset="" alt="Select Export File" height="298" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_028247ad-de18-423c-92b7-65494db33b93" class="text-block-content">
+    <p>Drag and drop the exported ZIP file [1] or select the file by clicking the <strong>Browse</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/168/original/8699f2e2-22f0-4ab2-a354-f3d309741797.png" srcset="" alt="Import Content" height="303" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_79d11db1-150f-4fd2-a2d7-14f88ab9c457" class="text-block-content">
+    <p>To start the import, click the <strong>Import </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="view-import-status" data-step-uuid="f7e6c08e-7551-4d9c-870b-53ad4bb462ff">
+    <h4 id="view-import-status" class="step-title screensteps-heading">View Import Status</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/170/original/00c60490-ee15-44ef-9124-0bd091e3155b.png" srcset="" alt="View Import Status" height="209" width="481">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ec83f6f8-3dae-4f21-a2b1-a1125a3fb51d" class="text-block-content">
+    <p>A status bar displays the status of the import.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/300/095/original/63ac24a8-79bd-4fa4-8700-cd455282e92e.png" srcset="" alt="View Success Message" height="269" width="478">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0490d52b-1089-4e36-8fed-51e9ce60a243" class="text-block-content">
+    <p>When the import is complete, a success message displays. To clear the message, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-item-bank-questions" data-step-uuid="eec78604-b7c2-4175-b313-d5519e6780e8">
+    <h2 id="manage-item-bank-questions" class="step-title screensteps-heading">Manage Item Bank Questions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/172/original/2cd4e195-9aad-4a5f-b9dc-c8abf0324625.png" srcset="" alt="Manage Item Bank Questions" height="617" width="765">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ba883c63-16fb-4ae0-b06e-b2cd1a6040ba" class="text-block-content">
+    <p>When the import is complete, you can view the imported questions in your item bank. </p>
+<p>You can learn more about <a href="/t5/Instructor-Guide/How-do-I-manage-item-banks-in-New-Quizzes/ta-p/1052" target="_blank">managing item banks</a>.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-question-details" data-step-uuid="2352d357-50e0-4977-8a26-1ef6cf74e716">
+    <h3 id="view-question-details" class="step-title screensteps-heading">View Question Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/223/175/original/c799e9be-7cf3-4b42-8ec4-bc9b0b42789d.png" srcset="" alt="View Question Details" height="526" width="849">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f6a6b756-5adb-41f7-ad2f-001df2dbc34a" class="text-block-content">
+    <p>To view complete question details, click the <strong>Open</strong> icon [1]. Question details include answer choices as well as the date and time the question was last updated [2].</p>
+<p>To close question details, click the <strong>Close</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

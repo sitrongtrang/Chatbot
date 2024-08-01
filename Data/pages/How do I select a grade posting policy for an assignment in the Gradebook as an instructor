@@ -1,0 +1,148 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_50e1ea0e-00ad-4479-8328-eeb4b528b70c" class="text-block-content">
+    <p>In the Gradebook, you can select an automatic or manual grade posting policy for an individual assignment. Posting policies determine grade visibility for students. You should select an assignment posting policy before entering grades.</p>
+<p>If you select an automatic posting policy, students can see assignment grades as soon as they are entered in the gradebook. Anonymous and moderated assignments cannot be set to post grades automatically. </p>
+<p>If you select a manual posting policy, assignment grades remain hidden from student view by default until you post grades for the assignment. If you select a manual course posting policy after assignment grades have already been entered, the policy will not apply retroactively and any posted grades will remain visible. You can <a href="/t5/Instructor-Guide/How-do-I-hide-grades-that-were-previously-posted-in-the/ta-p/721" target="_blank">hide posted grades from the assignment's Options menu</a>. Additionally, when assignment grades are hidden, students cannot see their assignment grade, instructor comments, or grade change notifications. However, instructors can post comments to students before grades are entered.</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-a-course-in-the/ta-p/588" target="_blank">set a grade posting policy for a course</a>. Assignment-level posting policies override course-level policies for that assignment. Learn more about <a href="/t5/Instructor-Guide/How-do-I-use-posting-policies-in-a-course/ta-p/928" target="_blank">using posting policies in your course</a> and view the <a href="http://bit.ly/cnvs-grade-visibility-flowchart" target="_blank" rel="nofollow noopener noreferrer">interactive Student Grade Visibility Flowchart</a>.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you make changes to an assignment with hidden grades, the total score as you see it (in both the Gradebook and the student Grades page) will be affected. However, students will not see any changes when they view their Grades page. Once you post the assignment grades, the total grade in the student's view will update accordingly. </li>
+<li>Grades for anonymous or moderated assignments must be manually posted. Moderated assignments grades cannot be unhidden until final grades have been posted.</li>
+<li>Students can see peer review comments when assignment grades are hidden. However, students can only see instructor comments if the instructor posts grades or submission comments.</li>
+<li>If you post grades for an assignment with varied due dates, all students will receive score results at the same time. </li>
+<li>Viewing the Total Column in the Gradebook may be restricted when multiple grading periods are enabled.</li>
+<li>In Classic Quizzes, students will not be able to see their quiz responses in Quizzes while quiz grades are hidden.</li>
+<li>In New Quizzes, enabling a posting policy will not affect a student's ability to access their quiz scores. Student visibility of New Quizzes scores must be managed from the <a href="/t5/Instructor-Guide/How-do-I-manage-settings-for-a-quiz-in-New-Quizzes/ta-p/581" target="_blank">quiz settings menu</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_gradebook" data-step-uuid="32c20970-cf3b-4b02-90e0-16c143125af7">
+    <h2 id="open_gradebook" class="step-title screensteps-heading">Open Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/974/original/6037b276-f98c-44c0-a57c-d3dde55b795e.png" srcset="" alt="Open Gradebook" height="233" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3c1ceec9-5dc6-45a7-b627-a9871075661b" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment" data-step-uuid="411d5edc-d7c7-4a4f-af6c-a29daaa23cd9">
+    <h2 id="open_assignment" class="step-title screensteps-heading">Open Assignment Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/784/original/38ba5d0c-140e-4460-b5e7-d9fbf4b1c5ed.png" srcset="" alt="Open Assignment" height="236" width="621">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3f5ee6de-dc24-48f2-96bc-88534489ca92" class="text-block-content">
+    <p>Hover over the assignment column header and click the<strong> Options</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="curve_grades" data-step-uuid="0c6e2fbb-5bb2-49a9-a6cb-654c818277ac">
+    <h2 id="curve_grades" class="step-title screensteps-heading">Open Posting Policy</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/786/original/f251b3fa-a4dd-43fb-9606-21b7df5e4ea1.png" srcset="" alt="Open Posting Policy" height="401" width="697">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_122ad439-1ecc-4912-887a-93be4e2f4b7b" class="text-block-content">
+    <p>Click the <strong>Grade Posting Policy</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="post-grades-automatically" data-step-uuid="45d67a09-176d-403e-9b24-da709d92fc5f">
+    <h2 id="post-grades-automatically" class="step-title screensteps-heading">Post Grades Automatically</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/707/593/original/40aa045a-9e84-4c5e-bc50-ccd47bb50e06.png" srcset="" alt="Post Grades Automatically" height="492" width="319">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e137da52-53eb-443b-95bc-96e73a4743d4" class="text-block-content">
+    <p>To post grades automatically, select the <strong>Automatically</strong> option. When the Automatically option is selected, students can view assignment grades as soon as they are entered.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Anonymous and moderated assignments cannot be set to post grades automatically.</li>
+<li>If you select the Automatically Post Grades option after you have already hidden grades, previously hidden grades will remain hidden.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="post-grades-manually" data-step-uuid="7aa7a959-55e6-4679-8405-11c9b1f4ac9f">
+    <h2 id="post-grades-manually" class="step-title screensteps-heading">Post Grades Manually</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/707/595/original/7a2645f2-be6d-4a53-beee-4c5d5430d2dc.png" srcset="" alt="Post Grades Manually" height="833" width="319">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a7e0435a-c044-414a-8b55-06d2c255543d" class="text-block-content">
+    <p>To post grades manually, select the <strong>Manually </strong>option. When the Manually option is selected, grades are hidden by default and <a href="/t5/Instructor-Guide/How-do-I-post-grades-for-an-assignment-in-the-Gradebook/ta-p/576" target="_blank">must be posted</a> to be viewed by students.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update-policy" data-step-uuid="322af072-fd1f-49a2-9e08-0e8b97f1646b">
+    <h2 id="update-policy" class="step-title screensteps-heading">Update Policy</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/607/704/original/c38f723a-82d4-4e93-9d2c-7662b212a530.png" srcset="" alt="Update Policy" height="65" width="178">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_533107e1-9468-4d88-a768-ae247cc5be83" class="text-block-content">
+    <p>To apply changes to the grade posting policy, click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-gradebook" data-step-uuid="92378929-f393-4fb2-bcee-7d305ca77516">
+    <h2 id="view-gradebook" class="step-title screensteps-heading">View Gradebook</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/725/709/original/beed52a7-fabc-45dc-899d-83668b9ce1b5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/725/709/medium/beed52a7-fabc-45dc-899d-83668b9ce1b5.png" srcset="" alt="View Gradebook" height="382" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76f95234-63d5-453d-b37b-990738958cf6" class="text-block-content">
+    <p>When a manual posting policy has been applied to an assignment, the assignment header displays the <strong>Manual</strong> label [1]. This label indicates that a manual posting policy is currently in place and future grades are hidden from student view.</p>
+<p>Once a submission has been graded, the assignment header displays the <strong>Visibility</strong> icon [2]. This indicates that there are grades within the assignment that <a href="/t5/Instructor-Guide/How-do-I-post-grades-for-an-assignment-in-the-Gradebook/ta-p/576" target="_blank">must be posted</a> before they can be viewed by students. </p>
+<p>When grades are hidden from student view, the Total column also displays the <strong>Visibility</strong> icon [3]. This indicates that the total grade in the Gradebook differs from the total grade viewed by the student. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-a-course-in-the/ta-p/588" target="_blank">manage the default posting policy for a course</a>, click the <strong>Settings</strong> icon [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

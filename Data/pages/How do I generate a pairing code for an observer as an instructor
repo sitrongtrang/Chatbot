@@ -1,0 +1,127 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_c4e69923-314a-4e51-b220-b967db980be8" class="text-block-content">
+    <p>If you have the correct permissions from your administrator, you may be able to generate a pairing code that an observer can use to link to a student. For more information on pairing codes, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Pairing-Codes-FAQ/ta-p/388738" target="_blank">Pairing Codes - Frequently Asked Questions resource document</a>.</p>
+<p>An observer can enter this pairing code in <a href="https://community.canvaslms.com/docs/DOC-10915-4144237751" target="_blank">their User Settings Observing tab</a>. Linked observers can can view and participate in certain elements of the student's Canvas courses.</p>
+<p>Depending on permissions, you also may be able to <a href="/t5/Instructor-Guide/How-do-I-link-a-student-to-an-observer-in-a-course/ta-p/1254" target="_blank">link a student to an observer from the People page</a>. Linking from the People page will only allow the observer to view information from the course where they were linked.</p>
+<p><strong>Note: </strong>Pairing codes can only be generated from the web version of Canvas. Pairing codes cannot be generated from the Canvas mobile apps.</p>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I generate a pairing code for an observer as an instructor?" src="https://community.instructuremedia.com/embed/1f5488bd-311a-4fd0-88de-ad93d0ad289e" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-people" data-step-uuid="ee16cd1d-3ce1-4b2a-b60d-aa009dfffad6">
+    <h2 id="open-people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/824/066/original/3cb4192d-539a-498b-9663-af1e37e50aaf.png" srcset="" alt="Open People" height="231" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ee4c30d6-54c3-4706-94c0-8242969fd658" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-user-details" data-step-uuid="ab81de38-49ff-4bc3-b0c6-65c28c12aec8">
+    <h2 id="open-user-details" class="step-title screensteps-heading">Open User Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/905/864/original/d0384c67-d3c3-4ada-90cb-b8a052167005.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/905/864/medium/d0384c67-d3c3-4ada-90cb-b8a052167005.png" srcset="" alt="Open User Details" height="468" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f539a525-5d6d-4105-a786-010be305210f" class="text-block-content">
+    <p>Click the student's <strong>Options</strong> icon [1], then select the <strong>User Details </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="pair-with-observer" data-step-uuid="0e522ac1-342e-4d65-99e2-6d898f50efe0">
+    <h2 id="pair-with-observer" class="step-title screensteps-heading">Pair with Observer</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/899/036/original/797a2d25-0c85-471b-a607-fd8b6ca97ccb.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/899/036/medium/797a2d25-0c85-471b-a607-fd8b6ca97ccb.png" srcset="" alt="Pair with Observer" height="388" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0396023c-632b-450a-9374-a312aee44c64" class="text-block-content">
+    <p>Click the <strong>Pair with Observer</strong> link.</p>
+<p><strong>Note:</strong> If you cannot view the Pair with Observer link, the permission to generate pairing codes has not been enabled for your role, or self-enrollment has not been enabled for your course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="copy-pairing-code" data-step-uuid="0aff41a0-a73b-4852-83ea-855f91c52818">
+    <h2 id="copy-pairing-code" class="step-title screensteps-heading">Copy Pairing Code</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/899/040/original/40828809-1a80-4aa7-910e-d700aa42b628.png" srcset="" alt="Copy Pairing Code" height="337" width="492">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_83adf021-0c70-4df8-8d21-d36e716b33a9" class="text-block-content">
+    <p>Confirm the name of the student [1].</p>
+<p>Copy the six-digit alphanumeric pairing code [2]. You will need to share this code with the observer who will link to the student's account. The pairing code will expire after seven days or its first use.</p>
+<p>To close the window, click the <strong>OK</strong> button [3].</p>
+<p><strong>Note: </strong>Pairing codes are case sensitive.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export-pairing-codes" data-step-uuid="1a21bb78-deed-4c70-bb57-f26cc86ca260">
+    <h2 id="export-pairing-codes" class="step-title screensteps-heading">Export Pairing Codes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/613/742/original/39c36a01-b6e1-45ce-9965-0b671278efab.png" srcset="" alt="Export Pairing Codes" height="274" width="551">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ecf973bf-627d-48b2-9ea2-226c747ba525" class="text-block-content">
+    <p>You can also export a list of new pairing codes for all students in your course. Click the <strong>Options</strong> icon [1], then select the <strong>Export Pairing Codes</strong> link [2]. Canvas exports a CSV file with one pairing code for each student in your course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-pairing-codes" data-step-uuid="8a907e5a-8465-4c31-bf9f-3b4f152cb637">
+    <h2 id="view-pairing-codes" class="step-title screensteps-heading">View Pairing Codes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/045/499/original/73f23db6-89ec-4cbb-9287-d042af02bc34.png" srcset="" alt="View Pairing Codes" height="198" width="502">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59944587-fa23-4fdf-84a7-d2356c642e5b" class="text-block-content">
+    <p>Locate and open the pairing codes CSV file on your computer. The CSV file displays the first and last name of each student, the student's SIS ID, the student's pairing code, and the date and time at which the pairing code will expire.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

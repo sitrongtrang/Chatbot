@@ -1,0 +1,229 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_a076b968-f93b-44f4-9476-df2f845317ff" class="text-block-content">
+    <p>You can enable and manage the Content Security Policy from the Security tab in your Account Settings. The Content Security Policy allows you to restrict custom JavaScript that runs in your instance of Canvas. You can manually add up to 50 domains to your allowed domains. Using wild cards is recommended (e.g. *.instructure.com). Canvas and Instructure domains are included in allowed domains automatically and do not count against your 50 domain limit. Additionally, any LTI tools added in your account are automatically added to allowed domains and do not count against your 50 domain limit.</p>
+<p>When enabled in an account or sub-account, the Content Security Policy is automatically enabled for all courses within the account or sub-account. Administrators can manually disable the policy for individual courses.</p>
+<p>Sub-accounts have three options for managing the Content Security Policy. Sub-accounts can choose to disable the Content Security Policy, which disables the policy for the sub-account, enable the Content Security Policy at the sub-account level, which only includes domains which have been allowed for the sub-account, or inherit the Content Security Policy from the parent account level. Inheriting the policy will inherit any allowed domains from the parent account level. Sub-accounts are set to inherit by default.</p>
+<p><strong>Note: </strong>The Security tab only displays in Account Settings if you have <a href="/t5/Admin-Guide/How-do-I-manage-feature-options-for-an-account/ta-p/204" target="_blank">enabled the Content Security Policy feature option</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="6cd0212c-faf1-4713-b235-eeff0b0aaf50">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4efcc536-dd8a-4f89-93e8-93808698fa37" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account_settings" data-step-uuid="cfd24ba4-8f8a-413a-8a0a-4c1289ade690">
+    <h2 id="open_account_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/464/original/037942dc-f84e-4111-b844-d055fa62a9d4.png" srcset="" alt="Open Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_699b47ab-7903-4de9-9336-df1eb2cc5e61" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-security-tab" data-step-uuid="e5ad02a6-3ac7-4d57-b519-6613b546291d">
+    <h2 id="open-security-tab" class="step-title screensteps-heading">Open Security Tab</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/577/147/original/2bed4748-b63b-4c5e-a035-345192ccd78a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/577/147/medium/2bed4748-b63b-4c5e-a035-345192ccd78a.png" srcset="" alt="Open Security Tab" height="65" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b6955d20-b38a-4ed7-addc-0d5e048becbd" class="text-block-content">
+    <p>Click the <strong>Security</strong> tab.</p>
+<p><strong>Note: </strong>The Security tab only displays in Account Settings if you have <a href="/t5/Admin-Guide/How-do-I-manage-feature-options-for-an-account/ta-p/204" target="_blank">enabled the Content Security Policy feature</a> option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-content-security-policy" data-step-uuid="024ea02f-0420-4bf0-8bf1-dc5a5473ee51">
+    <h2 id="enable-content-security-policy" class="step-title screensteps-heading">Enable Content Security Policy</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/528/669/original/f1f7062b-f061-4273-ba15-37613a68e710.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/528/669/medium/f1f7062b-f061-4273-ba15-37613a68e710.png" srcset="" alt="Enable Content Security Policy" height="200" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41942a95-5de1-4677-9897-cf0881cd6c03" class="text-block-content">
+    <p>To enable the Content Security Policy for an account, click the <strong>Enable Content Security Policy</strong> toggle.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-domain-to-whitelist" data-step-uuid="c9e188eb-c81c-469f-afdf-71e6176236d8">
+    <h2 id="add-domain-to-whitelist" class="step-title screensteps-heading">Add Domain to Allowed Domains</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/413/107/original/2f737714-cb2a-4933-97c5-c68c333e466d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/413/107/medium/2f737714-cb2a-4933-97c5-c68c333e466d.png" srcset="" alt="Add Domain to Allowed Domains" height="517" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0200e7d0-6ee7-4fe9-9a55-e188c4edab0d" class="text-block-content">
+    <p>To add a domain to your allowed domains, type the domain name in the Domain Name field [1]. </p>
+<p>Click the <strong>Add Domain</strong> button [2].</p>
+<p><strong>Note: </strong>Wild card domains (e.g., *.instructure.com) are recommended. Wild cards include all subdomains tied to the domain name (e.g., example.instructure.com).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-whitelist" data-step-uuid="af285d75-4634-4a45-9e33-f767558ff0b1">
+    <h2 id="view-whitelist" class="step-title screensteps-heading">View Allowed Domains</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/413/110/original/27d0987e-aadd-4762-8ece-0dd4f5f014e7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/413/110/medium/27d0987e-aadd-4762-8ece-0dd4f5f014e7.png" srcset="" alt="View Allowed Domains" height="279" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_22d2f98f-d281-4dba-ac36-453728543fe8" class="text-block-content">
+    <p>You can view all allowed domains in the Allowed Domains list [1] as well as the number of allowed domains contained in the list [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove-whitelisted-domain" data-step-uuid="935c045a-7ce6-43ca-93fc-a7741be34d65">
+    <h2 id="remove-whitelisted-domain" class="step-title screensteps-heading">Remove Allowed Domain</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/528/675/original/c7662aa8-361a-49aa-9739-45093b14cf78.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/528/675/medium/c7662aa8-361a-49aa-9739-45093b14cf78.png" srcset="" alt="Remove Allowed Domain" height="104" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45049e2f-b97f-4355-9f5d-b1b575773e99" class="text-block-content">
+    <p>To remove a domain from the Allowed Domains list, click the <strong>Delete</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-whitelisted-tool-domains" data-step-uuid="8205a947-c5d5-4b51-a2eb-381feca0fa8f">
+    <h2 id="view-whitelisted-tool-domains" class="step-title screensteps-heading">View Associated Tool Domains</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/414/516/original/a239b802-7a08-494f-a49b-2e7df75cfd2f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/414/516/medium/a239b802-7a08-494f-a49b-2e7df75cfd2f.png" srcset="" alt="View Associated Tool Domains" height="538" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d4085402-c346-4935-be54-f9c4cab635b1" class="text-block-content">
+    <p>You can view domain names that have automatically been added to your allowed domains in the Associated Tool Domains list.</p>
+<p>All Canvas and Instructure domain names are automatically added to allowed domains and do not count against the 50 domain limit. Additionally, LTI tools in your account are also automatically added to allowed domains and do not count against the 50 domain limit.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>To remove a domain for an LTI tool, the <a href="/t5/Admin-Guide/How-do-I-use-the-Canvas-App-Center-in-an-account/ta-p/262" target="_blank">LTI tool must be removed from the account or sub-account</a>.</li>
+<li>Associated tools are only listed once in the list of associated tool domains, even if they have been installed in multiple sub-accounts.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-sub-account-content-security-policy" data-step-uuid="3c4f361c-0076-4a3b-b684-f49cf6fc4eb1">
+    <h2 id="manage-sub-account-content-security-policy" class="step-title screensteps-heading">Manage Sub-Account Content Security Policy</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/528/679/original/57dfaae3-85b6-4f93-8db2-5e5c5fafad08.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/528/679/medium/57dfaae3-85b6-4f93-8db2-5e5c5fafad08.png" srcset="" alt="Manage Sub-Account Content Security Policy" height="392" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2f5a031a-8957-466d-850c-36f0d06fbcc3" class="text-block-content">
+    <p>Sub-accounts can manage their own Content Security Policy or choose to inherit the policy from a parent account.</p>
+<p>By default, sub-accounts are set to inherit the Content Security Policy from the parent account.</p>
+<p><strong>Note: </strong>When policy settings are inherited from a parent account, domain editing is disabled at the sub-account level.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enable-content-security-policy_1" data-step-uuid="24fe0913-c324-4907-b21a-5a9419081908">
+    <h3 id="enable-content-security-policy_1" class="step-title screensteps-heading">Enable Content Security Policy</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/528/681/original/37d74d87-2202-4c57-a3a2-f7d77e1b74d1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/528/681/medium/37d74d87-2202-4c57-a3a2-f7d77e1b74d1.png" srcset="" alt="Enable Content Security Policy" height="271" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a94b85c6-2e08-4133-ae67-23f3c9d81024" class="text-block-content">
+    <p>To manage the Content Security Policy from the sub-account level, disable the <strong>Inherit Content Security Policy</strong> toggle [1] and enable the <strong>Enable Content Security Policy</strong> toggle [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="disable-content-security-policy" data-step-uuid="72d1c3d9-6fc3-4fa8-ae1f-c42c36225647">
+    <h3 id="disable-content-security-policy" class="step-title screensteps-heading">Disable Content Security Policy</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/528/683/original/ddbddda8-b1a4-4dd3-bd4d-bb5168c013b5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/528/683/medium/ddbddda8-b1a4-4dd3-bd4d-bb5168c013b5.png" srcset="" alt="Disable Content Security Policy" height="271" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3a191485-37f6-464a-837b-8cd011ef6330" class="text-block-content">
+    <p>To disable the Content Security Policy for the sub-account, disable the <strong>Enable Content Security Policy</strong> toggle.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-individual-course-settings" data-step-uuid="28ebcba7-d46b-42c3-a8a0-dbf546338f52">
+    <h2 id="manage-individual-course-settings" class="step-title screensteps-heading">Manage Individual Course Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/359/119/original/ba9ea04d-3ef3-4341-ae21-8d1e43646d3c.png" srcset="" alt="Manage Individual Course Settings" height="531" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8ab5911e-43a7-4564-9b99-ce4af3538e5d" class="text-block-content">
+    <p>The Content Security Policy automatically applies to all courses in the account or sub-account where the policy is enabled.</p>
+<p>To disable the Content Security Policy for the course, navigate to the course Settings page and click the <strong>Disable Content Security Policy</strong> checkbox [1].</p>
+<p>To save your changes, click the <strong>Update Course Details</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

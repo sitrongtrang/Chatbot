@@ -1,0 +1,230 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_bf145e17-be82-43f0-ba7c-4e1f3b242311" class="text-block-content">
+    <p>As an admin, you can enable any course in your institution as a blueprint course in Course Settings. A blueprint course allows you to create content and learning objects, lock specific settings or content items, and push updates to all associated courses through course syncing.</p>
+<p>Any course can be set as a blueprint course as long as it is not associated with another blueprint course or contain student enrollments. Associated courses must reside in the same or a lower subaccount than where the blueprint course resides.</p>
+<p>The Course Settings page sets the specific definition for how locked objects should be treated for the entire course. Once a definition is set, objects can be locked individually within their appropriate Canvas Index pages.</p>
+<p>Locked objects can be defined generally or specifically by type. By default, each object type contains no locked attributes. Attributes that can be locked include content, points, due dates, and availability dates and apply within assignments, discussions, pages, files, and quizzes. </p>
+<p><strong>General Locked Objects</strong></p>
+<p>By default, the course is defined for General Locked Objects, meaning that any objects locked in the blueprint course are subject to general attributes that cannot be edited in associated courses. For instance, when Content is selected as a locked object attribute, instructors in associated courses are not able to edit any content for any locked objects. The option to lock content is selected by default, though it can be deselected as a lock option. </p>
+<p><strong>Locked Objects by Type</strong></p>
+<p>Blueprint courses can also be defined for Locked Objects by Type, meaning that any objects locked in the course are subject to specific settings set by type that cannot be edited in associated courses. Blueprint courses support and sync five object types: assignments, discussions, pages, files, and quizzes. </p>
+<p><strong>Object Definition Changes</strong></p>
+<p>You may change object definitions and attributes for locked objects in Course Settings at any time. However, unlocking any previously locked attribute retroactively applies to all related locked objects in the associated course. If a previously locked attribute is enabled, or unlocked, in the blueprint course, any locked content attributes in the associated course that vary from locked content attributes in the blueprint course will trigger an unsynced change and override the content in the associated course. Please ensure definitions and attributes are specified before making associated courses available to instructors.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_44fc4edd-8d6d-4a02-8ed0-c590e01d5f2b" class="text-block-content">
+    <p><strong>Notes</strong>:</p>
+<ul>
+<li>Blueprint courses cannot include any student or observer enrollments. </li>
+<li>Blueprint courses do not have to be published.</li>
+<li>Blueprint courses do not include the Reset Course Content button, as content cannot be reset.</li>
+<li>Blueprint courses are not supported for courses across trust accounts. A course in one account cannot be a blueprint course for another account.</li>
+<li>Blueprint courses do not sync certain course settings to associated courses, including term, and course format.</li>
+<li>Blueprint courses include similar functionality with Canvas Commons. To learn more about Canvas Commons, see the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Course-Content-Distribution-Comparison/ta-p/387051" target="_blank">Course Content Distribution Comparison resource document</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="8f27d29d-9879-4648-9850-1168b042d257">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2931d58c-3147-49c6-9d1c-73e6faaa3e6e" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-courses" data-step-uuid="cc3eabe7-3bde-4cb3-a09d-e0ac76098fd3">
+    <h2 id="open-courses" class="step-title screensteps-heading">Open Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/885/original/06bfbd4d-fbeb-43ea-ae87-4db6d8509ba4.png" srcset="" alt="Open Courses" height="306" width="166">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_89ce75bd-2e80-4ee0-96a2-5ec9ab5b1a04" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Courses</strong> link. </p>
+<p><strong>Note:</strong> When you open an account, the account defaults to the Courses page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter_or_find_course" data-step-uuid="78e9c8a4-6e16-483b-a8a3-dbdfbbcdabb0">
+    <h2 id="filter_or_find_course" class="step-title screensteps-heading">Find Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/371/195/original/58073d6c-69d5-4359-a635-d13bb1f49c44.png" srcset="" alt="Find Course" height="100" width="744">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_350d5ebc-7352-439f-8b46-34e25c050df6" class="text-block-content">
+    <p>To find the course in the account, use the filter and search options.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="a8fb7727-2c71-4a66-a0e8-0ce1f6fbc594">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/491/103/original/15a0e9f5-bee7-44ce-acf3-e61fb65e9e14.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/491/103/medium/15a0e9f5-bee7-44ce-acf3-e61fb65e9e14.png" srcset="" alt="Open Settings" height="59" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ee354f53-2314-4ffa-b72a-58830ae28ee4" class="text-block-content">
+    <p>In the courses list, click the course <strong>Settings</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_details" data-step-uuid="06c3c29d-710c-4911-9b2f-11c3864b8d0b">
+    <h2 id="open_course_details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/222/original/3590ebc3-44d9-4b9a-9d0c-c07b379c4cc2.png" srcset="" alt="Open Course Details" height="77" width="551">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f0ee859d-e00a-4b25-ba94-a087aa7e6616" class="text-block-content">
+    <p>Click the <strong>Course Details </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable_course" data-step-uuid="f342639f-cefa-4c3d-9db3-e42974790ad1">
+    <h2 id="enable_course" class="step-title screensteps-heading">Enable Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/224/original/4a14468c-1c2d-4d3a-ae5b-cfd445b32c33.png" srcset="" alt="Enable Course" height="162" width="471">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_afcbc2b6-5c28-4e18-8da3-03062348f2d7" class="text-block-content">
+    <p>Click the <strong>Enable course as a Blueprint Course</strong> checkbox.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-restrictions" data-step-uuid="3cce1e38-4f10-41dd-93d7-9d026c0a53f9">
+    <h3 id="view-restrictions" class="step-title screensteps-heading">View Restrictions</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/575/original/f9ae56ee-037c-42e2-9345-c05d1eb277a9.png" srcset="" alt="View Restrictions" height="366" width="471">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4413a166-926a-40ae-9298-d703e638ae10" class="text-block-content">
+    <p>If the course cannot be enabled as a blueprint course, the checkbox is grayed out [1]. A course cannot be enabled as a blueprint course if the course contains student enrollments.</p>
+<p>If the course is already associated with a blueprint course, you can view the course name and course ID as a reference (e.g. courses/XXX) [2]. The name of the blueprint course includes a link to access the blueprint course.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="define_general_locked_objects" data-step-uuid="95497859-0acd-4ec3-86ef-d23f55095845">
+    <h2 id="define_general_locked_objects" class="step-title screensteps-heading">Define General Locked Objects</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/229/original/1428521a-81eb-40bb-b632-1d2b7ba0f017.png" srcset="" alt="Define General Locked Objects" height="265" width="615">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6398b31e-34b4-47c0-94db-8871e6046312" class="text-block-content">
+    <p>By default, the course is defined for General Locked Objects, meaning that any objects locked in the blueprint course are subject to general attributes that cannot be edited in associated courses. </p>
+<p> </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_attributes" data-step-uuid="9275479d-4d3f-44bb-9019-c45a90dfe04a">
+    <h3 id="select_attributes" class="step-title screensteps-heading">Select Attributes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/231/original/a832b22c-7f5c-45df-8faf-7e7baae86210.png" srcset="" alt="Define General Locked Objects" height="265" width="615">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8de7c1cb-9af7-4b15-84bf-854dc7c7d494" class="text-block-content">
+    <p>As part of the general settings, select the attributes for the locked objects in this course. General locked objects support four attributes across any course object: content, points, availability dates, and due dates. </p>
+<p>The option to lock content is selected by default, though it can be deselected as a lock option. </p>
+<p>Locked objects cannot be edited in associated courses. For instance, when Content is selected as a locked object attribute, instructors in associated courses are not able to edit any content for any locked objects. Content also includes the title of the content item.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="define_locked_objects_by_type" data-step-uuid="6c813d04-7cb4-4698-99ac-08e946c3e541">
+    <h2 id="define_locked_objects_by_type" class="step-title screensteps-heading">Define Locked Objects by Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/233/original/b460b45e-31f8-408b-a124-ed2656f7240b.png" srcset="" alt="Course Settings Objects by Type" height="433" width="643">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b293dcc3-2a85-4286-b02f-1ed9f5489e6e" class="text-block-content">
+    <p>To define locked objects by type, select the Locked Objects by Type option. This setting means that any objects locked in the course are subject to specific settings set by type that cannot be edited in associated courses. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_attributes_1" data-step-uuid="67e69944-495c-4efd-8952-8ff0410da0f1">
+    <h3 id="select_attributes_1" class="step-title screensteps-heading">Select Attributes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/235/original/7a29b83c-29ea-4b61-aca2-8fb6cfd034eb.png" srcset="" alt="Course Settings Objects by Type Expanded" height="548" width="648">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_434b6533-5aba-4e58-af4d-89a7368b6a46" class="text-block-content">
+    <p>Blueprint courses support and sync five object types: assignments, discussions, pages, files, and quizzes. To select an attribute for an object type, expand the attribute type menu [1] and select individual attributes that apply to each locked object [2]. When an attribute is selected, the attribute name displays next to the object type.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Attributes do not need to be the same for each object type. Additionally, depending on the object type, not all attributes may be available.</li>
+<li>Rubrics can be updated and synced as part of blueprint courses. However, if points have been locked for an assignment, updating the rubric’s point value does not affect the assignment point value.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_course_details" data-step-uuid="da72bea4-8014-4172-a52e-0e9e5c3abb14">
+    <h2 id="update_course_details" class="step-title screensteps-heading">Update Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/191/original/f8bbbe03-6ed2-4e50-843b-5eb6aa6f7896.png" srcset="" alt="Update Course Details" height="73" width="220">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_30cdcbdc-efae-4e2d-a9f9-76855097093a" class="text-block-content">
+    <p>Click the <strong>Update Course Details</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

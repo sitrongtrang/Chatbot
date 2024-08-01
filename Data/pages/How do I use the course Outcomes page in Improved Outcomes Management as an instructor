@@ -1,0 +1,158 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9FC51D40-F3A8-0139-27E0-12F2183ABDFB" class="text-block-content">
+    <p>Outcomes are used to track mastery in a course. From the Outcomes page, you can create and manage outcomes, create and manage outcome groups, and import outcomes.</p>
+<p>This lesson displays how to use the Outcomes page in a course within an account that has enabled the Improved Outcomes Management feature option. If the Outcomes page in your course displays differently than the images in this lesson, learn how to <a href="/t5/Instructor-Guide/How-do-I-use-the-outcomes-page-in-a-course/ta-p/645" target="_blank">use the course outcomes page</a> in the classic Outcomes page view.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="9FC535A0-F3A8-0139-27E1-12F2183ABDFB">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/828/160/original/45b865e5-5af4-4763-bbb3-dd55c7bedd95.png" srcset="" alt="Open Outcomes" height="274" width="154">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9FC56420-F3A8-0139-27E3-12F2183ABDFB" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-outcomes" data-step-uuid="9FC585B0-F3A8-0139-27E4-12F2183ABDFB">
+    <h3 id="view-outcomes" class="step-title screensteps-heading">View Outcomes Page</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/828/233/original/17d7509a-e517-429b-9a18-0ee733bfe139.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/828/233/medium/17d7509a-e517-429b-9a18-0ee733bfe139.png" srcset="" alt="View Outcomes Page" height="507" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9FC5B3D0-F3A8-0139-27E6-12F2183ABDFB" class="text-block-content">
+    <p>The Outcomes page opens to the <strong>Manage</strong> tab [1]. From the Manage tab, you can view and manage outcomes and outcome groups.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-scales-in-a-course/ta-p/429018" target="_blank">view and manage outcome mastery scales in a course</a>, click the <strong>Mastery</strong> tab [2]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-calculations-in-a-course/ta-p/429019" target="_blank">view and manage outcome mastery calculations in a course</a>, click the <strong>Calculation</strong> tab [3].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-view-all-aligned-items-in-Improved-Outcomes-Management/ta-p/546237" target="_blank">view aligned items in a course</a>, click the <strong>Alignments</strong> tab [4].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-import-outcomes-into-a-course-in-Improved-Outcomes/ta-p/486359" target="_blank">import outcomes into your course</a>, click the <strong>Import</strong> button [5]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-create-a-course-outcome-in-Improved-Outcomes-Management/ta-p/486357" target="_blank">create a new outcome</a>, click the <strong>Create</strong> button [6].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-find-an-existing-outcome-to-add-to-a-course-in-Improved/ta-p/486363" target="_blank">find an outcome to add to your course</a>, click the <strong>Find</strong> button [7].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcome-groups" data-step-uuid="599654b6-d2f2-49cb-a825-b0c478f72f10">
+    <h2 id="view-outcome-groups" class="step-title screensteps-heading">View Outcome Groups</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/819/410/original/52f5f806-82d7-4df1-8bd9-508c9bda9838.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/819/410/medium/52f5f806-82d7-4df1-8bd9-508c9bda9838.png" srcset="" alt="View Outcome Groups" height="325" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d636b552-6836-4f27-ae24-a6769a2c7fb8" class="text-block-content">
+    <p>From the <strong>Outcome Groups</strong> window, you can view all the outcome groups in your course [1].</p>
+<p>To view an outcome group, click the name of the group [2]. Any outcome groups nested within that group display below the primary group [3]. Outcome group details, including all outcomes that belong to the group, display in the <strong>Outcomes</strong> window [4].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-create-a-course-outcome-group-in-Improved-Outcomes/ta-p/486360" target="_blank">create a new outcome group</a>, click a <strong>Create New Group</strong> link [5]. Outcome groups can be created at the course level or within another outcome group.</p>
+<p>You can adjust the size of the Outcome Groups and Outcomes windows by clicking and dragging the divider bar [6].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-outcome-group-settings" data-step-uuid="ce617512-a381-4dcc-8d84-a5c6ef639ab4">
+    <h3 id="view-outcome-group-settings" class="step-title screensteps-heading">View Outcome Group Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/944/278/original/ea8b3ab3-afb9-4092-91d5-856b54163fec.png" srcset="" alt="View Outcome Group Settings" height="304" width="754">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f108353e-82ef-43b5-8d66-157c9f5428ce" class="text-block-content">
+    <p>To view the Settings menu for an outcome group, click the <strong>Settings</strong> icon [1].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-edit-or-remove-a-course-outcome-group-in-Improved/ta-p/486361" target="_blank">edit an outcome group</a>, click the <strong>Edit</strong> link [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-edit-or-remove-a-course-outcome-group-in-Improved/ta-p/486361" target="_blank">remove an outcome from your course</a>, click the <strong>Remove</strong> link [3].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-move-course-outcomes-and-outcome-groups-in-Improved/ta-p/486356" target="_blank">move an outcome group</a>, click the <strong>Move</strong> link [4].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-create-a-course-outcome-in-Improved-Outcomes-Management/ta-p/486357" target="_blank">add outcomes</a>, click the <strong>Add Outcomes</strong> link [5].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-import-outcomes-into-a-course-in-Improved-Outcomes/ta-p/486359" target="_blank">import outcomes</a>, click the <strong>Import Outcomes</strong> link [6].</p>
+<p>To view the description for an outcome group, click the <strong>View Description</strong> link [7].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcome" data-step-uuid="9FC5C660-F3A8-0139-27E7-12F2183ABDFB">
+    <h2 id="view-outcome" class="step-title screensteps-heading">View Outcomes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/819/413/original/b253e4b8-6ccb-492f-9721-820a07553323.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/819/413/medium/b253e4b8-6ccb-492f-9721-820a07553323.png" srcset="" alt="View Outcomes" height="449" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9FC5F8C0-F3A8-0139-27E9-12F2183ABDFB" class="text-block-content">
+    <p>When you select an outcome group, all outcomes in that group display in the <strong>Outcomes</strong> window [1]. The window displays the number of outcomes in the group [2].</p>
+<p>To search for an outcome, enter the outcome name in the <strong>Search</strong> field [3].</p>
+<p>Each outcome displays its name [4] and description [5]. To view more description text, click the <strong>Expand</strong> icon [6].</p>
+<p>To remove or move multiple outcomes, click the checkboxes for the outcomes [7]. The Outcomes window displays the number of outcomes selected in the <strong>Outcomes Selected</strong> link [8]. To view the names of the outcomes selected, click the Outcomes Selected link.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-edit-or-remove-a-course-outcome-in-Improved-Outcomes/ta-p/486362" target="_blank">remove multiple outcomes from the course</a>, click the <strong>Remove</strong> button [9]. To <a href="/t5/Instructor-Guide/How-do-I-move-course-outcomes-and-outcome-groups-in-Improved/ta-p/486356" target="_blank">move multiple outcomes</a>, click the <strong>Move</strong> button [10].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-outcome-settings" data-step-uuid="b7233263-95a5-4c2a-88de-2ba60d9b9337">
+    <h3 id="view-outcome-settings" class="step-title screensteps-heading">View Outcome Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/727/556/original/e9758913-ad9c-4a58-8b3f-6aefa6266d56.png" srcset="" alt="View Outcome Settings" height="235" width="788">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_725bf924-02cd-4567-ab58-f21150b5ee81" class="text-block-content">
+    <p>To view the Settings menu for an outcome, click the <strong>Settings</strong> icon [1]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-edit-or-remove-a-course-outcome-in-Improved-Outcomes/ta-p/486362" target="_blank">edit the outcome</a>, click the <strong>Edit</strong> link [2]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-view-all-aligned-items-in-Improved-Outcomes-Management/ta-p/546237" target="_blank">view the assignments aligned to the outcome</a>, click the <strong>Alignments</strong> link [3].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-move-course-outcomes-and-outcome-groups-in-Improved/ta-p/486356" target="_blank">move the outcome</a>, click the <strong>Move</strong> link [4].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-edit-or-remove-a-course-outcome-in-Improved-Outcomes/ta-p/486362" target="_blank">remove the outcome from the course</a>, click the <strong>Remove</strong> link [5]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-student-view" data-step-uuid="9FC65A50-F3A8-0139-27ED-12F2183ABDFB">
+    <h2 id="view-student-view" class="step-title screensteps-heading">View Student View</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/716/819/original/45f2a619-c321-457f-b985-edb48699ef3a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/716/819/medium/45f2a619-c321-457f-b985-edb48699ef3a.png" srcset="" alt="View Student View" height="229" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9FC68220-F3A8-0139-27EF-12F2183ABDFB" class="text-block-content">
+    <p>To view the Outcomes page as a student, click the <strong>Student View</strong> button.</p>
+<p><strong>Note:</strong> If the course navigation link for the page is disabled and hidden from students, the Student View button does not display.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,26 @@
+How do I enable the New Analytics Online Attendance report in an account as an admin
+Open Settings
+In Account Navigation, click the Settings link.
+Open Apps
+Click the Apps tab.
+View App Configurations
+Click the View App Configurations button.
+Open App Settings
+In the External Apps list, locate the New Analytics app. Click the Settings button and select the Configure option.
+Configure Online Attendance Report
+The Online Attendance settings display in the page.
+To enable the Online Attendance report, click the Enable Online Attendance Dashboard button. 
+To allow instructors to set attendance criteria at the course level, click the Allow instructors to set Online Attendance Criteria at the course level button. Additionally, the teacher role must have the Manage LTI permission enabled. 
+To select the criteria that determine online attendance, click the Attendance Criteria checkboxes. You can select the following criteria:
+Course Access: student views a page in a course
+Posts: student posts a new comment to an announcement or a discussion
+Assignments: student submits an assignment
+Collaborations: student loads a collaboration to view/edit document
+Conferences: student joins a web conference
+Pages: student creates a page
+Quizzes: student starts taking a quiz or submits a quiz
+If a student meets the requirements of any selected criteria, they will be marked as present for that day in the Online Attendance report.
+To save your Online Attendance settings, click the Save Settings button. To close the settings window without saving, click the Close button.
+Notes:
+The Conferences criteria only applies to BigBlueButton conferences.
+The Quizzes criteria only applies to Classic Quizzes.

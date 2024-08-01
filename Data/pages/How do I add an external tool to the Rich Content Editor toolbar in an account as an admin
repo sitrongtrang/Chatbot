@@ -1,0 +1,119 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_a7ab6626-d301-48a4-a07d-e404f03b80fe" class="text-block-content">
+    <p>As an admin, you can select up to two external tools to display in the toolbar of the Rich Content Editor for all users in your account. Selected tool icons will display next to the Apps icon.</p>
+<p><strong>Note: </strong>Adding an external tool to the Rich Content Editor toolbar is an account permission. If you cannot add external tools to the Rich Content Editor, your institution has restricted this feature.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="cec61d47-0929-4083-a7c5-928ef9746ed8">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dfcbc850-c2e8-417e-9fb2-4ef5848bb558" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="6445e543-9248-45b7-b857-ff3389d17a60">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/677/030/original/391810e6-0a61-46de-a98d-79ca5d6dee9f.png" srcset="" alt="Open Settings" height="232" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_25a0935c-766e-445b-8ba0-58bc1a49e9f8" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_apps" data-step-uuid="340d840d-a6ea-4032-9e58-db28917a7148">
+    <h2 id="open_apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/677/361/original/d45fd729-acba-4f1c-81fe-e393c73d0065.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/677/361/medium/d45fd729-acba-4f1c-81fe-e393c73d0065.png" srcset="" alt="Open Apps" height="73" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_64d19b1c-5776-4676-8e16-924cc524513a" class="text-block-content">
+    <p>Click the <strong>Apps </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_app_configurations" data-step-uuid="66f1749b-0045-42ea-844b-e473e4430d2d">
+    <h2 id="view_app_configurations" class="step-title screensteps-heading">View App Configurations</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/677/363/original/4ad05180-e3b3-40be-ac80-0435aea09e16.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/677/363/medium/4ad05180-e3b3-40be-ac80-0435aea09e16.png" srcset="" alt="View App Configurations " height="119" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3e949b18-3555-476a-94cc-c12145279af7" class="text-block-content">
+    <p>Click the <strong>View App Configurations</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-tool-to-rce-toolbar" data-step-uuid="709abde9-aa8c-4ec3-8e76-f295d413c546">
+    <h2 id="add-tool-to-rce-toolbar" class="step-title screensteps-heading">Add Tool to RCE Toolbar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/677/360/original/dfb50f63-4873-4409-906c-6bf25d91a95b.png" srcset="" alt="Add Tool to RCE Toolbar" height="648" width="736">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a700cdae-316b-4cb8-b3b3-f61df4ee39f4" class="text-block-content">
+    <p>Find the external tool you want to add [1] and click its associated toggle [2]. The toggle will only display for external tools that support placement in the Rich Content Editor.</p>
+<p>The Rich Content Editor only supports up to two external tool icons in the toolbar. If two tools have been selected, all other toggles will lock and cannot be enabled [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-new-rich-content-editor" data-step-uuid="32337a67-41fc-4ef6-963c-9a71dc113415">
+    <h2 id="view-new-rich-content-editor" class="step-title screensteps-heading">View Rich Content Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/677/034/original/928e485d-3f6f-4694-8a81-78f7a3274ddf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/677/034/medium/928e485d-3f6f-4694-8a81-78f7a3274ddf.png" srcset="" alt="View New Rich Content Editor" height="211" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_003537f1-0ba5-4660-8111-626688f6d85d" class="text-block-content">
+    <p>Selected tool icons will display next to the Apps icon in the Rich Content Editor toolbar for all users in your account.</p><p><strong>Note:</strong> If an <a href="/t5/Admin-Guide/How-do-I-configure-an-LTI-key-for-an-account/ta-p/140" target="_blank">external tool is configured using an LTI key</a> and did not include an icon in the Editor Button placement, the app's icon displays with the first initial of the tool's name in the Rich Content Editor.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

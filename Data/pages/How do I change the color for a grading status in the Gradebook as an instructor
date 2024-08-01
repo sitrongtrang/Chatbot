@@ -1,0 +1,95 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_157d20f3-b845-4c25-b002-9de11ccc5999" class="text-block-content">
+    <p>The Status option allows you to change the default colors in the Gradebook. Each color is a default associated with a Gradebook status: late (blue), missing (red), resubmitted (green), dropped (orange), or excused (yellow). Colors can be adjusted by selecting a default color or using a supported hex code.</p>
+<p>Colors are a per-user setting. Colors set in your course apply to any of your other courses that use the Gradebook, however, they do not apply to any other user who may view the Gradebook. Additionally, status names cannot be changed.</p>
+<p>Some assignments may have multiple statuses applied (for example, dropped and resubmitted). In this case, some status colors may override other status colors.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Some colors may seem darker if they display in a Gradebook row that has an alternating gray background.</li>
+<li>Depending on your institution, custom gradebook statuses may display. You cannot make changes to the custom statuses.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="978f32a4-122e-4589-a41c-f943c45cccc7">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/016/original/7d359e4c-278e-4092-b582-63de44ebe34f.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c261b909-4a66-4f1f-9843-62cdfcd4f300" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-statuses" data-step-uuid="e5e83253-6692-4af0-ad0e-203899315d4d">
+    <h2 id="open-statuses" class="step-title screensteps-heading">View Status Colors</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/725/411/original/0e5902ca-067b-44b2-92df-271f5b7a7d65.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/725/411/medium/0e5902ca-067b-44b2-92df-271f5b7a7d65.png" srcset="" alt="View Status Colors" height="579" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c2b9634b-de89-492c-ba82-47079ab7b56b" class="text-block-content">
+    <p>Click the <strong>Settings</strong> icon [1]. </p>
+<p>To change the status colors, click the <strong>View Options</strong> tab [2] and click the <strong>Edit</strong> icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="change-color-status" data-step-uuid="9135ab1a-83dc-4e42-92f7-186dc9ad4400">
+    <h2 id="change-color-status" class="step-title screensteps-heading">Change Color Status</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/725/414/original/472c73f2-91a2-48ac-b5ad-2ca5e776b65a.png" srcset="" alt="Change Color Status" height="398" width="774">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_652f1f89-7455-4736-a46e-c89b2a302b84" class="text-block-content">
+    <p>Select the new color for the status. The check mark indicates the selected color [1], and the hex color code displays in the text field [2]. </p>
+<p>If you want to use a color not shown in the window, you can enter the color's hex code directly in in the text field. The hex field will display a warning icon if the hex code is not valid. </p>
+<p>Click the <strong>Apply</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="close-statuses" data-step-uuid="388485e8-cb6a-4259-a600-f19c0481d288">
+    <h2 id="close-statuses" class="step-title screensteps-heading">Apply Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/725/416/original/6fa2b7c8-0ceb-44ce-b83d-3b66dbe7a68f.png" srcset="" alt="Apply Settings" height="398" width="774">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8a380d3d-43c4-49e8-93aa-3e889a432895" class="text-block-content">
+    <p>Click the <strong>Apply Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

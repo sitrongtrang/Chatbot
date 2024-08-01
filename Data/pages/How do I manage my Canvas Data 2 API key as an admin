@@ -1,0 +1,109 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_10724a40-e1f0-413d-a32b-a3e7da44b4b2" class="text-block-content">
+    <p>As an account admin, once you <a href="/t5/Admin-Guide/How-do-I-generate-a-Canvas-Data-2-API-key/ta-p/560955" target="_blank">generate a Canvas Data 2 API key</a>, you can manage a Canvas Data 2 API key.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Your institution must be included in the account domain lookup. Please contact your Customer Success Manager if your institution does not appear in the search list.</li>
+<li>You must be logged into Canvas to authorize access.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find-institution" data-step-uuid="406ed847-0217-4253-b1d4-fbf9c4f19883">
+    <h2 id="find-institution" class="step-title screensteps-heading">Find Institution</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/900/139/original/0ea3feae-8dcd-47e6-a1bf-09ffa1ad6449.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/900/139/medium/0ea3feae-8dcd-47e6-a1bf-09ffa1ad6449.png" srcset="" alt="Find Institution" height="535" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c81f9a11-b6da-44c1-8e07-3ae9b23a84ca" class="text-block-content">
+    <p>In your web browser, visit <a href="https://identity.instructure.com/login" target="_blank" rel="nofollow noopener noreferrer">identity.instructure.com</a>. In the <strong>Institution</strong> drop-down menu, search for your institution by entering its name [1]. Once it appears, click your institution's name [2].</p>
+<p><strong>Note:</strong> If your institution does not appear in the search list, please contact your Customer Success Manager about account domain lookup.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="log-into-identity-services" data-step-uuid="16f9727e-3b59-43f8-a24f-21cf47146ded">
+    <h2 id="log-into-identity-services" class="step-title screensteps-heading">Log into Identity Services</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/900/142/original/a12c8896-452e-4ccd-b21a-baf1da10d119.png" srcset="" alt="Log into Identity Services" height="636" width="513">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ba6bc965-760d-409d-bfdf-402a39abf5c2" class="text-block-content">
+    <p>Click the <strong>Log In to Canvas</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="authorize-access" data-step-uuid="74b5f7c2-5090-445f-a3cf-5a2e80297741">
+    <h2 id="authorize-access" class="step-title screensteps-heading">Authorize Access</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/900/144/original/f18aba74-e78a-4d66-8b05-c87411cf1e15.png" srcset="" alt="Authorize Access" height="401" width="734">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_beb8ca13-6296-4b62-a035-2ac558b87edd" class="text-block-content">
+    <p>To authorize Identity Service to access your account, click the <strong>Authorize</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-api-key" data-step-uuid="9cce1d4a-322e-4898-b9c1-a5afb1dba5c0">
+    <h2 id="manage-api-key" class="step-title screensteps-heading">Manage API Key</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/900/146/original/1e74d928-4a73-45e7-b336-62711bc3b6e7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/900/146/medium/1e74d928-4a73-45e7-b336-62711bc3b6e7.png" srcset="" alt="Manage API Key" height="96" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9f160530-4c3c-4997-9dd2-5d3ddc36a658" class="text-block-content">
+    <p>To manage the API key, click the <strong>Eye</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-api-key" data-step-uuid="4c4582d2-3810-4f00-8791-e84ec8e0e904">
+    <h2 id="edit-api-key" class="step-title screensteps-heading">Edit API Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/900/148/original/56e610e9-7b13-4bbb-abc1-bf969e9591ea.png" srcset="" alt="Edit API Key" height="801" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_026461eb-b3c2-4026-9ad8-b27d2bca4376" class="text-block-content">
+    <p>You can edit the name of the API key [1]. You can view the expiration date, key type, creation date, and creator [2]. </p>
+<p>To save the edited name, click the <strong>Save</strong> button [3]. </p>
+<p>To delete the API key, click the <strong>Delete</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

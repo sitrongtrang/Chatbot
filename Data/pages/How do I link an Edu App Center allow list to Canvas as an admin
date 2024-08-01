@@ -1,0 +1,120 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_94EDD480-1CB7-0135-2274-22000B5A851D" class="text-block-content">
+    <p>If your institution is using an <a href="/t5/Admin-Guide/How-do-I-manage-an-allow-list-in-the-Edu-App-Center/ta-p/203" target="_blank">Edu App Center allow list</a>, you can link it to the external apps list in Canvas. To apply the allow list, you will need the API token created for your organization in <a href="https://www.eduappcenter.com/" target="_blank" rel="nofollow noopener noreferrer">EduAppCenter</a>. The access token syncs the External Apps list in Canvas at both the account and course levels to show only apps from the Edu App Center allow list set up for the organization. </p>
+<p>Admins can manage the app list at any time to remove or replace an access token. When an account or subaccount does not include an access token, the External Apps list displays the default app list provided by Canvas. The External Apps list can only be managed at the account and subaccount levels.</p>
+<p>Canvas only accepts one API token for an organization. A token applied at the account level automatically filters down to to all subaccounts. The Edu App Center allows you to create multiple tokens for an organization, but each token directs to the same allow list. If you want to create separate allow lists that apply to individual subaccounts, create additional organizations in the Edu App Center and create API tokens for each allow list.</p>
+<p><strong>Note:</strong> Apps added to an Edu App Center allow list may take up to 24 hours to display in Canvas.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="8d2a34aa-58fe-4108-8e8a-dc6f1305d064">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_02da5683-9359-4bd5-b476-07c25cbc7ff6" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="ce43984a-fe6f-492d-a9a3-b8acba7b37cd">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/780/660/original/2eaffa29-a595-456d-a6c6-7bbd61b737e6.png" srcset="" alt="Open Settings" height="232" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94EE0A80-1CB7-0135-2276-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_apps" data-step-uuid="fea0ba28-7455-4d3d-82f4-b2738847929b">
+    <h2 id="open_apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/499/original/d333e485-3667-419b-8859-630e9da2543e.png" srcset="" alt="Open Apps" height="79" width="843">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94EE3DE0-1CB7-0135-2278-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Apps </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_app_list" data-step-uuid="8b8fe650-d73c-4559-9493-ecafaee6558d">
+    <h2 id="manage_app_list" class="step-title screensteps-heading">Manage App List</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/467/070/original/68c9ad28-6fdd-432f-9278-b0f871353106.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/467/070/medium/68c9ad28-6fdd-432f-9278-b0f871353106.png" srcset="" alt="Manage App List" height="356" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94EE7090-1CB7-0135-227A-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Manage App List </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_api_token" data-step-uuid="9c78cf89-7f19-4369-b4ec-4b37076c30a4">
+    <h2 id="enter_api_token" class="step-title screensteps-heading">Enter API Token</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/503/original/97742119-71f3-4ee8-9b02-4b69158b7417.png" srcset="" alt="Enter API Token" height="321" width="702">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94EF3EB0-1CB7-0135-227C-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Access Token</strong> field [1], enter the API Token from your Edu App Center organization.</p>
+<p>Click the <strong>Save </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_apps" data-step-uuid="fcabedc3-a7ad-4fbd-9025-7e1e93d9dc34">
+    <h2 id="view_apps" class="step-title screensteps-heading">View Apps</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/467/072/original/c32d5ff8-c4d0-45ee-a48e-1508ca728e09.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/467/072/medium/c32d5ff8-c4d0-45ee-a48e-1508ca728e09.png" srcset="" alt="View Apps" height="356" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94EF7210-1CB7-0135-227E-22000B5A851D" class="text-block-content">
+    <p>View the list of approved apps from your allow list.</p>
+<p><strong>Note:</strong> If you enter an invalid access token, no apps display.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

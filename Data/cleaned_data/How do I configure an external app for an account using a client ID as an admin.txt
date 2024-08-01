@@ -1,0 +1,28 @@
+How do I configure an external app for an account using a client ID as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link.
+Open Apps
+Click the Apps tab.
+View App Configurations 
+To configure an app, click the View App Configurations button.
+Add New App
+Click the Add App button.
+Set Configuration Type
+Select the Configuration Type drop-down menu and set the configuration type to By Client ID.
+Enter Client ID
+Enter the client ID in the Client ID field.
+Then click the Submit button.
+Note: If you do not have a client ID, you must first configure an LTI key.
+View Error Message
+If the submitted client ID is not found in your account's developer keys, Canvas will display an error message.
+Install App
+To install the app, click the Install button.
+View App
+View your app on the External Apps page.
+To manage your app, click the Settings icon.
+To edit the app, click the Edit link. To manage app placements, click the Placements link. 
+If the app supports LTI Advantage, the Settings menu may also display a Deployment ID link. 
+To view the Deployment ID for the app, click the Deployment ID link. App providers who utilize LTI Advantage may require this Deployment ID for app functionality.
+To delete the app, click the Delete link.

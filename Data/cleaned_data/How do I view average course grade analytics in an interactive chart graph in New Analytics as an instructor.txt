@@ -1,0 +1,40 @@
+How do I view average course grade analytics in an interactive chart graph in New Analytics as an instructor
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open New Analytics
+To open New Analytics, click the New Analytics link in Course Navigation or click the New Analytics button in the Course Home Page.
+Note: If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.
+Open Course Grade Analytics
+Click the Course Grade tab.
+View Data Status
+If the course has been concluded, the analytics page includes a Concluded label.
+View Filter
+The analytics page is dynamic based on filtered content. By default, all results display the course average, which cannot be removed. 
+You can also view the average grade percentage for all students, which is not affected by any filter.
+Filter by Assignment
+By default, analytics selects all assignment types to display within the page. Each assignment in the chart displays the appropriate icon for each visible assignment type. To view additional assignments, click and drag the scrollbar.
+Note: The Quiz icon represents both classic quizzes and New Quizzes question types. 
+To filter by assignment type, remove the checkbox next to the assignment type. The chart dynamically updates the results based on the assignment type selected or removed in the filter.
+Note: At least one assignment type is required at all times.
+Compare Course Data
+For analytical comparisons, you can compare graph data by filtering a section, student, or assignment.
+View Student Table
+On the Students tab, you can also view the specific students that are part of each filter.
+For each student, the table displays the following data:
+Students: A list of students in the course sorted by last name.
+Grade: The current course grade for the student.
+On Time: The percentage of assignments submitted on or before the due date.
+Last Participation: The date the student last interacted with the course.
+Last Page View: The date the student last accessed the course. 
+Page Views: The number of times the student has viewed the page. 
+Participations: The total number of times the student has participated in interactions with the course. 
+View Additional Students
+By default, the students table displays 25 students at a time. You can view additional pages in the pagination bar.
+Sort Student Data
+By default, the table sorts by last name, first name. However, you can sort any column in ascending or descending order by clicking the heading name. The sorted column is indicated by the sort arrow.
+Message Students Who
+To send a message to students whose grades or submissions are within specific criteria, click the Message button.
+Export Table CSV
+To export analytics data as a CSV file, click the Download button.
+CSV data is exported according to the filtered data.
+CSV files display a student's full name, sortable name, Canvas user ID, SIS user ID or email (if applicable), overall course grade, the percent that assignments have been on time, the last page view time, the last participation time, and the last time the student logged out.

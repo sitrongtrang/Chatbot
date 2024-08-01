@@ -1,0 +1,31 @@
+How do I view and manage grading schemes in an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Grading
+In Account Navigation, click the Grading link.
+Open Grading Schemes
+Click the Grading Schemes tab.
+View Grading Schemes
+The Grading Schemes page shows all grading schemes for your account.
+Add New Grading Scheme
+To add an account grading scheme, click the Add New Grading Scheme button.
+Manage Grading Schemes
+To search for a grading scheme, enter the name in the Search... field.
+To open a grading scheme, click the grading scheme's name.
+To sort grading schemes alphabetically (ascending or descending), click the Arrow icon.
+To view the locations where the grading scheme is used, click the Show courses and assignments link.
+To duplicate the grading scheme, click the Duplicate icon.
+To edit a grading scheme, click the Edit icon.
+To archive a grading scheme, click the Archive icon.
+To delete a grading scheme, click the Delete icon. 
+To unarchive and restore a grading scheme, click the Unarchive icon. 
+Notes: 
+Editing the name and description of grading schemes currently in use does not allow edits to percentages or points in the grading scheme. 
+A grading scheme established at the course level cannot be deleted, archived, or edited at the account level.
+A grading scheme created at the account level cannot be deleted, archived, or edited at the course level.
+You can only edit grading schemes that have not been used for grading.
+If a grading scheme is used to grade a student in a course, you cannot delete the scheme from the account.
+A grading scheme in use can be archived and then restored to an active state.
+An archived grading scheme cannot be leveraged in the future by a course or assignment unless the scheme is restored.
+The default Canvas grading scheme cannot be archived.
+When copying or exporting a course, archived default grading schemes are not copied or exported.

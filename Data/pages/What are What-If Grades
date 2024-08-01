@@ -1,0 +1,96 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_5ECD82A0-1E14-0135-13EB-22000BC102FE" class="text-block-content">
+    <p>What-If Grades allow students to calculate their total grade by entering hypothetical grades for assignments. Only students can enter and view What-If scores. If you are a student, you can learn <a href="/t5/Student-Guide/How-do-I-approximate-my-assignment-scores-using-the-What-If/ta-p/481" target="_blank">how to use What-If Scores.</a> </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If Multiple Grading Periods are enabled in your course and users cannot view total grades, or if an instructor has <a href="/t5/Instructor-Guide/How-do-I-hide-totals-in-my-students-grade-summaries/ta-p/671" target="_blank">hidden student grade totals</a> in Course Settings, students cannot view their current or total grade in the student Grades page. </li>
+<li>Instructors cannot create hypothetical scores for students using What-If scores. However, instructors can view current and total scores for students by viewing the <a href="/t5/Instructor-Guide/How-do-I-view-a-summary-of-all-my-student-interactions-in-a/ta-p/726" target="_blank">Student Interactions Report</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_current_grade" data-step-uuid="3EFCFCF1-7369-4FD5-BC33-A5E341F32163">
+    <h2 id="view_current_grade" class="step-title screensteps-heading">View Current Grade</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/296/551/original/064f5f04-6e48-47e7-b04d-088ecf400571.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/296/551/medium/064f5f04-6e48-47e7-b04d-088ecf400571.png" srcset="" alt="View Current Grade" height="534" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5ECDB7C0-1E14-0135-13ED-22000BC102FE" class="text-block-content">
+    <p>Canvas is always calculating two grades for students: the current grade (based on graded assignments) and the total grade (based on all assignments). </p>
+<p>When students <a href="/t5/Student-Guide/How-do-I-view-my-grades-in-a-current-course/ta-p/493" target="_blank">view their grades</a>, the current grade displays [1]. The current grade is calculated by adding up the graded assignments according to their weight in the course grading scheme. The current grade is calculated with the <strong>Calculate based only on graded assignments </strong>checkbox selected [2].</p>
+<p><strong>Note:</strong> If an instructor has <a href="/t5/Instructor-Guide/How-do-I-hide-totals-in-my-students-grade-summaries/ta-p/671" target="_blank">hidden total grades</a> in Course Settings, students cannot view their current grade or any percentages in assignment groups.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_total_grade" data-step-uuid="45329B9B-B83D-4AE5-8A7B-866C239B4475">
+    <h2 id="view_total_grade" class="step-title screensteps-heading">View Total Grade</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/296/553/original/3240dcbb-05f5-4c01-8db3-73c0e0edcc20.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/296/553/medium/3240dcbb-05f5-4c01-8db3-73c0e0edcc20.png" srcset="" alt="View Total Grade" height="527" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5ECDEBC0-1E14-0135-13EF-22000BC102FE" class="text-block-content">
+    <p>To view the total grade in the course based on all assignments, students can de-select the <strong>Calculate based only on graded assignments</strong> checkbox [1].</p>
+<p>The total grade displays [2]. The total grade is calculated by adding up all the assignments according to their weight in the course grading scheme. If a course is using weighted assignment groups, students can also see how each assignment is weighted in the course.</p>
+<p><strong>Note:</strong> If an instructor has <a href="/t5/Instructor-Guide/How-do-I-hide-totals-in-my-students-grade-summaries/ta-p/671" target="_blank">hidden total grades</a> in Course Settings, students cannot view their total grades or any percentages in assignment groups. However, toggling the calculation checkbox still affects individual assignments, such as if an assignment group contains a drop rule. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_what_if_grades" data-step-uuid="323A1D87-38B0-490C-BCC4-9E55368B3CF2">
+    <h2 id="enter_what_if_grades" class="step-title screensteps-heading">Enter What-If Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/296/555/original/9af072e9-2e8a-4bf1-9dd3-19b84af3c1a3.png" srcset="" alt="Enter What-If Grades" height="362" width="760">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5ECE1B10-1E14-0135-13F1-22000BC102FE" class="text-block-content">
+    <p>The What-If tool allows students to calculate their total grade by entering hypothetical grades for any assignment. To test a different score for an assignment, students can click an assignment grade and enter a score in the score column. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-updated-total" data-step-uuid="6bb7a883-48fd-4b26-9a5f-77229bccb7b1">
+    <h2 id="view-updated-total" class="step-title screensteps-heading">View Updated Total</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/296/558/original/24b52d7a-ec9f-45db-a1c5-376b27d69d2a.png" srcset="" alt="View Updated Total" height="390" width="753">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bfeba8e8-7753-4e4f-9112-f08be2384b3b" class="text-block-content">
+    <p>Students can view the hypothetical What-If score [1] and the newly calculated total [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

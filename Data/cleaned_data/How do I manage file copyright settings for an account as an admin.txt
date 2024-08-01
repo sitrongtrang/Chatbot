@@ -1,0 +1,23 @@
+How do I manage file copyright settings for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Account Settings
+In Account Navigation, click the Settings link.
+View File Copyright Settings
+Locate the file copyright settings in the Account Settings page.
+Require File Copyright
+To require copyright and license information for files before they are published, click the Copyright and license information must be provided for files before they are published checkbox.
+To lock this setting for sub-accounts and courses, click the Lock this setting for sub-accounts and courses checkbox. If this option is enabled and locked, it will be enabled in all sub-accounts and courses and cannot be changed.
+If the Copyright and license information must be provided for files before they are published option is enabled and not locked, it will be enabled in all sub-accounts and courses by default, but can be disabled by sub-account admins or instructors, respectively.
+Update Account Settings
+To update your account settings, click the Update Settings button.
+View File Upload Message
+If copyright and license information is required at the course level, users will see an error message indicating that they must set usage rights before they can publish a file.
+Usage rights can be selected in the Usage Right drop-down menu and Copyright Holder field.
+Note: Usage right settings do not apply to user files.
+Remove File Copyright Requirement
+To remove the requirement for copyright and license information for files before they are published, deselect the Copyright and license information must be provided for files before they are published checkbox. 
+To lock this setting for sub-accounts and courses, click the Lock this setting for sub-accounts and courses checkbox. If this option is locked but not enabled, it will be disabled in all sub-accounts and courses and cannot be managed in sub-accounts or courses.
+If the Copyright and license information must be provided for files before they are published option is not enabled and not locked, it will be disabled in all sub-accounts and courses by default, but can be enabled by sub-account admins or instructors, respectively.
+Update Account Settings
+To update your account settings, click the Update Settings button.

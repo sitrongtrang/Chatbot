@@ -1,0 +1,102 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4A3BB7C0-2216-0135-4AAB-22000B5A851D" class="text-block-content">
+    <p>You can view all rubrics and artifacts that are aligned with a specific outcome.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="6f4fe354-9799-4005-bff6-3e7f79ec5c07">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/779/624/original/22ea7306-c158-466a-94fb-2eab17bff64b.png" srcset="" alt="Open Outcomes" height="267" width="148">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4A3D01E0-2216-0135-4AAD-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Outcomes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcome" data-step-uuid="093c4e06-74d8-4906-9d76-377850c290ed">
+    <h2 id="open_outcome" class="step-title screensteps-heading">Open Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/378/687/original/30ad2753-24e4-415f-87dd-b885a767afee.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/378/687/medium/30ad2753-24e4-415f-87dd-b885a767afee.png" srcset="" alt="Open Outcome" height="286" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4A3E3260-2216-0135-4AAF-22000B5A851D" class="text-block-content">
+    <p>Click the outcome you want to view [1]. To view all aligned items, click the name of the outcome [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_aligned_items" data-step-uuid="b0e627a7-9b7d-4500-8ede-ffcb6f6858f2">
+    <h2 id="view_aligned_items" class="step-title screensteps-heading">View Aligned Items</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/222/original/14f2c58a-53cd-4be5-9dcc-c09c945c1c9d.png" srcset="" alt="View Aligned Items" height="218" width="609">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4A4017C0-2216-0135-4AB1-22000B5A851D" class="text-block-content">
+    <p>View the assessments and activities aligned to the Outcome. Aligned Items are identified with an icon displaying the item type: rubric [1] or assignment [2]. This change helps identify the item for easier management within outcomes and clarify items that have similar titles. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="a3ee3c87-2494-49be-aee1-d53bf63e6b05">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/216/original/9c6e0e0e-2fde-4e44-a054-16eabf234c55.png" srcset="" alt="Remove Aligned Items" height="218" width="609">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4A413EC0-2216-0135-4AB3-22000B5A851D" class="text-block-content">
+    <p>Aligned items also show whether the item can be removed from the outcome. </p>
+<p>Alignments displaying a rubric type display a blue remove icon [1]. Clicking the rubric name will open the rubric, where you can edit the rubric or delete the rubric.</p>
+<p>Alignments displaying an assignment type display a gray lock icon [2]. Gray icons mean that the aligned item cannot be removed because it is associated with a rubric. To remove the aligned item, you would have to open the rubric and remove the row that is associated with the outcome. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_outcome_artifacts" data-step-uuid="4c2d0e69-f17f-46b0-aa49-45ee2d45c872">
+    <h2 id="view_outcome_artifacts" class="step-title screensteps-heading">View Outcome Artifacts</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/218/original/82d94b9d-506c-4f44-a3c8-ac36a4575fea.png" srcset="" alt="View Outcome Artifacts" height="363" width="377">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4A429A40-2216-0135-4AB5-22000B5A851D" class="text-block-content">
+    <p>Under Outcome Artifacts, you can view the progress of individual students on each artifact (the aligned assessment or activity). You can view the student response details by clicking the name of the assignment [1]. The<strong> Check Mark</strong> icon [2] signifies the student has received a high enough score to satisfy the outcome threshold value. If you want to view all outcome results for a specific student, click the <strong>all outcome results for this student </strong>link [3].</p>
+<p><strong>Note</strong>: Outcome results are tied to level of outcome access. Account outcomes display on the account report, while the sub-account outcomes display on the sub-account report. The only time outcomes would be displayed on both reports is if they are stored in both accounts, such as copying an account outcome to the sub-account level. Outcomes created at the course-level display on the course-level and will not appear on account or sub-account level outcome reports.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

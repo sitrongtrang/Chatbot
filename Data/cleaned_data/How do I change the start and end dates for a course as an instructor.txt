@@ -1,0 +1,30 @@
+How do I change the start and end dates for a course as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Open Course Details
+Click the Course Details tab.
+View Term Participation Dates
+Courses may be assigned to the Default Term or a specific term. By default, courses are set to follow the term start and end dates set for your entire institution.
+If the Term option is selected in the Participation drop-down menu, you can view the term start and end dates. Term dates can only be modified by a Canvas admin. If no dates have been created for the term (such as when the Default Term is used), the Start and End fields will display as empty.
+Notes: 
+If the course is assigned to the Default Term and participation dates are set to follow term dates, students can participate in the course indefinitely. 
+When setting a start and end date for a course instructors can view local and course time zones set for the course and the local time for the user.
+Set Course Participation Dates
+To set different participation start and end dates for your course, click the Participation drop-down menu and select the Course option. 
+If you cannot change what is displayed in the Participation drop-down menu, your institution has restricted instructors from modifying course availability dates.
+Note: Course dates are cleared when participation dates are set to Term dates.
+Set Start Date
+To select the start date, click the Start calendar icon. Then select a new start date for the course.
+Set End Date
+To select the end date, click the End calendar icon. Then select a new end date for the course.
+If your end date time is midnight, a warning message displays notifying you that the date prior to the set end date will be the last participation day in the course. For instance, if the course were set to end January 13, the last full participation date for the course would be January 12.
+Notes:
+Students can only participate in the course between the course dates, and the course will be in a read-only state outside the course dates.
+Course participation dates only affect student and observer roles; all other roles default to term access dates. 
+End dates occur at precisely the minute they are set. For example, a course with an end time at 11:59pm will end at 11:59:00.
+Students will not receive notifications for course announcements prior to the course start date. 
+Restrict Course Access
+You may also be able tochange student access settings to allow or restrict students from viewing your course before the start or end date. When selected, the course is inaccessible outside course dates. If course dates are blank, students can participate in the course indefinitely.
+Note: If you cannot manage the settings to restrict students from viewing course content, your institution has not enabled this feature.
+Update Course Details
+Click the Update Course Details button.

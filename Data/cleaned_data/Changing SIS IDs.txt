@@ -1,0 +1,22 @@
+Changing SIS IDs
+Open Account
+In Global Navigation, click the Admin link, and then click the name of the account.
+Search People
+In Account Navigation, click the People link. In the account People page, search for the SIS ID.
+Confirm Active User
+If a user exists on the account, confirm that you are using the correct SIS ID. If this is a duplicate account for the correct user, you can merge the users. 
+No Active User in Account
+If you search for the SIS ID that is in use and get the message “No Users Found”, the user is most likely a deleted user.
+Confirm Deleted User
+To confirm that the SIS ID belongs to a deleted user, run an account provisioning report for Users, and select the Include Deleted Objects checkbox.
+If the SIS ID is being used on a deleted user, you can either merge users or create a change_sis_id CSV import.
+Merge Users
+If you would like to merge the users, run a users.csv SIS Import with that deleted user’s information, and change the user's status to active.
+After they are restored, you can then choose to merge those users or change the restored user’s SIS ID.
+Change_SIS_ID.CSV
+Alternatively, if you do not want to merge the user but would still like to use the SIS ID, create and import a change_sis_id.csv SIS Import. This import removes the SIS ID from the deleted user, and replaces it with one of your choosing.
+The new_id field can be anything, though we typically recommend appending “_deleted” to the original SIS ID, to help you identify the deleted user if necessary, e.g.:
+old_id: S0001
+new_id: S0001_deleted
+type: user
+After that SIS Import runs successfully, you can then return to the new user and modify the SIS ID. 

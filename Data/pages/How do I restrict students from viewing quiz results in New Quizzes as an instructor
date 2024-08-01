@@ -1,0 +1,135 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_80225e9a-078a-4553-b7c6-3822627284f0" class="text-block-content">
+    <p>You can manage if students can view their quiz results in New Quizzes. You can also select which result items are visible to students, including points awarded, points possible, questions, responses, and feedback.</p>
+<p>Restricting student from viewing their results in New Quizzes does not apply to viewing scores in the Gradebook. To restrict students from viewing scores in the Gradebook, you will need to <a href="/t5/Instructor-Guide/How-do-I-use-posting-policies-in-a-course/ta-p/928" target="_blank">enable a posting policy</a> or <a href="/t5/Instructor-Guide/How-do-I-hide-grades-that-were-previously-posted-in-the/ta-p/721" target="_blank">hide grades that were previously posted</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-quiz" data-step-uuid="e566a7ae-7188-415a-8bbb-b829749f8031">
+    <h2 id="open-quiz" class="step-title screensteps-heading">Open Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/147/971/original/f40f1372-f6ce-4100-9641-b94630734920.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/147/971/medium/f40f1372-f6ce-4100-9641-b94630734920.png" srcset="" alt="Open Quiz" height="490" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ecebe7c-ca32-473b-a550-0aed250d9a46" class="text-block-content">
+    <p>To restrict students from view quiz results, find the quiz you want to open [1].</p>
+<p>To open the Build page, click the <strong>Options</strong> icon [2] and then click the <strong>Build</strong> link [3].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">create a new quiz</a>, click the <strong>Add Quiz</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="d2b452cd-c665-47dd-80f0-2970ca6c8e40">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/806/237/original/758ab44d-b17a-4e3f-8035-7b1f7ee322cf.png" srcset="" alt="Open Settings" height="248" width="583">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_08605e94-f162-479f-8af2-b9c74439dbd6" class="text-block-content">
+    <p>Click the <strong>Settings</strong> tab.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-warning-message_1" data-step-uuid="f7f65791-fee5-4d62-a460-35241fb511a2">
+    <h3 id="view-warning-message_1" class="step-title screensteps-heading">View Warning Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/361/276/original/2f025c2e-5c61-40bd-9188-4e5fabd69a7c.png" srcset="" alt="View Warning Message" height="151" width="847">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6d29849a-b649-4ce3-a56c-d194f7ca151f" class="text-block-content">
+    <p>If students have already submitted the quiz, a warning message will appear on the Delivery Settings page.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="hide-student-results" data-step-uuid="af6a69d4-ed3b-417c-bc19-8745cc234557">
+    <h2 id="hide-student-results" class="step-title screensteps-heading">Hide Student Results</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/361/286/original/22b04a99-4790-4aff-8155-dc044a3b4603.png" srcset="" alt="Hide Student Results" height="907" width="609">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_65c3ceb0-fad6-46c8-937f-74560a09c2ad" class="text-block-content">
+    <p>By default, students can view all results for their quiz attempts. To hide quiz results from students, click the <strong>Restrict student result view</strong> button. When this option is enabled, instructors can manage what is displayed to students in their <a href="https://community.canvaslms.com/docs/DOC-15000-4212780628" target="_blank">quiz results page.</a> This includes answer choices, feedback, and scores.</p>
+<p><strong>Note:</strong> Students may still see their quiz grades in the Gradebook when the Restrict student result view option is enabled. To hide grades from students in the Gradebook, you need to <a href="/t5/Instructor-Guide/How-do-I-use-posting-policies-in-a-course/ta-p/928" target="_blank">enable a posting policy</a> in the Gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-result-view-settings" data-step-uuid="78dfaec7-ebf9-41dd-9b63-3b4d04360941">
+    <h2 id="manage-result-view-settings" class="step-title screensteps-heading">Manage Result View Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/361/280/original/534b36b6-0634-42a4-bcd3-317b0636a9e8.png" srcset="" alt="Manage Result View Settings" height="333" width="614">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9f29807a-625b-4bb6-9971-545255151a20" class="text-block-content">
+    <p>When the Restrict student result view setting is enabled, you can select quiz items that display to students. To display an item in student results, click the checkbox for the item [1]. Any items that are not select remain hidden [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="show-points" data-step-uuid="f80833b0-78b4-4cf2-9692-a71a15414cd9">
+    <h3 id="show-points" class="step-title screensteps-heading">Show Points</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/361/278/original/e3094d3c-d4a2-4e47-b3a7-340e42db2180.png" srcset="" alt="Show Points" height="334" width="628">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e0ea9caf-cf9a-4fe0-915b-cd3bff913824" class="text-block-content">
+    <p>To display the points awarded for the overall quiz and individual questions in the quiz results page, click the <strong>Show points awarded </strong>checkbox [1].</p>
+<p>To display the points possible for the overall quiz and individual questions in the quiz results page, click the <strong>Show points possible </strong>checkbox [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="show-items-questions" data-step-uuid="598bb973-6879-4e01-9964-97961466def5">
+    <h3 id="show-items-questions" class="step-title screensteps-heading">Show Items &amp; Questions</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/361/284/original/74592f04-6b9e-4901-8bd9-821da288717c.png" srcset="" alt="Show Items &amp; Questions" height="334" width="628">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e04179c2-eee2-40a8-a9d1-5e285e6e0746" class="text-block-content">
+    <p>To display quiz items and questions in the quiz results page, click the <strong>Show items and questions</strong> checkbox [1].</p>
+<p>If the Show items and questions option is enabled, you can also manage the option to display student responses and item feedback.  To display student responses in the quiz results page, click the <strong>Show student response</strong> checkbox [2]. To display item feedback in the quiz results page, click the <strong>Show item feedback</strong> checkbox [3].</p>
+<p>If the Show student response option is enabled, you can display to students if their response was correct or incorrect by clicking the <strong>Indicate response as correct/incorrect</strong> checkbox [4].</p>
+<p>If the Indicate response as correct/incorrect option is enabled, you can indicate correct answers when incorrect responses were selected by clicking the <strong>Show correct answer with incorrect response</strong> checkbox [5].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

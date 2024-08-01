@@ -1,0 +1,228 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_C4B01AE0-1CA6-0135-9113-22000BC102FE" class="text-block-content">
+    <p>You can view account analytics from your account's Courses page. You can also view analytics as part of the account <a href="/t5/Admin-Guide/How-do-I-view-statistics-for-an-account/ta-p/174" target="_blank">Statistics page</a>. Account analytics show aggregate data for all course activity in your account, including an overview of the number of courses and users and the activity types with which users engage.</p>
+<p>If you need to view account analytics on a more granular level, you can open the course and view analytics for that course.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Account analytics also includes analytics enabled at the sub-account level. </li>
+<li>If your analytics looks different than what is displayed in this lesson, you may have the Admin Analytics feature preview enabled in your account. <a href="/t5/Admin-Guide/How-do-I-use-Admin-Analytics/ta-p/562116" target="_blank">Learn how to use Admin Analytics in your account</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="687C403E-9D7E-44AC-B00C-FB2D3D470F6A">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B04AB0-1CA6-0135-9115-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account_analytics" data-step-uuid="614B5A89-E479-44CB-911B-85C8EEF19298">
+    <h2 id="open_account_analytics" class="step-title screensteps-heading">Open Account Analytics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/443/original/2121b155-2171-4aad-a2c0-0f3e5d8d529d.png" srcset="" alt="Open Account Analytics" height="226" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B078B0-1CA6-0135-9117-22000BC102FE" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Analytics </strong>link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_term_overview" data-step-uuid="d1c17425-c69a-4c0b-9c71-744e899d4085">
+    <h2 id="view_term_overview" class="step-title screensteps-heading">View Term Overview</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/378/original/f1eb90c5-c818-425f-94dd-0ac97180f53c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/378/medium/f1eb90c5-c818-425f-94dd-0ac97180f53c.png" srcset="" alt="View Term Overview" height="114" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B0A3D0-1CA6-0135-9119-22000BC102FE" class="text-block-content">
+    <p>Account analytics shows you how many Courses, Teachers, Students, Assignments, Submissions, Discussion Topics, Files Uploaded, and Media Recordings there are for a selected term. By default, the account shows analytics for the Default Term. Terms are ordered alphabetically.</p>
+<p>To view analytics for a different term, click the next or previous buttons in the term menu [1], or locate the term in the drop-down menu [2]. </p>
+<p>For each term, Analytics includes the following overview:</p>
+<ul>
+<li>
+<strong>Courses </strong>indicates the number of courses that are published in the account. This number does not count unpublished courses or deleted courses.</li>
+<li>
+<strong>Teachers</strong> indicates how many unique teachers have had activity within the selected term. If one user is a teacher in 5 courses, the statistic will count as 1 teacher.</li>
+<li>
+<strong>Students </strong>indicates the same statistics as teachers but relates to students.</li>
+<li>
+<strong>Assignments</strong> indicates the number of assignments submitted to active courses.</li>
+<li>
+<strong>Discussion Topics</strong> indicates the number of discussion topics posted to active courses.</li>
+<li>
+<strong>Files Uploaded </strong>indicates the number of files uploaded to the account. Deleted files do not count here. </li>
+<li>
+<strong>Media Recordings</strong> indicate the number of media objects uploaded to active courses, such as video, audio, and music files.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_analytics_graphs" data-step-uuid="075613db-3c5a-4745-88e7-1203972d6682">
+    <h2 id="view_analytics_graphs" class="step-title screensteps-heading">View Analytics Graphs</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/374/original/7f32ed03-9613-4ff9-89c0-5ddd1dfafbf2.png" srcset="" alt="View Analytics Graphs" height="65" width="206">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B0D150-1CA6-0135-911B-22000BC102FE" class="text-block-content">
+    <p>By default, analytics are shown in a graph format. There are three types of graphs: Activity by Date, Activity by Category, and Grade Distribution.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_activity_by_date" data-step-uuid="728635a7-9316-485e-8319-1ca0f65611ec">
+    <h3 id="view_activity_by_date" class="step-title screensteps-heading">View Activity by Date</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/376/original/7ab3ee7b-87c8-4fdd-9bb5-3f17008421d4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/376/medium/7ab3ee7b-87c8-4fdd-9bb5-3f17008421d4.png" srcset="" alt="View Activity by Date" height="168" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B0FF90-1CA6-0135-911D-22000BC102FE" class="text-block-content">
+    <p>The Activity by Date graph shows all account activity for all users enrolled in a course for the term. The x-axis represents the term dates, while the y-axis represents the number of page views. Dark blue bars represent participation in the account. If a date only includes page views, the bar displays as light blue. </p>
+<p>The graph changes the bar display according to the length of time. Activity that is less than six months old displays bars as daily activity, at six months bars are displayed as weekly activity, and at approximately a year bars are displayed as monthly activity. The weekly view shows the first and last date for the week; the monthly view shows the month and the year. To view the details of the bar graph, hover over the specific bar you want to view. Browser window size, zoom level, and screen resolution may also change how the bars display.</p>
+<p>The following user actions will generate analytics participation:</p>
+<ul>
+<li>Announcements: posts a new comment to an announcement</li>
+<li>Announcements: posts an announcement (instructor)</li>
+<li>Assignments: updates an assignment's settings or description (instructor)</li>
+<li>Assignments: submits an assignment (student)</li>
+<li>Calendar: updates a calendar event's settings or description (both instructor courses and student calendar events)</li>
+<li>Collaborations: loads a collaboration to view/edit a document</li>
+<li>Conferences: joins a web conference</li>
+<li>Discussions: posts a new comment to a discussion</li>
+<li>Files: uploads or views files or folders</li>
+<li>Grades: views or updates the gradebook or grades page, uploads files to the gradebook, creates a grading standard </li>
+<li>Groups: views content within groups</li>
+<li>Modules: views or creates content in modules </li>
+<li>Pages: creates a wiki page</li>
+<li>Quizzes: submits a quiz (student)</li>
+<li>Quizzes: starts taking a quiz (student)</li>
+</ul>
+<p> </p>
+<p>If you need to view page views for a specific user on a more granular level, learn how to <a href="/t5/Admin-Guide/How-do-I-view-the-page-views-for-a-user-in-an-account/ta-p/93" target="_blank">view page views for users in your account</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_activity_by_category" data-step-uuid="bbcc99d4-ff57-421b-83ed-6947bf516450">
+    <h3 id="view_activity_by_category" class="step-title screensteps-heading">View Activity by Category</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/380/original/229bf35a-a03c-4968-afa6-0451cd8e25f9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/380/medium/229bf35a-a03c-4968-afa6-0451cd8e25f9.png" srcset="" alt="View Activity by Category" height="173" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B13B00-1CA6-0135-911F-22000BC102FE" class="text-block-content">
+    <p>The View Activity by Category graph shows all activity in the account by feature category. The x-axis represents activity by category, while the y-axis represents the number of page views. The General category refers to the top level page views of the course that are not counted in the more specific categories, which include the Course Home Page, the course roster (People page), Course Settings, and the Syllabus. </p>
+<p>The Other category refers to all the other page views that were not recognized.</p>
+<p>To view the details of the bar graph, hover over the specific bar you want to view. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_grade_distribution" data-step-uuid="782af18f-662e-4761-941a-1a574b2d853a">
+    <h3 id="view_grade_distribution" class="step-title screensteps-heading">View Grade Distribution</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/384/original/39dee3fb-93f3-4186-963a-19028965a022.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/384/medium/39dee3fb-93f3-4186-963a-19028965a022.png" srcset="" alt="View Grade Distribution" height="173" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B16570-1CA6-0135-9121-22000BC102FE" class="text-block-content">
+    <p>The Grade Distribution graph shows the distribution of current course grades for all enrolled students. The x-axis represents the percentage of grades, while the y-axis represents the percentage of active and concluded enrollments. If the course has been concluded, the x-axis represents the running-total grade.</p>
+<p>The graph bars are shown as peaks representing the grades for the majority of students on the continuum. A peak on the left end of the chart could mean students are struggling in a course. A peak on the right end of the chart could mean students are responding to course material and are participating in the courses. </p>
+<p>To view the details of the bar graph, hover over the specific bar you want to view. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_analytics_tables" data-step-uuid="1e48f6b6-cd4a-4230-96e1-513551b4934a">
+    <h2 id="view_analytics_tables" class="step-title screensteps-heading">View Analytics Tables</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/388/original/282fee95-823a-479c-aacf-9c9637cfd911.png" srcset="" alt="View Analytics Tables" height="70" width="238">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B19510-1CA6-0135-9123-22000BC102FE" class="text-block-content">
+    <p>To view analytics without hovering over graph columns, you can view all data in a table format. To switch to the table format, click the Analytics icon. The icon will switch from the left side to the right, indicating the current analytics view. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_table_data" data-step-uuid="1daa6d08-6249-44ca-a933-aaf6e7016af0">
+    <h3 id="view_table_data" class="step-title screensteps-heading">View Table Data</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/386/original/cb20567f-3429-4d24-883c-f8618117e08a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/386/medium/cb20567f-3429-4d24-883c-f8618117e08a.png" srcset="" alt="View Table Data" height="233" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B1C600-1CA6-0135-9125-22000BC102FE" class="text-block-content">
+    <p>Tables apply to every graph in its respective page, and each column defines the data within its respective graph. Graphical data is displayed by column. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="7f8e6158-9549-43c9-aee7-3d5512fae4d8">
+    
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/390/original/5aef3293-53fe-447a-a02b-44beab738fc3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/390/medium/5aef3293-53fe-447a-a02b-44beab738fc3.png" srcset="" alt="View Table Pagination" height="266" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C4B1F0D0-1CA6-0135-9127-22000BC102FE" class="text-block-content">
+    <p>Each table is paginated to 30 entries per page; additional pages can be viewed by advancing to the next page.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

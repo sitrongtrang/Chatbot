@@ -1,0 +1,207 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9d673a56-caca-4b59-b3c4-c551cebc9b52" class="text-block-content">
+    <p>When creating a quiz, you can create a Formula question in New Quizzes. In a Formula question, students need to type in the correct numerical answer.</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate Formula questions</a> to create a new question.</p>
+<p><strong>Note: </strong>View information about <a href="https://s3.amazonaws.com/tr-learncanvas/docs/CanvasFormulaQuizQuestionHelperFunctions.pdf" target="_blank" rel="nofollow noopener noreferrer">Canvas Formula Quiz Question Helper Functions.</a></p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="b783f1f9-f0d3-4f21-93ea-0b817d0a2240">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/392/391/original/033df5df-0b3e-411b-89b3-804555028d95.png" srcset="" alt="Add Question" height="171" width="850">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f4e3ccea-a63b-43ed-bd99-099559f9bf42" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-matching-question" data-step-uuid="86080669-0055-43b9-b7e8-188efc4e46f6">
+    <h2 id="add-matching-question" class="step-title screensteps-heading">Add Formula Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/775/948/original/fbb39f05-d84c-4a89-8756-cdbfb4589bae.png" srcset="" alt="Add Formula Question" height="466" width="743">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7d54d4d7-69c6-414e-ba7f-1b1c76879401" class="text-block-content">
+    <p>Click the <strong>Add Formula</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-title-and-stem" data-step-uuid="381464b6-9ef5-4ab2-b043-02e7372b8d39">
+    <h2 id="add-question-title-and-stem" class="step-title screensteps-heading">Add Question Title and Stem</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/287/original/b73e01c1-1f05-4806-86bf-d6c7840250c8.png" srcset="" alt="Add Question Title and Stem" height="369" width="723">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f0ca4634-0f9b-46bc-88ae-fdba2ad73983" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Question Stem</strong> field [2], add the question stem. The question stem contains the question and, if necessary, additional instructions and information. You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your question stem.</p>
+<p>Identify variables in your question by surrounding variable names by backticks. (e.g., a variable name of x can be identified by typing `x`.)</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-answer-pairs" data-step-uuid="010a2013-5019-4303-9353-5b66322842f2">
+    <h2 id="add-question-answer-pairs" class="step-title screensteps-heading">Add Variable Answers</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/404/665/original/8e1540c8-9cda-4a40-b1bd-988f11ea544f.png" srcset="" alt="Add Variable Answers" height="224" width="744">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cf9f7ce0-16e5-4146-bc01-31bba614b5ad" class="text-block-content">
+    <p>After typing the question with the variable, parameters to define the formula will display [1]. Set the variable answers for the formula. Specify the minimum [2] and maximum [3] values for the variable. Select decimal places in by using the increase or decrease arrows [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-distractors" data-step-uuid="3ee011db-f50d-42ca-9094-27d14da07890">
+    <h2 id="add-distractors" class="step-title screensteps-heading">Add Formula Definition</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/392/393/original/baf2a0be-9d72-48a7-ae36-c72d034dbbcd.png" srcset="" alt="Add Formula Definition" height="189" width="724">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a5adba9c-8adf-48cc-8c48-2ae6a8d60753" class="text-block-content">
+    <p>Type the formula definition in the formula field. Make sure the formula does not contain any brackets or equal signs. </p>
+<p><strong>Notes</strong>: The Formula Definition supports the following operators: + (add), - (subtract), * (multiply), / (divide), and ^ (power).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="generate-possible-solutions" data-step-uuid="d671d7a7-4bcc-4b80-af7b-8f12b5968734">
+    <h2 id="generate-possible-solutions" class="step-title screensteps-heading">Generate Possible Solutions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/392/389/original/13b02284-8999-460f-8099-322b07f74942.png" srcset="" alt="Generate Possible Solutions" height="340" width="731">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f04fce2c-08f7-4ae0-9e99-9b9595bdd8a9" class="text-block-content">
+    <p>Specify the number of possible solutions you want to generate in the <strong>Number of solutions</strong> field [1]. Then select the number of decimal places required in the <strong>Decimal places </strong>field [2].</p>
+<p>In the <strong>Margin type</strong> field, select the absolute or percent margin type [3]. Enter the margin of error for the student's answer in the <strong>+/- margin of error</strong> field [4]. Responses are based on relative error in addition to absolute error. Margins of error can be created as a percentage or as a point value (up to three decimal places).</p>
+<p>To display solutions in scientific notation, click the <strong>Display as Scientific Notation</strong> button [5].</p>
+<p>To view possible solutions, click the <strong>Generate</strong> button [6].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-possible-solutions" data-step-uuid="38d150f8-4553-400d-b840-6b99a6555486">
+    <h2 id="view-possible-solutions" class="step-title screensteps-heading">View Possible Solutions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/392/385/original/c59e5c05-ae22-4380-ae39-dfabae8bdb08.png" srcset="" alt="View Possible Solutions" height="489" width="484">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c552deb7-d80c-4b41-a4af-cf1da02b974e" class="text-block-content">
+    <p>Possible solutions will process according to the number of value combinations.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-options" data-step-uuid="fac8fcb2-fd84-43a5-85a9-49c0bf392f40">
+    <h2 id="set-options" class="step-title screensteps-heading">Set Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/303/329/original/50ad40da-bc0c-4742-9aae-a6608c76a634.png" srcset="" alt="Set Options" height="352" width="628">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2569cfde-678d-40d1-a57b-fc4f0c27ee82" class="text-block-content">
+    <p>To allow students to use an on-screen calculator for this question, click the <strong>Show on-screen calculator</strong> checkbox [1].</p>
+<p>If you select this option, you can enable a basic calculator [2] or scientific calculator [3]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="c8b4ec09-ca55-4a73-b65a-8994b6133dde">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/797/original/4488dcb1-f78f-4f2e-a718-8e9f6c2b3cbd.png" srcset="" alt="Align to Outcome" height="371" width="618">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4aa934fb-e29d-4120-8a3a-9164a7cdb2ec" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="9da3612d-ce09-4b54-a8ba-ecce21d0d2ba">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/791/original/a2e4956d-8f19-4b6d-b66e-da90d21e9258.png" srcset="" alt="Add to Item Bank" height="185" width="618">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_06f334dd-0187-41c5-b2dc-12b9c43b7df4" class="text-block-content">
+    <p>If you want to save a question to use in other quizzes, you can add it to an item bank.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note:</strong> After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="26a14d33-b900-4cec-94c0-238857e36f62">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/392/401/original/47609468-f18d-407b-94f3-48ed5f166319.png" srcset="" alt="Add Point Value" height="110" width="766">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7ac75a2b-4841-4afa-8796-f7012159ccf3" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="bba7ca69-c9d6-489d-a191-60e0f400aaac">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/392/387/original/d9084b5c-6f3c-4f34-a8de-4fac414c2faa.png" srcset="" alt="Save Question" height="69" width="173">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1051dd20-8e57-4e20-9306-2d94e7c99f42" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

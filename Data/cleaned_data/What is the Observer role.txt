@@ -1,0 +1,44 @@
+What is the Observer role
+Observer Role Use
+Observers can view course data but cannot participate in all Canvas areas. Observers may be added to a course to observe course data. For instance, instructors sometimes invite guests to join their courses, such as for a web conference. Enrolling the guest with an observer role allows access to the course without being able to affect any course data or participation. 
+The main use of the observer role is to link a user to a student. Observers can be linked to a student or multiple students and view the student's data in the course. Parents are often enrolled as observers and linked to students, especially in K12 environments. Observers cannot submit work on behalf of the students they observe, but they can see student grades, assignments and events, and course interactions.
+Depending on the institution, observers can have different levels of access. Observers can be linked to a single student or multiple students. These links can be at the account or course levels.
+A user-account level link will ensure the observer is linked to a student and will enroll the observer in each student's past, current, and future courses automatically.
+A course-level link is a link between an observer's enrollment in a course and the student's enrollment in that same course. These links have to be created each time the student and observer are enrolled in a course.
+Observer Access in Canvas
+To learn more about observer participation, view the Observers Visibility and Participation resource document.
+Observers can
+View and read announcements
+View assignments index page
+View the calendar
+Join conferences, if invited
+Join collaborations, if invited
+View personal inbox
+Send conversation messages to instructor and student they are observing
+View the dashboard
+View and read discussions
+View files unless they are locked
+View grades, view assignment due dates and comments, and print grades
+View modules and see due dates and point values
+View pages and contribute if the instructor enables the Anyone can edit it setting
+View profile pictures, if available
+View syllabus
+View outcomes
+View quizzes index page
+Observers cannot
+Comment on announcements or discussions
+Submit assignments or quizzes
+View course rosters
+Send conversation messages to students in the course they are not observing
+View locked files or folders
+Join groups
+View unpublished courses
+Access the Chat tool
+Reserve appointment slots in the Scheduler
+View grade audit trail
+Observer Limitations
+Observers can view the same content as the student they are observing unless the content is unpublished or restricted by locked dates.
+Observers can view module content locked by prerequisites or requirements, as module progression is not measured for observers.
+Observers can view assignments even if the student they are observing has not completed them unless the assignments are locked.
+Each instructor can customize the links in the Course Navigation and limit the number of features that students and observers can see. Observers may or may not see links to certain features.
+Courses restricted to term dates are accessible to observers during the term dates. Student access dates do not apply to observers.

@@ -1,0 +1,202 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F74DF280-1272-0135-8272-22000B5A851D" class="text-block-content">
+    <p>SIS data can be uploaded through the SIS Imports link in Account Settings. SIS data is only accessible at the account level and cannot be added to sub-accounts. </p>
+<p>The SIS Import page supports a few formats for standard imports to Canvas: <a href="/t5/Admin-Guide/How-do-I-format-CSV-text-files-for-uploading-SIS-data-into-a/ta-p/216" target="_blank">Instructure formatted CSV or zipfile of CSVs</a>, IMS Enterprise Specification XML zip, or Banner Grade Exchange Results XML. Files can be set for a full batch update and to override UI changes. </p>
+<p><strong>Please ensure you are aware of the risks associated with these upload options. </strong>For more details about these risks, please view the <a href="https://community.canvaslms.com/docs/DOC-3073" target="_blank">SIS Imports lesson</a>. </p>
+<p><strong>API Processing</strong></p>
+<p>SIS Imports are added to a queue that processes each imported CSV separately (whether uploaded individually or within a ZIP file). Import errors are displayed in the SIS Import page.</p>
+<p><strong>API Practice</strong></p>
+<p>Before importing SIS information, <a href="/t5/Admin-Guide/How-do-I-practice-using-the-API-to-import-SIS-data-to-a-Canvas/ta-p/100" target="_blank">practice using the API</a> to manage SIS data. You should also use your <a href="/t5/Admin-Guide/How-do-I-access-the-Canvas-test-environment-as-an-admin/ta-p/180" target="_blank">test environment</a> to avoid conflicts with your live production data. Once you have confirmed your data in your test environment, you can re-apply your SIS integration to your production environment. Additionally, some SIS data options are only available via the API.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>SIS Imports must be enabled by your Customer Success Manager before files can be uploaded to your account. </li>
+<li>Importing SIS files is an account permission. If you do not have access to manage SIS files, your institution has restricted this feature. </li>
+<li>Before setting permission for a user role, you must ensure the role you want to assign the user already exists in your account. Learn how to <a href="/t5/Admin-Guide/How-do-I-add-an-account-level-role-in-the-Permissions-page/ta-p/99" target="_blank">create an account-level role</a>. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="6a18942a-afc3-46b6-b359-a12fa5292b4c">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97eda9a9-cee8-422e-8fac-7ac9c4bf47f1" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_sis_import" data-step-uuid="1bc3816c-28ba-4fbe-86a8-28fae84082dc">
+    <h2 id="open_sis_import" class="step-title screensteps-heading">Open SIS Import</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/797/993/original/6795d3c6-05b4-4411-bda0-8a9261181c2f.png" srcset="" alt="Open SIS Import" height="278" width="173">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F74E2900-1272-0135-8274-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>SIS Import </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_file" data-step-uuid="029ab0a9-49f7-41d0-836b-43fa9892980c">
+    <h2 id="select_file" class="step-title screensteps-heading">Select File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/911/original/c97ecb77-e49d-4ee3-b4e7-d2f676baed3f.png" srcset="" alt="Select File" height="188" width="644">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F74E5E40-1272-0135-8276-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Choose File</strong> button and locate the SIS import file from your computer.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_import_type" data-step-uuid="9418505a-600b-49f3-a334-409c546ff275">
+    <h2 id="select_import_type" class="step-title screensteps-heading">Select Import Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/909/original/6b5a3ed6-6ca5-4ea4-850e-1bb98a0761a7.png" srcset="" alt="Select Import Type" height="248" width="644">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F74E8F10-1272-0135-8278-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Import Type</strong> menu, select the type of import you are uploading into Canvas. By default, the menu selects the CSV import option. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_full_batch_update" data-step-uuid="6cbfc003-96f7-43d4-abe4-f02fee049d56">
+    <h2 id="set_full_batch_update" class="step-title screensteps-heading">Set Full Batch Update</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/905/original/569ef0d5-7cbd-444d-81a8-e0b16e1984c9.png" srcset="" alt="Set Full Batch Update" height="200" width="793">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F74EC3E0-1272-0135-827A-22000B5A851D" class="text-block-content">
+    <p>If you want to create a full batch update, select the <strong>This is a full batch update </strong>checkbox [1]. In the Term drop-down menu [2], select the term for the full batch update. With this option, any courses, sections, or enrollments with an SIS ID record in Canvas that is linked to the Term selected in the drop-down can be deleted. For enrollments, this option means the linked user and course/sections require SIS IDs. A Canvas record will be deleted if it is not included in the current import file. </p>
+<p>This option will only affect data created via previous SIS imports. Manually created courses, for example, won't be deleted even if they don't appear in the new SIS import.</p>
+<p><strong>Notes: </strong>Ensure you are aware of the associated risks before selecting this option.</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="override_ui_changes" data-step-uuid="fc08a7f9-e481-4dc8-a314-677b23f743b3">
+    <h2 id="override_ui_changes" class="step-title screensteps-heading">Override UI Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/913/original/ebdc6598-e292-4f82-ad05-5405b91433a9.png" srcset="" alt="Override UI Changes" height="171" width="765">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F74EF7C0-1272-0135-827C-22000B5A851D" class="text-block-content">
+    <p>If you want to override changes in the user interface (UI), select the <strong>Override UI changes </strong>checkbox. This change tells Canvas to overwrite any "sticky" data changed by users in their accounts with the data your are importing. </p>
+<ul>
+<li>If this box is NOT checked when doing a new users import, no name changes will be overridden in the UI, but if the user removed their listed email address it will be re-added but not marked default.</li>
+<li>If this box IS checked when doing a new users import, the full name and sortable name will change, but the display name is not changed. The email address is added but still not marked default.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_ui_option" data-step-uuid="bf256013-9320-4aa3-adee-c4922eecb575">
+    <h3 id="select_ui_option" class="step-title screensteps-heading">Select UI Option</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/790/903/original/8afae0a5-ef65-4747-b429-82054acda543.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/790/903/medium/8afae0a5-ef65-4747-b429-82054acda543.png" srcset="" alt="Select UI Option" height="324" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F74F28F0-1272-0135-827E-22000B5A851D" class="text-block-content">
+    <p>Overriding UI changes also allows one of two additional options: process as UI changes or clear UI-changed state. You can only select one option. </p>
+<p>If you want to select an options, select the checkbox next to your preference:</p>
+<ul>
+<li>
+<strong>Process as UI changes [1]:</strong> overrides changes that have taken place in the UI as "sticky" data; all data acts as if the changes were actually manually updated in the UI</li>
+<li>
+<strong>Clear UI-changed state [2]</strong>: removes the "stickiness" of all data that exists in this import; future imports with this data will not indicate any data in the UI as "sticky"</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="process_data" data-step-uuid="b43b8c02-e2f0-4fa5-9fe0-1af9c633e3b5">
+    <h2 id="process_data" class="step-title screensteps-heading">Process Data</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/901/original/499a159a-9806-4382-80c1-f3fd1650052f.png" srcset="" alt="Process Data" height="74" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F74F5B70-1272-0135-8280-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Process Data </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_import_data" data-step-uuid="ce88d003-d1ab-473c-a980-a4ac1b652b2d">
+    <h2 id="view_import_data" class="step-title screensteps-heading">View Import Data</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/016/847/original/36740941-8d7a-48d2-b73d-80a05e5172a2.png" srcset="" alt="View Import Data" height="430" width="580">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F74F8C50-1272-0135-8282-22000B5A851D" class="text-block-content">
+    <p>When the import has processed, Canvas displays the results of the imported file, along with up to 50 errors and warnings. If you imported a full batch update, the results also show the number of deleted items removed from the account. Deleted items include enrollments, courses, and sections.</p>
+<p>After you refresh the page, this information will stay in the SIS Import page under the Last Batch heading until another import is made.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="download_errors" data-step-uuid="4c885ab3-bc44-41f9-b789-4078dd765a57">
+    <h3 id="download_errors" class="step-title screensteps-heading">Download Errors</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/016/848/original/d4e3c602-3158-4a5f-b51b-4aca3f4fd09e.png" srcset="" alt="Download Errors" height="509" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_35209923-9b3f-4b9d-9fbc-62e6483baf37" class="text-block-content">
+    <p>If you want to download all warnings and errors from your last import file, return to the SIS Import page. Under the Last Batch heading, click the Last Batch download icon. The icon will download a CSV file with all errors and warnings from your last import.</p>
+<p>You can also use the <a href="https://canvas.beta.instructure.com/doc/api/sis_import_errors.html" target="_blank" rel="nofollow noopener noreferrer">SIS Import Errors API</a> for additional troubleshooting details, which will return the CSV line number where the error occurred.</p>
+<p><strong>Note</strong>: </p>
+<ul>
+<li>You may need to refresh the page to view the download icon.</li>
+<li>If the report is downloaded, the link expires after an hour. If the page is refreshed, a new URL is generated and active for one hour.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

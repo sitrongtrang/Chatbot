@@ -1,0 +1,129 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_B6B39E30-22D4-0135-E074-22000B5A851D" class="text-block-content">
+    <p>As an instructor, you can verify links to course content throughout your course to ensure they are valid. You can check these links using the course link validator, which searches through course content and returns invalid or unresponsive course content links in both published and unpublished content. However, please note that some links flagged as unresponsive are inaccessible by Canvas servers and will still work for students.</p>
+<p>The link validator also includes deleted links. Deleted links are links that are still in the course, but their linked content has been deleted (such as a course file or page).</p>
+<p>If the link validator does not detect any broken links in your course, Canvas may display a celebration. The link validator celebration feature option must be enabled by an account admin. However, you can <a href="/t5/Instructor-Guide/How-do-I-manage-confetti-animations-in-Canvas-as-an-instructor/ta-p/1258" target="_blank">disable link validator celebrations in your user settings</a>.</p>
+<p><strong>Note: </strong>The link validator does not validate mailto (email address) links.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="8eca990b-57d5-4796-b09b-b4c7a637ec8b">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/160/original/4c55c974-a334-47f1-b333-6c96afd11604.png" srcset="" alt="Open Settings" height="275" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B6B3D740-22D4-0135-E076-22000B5A851D" class="text-block-content">
+    <p><span style="color:rgb(49,49,49);">In Course Navigation, click the <strong>Settings</strong> link.</span></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_validation_link" data-step-uuid="4333c71c-077b-41a9-81dd-f940e2bc5e1c">
+    <h2 id="open_validation_link" class="step-title screensteps-heading">Open Validation Link</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/927/original/be52bcae-f074-4140-bb29-35b1ee7b5142.png" srcset="" alt="Open Validation Link" height="438" width="272">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B6B40C40-22D4-0135-E078-22000B5A851D" class="text-block-content">
+    <p>In the sidebar, click the <strong>Validate Links in Content </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="start_link_validation" data-step-uuid="6f3c7b4a-4999-4c63-9309-51b6d2f31135">
+    <h2 id="start_link_validation" class="step-title screensteps-heading">Start Link Validation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/153/148/original/cc4809c2-1465-4699-a78d-23666b726c30.png" srcset="" alt="Start Link Validation" height="184" width="729">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B6B441B0-22D4-0135-E07A-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Start Link Validation </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_links" data-step-uuid="2bb3a657-f46f-46d7-b249-fe2e93b419d3">
+    <h2 id="view_links" class="step-title screensteps-heading">View Links</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/598/906/original/593da42f-18fa-499c-af3a-93585a4af0ca.png" srcset="" alt="View Links" height="381" width="678">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B6B52520-22D4-0135-E07C-22000B5A851D" class="text-block-content">
+    <p>If any links are found in the course, Canvas displays the number of links [1], followed by the name of the content item and the content's associated invalid link(s) [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_unpublished_content" data-step-uuid="b120feed-bb3c-45b6-a43a-a86462ed89ba">
+    <h3 id="view_unpublished_content" class="step-title screensteps-heading">View Unpublished Content</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/598/904/original/1f7acab1-b0f6-4d65-91d4-88bcb23aa182.png" srcset="" alt="View Unpublished Content" height="229" width="461">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B6B5CD10-22D4-0135-E080-22000B5A851D" class="text-block-content">
+    <p>By default, the Show links to unpublished content checkbox is selected [1]. The page will display any broken links in unpublished content [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="view_link_labels" data-step-uuid="edcb032e-a71c-4f8a-98eb-038d2f0c8e23">
+    <h4 id="view_link_labels" class="step-title screensteps-heading">View Broken Link Details</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/598/900/original/4635c6d6-f3de-4d3e-a764-0893229ca008.png" srcset="" alt="View Broken Link Details" height="643" width="661">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B6B55C90-22D4-0135-E07E-22000B5A851D" class="text-block-content">
+    <p>The validator displays broken links and images by item type [1].  Broken content is identified as either a link or an image [2]. Non-existent content means that the object is invalid and should be replaced [3]. Unreachable objects mean the image could not be displayed [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_links" data-step-uuid="e44db565-4956-4e8d-b7db-81a7dad0d85d">
+    <h2 id="update_links" class="step-title screensteps-heading">Update Links</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/598/902/original/8d605160-c0fc-4a29-913b-779a7e517724.png" srcset="" alt="Update Links" height="381" width="684">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B6B631B0-22D4-0135-E082-22000B5A851D" class="text-block-content">
+    <p>To update links within course content, click the name of the content item [1].</p>
+<p>After you update your content, you can validate your links again by returning to the Link Validator page and clicking the <strong>Restart Link Validation </strong>button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

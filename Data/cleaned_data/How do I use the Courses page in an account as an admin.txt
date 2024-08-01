@@ -1,0 +1,35 @@
+How do I use the Courses page in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+View Courses in Sub-Accounts
+If you have organized courses in your account by sub-accounts, click the Sub-Accounts link to locate and open the sub-account, then click the sub-account's Courses link.
+View Courses Page
+When you open an account, the account defaults to the Courses page.
+The Courses page displays all courses in the account. The page is designed with global settings at the top of the page followed by the generated course data.
+All fields are responsive to the width of the browser, which can be adjusted as needed to display course data.
+Filter Terms
+Global settings include searching and filtering by course data. Filters and search fields update dynamically.
+By default, courses for all terms display on the Courses page. To filter courses by term, click the Filter by term drop-down menu. Terms are grouped by active, future, and past terms. The Default term is included in the active terms list. Depending on the number of terms in an account, the Terms menu may display a loading message until all terms are visible. 
+To search for a specific term by keyword, type a keyword in the Filter by term text field. 
+The Terms menu displays the full name of a term in the list.
+Sort and Search Courses
+The Courses page defaults to searching by courses. To search for a specific course, type the name of the course, course code, SIS ID, or Canvas course ID in the search field. 
+To search courses by teacher (instructor), click the Sort by menu and select the Teacher option. The search field text updates to show courses are being searched by teacher. You can search by the instructor's name (user ID, SIS ID, and login ID are not supported search parameters).
+To filter your search to exclude courses with no student enrollments, click the Hide courses without students checkbox. 
+View Blueprint Courses
+To filter your search to display only blueprint courses, click the Show only blueprint courses checkbox.
+Blueprint Courses include the Blueprint icon.
+View Course Templates
+Course templates display the course template icon. Course templates do not allow enrollments to be added and do not display student count or term data.
+Add Course
+To add a course to the account, click the Add Course button.
+View Courses
+The Courses page paginates filter and search results in sets of 15 courses and are ordered by SIS ID. Each paginated page displays in a table format but columns are responsive according to the widest column for that page. 
+Results display the course status, the name of the course, SIS ID (if applicable), term, teacher, subaccount, and number of active students. 
+Except for the Status and Students columns, you can sort each column in ascending or descending order (alphabetically or numerically) by clicking the column heading.
+View Course Status and Teachers
+In the Status column, icons indicate whether a course is published, manually concluded, or unpublished.
+If a course includes more than two teachers, the Teacher column displays a Show More link. To view the full list of teachers, click the Show More link.
+Manage Course
+To open a course, click the name of the course. To view user details for a teacher in the course, click the name of the teacher. To open a sub-account, click the name of the sub-account.
+For quick access to course data, you can manually add a user to the course, view course statistics, and view course settings.

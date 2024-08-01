@@ -1,0 +1,163 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_a78505a1-9bbe-4eea-8b6d-d69849bcfd34" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can create an Essay question in New Quizzes. In an Essay question, students are required to enter a text response. You can also add word count, word limit, spell-check, and Rich Content Editor options for students’ essay responses.</p>
+<p>You can also add grading notes to an Essay question. Grading notes will display next to the question as a reference to help you grade student responses.</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate Essay questions</a> to create a new question.</p>
+<p><strong>Note</strong>: Students can still submit their quiz attempt even if the essay questions minimum and/or maximum word limit is not met.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="130b6519-469e-45ec-85bc-91bf0dc776c7">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/890/409/original/9ada1fcf-ee0e-44c0-b649-135ca75fc065.png" srcset="" alt="Add Question" height="415" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b76fe70f-9195-4bdf-96df-a69b863494a2" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="4d558cbb-36bf-4d4c-9ecc-be64f24bd85f">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add Essay Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/775/987/original/2e20b8c0-2a2b-46db-83e2-a6619dd34d63.png" srcset="" alt="Add Essay Question" height="555" width="758">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3e70aae8-adac-4eee-b2ef-07c54b41b5a2" class="text-block-content">
+    <p>Click the <strong>Add Essay</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-details" data-step-uuid="1898111d-2221-40cf-8cf0-a5345a23ce91">
+    <h2 id="add-question-details" class="step-title screensteps-heading">Add Question Title and Prompt</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/238/original/aabf62c4-fc52-4199-ac38-12c1e8ca275b.png" srcset="" alt="Add Question Title and Prompt" height="183" width="721">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8122cc20-3d0c-43f6-9986-ec5212e4e9e0" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Prompt</strong> field [2], add the prompt for the Essay question. You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your prompt.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-question-options" data-step-uuid="3c6042ed-b674-42dd-ba53-95342e8dc263">
+    <h2 id="set-question-options" class="step-title screensteps-heading">Set Question Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/337/original/3d2f7c9f-896b-4db1-910c-7d4d0400a293.png" srcset="" alt="Set Question Options" height="576" width="631">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_75ec016f-f8cf-48bc-b64d-660d1ed2d24c" class="text-block-content">
+    <p>You can enable various tools for students to use when answering an Essay question. To allow students to use an on-screen calculator, click the <strong>Show on-screen calculator</strong> checkbox [1]. When you select this option, you can choose either a basic or scientific calculator [2]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p>The Rich Content Editor is enabled for students by default. To disable the Rich Content Editor, click the <strong>Rich Content Editor</strong> checkbox [3].</p>
+<p>To enable spell-check, click the <strong>Spell-check</strong> checkbox [4]. To enable word count tracking, click the <strong>Show Word Count</strong> checkbox [5].</p>
+<p>To set a word limit for the Essay question, click the <strong>Set Word Limit</strong> checkbox [6]. You can set a minimum and maximum word limit for student answers [7].</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-grading-notes" data-step-uuid="6b6fe2a0-fb92-4c3e-b097-a7538938bd2e">
+    <h2 id="add-grading-notes" class="step-title screensteps-heading">Add Grading Notes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/343/original/5e8c6fb4-dd29-4b54-b687-48a44fdd3a4b.png" srcset="" alt="Add Grading Notes" height="195" width="636">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5b6f6e48-65b6-41cb-9847-66bd6a9f5568" class="text-block-content">
+    <p>To add grading notes, click the <strong>Grading Notes</strong> tab [1] and enter your notes in the text field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="276c6250-6bdc-4fad-a9cf-ebfe3f921ace">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/347/original/6a087df8-29cd-4a82-afb6-d6aba4369795.png" srcset="" alt="Align to Outcome" height="269" width="616">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5a766d79-3b95-4afd-87f0-c61b304b9cee" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="93863451-6c7c-4b57-aa66-f402fb4fddcf">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/341/original/21802567-e746-4fdf-9015-9cf8a431cc9e.png" srcset="" alt="Add to Item Bank" height="134" width="620">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b04298f6-e00a-4f12-837b-0c668e6c9820" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note:</strong> After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="5233e3f0-9dde-40c4-88bf-e13904e3f489">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value and Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/335/original/a71c498a-d9fe-4f10-8237-39c8000dde48.png" srcset="" alt="Add Point Value and Feedback" height="257" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fc370fbb-4b33-4723-8dca-febab2f9d5cd" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-feedback-to-a-question-in-New-Quizzes/ta-p/591" target="_blank">leave feedback for students</a>, click the <strong>Feedback</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="62398690-2c67-4db1-82c4-3548cff3ef78">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/339/original/5af91d03-fa88-47f2-810e-1c99a19df0a4.png" srcset="" alt="Save Question" height="65" width="176">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_25e05c22-a2f3-405d-b501-2191baf5f7d1" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

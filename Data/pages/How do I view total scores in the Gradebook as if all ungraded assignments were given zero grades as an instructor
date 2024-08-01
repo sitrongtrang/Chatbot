@@ -1,0 +1,141 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_a7b24ab7-754f-4f48-80ab-8b30c60ec131" class="text-block-content">
+    <p>If enabled by your institution, you can temporarily change the Gradebook view so that grades display as if all ungraded assignments were given a score of zero. <strong>This setting is a visual change only and does not affect grades for students or other users of the Gradebook.</strong> </p>
+<p>When this setting is enabled, Canvas will not populate zeros in the Gradebook for student submissions within individual assignments. Only the assignment groups and total columns will visually factor scores of zero into the overall percentages for each student. Actual student grades are not affected.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If the View Ungraded as 0 option does not display in your Gradebook, this option has not been enabled by your institution.</li>
+<li>The View Ungraded as 0 option also applies to CSV exports. The CSV file displays columns for the Current and Final scores: the Current score reflects the total while ignoring unsubmitted assignments and the Final score counts unsubmitted assignments as zero.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-grades" data-step-uuid="d485b7cc-5c56-4073-8b53-b19edb07bca5">
+    <h2 id="open-grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/142/189/original/6307ada5-bb01-4875-b0f7-fbf90b9c5d54.png" srcset="" alt="Open Grades" height="266" width="165">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a09605b5-e9f9-42f2-b937-cae3ecb646ce" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-gradebook-settings" data-step-uuid="ddaeb5e4-7fa1-4f04-b098-ebcf39378519">
+    <h2 id="open-gradebook-settings" class="step-title screensteps-heading">Open Gradebook Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/721/176/original/1bdd71dd-e568-4205-b915-f567c1ef6f87.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/721/176/medium/1bdd71dd-e568-4205-b915-f567c1ef6f87.png" srcset="" alt="Open Gradebook Settings" height="96" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81cfacd3-ad2c-4486-b4b6-a022fdca74b8" class="text-block-content">
+    <p>Click the <strong>Settings</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-ungraded-as-zero" data-step-uuid="b4bc77ef-510d-4abd-9859-0bb0966baa0c">
+    <h2 id="view-ungraded-as-zero" class="step-title screensteps-heading">View Ungraded as Zero</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/721/178/original/1169a65d-2e1f-43d6-9480-b221ae96a130.png" srcset="" alt="View Ungraded as Zero" height="686" width="781">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_994ffa2c-92cb-472a-bbb7-868ae067b5aa" class="text-block-content">
+    <p>In the <strong>View Options</strong> tab [1], click the <strong>View Ungraded as 0</strong> checkbox [2].</p>
+<p><strong>Note: </strong>If the View Ungraded as 0 option does not display in your Gradebook, this option has not been enabled by your institution.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-warning-message" data-step-uuid="0960a10d-aa65-46bf-b300-0330dd4c2620">
+    <h3 id="view-warning-message" class="step-title screensteps-heading">View Warning Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/137/597/original/1608292e-c8b0-44bf-943e-4cbce570970f.png" srcset="" alt="View Warning Message" height="361" width="484">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_688ab967-f202-4bb4-b1f2-ab146e35f057" class="text-block-content">
+    <p>A warning displays to inform you that this setting is a visual change only and does not affect grades for students or other users of this Gradebook.</p>
+<p>To proceed and view ungraded assignments with zero grades, click the <strong>OK</strong> button [1]. To return to the Gradebook, click the <strong>Cancel</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="apply-settings" data-step-uuid="deb948e6-b111-4d31-a7e6-bdc0784932e4">
+    <h2 id="apply-settings" class="step-title screensteps-heading">Apply Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/721/180/original/0b6b61f1-c8c3-4551-83f8-db8f4e418c8c.png" srcset="" alt="Apply Settings" height="70" width="253">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81edbf6e-6dfb-4b99-b451-b84cb1d0d4a3" class="text-block-content">
+    <p>Click the <strong>Apply Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-assignment-groups" data-step-uuid="bbeae96a-22a4-40c9-b00c-0ce65ba07253">
+    <h2 id="view-assignment-groups" class="step-title screensteps-heading">View Gradebook</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/721/182/original/c87f6178-b2e3-41fa-8300-8aa2b02d017f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/721/182/medium/c87f6178-b2e3-41fa-8300-8aa2b02d017f.png" srcset="" alt="View Gradebook" height="313" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_218d7f3b-8257-4cd6-9dda-66331594553d" class="text-block-content">
+    <p>The View Ungraded as 0 option displays as a heading in all assignment group columns [1] and the Total column [2] to indicate this feature is turned on in the Gradebook. This indicates that gradebook and assignment group totals display visually as if all ungraded assignments were graded with zero points. Actual student grades are not affected.</p>
+<p><strong>Note: </strong>The View Ungraded as 0 option will not populate zeros in the Gradebook for student submissions within individual assignments. Only the assignment groups and total columns will visually factor scores of zero into the overall percentages for each student.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="turn-off-view-ungraded-as-zero" data-step-uuid="089b1413-85c0-4c67-90b1-e1ce28a643d5">
+    <h2 id="turn-off-view-ungraded-as-zero" class="step-title screensteps-heading">Turn Off View Ungraded as Zero</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/744/103/original/43e2b43b-ced4-4750-99f3-9d33292e7b30.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/744/103/medium/43e2b43b-ced4-4750-99f3-9d33292e7b30.png" srcset="" alt="Turn Off View Ungraded as Zero" height="521" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_070a9611-fb65-46ae-98c1-238c5756929f" class="text-block-content">
+    <p>To turn off the View Ungraded as 0 option, click the <strong>Settings</strong> icon [2]. Then click the <strong>View Options</strong> tab [2], and deselect the <strong>View Ungraded as 0</strong> checkbox [3]. </p>
+<p>To save your changes, click the <strong>Apply Settings</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

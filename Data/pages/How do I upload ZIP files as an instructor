@@ -1,0 +1,249 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6B102F40-2166-0135-2104-22000BC102FE" class="text-block-content">
+    <p>You can import ZIP files to Canvas through Files or Course Settings.</p>
+<p>Through Course Settings, you must upload the ZIP file to an existing folder in Files. You cannot create new folders through the Course Import Tool.</p>
+<p>ZIP files containing internal folder structure retain that folder structure upon upload.</p>
+<p>If you do not know how to create a ZIP file, please consult your computer operating system's user guide.</p>
+<p><strong>Notes</strong>:</p>
+<ul>
+<li>If you are using Usage Rights, you must set the <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/796" target="_blank">file usage rights</a> before the files can be published.</li>
+<li>Canvas does not support file uploads larger than 5 GB.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_through_files" data-step-uuid="2B7B11B3-5A3D-41DC-AA51-BBD65538F80F">
+    <h2 id="import_through_files" class="step-title screensteps-heading">Import through Files</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/765/505/original/e2128330-b35d-42c1-a47b-310e4d5a950f.png" srcset="" alt="Import through Files" height="265" width="171">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B105DC0-2166-0135-2106-22000BC102FE" class="text-block-content">
+    <p>You can import a ZIP file directly in Files. In Course Navigation, click the <strong>Files</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="upload_files" data-step-uuid="8B7C3753-A990-49A8-AA10-314FA5E16F5B">
+    <h3 id="upload_files" class="step-title screensteps-heading">Upload Files</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/904/315/original/9e591d58-3bb1-4a37-972b-3889e1d3aa54.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/904/315/medium/9e591d58-3bb1-4a37-972b-3889e1d3aa54.png" srcset="" alt="Upload Files" height="147" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B108930-2166-0135-2108-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Upload </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open_file" data-step-uuid="CC44F766-52E5-48E7-8ACA-70E3605FBCC4">
+    <h3 id="open_file" class="step-title screensteps-heading">Open File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/870/original/81ff06eb-9496-4449-b9e1-36d73532da50.png" srcset="" alt="Open File" height="353" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B10B320-2166-0135-210A-22000BC102FE" class="text-block-content">
+    <p>Click the title of the file you want to import [1] and click the <strong>Open</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="choose_zip_option" data-step-uuid="e6bd1531-055b-4baf-9275-ed6b2219917d">
+    <h3 id="choose_zip_option" class="step-title screensteps-heading">Choose ZIP Option</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/860/original/cc6c012d-63ce-4f08-af85-5c575e03a6b3.png" srcset="" alt="Choose ZIP Option" height="257" width="395">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B10E0A0-2166-0135-210C-22000BC102FE" class="text-block-content">
+    <p>If you want to expand all the contents of the ZIP file, click the <strong>Expand It </strong>button [1]. If you want to upload the ZIP file intact, click the <strong>Upload It</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_upload_progress" data-step-uuid="17CEDC31-3924-4794-B8D2-89B89EF936C1">
+    <h3 id="view_upload_progress" class="step-title screensteps-heading">View Upload Progress</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/884/original/cfb9ce78-3e14-499c-a35f-8a10dc583a9a.png" srcset="" alt="View Upload Progress" height="95" width="656">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B110DB0-2166-0135-210E-22000BC102FE" class="text-block-content">
+    <p>You can track the progression of the upload by monitoring the progress bar.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_files" data-step-uuid="4FF05124-6697-4F75-B2BD-A3DB12367CED">
+    <h3 id="view_files" class="step-title screensteps-heading">View Files</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/021/243/original/f2bbdefd-e528-41ee-a35e-605f04aee22c.png" srcset="" alt="View Files" height="289" width="651">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B113C00-2166-0135-2110-22000BC102FE" class="text-block-content">
+    <p>Your files will be uploaded to Files in Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_through_course_settings" data-step-uuid="51029f1f-469d-417e-af8e-68756df1347d">
+    <h2 id="import_through_course_settings" class="step-title screensteps-heading">Import through Course Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/765/503/original/25a72273-7a90-4dd9-a910-e26723ea3de4.png" srcset="" alt="Import through Course Settings" height="272" width="173">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B116750-2166-0135-2112-22000BC102FE" class="text-block-content">
+    <p>You can also import files through the Course Import Tool in Course Settings. In Course Navigation, click the<strong> Settings </strong>link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="import_content_into_this_course" data-step-uuid="f14ae2e0-45e8-49ac-a8a8-d9947b405b33">
+    <h3 id="import_content_into_this_course" class="step-title screensteps-heading">Import Content into this Course</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/876/original/e13f7ca9-9a5c-4505-b4c1-9898c5bfba8e.png" srcset="" alt="Import Content into this Course" height="442" width="278">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B1191E0-2166-0135-2114-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Import Course Content</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_content_type" data-step-uuid="3676a802-5a52-467f-b3a8-e16580d158d1">
+    <h3 id="select_content_type" class="step-title screensteps-heading">Select Content Type</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/862/original/13d794f0-5955-4c34-b6b6-3d9036adbbeb.png" srcset="" alt="Select Content Type" height="309" width="542">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B11BD90-2166-0135-2116-22000BC102FE" class="text-block-content">
+    <p>In the Content Type drop-down menu, select the <strong>Unzip .zip file into folder</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="choose_file" data-step-uuid="d83e2667-0692-41c2-989e-1ec5a12bc56e">
+    <h3 id="choose_file" class="step-title screensteps-heading">Choose File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/864/original/68fb76ee-097a-4707-a1d6-5e1e409179af.png" srcset="" alt="Choose File" height="316" width="485">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B11E8F0-2166-0135-2118-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Choose File</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open_file_1" data-step-uuid="19508fa2-2b4e-4f23-b5ae-9e790da1c0a9">
+    <h3 id="open_file_1" class="step-title screensteps-heading">Open File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/874/original/667adcd5-1ce5-4e86-b04c-8b2cd8fd7465.png" srcset="" alt="Open File" height="350" width="513">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B1216B0-2166-0135-211A-22000BC102FE" class="text-block-content">
+    <p>Click the title of the file you want to import [1] and click the <strong>Open</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_folder" data-step-uuid="692702a9-a36e-45c0-8f1e-94c6d8d253fc">
+    <h3 id="select_folder" class="step-title screensteps-heading">Select Folder</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/882/original/9f203ecb-bd96-4426-83a2-5e5866da9529.png" srcset="" alt="Select Folder" height="316" width="489">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B124440-2166-0135-211C-22000BC102FE" class="text-block-content">
+    <p>In the Upload to drop-down menu, select the folder where you want to upload your files.</p>
+<p><strong>Note: </strong>You must upload the file to an existing folder. You cannot create new folders through this feature.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="import_file" data-step-uuid="d669eb54-ca6a-4b83-b6b6-7e2aef20f3ea">
+    <h3 id="import_file" class="step-title screensteps-heading">Import File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/868/original/457fca79-99a6-41a9-92bb-e81759233f01.png" srcset="" alt="Import File" height="316" width="490">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B126E80-2166-0135-211E-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Import</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_import_progress" data-step-uuid="a7450dc0-eba5-43e2-9c84-877edbc5f027">
+    <h3 id="view_import_progress" class="step-title screensteps-heading">View Import Progress</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/878/original/8f377de5-71b7-4e0e-9c14-09e24116a0d0.png" srcset="" alt="View Import Progress" height="284" width="802">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B129E50-2166-0135-2120-22000BC102FE" class="text-block-content">
+    <p>The Current Jobs menu displays the status of your import. Running reports display a menu bar with the time remaining to generate the report. </p>
+<p>Import statuses include queued, running, completed, and failed. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_files_1" data-step-uuid="a1755cd9-7328-43e2-881a-050cce7d0ffa">
+    <h3 id="view_files_1" class="step-title screensteps-heading">View Files</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/021/242/original/bddc04b1-3aa4-44cd-89ff-6a813a5b879f.png" srcset="" alt="View Files" height="291" width="611">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B12CFE0-2166-0135-2122-22000BC102FE" class="text-block-content">
+    <p>Open Files and view your imported files. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

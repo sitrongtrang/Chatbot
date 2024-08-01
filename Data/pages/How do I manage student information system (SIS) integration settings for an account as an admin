@@ -1,0 +1,197 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3AECE4C0-0991-0135-68F0-22000AB760A3" class="text-block-content">
+    <p>When you integrate a student information system (SIS) in Canvas, you can manage SIS validations and assignment sync settings for all subaccounts and courses. </p>
+<p>Even after setting all assignments to be sent to the SIS, instructors can still manage assignments in their courses and manually remove individual assignments, graded discussions, or quizzes that they do not want to send to your SIS. Assignments can be managed from the Assignments page and Quizzes page, or they can be managed when creating an SIS assignment, SIS graded discussion, or SIS quiz. However, if any sync validations have been set, instructors must adapt their assignments to the validation settings.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Student information systems must be configured by your Customer Success Manager. </li>
+<li>This feature is only available if the New SIS Integration Settings feature option has been enabled for your account. <strong>Please note that the settings will not display unless the feature option has been set to Enabled. </strong>If the SIS Integration Settings feature option has not been enabled, you may still be able to <a href="/t5/Admin-Guide/How-do-I-enable-student-information-system-SIS-submissions-for/ta-p/252" target="_blank">enable SIS submissions</a> in Account Settings.</li>
+<li>Learn more about feature previews in the <a href="/t5/Colder-Storage/What-feature-options-are-currently-available-for-an-entire/td-p/260084" target="_blank">account features lesson</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="88ab2dad-9688-49d2-bb36-77cad4b78a14">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3AED3F00-0991-0135-68F2-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="8fb041c9-d534-4122-9f3c-f0f794e6a388">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/349/original/376b27d3-02ac-446b-b318-5c88617e2e1f.png" srcset="" alt="Open Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3AEDEF70-0991-0135-68F4-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-settings" data-step-uuid="3cd36bb4-0854-4a06-9289-909adfad7428">
+    <h2 id="view-settings" class="step-title screensteps-heading">View Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/201/606/original/c5ef0a74-040c-45f7-817b-3417b968f968.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/201/606/medium/c5ef0a74-040c-45f7-817b-3417b968f968.png" srcset="" alt="View Settings" height="311" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4bfe0644-83d4-479b-aa3d-bc1db82944f1" class="text-block-content">
+    <p>View the Account Settings tab. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sis_integration_settings" data-step-uuid="39302e1a-17c5-4e0c-a687-9988fa786a81">
+    <h2 id="view_sis_integration_settings" class="step-title screensteps-heading">View SIS Integration Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/840/original/57365d2c-1b7c-41d8-a185-92efc3bb23ee.png" srcset="" alt="View SIS Integration Settings" height="229" width="679">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4b67de8d-77e7-441d-a449-fd7fbeb75f6f" class="text-block-content">
+    <p>In the Account Settings tab, locate the SIS Integration Settings section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_sis_friendly_name" data-step-uuid="0d0a3ca5-557e-4f70-95bf-f5336057f1e7">
+    <h2 id="set_sis_friendly_name" class="step-title screensteps-heading">Set SIS Friendly Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/844/original/0e595cb7-3456-47f7-9f0a-9b48d3f88aae.png" srcset="" alt="Set SIS Friendly Name" height="157" width="679">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a6b9d11c-b7d0-4138-ace3-11bfb23bc9d1" class="text-block-content">
+    <p>If you want to show the name of your SIS provider in Canvas courses, enter the name in the SIS friendly name field. The name displays in the SIS checkbox in Canvas assignments, graded discussions, and quizzes. This option is helpful for instructors who may not know what an SIS is, but who may be familiar with a setting identified with the SIS name (e.g., PowerSchool).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable_sis_imports" data-step-uuid="63621419-e0c8-4bb9-bfad-b4e7860217f1">
+    <h2 id="enable_sis_imports" class="step-title screensteps-heading">Enable SIS Imports</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/201/608/original/e2ca82f9-e74e-4d3d-a8a8-8188df551f83.png" srcset="" alt="Enable SIS Imports" height="130" width="383">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_823ec2a9-073a-4546-8cfd-c1f287dc12f9" class="text-block-content">
+    <p>If you want to allow users with SIS permissions to import CSV files from your student information system, click the <strong>SIS Imports</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="include-integration-ids" data-step-uuid="8605a33b-c658-4ada-b337-284b3dcf6474">
+    <h2 id="include-integration-ids" class="step-title screensteps-heading">Include Integration IDs</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/201/610/original/770a12d8-5757-4d80-bed4-ca95336729e0.png" srcset="" alt="Include Integration IDs" height="115" width="396">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e8ddb6f5-43d8-4e8b-96be-88f888e21e20" class="text-block-content">
+    <p>Upon request, your Customer Success Manager can allow you to include Integration IDs in gradebook exports. Integration IDs are secondary unique identifiers useful for more complex SIS integrations and required by some institutions. To generate the Grade Export report with an Integration ID column and to allow gradebook exports to also include an Integration ID column, click the <strong>Include Integration IDs in the gradebook</strong> exports checkbox. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable_sis_syncing" data-step-uuid="bb11f98a-3701-4e20-ba4d-3f805cce6fa1">
+    <h2 id="enable_sis_syncing" class="step-title screensteps-heading">Enable SIS Syncing</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/842/original/da9c9c1b-235b-40fa-b4a6-71099aa11025.png" srcset="" alt="Enable SIS Syncing" height="91" width="161">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f4e683ec-1944-4690-83cc-55ee3d1b65e7" class="text-block-content">
+    <p>If you want to enable SIS syncing, click the <strong>SIS Syncing</strong> checkbox. This setting manages all workflows associated with sending SIS data back to your SIS provider.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_sis_syncing_settings" data-step-uuid="1a5bdab7-feba-4ca2-bbb8-d3c783f26981">
+    <h3 id="view_sis_syncing_settings" class="step-title screensteps-heading">View SIS Syncing Settings</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_68f82a11-376e-49aa-94f1-7bb98c93a7f5" class="text-block-content">
+    <p>You can enable four workflow settings with SIS Syncing. These settings set defaults for all assignments throughout all courses; however, course instructors ultimately manage which assignments are synced by selecting the Sync to SIS option in a graded assignment or the Sync to SIS toggle option in the Assignment Index Page. </p>
+<p><strong>Note</strong>: Currently this setting does not support syncing a final or midterm grade, which will be added in a future release.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/201/612/original/624ac48b-301a-4d22-b3cf-a398184f74c4.png" srcset="" alt="Enable SIS Syncing" height="334" width="594">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bf68b575-5592-4d93-8086-6382e2a862e8" class="text-block-content">
+    <p><strong>Lock this setting for sub-accounts</strong> [1]: This setting locks all selected SIS Sync settings for subaccounts. Subaccount admins cannot change any SIS settings.</p>
+<p><strong>Default SIS Sync for assignments, quizzes, grade discussion</strong> [2]: This setting displays the SIS Friendly Name in the Sync to [SIS] checkbox in Canvas assignments, graded discussions, and quizzes. All graded assignments, graded discussions, and graded quizzes will be enabled to be passed back to the SIS by default. (In quizzes, this setting does not apply to practice quizzes and surveys.) The name of the SIS also displays in the checkbox when you are creating an assignment shell in the Assignments page.</p>
+<p><strong>Require assignment due date</strong> [3]: This setting requires all assignments, graded discussions, and quizzes to include a due date. In a course, if a due date is not included in a graded assignment, Canvas asks the user to add a due date. The assignment cannot be saved until the due date error is resolved or the Sync to SIS option is disabled for the assignment.</p>
+<p>Due date validation is based on the assignment setup:</p>
+<ul>
+<li>If the assignment is assigned to Everyone, the due date is validated against the course date. If the course does not include a course override date, the assignment is validated against the term date.</li>
+<li>If the assignment is assigned to one or more sections, the due date is validated against the section date. If the section does not include a section override date, the assignment is validated against the course or term date.</li>
+<li>If the assignment is assigned to one or more students, <em>the assignment is currently not validated.</em>
+</li>
+<li>If the assignment is assigned to one or more students using MasteryPaths, <em>the assignment is currently not validated.</em>
+</li>
+</ul>
+<p><strong>Limit assignment names lengths (max 255)</strong> [4]: This setting limits the assignment name to a specific number of characters, which should be based on the SIS provider’s length limit, if any. Enter the maximum number of allowed characters in the <strong>Characters</strong> field [5]. In a course, if an assignment name exceeds the number of set characters, Canvas will notify the user that the assignment name is too long. The assignment cannot be saved until the name length error is resolved or the Sync to SIS option is disabled for the assignment.</p>
+<p><strong>Note</strong>: If no number limit is entered, Canvas defaults to the maximum of 255 characters, regardless of whether the checkbox is selected.</p>
+<p><strong>Automatically disable "Post to SIS" on assignments when grading period closes </strong>[6]: This setting disables the Sync to SIS option on assignments, quizzes, and graded discussions, preventing grades from syncing to the school's SIS when the <a href="/t5/Admin-Guide/How-do-I-view-grading-periods-in-an-account/ta-p/179" target="_blank">grading period</a> is closed.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_settings" data-step-uuid="747bf31f-487a-497a-b40a-a7ee06b52886">
+    <h2 id="update_settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/852/original/9780b24c-3bfd-41b2-a5fc-f62451144ddc.png" srcset="" alt="Update Settings" height="72" width="190">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3AEE5DB0-0991-0135-68F8-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Update Settings </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,156 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_fce3676f-b587-4632-aed6-2500bed8fdd5" class="text-block-content">
+    <p>You can subscribe to the Canvas Calendar Feed using the Outlook.com website. The calendar iCal feed contains events and assignments from all of your Canvas calendars, including reserved Scheduler appointment slots. Once you have subscribed to the calendar feed, you can remove the calendar feed at any time from Outlook.com by clicking the More Options icon and selecting the Remove option from the menu.</p>
+<p>You can also <a href="https://support.microsoft.com/en-us/office/import-calendars-into-outlook-8e8364e1-400e-4c0f-a573-fe76b5a2d379" target="_blank" rel="nofollow noopener noreferrer">add and import calendars into the Outlook desktop program</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Future events up to 366 days in the future, and past events within 30 days, are included when exporting a Canvas calendar to Outlook.com. The calendar feed includes up to 1,000 items.</li>
+<li>Outlook.com may take up to 24 hours to sync with the Canvas Calendar. Canvas updates may not be immediately visible in the Outlook.com calendar.</li>
+<li>If your institution/organization uses a Microsoft Exchange Server account, you can also subscribe to the calendar feed using the Outlook Web App in Exchange Server. This allows you to access your Outlook calendar online if you are away from your desktop. Please contact your IT administrator at your organization/institution for more information.</li>
+<li>For scheduler items, appointments must be viewed in the Canvas calendar for full appointment details.</li>
+<li>To Do items are not included in the Calendar iCal feed.</li>
+<li>After you import the calendar feed and you are enrolled in a new course, you must re-import the calendar feed to include the new course calendar.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-calendar" data-step-uuid="f3f3a652-7231-452d-997e-195e45f4baee">
+    <h2 id="open-calendar" class="step-title screensteps-heading">Open Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/881/678/original/89a67921-b930-44be-8be3-f9c44ceaed78.png" srcset="" alt="Open Calendar " height="605" width="95">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_653a1eed-67ec-4e9e-a2ff-e18ae3821543" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Calendar</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-calendar-feed" data-step-uuid="3c8db079-76f5-4747-9e8b-0bf6f31db1f6">
+    <h2 id="open-calendar-feed" class="step-title screensteps-heading">Open Calendar Feed</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/150/274/original/1a88e4de-e196-45c9-9d1f-7a00d71dec59.png" srcset="" alt="Open Calendar Feed" height="738" width="273">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fc629903-0099-4947-b524-0c5e2434b5a0" class="text-block-content">
+    <p>Click the <strong>Calendar Feed</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="copy-calendar-feed" data-step-uuid="65f8f005-fe48-4ad7-a214-a2dfd205b6bc">
+    <h2 id="copy-calendar-feed" class="step-title screensteps-heading">Copy Calendar Feed</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/211/907/original/0d1095fe-e180-4f09-a5ad-f48df938859f.png" srcset="" alt="Copy Calendar Feed" height="219" width="437">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a680a0f5-a276-4fa8-8be8-d069e36c4aeb" class="text-block-content">
+    <p>To copy the calendar feed link, copy the text in the URL field [1].</p>
+<p>To download the feed as an ICS file, click the <strong>Click to view Calendar Feed </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outlook-com-calendar" data-step-uuid="0b0ef41e-5ee7-4ee2-bad9-7a08f0aeac55">
+    <h2 id="open-outlook-com-calendar" class="step-title screensteps-heading">Open Outlook.com Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/150/279/original/d13317be-f6f2-4dec-b430-789f76e8989a.png" srcset="" alt="Open Outlook.com Calendar" height="526" width="289">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0f00d90b-664c-4184-9fad-e3fa875e7e68" class="text-block-content">
+    <p>Open Outlook.com. In the sidebar, click the <strong>Calendar</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-calendar" data-step-uuid="a96cecc5-5525-4557-bc81-91b66d75424a">
+    <h2 id="add-calendar" class="step-title screensteps-heading">Add Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/211/910/original/c6787e3a-1acd-41c0-a9bf-41af512ff666.png" srcset="" alt="Add Calendar" height="440" width="234">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cb3ee5ba-da4f-4251-b6a0-b7ed2210b2d3" class="text-block-content">
+    <p>In the sidebar, click the <strong>Add calendar</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="subscribe-to-calendar-from-web" data-step-uuid="8495df14-3b55-451e-8216-bc88939b253e">
+    <h2 id="subscribe-to-calendar-from-web" class="step-title screensteps-heading">Subscribe to Calendar from Web</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/285/929/original/02432f11-0b96-48c9-812b-6fe1c53ae3da.png" srcset="" alt="Subscribe to Calendar from Web" height="306" width="257">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0a4c66c2-45b1-4b3b-95bd-0d3f32765cc6" class="text-block-content">
+    <p>To subscribe to a calendar from the web, click the <strong>Subscribe from web</strong> link [1].</p>
+<p>To import a downloaded ICS file, click the <strong>Upload from file</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="paste-calendar-feed-link" data-step-uuid="264b34de-1d17-47f0-add1-14337907cc59">
+    <h2 id="paste-calendar-feed-link" class="step-title screensteps-heading">Paste Calendar Feed Link</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/150/285/original/9b94f475-5abf-435b-a2b0-6ee1f10851b8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/150/285/medium/9b94f475-5abf-435b-a2b0-6ee1f10851b8.png" srcset="" alt="Paste Calendar Feed Link" height="165" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8e4066ad-674b-4b6e-a353-cf36329203d4" class="text-block-content">
+    <p>Paste the calendar feed link from Canvas in the <strong>calendar url</strong> field.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-calendar" data-step-uuid="e10b573b-662f-4410-8b90-06e7e4443704">
+    <h2 id="import-calendar" class="step-title screensteps-heading">Import Calendar</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/150/287/original/9d0a0ea5-2e4f-44b3-8199-0766c948b20c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/150/287/medium/9d0a0ea5-2e4f-44b3-8199-0766c948b20c.png" srcset="" alt="Import Calendar" height="537" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16660345-15d9-4cb6-bf13-74c5f76a52ac" class="text-block-content">
+    <p>Customize your calendar subscription with a calendar name [1], calendar color [2], and calendar charm (icon) [3]. Select an option from the <strong>Add to</strong> drop-down menu [4]. </p>
+<p>To import the calendar, click the <strong>Import</strong> button [5].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

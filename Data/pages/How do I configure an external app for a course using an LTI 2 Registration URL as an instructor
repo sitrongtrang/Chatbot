@@ -1,0 +1,162 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_f9151f88-8f6a-4be3-abcb-12144554083e" class="text-block-content">
+    <p>Some similarity detection external apps can be configured using an LTI 2 registration URL. This lesson shows how to add an external tool using a URL provided by the external app provider. To learn more about configuring apps, visit the <a href="https://www.eduappcenter.com/docs/basics/index" target="_blank" rel="nofollow noopener noreferrer">Edu App Center</a>.</p>
+<p><strong>Note</strong>: Configuring external apps is a course permission. If you cannot configure an external app, your institution has restricted this feature.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="e0b05064-53a4-419c-919e-ac86cf4546d6">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/074/original/b859d8fe-7b1d-40d5-b4a3-9ebc505811d2.png" srcset="" alt="Open Settings" height="250" width="178">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0552585d-2390-4ad7-9d06-e69ff9062705" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-apps" data-step-uuid="ea0bf8e6-3030-4c8e-aff7-b210a2d9c847">
+    <h2 id="open-apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/620/908/original/a7aa13dd-bf20-433d-9bd9-6384581175a0.png" srcset="" alt="Open Apps" height="78" width="539">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_23679646-b7aa-4ee5-9f28-fa62283f0331" class="text-block-content">
+    <p>Click the <strong>Apps</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-app-configurations" data-step-uuid="18e8c051-371d-4a8c-863f-55389231f9a6">
+    <h2 id="view-app-configurations" class="step-title screensteps-heading">View App Configurations</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/620/914/original/f1281752-a6a4-4be7-8bd9-ce9577a71081.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/620/914/medium/f1281752-a6a4-4be7-8bd9-ce9577a71081.png" srcset="" alt="View App Configurations" height="182" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_aea46fe6-6f8f-479e-8880-f166b88005e3" class="text-block-content">
+    <p>To configure an app, click the <strong>View App Configurations</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-new-app" data-step-uuid="6ebc1421-f63b-4dc9-9d28-365a6c6b84a3">
+    <h2 id="add-new-app" class="step-title screensteps-heading">Add New App</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/620/904/original/163eae34-fa81-4665-b3e2-78e4b1c53f73.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/620/904/medium/163eae34-fa81-4665-b3e2-78e4b1c53f73.png" srcset="" alt="Add New App" height="182" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c089f22a-39e5-498e-aaf0-908d0079b1ae" class="text-block-content">
+    <p>Click the <strong>Add App</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-configuration-type" data-step-uuid="022f20be-0e20-415d-8a6f-8abd5ca5ce2f">
+    <h2 id="set-configuration-type" class="step-title screensteps-heading">Select Configuration Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/620/918/original/4af671b5-ab69-4477-a5b7-a4252cda83cc.png" srcset="" alt="Set Configuration Type" height="84" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5344c6af-6be5-4d80-a38d-1f1dc9c82cfe" class="text-block-content">
+    <p>Click the <strong>Configuration Type</strong> drop-down menu and select <strong>By LTI 2 Registration URL</strong>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-registration-url" data-step-uuid="01e4302a-fe06-45ca-8963-b95e6cddb458">
+    <h2 id="add-registration-url" class="step-title screensteps-heading">Add Registration URL</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/620/910/original/e5ebead8-94c7-4b7e-800c-81c83ced314e.png" srcset="" alt="Add Registration URL" height="103" width="694">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b1e767ee-28ac-46f6-a6da-2d12aad4ec0c" class="text-block-content">
+    <p>In the <strong>Registration URL</strong> field, enter the URL for the app.</p>
+<p>Apps are configured and recommended to be entered as secure links (HTTPS).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="launch-registration-tool" data-step-uuid="f69a6e18-5396-42c0-9e3b-633907fdddad">
+    <h2 id="launch-registration-tool" class="step-title screensteps-heading">Launch Registration Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/620/906/original/32e994ba-073d-4aae-99ea-4ca0b48eb50b.png" srcset="" alt="Launch Registration Tool" height="68" width="313">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09e1b5f6-a7a2-4f8c-b9e9-fdabc7783bc1" class="text-block-content">
+    <p>Click the <strong>Launch Registration Tool</strong> button.</p>
+<p><strong>Note</strong>: You may have to confirm settings or provide additional information in the Registration Tool.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="verify-app" data-step-uuid="21496de2-ef84-47fd-98b8-61b90a4b81e1">
+    <h3 id="verify-app" class="step-title screensteps-heading">Verify App</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/620/902/original/98f66d05-09b5-456a-99a3-9da3ff952b4c.png" srcset="" alt="Verify App" height="208" width="705">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fd22b92a-51f0-4498-96c1-c1e043582ed5" class="text-block-content">
+    <p>If the app has already been added in the course, Canvas verifies the you still want to install the app.</p>
+<p>To continue, click the <strong>Yes, Install Tool</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-app" data-step-uuid="d5085af3-3e02-467a-a265-24261ce9cd9f">
+    <h2 id="view-app" class="step-title screensteps-heading">View App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/481/476/original/82c5d817-7a87-4445-bef4-50710b84b024.png" srcset="" alt="View App" height="193" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9a9fd351-b08b-46c3-b338-ef19fee0987d" class="text-block-content">
+    <p>View the external app.</p>
+<p>To manage the app, click the <strong>Settings</strong> icon [1].  To edit the app, click the <strong>Edit</strong> link [2]. To <a href="/t5/Instructor-Guide/How-do-I-manage-external-app-placements-for-a-course/ta-p/469483" target="_blank">manage where the app displays in Canvas</a>, click the <strong>Placements</strong> link [3]. To delete the app, click the <strong>Delete</strong> link [4].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

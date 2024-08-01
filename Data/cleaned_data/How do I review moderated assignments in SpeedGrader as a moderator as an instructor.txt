@@ -1,0 +1,25 @@
+How do I review moderated assignments in SpeedGrader as a moderator as an instructor
+Open SpeedGrader
+Open SpeedGrader from the moderated assignment or from the Gradebook.
+Open Student Submission
+Use the student list to locate a student submission.
+Note: If the moderated assignment was set to hide student names, or student names were hidden in SpeedGrader settings, the student list displays all student names as anonymous. In anonymous grading, the student list order does not match the order in the Gradebook and is randomized for each assignment.
+View Submission
+View the student's submission in SpeedGrader and associated comments or annotations, if any, from all graders.
+The sidebar displays the student's grade and the name of the grader. If an assignment includes multiple graders, the displayed grade is the grade assigned by the most recent grader. 
+Note: Depending on the assignment configuration, grader names may be anonymous. If grader names cannot be viewed, names are replaced with Grader.
+View Grade Details
+To view grading details, click the Show Details link. The details information expands and shows how the grade has been determined.
+When a submission is graded by multiple graders, each grader's name or Grader number displays in the details along with the given grade. 
+Select Final Grade
+If you want to keep the selected grade as the final grade, no action is required.
+If you want to assign a custom grade for the student, click the Custom button and enter the new grade in the Grade text field.
+When the submission is graded by multiple graders, each grader's name and grade displays in the list. If you want to to select another grader's grade, click the button next to the grade you want to select.
+Notes: 
+Any annotations and rubrics that were not selected become inaccessible once the grade is released.
+Students can only view comments in the submission that is selected for the final grade; they cannot view comments from any other provisional grade reviews. If you want to include any comments from additional reviewers, you will have to copy the comments manually into the submission selected for the final grade.
+Select Rubric
+If the assignment has a rubric, you can select a rubric to use for the final assessment. To view and select a rubric, click the Select Rubric drop-down menu and select the name of the grader. To fill out the rubric with custom ratings, select the Custom option from the drop-down menu.
+If you disabled the Final grader can view other grader names option, grader names will not be visible in the Select Rubric drop-down menu.
+View Moderation Page
+When you are finished reviewing student submissions in SpeedGrader, grades are not recorded in the Gradebook until they are posted from the moderation page. To view the Moderation Page, click the SpeedGrader Settings icon and click the Moderation Page link.

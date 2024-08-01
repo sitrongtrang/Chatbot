@@ -1,0 +1,120 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_97A28890-2206-0135-3ED4-22000BC102FE" class="text-block-content">
+    <p>In a group set, you can automatically create groups for users to participate in. You can also <a href="/t5/Instructor-Guide/How-do-I-manually-create-groups-in-a-group-set/ta-p/700" target="_blank">manually create groups in a group set</a> or <a href="/t5/Instructor-Guide/How-do-I-import-groups-in-a-group-set/ta-p/417799" target="_blank">create groups by importing a CSV file</a>. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_people" data-step-uuid="9F9A704A-8D84-45B6-B992-E579ED0BC162">
+    <h2 id="open_people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/949/059/original/eb1454fa-32a3-49b4-898b-50c9530b663e.png" srcset="" alt="Open People" height="260" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97A2BAE0-2206-0135-3ED6-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the<strong> People</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_group_set" data-step-uuid="21FC4FB0-FAFD-4C41-A65A-15719C21C469">
+    <h2 id="add_group_set" class="step-title screensteps-heading">Add Group Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/381/498/original/56b3f327-bee0-4b2f-b58e-5b29cd6c6fb7.png" srcset="" alt="Add Group Set" height="65" width="155">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97A2EA30-2206-0135-3ED8-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Group Set</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_groups_automatically" data-step-uuid="B5132149-9277-4EB0-9C33-ECE25D5C9E14">
+    <h2 id="create_groups_automatically" class="step-title screensteps-heading">Create Group Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/638/830/original/bdb8f3ed-ead7-46dc-a51a-ddbf5ca90ed6.png" srcset="" alt="Create Group Set" height="772" width="559">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97A31990-2206-0135-3EDA-22000BC102FE" class="text-block-content">
+    <p>Name your new group by typing in the <strong>Group Set Name</strong> field [1]. </p>
+<p>To split students into a number of equal groups, select <strong>Split students by [number] of groups </strong>from the drop down menu [2]. To create groups with a certain number of students, select <strong>Split [number] of students</strong> <strong>per group </strong>from the drop down menu [3]. Then use the arrows or type the number of students per group in the dialog box [4].</p>
+<p>To require group members to be in the same section, click the <strong>Require group members to be in the same section </strong>checkbox [5].</p>
+<p><strong>Note: </strong>If you require group members to be the same section and split the number of students per group, groups may contain varying numbers of students.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-group-set" data-step-uuid="cd374041-e154-437a-ac11-f946d633ac1c">
+    <h2 id="save-group-set" class="step-title screensteps-heading">Save Group Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/712/242/original/37cef8f9-fdd7-4fbf-83a2-a9fbb008044b.png" srcset="" alt="Save Group Set" height="61" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97A34B80-2206-0135-3EDC-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+<p><strong>Note:</strong> Groups will be automatically named based on the group set name. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_groups" data-step-uuid="EE6139E3-16B3-4712-9970-E559DA9C39C9">
+    <h2 id="view_groups" class="step-title screensteps-heading">View Groups</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/381/500/original/98277aa5-1b6e-41cf-a9bb-cfcaa9edf9dc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/381/500/medium/98277aa5-1b6e-41cf-a9bb-cfcaa9edf9dc.png" srcset="" alt="View Groups" height="345" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97A37BF0-2206-0135-3EDE-22000BC102FE" class="text-block-content">
+    <p>The number of groups you created display in the group set [1]. Each group shows the number of students added to each group [2]. </p>
+<p>You can <a href="/t5/Instructor-Guide/How-do-I-move-a-student-into-a-different-group/ta-p/723" target="_blank">manually reassign</a> students to a different group if necessary.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_group" data-step-uuid="bb17c8b1-10a2-4cad-b8a4-0506ab46a213">
+    <h2 id="manage_group" class="step-title screensteps-heading">Manage Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/381/502/original/236b5def-f905-4d00-8f37-7e8c91e5e9b6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/381/502/medium/236b5def-f905-4d00-8f37-7e8c91e5e9b6.png" srcset="" alt="Manage Group" height="324" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97A3ACE0-2206-0135-3EE0-22000BC102FE" class="text-block-content">
+    <p>To manage a group, click the group <strong>Options </strong>menu [1]. To edit the name of the group, click the <strong>Edit</strong> link [3]. To delete the group, click the <strong>Delete </strong>link [4].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,367 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6FA4F8A0-22D4-0135-E046-22000B5A851D" class="text-block-content">
+    <p>As an instructor, you can manage the details in a Canvas course. The Course Settings page may allow you to manage the course identification details, course Dashboard image, Blueprint information (if any), file storage data, course grading scheme, course license, course visibility, course format, and other options available for the course.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="6B80FDE0-4A59-43C7-8EDE-2578CA39B73C">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/824/085/original/9b220acd-4c26-4ae5-846e-a449fffa7650.png" srcset="" alt="Open Settings" height="242" width="150">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FA65C80-22D4-0135-E048-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course_details" data-step-uuid="8D881E4E-E79B-48BD-AC0D-835E861CF554">
+    <h2 id="view_course_details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/577/606/original/10a72e53-d5c9-4d2d-92e0-c8632c3891fb.png" srcset="" alt="View Course Details" height="83" width="654">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FA80370-22D4-0135-E04A-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Course Details </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course_identification" data-step-uuid="c0c80e0f-9c09-451e-91ea-2a5beda02cd4">
+    <h2 id="view_course_identification" class="step-title screensteps-heading">View Course Identification</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/911/216/original/4dbe8682-fb87-4e73-b06b-450b02e485a3.png" srcset="" alt="View Course Identification" height="585" width="736">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FA97D50-22D4-0135-E04C-22000B5A851D" class="text-block-content">
+    <p>The first section of Course Details shows you an overview of your course, including the course name [1] and course code [2]. Depending on your institution, you may not be able to <a href="/t5/Instructor-Guide/How-do-I-change-a-course-name-and-course-code/ta-p/1234" target="_blank">change your course name and code</a>.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-set-a-time-zone-for-a-course/ta-p/1295" target="_blank">change your course time zone</a>, use the Time Zone drop-down menu [3]. </p>
+<p>If you can view SIS IDs, you can view the SIS ID for the course [4]. You can also view the assigned subaccount for the course [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-course-status" data-step-uuid="c8d20725-7c15-4adf-a397-1a0b38409e8b">
+    <h3 id="view-course-status" class="step-title screensteps-heading">View Course Status</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/911/218/original/46daecc7-3642-43d2-b5be-9d3b57541d93.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/911/218/medium/46daecc7-3642-43d2-b5be-9d3b57541d93.png" srcset="" alt="View Course Status" height="254" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47cbb3b1-799a-4429-9230-57a9ff2f4efd" class="text-block-content">
+    <p>If you have permission to publish or unpublish courses, you can manage your course status in the sidebar. To publish the course, click the <strong>Publish</strong> button [1]. To unpublish your course, click the <strong>Unpublish</strong> button [2].</p>
+<p>If you do not have permission to modify your course status or if your course has been published and includes grades, you cannot modify the course's published status [3]. </p>
+<p><a href="/t5/Instructor-Guide/How-do-I-publish-a-course/ta-p/1185" target="_blank">Learn more about publishing a course.</a> </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>You must publish a course before students can access it and its contents. Students cannot see unpublished courses and content.</li>
+<li>Publishing a course is a course permission. If you cannot publish your course, your institution has restricted this feature.</li>
+<li>If you are using a Free-for-Teacher account, you cannot publish a course until you have verified your email address.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_course_image" data-step-uuid="8a454fe2-4e3e-42f1-ad28-c649471f2843">
+    <h3 id="view_course_image" class="step-title screensteps-heading">View Course Image</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/633/203/original/ad06ad6b-bda9-4b6c-b704-22e7b54fe299.png" srcset="" alt="View Course Image" height="233" width="549">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FAAAB60-22D4-0135-E04E-22000B5A851D" class="text-block-content">
+    <p>If your institution allows you to add an image to a course card in the Dashboard, you can <a href="/t5/Instructor-Guide/How-do-I-add-an-image-to-a-course-card-in-the-Dashboard/ta-p/624" target="_blank">add or replace the course image</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_blueprint_course" data-step-uuid="6b6a46eb-c838-466f-bd74-818f77ca30e1">
+    <h3 id="view_blueprint_course" class="step-title screensteps-heading">View Blueprint Course</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/219/original/2a89888f-de19-4770-9844-431c4f83a816.png" srcset="" alt="View Blueprint Course" height="270" width="433">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8114f4e9-fbd0-4fe7-b736-f419d2e6fbbf" class="text-block-content">
+    <p>Your Course Details tab indicates whether the course has been enabled as a blueprint course and displays Yes or No [1]. </p>
+<p>If your course is associated with a blueprint course, your Course Details tab indicates the name of the blueprint course [2]. The course name also includes the course ID as a reference (e.g. courses/XXX). If you have been enrolled in the blueprint course as an instructor or TA, the name of the blueprint course will contain a link to access the blueprint course.</p>
+<p>Most commonly, your course will be associated with a blueprint course and you can only <a href="/t5/Instructor-Guide/How-do-I-manage-content-for-a-course-associated-with-a-blueprint/ta-p/1282" target="_blank">manage unlocked content in your course</a>. If your course is a blueprint course, you can <a href="/t5/Instructor-Guide/How-do-I-lock-course-objects-in-a-blueprint-course-as-an/ta-p/1278" target="_blank">lock and sync course content</a> to associated courses. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-course-dates" data-step-uuid="a7c6c2e1-51e3-473d-af85-2f2e86e20a5d">
+    <h2 id="view-course-dates" class="step-title screensteps-heading">View Course Dates</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/222/760/original/49bc848e-f5e7-4d4a-b721-9edd6b81054c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/222/760/medium/49bc848e-f5e7-4d4a-b721-9edd6b81054c.png" srcset="" alt="View Course Dates" height="309" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3f16b554-9288-42d8-94c4-f79e3db88b2f" class="text-block-content">
+    <p>Courses may be assigned to the Default Term or a specific term [1]. By default, your students will be able to participate in the course within the term dates [2]. </p>
+<p>If needed, you can allow students to participate within course dates [3] and set specific course<a href="/t5/Instructor-Guide/How-do-I-change-the-start-and-end-dates-for-a-course/ta-p/452354" target="_blank"> start and end dates</a> [4]. However, changing course dates may override term availability settings and placement in the Courses page and Dashboard. Please confirm term dates before adding course participation dates. </p>
+<p>You may also be able to <a href="/t5/Instructor-Guide/How-do-I-restrict-student-access-to-a-course-before-or-after-the/ta-p/1269" target="_blank">change student access settings</a> [5] to allow or restrict students from viewing your course before the start or end date.</p>
+<p><strong>Note: </strong>If a course participation end date is set to midnight, a warning message displays [6].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-quantitative-data-options" data-step-uuid="693baa7d-c890-4a70-ad4f-3ed87691ee2b">
+    <h2 id="view-quantitative-data-options" class="step-title screensteps-heading">View Quantitative Data Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/797/301/original/c12cad21-5069-4543-9070-8f2ad79a6c0c.png" srcset="" alt="View Quantitative Data Options" height="64" width="606">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1b2df065-a69b-490b-a4bd-796519b13d3d" class="text-block-content">
+    <p>If allowed by your admin, you can <a href="/t5/Instructor-Guide/How-do-I-restrict-the-viewing-of-quantitative-data-in-a-course/ta-p/580321" target="_blank">restrict the view of quantitative data</a>. When selected, this setting limits the view of course quantitative (numeric) grading data. Students and observers only see qualitative data, which includes letter grades and comments.</p>
+<p>Points are converted to a letter grade and points possible are hidden. All other grading information is visible.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If the course does not have a custom grading scheme, the Default Canvas Grading Scheme is used.</li>
+<li>When the setting is enabled, Admins, Instructors, and TAs can still see quantitative data.</li>
+<li>The setting is visible only if your admin enables the quantitative data restriction setting in the account.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="default-due-time" data-step-uuid="9865ddb0-7e3d-4cfb-9d26-13119ff5e0c3">
+    <h2 id="default-due-time" class="step-title screensteps-heading">Default Due Time</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/213/841/original/9e3f1b89-7f37-4c0c-bbfa-10824cf64a03.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/213/841/medium/9e3f1b89-7f37-4c0c-bbfa-10824cf64a03.png" srcset="" alt="Default Due Time" height="102" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d6cf5a4f-547c-42e6-9aaf-19c424a05520" class="text-block-content">
+    <p>You can set a default due time for all assignments in your course.</p>
+<p>Updating the default due time does not change existing assignments with set due times.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-course-language" data-step-uuid="370dd01d-1195-4b23-914e-c744bcbb1cf7">
+    <h2 id="view-course-language" class="step-title screensteps-heading">View Course Language</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/149/764/original/14d848c7-8a4f-4a98-8f04-903cb8998fc6.png" srcset="" alt="View Course Language" height="115" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1facc8cc-87e8-42ad-9598-4f781ecbb3f8" class="text-block-content">
+    <p>You can <a href="/t5/Instructor-Guide/How-do-I-change-the-language-preference-for-a-course/ta-p/1246" target="_blank">set a specific language for your course. </a>By default the language is set to Not set, English (US). Selecting a language for your course will override user language preferences and is only recommended for courses conducted in the selected language.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_file_storage" data-step-uuid="2496d6ff-35e3-4425-bd83-c33587cd8bc4">
+    <h2 id="view_file_storage" class="step-title screensteps-heading">View File Storage</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/377/original/e342394f-25d5-4808-b746-95cd2f7ddcda.png" srcset="" alt="View File Storage" height="50" width="245">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FAB8E80-22D4-0135-E050-22000B5A851D" class="text-block-content">
+    <p>You can view the storage file size allowed in your course. File storage consists of all files in course files and assignment submissions. Administrators at your institution set the file storage quota for each course.</p><p><strong>Notes:</strong></p><ul>
+<li>Canvas course imports count against course quotas. If a course import fails, verify the size of the file against your course file storage quota. If necessary, contact your Canvas admin to request a larger course quota.  </li>
+<li>Copied Canvas courses and course items do not count against course file storage quotas. You can <a href="/t5/Instructor-Guide/How-do-I-copy-a-Canvas-course-into-a-new-course-shell/ta-p/712" target="_blank">copy existing Canvas courses</a> and course items from the original course into your new course without impacting your course file storage quota.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-large-course-setting" data-step-uuid="8bba5199-07e2-423a-88e3-b84e9547eafb">
+    <h2 id="view-large-course-setting" class="step-title screensteps-heading">View Large Course Setting</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/778/070/original/905a9973-71b1-4d6f-b058-e9169eba19b5.png" srcset="" alt="View Large Course Setting" height="46" width="456">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9fec2fca-2dc2-477c-8b10-d9ffe7fd4561" class="text-block-content">
+    <p>You can <a href="/t5/Instructor-Guide/How-do-I-enable-SpeedGrader-to-launch-filtered-by-student-group/ta-p/947" target="_blank">enable the option to launch SpeedGrader filtered by student group</a> in your course. When this setting is enabled, you must choose a student group when opening SpeedGrader. This setting is disabled by default.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_grading_scheme" data-step-uuid="63FF1B1E-CF26-41F1-AC57-D86A888D8DDF">
+    <h2 id="view_grading_scheme" class="step-title screensteps-heading">View Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/367/original/6023d6f9-fff7-4af3-a37a-ec3bac11abbe.png" srcset="" alt="View Grading Scheme" height="45" width="348">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FAC8100-22D4-0135-E052-22000B5A851D" class="text-block-content">
+    <p>You can enable a <a href="/t5/Instructor-Guide/How-do-I-use-grading-schemes-in-a-course/ta-p/870" target="_blank">grading scheme</a> for your course. A grading scheme is a set of criteria that measures varying levels of achievement in a course. You can also view the current existing grading scheme, if any. This setting is disabled by default.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_license" data-step-uuid="014D2536-1CA7-4A17-951C-46F53B6A12BF">
+    <h2 id="view_license" class="step-title screensteps-heading">View License</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/832/470/original/42ae8bba-625a-461c-b0e4-fd000cdd24fd.png" srcset="" alt="View License" height="61" width="392">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FAD7FA0-22D4-0135-E054-22000B5A851D" class="text-block-content">
+    <p>You can view the license for your course. By default all content is considered private and copyrighted, but you can also release your content to the public domain or choose a Creative Commons license. When making your course public, you will most likely want to <a href="/t5/Instructor-Guide/How-do-I-set-a-Creative-Commons-license-for-a-course/ta-p/1059" target="_blank">set a license for your course</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-file-usage-rights" data-step-uuid="be95014d-a24f-4c32-bf9c-29f644c9e151">
+    <h2 id="view-file-usage-rights" class="step-title screensteps-heading">View File Usage Rights</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/944/606/original/2a6b4dd0-d222-485b-b4a0-294bff89e679.png" srcset="" alt="View File Usage Rights" height="42" width="739">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92952adf-477c-4b3d-8f7f-fe84434bd777" class="text-block-content">
+    <p>You can view the file copyright setting for your course. If this option is enabled, <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/796" target="_blank">usage right information must be selected</a> for all course files before they can be published. This setting is disabled by default.</p>
+<p><strong>Note:</strong> If the option to manage file usage rights cannot be changed, your institution has locked this setting.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_visibility" data-step-uuid="FC6AB91E-F020-4CF4-B6C5-A8CF1DA24055">
+    <h2 id="view_visibility" class="step-title screensteps-heading">View Visibility</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/141/754/original/e01e03c2-0a6a-48f6-973b-0e88acb149ad.png" srcset="" alt="View Visibility" height="167" width="486">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FAE4650-22D4-0135-E056-22000B5A851D" class="text-block-content">
+    <p>You can view any visibility settings for your course. Each visibility option is independent of the others. You can<span style="color:rgb(38,38,38);"> </span><a href="/t5/Instructor-Guide/How-do-I-customize-visibility-options-for-a-course/ta-p/844" target="_blank">customize course visibility</a>,<span style="color:rgb(38,38,38);"> </span><a href="/t5/Instructor-Guide/How-do-I-customize-visibility-options-for-course-content/ta-p/814" target="_blank">customize content visibility</a>,<span style="color:rgb(38,38,38);"> </span>and include the course in the<span style="color:rgb(38,38,38);"> </span><a href="/t5/Instructor-Guide/How-do-I-include-a-course-in-the-Public-Course-Index/ta-p/812" target="_blank">public course index</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_formats" data-step-uuid="b2c70f37-4e78-490d-9c4a-13194437fd8b">
+    <h2 id="view_formats" class="step-title screensteps-heading">View Formats</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/279/757/original/05ed9002-4fed-495f-97e4-19ddbfaf8929.png" srcset="" alt="View Formats" height="180" width="655">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FAFD010-22D4-0135-E058-22000B5A851D" class="text-block-content">
+    <p>You can <a href="/t5/Instructor-Guide/How-do-I-set-a-course-format/ta-p/1089" target="_blank">set the format for your course</a> in the Format menu [1]. This setting specifies the intended format of the course<span style="color:rgb(38,38,38);">. </span>To change the course format, click the format drop-down menu.</p>
+<p>If <a href="/t5/Admin-Guide/How-do-I-set-details-for-an-account/ta-p/194" target="_blank">Mastery Paths has been enabled by your institution</a>, you can enable Mastery Paths for your course [2]. <a href="/t5/Instructor-Guide/How-do-I-use-Mastery-Paths-in-course-modules/ta-p/906" target="_blank">Mastery Paths</a> allows you to customize learning experiences for students based on performance.</p>
+<p>You can also allow users to download your course for offline viewing using one of two options. </p>
+<ul>
+<li>If ePub Exporting is enabled in your course, you can view the <strong>ePub Export</strong> check box [3] and <a href="/t5/Instructor-Guide/How-do-I-change-the-format-of-a-course-ePub-export-file/ta-p/935" target="_blank">change the ePub format.</a>
+</li>
+<li>If your course displays an Offline Course check box [4], your institution has enabled course content to be viewed offline as an HTML file. By default, this check box will be selected. However, you can <a href="/t5/Instructor-Guide/How-do-I-allow-course-content-to-be-exported-as-an-offline-HTML/ta-p/893" target="_blank">manage offline course access</a> by deselecting the check box at any time.</li>
+</ul>
+<p><strong>Note: </strong>If Mastery Paths is locked at the account level, the setting cannot be managed at the course level.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_description" data-step-uuid="7f4153a8-262d-40eb-875a-19b7ed7c39fa">
+    <h2 id="view_description" class="step-title screensteps-heading">View Description</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/388/original/18c39533-7724-40cc-9e19-9c3d56e1d3f2.png" srcset="" alt="View Description" height="145" width="381">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FB13F10-22D4-0135-E05A-22000B5A851D" class="text-block-content">
+    <p>If your course is part of the public course index, you can include a description for your course in the description field.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_more_options" data-step-uuid="c5b7e94a-dad2-42ff-9492-2b041b909267">
+    <h2 id="view_more_options" class="step-title screensteps-heading">View Additional Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/374/251/original/78099502-910e-4076-ab55-8991bdd98088.png" srcset="" alt="View More Options" height="413" width="603">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6FB2E150-22D4-0135-E05C-22000B5A851D" class="text-block-content">
+    <p>You can grant additional course privileges for students by selecting the appropriate checkbox: </p>
+<ul>
+<li>Allow students to <a href="/t5/Instructor-Guide/How-do-I-enable-course-self-enrollment-with-a-join-code-or/ta-p/830" target="_blank">self-enroll</a> by clicking the <strong>Let students self-enroll by sharing with them a secret URL</strong> <strong>or code</strong> checkbox. Disabled by default.</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-show-recent-announcements-in-the-Course-Home-Page/ta-p/983" target="_blank">Show recent announcements</a> on the course home page by clicking the <strong>Show recent announcements on course home page </strong>checkbox. Disabled by default.</li>
+<li>Allow students to <a href="/t5/Instructor-Guide/How-do-I-allow-students-to-attach-files-to-a-course-discussion/ta-p/874" target="_blank">attach files to discussion replies</a> by clicking the <strong>Let students attach files to Discussions</strong> checkbox. Enabled by default.*</li>
+<li>Allow students to <a href="/t5/Instructor-Guide/How-do-I-allow-students-to-create-a-course-discussion/ta-p/996" target="_blank">create new discussion topics</a> by clicking the <strong>Let students create Discussion Topics</strong> checkbox. Enabled by default.*</li>
+<li>Allow students to <a href="/t5/Instructor-Guide/How-do-I-allow-students-to-edit-and-delete-their-own-discussion/ta-p/836" target="_blank">edit or delete their own discussion replies </a> by clicking the <strong>Let students edit or delete their own discussion replies</strong> checkbox. Enabled by default.*</li>
+<li>Allow students to <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-allow-students-to-create-their-own-student-groups/ta-p/1102" target="_blank">create their own student groups</a> by clicking the <strong>Let students organize their own groups</strong> checkbox. Enabled by default.</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-hide-totals-in-my-students-grade-summaries/ta-p/671" target="_blank">Hide student grade totals</a> in the grades page by clicking the <strong>Hide totals in student grades summary</strong> checkbox. Disabled by default.</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-hide-grade-distribution-scoring-details-from-students/ta-p/674" target="_blank">Hide the grade distribution graphs</a> in the grades page by clicking the <strong>Hide grade distribution graphs from students</strong> checkbox. Disabled by default.</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-disable-announcement-replies-for-an-entire-course/ta-p/904" target="_blank">Disable comments on announcements</a> by clicking the <strong>Disable comments on announcements </strong>checkbox.* (Depending on your institution's preference, this option may already be selected for you.)</li>
+<li>Allow students to edit course pages by default by selecting the <strong>Edit course pages</strong> drop-down menu.*</li>
+<li>If the Content Security Policy is enabled in an account, admins can disable the Content Security Policy for a course by clicking the <strong>Disable Content Security Policy </strong>checkbox. If the box is checked, the policy is disabled for this course.</li>
+</ul>
+<p> </p>
+<p>* These options can also be selected from the feature's index page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update-course-details" data-step-uuid="577651cc-766c-42f2-b51d-2af6d306882c">
+    <h2 id="update-course-details" class="step-title screensteps-heading">Update Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/401/801/original/48b55aa8-0f64-4aca-94f3-62fbbdd6b985.png" srcset="" alt="" height="70" width="213">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fde22c85-6e5a-4e40-b0fd-ebd6995cde6a" class="text-block-content">
+    <p>Click the <strong>Update Course Details</strong> button to save changes.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

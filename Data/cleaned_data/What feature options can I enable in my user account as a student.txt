@@ -1,0 +1,38 @@
+What feature options can I enable in my user account as a student
+Auto Show Closed Captions
+By default, this feature is set to Off. 
+The Auto Show Closed Captions feature setting allows you to enable captions added to videos by default for your Canvas account. 
+Note: Videos embedded from third-party tools, such as Youtube, are not supported. Additionally, embedded Canvas Studio videos are not yet supported. 
+Disable Alert Notification Timeouts
+By default this feature is set to Off.
+The Disable Alert Notification Timeouts feature setting prevents alert notification pop-ups from timing out. When this feature setting is enabled, alert notifications in Canvas display until you manually dismiss the alert.
+Disable Celebration Animations
+By default this feature is set to Off. 
+The Disable Celebration Animations setting allows you to turn off all celebration animations. The Celebration feature must be enabled by a Canvas admin at your institution. If this feature is not enabled, the Disable Celebration Animations setting will not display in your user Feature Settings. Learn how to manage confetti animations. 
+Disable Keyboard Shortcuts
+By default this feature is set to Off.
+The Disable Keyboard Shortcuts feature setting allows you to disable keyboard shortcuts in Modules, Discussions, the Gradebook, and SpeedGrader. Other areas of Canvas will be updated at a future date.
+This setting allows users who rely on screen readers or keyboard navigation to control their experience in Canvas with keyboard shortcuts.
+High Contrast UI
+By default this feature is set to Off.
+The High Contrast UI feature setting allows you to view Canvas using high contrast styles. This feature enhances the color contrast of the user interface (text, buttons, etc.) so they are more distinct and easier to identify in Canvas. However, institutional branding is not supported when this feature is enabled, so you will not be able to view the institution's logo or other elements.
+You can also enable High Contrast UI from your User Navigation Menu.
+Microsoft Immersive Reader
+By default this feature is set to Off.
+The Microsoft Immersive Reader enhances accessibility and comprehension for any reader. When enabled, the course home page, assignments, pages, and syllabus display an Immersive Reader button.
+Microsoft Immersive Reader is available for you to enable individually, regardless of the preference set at the account level. However, if the feature is on for the entire account, the account preference overrides your user preference, and your user setting has no effect.
+To learn more about this feature, see the Microsoft Immersive Reader website.
+Underline Links
+By default this feature is set to Off.
+The Underline Links feature setting allows you to view Canvas interface links as underlined text. When enabled, this feature underlines hyperlinks in navigation menus, the Dashboard, and page sidebars. This feature setting does not apply to user-generated content links in the Rich Content Editor, which always underlines links for all users.
+CSV Separator Preferences
+You can set how you want to view separators in CSV export files, depending on your locale or preference.
+Separator settings are managed through one of three feature settings in User Settings. These settings only apply to compatible spreadsheet exports. 
+Autodetect Field Separators in Compatible Spreadsheet Exports
+The Autodetect field separators feature settings attempts to determine the appropriate field separator as indicated by the language set in the user’s account. For languages where the decimal separator is a dot, (e.g. 1,234.56), autodetection will choose a comma as the field separator. For languages where the decimal separator is a comma, (e.g. 1.234,56), autodetection will choose a semicolon as the field separator. For all other cases, autodetection will choose a comma as the field separator as a default.
+Note: This feature is automatically disabled if the Use semicolons to separate fields setting is enabled.
+Include Byte-Order Mark in Compatible Spreadsheet Exports
+The Include Byte-Order Mark feature setting generates a specific set of three characters at the beginning of the CSV file. These characters, known as a byte-order mark, help some versions of Microsoft Excel understand that the CSV file is a UTF-8 encoded file. It also tells some localized versions of Excel that they should treat the incoming CSV file as if it were semicolon-separated by default. Because some versions of Excel do not understand or honor the byte-order mark, this feature allows all users to disable generation of this byte-order mark.
+Use Semicolons to Separate Fields in Compatible Spreadsheet Exports
+The Use semicolons to separate fields feature setting generates CSV files with semicolons as the field separators instead of the default comma. When disabled, this feature falls back to behavior determined by the state of the Autodetect field separators setting.
+Note: This feature is automatically disabled if the Autodetect Field Separators setting is enabled.

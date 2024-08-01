@@ -1,0 +1,129 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_5499E570-09A0-0135-1FEF-22000B5A851D" class="text-block-content">
+    <p>If your institution has configured an integration between their student information system (SIS ) and Canvas, your graded course items may be set to sync to your SIS gradebook by default. However, you can also you can set up a graded discussion to sync to your SIS gradebook from a discussion's details page. </p>
+<p>Graded discussions configured to sync to your SIS display a Sync to SIS icon in the <a href="/t5/Instructor-Guide/How-do-I-use-the-Assignments-Index-Page/ta-p/777" target="_blank">Assignment Index Page</a>. You can click the icon to turn SIS sync on or off for an individual discussion. </p>
+<p><strong>Note:</strong> You may be able to find guides specific to using your SIS in Canvas in the <a href="https://community.canvaslms.com/t5/Student-Information-Systems-SIS/ct-p/sis_guides" target="_blank">Instructure Community SIS Guides</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_discussions" data-step-uuid="c975f963-801a-4412-9aa3-f86d050224aa">
+    <h2 id="open_discussions" class="step-title screensteps-heading">Open Discussions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/762/812/original/bd73b93f-8038-4a22-bd48-d73a298db540.png" srcset="" alt="Open Discussions" height="258" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_549A1F50-09A0-0135-1FF1-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Discussions </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_discussion" data-step-uuid="ba38d562-ef34-442e-b100-d17905fb5070">
+    <h2 id="add_discussion" class="step-title screensteps-heading">Add Discussion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/237/122/original/e23ab0b7-a176-4765-8cce-dd07c04245a0.png" srcset="" alt="Add Discussion" height="65" width="846">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_549A5040-09A0-0135-1FF3-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Discussion </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_discussion" data-step-uuid="32791aa3-03a3-459d-be7d-9d534c312f05">
+    <h3 id="edit_discussion" class="step-title screensteps-heading">Edit Discussion</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/237/120/original/e2648e6f-a25b-4d1a-be53-26463decdeaa.png" srcset="" alt="Edit Discussion" height="458" width="846">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_549A84D0-09A0-0135-1FF5-22000B5A851D" class="text-block-content">
+    <p>To set up a graded discussion that has already been created, click the name of the discussion [1] and click the <strong>Edit </strong>button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_graded_discussion" data-step-uuid="5f6244ed-a3a3-4556-b912-1a5c6ab6bccd">
+    <h2 id="select_graded_discussion" class="step-title screensteps-heading">Select Graded Discussion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/339/original/eaa835cf-e5c3-4fda-b7b8-2b8b2e7bf858.png" srcset="" alt="Select Graded Discussion" height="189" width="409">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_549ABDC0-09A0-0135-1FF7-22000B5A851D" class="text-block-content">
+    <p>In the discussion details, check the <strong>Graded </strong>checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sync_to_sis" data-step-uuid="e8817ee2-eda4-4806-bf08-6a95d6bfde7f">
+    <h2 id="sync_to_sis" class="step-title screensteps-heading">Sync to SIS</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/341/original/a079f5e8-45e3-4a34-9911-1ac7240faffd.png" srcset="" alt="Sync to SIS" height="292" width="569">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_549AFBD0-09A0-0135-1FF9-22000B5A851D" class="text-block-content">
+    <p>Check the <strong>Sync to [SIS] </strong>checkbox. </p>
+<p>The [SIS] label may display the name of your institution's SIS.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_discussion" data-step-uuid="4d8399db-2146-4054-b375-02609ae15914">
+    <h2 id="save_discussion" class="step-title screensteps-heading">Save Discussion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/351/original/716663ba-ccf1-4587-949c-b3add368f5db.png" srcset="" alt="Save Discussion" height="69" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_549B32D0-09A0-0135-1FFB-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Note</strong>: For new discussions, you can click the <strong>Save &amp; Publish </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_discussion_errors" data-step-uuid="a12bb3ce-121d-408b-9741-9a5619b9bf6c">
+    <h3 id="view_discussion_errors" class="step-title screensteps-heading">View Discussion Errors</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/346/original/879c7d76-9f94-49fb-85b8-85b6f59f4371.png" srcset="" alt="View Discussion Errors" height="362" width="502">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4e0e0c96-ae56-4f17-9f7e-ed2313f6f0c1" class="text-block-content">
+    <p>If you cannot save your graded discussion and you receive an error message, your institution may limit assignment names and/or require due dates. The error will show which requirement needs to be resolved before the graded discussion can be enabled to be synced to your SIS. Correct the error then save the graded discussion again.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

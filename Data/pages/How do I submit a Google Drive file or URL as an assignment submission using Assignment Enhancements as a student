@@ -1,0 +1,180 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_63df0c19-edba-4491-8a5c-6a729def1ea0" class="text-block-content">
+    <p>If your institution has enabled Google Drive or Google Docs as a submission type and enabled Assignment Enhancements in your course, you can upload a file from Google Drive for an assignment. Unlike other assignment submissions, files from Google Drive are not uploaded into your Canvas user files.</p>
+<p>Canvas accepts Google Doc, Google Sheet, and Google Slide files. You can also upload any uploaded Word (.doc/.docx), Excel (.xls/.xlsx), PowerPoint (.ppt/.pptx), and PDF files not converted to Google Docs formatting.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If the assignment you are accessing displays differently, Assignment Enhancements may not be enabled in your course or your instructor may not have used a supported assignment type. Please view <a href="/t5/Student-Guide/How-do-I-upload-a-file-from-Google-Drive-as-an-assignment/ta-p/499" target="_blank">this guide</a> for more information.</li>
+<li>If the Google Apps submission type does not display, your instructor has not installed the app in your course. </li>
+<li>If your course displays a link to your Google Drive in the Course Navigation Menu, your course has enabled Google Drive directly. Otherwise, you must enable <a href="/t5/Student-Guide/How-do-I-connect-to-Google-Drive-as-a-web-service-in-Canvas-as-a/ta-p/395" target="_blank">Google Drive a web service</a> in your user profile to upload Google Drive files.</li>
+<li>In Google Drive assignments, you can only submit one file for your submission.</li>
+<li>When Google Drive files (docs, sheets, and slides) are uploaded as a submission, the files convert to their Microsoft counterpart file types and appear in the submission as respective Word, Excel, or PowerPoint files. This conversion essentially preserves the submission in its current state; any changes made to the file in Google Drive will not be updated in the submission.</li>
+<li>Assignment Enhancements does not support Cloud Assignments.</li>
+<li>Canvas does not support file uploads larger than 5 GB.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I submit a Google Drive file when Assignment Enhancements are enabled?" src="https://community.instructuremedia.com/embed/bbd54a6a-7a2c-4b39-871b-2bfc39d258e9" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-assignments" data-step-uuid="f88a620d-048e-4ad1-9c87-c99b7df5f7c8">
+    <h2 id="open-assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/360/714/original/a7e7f907-6592-4455-9f22-e4efea3222cf.png" srcset="" alt="Open Assignments" height="242" width="168">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2baeaafc-a81d-4b5d-9059-7d11e2042057" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link.</p>
+<p><strong>Note</strong>: You can also access your Assignments through your user or course dashboard, the Syllabus, Gradebook, Calendar, or Modules.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-course-assignments" data-step-uuid="fdc9df67-a97c-4409-8582-8575376c0375">
+    <h2 id="view-course-assignments" class="step-title screensteps-heading">Open Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/821/311/original/85903288-5519-49f6-a6bd-174ab217edfe.png" srcset="" alt="Open Assignment" height="209" width="708">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_29f2933b-75a0-4b29-82a3-27a109f17bec" class="text-block-content">
+    <p>Click the name of the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-submission-type" data-step-uuid="b6c6545d-a1db-48d8-9ba9-5954ee46aca9">
+    <h2 id="select-submission-type" class="step-title screensteps-heading">Select Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/819/519/original/35be1299-be85-4486-a392-e195dfb90745.png" srcset="" alt="Select Submission Type" height="172" width="710">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ef0f6301-6b64-4b5b-8f0c-5456b1780ed7" class="text-block-content">
+    <p>If your instructor allows multiple submission types for the assignment, accepted submission types display in the Choose a submission type section [1].</p>
+<p>You can add a Google Drive or Google Doc URL submission using the <strong>Web URL</strong> button [2]. </p>
+<p>Alternatively, if the Google Apps LTI has been added to your course, you can upload a Google Drive or Google Doc file using the <strong>More</strong> button [3]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="submit-website-url" data-step-uuid="07680109-a5ff-45ba-96d3-47b23bdc07c5">
+    <h3 id="submit-website-url" class="step-title screensteps-heading">Submit Google Drive URL</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/819/521/original/fc3ad0ce-d95a-4aca-bf52-34784d719bf1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/819/521/medium/fc3ad0ce-d95a-4aca-bf52-34784d719bf1.png" srcset="" alt="Submit Google Drive URL" height="259" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_096d6eee-6bb9-4ae4-a586-d2501adb691b" class="text-block-content">
+    <p>To add a Google Drive or Google Docs URL as your assignment submission, click the <strong>Web</strong> <strong>URL</strong> option in the Choose a submission type section [1]. </p>
+<p>Create a <a href="https://support.google.com/docs/answer/2494822" target="_blank" rel="nofollow noopener noreferrer">shareable URL for your Google Drive or Google Docs file</a>.</p>
+<p>Then, in Canvas, add the shareable website URL to the <strong>Enter Web URL</strong> field [2]. </p>
+<p>Once added, your website URL will be saved as an assignment submission draft. </p>
+<p>To preview your URL in a new browser tab, click the <strong>View</strong> icon [3]. </p>
+<p><strong>Note:</strong> If a shareable link is not created, your instructor will not have permission to view your file. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="submit-media-recording" data-step-uuid="e1e44d72-fda5-49a2-8bee-bbea7a248d21">
+    <h3 id="submit-media-recording" class="step-title screensteps-heading">Submit Google Drive File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/819/523/original/c91fd292-d01f-4bcc-a422-c8b8c01457a9.png" srcset="" alt="Submit Google Drive File" height="241" width="767">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_68dff9b1-d041-4ed2-9a6d-e55ec1a9e425" class="text-block-content">
+    <p>To upload a Google Drive or Google Docs file as your assignment submission, click the <strong>More</strong> option in the Choose a submission type section [1].</p>
+<p>Then click the <strong>Google Apps</strong> option [2]. </p>
+<p><strong>Note: </strong>If the Google Apps option does not display, your instructor has not installed the app in your course. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="select-file" data-step-uuid="6e0c717a-25db-4add-81f0-587149f45ff8">
+    <h4 id="select-file" class="step-title screensteps-heading">Select File</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/118/288/original/5bf66f75-8031-4fb1-8fc7-f668c91ee4bd.png" srcset="" alt="Select File" height="355" width="568">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8044580d-48f3-407d-9426-ae30520712f9" class="text-block-content">
+    <p>Select the appropriate Google Drive or Google Doc file [1]. </p>
+<p>To save your upload as a draft, click the <strong>Select</strong> button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit-assignment" data-step-uuid="d88546d8-57ae-4371-84d5-964f7a4dad9c">
+    <h2 id="submit-assignment" class="step-title screensteps-heading">Submit Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/349/547/original/7b00d66f-aa46-4dd9-939b-d0a24af9ae93.png" srcset="" alt="Submit Assignment" height="88" width="341">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91798dd9-d69d-4f19-bed8-c4cfec945ac9" class="text-block-content">
+    <p>To submit your your Google Drive file or URL as your assignment submission, click the <strong>Submit</strong> <strong>Assignment</strong> button [1]. </p>
+<p>If you are working on an additional assignment attempt, you can cancel your submission by clicking the <strong>Cancel Attempt</strong> button [2].  </p>
+<p><strong>Note: </strong>If you submit a website URL without creating a shareable link, your instructor will not have permission to view your file. Once a <a href="https://support.google.com/docs/answer/2494822" target="_blank" rel="nofollow noopener noreferrer">shareable link</a> is created, your instructor will have access to the submitted URL. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-submission" data-step-uuid="9ef83423-1df6-497d-8c67-7905e6a52cb3">
+    <h2 id="view-submission" class="step-title screensteps-heading">View Submission</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/650/366/original/9efa911b-07cc-4230-8762-05c05b18612a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/650/366/medium/9efa911b-07cc-4230-8762-05c05b18612a.png" srcset="" alt="View Submission" height="587" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_18c28480-bde9-4950-bc47-f4c10932e877" class="text-block-content">
+    <p>When your submission is successfully submitted, the Progress Tracker displays a Submitted status [1] and your most recent submission displays [2].</p>
+<p>If you choose, you may resubmit another version of your assignment by clicking the <strong>New Attempt</strong> button [3].</p>
+<p>If you've submitted multiple assignment submissions, you can view previous submissions by clicking the <strong>Attempt</strong> drop-down [4].</p>
+<p>To add an assignment comment for your instructor, click the <strong>Add Comment </strong>button [5].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you're not able to resubmit work, your instructor may have limited the number of allowed submissions or the assignment may no longer be accepting submissions due to the assignment's availability dates.</li>
+<li>Once you've submitted your work, the assignment will still display in the Assignments page and the Syllabus.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

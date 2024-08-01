@@ -1,0 +1,20 @@
+How do I manage API access tokens as an admin
+Open User Settings
+In Global Navigation, click the Account link, then click the Settings link. 
+View Access Tokens
+Third-party applications with access tokens and user-generated access tokens are listed in the Approved Integrations section. 
+For each access token, you can view the name, purpose, expiration date, and date of last use.
+Add Access Token
+To add an access token, click the Add New Access Token button.
+Add Token Details
+Enter a description for your access token in the Purpose field. You can also select an expiration date by clicking the Calendar icon. To generate a token with no expiration, leave the Expires field empty.
+To generate a new access token, click the Generate Token button.
+View Access Token
+View the token description. To view details for the token, click the details link.
+View Token Details
+The access token details include a token that can be used to make API calls on your behalf.
+To regenerate an access token, click the Regenerate Token button.
+Delete Access Token
+To delete an access token, click the Delete icon.
+Confirm Deletion
+To confirm the deletion, click the OK button.

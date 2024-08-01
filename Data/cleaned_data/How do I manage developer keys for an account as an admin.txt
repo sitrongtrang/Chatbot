@@ -1,0 +1,28 @@
+How do I manage developer keys for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Developer Keys
+In Account Navigation, click the Developer Keys link.
+View Developer Keys
+The Developer Keys page defaults to the Account tab, where you can view the developer keys for your account. The account page displays the All filter, which displays all account developer keys. You can also select between viewing All , LTI keys, and API keys.
+To search for an account key, enter a name, email or ID in the Search by name, email or ID field.
+ Each key shows the name, owner's email, details, stats, type, and state.
+If a key has been configured as an LTI key, the Type column will display the External Tool icon.
+View Inherited Keys
+To view inherited keys associated with your account, click the Inherited tab. 
+By default, the inherited page displays the All filter, which displays all inherited developer keys. You can also select between viewing All, LTI keys, and API keys.
+To search for an inherited key, enter name or ID in the Search by name or ID field.
+Inherited keys are keys created and managed at a global level by Canvas. You can manage the state of inherited keys for your account. However, if a key is grayed out, it has been enabled globally and cannot be modified on a specific account level. 
+Note: For search results to display, you must enter at least three characters in the search field.
+Manage Developer Keys
+To deactivate a key, click the toggle button to the Off position. To edit a key, click the Edit icon. To delete the key, click the Delete icon.
+View Confirmation Message
+When changes are made to a developer key, a confirmation message displays. To confirm the changes, click the OK button. To cancel the changes, click the Cancel button.
+View Deactivated Keys
+When a key is deactivated, the key is inactive. Deactivated keys are indicated by the Off toggle button. To reactivate an inactive key, click the toggle button to the On position.
+Add Developer Key
+To add a developer key, click the Add Developer Key button.
+Edit LTI Key
+To edit an LTI key, click the Edit icon.
+Update Redirect URI
+To update the Redirect URIs field after changing the JSON for an LTI key, click the Sync URIs button. If the Redirect URIs field is empty, it auto-populates from the pasted JSON. 

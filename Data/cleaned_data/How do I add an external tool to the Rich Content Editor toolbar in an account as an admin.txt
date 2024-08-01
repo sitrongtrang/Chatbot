@@ -1,0 +1,14 @@
+How do I add an external tool to the Rich Content Editor toolbar in an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link.
+Open Apps
+Click the Apps tab.
+View App Configurations
+Click the View App Configurations button.
+Add Tool to RCE Toolbar
+Find the external tool you want to add and click its associated toggle. The toggle will only display for external tools that support placement in the Rich Content Editor.
+The Rich Content Editor only supports up to two external tool icons in the toolbar. If two tools have been selected, all other toggles will lock and cannot be enabled.
+View Rich Content Editor
+Selected tool icons will display next to the Apps icon in the Rich Content Editor toolbar for all users in your account.Note: If an external tool is configured using an LTI key and did not include an icon in the Editor Button placement, the app's icon displays with the first initial of the tool's name in the Rich Content Editor.

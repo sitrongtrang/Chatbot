@@ -1,0 +1,300 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_17622130-036A-0135-9E69-22000B5A851D" class="text-block-content">
+    <p>You may have already added user enrollments to your course in the <a href="/t5/Instructor-Guide/How-do-I-use-the-Course-Setup-Checklist/ta-p/1139" target="_blank">Course Setup Checklist</a>. However, you can invite users to join your course at any time if the Add People button is available in the People page.</p>
+<p>If your institution uses SIS Imports, you do not need to add any users who are part of your institution's records for the course. They will be added to the course by your admin. </p>
+<p><strong>Course Invitations</strong></p>
+<p>When an enrollment is manually added to the course, Canvas generates a course invitation once the course is published. The user must accept the course invitation to participate in the course. Until the user accepts the course invitation, the user's status will display as pending. Note that when a user receives an enrollment invitation for a custom role, the invitation displays the name of the base role.</p>
+<p>In Canvas accounts, admins can allow Open Registration, which allows you to add users to a course even if the users do not yet have a Canvas account. The user will create an account as part of accepting the course invitation. However, if Open Registration is not enabled, you can only add users to your course who already have an account in Canvas.</p>
+<p>If your institution is part of a trust account, searching for a user may display a search result associated with another institution. Trust accounts allow users to be added with the same credentials across multiple institutions.</p>
+<p>Users are not sent a course invitation until the course start date. (The start date is commonly the term date, unless the term is being overridden by a specific course or section date in Course Settings.) Additionally, courses must be published for students to receive course invitations. </p>
+<p>Users invited to a course in an Observer role do not receive course invitations if they already have a Canvas account. Observer enrollments without a Canvas account must create an account before they can log in to the course.</p>
+<p><strong>User Roles</strong></p>
+<p>When manually adding users to a course, you can add a user into any available role, including custom roles as created by your admin. If you are not sure about what permissions are allowed for a specific role in your institution, please contact your Canvas admin. </p>
+<p>Standard roles include Teaching Assistants (TAs), Observers, and Designers: </p>
+<ul>
+<li>TAs provide course support and have some or all of the same permissions granted to instructors.</li>
+<li>Observers can be linked to a student and view student progress in the course. Observers can include parents, guardians, and/or mentors.</li>
+<li>Designers can add other users to the course, access course content, create discussions, announcements, assignments, quizzes, and other content filled features. This role is appropriate for instructional designers, instructional coaches, or program managers who work with instructors to design their courses.</li>
+</ul>
+<p><strong>Multiple Sections</strong></p>
+<p>If you want to add the same person to different sections, you can enroll them in one section and then <a href="/t5/Instructor-Guide/How-do-I-edit-sections-for-an-enrollment-in-a-course/ta-p/895" target="_blank">add them to additional sections later</a>. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Course invitations are not sent until the course is published.</li>
+<li>Enrollments may be added by your institution's student information system (SIS). If an enrollment includes an SIS ID, you cannot add an enrollment to the course. </li>
+<li>Adding users through the Add People button is a course permission. If you cannot add a user to your course, your institution has restricted this feature.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_people" data-step-uuid="1c062fe8-382b-4091-829d-6e62b5af7676">
+    <h2 id="open_people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/089/original/3f9a885b-2b00-4503-b1ca-8037e3306ad3.png" srcset="" alt="Open People" height="239" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17625FD0-036A-0135-9E6B-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_people" data-step-uuid="6ad2033a-d5c5-41bc-84f8-16643d90e740">
+    <h2 id="add_people" class="step-title screensteps-heading">Add People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/706/original/b1310864-e608-4930-811a-a238c79cee7a.png" srcset="" alt="Add People" height="67" width="124">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1762B3D0-036A-0135-9E6D-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add People </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_user_search" data-step-uuid="09867439-e8ea-488f-b673-32121aa0ccc1">
+    <h2 id="select_user_search" class="step-title screensteps-heading">Select User Search</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/229/557/original/03fa54f4-aae0-439f-9bf1-f220afa2bc02.png" srcset="" alt="Select User Search" height="374" width="790">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1762CF00-036A-0135-9E6E-22000B5A851D" class="text-block-content">
+    <p>To add a user, you can search for users with up to one of three options: email address, login ID, or SIS ID. </p>
+<p>To select a search option, click the radio button for your preferred search method. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If you are copying and pasting user information from a spreadsheet, you do not have to filter out information that does not apply to your search option. For instance, if you copy in a line with an email address and login ID and select the login ID search option, Canvas will disregard the email address and only search for users with the entered login ID. </li>
+<li>To add multiple users, separate user information using a comma or a line break.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="search_by_email" data-step-uuid="bf2f6ca2-6284-4be5-ac9e-6934c0dcfe1d">
+    <h3 id="search_by_email" class="step-title screensteps-heading">Search by Email</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/804/890/original/777a96bf-d9a9-438e-a9b5-78d4748d9967.png" srcset="" alt="Search by Email" height="374" width="790">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_176305C0-036A-0135-9E70-22000B5A851D" class="text-block-content">
+    <p>By default, the search field is set to search by email address [1]. In the text field [2], enter the email address for the user. You can copy and paste multiple users at one time, such as from a comma separated value (CSV) file, by placing a comma or line break between users.</p>
+<p>When searching by <strong>email address</strong>, the user's institution-assigned email address should be used whenever possible. For the majority of institutions, each user should have an email address associated with the user's account and may be the same as the user's login ID.</p>
+<p>Instructors can add users through one of several formats, which also support user names: </p>
+<ul>
+<li>"A User" buser@example.com</li>
+<li>buser@example.com B User</li>
+<li>"User, C" cuser@example.com </li>
+</ul>
+<p>Email addresses can be enclosed by less than ( &lt; ) or greater than ( &gt; ) symbols, although it is not required.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="search_by_login_id" data-step-uuid="c53f9051-4a1d-4489-8fde-ff9611573010">
+    <h3 id="search_by_login_id" class="step-title screensteps-heading">Search by Login ID</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/804/892/original/73e69139-591a-4c8a-bea9-9c6b41733313.png" srcset="" alt="Search by Login ID" height="373" width="766">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17633DB0-036A-0135-9E72-22000B5A851D" class="text-block-content">
+    <p>To add a user by login ID, click the <strong>Login ID</strong> radio button [1].</p>
+<p>In the text field [2], enter the login ID for the user. You can copy and paste multiple login IDs at one time by placing a comma or line break between login IDs. </p>
+<p>When searching by <strong>login ID</strong>, you should use the login ID format found in the Canvas login page for your institution (e.g. username, student ID, etc.). The example format in the login ID field may differ from the format used in your institution. If you are not sure how to format users for your institution in the text field, please contact your Canvas admin.</p>
+<p>Login IDs do not support entries that include a user's name; any entered content in the Login ID search field will be included as the search content. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="search_by_sis_id" data-step-uuid="8bdeb56c-4308-4453-a940-c515019b7c0e">
+    <h3 id="search_by_sis_id" class="step-title screensteps-heading">Search by SIS ID</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/804/894/original/1f6e37f6-abd3-474e-b1e8-aaea0b57d047.png" srcset="" alt="Search by SIS ID" height="374" width="798">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17637630-036A-0135-9E74-22000B5A851D" class="text-block-content">
+    <p>If your institution allows you to view SIS IDs in your course, you can also search for users by SIS ID. </p>
+<p>To search for users by SIS ID, click the <strong>SIS ID</strong> radio button [1]. In the text field [2], enter the SIS ID for the user. You can copy and paste multiple SIS IDs at one time by placing a comma or line break between SIS IDs. </p>
+<p>SIS IDs do not support entries that include a user's name; any entered content in the SIS ID search field will be included as the search content. </p>
+<p><strong>Note:</strong> The SIS ID button only displays for users with SIS permissions.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_user_details" data-step-uuid="ea20dd3e-b02e-47ac-be04-701676719f1f">
+    <h2 id="select_user_details" class="step-title screensteps-heading">Select User Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/804/896/original/9984ad02-631b-47fa-a332-20bc3d35e5d0.png" srcset="" alt="Enter User Information" height="328" width="767">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1763AB70-036A-0135-9E76-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Role</strong> drop-down menu [1], assign the user(s) a role for the course based on available course roles.</p>
+<p>In the <strong>Section</strong> drop-down menu [2], assign the user(s) a section in the course.</p>
+<p>If you want to limit the user(s) to <a href="/t5/Instructor-Guide/How-do-I-limit-a-user-to-only-interact-with-other-users-in-the/ta-p/1211" target="_blank">only interact with other users</a> in their section, click the <strong>Can interact with users in their section only </strong>checkbox [3].</p>
+<p>Click the <strong>Next </strong>button [4].</p>
+<p><strong>Note:</strong> If you are adding multiple users at the same time, all users inherit the same role and section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_existing_users" data-step-uuid="51ae4713-09e5-4228-b6b1-68a369a66435">
+    <h2 id="add_existing_users" class="step-title screensteps-heading">Add Existing Users</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/923/229/original/5cff6ce2-c0b8-4db8-8d17-fc67d1fc0d8a.png" srcset="" alt="Add Existing Users" height="340" width="806">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1763DF70-036A-0135-9E78-22000B5A851D" class="text-block-content">
+    <p>If Canvas finds an existing user, you can confirm the user before adding the user to the course [1]. </p>
+<p>The user's name displays in the page along with the user's information you used in the user search. Although Canvas may display additional search columns, existing information in a user's account will not be displayed.</p>
+<p>When you are ready, click the <strong>Add Users </strong>button [2]. </p>
+<p>If Canvas did not find your intended user, you can click the <strong>Start Over </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_search_results" data-step-uuid="2fdd2430-ea1f-4af1-8aa4-ac07cc6f0ae1">
+    <h2 id="view_search_results" class="step-title screensteps-heading">View Search Results</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/923/230/original/bd01ca87-7af0-4d35-baf0-d9f063c2e034.png" srcset="" alt="View Matches without Adding" height="367" width="801">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17641440-036A-0135-9E7A-22000B5A851D" class="text-block-content">
+    <p>If Open Registration is disabled for your institution and Canvas is not able to find a match for the user(s), Canvas will notify you that a match was not found. </p>
+<p>To try a new search, click the <strong>Back </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_new_user" data-step-uuid="6c94dcf3-0023-4310-81ca-6994583b5a49">
+    <h2 id="add_new_user" class="step-title screensteps-heading">Add New User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/923/227/original/5c17b37c-a7ae-49df-b03e-49e6037084fe.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/923/227/medium/5c17b37c-a7ae-49df-b03e-49e6037084fe.png" srcset="" alt="Add New User" height="493" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17644C60-036A-0135-9E7C-22000B5A851D" class="text-block-content">
+    <p>If Open Registration is enabled for your institution and Canvas is not able to find a match for the user(s), you can choose to add the user(s) to your course.</p>
+<p>Canvas may ask you if you want to create a new user account if the user does not have a username in the course's account, the user's email address is linked to another user within the account, or the institution does not use delegated authentication. </p>
+<p>To add all users in the search results, click the <strong>Select All</strong> checkbox [1]. To add an individual user, click the checkbox next to the user's name [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_via_email_address" data-step-uuid="09c2b932-2869-4269-8a63-62064bd0e950">
+    <h3 id="add_via_email_address" class="step-title screensteps-heading">Add via Email Address</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/923/228/original/cf31af85-5e69-4c34-ae69-7a1cc02dcbd7.png" srcset="" alt="Add via Email Address" height="551" width="803">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17648280-036A-0135-9E7E-22000B5A851D" class="text-block-content">
+    <p>If you searched for users in a format that includes a user’s name, any selected users will automatically include the users' names in the enrollment list [1]. You can make adjustments to the user name, if necessary.</p>
+<p>If the user’s name was not included, you can choose to add a name to associate with the user’s email address [2]. Otherwise, Canvas will use the user’s email address as the user’s name.</p>
+<p>Click the <strong>Next </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-unverified-email-message" data-step-uuid="54218693-1937-418a-8298-97d3be0666cd">
+    <h3 id="view-unverified-email-message" class="step-title screensteps-heading">View Unverified Email Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/688/765/original/9fe67e1c-dee7-4479-8911-7a66e800bb3b.png" srcset="" alt="View Unverified Email Message" height="316" width="764">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0540484c-d78e-4ab2-9112-de90abada973" class="text-block-content">
+    <p>If you add a user via email and their email address has not been verified, you may see an error message. If you are unable to add a user with an unverified email to your course, you must wait for the user to verify their email address, or add the user by either SIS ID or Login ID.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_via_login_or_sis_id" data-step-uuid="1d3e23c5-d500-4705-a6c9-ac0e6a2174e1">
+    <h3 id="add_via_login_or_sis_id" class="step-title screensteps-heading">Add via Login or SIS ID</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/695/original/2233b932-5cff-4541-baa4-b037d206c142.png" srcset="" alt="Add via Login or SIS ID" height="259" width="790">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1764CA80-036A-0135-9E80-22000B5A851D" class="text-block-content">
+    <p>If you want to add a user via a login or SIS ID, you can choose to add a name to associate with the user [1]. You are also required to include an email address for the user [2]. </p>
+<p>If no user name is entered, Canvas will use the user’s email address as the user’s name.</p>
+<p>Once you have entered an email address, you can click the <strong>Next </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_users" data-step-uuid="2bfb2117-129b-4baf-90f1-a360eb5cf449">
+    <h3 id="add_users" class="step-title screensteps-heading">Add Users</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/708/original/3b9f3557-f275-421f-ae0d-95aa14bbff55.png" srcset="" alt="Add Users" height="312" width="797">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17650410-036A-0135-9E82-22000B5A851D" class="text-block-content">
+    <p>Confirm the users you are adding to the course via your selected search method. Click the <strong>Add Users </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_pending_enrollment" data-step-uuid="09131966-89f7-4eab-9096-cff0e8f748cb">
+    <h2 id="view_pending_enrollment" class="step-title screensteps-heading">View Pending Enrollment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/702/original/84557082-5497-4207-9ede-e02bd49fa098.png" srcset="" alt="View Pending Enrollment" height="62" width="787">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17656330-036A-0135-9E84-22000B5A851D" class="text-block-content">
+    <p>Until the user accepts the course invitation, the user's status will display as pending. Note that observer invitations will only show as pending if the invited observer does not already have a Canvas account. </p>
+<p>If you added a user without a Canvas account, the user can create an account as part of the course invitation process.</p>
+<p>Once the user has accepted the course invitation, you can interact with the user in the course. You can also send messages to the user via Conversations.</p>
+<p>If necessary, you may be able to <a href="/t5/Instructor-Guide/How-do-I-edit-user-roles-in-a-course/ta-p/748" target="_blank">edit a user's role</a> in Canvas. </p>
+<p><strong>Note</strong>: It could take up to 24 hours for users to receive their invitations. Canvas will not consider the user to be enrolled—and won't recognize the user anywhere in Canvas—until the invitation has been accepted. If necessary, you can <a href="/t5/Instructor-Guide/How-do-I-resend-student-invitations-to-a-course/ta-p/1219" target="_blank">resend course invitations</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

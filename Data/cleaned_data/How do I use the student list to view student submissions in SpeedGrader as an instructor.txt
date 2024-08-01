@@ -1,0 +1,21 @@
+How do I use the student list to view student submissions in SpeedGrader as an instructor
+Open SpeedGrader
+Open SpeedGrader from any assignment, graded discussion, or quiz.
+Open Student List
+ To open the list of students, click the drop-down menu.
+View Student List
+SpeedGrader opens the assignment for the first student listed in the student list, arranged alphabetically by last name. However, you can choose to sort the student list by student name, submission date, or submission status.
+When you view a submission, the student which student submission you are viewing in the student list compared to the total number of students. 
+View Sections
+If your course includes more than one section, students are displayed according to the section shown in the Gradebook. By default, the Gradebook shows all sections, though you can select a specific section to view. 
+Viewing an assignment by section only displays submissions for that section and decreases the overall loading time for the assignment's data. When an assignment is opened in SpeedGrader, all values for that assignment are loaded and saved in the browser, including student submission data, any grades (including original grades for resubmitted assignments), rubrics, and comments. To improve performance, assignments in large courses should always be viewed by section.
+Notes: 
+Viewing by section is only available to instructors; admins cannot filter assignments by section.
+Viewing by section is only available for group assignments if you assign grades to student individually.
+When a section filter is applied in SpeedGrader, the same section filter also displays in the Gradebook.
+View Assignment Indicators
+For easy identification, each student is identified with an assignment submission status next to his or her name:
+A green checkmark indicates the assignment has been graded
+An orange dot indicates the assignment has not been graded or has been re-submitted
+No checkmark and a grayed out name indicates the assignment has not been submitted
+A gray checkmark indicates the assignment is moderated and has already been graded by another grader

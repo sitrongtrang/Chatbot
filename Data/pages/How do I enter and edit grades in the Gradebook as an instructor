@@ -1,0 +1,255 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2408DA70-AAE2-0135-17FA-06467EE270FA" class="text-block-content">
+    <p>Most likely you will <a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-the-Gradebook/ta-p/925" target="_blank">access SpeedGrader</a> to enter grades. The grades will appear in the Gradebook when you are done. However, you can manually enter and edit grades in the Gradebook. </p>
+<p>Assignments in the Gradebook are always shown with the assignment's point value. However, you can change the assignment to <a href="/t5/Instructor-Guide/How-do-I-enter-grades-for-an-individual-assignment-as-a-specific/ta-p/1007" target="_blank">display grades for a specific grading type.</a></p>
+<p>You can also use a CSV file to <a href="/t5/Instructor-Guide/How-do-I-import-grades-in-the-Gradebook/ta-p/807" target="_blank">import grades</a>. </p>
+<p>When an assignment score is entered as a letter grade in the Gradebook, the percentage score for the assignment is the upper limit of the range assigned to that letter grade in the grading scheme. If a final grade override is entered as a letter grade, the percentage score for the assignment is the lower limit of the range assigned to that letter grade in the grading scheme. </p>
+<p>For example, your course grading scheme may designate a range of 86% to 89% for a B+ letter grade. Entering a B+ for an assignment would assign a percentage of 89% but entering a B+ for a final grade override would assign a percentage of 86%. To ensure students receive a specific percentage for an assignment or final grade, enter the assignment score or grade override as a percentage.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>When using differentiated assignments, the assignment appears as a column for all students, but grade cells are grayed out for students who are not part of the assignment or an assigned section. Grades cannot be assigned to students who are not part of the assignment or section; those assignments are not factored into overall grades.</li>
+<li>If you unassign a student or section to a differentiated assignment you have previously graded, the grade and submission are removed from the assignment. You can restore the submission by reassigning the assignment to the student. </li>
+<li>When Multiple Grading Periods are enabled in a course, you cannot edit grades for any assignment that has at least one student in a closed grading period.</li>
+<li>Depending on <a href="https://canvas.screenstepslive.com/admin/v2/internal_links/780619?type=article&amp;site_id=2204" target="_blank" rel="nofollow noopener noreferrer">quiz assignment details</a>, quizzes worth zero points may not display in the Gradebook. </li>
+<li>The <a href="/t5/Instructor-Guide/How-do-I-view-the-history-of-all-grading-changes-in-the/ta-p/783" target="_blank">Gradebook History page</a> records all grade changes in the Gradebook and can be accessed at any time.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="2408EBE0-AAE2-0135-17FB-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/040/original/c848a721-2e14-4088-88f2-01a7007c1cf8.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24091420-AAE2-0135-17FD-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="locate_student_score" data-step-uuid="240927C0-AAE2-0135-17FE-06467EE270FA">
+    <h2 id="locate_student_score" class="step-title screensteps-heading">Locate Student Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/245/705/original/16b70b75-f13d-4a30-b86f-f2a1ebad0313.png" srcset="" alt="Locate Student Assignment" height="352" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24094D60-AAE2-0135-1800-06467EE270FA" class="text-block-content">
+    <p>Locate the student name and assignment where you want to enter a grade.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_new_score" data-step-uuid="240960F0-AAE2-0135-1801-06467EE270FA">
+    <h2 id="enter_new_score" class="step-title screensteps-heading">Enter Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/551/original/88181db6-4bf7-42ef-8d32-19542a15c6c6.png" srcset="" alt="Enter Grade" height="352" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24098A00-AAE2-0135-1803-06467EE270FA" class="text-block-content">
+    <p>Grades are entered according to the assignment's Display Grade setting. Grades can be entered as one of five options: points, complete/incomplete, letter grade, percentage, and GPA. You can change the assignment to <a href="/t5/Instructor-Guide/How-do-I-enter-grades-for-an-individual-assignment-as-a-specific/ta-p/1007" target="_blank">display grades for a specific grading type.</a></p>
+<p><strong>Note</strong>: When you reach the end of a column, pressing the Return or Enter key advances to the top of the next column.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-points-grade" data-step-uuid="2409A1C0-AAE2-0135-1804-06467EE270FA">
+    <h2 id="enter-points-grade" class="step-title screensteps-heading">Enter Points Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/547/original/84b2648e-b404-433e-bc3c-ab7df86d6e24.png" srcset="" alt="Enter Points Grade" height="352" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2409CE30-AAE2-0135-1806-06467EE270FA" class="text-block-content">
+    <p>To enter a points grade, enter the number of points in the cell and press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard). </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-complete-or-incomplete-grade" data-step-uuid="2409E1C0-AAE2-0135-1807-06467EE270FA">
+    <h2 id="enter-complete-or-incomplete-grade" class="step-title screensteps-heading">Enter Complete or Incomplete Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/559/original/df8326c6-0312-4cc0-b459-673a401c7e33.png" srcset="" alt="Enter Complete or Incomplete Grade" height="335" width="386">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_240A0BD0-AAE2-0135-1809-06467EE270FA" class="text-block-content">
+    <p>To enter a complete or incomplete grade, click the drop-down menu in the cell and select the desired icon. Grading options include complete, incomplete, ungraded, and excused.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-letter-grade" data-step-uuid="240A2090-AAE2-0135-180A-06467EE270FA">
+    <h2 id="enter-letter-grade" class="step-title screensteps-heading">Enter Letter Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/549/original/b049c189-030e-4793-8e62-22747b554acd.png" srcset="" alt="Enter Letter Grade" height="573" width="390">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_240A4A50-AAE2-0135-180C-06467EE270FA" class="text-block-content">
+    <p>Click the drop-down menu and select a letter grade from the menu.</p>
+<p> </p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/541/original/71b32f8c-b5d8-48fc-9e59-eaa7e8aa5558.png" srcset="" alt="Enter Letter Grade" height="339" width="380">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76ff72bd-c587-4b2e-a74b-5b494e77d2ea" class="text-block-content">
+    <p>You can also manually enter a letter grade. Enter the letter which corresponds to the letter scale defined by the grading scheme and press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard).</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-letter-grade-validation-error" data-step-uuid="ee31e598-268d-4064-89c3-245a1b372187">
+    <h3 id="view-letter-grade-validation-error" class="step-title screensteps-heading">View Letter Grade Validation Error</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/539/original/5e8af56a-3f24-4a39-91ef-ae02f9c558c1.png" srcset="" alt="View Letter Grade Validation Error" height="136" width="387">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_202dafbf-8087-4330-a7a4-b3fbc7721c86" class="text-block-content">
+    <p>If you enter a letter grade that is not supported in the grading scheme, the cell displays an invalid grade warning icon. Canvas will also display an invalid grade warning message.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-percentage-grade" data-step-uuid="240A5DA0-AAE2-0135-180D-06467EE270FA">
+    <h2 id="enter-percentage-grade" class="step-title screensteps-heading">Enter Percentage Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/561/original/5e233fd4-67ba-4629-998f-1f18a393bf1c.png" srcset="" alt="Enter Percentage Grade" height="352" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_240A8340-AAE2-0135-180F-06467EE270FA" class="text-block-content">
+    <p>To enter a percentage grade, enter the percent in the cell and press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard). </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-gpa-grade" data-step-uuid="240A9710-AAE2-0135-1810-06467EE270FA">
+    <h2 id="enter-gpa-grade" class="step-title screensteps-heading">Enter GPA Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/557/original/7f0625fd-d370-4fd3-acb4-10d9ae16d0d9.png" srcset="" alt="Enter GPA Grade" height="539" width="391">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_240AC1D0-AAE2-0135-1812-06467EE270FA" class="text-block-content">
+    <p>To enter a GPA grade, click the drop-down menu and select the desired grade from the menu.</p>
+<p> </p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/543/original/bc20ade9-1923-4f37-9558-1f3f83f1fcc4.png" srcset="" alt="Enter GPA Grade" height="339" width="378">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9dc5aa31-1bdb-4160-b275-fb74e2c5a90f" class="text-block-content">
+    <p>You can also enter the number which corresponds to the GPA scale defined by the grading scheme and press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard).</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-gpa-grade-validation-error" data-step-uuid="84fa1ecd-eb91-4374-95c6-daad17e15dd4">
+    <h3 id="view-gpa-grade-validation-error" class="step-title screensteps-heading">View GPA Grade Validation Error</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/563/original/f71084a7-b6fd-4b67-9df7-dc03c8c0d593.png" srcset="" alt="View GPA Grade Validation Error" height="161" width="379">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b5f18eac-5eab-4204-9c44-289da954313c" class="text-block-content">
+    <p>If you enter a letter grade that is not supported in the grading scheme, the cell displays an invalid grade warning icon. Canvas will also display an invalid grade warning message.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_score" data-step-uuid="240B1330-AAE2-0135-1816-06467EE270FA">
+    <h2 id="edit_score" class="step-title screensteps-heading">Edit Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/545/original/0476ba64-ba41-4c3a-97bb-3e0373627568.png" srcset="" alt="Edit Grade" height="352" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_240B3E70-AAE2-0135-1818-06467EE270FA" class="text-block-content">
+    <p>To edit an existing grade in the Gradebook, click the assignment cell for the grade. </p>
+<p>To assign a new grade, enter the new grade. To delete the grade, click the Delete key. </p>
+<p>To apply the edited grade, press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard). </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-grade-detail-tray" data-step-uuid="d47a6e32-1531-4c7b-863a-c6f18047c626">
+    <h2 id="view-grade-detail-tray" class="step-title screensteps-heading">Enter Grade via Grade Detail Tray</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/553/original/fac5c308-5c73-4c17-8612-bb6e64dbd160.png" srcset="" alt="View Grade Detail Tray" height="359" width="727">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8f62eaa7-d5f8-4d03-9b09-c266acadfab0" class="text-block-content">
+    <p>Grades can also be entered in the Grade Detail Tray according to the assignment's display grade setting. To open the tray, click an assignment cell for a student and click the <strong>Grade Detail Tray</strong> icon [1]. In the <strong>Grade</strong> field [2], enter the grade for the student.</p>
+<p>To advance to the next student, click the arrow icon [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="excessive_points_alert" data-step-uuid="240AD810-AAE2-0135-1813-06467EE270FA">
+    <h2 id="excessive_points_alert" class="step-title screensteps-heading">View Excessive Points Alert</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/744/174/original/762f25d4-597c-4f48-8ac1-30d972354cef.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/744/174/medium/762f25d4-597c-4f48-8ac1-30d972354cef.png" srcset="" alt="View Excessive Points Alert" height="337" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_240AFEF0-AAE2-0135-1815-06467EE270FA" class="text-block-content">
+    <p>If an excessive amount of points is added to a student's grade, Canvas will generate an alert notifying that the student was awarded an unusually high grade. You can either keep or correct the point value.</p>
+<p>Excessive points can occur in the following situations:</p>
+<ul>
+<li>The amount entered is 50% above the total points possible</li>
+<li>An extra digit is entered (e.g. 500 instead of 50)</li>
+<li>An assignment is given negative points</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

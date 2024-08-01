@@ -1,0 +1,181 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4E90DB40-19A7-0135-427F-22000BC102FE" class="text-block-content">
+    <p>You can create an online assignment that embeds a document directly from your Google Drive folder. Accepted assignment types are Google Documents, Spreadsheets, and Slides. Please note that in cloud assignments, Google Slide presentations are not displayed in presentation mode.</p>
+<p>When students open the assignment, Google Drive will create a copy of the file as the student’s submission. Students can make changes per the assignment instructions directly from the Canvas assignment page. When they are ready to submit the assignment, they can submit the assignment. The copied document is also added to the student’s Google Drive folder for the course. </p>
+<p>You can also view each student's document copy in SpeedGrader for grading. Submitted assignments are converted to a PDF to show the assignment at the time of submission. If students made any changes to their assignment, they will have to resubmit it for the changes to be visible in SpeedGrader.</p>
+<p>Depending on your institution, you may need to <a href="/t5/Instructor-Guide/How-do-I-create-an-assignment-using-the-Google-Assignments-LTI-1/ta-p/587638" target="_blank">create assignments with the Google Assignments LTI 1.3</a>. </p>
+<p>To learn how to copy Google App LTI assignments to Google Assignments LTI 1.3 assignments, visit Google's article, <a href="https://support.google.com/edu/assignments/answer/9381694?hl=en#zippy=%2Chow-can-i-copy-an-assignment-from-google-apps-lti-to-assignments-lti" target="_blank" rel="nofollow noopener noreferrer">Use Assignments with Canvas</a>.</p>
+<p>The Google Apps LTI currently includes a few limitations when creating assignments:</p>
+<ul>
+<li>You cannot use Google Drive files in an external tool for group assignments.</li>
+<li>If you want your assignment to be moderated, you must <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">set up the moderated assignment</a> before setting the External Tool submission type. If you need to return to the moderate page after the External Tool is added, open the assignment and add <em>/moderate</em> after the assignment URL.</li>
+<li>Google Drive cloud assignments cannot be viewed in Student View.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="ac9654fd-393e-48d2-a8c5-5f148e6ccf22">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/744/592/original/d307215f-ac43-4193-87a8-298d0931a011.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E910E40-19A7-0135-4281-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="83b6d177-f4b0-4aa0-a5fd-73dbd7783faa">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/474/original/0834ed63-7936-416f-9849-5b2378b4c9ea.png" srcset="" alt="Add Assignment" height="72" width="316">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E913CF0-19A7-0135-4283-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment_details" data-step-uuid="382a84a2-6f8c-446a-8ccc-d029875346a7">
+    <h2 id="add_assignment_details" class="step-title screensteps-heading">Add Assignment Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/929/717/original/ba5969da-d347-4fa9-8c75-ba01a8a466d6.png" srcset="" alt="Add Assignment Details" height="207" width="474">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E916D50-19A7-0135-4285-22000BC102FE" class="text-block-content">
+    <p>Enter the number of points for the assignment [1], select the Assignment Group [2], and select the grading type from the <strong>Display Grade as</strong> menu [3]. </p>
+<p><strong>Note: </strong>When adding a Google Drive Cloud assignment it overwrites the title and description in the assignment settings.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_submission_type" data-step-uuid="1075e695-59fc-4f90-a890-bcd3bf2b36f4">
+    <h2 id="select_submission_type" class="step-title screensteps-heading">Select Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/714/original/b291aa00-9bd6-4b6d-9649-c43fd5306bb6.png" srcset="" alt="Select Submission Type" height="92" width="545">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E91A3B0-19A7-0135-4287-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Submission Type</strong> drop-down menu, select the <strong>External Tool </strong>option.</p>
+<p><strong>Note:</strong> If you want to use a Canvas rubric for the assignment, you must <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058" target="_blank">add the rubric</a> before setting the External Tool submission type. Additionally, if you want to apply moderated grading, you must <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">set up moderated grading</a> before setting the External Tool submission type.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_external_tool" data-step-uuid="e0b90089-b119-462b-b440-f4053b6c8d9c">
+    <h2 id="find_external_tool" class="step-title screensteps-heading">Find External Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/781/166/original/f6212c50-80ae-43c8-853b-eb4e00ea0f3d.png" srcset="" alt="Find External Tool" height="291" width="527">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E91D1E0-19A7-0135-4289-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Find</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configure_external_tool" data-step-uuid="80440b4d-8bce-4e4c-a975-c39bc1be190c">
+    <h2 id="configure_external_tool" class="step-title screensteps-heading">Configure External Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/712/original/43e39951-1383-4686-bbef-5167e893be01.png" srcset="" alt="Configure External Tool" height="400" width="399">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E91FEE0-19A7-0135-428B-22000BC102FE" class="text-block-content">
+    <p>Locate and select Google Drive. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="attach_file" data-step-uuid="c8f90d4e-c71f-4a10-aa40-d8258e9dd8e4">
+    <h3 id="attach_file" class="step-title screensteps-heading">Attach File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/107/705/original/1e24d919-67da-4d45-b2ce-92fe259e01b1.png" srcset="" alt="Attach File" height="437" width="695">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E922E10-19A7-0135-428D-22000BC102FE" class="text-block-content">
+    <p>Locate and select the file you want to link to the assignment [1]. Click the <strong>Submit </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_tool" data-step-uuid="2e1e8373-9a22-425b-adea-1e9eeb78cd7d">
+    <h2 id="select_tool" class="step-title screensteps-heading">Select Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/703/original/82201e90-9e0d-4368-94b6-c4189f125710.png" srcset="" alt="Select Tool" height="406" width="399">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E926230-19A7-0135-428F-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Select </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="3abc5dca-1654-4a5b-85b3-0e211c68a3ba">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/705/original/30960cb0-ad8a-415f-8d2e-0a3894246dff.png" srcset="" alt="Save and Publish" height="102" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E928EF0-19A7-0135-4291-22000BC102FE" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment" data-step-uuid="51ef0bf9-4320-4b8f-a40c-e8eda0e2114f">
+    <h2 id="view_assignment" class="step-title screensteps-heading">View Assignment</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/781/164/original/82e8ada5-5f11-4eef-96ab-3f408219a6d9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/781/164/medium/82e8ada5-5f11-4eef-96ab-3f408219a6d9.png" srcset="" alt="View Assignment" height="562" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4E92BC60-19A7-0135-4293-22000BC102FE" class="text-block-content">
+    <p>View the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

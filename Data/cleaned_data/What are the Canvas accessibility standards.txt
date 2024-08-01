@@ -1,0 +1,69 @@
+What are the Canvas accessibility standards
+Screen Readers and Browsers
+Each Canvas feature and release is manually tested with the following screen reader and browser combinations:
+JAWS (latest version for Chrome/Firefox on Windows)
+NVDA (latest version for Chrome/Firefox on Windows)
+VoiceOver (latest version for Safari/Chrome on Macintosh and iOS mobile)
+Talkback (latest version for Android mobile)
+Browser and screen reader pairing is selected based on current screen reader and browser usage statistics, ensuring that preferred combinations are always maintained for the widest range of Canvas users. As preferences shift and stabilize over time, Canvas testing and support shift to match them.
+Canvas is designed so that screen reader users can confidently utilize their preferred screen reader and browser. However, the variety of browser and screen reader combinations means that only the above-listed combinations are tested and confirmed to work well in Canvas. If you experience issues using your preferred browser and screen reader combination, please review and utilize the officially supported combinations listed above. If you experience issues with the officially supported screen reader and browser combinations, please report your experience to Canvas Support.
+Learn more about supported Canvas browsers.
+Canvas Navigation with Screen Readers
+Canvas makes extensive use of ARIA landmark regions. Accessible Rich Internet Applications (ARIA) defines ways to make web content and web applications more accessible to people with disabilities. Therefore, the best way to get around in Canvas is to navigate via regions. Within regions, Canvas uses HTML headings, so navigating between headings can be helpful.
+When using a screen reader, the Canvas page navigation menu is as follows:
+1. Main navigation
+2. Context navigation
+3. Breadcrumbs navigation
+4. Main region
+5. Complimentary information
+6. Content information
+Canvas Accessibility Components
+Canvas contains several unifying accessibility features that can be found on various pages in Canvas.
+Moving Content in Canvas
+Wherever drag and drop is used to reorder components, the Move-to option is also available and allows both screen readers and keyboard users to move Canvas content. The Move-to option is available in the following features:
+Course Navigation
+Modules
+Discussions
+Assignments
+Outcomes
+Quizzes
+New Quizzes
+Keyboard Shortcuts
+To view a window with a list of keyboard navigation shortcuts in an individual discussion, announcement, or in the Rich Content Editor, press Alt+F8 (on a PC keyboard) or Option+F8 (on a Mac keyboard) simultaneously on your keyboard. To view a window with a list of keyboard navigation shortcuts in the Assignments Index page, Modules Index page, Gradebook, and SpeedGrader, press Shift+? on your keyboard. Keyboard shortcuts are available on the following Canvas pages:
+Announcement Threads
+Assignments Index Page
+Course Settings: Navigation Tab
+Discussion Threads
+Gradebook
+Modules Index Page
+New Quizzes
+Rich Content Editor
+SpeedGrader
+Notes:
+For more information, view the Canvas Keyboard Shortcut resource document and general keyboard accessibility tips.
+You can also view additional keyboard shortcuts and tips specific to the following screen readers: JAWS, NVDA, and VoiceOver. 
+Canvas Feature Accessibility
+Several Canvas features have been specifically improved for accessibility. Other features may be limited at this time. This section highlights several feature areas and accessibility behaviors.
+Calendar: The Calendar supports Agenda View, which lists all assignments and events in a list or agenda format. Learn how to access the Calendar Agenda View.
+Chat: The Chat Tool has an option to enable audio notifications when new messages are posted.
+Font Sizing: The Canvas interface uses rem sizing for fonts so any typography will zoom when the browser is zoomed and will scale if a custom browser-sized font is chosen or set from a browser's setting.
+Gradebook: Both the Gradebook and the Learning Mastery Gradebook support an individual view, where instructors can view assignments and grades for one student at a time. Learn more about individual view in the Gradebook and Learning Mastery Gradebook.
+Quizzes: Quizzes allows instructors to moderate a quiz for individuals requiring more time or who need multiple attempts. Learn how to grant extra time or attempts in a quiz.
+New Quizzes: New Quizzes allows instructors to moderate a quiz for individuals requiring more time or who need multiple attempts. Learn how to grant extra time or attempts in a New Quiz.
+Rich Content Editor: The Rich Content Editor supports multiple accessibility features for easy creation of accessible content:
+The Rich Content Editor includes an accessibility tool that checks common accessibility errors within the editor. This tool can help you design course content while considering accessibility attributes and is located in the Rich Content Editor menu bar. Learn how to use the Accessibility Checker in the Rich Content Editor.
+Alt text should be added when embedding external images. Learn how to embed images from the web in the Rich Content Editor.
+Closed captions should be embedded for videos uploaded to Canvas. Learn how to view and manage captions using the Rich Content Editor.
+Headings for table columns and rows can be changed in either the Rich Content Editor or the HTML Editor view.
+SpeedGrader/DocViewer/Annotations: Students can now access annotations and comments with a screen reader, including information about the annotation type, author name, comment, and any reply comments at the end of the document. Please see blog post for more information.
+User Settings: The User Settings page hosts two feature options to enhance accessibility. Learn how to change user settings.
+High Contrast UI: When enabled, this feature offers higher contrast in buttons, tabs, and other areas throughout Canvas.
+Underline Links: When enabled, this feature underlines hyperlinks in navigation menus, the Dashboard, and page sidebars.
+Third-party (LTI) Integration Accessibility
+Canvas offers many optional LTI app integrations as part of our commitment to open education. When we review new integration tools, accessibility features are always an important consideration. Unfortunately, as integrations are created by third-party developers and offered to Canvas clients as an optional service, we cannot always ensure that these integrations meet the same standards that we hold for core Canvas. Therefore, if an institution wants to incorporate an integration where additional features may be required, we recommend the institution contact the developer directly with any specific concerns.
+Some integrations are non-optional hosted services within Canvas. Any accessibility issues for Canvas-hosted services should be submitted as a help ticket via the institution's support process. We are open to suggestions for new integrations and have an area in the Instructure Community forums for feature requests.
+Additional Accessibility Resources
+Universal Design Online content Inspection Tool (UDOIT): (pronounced, You Do It) enables faculty to identify accessibility issues in their Canvas course content. It will scan a course, generate a report, and provide resources on how to address common accessibility issues. It was created by the Center for Distributed Learning (CDL) at the University of Central Florida (UCF).
+Significant contributions to this guide were made by:
+John Raible: Instructional Designer for the Center for Distributed Learning at the University of Central Florida
+Nancy Swenson: Instructional Designer for the Center for Distributed Learning at the University of Central Florida

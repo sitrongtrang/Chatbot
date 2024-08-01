@@ -1,0 +1,65 @@
+How do I add users to a course as an instructor
+Open People
+In Course Navigation, click the People link.
+Add People
+Click the Add People button.
+Select User Search
+To add a user, you can search for users with up to one of three options: email address, login ID, or SIS ID. 
+To select a search option, click the radio button for your preferred search method. 
+Notes: 
+If you are copying and pasting user information from a spreadsheet, you do not have to filter out information that does not apply to your search option. For instance, if you copy in a line with an email address and login ID and select the login ID search option, Canvas will disregard the email address and only search for users with the entered login ID. 
+To add multiple users, separate user information using a comma or a line break.
+Search by Email
+By default, the search field is set to search by email address. In the text field, enter the email address for the user. You can copy and paste multiple users at one time, such as from a comma separated value (CSV) file, by placing a comma or line break between users.
+When searching by email address, the user's institution-assigned email address should be used whenever possible. For the majority of institutions, each user should have an email address associated with the user's account and may be the same as the user's login ID.
+Instructors can add users through one of several formats, which also support user names: 
+"A User" buser@example.com
+buser@example.com B User
+"User, C" cuser@example.com 
+Email addresses can be enclosed by less than ( < ) or greater than ( > ) symbols, although it is not required.
+Search by Login ID
+To add a user by login ID, click the Login ID radio button.
+In the text field, enter the login ID for the user. You can copy and paste multiple login IDs at one time by placing a comma or line break between login IDs. 
+When searching by login ID, you should use the login ID format found in the Canvas login page for your institution (e.g. username, student ID, etc.). The example format in the login ID field may differ from the format used in your institution. If you are not sure how to format users for your institution in the text field, please contact your Canvas admin.
+Login IDs do not support entries that include a user's name; any entered content in the Login ID search field will be included as the search content. 
+Search by SIS ID
+If your institution allows you to view SIS IDs in your course, you can also search for users by SIS ID. 
+To search for users by SIS ID, click the SIS ID radio button. In the text field, enter the SIS ID for the user. You can copy and paste multiple SIS IDs at one time by placing a comma or line break between SIS IDs. 
+SIS IDs do not support entries that include a user's name; any entered content in the SIS ID search field will be included as the search content. 
+Note: The SIS ID button only displays for users with SIS permissions.
+Select User Details
+In the Role drop-down menu, assign the user(s) a role for the course based on available course roles.
+In the Section drop-down menu, assign the user(s) a section in the course.
+If you want to limit the user(s) to only interact with other users in their section, click the Can interact with users in their section only checkbox.
+Click the Next button.
+Note: If you are adding multiple users at the same time, all users inherit the same role and section.
+Add Existing Users
+If Canvas finds an existing user, you can confirm the user before adding the user to the course. 
+The user's name displays in the page along with the user's information you used in the user search. Although Canvas may display additional search columns, existing information in a user's account will not be displayed.
+When you are ready, click the Add Users button. 
+If Canvas did not find your intended user, you can click the Start Over button.
+View Search Results
+If Open Registration is disabled for your institution and Canvas is not able to find a match for the user(s), Canvas will notify you that a match was not found. 
+To try a new search, click the Back button.
+Add New User
+If Open Registration is enabled for your institution and Canvas is not able to find a match for the user(s), you can choose to add the user(s) to your course.
+Canvas may ask you if you want to create a new user account if the user does not have a username in the course's account, the user's email address is linked to another user within the account, or the institution does not use delegated authentication. 
+To add all users in the search results, click the Select All checkbox. To add an individual user, click the checkbox next to the user's name.
+Add via Email Address
+If you searched for users in a format that includes a user’s name, any selected users will automatically include the users' names in the enrollment list. You can make adjustments to the user name, if necessary.
+If the user’s name was not included, you can choose to add a name to associate with the user’s email address. Otherwise, Canvas will use the user’s email address as the user’s name.
+Click the Next button.
+View Unverified Email Message
+If you add a user via email and their email address has not been verified, you may see an error message. If you are unable to add a user with an unverified email to your course, you must wait for the user to verify their email address, or add the user by either SIS ID or Login ID.
+Add via Login or SIS ID
+If you want to add a user via a login or SIS ID, you can choose to add a name to associate with the user. You are also required to include an email address for the user. 
+If no user name is entered, Canvas will use the user’s email address as the user’s name.
+Once you have entered an email address, you can click the Next button.
+Add Users
+Confirm the users you are adding to the course via your selected search method. Click the Add Users button.
+View Pending Enrollment
+Until the user accepts the course invitation, the user's status will display as pending. Note that observer invitations will only show as pending if the invited observer does not already have a Canvas account. 
+If you added a user without a Canvas account, the user can create an account as part of the course invitation process.
+Once the user has accepted the course invitation, you can interact with the user in the course. You can also send messages to the user via Conversations.
+If necessary, you may be able to edit a user's role in Canvas. 
+Note: It could take up to 24 hours for users to receive their invitations. Canvas will not consider the user to be enrolled—and won't recognize the user anywhere in Canvas—until the invitation has been accepted. If necessary, you can resend course invitations.

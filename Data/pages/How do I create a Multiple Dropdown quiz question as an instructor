@@ -1,0 +1,211 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_B90C3B00-2229-0135-D897-22000B5A851D" class="text-block-content">
+    <p>You can create a question that has multiple options for students to select in their response. You can create a sentence with multiple answers, as demonstrated in this lesson, or you can use the same steps to create a list. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="B31BA21D-297D-4A37-A6DE-1F3B1BFA7175">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/262/674/original/a4bc9663-0167-4002-8a86-fac91b8c4003.png" srcset="" alt="Add Question" height="253" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90C7520-2229-0135-D899-22000B5A851D" class="text-block-content">
+    <p>With the <strong>Questions</strong> tab [1] selected inside a new quiz, click the <strong>New Question </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_name_type_and_points" data-step-uuid="74054da3-6550-4f83-9077-0c3e6130312c">
+    <h2 id="set_name_type_and_points" class="step-title screensteps-heading">Set Name, Type, and Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/935/original/65a9f827-0838-4265-9b86-0dddf373f7d0.png" srcset="" alt="Set Name, Type, and Points" height="66" width="636">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90CA9F0-2229-0135-D89B-22000B5A851D" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field [1]. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+<p>Click the drop-down menu and select the Multiple Dropdowns question type [2].</p>
+<p>Enter number of points the question is worth (quiz totals are calculated based on combined total of questions) [3].</p>
+<p><strong>Note:</strong> Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_question_details" data-step-uuid="D0EA6A97-6072-410A-91EE-5F2EFC6D8A38">
+    <h2 id="enter_question_details" class="step-title screensteps-heading">Enter Question Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/944/original/7a5e2e51-8064-4821-b8fc-49b6b045cf4a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/944/medium/7a5e2e51-8064-4821-b8fc-49b6b045cf4a.png" srcset="" alt="Enter Question Details" height="840" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90CDFE0-2229-0135-D89D-22000B5A851D" class="text-block-content">
+    <p>Type your question into the Rich Content Editor. You can also use the Rich Content Editor to include video, images, math equations, or flash activities. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_reference_words" data-step-uuid="95824146-74F6-4399-BB5B-EE1DAAC41DC7">
+    <h2 id="create_reference_words" class="step-title screensteps-heading">Create Reference Words</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/947/original/e1cf8021-92a8-484a-a2ac-cd1fea8882ba.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/947/medium/e1cf8021-92a8-484a-a2ac-cd1fea8882ba.png" srcset="" alt="Create Reference Words" height="625" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90D1150-2229-0135-D89F-22000B5A851D" class="text-block-content">
+    <p>Now replace the words you want students to enter in the question with reference words. Reference words should be surrounded by brackets and cannot contain spaces, periods, or other non-alphanumeric characters. Once you place a word in brackets, the word will populate in the<strong> Show Possible Answers for</strong> drop-down menu.</p>
+<p>For example, red has been replaced with [color1], and blue has been replaced with [color2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_answer_responses_for_first_reference_word" data-step-uuid="26FEC6B5-51FE-4207-8597-1524424BDCBD">
+    <h2 id="enter_answer_responses_for_first_reference_word" class="step-title screensteps-heading">Enter Answer Responses for First Reference Word</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/949/original/1927cedd-2045-48a9-bace-2580c99df92c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/949/medium/1927cedd-2045-48a9-bace-2580c99df92c.png" srcset="" alt="Enter Anser Response for First Word Reference" height="840" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90D4390-2229-0135-D8A1-22000B5A851D" class="text-block-content">
+    <p>For each item in the drop-down menu, enter one correct answer and all of the other distractors. Type the correct answer and the distractors in the Possible Answer fields [1]. Click the <strong>Add Another Answer </strong>link [2] to add additional distractors.  </p>
+<p><strong>Note</strong>: The drop-down menu displays a maximum of 100 characters to students taking a quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_correct_answer" data-step-uuid="5581A9FD-B159-4D7A-A235-EB120373BB76">
+    <h2 id="choose_correct_answer" class="step-title screensteps-heading">Choose Correct Answer</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/937/original/aa18b519-1dd0-473e-85d5-2b449b4839c2.png" srcset="" alt="Choose Correct Answer" height="592" width="646">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90D78E0-2229-0135-D8A3-22000B5A851D" class="text-block-content">
+    <p>Hover your cursor to the left of any answer to reveal a green "ghost" arrow. Click the green arrow to the left of the correct answer. You will know which answer is the correct answer because both the arrow and the answer comment around that answer will turn green. In this example, the first answer is the correct answer.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_answer_responses_for_additional_reference_words" data-step-uuid="9AF2F349-1420-4433-A624-0A30C5A522F1">
+    <h2 id="enter_answer_responses_for_additional_reference_words" class="step-title screensteps-heading">Enter Answer Responses for Additional Reference Words</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/943/original/69b0e977-fc71-48c5-ac62-3b7ab913f814.png" srcset="" alt="Enter Answer Responses for Additional Reference Words" height="451" width="645">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90DAD90-2229-0135-D8A5-22000B5A851D" class="text-block-content">
+    <p>Select the second item in the drop-down menu and create the associated answers. Repeat this process for as many reference words as are in your question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_feedback_text" data-step-uuid="84e21e9f-66f8-417e-816b-f24bd0c6e5a5">
+    <h2 id="enter_feedback_text" class="step-title screensteps-heading">Enter Feedback Text</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/490/897/original/4e55225f-5277-426d-96eb-696740ccb8d8.png" srcset="" alt="Enter Feedback Text" height="488" width="730">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90DE410-2229-0135-D8A7-22000B5A851D" class="text-block-content">
+    <p>You can choose to give students feedback in the answer comments fields. To leave feedback for a specific answer, click the comment field beneath the answer [1].</p>
+<p>You can also create general answer comments for the quiz question as a whole [2]. Students who select the correct answer will see the feedback in the green comment field. Students who select any incorrect answer will see the feedback in the red comment field. All students will see the feedback in the blue comment field.</p>
+<p><strong>Note:</strong> Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="bd7ee135-3093-4fb3-a4cd-b1215f361b91">
+    
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/952/original/96a22935-68ff-46b4-8465-56bae8dcec91.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/952/medium/96a22935-68ff-46b4-8465-56bae8dcec91.png" srcset="" alt="Add Feedback Text" height="943" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90E1720-2229-0135-D8A9-22000B5A851D" class="text-block-content">
+    <p>Each text box can be expanded in size by clicking and dragging the handle at the bottom-right of the text box.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="7297A303-F459-4A93-B075-C0E4C696EB3E">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/931/original/b2737f4d-f02d-4874-be4b-a0cb90313b75.png" srcset="" alt="Update Question" height="53" width="216">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90E4CE0-2229-0135-D8AB-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+<p>Add additional <a href="null" target="_blank" rel="nofollow noopener noreferrer">individual questions</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_multiple_dropdowns_question" data-step-uuid="99C90C55-BD75-4B15-A8C1-53380F136F9F">
+    <h2 id="student_view_for_multiple_dropdowns_question" class="step-title screensteps-heading">Student View for Multiple Dropdowns Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/939/original/3ed9801d-a427-477e-a921-9db3c16347c5.png" srcset="" alt="Student View for Multiple Dropdowns Question" height="208" width="680">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90E7F80-2229-0135-D8AD-22000B5A851D" class="text-block-content">
+    <p>This is what students see when they encounter a Multiple Dropdowns question in a quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_multiple_dropdowns_feedback" data-step-uuid="ECF0FC7B-D58E-4930-B283-54FF2AB6A744">
+    <h2 id="student_view_for_multiple_dropdowns_feedback" class="step-title screensteps-heading">Student View for Multiple Dropdowns Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/951/original/3e93220d-fdc0-4863-a7c3-3be9194b56b8.png" srcset="" alt="Student View for Multiple Dropdowns Feedback" height="552" width="716">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B90EB420-2229-0135-D8AF-22000B5A851D" class="text-block-content">
+    <p>If you allow students to see the correct answers, correct responses are marked with a green flag [1]. Incorrect responses will be marked with a red flag [2] and any correct answers not indicated by the student are marked with a gray flag [3]. Partial credit will be assigned if some of the blanks are completed correctly [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

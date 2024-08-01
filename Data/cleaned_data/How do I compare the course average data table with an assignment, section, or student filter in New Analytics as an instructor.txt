@@ -1,0 +1,40 @@
+How do I compare the course average data table with an assignment, section, or student filter in New Analytics as an instructor
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open New Analytics
+To open New Analytics, click the New Analytics link in Course Navigation or click the New Analytics button in the Course Home Page.
+Note: If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.
+Open Course Grade Analytics
+Click the Course Grade tab.
+View Data Table
+Click the Chart Options icon and click the Data Table option.
+Filter Data
+Click the Filter field. Type the name of a section, student, or assignment. Canvas will populate all matching results. 
+When the item displays in the menu, click the item name.
+You can also click the Filter field and use the scroll to locate and select a section, student, or assignment. 
+View Additional Filters
+To add another filter, locate the additional filter. The Filter field supports up to three filters. The All Sections filter cannot be removed.
+Filter by Assignment
+By default, analytics selects all assignment types to display within the page. Each assignment in the table displays the results for each selected assignment type. 
+To view additional assignments within the filtered results, scroll within the table.
+To filter by assignment type, remove the checkbox next to the assignment type. The table dynamically updates the results based on the assignment type selected or removed in the filter.
+Note: At least one assignment type is required at all times.
+View Filtered Results
+The added filter displays in the analytics results. Each filter is identified by a specific color.
+Each filter and color are displayed on the side of the table. Each filter displays its data on a single row.
+When viewing filters, the default shape for each color is a circle, but you can choose to enable shapes for improved contrast by clicking the Chart Options icon and selecting the Display Shapes option.
+View Data Comparison
+To view specific data for a specific result, click the data percentage in the table.
+View Section Comparison
+In a section comparison, details provide additional metrics for the section name, assignment name, assignment due date, average grade for the assignment, low and high grades by percentage, and number of missing and late submissions. The percentage bar includes a tooltip that displays the number of students who achieved the average grade. 
+To send a message to all students in the section, click the Message icon.
+When comparing sections, you can also view submissions by status: missing and late. To view the names of students within each status, click the link for the status. The card displays the student information for the submission statuses, including the names and last login date for each student.
+To message these students specifically, click the Message icon.
+To export the submission status list as a CSV file, click the Download link.
+View Student Comparison
+In a student comparison, details provide additional metrics for the students full name, last access date, overall course grade percentage, assignment name and due date, the students grade for the assignment, and the status of the assignment and submission date.
+To send a message to the individual student, click the Message icon.
+Export Table CSV
+To export analytics data as a CSV file, click the Download CSV button. 
+CSV data is exported according to the filtered data.
+CSV files display a student's full name, sortable name, Canvas user ID, SIS user ID or email (if applicable), overall course grade, the percent that assignments have been on time, the last page view time, the last participation time, and the last time the student logged out.

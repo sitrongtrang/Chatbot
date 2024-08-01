@@ -1,0 +1,146 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A2B60820-18A7-0135-525F-22000AB760A3" class="text-block-content">
+    <p>Analytics evaluate individual components of a course and evaluate student performance. Analytics takes a three-pronged approach to creating substantive data for Canvas users. </p>
+<ul>
+<li>
+<strong>Justification</strong> focuses on system reports and how the system is being used. </li>
+<li>
+<strong>Intervention</strong> looks to predict at-risk students and how to meet their needs. </li>
+<li>
+<strong>Learning</strong> focuses on learning outcomes, the effectiveness of the teaching style, and the division of time between students achieving competence and those falling behind.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="account_analytics" data-step-uuid="4f3e638d-4193-4b44-af3a-40ebd118353e">
+    <h2 id="account_analytics" class="step-title screensteps-heading">Account Analytics</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A2B62160-18A7-0135-5260-22000AB760A3" class="text-block-content">
+    <p>Account admins can see the analytics for the entire account to track and analyze what students, teachers, observers, and/or designers are doing within the account. Analytics work in conjunction with account Statistics.</p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/Statistics-Analytics-Admins/ta-p/384018" target="_blank">View a video about Analytics and Statistics</a>.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>To view account analytics, analytics must be enabled in Account Settings.</li>
+<li>Account analytics also includes analytics enabled at the sub-account level. </li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_account_analytics_hierarchy" data-step-uuid="eb13adb0-2701-466b-a7d6-d2cf6b479ed2">
+    <h3 id="view_account_analytics_hierarchy" class="step-title screensteps-heading">View Account Analytics Hierarchy</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/544/229/original/428e6fc6-1e86-4a52-80da-c582a9c03fd4.png" srcset="" alt="View Account Analytics Hierarchy" height="379" width="574">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A2B64F40-18A7-0135-5262-22000AB760A3" class="text-block-content">
+    <p>Analytics can be used at any level of the account, as long as the user has the account-level permission to view analytics. For example, admins in the root account [1] can view analytics for the account and all sub-accounts. Admins in sub-accounts [2] can view the analytics for their own sub-account and any additional sub-accounts below them.</p>
+<p>Admins can also view course analytics within an account or sub-account. Instructors can view course analytics if they are also given the analytics permission at the course level. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="when_would_i_use_account_analytics" data-step-uuid="f584e19d-1340-40f5-8f45-f3ad379afc79">
+    <h3 id="when_would_i_use_account_analytics" class="step-title screensteps-heading">When Would I Use Account Analytics?</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/318/original/2a61f8d7-055b-4f1c-8a3d-449011519e1c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/318/medium/2a61f8d7-055b-4f1c-8a3d-449011519e1c.png" srcset="" alt="When Would I Use Account Analytics?" height="690" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A2B68110-18A7-0135-5264-22000AB760A3" class="text-block-content">
+    <p>In account analytics, there are four main sections:</p>
+<ol>
+<li>
+<strong>Overview</strong> of what is in the account including Courses, Teachers, Students, Assignments, Discussion Topics, Files Uploaded, and Media Recordings.</li>
+<li>
+<strong>Activity by date</strong> allows the Admin to view how everyone is participating in the courses within the term and account.</li>
+<li>
+<strong>Activity by category</strong> allows the Admin to view the participation for Pages, Assignments, Modules, Discussions, Grades, Files, Collaborations, Announcements, Groups, Conferences, General, and Other.</li>
+<li>
+<strong>Grade distribution</strong> allows the Admin to view what the final grades and in progress grades look like during the term within the account.</li>
+</ol>
+<p> </p>
+<p>Use account analytics to:</p>
+<ul>
+<li>Make sure the students, teachers, observers, and/or designers are participating in the course.</li>
+<li>See an overview of the term within the account.</li>
+<li>View how the users are interacting with the courses in the term.</li>
+<li>Watch how the grade distribution fluctuates or stays steady.</li>
+<li>View the total number of courses, teachers, students, assignments, submissions, discussion topics and replies, files, and media recording in the term within the account.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course_analytics" data-step-uuid="68F9E2DF-891A-4F79-830E-187FA564828C">
+    <h2 id="course_analytics" class="step-title screensteps-heading">Course Analytics</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A2B69980-18A7-0135-5265-22000AB760A3" class="text-block-content">
+    <p>Instructors can see the analytics for a course to track and analyze what students, observers, and/or designers are doing within the course. Analytics work in conjunction with course statistics. </p>
+<p><strong>Note:</strong> Viewing course analytics is a course permission. If you cannot view course analytics, your institution has restricted this feature.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="when_would_i_use_course_analytics" data-step-uuid="ce7f73e4-e10d-4708-8c42-3bb5486efda0">
+    <h3 id="when_would_i_use_course_analytics" class="step-title screensteps-heading">When Would I Use Course Analytics?</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/321/original/9d06483f-a831-47ec-8e44-5d72e26ac91a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/321/medium/9d06483f-a831-47ec-8e44-5d72e26ac91a.png" srcset="" alt="When Would I Use Course Analytics?" height="860" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A2B6C780-18A7-0135-5267-22000AB760A3" class="text-block-content">
+    <p>In course analytics, there are four main sections:</p>
+<ul>
+<li>
+<strong>Activity</strong> allows the instructor to see when students view a page or participate in the course.</li>
+<li>
+<strong>Submissions</strong> allows the instructor to view if students submit the assignment on-time, late, or not at all.</li>
+<li>
+<strong>Grades</strong> use a box and whisker plot to show the distribution of grades in the course.</li>
+<li>
+<strong>Student Analytics</strong> shows page view, participations, assignments, and current score for every student in the course.</li>
+</ul>
+<p> </p>
+<p>Use course analytics to:</p>
+<ul>
+<li>Predict how students react to course activities.</li>
+<li>See which students are at-risk and need help.</li>
+<li>View how effective your teaching strategies are in allowing students to learn.</li>
+<li>See a quick view of what your students are achieving in your course.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,47 @@
+How do I use the Assignments Index Page as an instructor
+Open Assignments
+In Course Navigation, click the Assignments link.
+View Assignments Index Page
+The Assignments Index page is designed with global settings at the top of the page, followed by the Assignment groups. Individual assignments are nested within each Assignment group.
+Note: The Assignments Index page supports keyboard shortcuts. To view a window with a list of keyboard navigation shortcuts, press the Shift+Question Mark keys simultaneously on your keyboard.
+View Assignment Global Options
+Global settings include searching for assignments, adding a new assignment group, and adding a new assignment. To weight the final grade with assignment groups or bulk update due dates and availability dates, click the Options icon. 
+View by Grading Periods
+When multiple grading periods are enabled in a course, you can use the global settings to sort and filter the Assignments page by grading period.
+Assignments and assignment groups are validated against assignments in closed grading periods.
+View Assignment Types
+The Assignments page displays all assignments in the course. Each assignment type displays an icon representing the assignment type: assignment, discussion, classic quiz, or new quiz. 
+Discussions and quizzes also display in their respective index pages in Canvas.
+View New Quizzes Assessments
+If you are using the New Quizzes LTI in your course, New Quizzes are indicated by the New Quizzes icon. Quizzes created with the classic Canvas quiz tool are indicated by the Classic Quiz icon. Both quiz types can be used in the same course.
+For help with New Quizzes functionality, please see the New Quizzes chapter in the Instructor Guide.
+View Individual Assignment
+Each assignment displays the assignment name, due date (if any), the number of points the assignment is worth, and assignment draft state status (published or unpublished). 
+You can also set varied due dates for an assignment and create due dates according to course section. Varied due dates appear as multiple dates.
+If an assignment is associated with a module, the module name will appear on the individual line item of the assignment. 
+Note: Due dates are not required for an assignment. 
+View Availability Dates
+Assignments can also include availability dates. Availability dates can make an assignment available for only a specific period of time. 
+Manage Individual Assignment
+To view an assignment, click the assignment name.
+You can also use the options drop-down menu to edit the assignment, open SpeedGrader, duplicate the assignment, move the assignment, add an assignment to a MasteryPath, delete the assignment, send the assignment to another instructor, or copy the assignment to another course.
+Note:The Mastery Paths setting can be managed in your course if the setting has been enabled by your institution.
+Manually Reorder Assignment
+You can also manually reorder an assignment by hovering over the drag handle next to the assignment and dragging the assignment to the desired location. 
+Note: If you are using Multiple Grading Periods, you cannot move assignments and quizzes that are part of a closed grading period to another assignment group. However, you can move open assignments and quizzes to another assignment group.
+View SIS Assignments
+If your institution has enabled a student information system (SIS) integration, you can tell if an assignment is set up to be sent to your institution's SIS. Graded assignments can be enabled directly by clicking the sync icon next to an assignment.
+Some SIS integrations such as PowerSchool allow you to import assignment groups. Imported groups include an import icon to identify them from manually created assignment groups in Canvas.
+Note: Some institutions may limit assignment names and/or require assignment due dates. If you try to enable an assignment and you receive an error message, the error will show which requirement needs to be resolved before the assignment can be enabled to be synced to your SIS.
+Disable Sync
+If you need to disable sync for all assignments in the course without managing them individually, you can disable sync for all assignments at one time. Click the Options menu then select the Disable Sync to SIS link. All assignments will be updated and disabled from the SIS sync.
+Note: Disable Sync to SIS is not available in the Options menu unless at least one assignment is already enabled to be synced to the SIS.
+View Mastery Paths
+If you use Mastery Paths in your course, you can tell which items are set up in Modules as Mastery Paths or conditional content items.
+Note: The Mastery Paths setting can be managed in your course if the setting has been enabled by your institution.
+View Blueprint Course
+If your course includes Blueprint icons, your course is associated with a blueprint course. Blueprint Courses are courses managed as a template and may contain locked objects managed by a Canvas admin, course designer, or other instructor. 
+The Course Details tab in Course Settings will tell you if your course is a blueprint course. Most commonly, your course will not be a blueprint course and you can only manage unlocked content in your course. If your course is a blueprint course, you can lock and sync course content to associated courses. 
+View Student View
+To view the assignments index page as a student, click the View as Student button.
+Note: If the course navigation link for the page is disabled and hidden from students, the View as Student button does not display.

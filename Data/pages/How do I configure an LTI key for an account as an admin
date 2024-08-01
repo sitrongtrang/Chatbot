@@ -1,0 +1,198 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3287da8c-8874-4d6d-bb92-27c81825a3a5" class="text-block-content">
+    <p>As an admin, you can configure an LTI key from the Developer Keys page. LTI keys can be used to enable an external app that supports <a href="https://www.imsglobal.org/activity/learning-tools-interoperability" target="_blank" rel="nofollow noopener noreferrer">IMS Global LTI 1.3 and LTI Advantage</a>. </p>
+<p>When supported by a tool provider, this framework allows admins to manage all LTI tool configuration data directly in the Developer Keys page. The LTI can then be <a href="/t5/Admin-Guide/How-do-I-configure-an-external-app-for-an-account-using-a-client/ta-p/202" target="_blank">added to an account</a> or a course via an associated client ID. Specific questions about a provider's integration or potential integration with the LTI 1.3 and LTI Advantage framework should be sent directly to the tool provider.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Developer Keys is an account permission. If you cannot view the Developer Keys link in Account Navigation, this permission has not been enabled for your user account.</li>
+<li>Disabling or deleting the LTI key removes the application installs.</li>
+<li>For more information about LTI integrations, please visit the <a href="https://canvas.instructure.com/doc/api/file.tools_intro.html" target="_blank" rel="nofollow noopener noreferrer">External Tools Introduction API page</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="794ff227-673b-43e7-a259-a82c0c386f5b">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0dac0b4e-72c1-4482-91fb-82aa8cf4c1de" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_developer_keys" data-step-uuid="3560e824-307c-45d2-a084-f4fcae2e9925">
+    <h2 id="open_developer_keys" class="step-title screensteps-heading">Open Developer Keys</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/780/662/original/a694e407-1126-4953-b3fc-54aebe278129.png" srcset="" alt="Open Developer Keys" height="269" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0047e86f-ed41-4530-8b38-ed42bae780b4" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Developer Keys </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-api-key" data-step-uuid="4c01991e-3959-4eff-aa1a-54995160db22">
+    <h2 id="add-api-key" class="step-title screensteps-heading">Add LTI Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/259/530/original/2a3cc930-389c-4fd3-b2f0-24984f1f957d.png" srcset="" alt="Add LTI Key" height="200" width="211">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7136831e-eaf3-40da-b467-850bd984271d" class="text-block-content">
+    <p>Click the <strong>Add Developer Key </strong>button [1]. Then click the <strong>Add LTI Key</strong> option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-lti-settings" data-step-uuid="7caa07d0-21ad-4bc3-8a3a-1197e9d33380">
+    <h2 id="enter-lti-settings" class="step-title screensteps-heading">Enter LTI Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/768/956/original/641eaa1f-d720-4c13-8932-0cfacfce755b.png" srcset="" alt="Enter LTI Settings" height="469" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ccd77eff-81ce-482e-97f7-35b91de4530a" class="text-block-content">
+    <p>Enter the settings for the LTI key:</p>
+<ul>
+<li>
+<strong>Key Name </strong>[1]: The name of the company or external tool.</li>
+<li>
+<strong>Owner Email </strong>[2]: The email of the person who owns the external tool.</li>
+<li>
+<strong>Redirect URIs </strong>[3]: Redirect URI data should be provided by the tool provider. If you select the Paste JSON configuration method, the Redirect URI field will fill in automatically once you have entered the LTI 1.3 configuration.</li>
+<li>
+<strong>Notes </strong>[4]: Any notes about the LTI key, such as the reason it was created.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-configuration-method" data-step-uuid="1383cb1f-1875-4bb3-9e9d-e0b91c136c42">
+    <h2 id="select-configuration-method" class="step-title screensteps-heading">Select Configuration Method</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/555/997/original/35389d3e-4c4a-4150-8716-00ee90c61cea.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/555/997/medium/35389d3e-4c4a-4150-8716-00ee90c61cea.png" srcset="" alt="Select Configuration Method" height="133" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1077e780-b448-4ee8-b825-f8de31787640" class="text-block-content">
+    <p>To select the method you want to use to configure your LTI tool, click the <strong>Method</strong> drop-down menu.</p>
+<p> </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-manual-entry-details" data-step-uuid="172088de-5cb7-4c59-a09f-59a121be0d0f">
+    <h3 id="enter-manual-entry-details" class="step-title screensteps-heading">Enter Manual Entry Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/655/674/original/eb2ec640-8f69-437b-a6e2-e4726689a726.png" srcset="" alt="Enter Manual Entry Details" height="922" width="692">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9372dbdb-3251-482d-b052-c744eae93cb5" class="text-block-content">
+    <p>To manually enter the details for your LTI key, click the <strong>Manual Entry</strong> option [1].</p><p>If the tool provider requests that their tool be set up via manual entry, they will need to provide the details to fill the required fields. Required fields are title [2], description [3], target link URL [4], OpenID connect initiation URL [5], and JWK method [6]. JWK method can be set to public JWK or public JWK URL.</p><p>You can also enter non-required details for LTI Advantage services [7], additional settings [8] and placements [9]. Any items selected in the Placements field will display as LTI setting items [10].</p><p><strong>Notes: </strong></p><ul>
+<li>If the LTI vendor is unable to provide the information for the required fields, you may want to configure the tool via the Paste JSON or Enter URL option.</li>
+<li>LTI keys created without icons in the Editor Button placement automatically display a default icon with the first initial of the tool’s name in the Rich Content Editor.</li>
+<li>To have the LTI as an <a href="/t5/Instructor-Guide/How-do-I-add-an-assignment-using-an-external-app/ta-p/656" target="_blank">assignment submission type</a>, select the Submission Type Selection placement type.  The Submission Type Selection placement is only available for Instructure approved LTI tools.  </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-json-details" data-step-uuid="b12bd3a8-ddc8-41bd-b841-091e5e0e422a">
+    <h3 id="enter-json-details" class="step-title screensteps-heading">Enter JSON Details</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/555/991/original/a325bfaf-9965-44fb-8ac9-a13399cab1f1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/555/991/medium/a325bfaf-9965-44fb-8ac9-a13399cab1f1.png" srcset="" alt="Enter LTI 1.3 Configuration" height="246" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d914b9d8-7f88-4c19-a60b-74957ae346ee" class="text-block-content">
+    <p>To paste JSON formatting for your LTI 1.3 configuration, click the <strong>Paste JSON</strong> option [1].</p><p>Then enter the JSON formatting in the <strong>LTI 1.3 Configuration </strong>field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-json-url" data-step-uuid="896cdd49-b6fe-47b5-9f78-226cc14e82c3">
+    <h3 id="enter-json-url" class="step-title screensteps-heading">Enter JSON URL</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/555/989/original/eb22ea12-87be-491f-ac1d-b64a87625fa2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/555/989/medium/eb22ea12-87be-491f-ac1d-b64a87625fa2.png" srcset="" alt="Enter JSON URL" height="224" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8da7bd33-2841-493d-9339-4a3b79b43736" class="text-block-content">
+    <p>To enter a JSON URL, click the <strong>Enter URL</strong> option [1]. Then enter the JSON URL in the <strong>JSON URL</strong> field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-lti-key" data-step-uuid="0453ecd7-9120-4fad-845b-3593cda4d392">
+    <h2 id="save-lti-key" class="step-title screensteps-heading">Save LTI Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/556/001/original/1c0c6a03-15a2-4679-af28-0582f4330bd3.png" srcset="" alt="Save LTI Key" height="65" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e223cae0-fbc1-488d-89c7-27f51a4af4fc" class="text-block-content">
+    <p>To save your LTI key, click the <strong>Save</strong> button.</p><p><strong>Note: </strong></p><ul><li><p>If you add a LTI tool and the LTI tool includes a Submission Type Selection placement that is not approved by Instructure for the particular LTI tool, a warning will display after saving the LTI Key.</p></li></ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-lti-key" data-step-uuid="d78fd6ce-2698-4942-b95d-df82f4f949ec">
+    <h2 id="view-lti-key" class="step-title screensteps-heading">View LTI Key</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/190/638/original/782db9ee-01e6-48c6-a6f5-fd2379133a84.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/190/638/medium/782db9ee-01e6-48c6-a6f5-fd2379133a84.png" srcset="" alt="View LTI Key" height="275" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7583d23c-9edc-4608-ace7-dd3db19ae78d" class="text-block-content">
+    <p>View your LTI key [1]. LTI keys are indicated by the <strong>External Tool</strong> icon [2].</p>
+<p>Each LTI key includes a client ID [3]. Copy or write down the client ID to <a href="/t5/Admin-Guide/How-do-I-configure-an-external-app-for-an-account-using-a-client/ta-p/202" target="_blank">enable the external tool</a> from your Account Settings or to share it with users to enable the tool in a course.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

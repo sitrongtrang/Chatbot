@@ -1,0 +1,397 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_165B5380-AAE2-0135-16EE-06467EE270FA" class="text-block-content">
+    <p>The Gradebook helps instructors easily view and enter grades for students. Depending on the Grade display type, grades for each assignment can be viewed as points, percentage, complete or incomplete, GPA scale, or letter grade.</p>
+<p>Only graded assignments, graded discussions, graded quizzes, and graded surveys that have been published display in the Gradebook. Not Graded assignments are not included.</p>
+<p>The default view in the Gradebook is to view all students at a time, but you can also view students individually in the Individual Gradebook. However, the Individual Gradebook currently does not support all settings and options from the Gradebook.</p>
+<p>The following keyboard shortcuts are supported in the Gradebook:</p>
+<ul>
+<li>S: Sort the grid on the currently selected column. Student name and Notes columns sort alphabetically. Other columns sort by grade (low to high).</li>
+<li>M: Open the menu for the currently selected column.</li>
+<li>Esc: Close the menu for the currently selected column.</li>
+<li>G: Open the Assignment Detail page for the currently selected assignment.</li>
+<li>C: Open the Grade Detail tray for the currently selected assignment.</li>
+</ul>
+<p><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Grades-and-the-Gradebook/ta-p/49" target="_blank">Learn more about the Gradebook</a>.</p>
+<p><strong>Note:</strong> If your course includes multiple graders, please note that once you open the Gradebook, all existing Gradebook data is stored in the browser until the page is refreshed. Grades are not dynamically updated with any changes made by other graders in the Gradebook or in SpeedGrader.</p>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="How do I use the Gradebook?" src="https://community.instructuremedia.com/embed/7e33ae28-eb24-47a9-a34c-a7fb1af97a22" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="165B6850-AAE2-0135-16EF-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/824/036/original/ab51df54-5470-4d10-9d11-96729718e31c.png" srcset="" alt="Open Grades" height="233" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_165B8AC0-AAE2-0135-16F1-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_gradebook" data-step-uuid="165B9DC0-AAE2-0135-16F2-06467EE270FA">
+    <h2 id="view_gradebook" class="step-title screensteps-heading">View Gradebook</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/722/869/original/f1870c23-c3d2-4468-b498-194540367b19.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/722/869/medium/f1870c23-c3d2-4468-b498-194540367b19.png" srcset="" alt="View Gradebook" height="493" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_165BC130-AAE2-0135-16F4-06467EE270FA" class="text-block-content">
+    <p>The Gradebook includes global sorting options and settings you can use to organize your gradebook [1], student data [2] and assignment data [3]. </p>
+<p>The Gradebook supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the <strong>Keyboard</strong> icon [4] or press the Shift+Question Mark keys simultaneously. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter_students" data-step-uuid="165C0D40-AAE2-0135-16F8-06467EE270FA">
+    <h2 id="filter_students" class="step-title screensteps-heading">Change Gradebook View</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/307/057/original/54107c72-f7d5-43f2-a185-66b1fe755dcd.png" srcset="" alt="View Gradebook Menu" height="248" width="323">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_165C32A0-AAE2-0135-16FA-06467EE270FA" class="text-block-content">
+    <p>You can switch between gradebook view options, if they are available. To select a different gradebook view, click the current gradebook view [1]. Then, in the Change Gradebook view menu, select one of the following options:</p>
+<ul>
+<li>
+<strong>Traditional Gradebook</strong> [2]: Displays<strong> </strong>all students, assignments, and grades. This gradebook is the most common default and is also known as just Gradebook.</li>
+<li>
+<strong>Learning Mastery Gradebook</strong> [3]: Displays the <a href="/t5/Instructor-Guide/How-do-I-use-the-Learning-Mastery-Gradebook-to-view-outcome/ta-p/774" target="_blank">Learning Mastery Gradebook</a>, which assesses outcome standards being used in Canvas courses. This gradebook is a course-level feature option.</li>
+<li>
+<strong>Individual Gradebook</strong> [4]: Allows you to <a href="/t5/Instructor-Guide/How-do-I-view-assignments-or-students-individually-in-the/ta-p/1247" target="_blank">assess one student and one assignment at a time</a> and is fully accessible for screen readers. Individual View currently does not support settings and options from the Gradebook. </li>
+<li>
+<strong>Gradebook History </strong>[5]: Displays the <a href="/t5/Instructor-Guide/How-do-I-view-the-history-of-all-grading-changes-in-the/ta-p/783" target="_blank">Gradebook History page</a>, which logs recent grade changes in the course according to student, grader, assignment, and date.</li>
+</ul>
+<p>You can switch between gradebooks at any time.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search-students" data-step-uuid="c406a871-9df0-43e2-b13a-e6d8c1dd2b28">
+    <h2 id="search-students" class="step-title screensteps-heading">Search Students</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/722/874/original/09ee27af-a2a4-4ea8-91ae-f1079fdbc271.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/722/874/medium/09ee27af-a2a4-4ea8-91ae-f1079fdbc271.png" srcset="" alt="Search Students" height="144" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e8e1dccd-73a3-4c9d-b26f-227430315992" class="text-block-content">
+    <p>By default, the Gradebook shows all active students. To search for students by name or SIS ID, enter your search query in the <strong>Search Students</strong> field. The Gradebook automatically filters results as you type.</p>
+<p>The Search Students field allows multiple student names to be filtered at the same time. </p>
+<p>The Search Students field also respects Concluded and Inactive Enrollment options. If the Concluded Enrollment or Inactive Enrollment options are selected as filters, no Concluded or Inactive enrollments display in the Gradebook.</p>
+<p><strong>Note:</strong> Student name search results displays secondary information if more than one student has the same name in the course. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search-assignments" data-step-uuid="b942e600-8ee2-45db-b4bb-3987bef978e0">
+    <h2 id="search-assignments" class="step-title screensteps-heading">Search Assignments</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/722/876/original/af5e6fa3-bc22-4e65-821d-b4c982f7dfcf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/722/876/medium/af5e6fa3-bc22-4e65-821d-b4c982f7dfcf.png" srcset="" alt="Search Assignments" height="144" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3dab93c2-06a2-41d8-875c-9f1bd868d05e" class="text-block-content">
+    <p>By default, the Gradebook shows all assignments. To search for assignments, enter an assignment name in the <strong>Search Assignments</strong> field. The Gradebook automatically filters results as you type.</p>
+<p>The Search Assignments field allows multiple assignment names to be filtered at the same time. </p>
+<p>Selecting an assignment displays the assignment in a column closest to the student name. If multiple assignments are selected, the assignment columns display in the reverse order they are selected.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-gradebook-settings" data-step-uuid="fbf4c669-3de3-479b-866a-6513d3a3189b">
+    <h2 id="view-gradebook-settings" class="step-title screensteps-heading">View Gradebook Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/722/878/original/bad058d6-8d7e-4970-ac42-58b89f336ede.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/722/878/medium/bad058d6-8d7e-4970-ac42-58b89f336ede.png" srcset="" alt="View Gradebook Settings" height="147" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4b13666d-2f08-4225-bf9f-604af071219c" class="text-block-content">
+    <p>The Gradebook Settings allow you to apply Late Policies, a Grade Posting Policy, a Final Grade Override, and View Options in your course gradebook.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-late-policies" data-step-uuid="e5da826e-cbd3-4e49-b4ea-e524b221a822">
+    <h3 id="view-late-policies" class="step-title screensteps-heading">View Late Policies</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/880/original/bbf3cbae-a9d1-4307-af88-b20b3dad2b1c.png" srcset="" alt="View Late Policies" height="679" width="808">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eb675df5-6279-48f9-8994-3109f2b89422" class="text-block-content">
+    <p>The Late Policies tab allows you to apply late policies in your course.</p>
+<p>The <a href="/t5/Instructor-Guide/How-do-I-apply-a-Missing-Submission-policy-in-the-Gradebook/ta-p/963" target="_blank">Missing Submission policy</a> allows you to automatically apply a grade for submissions labeled as Missing [1]. A submission is labeled Missing when the due date has passed and the assignment has not been submitted.</p>
+<p>The <a href="/t5/Instructor-Guide/How-do-I-apply-a-Late-Submission-policy-in-the-Gradebook/ta-p/965" target="_blank">Late Submission policy</a> allows you to automatically apply a defined penalty to submissions with a status of Late [2]. A submission is labeled Late when it is submitted past the due date. Additionally, you can define a threshold under which a student will not be scored, regardless of how late the submission is when submitted. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-grade-posting-policy" data-step-uuid="41c14f1a-37a4-457c-9112-19b468164420">
+    <h3 id="view-grade-posting-policy" class="step-title screensteps-heading">View Grade Posting Policy</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/882/original/53a5d226-2d9d-47ce-bf95-d4a3793604fe.png" srcset="" alt="View Grade Posting Policy" height="679" width="792">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0e54f14f-c858-4b09-adf8-d508358cb1a7" class="text-block-content">
+    <p>The Grade Posting Policy tab allows you to <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-a-course-in-the/ta-p/588" target="_blank">change grade posting policies for your course</a>.</p>
+<p>To automatically post grades and make them visible to students as soon as they are entered, select the <strong>Automatically Post Grades</strong> option [1]. The posting policy is set to Automatically Post Grades by default.</p>
+<p>To hide grades by default and manually choose when to post grades and make them visible to students, select the <strong>Manually Post Grades </strong>option [2].</p>
+<p><strong>Note: </strong>Grades for anonymous or moderated assignments must be manually posted. Moderated assignments grades cannot be unhidden until final grades have been posted.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-advanced-settings" data-step-uuid="fc4d2cb0-d830-4a39-8219-e7e9ce8d8072">
+    <h3 id="view-advanced-settings" class="step-title screensteps-heading">View Advanced Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/744/055/original/791edb41-446b-4a97-8b43-18d6c24e9319.png" srcset="" alt="View Advanced Settings" height="1010" width="772">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_db7e2938-192a-496a-b217-bb65c01fecea" class="text-block-content">
+    <p>The Advanced tab allows you to apply a <a href="/t5/Instructor-Guide/How-do-I-override-a-student-s-final-grade-in-the-Gradebook/ta-p/946" target="_blank">Final Grade Override</a> in your course. If enabled, you can enter an override grade for a student that is different from the grade automatically calculated by Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-gradebook-viewing-options" data-step-uuid="c6ea420d-f196-4d86-869c-49447d886f64">
+    <h3 id="view-gradebook-viewing-options" class="step-title screensteps-heading">View Gradebook View Options</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/744/058/original/be98d686-646c-4d81-8ffd-95a107b37dea.png" srcset="" alt="View Gradebook View Options" height="868" width="791">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dab42a02-b1af-444d-bdc5-2a2a0f04fa4a" class="text-block-content">
+    <p>The View Options tab allows you to filter and sort the Gradebook according to several viewing options:</p>
+<ul>
+<li>
+<strong>Arrange By</strong> [1]: <a href="/t5/Instructor-Guide/How-do-I-arrange-columns-in-the-Gradebook/ta-p/1018" target="_blank">arrange columns</a> by default, assignment name, due date, points, or module.</li>
+<li>
+<strong>Show</strong> [2]: show or hide the <a href="/t5/Instructor-Guide/How-do-I-use-the-Notes-column-in-the-Gradebook/ta-p/940" target="_blank">notes column</a>, the <a href="/t5/Instructor-Guide/How-do-I-view-the-Unpublished-Assignments-column-in-the/ta-p/786" target="_blank">unpublished assignments column</a>, the <a href="/t5/Instructor-Guide/How-do-I-view-the-Split-Student-Names-column-in-the-Gradebook/ta-p/506045" target="_blank">split student names column</a>, hide assignment group totals, and hide total and <a href="/t5/Instructor-Guide/How-do-I-override-a-student-s-final-grade-in-the-Gradebook/ta-p/946" target="_blank">override columns</a>.</li>
+<li>
+<strong>View Ungraded as Zero </strong>[3]: temporarily change the Gradebook view so that grades display as if <a href="/t5/Instructor-Guide/How-do-I-view-total-scores-in-the-Gradebook-as-if-all-ungraded/ta-p/446124" target="_blank">all ungraded assignments were given a score of zero</a>. This setting is a visual change only and does not affect grades for students or other users of the Gradebook.</li>
+<li>
+<strong>Status Color</strong> [4]: view and <a href="/t5/Instructor-Guide/How-do-I-change-the-color-for-a-grading-status-in-the-Gradebook/ta-p/998" target="_blank">change the color for a grading status</a> (late, missing, resubmitted, dropped, and excused).</li>
+</ul>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If the View Ungraded as 0 and Split Student Names options do not display in your Gradebook, these options have not been enabled by your institution.</li>
+<li>When the <a href="/t5/Instructor-Guide/How-do-I-override-a-student-s-final-grade-in-the-Gradebook/ta-p/946" target="_blank">Final Grade Override</a> feature option is <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">enabled for the course</a>, the text in the Show section displays Hide Total Column and Override Columns. If the Final Grade Override feature option is disabled, the text in the Show section displays Hide Total Column. </li>
+<li>To restrict students from viewing total scores, learn about <a href="/t5/Instructor-Guide/How-do-I-hide-totals-in-my-students-grade-summaries/ta-p/671" target="_blank">hiding totals in student grade summaries</a>. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-gradebook-filters" data-step-uuid="b52fecdf-84a0-4007-91fb-ed0d7fd3cc7b">
+    <h3 id="view-gradebook-filters" class="step-title screensteps-heading">View Gradebook Filters</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/890/original/17301102-c651-481d-8fe7-2f9380a15460.png" srcset="" alt="View Gradebook Filters" height="549" width="308">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6fb07356-74f1-47fb-924b-e6e8a4e04ea8" class="text-block-content">
+    <p>In the Apply Filters menu, you can <a href="/t5/Instructor-Guide/How-do-I-create-and-manage-filters-in-the-Gradebook/ta-p/577028" target="_blank">create and manage filter presets</a> [1] or <a href="/t5/Instructor-Guide/How-do-I-filter-columns-and-rows-in-the-Gradebook/ta-p/1016" target="_blank">filter columns by type</a> [2] (assignment group, section, modules, student groups, and grading period, if applicable).</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-actions-menu" data-step-uuid="8bfb2fc6-96d4-48f8-8845-e291d3e28b40">
+    <h2 id="view-actions-menu" class="step-title screensteps-heading">View Import and Export Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/722/892/original/56fe92a8-ff0c-4af4-ad4d-3696ffd87a11.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/722/892/medium/56fe92a8-ff0c-4af4-ad4d-3696ffd87a11.png" srcset="" alt="View Import and Export Options" height="73" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ac43531f-bb1b-499c-9f75-0d320ca21be7" class="text-block-content">
+    <p>To bulk manage student grades in the Gradebook, you can also <a href="/t5/Instructor-Guide/How-do-I-import-grades-in-the-Gradebook/ta-p/807" target="_blank">import grades</a> [1] and <a href="/t5/Instructor-Guide/How-do-I-export-grades-in-the-Gradebook/ta-p/809" target="_blank">export grades</a> [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_information" data-step-uuid="165CBEC0-AAE2-0135-1701-06467EE270FA">
+    <h2 id="view_student_information" class="step-title screensteps-heading">View Student Name Column</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/894/original/5357f7ae-6ccc-4109-ba71-24f2c3f9880c.png" srcset="" alt="View Student Name Column" height="309" width="199">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_165CE660-AAE2-0135-1703-06467EE270FA" class="text-block-content">
+    <p>The Student Name column displays each student's name and may also include a student's secondary ID, if enabled. You can hover over the column header and view the Student Name menu [1], which allows the following options: </p>
+<ul>
+<li><a href="/t5/Instructor-Guide/How-do-I-sort-and-display-student-data-in-the-Gradebook/ta-p/1111" target="_blank">Sort and display student data</a></li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-view-grades-for-inactive-or-concluded-student/ta-p/753" target="_blank">Show inactive and concluded enrollments</a> </li>
+</ul>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-view-a-student-s-Grades-page-in-a-course-from-the/ta-p/751" target="_blank">view a student's Grades page</a>, click the student's name [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_test_student" data-step-uuid="165D79A0-AAE2-0135-170A-06467EE270FA">
+    <h3 id="view_test_student" class="step-title screensteps-heading">View Test Student</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/241/836/original/bb675125-143e-4ac3-bd87-db349207fa52.png" srcset="" alt="View Test Student" height="129" width="187">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_165DA0C0-AAE2-0135-170C-06467EE270FA" class="text-block-content">
+    <p>If you have <a href="/t5/Instructor-Guide/How-do-I-view-a-course-as-a-test-student-using-Student-View/ta-p/1122" target="_blank">viewed a course as a test student</a>, the Test Student displays at the end of the Gradebook and is automatically added to every section in your course. Test Student data does not factor into course analytics. </p>
+<p>If you want to remove the test student completely, you must <a href="/t5/Instructor-Guide/How-do-I-remove-an-enrollment-from-a-course-section/ta-p/955" target="_blank">remove the test student from your section enrollments in Course Settings</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignments" data-step-uuid="165DB1D0-AAE2-0135-170D-06467EE270FA">
+    <h2 id="view_assignments" class="step-title screensteps-heading">View Assignment Column</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/307/059/original/7f941369-3870-4371-a402-5afe0fe5c140.png" srcset="" alt="View Assignments" height="306" width="656">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_165DDA10-AAE2-0135-170F-06467EE270FA" class="text-block-content">
+    <p>Each column in the Gradebook represents a published assignment in the Assignments page. Each column displays the assignment title, total points, and each student's grade. </p>
+<p>To view the assignment, click the name of the assignment [1].</p>
+<p>To manage an assignment, hover over the column header and click the <strong>Options</strong> icon [2]. Then perform any of the following:</p>
+<ul>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-sort-an-individual-assignment-column-in-the-Gradebook/ta-p/749" target="_blank">Sort assignments</a> by grade or status (missing or late)</li>
+<li>Open <a href="/t5/Instructor-Guide/How-do-I-use-SpeedGrader/ta-p/757" target="_blank">SpeedGrader</a>
+</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-send-a-message-to-students-from-the-Gradebook/ta-p/741" target="_blank">Message students</a> who fit within specific assignment criteria</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-curve-grades-in-the-Gradebook/ta-p/745" target="_blank">Curve grades</a> </li>
+<li><a href="/t5/Instructor-Guide/How-do-I-set-a-default-grade-for-an-assignment-in-the-Gradebook/ta-p/747" target="_blank">Set default grade</a></li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-hide-grades-that-were-previously-posted-in-the/ta-p/721" target="_blank">Hide</a> or <a href="/t5/Instructor-Guide/How-do-I-post-grades-for-an-assignment-in-the-Gradebook/ta-p/576" target="_blank">post grades</a> for the assignment</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-enter-grades-for-an-individual-assignment-as-a-specific/ta-p/1007" target="_blank">Enter grades as a specific value</a>: points, percentage, or grading scheme (this option is only for grading convenience and does not affect the actual grade; not available for complete/incomplete assignment types)</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-download-all-student-submissions-for-an-assignment-in/ta-p/752" target="_blank">Download submissions</a> and <a href="/t5/Instructor-Guide/How-do-I-upload-all-student-submissions-for-an-assignment-in-the/ta-p/798" target="_blank">re-upload submissions</a> (supported in file uploads only)</li>
+<li><a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-an-assignment-in-the/ta-p/574" target="_blank">Select a grade posting policy for an assignment</a></li>
+</ul>
+  </div>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e165b3a8-90f1-4976-aa30-fc9a06b60041" class="text-block-content">
+    <p><a href="/t5/Instructor-Guide/How-do-I-use-the-icons-and-colors-in-the-Gradebook/ta-p/781" target="_blank">Icons and colors</a> represent assignments and submission statuses within Canvas, including differentiated assignments, grading periods, and Mastery Paths.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_columns" data-step-uuid="165DEFA0-AAE2-0135-1710-06467EE270FA">
+    <h3 id="add_columns" class="step-title screensteps-heading">Add Columns</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_165E01B0-AAE2-0135-1711-06467EE270FA" class="text-block-content">
+    <p>Assignment columns are automatically added every time you create and publish assignments, graded discussions, and graded quizzes and surveys. A column is also automatically added for the Attendance tool. </p>
+<p>You can manually add a column as part of <a href="/t5/Instructor-Guide/How-do-I-import-grades-in-the-Gradebook/ta-p/807" target="_blank">importing grades to the Gradebook</a>. However, assignments imported in the CSV file are automatically published.</p>
+<p>If you need to create a column in the Gradebook to use for manual grading, you can <a href="/t5/Instructor-Guide/How-do-I-create-assignment-columns-for-non-submission/ta-p/680" target="_blank">create a No Submission or On Paper assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-grades" data-step-uuid="69a4e3bb-4c52-43af-968d-86e9489cb05f">
+    <h2 id="enter-grades" class="step-title screensteps-heading">Enter Grades</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/240/149/original/e59b6342-59f2-4db6-b6f1-48767c5b2ba3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/240/149/medium/e59b6342-59f2-4db6-b6f1-48767c5b2ba3.png" srcset="" alt="Enter Grades" height="275" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_10108f78-8f02-4ab0-9d90-8803ca58df2b" class="text-block-content">
+    <p>When you are entering grades, the Gradebook displays crosshairs and highlighting across the row and column for improved orientation.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-enter-and-edit-grades-in-the-Gradebook/ta-p/724" target="_blank">enter grades</a>, type the grade as supported by assignment type directly in the Gradebook cell [1].</p>
+<p>You can also enter grades and change the submission status by clicking the <strong>Grade Detail Tray</strong> icon [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-grade-detail-tray" data-step-uuid="6725fb11-5a19-4489-9642-9a34f73e0992">
+    <h3 id="view-grade-detail-tray" class="step-title screensteps-heading">View Grade Detail Tray</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/240/153/original/c5558a92-bb96-4eab-8ac1-a91aea4cf258.png" srcset="" alt="View Grade Detail Tray" height="738" width="343">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3426a9b5-40eb-4bf9-8057-34b44068e124" class="text-block-content">
+    <p>The Grade Detail Tray allows you to enter or edit grades [1], <a href="/t5/Instructor-Guide/How-do-I-change-the-status-of-a-submission-in-the-Gradebook/ta-p/678" target="_blank">change the status of a submission</a> [2], and <a href="/t5/Instructor-Guide/How-do-I-leave-comments-for-students-in-the-Gradebook/ta-p/743" target="_blank">leave comments</a> for the student [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-assignment-groups" data-step-uuid="165E8D50-AAE2-0135-1718-06467EE270FA">
+    <h2 id="view-assignment-groups" class="step-title screensteps-heading">View Assignment Groups and Total Column</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/240/158/original/ad364f7e-c3fe-4a0a-b5b6-b37afad93aae.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/240/158/medium/ad364f7e-c3fe-4a0a-b5b6-b37afad93aae.png" srcset="" alt="View Assignment Groups" height="325" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_165EB520-AAE2-0135-171A-06467EE270FA" class="text-block-content">
+    <p>The assignment groups shown in the Gradebook match the assignment groups created in the Assignments page [1]. </p>
+<p>If your assignment groups are weighted, the weighted grade displays below the group title [2]. Assignment group weights are reflected in the total grade. The assignment grade earned by the students is multiplied by the assignment group weight.</p>
+<p>Grade totals from assignment groups are calculated in the Total column of the Gradebook [3]. You can hover over the column header to view the <a href="/t5/Instructor-Guide/How-do-I-use-the-Total-column-in-the-Gradebook/ta-p/788" target="_blank">Total column menu</a> [4], which allows you to sort by grade and move the total column to the front of the Gradebook. Additionally, if your assignment groups are not weighted, you can view the totals as a point value instead of a percentage.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

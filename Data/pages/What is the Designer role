@@ -1,0 +1,108 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_948a220e-108c-4ca3-80e9-940a98da6370" class="text-block-content">
+    <p>In Canvas, the Designer role is used to enroll users responsible for course creation and management. In general, users with the Designer role have permissions that allow them to create and curate course content and view course usage data. However, these permissions may vary among institutions. </p>
+<p>Other course-level user roles with varying course-level access exist in Canvas. Designers may work with <a href="/t5/Canvas-Basics-Guide/What-is-the-Teacher-role/ta-p/86" target="_blank">Teachers</a> (who oversee <a href="/t5/Canvas-Basics-Guide/What-is-the-Teacher-Assistant-role/ta-p/84" target="_blank">Teacher Assistants)</a> and together they manage course content with which <a href="/t5/Canvas-Basics-Guide/What-is-the-Student-role/ta-p/71" target="_blank">Students</a> and <a href="/t5/Canvas-Basics-Guide/What-is-the-Observer-role/ta-p/4" target="_blank">Observers</a> engage. For more information about course-level user permissions, view the <a href="http://bit.ly/cnvs-course-permissions" target="_blank" rel="nofollow noopener noreferrer">Canvas Course Permissions PDF</a>.</p>
+<p>Designers may also use the Canvas Teacher app to view some course content including announcements, assignments, discussions, and Classic Quizzes.</p>
+<p>A designer may be enrolled in a course manually by an administrator or automatically by SIS import.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="teacher-role-use" data-step-uuid="66b684cb-035f-433d-acab-3b5e97de6619">
+    <h2 id="teacher-role-use" class="step-title screensteps-heading">Designer Role Use</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_aa626b5d-13c7-427a-b3b4-0d3b74b5694d" class="text-block-content">
+    <p>Designers may create course materials, view course usage data, and access and manage all areas of a Canvas course. For example, a designer may be added to a course with the Designer role to construct a course on behalf of a teacher. </p>
+<p>The Designer role allows a user to:</p>
+<ul>
+<li>Create and modify course content</li>
+<li>Manually add student enrollments in the course</li>
+<li>Communicate with course participants</li>
+<li>Access course usage reports</li>
+<li>Monitor and moderate the participation and interactions of all enrolled users in a course</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="teacher-access-in-canvas" data-step-uuid="5f5d94aa-8193-4fa8-ada3-ea2699a03145">
+    <h2 id="teacher-access-in-canvas" class="step-title screensteps-heading">Designer Access in Canvas</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4ce37a59-8520-429f-8b46-3a1415cffe06" class="text-block-content">
+    <p>By default, users with the Designer role may access all content areas of a Canvas course. However, these permissions may vary among institutions. To learn more about Designer participation in Canvas, view the <a href="https://s3.amazonaws.com/tr-learncanvas/docs/Canvas_Permissions_Course.pdf" target="_blank" rel="nofollow noopener noreferrer">Canvas Course Permissions PDF</a>. </p>
+<p><strong>A Designer can: </strong></p>
+<ul>
+<li>Add and delete external applications (LTI) for a course</li>
+<li>Add, edit, and delete assignments, Classic Quizzes, course files and pages, and all other course content</li>
+<li>Add, edit, and delete items in a course calendar, including Scheduler appointments</li>
+<li>Add, edit, and delete learning outcomes associated with course content</li>
+<li>Create, view, and post to course announcements and discussions</li>
+<li>Create and edit rubrics</li>
+<li>Create conferences and student collaborations </li>
+<li>Create, edit, and delete course sections and student groups</li>
+<li>Delete and lock discussions and edit others’ discussion posts</li>
+<li>Publish, conclude, and delete courses</li>
+<li>Send messages to other course users and to all members of a course</li>
+<li>View all student group pages for a course </li>
+<li>View and comment on student submissions</li>
+<li>View and link to question banks</li>
+<li>View and manage student course enrollments</li>
+<li>View usage reports for a course</li>
+</ul>
+<p><strong>A Designer cannot: </strong></p>
+<ul>
+<li>Build New Quizzes</li>
+<li>Create a Blueprint course</li>
+<li>Change the associated course term</li>
+<li>Generate observer pairing codes for students</li>
+<li>Masquerade as another user in a course</li>
+<li>Read SIS data</li>
+<li>Set up third party authentication for a course</li>
+<li>Unconclude a course</li>
+<li>Upload student enrollments via SIS imports</li>
+<li>View and manage the enrollment of teachers, other course designers, and teacher assistants in a course</li>
+<li>View course analytics</li>
+<li>View course change logs</li>
+<li>View grade audit trail</li>
+<li>View, moderate, and edit all grades</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="teacher-role-limitations" data-step-uuid="17c77d68-5e91-4b0a-ac21-2571ee40645f">
+    <h2 id="teacher-role-limitations" class="step-title screensteps-heading">Designer Role Limitations</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a6aa3248-312b-45e2-b10b-867db614db74" class="text-block-content">
+    <ul>
+<li>Designers cannot modify availability of any of the above permissions. Only administrators can modify access to these functions.  </li>
+<li>Designers can only create, modify, and moderate content for a course in which they are enrolled. </li>
+<li>Only users with administrative permissions may import SIS data. Designers cannot import SIS data. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

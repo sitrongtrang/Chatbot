@@ -1,0 +1,111 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9AE48970-AB9E-0135-7E9D-06467EE270FA" class="text-block-content">
+    <p>You can use a Notes column in the Gradebook to keep track of extra information in your course, such as extra student information or general notes. The Notes column is not visible to students. </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Instructors can only show and hide the Notes column. Admins can use the API to create additional columns, but they cannot be hidden. </li>
+<li>The Notes column is included in the gradebook export CSV file, and you can add notes via CSV import.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="9AE49F60-AB9E-0135-7E9E-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/766/997/original/9a25cb27-09c7-4e15-b3b6-73ac0ae81702.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9AE4CE00-AB9E-0135-7EA0-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="show_notes_column" data-step-uuid="9AE4E540-AB9E-0135-7EA1-06467EE270FA">
+    <h2 id="show_notes_column" class="step-title screensteps-heading">Show Notes Column</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/722/976/original/d4306f2b-f839-4812-90ca-ed8921b7cd56.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/722/976/medium/d4306f2b-f839-4812-90ca-ed8921b7cd56.png" srcset="" alt="Show Notes Column" height="579" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9AE50FD0-AB9E-0135-7EA3-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Settings</strong> icon [1]. </p>
+<p>To show the Notes column, click the <strong>View Options</strong> tab [2] and click the <strong>Notes </strong>checkbox [3]. Click the <strong>Apply Settings</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="insert_comments" data-step-uuid="9AE523B0-AB9E-0135-7EA4-06467EE270FA">
+    <h2 id="insert_comments" class="step-title screensteps-heading">Insert Comments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/155/original/d8ae0527-c469-4fbb-91a1-240487e1e7d9.png" srcset="" alt="Insert Comments" height="623" width="711">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9AE54A90-AB9E-0135-7EA6-06467EE270FA" class="text-block-content">
+    <p>To make a comment, click the note field for the appropriate student [1] and enter your note in the text field [2]. The note field allows up to 255 characters. To save your comment, click the <strong>Save</strong> button [3].</p>
+<p><strong>Note: </strong>To sort the Notes column, press the "s" key on your keyboard.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_comments" data-step-uuid="9AE56050-AB9E-0135-7EA7-06467EE270FA">
+    <h2 id="view_comments" class="step-title screensteps-heading">View Comments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/160/original/5df05ab2-a233-49ab-9078-6a59febfc5e2.png" srcset="" alt="View Comments" height="308" width="516">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9AE58EF0-AB9E-0135-7EA9-06467EE270FA" class="text-block-content">
+    <p>View your comments in the Notes column. You can view the full comment by resizing the column or re-clicking the notes text field.</p>
+<p><strong>Note</strong>: When you navigate away from the Gradebook, any changes to the size of the columns will be lost. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="hide_notes_column" data-step-uuid="9AE5A8E0-AB9E-0135-7EAA-06467EE270FA">
+    <h2 id="hide_notes_column" class="step-title screensteps-heading">Hide Notes Column</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/722/979/original/60fd9fdd-0fff-4a1b-a5b5-d249a128b149.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/722/979/medium/60fd9fdd-0fff-4a1b-a5b5-d249a128b149.png" srcset="" alt="Hide Notes Column" height="579" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9AE5D4A0-AB9E-0135-7EAC-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Settings</strong> icon [1]. </p>
+<p>To hide the Notes column, click the <strong>View Options</strong> tab [2] and deselect the <strong>Notes </strong>checkbox [3]. Click the <strong>Apply Settings</strong> button [4].</p>
+<p><strong>Note</strong>:<strong> </strong>Hiding the Notes column does not lose any changes.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

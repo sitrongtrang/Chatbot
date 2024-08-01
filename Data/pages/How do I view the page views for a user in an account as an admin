@@ -1,0 +1,127 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_521C5EF0-1D82-0135-0214-22000AB760A3" class="text-block-content">
+    <p>You can view the page views for a user in your account. You can also download page views as a CSV file.</p>
+<p>The Page views section only displays user data for the last 365 days.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Viewing page views is an account permission. If you cannot view page views, your institution has restricted this feature. </li>
+<li>Because mobile page view data is based on device settings and network connection, it may vary from the time the page views actually occurred. Page view data should not be used to assess academic integrity.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="ea294bd6-fb88-4cee-969f-5942d86f343f">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_521C9240-1D82-0135-0216-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-people" data-step-uuid="0d36425c-e18a-4664-9eb4-e8d470eead7b">
+    <h2 id="open-people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/420/original/59a3b177-c463-4464-9ce9-51c59096b183.png" srcset="" alt="Open People" height="298" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d6a05315-2b2e-4702-ba4c-59c93665ae14" class="text-block-content">
+    <p>In Account Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_user" data-step-uuid="9ab1636a-7491-412d-9aa1-9971f58d3db9">
+    <h2 id="find_user" class="step-title screensteps-heading">Find User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/076/220/original/find-user.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png" srcset="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png 2.0x, https://media.screensteps.com/image_assets/assets/008/076/220/medium_lowres/find-user.png" alt="Find User" height="103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b6bec552-ecb4-4726-a4a1-abf815658b29" class="text-block-content">
+    <p>Use the filter and search options to find the user in the account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_profile" data-step-uuid="fe16415b-1491-48ef-8d4b-e9a1d945a971">
+    <h2 id="open_user_profile" class="step-title screensteps-heading">Open User Profile</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/987/777/original/26123462-8f35-430d-98ff-eaadbbe26c2e.png" srcset="" alt="Open User Profile" height="176" width="589">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9cc3c25a-b718-43d4-941d-68b864fd1d5c" class="text-block-content">
+    <p>In the search results, click the user's name.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_page_views" data-step-uuid="48A140B8-72B4-4A14-B5BA-5D4758705EA0">
+    <h2 id="view_page_views" class="step-title screensteps-heading">View Page Views</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/850/474/original/73ddf166-45fe-4f41-8284-0f64c01e29c8.png" srcset="" alt="View Page Views" height="342" width="848">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_521D51B0-1D82-0135-021E-22000AB760A3" class="text-block-content">
+    <p>At the bottom of the User Details page, the Page Views table shows the URL the student viewed [1], the date the page was accessed [2], whether or not the user participated in the page [3], the interaction time with the page [4], and the user's browser agent [5]. </p>
+<p>In the User Agent column, you can also view if the user participated in a course using an access token from a developer key. The name of the associated app will appear in the page views, which helps differentiate user access tokens from web sessions and identify the associated developer key. Page views also support activity in Canvas mobile apps, so you can view when a user accesses and participates in a course using a mobile device. Mobile page views are sent to Canvas from the mobile apps when a user leaves, or backgrounds, the app.</p>
+<ul>
+<li>
+<em>Participated</em> indicates whether the user participated in an activity that required action, such as submitting an assignment, replying to a discussion, or contributing to a page.</li>
+<li>
+<em>Time</em> is calculated by the number of seconds a user interacts with a Canvas page. Canvas records interactions at a minimum of 10 seconds or a maximum of 5 minutes to document when a user physically interacts with the page, such as clicking the mouse or using the keyboard. </li>
+</ul>
+<p>You can download the page views as a CSV file by clicking the CSV link [6]. The generated CSV file contains more information than displayed in the Page Views window, such as the IP address used for each page view.</p>
+<p>You can filter the page views by date. To add a date filter, enter the date in the <strong>Filter by date</strong> field or click the Calendar icon [7].</p>
+<p>For further details about student interaction you can view individual student analytics in a course.</p>
+  </div>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8a7dd7de-8a70-453d-869e-1f298be8152f" class="text-block-content">
+    <p><strong>Notes:</strong> </p>
+<ul>
+<li>The CSV file will only display up to 300 lines of data. Information existing outside of this range can be accessed via the Canvas <a href="https://canvas.instructure.com/doc/api/users.html" target="_blank" rel="nofollow noopener noreferrer">Users API</a>.</li>
+<li>Descriptions of Page Views CSV column headings can be found in the the <a href="https://canvas.instructure.com/doc/api/users.html#PageView" target="_blank" rel="nofollow noopener noreferrer">Canvas Users API documentation</a>.</li>
+<li>The Page Views CSV file contains information about user activity in Canvas. When an admin masquerades as a user, the real_user_id column displays the admin's User ID. A blank cell in this column indicates that the user was logged in.</li>
+<li>The Date column displays in the time zone of the viewer.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

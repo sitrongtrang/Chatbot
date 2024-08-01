@@ -1,0 +1,13 @@
+How do I make API calls in an account with an access token as an admin
+Option One: Make A Call Over HTTPS
+GET /api/v1/courses.json
+All API calls must also be made over HTTPS. The access token must be included as a URL query parameter in any API calls made to Canvas. For example, the endpoint to grab the user's list of courses is:
+GET /api/v1/courses.json
+To retrieve Bob's list of course and if Bob's access token were "token_of_magical_power" then you would call
+GET /api/v1/courses.json?access_token=token_of_magical_powers
+For a detailed example of using the API, check out the API basics documentation on github.
+Option Two: Make A Call Using A Request Header
+The other way to make an API call with an access token is to add it to the request header. If using curl (a command line program that can be used for running API requests) you would specify the access token like this. 
+curl -H "Authorization: Bearer <token>" 'https://<canvas>/api/v1/accounts/<account_id>/courses.json'
+Notice that the access_token is not in the URL at all.
+See the example on the API documentation site. 

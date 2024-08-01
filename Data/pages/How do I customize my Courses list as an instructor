@@ -1,0 +1,93 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_62958700-216A-0135-32C6-22000BC102FE" class="text-block-content">
+    <p>When you are enrolled in more than one Canvas course, you can customize the active courses you want to show in your Course list. Courses you want to show in the Courses drop-down menu are called favorite courses. You can favorite any active course that appears on the course list page. Course favorites also display in the <a href="/t5/Instructor-Guide/How-do-I-view-my-favorite-courses-in-the-Card-View-Dashboard-as/ta-p/803" target="_blank">Card View Dashboard</a>.</p>
+<p>When no courses are favorited, the courses list automatically displays up to 20 courses alphabetically in the drop-down menu. However, once you have selected at least one course as a favorite, only your favorite courses will appear in the Courses list.</p>
+<p><strong>Note:</strong> Courses are always listed alphabetically; you cannot reorder your courses manually.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_courses" data-step-uuid="9bffb1fc-8aa4-4a4f-97e3-86b2270bd2f3">
+    <h2 id="open_courses" class="step-title screensteps-heading">Open Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/952/802/original/open-courses.png" srcset="https://media.screensteps.com/image_assets/assets/007/952/802/original/open-courses.png 2.0x, https://media.screensteps.com/image_assets/assets/007/952/802/original_lowres/open-courses.png" alt="Open Courses" height="611" width="452">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6295B9D0-216A-0135-32C8-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the <strong>All Courses</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_courses" data-step-uuid="3C3E73EE-E5D9-4A6F-82E7-417BDAF39B09">
+    <h2 id="manage_courses" class="step-title screensteps-heading">Manage Courses</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/401/577/original/722360e6-37b5-4e79-8986-992b91ed563d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/401/577/medium/722360e6-37b5-4e79-8986-992b91ed563d.png" srcset="" alt="Manage Courses" height="275" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6295E780-216A-0135-32CA-22000BC102FE" class="text-block-content">
+    <p>To favorite a course, click the star next to a course [1]. Courses with filled stars show the course is a favorite [2].</p>
+<p>In the Dashboard, any courses you have with an instructor role will be listed first, followed by TA roles and any other custom instructor-based roles. Your courses with student roles are listed last.</p>
+<p><strong>Note:</strong> When you favorite at least one course, the Dashboard will only display favorited courses. Canvas will also continue to automatically favorite new course enrollments.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_unpublished_courses" data-step-uuid="6996ef34-71d2-451e-b369-da951ff10586">
+    <h3 id="view_unpublished_courses" class="step-title screensteps-heading">View Unpublished Courses</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/401/579/original/2130037c-caea-4a13-ba3e-7fc707445ca6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/401/579/medium/2130037c-caea-4a13-ba3e-7fc707445ca6.png" srcset="" alt="View Unpublished Courses" height="231" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_62961510-216A-0135-32CC-22000BC102FE" class="text-block-content">
+    <p>Unpublished courses can be identified by a gray background [1] and the Published column [2]. You can favorite unpublished courses.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_past_enrollments" data-step-uuid="76978eee-536d-4dc5-9e63-c0abe7ae54a8">
+    <h3 id="view_past_enrollments" class="step-title screensteps-heading">View Past Enrollments</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/411/413/original/3889fc34-e481-4567-9a7b-4e1a677972c3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/411/413/medium/3889fc34-e481-4567-9a7b-4e1a677972c3.png" srcset="" alt="View Past Enrollments" height="228" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_62964410-216A-0135-32CE-22000BC102FE" class="text-block-content">
+    <p>Depending on course configuration, you may still be able to view concluded courses under the Past Enrollments heading [1]. However, favorite courses are not automatically removed as favorites when courses conclude. If a past enrollment course still shows as a favorite, you can unfavorite the course by clicking the star icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,149 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_93166E3B-BF45-427D-8229-93B71B3DDCCE" class="text-block-content">
+    <p>You can use the Google Assignments LTI 1.3 to create a collaboration with a Google Document, Spreadsheet, Presentation, or other Workspace files. </p>
+<p>Google Docs allows you to add up to 50 users per collaboration, and all users can view and edit a document at the same time. However, a Google file may be shared with up to 200 email addresses including viewers, commenters, and editors. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li> Google Assignments LTI 1.3 collaborations are separate from <a href="/t5/Instructor-Guide/How-do-I-create-a-Google-Drive-collaboration-as-an-instructor/ta-p/632" target="_blank">Google Drive collaborations</a> and <a href="/t5/Instructor-Guide/How-do-I-create-a-Google-Docs-collaboration-as-an-instructor/ta-p/634" target="_blank">Google Docs collaborations</a>. If you cannot create a  Google Assignments LTI 1.3 collaboration, this feature has not been enabled for the course.</li>
+<li>Once you invite a user to a collaboration, the collaboration is available to the user in the user's Google Drive. Uninviting the user or deleting the collaboration does not remove access to the collaboration once a user has been added.</li>
+<li>When creating a collaboration you cannot link to a previously created collaboration.</li>
+<li>Once you have created a Google Assignments LTI 1.3 collaboration, only users invited to participate in the collaboration may access and edit the document. The document's share settings cannot be modified from within the Drive document. The only way to add a collaborator is by adding them to the collaboration in Canvas.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_collaborations" data-step-uuid="54AFE8B0-16C5-4C3F-8D6C-58BB1A834262">
+    <h2 id="open_collaborations" class="step-title screensteps-heading">Open Collaborations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/480/original/323e1f5e-a39e-45ac-9da7-cb5358c6a532.png" srcset="" alt="Open Collaborations" height="232" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_FBD7DC5B-75E9-406B-8E79-68DFD963A11F" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Collaborations </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_collaboration" data-step-uuid="220AED1B-E9F7-45C9-BCBC-BADE29C6E2C8">
+    <h2 id="add_collaboration" class="step-title screensteps-heading">Start a New Collaboration</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/935/414/original/a777d69c-7fb7-4e38-a067-ade3c6151a84.png" srcset="" alt="Start a New Collaboration" height="63" width="176">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_516D9EDB-5A6D-4C32-8E38-A4F3779511D8" class="text-block-content">
+    <p>Click the <strong>Add Collaboration </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="authorize-google" data-step-uuid="6B02D55F-A47C-409D-8708-D5786762AFF4">
+    <h3 id="authorize-google" class="step-title screensteps-heading">Sign in to Google</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/935/416/original/6540db65-d2d2-42ae-a5aa-d23c2bb8dfcd.png" srcset="" alt="Sign in to Google" height="374" width="759">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_08EFACE7-BC98-4CE6-814E-42820AAE24AA" class="text-block-content">
+    <p>If you have not previously authorized Google Drive access in Canvas, you may be prompted to sign in. Click the <strong>Sign in</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/935/668/original/daf0bae6-793d-4173-a565-8f2afc764c8c.png" srcset="" alt="Select Google Account" height="538" width="484">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF117791-0AC7-4444-9021-836EFEA4FC54" class="text-block-content">
+    <p>Select your Google account.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_details" data-step-uuid="6A18BE85-85B8-42D0-AC29-92A4C9C83EE4">
+    <h2 id="add_details" class="step-title screensteps-heading">Add Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/935/420/original/2d829fdc-de4e-4f0b-9231-de7808e007fb.png" srcset="" alt="Add Details" height="258" width="770">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9451D0CB-39CC-441E-9DDB-81D5A6EF09CC" class="text-block-content">
+    <p>To add a title for the collaboration, enter a title in the <strong>Title</strong> field [1].</p>
+<p>In the <strong>File type</strong> drop-down menu, select the type of collaboration you want to create [2]. You can create docs, slides, sheets, forms, drawings, or sites.</p>
+<p>To add a description for the collaboration, enter text in the <strong>Description </strong>field [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_people" data-step-uuid="C2C04791-37EA-41F2-9C25-023CB9AADBF2">
+    <h2 id="add_people" class="step-title screensteps-heading">Invite Collaborators</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/935/422/original/5dc8eeb0-f36f-41d3-80ed-6c5c2a10642f.png" srcset="" alt="Invite Collaborators" height="383" width="777">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A04B747F-96BC-45F9-A16B-86FE31DAFDB0" class="text-block-content">
+    <p>Click the checkbox next to the name of a user you want to add to the collaboration [1]. To select or deselect all users, click the <strong>Collaborators Selected</strong> checkbox [2].</p>
+<p>Add as many users as necessary. </p>
+<p><strong>Note: </strong>Collaborators must have a Google account and will need to authorize Canvas before they can view the collaboration.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit_collaboration" data-step-uuid="AD9B00B2-9318-4E18-8BE5-1FFC5EBAD6D7">
+    <h2 id="submit_collaboration" class="step-title screensteps-heading">Create Collaboration</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/935/670/original/b1311aef-c902-4cb5-803d-058c5b2e0fb8.png" srcset="" alt="Create Collaboration" height="328" width="546">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9BC2D476-0F8C-4A53-8E4C-10B0D6EC7904" class="text-block-content">
+    <p>Click the <strong>Create </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_collaboration" data-step-uuid="DB53C121-20C8-4B1E-82E7-927E17F0C3ED">
+    <h2 id="view_collaboration" class="step-title screensteps-heading">View Collaboration</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/935/672/original/48256538-4c86-49d3-97f2-cd396e70bae8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/935/672/medium/48256538-4c86-49d3-97f2-cd396e70bae8.png" srcset="" alt="View Collaboration" height="113" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_715CD139-B148-4B1E-9C25-ECEDC837FCF7" class="text-block-content">
+    <p>View your collaboration. To edit the collaboration, click the <strong>Edit </strong>icon [1]. To delete the collaboration, click the <strong>Delete </strong>icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

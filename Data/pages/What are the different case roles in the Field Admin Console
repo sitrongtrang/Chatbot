@@ -1,0 +1,110 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9BAEC190-0C0E-0135-4E72-22000B5A851D" class="text-block-content">
+    <p>The Field Admin Console includes five common case roles: Requester, Owner, Contact, CC, and Case Team. Modifications for Requester and CC roles are detailed in this lesson.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="requester" data-step-uuid="51176eea-2301-4849-9489-a7542d9f8612">
+    <h2 id="requester" class="step-title screensteps-heading">Requester</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/187/459/original/c8e72add-2cf4-4328-af05-85d6c2ff8978.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/187/459/medium/c8e72add-2cf4-4328-af05-85d6c2ff8978.png" srcset="" alt="Requester" height="305" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9BB0B8F0-0C0E-0135-4E74-22000B5A851D" class="text-block-content">
+    <p>The Requester is the individual who first reports an issue and requires assistance. Under the Case Details tab, the Requester's information can be found under User's Name and User's Email.</p>
+<p>Requesters can be modified by updating the Web Email field of a case.</p>
+<p><strong>Note: </strong>If a case is created without a value in the Web Email field, the email address displays as replace.me@example.com. This address indicates that the field should be updated as soon as possible.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="owner" data-step-uuid="1674e323-5e3b-469d-89a6-10c327d58707">
+    <h2 id="owner" class="step-title screensteps-heading">Owner</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/187/462/original/0b2e8ab7-abfd-4d27-ab93-f70d17b20a56.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/187/462/medium/0b2e8ab7-abfd-4d27-ab93-f70d17b20a56.png" srcset="" alt="Owner" height="86" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9BB23050-0C0E-0135-4E76-22000B5A851D" class="text-block-content">
+    <p>The Owner is the individual who has responsibility for the case. Owners can transfer cases to other Field Admins or escalate them to the Instructure Support Team.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="contact" data-step-uuid="a69e39bd-8256-4ac1-8b8f-54e3ad45043f">
+    <h2 id="contact" class="step-title screensteps-heading">Contact</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/187/464/original/b5f87ccd-4258-40a5-8bf8-9994090802e9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/187/464/medium/b5f87ccd-4258-40a5-8bf8-9994090802e9.png" srcset="" alt="Contact" height="86" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9BB2EA00-0C0E-0135-4E78-22000B5A851D" class="text-block-content">
+    <p>The Contact is the individual who facilitates communication with the Requester. In cases where the Field Admin is set as Owner, they hold both Owner and Contact roles. If that case is escalated to Instructure, the support agent is the Owner, but the Field Admin remains as the Contact. This arrangement allows the Field Admin to actively participate in the case while it is in the hands of the Support Team.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="cc-carbon-copy" data-step-uuid="ea36e546-b724-4f47-aa07-5cb8d156a851">
+    <h2 id="cc-carbon-copy" class="step-title screensteps-heading">CC (Carbon Copy)</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/187/466/original/cf6efd01-11b7-4e15-b24e-b911a5d24933.png" srcset="" alt="CC (Carbon Copy)" height="596" width="402">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9BB3D5E0-0C0E-0135-4E7A-22000B5A851D" class="text-block-content">
+    <p>Carbon Copy (CC) is an individual who is added to a case to receive notifications on the progress of a specific case. Multiple individuals can be added as a CC but must be added on a case-by-case basis. CCs can be added to a case using the Add CC field within a case.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The email support@instructure.com cannot be added as a CC to a case.</li>
+<li>If a case is created via email, anyone placed as a CC on the original email will be automatically added as a CC on the case.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="case-team" data-step-uuid="1e076b72-43f2-49c0-a8ce-22abf94a9592">
+    <h2 id="case-team" class="step-title screensteps-heading">Case Team</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/492/744/original/d266209f-a382-4759-a2a5-05b6bb26ce99.png" srcset="" alt="Case Team" height="42" width="216">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9BB4A5E0-0C0E-0135-4E7C-22000B5A851D" class="text-block-content">
+    <p>The Case Team includes Account contacts and Field Admins who will receive notifications for all cases within an account.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

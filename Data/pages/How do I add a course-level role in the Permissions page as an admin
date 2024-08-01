@@ -1,0 +1,134 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_053C89B0-1D61-0135-430E-22000B5A851D" class="text-block-content">
+    <p>You can create course-level roles in Canvas. Course roles are granted to each Canvas user and define the type of access each user has in the course. <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Course-Role-Permissions-Comparison/ta-p/511022" target="_blank">Default roles</a> include student, teacher (instructor), teacher assistant (TA), designer, and observer, but you can also create custom course-level roles depending on the needs of your institution. </p>
+<p>Once a role is created, you can <a href="/t5/Admin-Guide/How-do-I-set-permissions-for-a-course-level-role-in-an-account/ta-p/101" target="_blank">manage course-level permissions</a>. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>When a user receives an enrollment invitation for a course role, the invitation displays the name of the base role.</li>
+<li>When you change a permission, it can sometimes take 30 minutes or longer for that permission to take effect. If the expected changes do not appear immediately, try again after some time has passed.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="276e3bb9-9f6e-4704-bb6b-6c4ac23a11be">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_053CC0F0-1D61-0135-4310-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_permissions" data-step-uuid="0ABA7FEC-D656-45E3-B845-3893B0C9EA29">
+    <h2 id="open_permissions" class="step-title screensteps-heading">Open Permissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/530/original/62f61175-8503-479d-bb7e-303d09e04f3b.png" srcset="" alt="Open Permissions" height="300" width="180">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_053D9260-1D61-0135-4312-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Permissions </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_role" data-step-uuid="E305FA7C-A62C-461C-9693-AE11B0912AB0">
+    <h2 id="add_role" class="step-title screensteps-heading">Add Role </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/802/398/original/a7c8246c-7929-497f-9edf-ce72f58f36ad.png" srcset="" alt="Add Role " height="154" width="777">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_053DC860-1D61-0135-4314-22000B5A851D" class="text-block-content">
+    <p>In the Course Roles tab, click the <strong>Add Role </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_role_name" data-step-uuid="1B2DB1D4-6572-4A13-B342-639D0A51D49F">
+    <h2 id="add_role_name" class="step-title screensteps-heading">Add Role Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/802/402/original/a2cd8dbb-a924-4fdd-9703-6fd1f686f044.png" srcset="" alt="Add Role Name" height="189" width="329">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_053DFC20-1D61-0135-4316-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Role Name</strong> field, type the name of the new role.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_user_type" data-step-uuid="30023269-7C83-4820-B19F-7D18C9CA34AF">
+    <h2 id="select_user_type" class="step-title screensteps-heading">Select User Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/802/404/original/a44ddd24-4280-4f93-8c2c-50d6157d686d.png" srcset="" alt="Select User Type" height="364" width="329">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_053E2F40-1D61-0135-4318-22000B5A851D" class="text-block-content">
+    <p>In the Base Type field, select the type of user you want to apply to the role. You can choose from student, teacher, TA, designer, or observer.</p>
+<p>The base role you select will determine the default permissions for the new user role.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_role" data-step-uuid="630946a1-6cea-460b-a53c-e573979e1997">
+    <h2 id="save_role" class="step-title screensteps-heading">Save Role</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/802/400/original/88a5c3bf-9d0a-42f4-83c6-b90e6d34fe36.png" srcset="" alt="Save Role" height="70" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_053E6B10-1D61-0135-431A-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course_role" data-step-uuid="E49E4201-4E3A-4FEF-A81E-BC21104C950B">
+    <h2 id="view_course_role" class="step-title screensteps-heading">View Course Role</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/946/688/original/dc32ba9d-12c9-4174-ba53-8c1768adbd82.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/946/688/medium/dc32ba9d-12c9-4174-ba53-8c1768adbd82.png" srcset="" alt="View Course Role" height="346" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_053F5350-1D61-0135-431C-22000B5A851D" class="text-block-content">
+    <p>View the new course-level role.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

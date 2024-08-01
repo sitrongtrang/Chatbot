@@ -1,0 +1,32 @@
+How do I add a new term in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Terms
+In Account Navigation, click the Terms link.
+Add New Term
+Click the Add New Term link.
+Add Term Details
+In the Term Name field, enter a name for the term. This name will be displayed as part of any course added to the term.
+If your institution is using SIS IDs, you can enter an SIS ID for the term in the SIS ID field. In SIS CSV files, the SIS ID is called the course ID.
+Add Term Dates
+In the Term Runs from line, use the calendar icons to set a term start date and term end date. 
+By default, the student dates to view courses inherit the Term Runs from [start date] to [end date], and Teachers, TAs, and Designers dates inherit a whenever start date to [term end date]. 
+Notes: 
+By default, term access is cut off at 12 AM on your indicated end date, meaning the previous day is the last full day that users have access to the term. For instance, setting an end date of December 16 means December 15 is the last full day users can access the course. However, you can set a specific time as part of the term dates.
+End dates occur at precisely the minute they are set. For example, a term with an end time at 11:59pm will end at 11:59:00.
+Add User Dates
+Each term allows you to set specific participation dates for each user role. 
+If you want each user role to inherit the default term dates, you do not need to enter any dates. Once you save the term and add it to your account, the user roles will display the following defaults:
+Students inherit the term start and term end date (identified in the Terms page as term start and term end).
+Teachers, TAs, and Designers dates inherit a whenever start date to the term end date (identified in the Terms page as term end). Whenever means that there is no start date, and these user roles can always access a course before the term begins.
+Modify User Dates
+If you want to set start and end dates for a specific user role, locate the role and set dates for that role.
+For example, if you want teachers to only be able to access unpublished courses two months before the term start date, and TAs only one week before the term start date, you can set a new start date for each of their respective roles. Date changes to a base role affect all users with the role, including custom roles. 
+Notes: 
+Use caution when editing a whenever date, as the whenever entry is no longer available after it is edited. 
+Changing the Teachers, TAs, and Designers start dates affects their ability to access unpublished courses in the term.
+Add Term
+Click the Add Term button.
+Manage Term
+To edit the term details, click the Edit icon. To delete the term, click the Delete icon. 
+Note: Terms cannot be deleted if they contain courses.

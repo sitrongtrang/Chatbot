@@ -1,0 +1,222 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E6295A40-1D41-0135-57F6-22000BC102FE" class="text-block-content">
+    <p>You can create new grading periods for all courses within your institution. Grading periods can only be created at the account level. </p>
+<p>Concluded grading periods should never be edited and reused for future terms. Future terms should be added to a new grading period set, with dates defined specifically for the future term. Retaining concluded terms and their associated grading periods ensures accuracy in grading reports. </p>
+<p><strong>Grading Periods</strong></p>
+<p>Grading periods are created within a grading period set and associated with a term. All courses associated with the term automatically inherit the grading periods created for the term. Each term can only be associated with one grading period set, but multiple terms can be in the same grading period set. Multiple terms can be added to a grading set if the courses in the terms use the same grading periods. Grading periods can be added to the grading period set in any order and are organized by start date. Start and end dates cannot overlap in a grading period. </p>
+<p>Grading periods can also be weighted. When this option is enabled, the overall grade for each term is calculated by taking the final grades for each grading period and applying each grading period’s weight.</p>
+<p>In the course grading scheme, instructors can view the grading periods associated with the course term.</p>
+<p><strong>Close Dates</strong></p>
+<p>You can also add a close date to grading periods, which allows you to extend the time that instructors can edit grades after the grading period has ended. By default, the close date is the same as the end date. However, the close date can be edited to any date after the end date.</p>
+<p> At the course level, Canvas validates assignments against closed grading periods in Canvas. Currently, Canvas only validates assignments against closed grading periods in the Gradebook and SpeedGrader. Other feature areas will be validated in upcoming releases. For current limitations associated with the close date feature, please view the <a href="https://community.canvaslms.com/docs/DOC-8298" target="">Close Dates for Grading Periods</a> document in the Canvas Community.</p>
+<p><strong>Multiple Terms and Grading Periods</strong></p>
+<p>If your institution requires different grading periods to be active at the same time, you can create additional terms and add them to a new or current grading period set. For instance, if your district needs grading periods for both semesters and quarters, you can create a new term for each school and place the terms within different grading period sets—one created for semesters and one created for quarters. In the Terms page, each term will display its associated grading period. </p>
+<p>All courses in a term are associated with the grading period. If your institution requires some courses in a term to not be associated with a grading period, you must create a separate term for those courses that is not associated with a grading period.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Once a term is associated with a grading period, the name of the grading period displays with the term in the Terms page.</li>
+<li>Sub-accounts and courses display grading periods in a read-only state; changes can only be made at the account level.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="f55795ce-4189-41e7-afa9-3a1eae0a0b59">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3a54225a-fdea-4eba-b539-33e0b71ea2db" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grading" data-step-uuid="afea4edd-6747-4840-867a-b3f6461950f9">
+    <h2 id="open_grading" class="step-title screensteps-heading">Open Grading</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/797/274/original/open-grading-.png" srcset="https://media.screensteps.com/image_assets/assets/005/797/274/original/open-grading-.png 2.0x, https://media.screensteps.com/image_assets/assets/005/797/274/original_lowres/open-grading-.png" alt="Open Grading" height="312" width="161">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E62990F0-1D41-0135-57F8-22000BC102FE" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Grading</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open_grading_periods" data-step-uuid="3dac82b3-e967-40db-adf3-cfd556de1f03">
+    <h3 id="open_grading_periods" class="step-title screensteps-heading">Open Grading Periods</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/261/950/original/7dba40f9-f6ef-44c2-91b1-953ff98a11e0.png" srcset="" alt="Open Grading Periods" height="175" width="461">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8b658000-5404-4ae6-a0fc-fe3df9aff9e7" class="text-block-content">
+    <p>Click the <strong>Grading Periods</strong> tab. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_set_of_grading_periods" data-step-uuid="218cd793-fa79-4a93-86ff-ea2d2a52ea61">
+    <h2 id="add_set_of_grading_periods" class="step-title screensteps-heading">Add Set of Grading Periods</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/870/952/original/c1b943bb-ebbc-4daa-9db1-0b06128830b3.png" srcset="" alt="Add Set of Grading Periods" height="70" width="237">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E629C0C0-1D41-0135-57FA-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Set of Grading Periods</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_set_name" data-step-uuid="8aac09af-95f8-472f-afce-00fdcc69d476">
+    <h2 id="create_set_name" class="step-title screensteps-heading">Create Set Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/870/954/original/5ca5b190-9e97-4c53-b635-2ded502a9900.png" srcset="" alt="Create Set Name" height="213" width="622">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E629ED70-1D41-0135-57FC-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Set Name</strong> field, enter a name for the grading period set.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="attach_terms" data-step-uuid="7d390eeb-1828-4309-be2c-91c857996fda">
+    <h2 id="attach_terms" class="step-title screensteps-heading">Attach Terms</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/870/956/original/323dff37-c322-44fe-b64a-b02231a4c0e4.png" srcset="" alt="Attach Terms" height="445" width="593">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E62A1E30-1D41-0135-57FE-22000BC102FE" class="text-block-content">
+    <p>If you want to attach an existing term to the grading period set, click the <strong>Attach Terms</strong> field. In the drop-down list, select the term(s) you want to associate with the grading period set. Terms are sorted by date; once a term is selected, the term is removed from the drop-down list. Terms can only be associated with one grading period set. </p>
+<p>You can edit a grading period set and add a term at any time. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_grading_period_options" data-step-uuid="cdcfe8e9-09d5-4a0c-a03c-3193a633aa1e">
+    <h2 id="set_grading_period_options" class="step-title screensteps-heading">Set Grading Period Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/870/958/original/8edfdc19-63e6-4169-810c-f4610cfdfa25.png" srcset="" alt="Set Grading Period Options" height="459" width="668">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E62A5160-1D41-0135-5800-22000BC102FE" class="text-block-content">
+    <p>You can also choose to set two options for the grading period.</p>
+<p>If you want to create each grading period with an individual weight, click the <strong>Weighted grading periods</strong> check box [1]. </p>
+<p>When users view the All Grading Periods option in the grading periods drop-down menu, you can allow them to view total grades and any assignment group totals in the course by clicking the <strong>Display totals for All Grading Periods option</strong> check box [2]. If this check box is not selected, users can still view the total grade within an individual grading period.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_set" data-step-uuid="ae309859-5337-48d4-9ab7-86e558bc3010">
+    <h2 id="create_set" class="step-title screensteps-heading">Create Grading Period Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/870/960/original/78dd363f-f135-4224-b8c4-92ccbb18948f.png" srcset="" alt="Create Grading Period Set" height="74" width="196">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E62A8030-1D41-0135-5802-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Create </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_grading_period" data-step-uuid="ef50ad63-afa1-40fb-a3a4-1a3492148a69">
+    <h2 id="add_grading_period" class="step-title screensteps-heading">Add Grading Period</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/870/962/original/eb7e6d10-7fc8-4362-87ec-89524a3a4ba7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/870/962/medium/eb7e6d10-7fc8-4362-87ec-89524a3a4ba7.png" srcset="" alt="Add Grading Period" height="105" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E62AB420-1D41-0135-5804-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Grading Period </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_grading_period_details" data-step-uuid="02768afc-571c-4be2-b5a5-f99b15ff88df">
+    <h2 id="add_grading_period_details" class="step-title screensteps-heading">Add Grading Period Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/870/964/original/a7f90813-e3dd-4e03-89e5-3db603888966.png" srcset="" alt="Add Grading Period Details" height="406" width="773">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E62AE1C0-1D41-0135-5806-22000BC102FE" class="text-block-content">
+    <p>In the Grading Period Title field [1], create a title for the grading period. </p>
+<p>In the start date field [2], enter a start date for the grading period. Start dates default to 12:00 AM. You can also use the calendar icon to select a date. </p>
+<p>In the end date field [3], enter or select an end date for the grading period. End dates default to 11:59 PM.</p>
+<p>The close date [4] defaults to the end date. To change the close date, enter or select a new close date.</p>
+<p>If you enabled weighted grading [5], enter the preferred weighted percentage for the grading period. Grading periods can include any percentage greater than zero, and the total sum of all grading periods does not have to equal 100%.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_grading_period" data-step-uuid="6f71a677-a410-4d13-86ec-81d217857e30">
+    <h2 id="save_grading_period" class="step-title screensteps-heading">Save Grading Period</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/870/966/original/63eea5ad-7388-45e4-9f98-4b3e251575e6.png" srcset="" alt="Save Grading Period" height="80" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E62B11F0-1D41-0135-5808-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_grading_periods" data-step-uuid="b60b0f90-3bb4-4f0f-bf86-c7075d3f6217">
+    <h2 id="manage_grading_periods" class="step-title screensteps-heading">Manage Grading Periods</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/870/968/original/1c5ddc7d-5975-46e5-a3de-dbd04d3e36b1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/870/968/medium/1c5ddc7d-5975-46e5-a3de-dbd04d3e36b1.png" srcset="" alt="Manage Grading Periods" height="261" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E62B41A0-1D41-0135-580A-22000BC102FE" class="text-block-content">
+    <p>To add another grading period, click the <strong>Add Grading Period </strong>link [1]. To edit the grading period dates, click the <strong>Edit </strong>icon [2]. To delete a grading period, click the <strong>Delete </strong>icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

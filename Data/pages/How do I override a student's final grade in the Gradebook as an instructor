@@ -1,0 +1,130 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_a242e267-5d49-4a22-b5ce-1d67c617be7e" class="text-block-content">
+    <p>The Final Grade Override allows you to enter a final grade for students that is different from the grade automatically calculated by Canvas in the Gradebook. You can enter a letter grade or a percentage. A letter grade results in the lower bound of the grading scheme. A percentage is retained as the override score.</p>
+<p>An override can be applied to final grades in grading periods, but the overridden grades from the grading period will not affect the student's total final course grade.</p>
+<p>Students can view the overridden grade in their Grades page. However, students will not know the score has been overridden.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Final Grade Override is currently a course opt-in feature. To enable the final grade override feature option, learn how to <a href="https://community.canvaslms.com/docs/DOC-13029-4152156575" target="_blank">manage course features</a>.</li>
+<li>When a grader, such as an instructor or TA, enables the Final Grade Override option, the Override column displays for all graders in the course. Likewise, the Override column will be hidden if disabled by another grader in the course.</li>
+<li>The override column is included in Gradebook exports and can be changed with a Gradebook import.</li>
+<li>If your SIS accepts final grades through grade passback, any entered override grades are included in SIS syncs in place of the calculated final grade.</li>
+<li>After the final grade override feature option has been enabled in a course, both the Gradebook and Final Grade Override options cannot be disabled.</li>
+<li>Your Canvas admin may need to configure SIS sync settings for final grade overrides to correctly sync to your SIS.</li>
+<li>When a final grade override is entered as a letter grade, the percentage score for the assignment is the lower limit of the range assigned to that letter grade in the grading scheme. For example, your course grading scheme may designate a range of 86% to 89% for a B+ letter grade. Entering a B+ for a final grade override assigns a percentage of 86%. To ensure students receive a specific percentage for their final grade, enter the grade override as a percentage.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-grades" data-step-uuid="81dda38e-aee1-4164-aa2d-8f30aa84ece5">
+    <h2 id="open-grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/067/original/dbf47cc7-a501-413f-9991-70c86a025881.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_edf3fcf3-9b13-470a-ab16-1d12c09ad59a" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-gradebook-settings" data-step-uuid="9befe10f-ae7b-483e-ac05-226712a70f73">
+    <h2 id="open-gradebook-settings" class="step-title screensteps-heading">Open Gradebook Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/729/861/original/caf0f435-c3d7-4442-a225-79dd9322115f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/729/861/medium/caf0f435-c3d7-4442-a225-79dd9322115f.png" srcset="" alt="Open Gradebook Settings" height="60" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6c8bb728-9890-41c7-be49-dd94bf725a04" class="text-block-content">
+    <p>Click the <strong>Settings</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-final-grade-override" data-step-uuid="62d33a75-8b66-4264-8a3d-0fb813838902">
+    <h2 id="select-final-grade-override" class="step-title screensteps-heading">Select Final Grade Override</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/729/863/original/6db013aa-cd9b-471d-bec4-1190018c5565.png" srcset="" alt="Select Final Grade Override" height="680" width="801">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_70e1b80a-8ade-4cd3-9e51-42fe873cf345" class="text-block-content">
+    <p>In Gradebook Settings, open the <strong>Advanced</strong> tab [1] and then click the <strong>Allow final grade override</strong> checkbox [2]. Click the <strong>Apply Settings</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-override-grade" data-step-uuid="4314f1d8-83cc-4604-ae62-519770bc2b72">
+    <h2 id="enter-override-grade" class="step-title screensteps-heading">Enter Override Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/899/original/77251391-8662-46a7-974c-586080cdac60.png" srcset="" alt="Enter Override Grade" height="313" width="414">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_39317dc0-c1b6-4410-a9eb-9177edf400f3" class="text-block-content">
+    <p>The override column displays at the far right of the Gradebook. Locate the student whose grade you want to override and enter a percentage or a letter grade in the Override column.</p>
+<p>To delete an overridden grade, click the grade cell and click the <strong>Delete</strong> key.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-override-grade" data-step-uuid="4ab9fe83-61a9-4cb8-8969-b69c82f88aed">
+    <h2 id="view-override-grade" class="step-title screensteps-heading">View Override Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/901/original/b08e82c5-c58d-4a64-93c4-7bfe893020e7.png" srcset="" alt="View Override Grade" height="310" width="414">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1e6fe387-db28-4388-9904-daf34021067d" class="text-block-content">
+    <p>View the overridden grade.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-gradebook-viewing-options" data-step-uuid="8c02f319-771f-4217-a69a-19b0c8c1ba20">
+    <h2 id="view-gradebook-viewing-options" class="step-title screensteps-heading">Show or Hide Total and Override Columns</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/796/515/original/cfd55db6-395b-469f-8713-4ccb5cd38e53.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/796/515/medium/cfd55db6-395b-469f-8713-4ccb5cd38e53.png" srcset="" alt="Show or Hide Total and Override Columns" height="387" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c1d0dd50-5a74-4052-9848-40b78b95f605" class="text-block-content">
+    <p>To show or hide the total and override columns, click the <strong>Settings</strong> icon [1] and click the<strong> View Options</strong> tab [2]. </p>
+<p>When the Final Grade Override feature option is enabled, click the <strong>Hide Total Column and Override Columns</strong> checkbox [3]. Click the <strong>Apply Settings</strong> button [4].</p>
+<p><strong>Note:</strong> If the Final Grade Override feature option is disabled, the text in the Show section displays Hide Total Column [5]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

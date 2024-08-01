@@ -1,0 +1,228 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_663DCEC0-221D-0135-4BC2-22000AB760A3" class="text-block-content">
+    <p>You can easily import quizzes from programs that create QTI files. If a program does not create QTI files, it cannot be imported into Canvas.</p>
+<p><a href="http://en.wikipedia.org/wiki/QTI" target="_blank" rel="nofollow noopener noreferrer">QTI</a> files can be created from a variety of different learning management systems and software:</p>
+<ul>
+<li>Quizzes created in <a href="http://www.respondus.com/products/respondus.shtml" target="_blank" rel="nofollow noopener noreferrer">Respondus 4.0</a> (Windows software) can be exported as QTI packages. To learn how to use Respondus 4.0 <a href="https://web.respondus.com/wp-content/uploads/2019/08/Respondus40UserGuideCanvas.pdf" target="_blank" rel="nofollow noopener noreferrer">refer to this user guide</a> (DOC). A <a href="https://web.respondus.com/wp-content/uploads/2019/08/Respondus40QuickStartGuide.pdf" target="_blank" rel="nofollow noopener noreferrer">QuickStart guide</a> for Respondus 4.0 is also available (PDF).</li>
+<li>Quizzes created in <a href="https://help.blackboard.com/Learn/Instructor/Tests_Pools_Surveys/Reuse_Questions/Import_or_Export_Tests_Surveys_and_Pools" target="_blank" rel="nofollow noopener noreferrer">Blackboard</a> (WebCT, Angel) can be exported as QTI packages.</li>
+<li>Quizzes created in <a href="http://docs.moodle.org/20/en/Export_questions" target="_blank" rel="nofollow noopener noreferrer">Moodle</a> can be exported as QTI packages. This will work with Moodle 2.0 or older versions. However, Moodle 2.1 and newer versions no longer export QTI packages.</li>
+</ul>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Canvas supports QTI versions 1.2 and 2.1.</li>
+<li>Quiz exports will not include questions from quizzes which use randomly selected questions from question banks.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="4b290edd-1edd-4279-94ec-64728abd0cd5">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/824/080/original/dbcae2ce-32be-476b-b5f7-7b7b249978bf.png" srcset="" alt="Open Settings" height="241" width="146">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663E0440-221D-0135-4BC4-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_content_into_course" data-step-uuid="8cbcec18-bc0f-4f5c-8c48-649ccc858aa5">
+    <h2 id="import_content_into_course" class="step-title screensteps-heading">Import Content into Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/294/original/a27030d9-0149-4d3e-abbf-122d6495d118.png" srcset="" alt="Import Content into Course" height="439" width="280">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663E36F0-221D-0135-4BC6-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Import Course Content</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_content_type" data-step-uuid="04420f40-fbc4-452e-a7c4-d98e0169c667">
+    <h2 id="select_content_type" class="step-title screensteps-heading">Select Content Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/279/original/fd36efb3-27cf-4085-9399-9649ee25a76d.png" srcset="" alt="Select Content Type" height="115" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663E7500-221D-0135-4BC8-22000AB760A3" class="text-block-content">
+    <p>In the drop-down menu, select the<strong> QTI .zip file</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_file" data-step-uuid="2dcd4dd6-07bb-42ef-a690-97aa8cd97504">
+    <h2 id="choose_file" class="step-title screensteps-heading">Choose File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/285/original/c1fd079e-82a3-49bc-8855-fe734bf34a72.png" srcset="" alt="Choose File" height="163" width="495">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663EA7F0-221D-0135-4BCA-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Choose File </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open_file" data-step-uuid="d9120100-abb6-45e0-9dff-df0681fd5a88">
+    <h3 id="open_file" class="step-title screensteps-heading">Open File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/587/906/original/f5b53357-723d-4219-94ee-f81baa5e0a4f.png" srcset="" alt="Open File" height="479" width="531">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663EDBB0-221D-0135-4BCC-22000AB760A3" class="text-block-content">
+    <p>Find and click the ZIP file you want to import [1]. Click the <strong>Open </strong>button<strong> </strong>[2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-import-options" data-step-uuid="93b41736-b223-4dea-8303-7cb2ac297661">
+    <h2 id="view-import-options" class="step-title screensteps-heading">View Import Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/958/229/original/83673605-fb42-489e-a192-feb4bc6f82b7.png" srcset="" alt="View Import Options" height="88" width="486">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f9668114-12fb-42a2-85ed-940af9204caf" class="text-block-content">
+    <p>You can manage options for your import before it is created.</p>
+<p>If New Quizzes is enabled in your course, you can<strong> </strong>convert quizzes in the import package to the New Quizzes format [1].</p>
+<p>You can also overwrite assessment content with matching IDs [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-existing-quizzes-as-new-quizzes" data-step-uuid="2782390c-d8ce-4369-9e68-9a4b1d670faa">
+    <h2 id="import-existing-quizzes-as-new-quizzes" class="step-title screensteps-heading">Import Existing Quizzes as New Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/745/126/original/704716ae-1c36-44be-bdb7-c8f23064d0cf.png" srcset="" alt="Import existing quizzes as New Quizzes " height="57" width="330">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dcb3a30c-725b-40d8-a05b-0226995f0d44" class="text-block-content">
+    <p>If allowed by your institution, you can import existing quizzes into New Quizzes by clicking the <strong>Import existing quizzes as New Quizzes</strong> checkbox.</p>
+<p>If your institution enables the quiz migration feature, question banks linked via a question group in Classic Quizzes will migrate to New Quizzes. If the quiz migration feature is not enabled by your institution, questions from question banks must be individually added before migrating to New Quizzes.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The Import existing quizzes as New Quizzes option only displays for courses that have enabled New Quizzes. </li>
+<li>If you have enabled New Quizzes but the option does not display, your institution has not enabled New Quizzes migration upon import. </li>
+<li>You cannot select a default question bank when using the Import assessment content as New Quizzes option.</li>
+<li>New Quizzes does not include a survey feature. Therefore, surveys migrated from Classic Quizzes come over as standard quizzes in New Quizzes.</li>
+<li>After migration to New Quizzes, multiple dropdown questions display as matching questions.</li>
+<li>Text No Question questions migrate to New Quizzes as Stimulus questions. An instructor must add a question in order for it to display in a quiz.</li>
+<li>Question groups with manually created questions will migrate as item banks in New Quizzes.</li>
+<li>If a quiz is migrated multiple times, Canvas uses smart merging to decipher the question bank content that should be retained. This process helps ensure all content is retained, such as in cases where multiple users may be making edits to a quiz at the same time.</li>
+<li>Practice quizzes from Classic Quizzes can be migrated to New Quizzes. Once migrated, by default, the practice quizzes are displayed as zero points possible and are hidden from the Gradebook and Grades page.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="overwrite_assessment_content" data-step-uuid="5e1370bf-7ed2-4642-b97f-6939e2855e34">
+    <h2 id="overwrite_assessment_content" class="step-title screensteps-heading">Overwrite Assessment Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/958/229/original/71baf0db-7066-495f-a958-1a33b1c0a63a.png" srcset="" alt="Overwrite Assessment Content" height="107" width="470">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663F1180-221D-0135-4BCE-22000AB760A3" class="text-block-content">
+    <p>To overwrite the assessment content with matching IDs, click the<strong> Overwrite assessment content with matching IDs</strong> checkbox. </p>
+<p>Some systems recycle their IDs for each new export. Therefore, if you export two separate question banks they will have the same IDs. To prevent losing assessment data Canvas treats the question banks as separate objects despite the IDs. Choosing this option will disable this safety feature and allow assessment data to overwrite existing data with the same IDs.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_question_bank" data-step-uuid="1b0e96db-ce56-4cd4-90de-ce590964ab2f">
+    <h2 id="select_question_bank" class="step-title screensteps-heading">Select Question Bank</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/283/original/45a21142-fbcd-4e3b-829a-528cbea31200.png" srcset="" alt="Select Question Bank" height="82" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663F4640-221D-0135-4BD0-22000AB760A3" class="text-block-content">
+    <p>In the <strong>Default Question bank</strong> drop-down menu, select the Question bank you want to use for your question bank.  </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="create_question_bank" data-step-uuid="d9cade06-06f9-4721-9b2c-f1a3c198bb30">
+    <h3 id="create_question_bank" class="step-title screensteps-heading">Create Question Bank</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/925/854/original/f82c3d3a-d1b0-4993-841e-5257d9917a49.png" srcset="" alt="Create Question Bank" height="205" width="582">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663F7B00-221D-0135-4BD2-22000AB760A3" class="text-block-content">
+    <p>If you do not have a question bank you want to use, you can create a new question bank. In the drop-down menu, select the <strong>Create new question bank </strong>option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_course" data-step-uuid="b8745f81-efcf-4b76-8d56-19287bea357c">
+    <h2 id="import_course" class="step-title screensteps-heading">Import Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/567/647/original/adafa109-a335-4be9-a22c-2b1070724003.png" srcset="" alt="Import Course" height="111" width="685">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663FB3E0-221D-0135-4BD4-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Import </strong>button [1]. </p>
+<p>A progress indicator displays the upload status by percentage [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_current_jobs" data-step-uuid="ef231cc0-9a0a-41c0-9d7a-0f8a5dce5617">
+    <h2 id="view_current_jobs" class="step-title screensteps-heading">View Current Jobs</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/998/262/original/aa0edd04-2e85-45bb-950c-dd470594c2ed.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/998/262/medium/aa0edd04-2e85-45bb-950c-dd470594c2ed.png" srcset="" alt="View Current Jobs" height="103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_663FEBE0-221D-0135-4BD6-22000AB760A3" class="text-block-content">
+    <p>The Current Jobs section displays the status of your import. Running reports display a progress bar indicating the time remaining to complete the import.</p>
+<p>The import may also display other status indicators as part of the import process. Learn more about <a href="/t5/Instructor-Guide/How-do-I-view-the-status-of-current-and-prior-course-imports/ta-p/1077" target="_blank">course import statuses</a>.</p>
+<p>When the course has completed, view your quizzes by accessing the Quizzes page in Course Navigation. </p>
+<p><strong>Note: </strong>If you imported your assessments to New Quizzes, you can view your quizzes from the Assignments page.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,39 @@
+How do I manage outcome mastery calculations in a course as an instructor
+Open Outcomes
+In Course Navigation, click the Outcomes link.
+Open Calculation Methods
+Click the Calculation tab.
+Note: If the Calculation tab does not display in the Outcomes page, course-level outcome mastery calculations have not been enabled by your institution.
+Select Calculation Method
+To select a mastery calculation method, click the Mastery Calculation drop-down menu. You can select one of four calculation methods: Weighted Average, Decaying Average, n Number of Times, Most Recent Score, Highest Score, and Average.
+If you are unable to edit the mastery calculation, you do not have permission to edit the mastery calculation in your course. For assistance managing your mastery calculation, contact your Canvas administrator.
+Select Weighted Average
+To average assessment item scores with a greater weight for the most recent assessment item, select the Weighted Average option.
+The Weighted Average calculation splits the total percentage between the most recent assessment item and an average of all prior assessment items. For example, you can set the most recent submission to be weighted at 40% of the total and prior items to be weighted at 60% of the total.
+Enter the percentage to use for the most recent result in the Parameter field. You can also increase or decrease the parameter by using the Arrow icons. The Parameter field accepts whole numbers between 1 and 99. By default, the parameter is set to 65%. The remaining amount is used to weigh prior scores.
+In the Example section, the calculation updates based on your select parameter. The average is rounded to the next two decimals. If there is only one result, the single score will be displayed.
+Select Decaying Average
+To average assessment item scores with a greater weight for the most recent assessment item, select theDecaying Averageoption.
+TheDecaying Averagecalculation uses a formula to determine proficiency based on students' average scores, giving more weight to the most recent scored. To determine the weight given to the most recent score, the formula uses a decay rate. The higher the formula's decay rate, the more heavily the most recent assessment is weighted.
+By default, the decay weight is set to 65% in theParameterfield. However, you can adjust the rate to any percentage between 50% and 99% using theArrowicons. Between two assessments, the most recent assessment gets 65% weight and the first gets 35%. For each additional assessment, the sum of the previous score calculations decay by an additional 35%.
+For example, a student has scores of 1, 2, 3, 4 (scores listed chronologically from oldest to most recent):
+(1 × .35) + (2 × .65) = X
+(X × .35) + (3 × .65) = Y
+(Y × .35) + (4 × .65) = Z(this being the current standard score; 3.48)
+Select n Number of Times
+To set a number of times that a student must meet or exceed mastery on a set amount of aligned items, select the n Number of Times option.
+Enter the number of times mastery must be achieved in the Parameter field. You can also increase or decrease the parameter by using the Arrow icons. The Parameter field accepts numbers between 1 and 5.
+Any scores that do not meet mastery are not used in the calculation.
+Select Most Recent Score
+To select the score for the recently graded item, select the Most Recent Score option.
+You can view an example of the Most Recent Score calculation in the Example section.
+Select Highest Score
+To select the highest score from all assessment items, select the Highest Score option.
+You can view an example of the Highest Score calculation in the Example section.
+Select Average
+To select the average score from all assessment items, select the Average option.
+You can view an example of the Average calculation in the Example section.
+Save Calculation Method
+To save your calculation method, click the Save Mastery Calculation button.
+Confirm Calculation Changes
+To confirm your changes to the mastery calculation, click the Save button.

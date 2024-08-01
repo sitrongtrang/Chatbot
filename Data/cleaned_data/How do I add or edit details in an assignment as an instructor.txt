@@ -1,0 +1,54 @@
+How do I add or edit details in an assignment as an instructor
+Open Assignments
+In Course Navigation, click the Assignments link.
+Open Assignment
+To open an existing assignment, click the Assignment name.
+To create a new assignment, click the Add Assignment button.
+Edit Assignment
+Click the Edit button.
+Edit Assignment Details
+Type the assignment title in the Assignment Name field. If you created your assignment as an assignment shell, this field will be populated for you, but you can change it if necessary.
+Use the Rich Content Editor to add images, text, links, equations, or insert media. 
+Notes: 
+When a document is uploaded to the New Rich Content Editor from an assignment, the file is saved to the Uploaded Media folder in Course Files and defaults to hidden status. Students can view the file when the assignment is made available to them. Learn more about file availability.
+When an assignment is created with no description, the assignment description displays default text explaining no additional details were added for the assignment.
+Enter the points for your assignment in the Points field. Select the Assignment Group for the assignment in the Assignment Group drop-down menu. 
+If you created your assignment as an assignment shell, the points field and Assignment Group will be populated for you. You can edit these if necessary. 
+Note: Points possible must be set to a number greater than zero for assignments with percentage, points, letter grade, or GPA grading types.
+Change Points Possible
+If you change the points possible for an existing assignment with graded submissions, you will need to regrade the assignment. This warning message applies to any grading type with assignment submissions, including changing points from or to zero. 
+Select Grading Type
+In the Display Grade as drop-down menu, select the method you want to use for grading. You can grade your assignment by percentage, complete/incomplete, points, letter grade, GPA scale, or set as not graded. 
+Note: The grading type is how the assignment score will display in the Gradebook. For example, an assignment worth 10 points is set to display as a percentage. A student who receives 8/10 points on the assignment will show as 80 in the Gradebook. If using a letter grade, learn how to create a grading scheme and apply a grading scheme to your assignment.
+Open Submission Type
+By default, the Submission Type is set to Online for creating online assignments. 
+To change the submission type, click the Submission Type drop-down menu.
+Select Submission Type
+Select the type of submission you want to accept for the assignment:
+No Submission is when you do not want students to submit an assignment in Canvas. This assignment type can be used to create extra columns in the Gradebook, or when you want to create an assignment that involves multiple scores. Submission Type does not apply to Not Graded assignments.
+Online is when you want students to submit their assignments using Canvas through an online submission option. Learn more about creating an online assignment. 
+On Paper is when you want students to submit an assignment to you but not through Canvas. This assignment type applies to traditional face-to-face courses or hybrid courses when you want the assignment turned in during class, but you still want to create a column in the Canvas Gradebook for grading purposes.
+External Tool is when you want students to submit their assignments using an external app (LTI) enabled for your course. You must enter a URL for the external tool. Learn more about adding an assignment using an external application.
+Lucid is when you want students to submit documents through Lucid EDU Suite, which includes apps such as Lucidchart and Lucidspark. If this option does not display, contact your Customer Success Manager. Learn more about creating a Lucid assignment.
+Assignment settings are persistent; they default to the options you used when creating or editing the previous assignment in the course. Based on prior assignments, one or more of these options may already be selected for you. 
+Note: No Submission and On Paper assignments still appear to students on their Assignments page. To avoid confusion, it is best to make a note in the description about the assignment so students will know whether or not a submission is required and if so, how they are supposed to submit it. 
+Select Submission Attempts
+If you have selected the Online submission type, the number of allowed attempts is unlimited by default. However, you can limit submission attempts for the assignment.
+Create Group Assignment
+As part of an assignment submission, Canvas lets you set up an assignment as a group assignment. You can also choose to grade students individually in group assignments.
+Require Peer Reviews
+If you want to require students review each other's work, you can create a peer review assignment. When requiring peer reviews, you can select whether to manually assign peer reviews or automatically assign peer reviews. 
+Allow Anonymous and Moderated Grading
+If you want to set up an assignment with additional reviews, you may be able to enable Moderated Grading, Anonymous Grading, or both. Moderated grading allows multiple graders to evaluate a student's work and create provisional grades. Anonymous grading hides student names from graders when they view assignment submissions in SpeedGrader. These options can be used together or independently.
+Enable Anonymous Instructor Annotations
+If you want to assess submissions with DocViewer and make all instructor annotations and comments in DocViewer-supported submissions anonymous, select the Anonymous Instructor Annotations checkbox.
+Edit Due and Availability Dates
+By default, Canvas will set your assignment dates for everyone in your course. 
+Create a due date for the assignment in the Due Date field. The due date will already be populated for you if you created an assignment shell, but you can change it if necessary. You also have the option to add availability date fields.
+To assign the assignment to an individual student or course section, click the Add button.
+Note: If a date does not include a time, the listed date defaults to the course’s default due time.
+Save Assignment
+If you want to notify users about any future assignment changes, click the Notify users that this content has changed checkbox. Click the Save button. 
+Notes: 
+If your assignment has not yet been published, the assignment displays the Save & Publish button. The Save button creates a draft of your assignment so you can publish it later.
+If you click the Notify users that this content has changed checkbox, only the students assigned to the assignment are notified of changes. Additionally, only students who have the Content Change notification setting enabled are notified of content changes.

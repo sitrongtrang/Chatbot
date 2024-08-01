@@ -1,0 +1,22 @@
+How do I view my customer KB in the Field Admin Console as an admin
+Open Customer KBs
+From the Field Admin Console home page, click the Customer KB tab.
+Open Account KB
+Click the name of the account that includes the KBs you want to view.
+To filter the accounts that display on the page, click the Filter icon.
+View KB Entries
+To view details for an entry, click the name of the entry.
+View Entry Details
+Each KB entry contains the following details:
+Entry name
+Affected roles
+Default case handling: provides additional details, text, and keywords that support agents can use when handling a case related to the entry
+Update request: includes any details that should be added to the entry. When these updates are addressed, click the Details Updated checkbox.
+User who created the entry
+User who last modified the entry
+Edit Entry
+To edit an entry field, click the Edit icon. 
+To edit an entire KB entry, click the Edit button. To delete a KB entry, click the Delete button. To clone a KB entry, click the Clone button.
+View KB Details
+To view the details for your customer KB, click the Details tab. Details include alerts, contact information, prime directives, account terminology, case routing, and account information.
+To edit the KB details, click the Edit icon.

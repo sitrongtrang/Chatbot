@@ -1,0 +1,132 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_07993410-01C3-0135-0CEA-22000BC102FE" class="text-block-content">
+    <p>Once Chat has been enabled as an LTI tool in your course, the Chat tool can be used for real-time conversation with course users. Any user in the course can participate in a chat conversation and view all chat content. Currently there is no load limit for a course chat, but larger numbers of course users may affect performance.</p>
+<p>A user must be actively viewing the chat tool to appear in the chat list. You may consider posting chat hours in the course calendar to let students know when you are available. You can also open Chat in a new browser window while viewing other areas in Canvas.</p>
+<p><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-Chat/ta-p/63" target="_blank">Learn more about the Chat tool</a>.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you cannot view the Chat tool, Chat has not been enabled for your institution.</li>
+<li>When Chat is enabled at the account level, it is enabled by default in all courses within the account. To disable chat in your course, you can <a href="/t5/Instructor-Guide/How-do-I-manage-Course-Navigation-links/ta-p/1020" target="_blank">disable the Chat link in Course Navigation</a>.</li>
+<li>Safari 13.1 contains an update that may cause issues with chat alerts. You can avoid errors with files and images by <a href="https://support.apple.com/guide/safari/prevent-cross-site-tracking-sfri40732/mac" target="_blank" rel="nofollow noopener noreferrer">disabling cross-site tracking prevention </a>in Safari when using Canvas.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_chat" data-step-uuid="0C268A0F-455C-42E4-80FD-CFF783FBE28B">
+    <h2 id="open_chat" class="step-title screensteps-heading">Open Chat</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/748/000/original/93708d22-af25-4896-bb6e-ded86b838e6a.png" srcset="" alt="Open Chat" height="230" width="140">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_07996540-01C3-0135-0CEC-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Chat</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_chat" data-step-uuid="F0C00DB0-3BBB-4647-A148-4BC78F7EFB69">
+    <h2 id="view_chat" class="step-title screensteps-heading">View Chat</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/275/893/original/7ffcfed5-ca97-49a7-8de8-ad1ed28dcb7c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/275/893/medium/7ffcfed5-ca97-49a7-8de8-ad1ed28dcb7c.png" srcset="" alt="View Chat" height="647" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_07999450-01C3-0135-0CEE-22000BC102FE" class="text-block-content">
+    <p>When you open the Chat page, you immediately join the chat. Chat discussion appears in the content window [1]. </p>
+<p>To receive audio alerts for new chat messages, click the <strong>New message alerts </strong>button [2]. You will receive audio alerts if Chat is open in Canvas but is not the active browser window. You will not receive alerts if you leave Chat to view another area in Canvas. </p>
+<p>Message history for each course is included in the chat. Chat history can be accessed indefinitely by loading more results and scrolling through previous course chats.</p>
+<p><strong>Note:</strong> Alert capabilities may vary between browsers.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_online_users" data-step-uuid="9d301e76-ef87-47ec-90dd-089b5c063528">
+    <h3 id="view_online_users" class="step-title screensteps-heading">View Online Users</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/275/891/original/075a8765-b4d1-499b-b38c-3c726c6bc8de.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/275/891/medium/075a8765-b4d1-499b-b38c-3c726c6bc8de.png" srcset="" alt="View Online Users" height="260" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0799C220-01C3-0135-0CF0-22000BC102FE" class="text-block-content">
+    <p>Chat displays the number of users who are in the chat [1]. To view a list of these users [2], hover your cursor over the number.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_time_stamp" data-step-uuid="65311f03-f34d-436a-806f-9dd0fe0b37d1">
+    <h3 id="view_time_stamp" class="step-title screensteps-heading">View Time Stamp</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/275/899/original/74165bc8-6aea-4307-ba3c-0a8ff57aea20.png" srcset="" alt="View Time Stamp" height="149" width="634">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0799F1F0-01C3-0135-0CF2-22000BC102FE" class="text-block-content">
+    <p>When a user sends multiple chat messages without another user sending a message, all messages will appear under the first message's time stamp. To view additional time stamps, hover your cursor over the message. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="send_message" data-step-uuid="83F35F92-6945-414A-889A-D2A46FD45122">
+    <h2 id="send_message" class="step-title screensteps-heading">Send Message</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/275/895/original/2a785511-ade0-4d34-9ec8-9388ddf64831.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/275/895/medium/2a785511-ade0-4d34-9ec8-9388ddf64831.png" srcset="" alt="Send Message" height="95" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_079A2310-01C3-0135-0CF4-22000BC102FE" class="text-block-content">
+    <p>To send a chat message, enter your message in the chat window [1]. To add an emoji to your message, click the <strong>Emoji </strong>icon [2]. Then click the <strong>Send </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete_message" data-step-uuid="20c5fe39-e821-4bcf-8aad-d31b747792a4">
+    <h2 id="delete_message" class="step-title screensteps-heading">Delete Message</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/275/897/original/f8361303-25e5-49bb-a83a-6ce38a4e8bb5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/275/897/medium/f8361303-25e5-49bb-a83a-6ce38a4e8bb5.png" srcset="" alt="Delete Message" height="184" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_079A4F30-01C3-0135-0CF6-22000BC102FE" class="text-block-content">
+    <p>You can delete messages in the chat from any user.</p>
+<p>To delete a chat message, hover your cursor over the message [1] and click the <strong>Delete</strong> icon [2].</p>
+<p><strong>Note:</strong> Deleting messages is permanent. You cannot restore a deleted message.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

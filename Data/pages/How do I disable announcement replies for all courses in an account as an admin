@@ -1,0 +1,87 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_CDD99FA0-17C2-0135-5F7A-22000AB760A3" class="text-block-content">
+    <p>As an admin, you can choose to disable replies to announcements for all courses in an account.</p>
+<p>To manage comments, you can set the default value but allow instructors and sub-account admins to enable comments as necessary, or you can set and lock the setting for all courses and sub-accounts. The checkbox settings at the account level are passed to the sub-account and course levels as default values.</p>
+<p><strong>Note:</strong> Courses created before the option is applied will retain their settings until it is changed at the course level. Courses created after the option is applied will inherit the account level setting, which will persist until it is changed at the course level. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="17e08025-c88c-4705-8dc7-caa627776ca3">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDD9CFE0-17C2-0135-5F7C-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account_settings" data-step-uuid="b04fd5ed-5aef-4ae9-9dc5-c5139a0c4b76">
+    <h2 id="open_account_settings" class="step-title screensteps-heading">Open Account Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/430/original/438a6de6-67b0-4481-b76d-0ccc65b671f8.png" srcset="" alt="Open Account Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDDA0010-17C2-0135-5F7E-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="disable_comments" data-step-uuid="1d1547da-2fea-4947-908a-03d156f0807f">
+    <h2 id="disable_comments" class="step-title screensteps-heading">Disable Comments on Announcements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/880/original/6d4fd385-c965-4c4c-adda-2e947fb5223a.png" srcset="" alt="Disable Comments" height="84" width="385">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDDA3650-17C2-0135-5F80-22000AB760A3" class="text-block-content">
+    <p>In the Account Settings tab, locate the announcements options.</p>
+<p>To set a default for the entire account so that comments are automatically disabled for announcement comments in each course, click the<strong> Disable comments on announcements </strong>checkbox [1]. This option applies immediately to new courses. When enabled, all announcements show as closed for comments, but instructors can open individual announcements as necessary. Instructors can open Course Settings and remove the option completely for all new announcements.</p>
+<p>If you want to lock the default setting for sub-accounts and courses, click the <strong>Lock this setting for sub-accounts and courses </strong>checkbox [2]. This option does not allow instructors to open any individual announcements or remove the limitation in Course Settings.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_settings" data-step-uuid="8856aa01-bed9-4e1f-b32b-eff1f13f9d45">
+    <h2 id="update_settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/884/original/1240a94a-054b-4788-bc23-e31d80c43c14.png" srcset="" alt="Update Settings" height="63" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDDA6960-17C2-0135-5F82-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Update Settings </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,169 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_C79FA4D0-1D6F-0135-78A5-22000BC102FE" class="text-block-content">
+    <p>As an admin, you can choose to set default restrictions for student access in your institution. These restrictions include student access to courses before or after the term or course participation dates. By default, course participation dates are limited to term dates. However, you as well as instructors at your institution can set specific participation dates for the course. For more information, view the interactive <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Student-Course-Visibility-and-Participation-Flowchart/ta-p/387094" target="_blank">Student Course Visibility and Participation flowchart</a>.</p>
+<p>To manage student access, you can set the default value but allow instructors and sub-account admins to edit access for the course and sub-account levels as necessary, or you can set and lock the student access setting for the entire institution. The checkbox settings at the account level are passed to the sub-account and course levels as default values.</p>
+<p><strong>Restrict students from viewing course before start date</strong>: When a student enrolls in a future course, the course displays in the Future Enrollments section in the student Courses list. Once a course is published, the course displays an invitation to join the course, where the students can view course content at any time before the course begins. However, when the student restriction for the course participation start date is enabled, students cannot view a link to the course until the start date, even if the course is published.</p>
+<p><strong>Restrict students from viewing future courses in enrollments list</strong>: When a student enrolls in a future course, the course displays in the Future Enrollments section in the student Courses list. However, when the view courses before the start date restriction is enabled, a second option is displayed to completely remove the future enrollment from the Courses list. This setting can also be enabled to keep students from knowing they are enrolled in a course with a future participation start date. </p>
+<p><strong>Restrict students from viewing course after end date</strong>: Once a course has concluded, students can still view the course but all content is displayed in a read-only state. However, when the student restriction for the course end date is enabled, students can no longer view the course in the Courses list after the course has concluded. This setting can be used if your institution uses the course across multiple terms and want to restrict students from accessing prior content for future students, or if students have to re-enroll in the course. </p>
+<p><strong>Note: </strong>Although any <a href="/t5/Admin-Guide/How-do-I-change-the-start-and-end-dates-for-a-course-section-as/ta-p/210" target="_blank">changed section dates</a> override course dates, student access restrictions cannot be set at the section level, and restriction options apply to all sections within the course.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="d19c6854-f697-47ab-994a-dc8a16e4936e">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C79FD5E0-1D6F-0135-78A7-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account_settings" data-step-uuid="29f30e1d-eeed-4381-a845-8d89ba8d6b09">
+    <h2 id="open_account_settings" class="step-title screensteps-heading">Open Account Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/375/original/81063932-7e70-4db4-9777-9fc4ba78a1a7.png" srcset="" alt="Open Account Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C7A00100-1D6F-0135-78A9-22000BC102FE" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_restriction_options" data-step-uuid="e4a12ef7-d9dc-4c15-8251-bbf89db85da8">
+    <h2 id="view_restriction_options" class="step-title screensteps-heading">View Restriction Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/402/original/879244c9-b96c-4ce5-90dc-4be894a0a08a.png" srcset="" alt="View Restriction Options" height="159" width="406">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C7A02D00-1D6F-0135-78AB-22000BC102FE" class="text-block-content">
+    <p>In the Account Settings tab, locate the course restriction options.</p>
+<p>By default, student access checkboxes are not selected, meaning in all sub-accounts and courses students can view a link to any enrolled future course (after they accept their course invitation) or a concluded course. Additionally by default, the lock checkboxes are not selected, meaning sub-account admins and teachers can override this setting for a sub-account or course. </p>
+<p>To retain these defaults for the entire institution, do not select any checkboxes. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The student restriction checkboxes set a preset for<em> all new courses</em> created in the account, as well as section override dates.</li>
+<li>The lock settings <em>apply immediately </em>to all existing courses and section override dates in the account.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="restrict_students_before_start_date" data-step-uuid="274c5905-3c3b-4780-a2e1-6532b4fff88a">
+    <h2 id="restrict_students_before_start_date" class="step-title screensteps-heading">Restrict Students Before Start Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/187/688/original/7c3873df-eb64-4001-be93-082594c33627.png" srcset="" alt="Restrict Students Before Start Date" height="90" width="457">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C7A05B10-1D6F-0135-78AD-22000BC102FE" class="text-block-content">
+    <p>To set a default for the entire account so that students cannot view a link to the course before the start date, click the<strong> Restrict students from accessing courses before start date </strong>checkbox [1]. When selected, the course is inaccessible before the course start date. If course participation dates are set to follow term dates, the course start date applies the term start date.</p>
+<p>If you want to lock the default setting for sub-accounts and courses and apply the change immediately, click the <strong>Lock this setting for sub-accounts and courses </strong>checkbox [2]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="allow-student-access-before-start-date" data-step-uuid="b2f9d4f9-501f-41d8-b86d-b70ca023763e">
+    <h3 id="allow-student-access-before-start-date" class="step-title screensteps-heading">Allow Student Access Before Start Date</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/187/690/original/4fa3fea6-1584-4d49-ab6e-9a6687b1d5bc.png" srcset="" alt="Allow Student Access Before Start Date" height="88" width="457">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_71179a33-1478-4154-802e-ced70c2cd7e9" class="text-block-content">
+    <p>To set a default for the entire account so that students can view a link to the course before the start date, do not select the<strong> Restrict students from accessing courses before start date </strong>checkbox [1], but select the <strong>Lock this setting for sub-accounts and courses </strong>checkbox [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="restrict_course_in_enrollments_list" data-step-uuid="ee120df7-27c7-4656-a222-2b65ce42a5fb">
+    <h3 id="restrict_course_in_enrollments_list" class="step-title screensteps-heading">Restrict Course in Enrollments List</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/187/693/original/1f84f167-6ae6-4c7a-9d96-2f709a2636e0.png" srcset="" alt="Restrict Course in Enrollments List" height="160" width="515">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C7A08E40-1D6F-0135-78AF-22000BC102FE" class="text-block-content">
+    <p>When you restrict students from accessing courses before the start date [1], you can also restrict students from viewing future courses in the Enrollments list.</p>
+<p>If you don't want students to see they have been enrolled in a future course, select the <strong>Restrict students from viewing future courses in enrollments list</strong> checkbox [2]. </p>
+<p>If you want to lock the default setting for sub-accounts and apply the change immediately, click the <strong>Lock this setting for sub-accounts checkbox</strong> [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="restrict_students_after_end_date" data-step-uuid="bbca6e9f-fe90-4c56-b2ec-ac3449f841cc">
+    <h2 id="restrict_students_after_end_date" class="step-title screensteps-heading">Restrict Students After End Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/187/695/original/528702dc-44c5-48ce-8f2f-52955e4ee411.png" srcset="" alt="Restrict Students After End Date" height="95" width="459">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C7A0BD90-1D6F-0135-78B1-22000BC102FE" class="text-block-content">
+    <p>To set a default for the entire account so that students cannot access the course after the course end date, click the <strong>Restrict students from viewing courses after end date </strong>checkbox [1]. When selected, the course is inaccessible after the course end date. If course participation dates are set to follow term dates, the course end date applies the term end date.</p>
+<p>If you want to lock the default setting for sub-accounts and courses and apply the change immediately, click the<strong> Lock this setting for sub-accounts and courses</strong> checkbox [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="allow-student-access-after-end-date" data-step-uuid="68b6fa7f-328e-49ad-868c-896abf0c1a2d">
+    <h2 id="allow-student-access-after-end-date" class="step-title screensteps-heading">Allow Student Access After End Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/187/697/original/31e71846-4504-4fd7-9498-994993f2c627.png" srcset="" alt="Allow Student Access After End Date" height="89" width="457">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8c33c8c9-c48d-4f40-9b34-03e4c9e2d161" class="text-block-content">
+    <p>To set a default for the entire account so that students can access the course after the course end date, do not select the<strong> Restrict students from accessing courses after end date </strong>checkbox [1], but select the <strong>Lock this setting for sub-accounts and courses </strong>checkbox [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_settings" data-step-uuid="57c7f062-05fb-4f17-a22e-97dc5cdd08db">
+    <h2 id="update_settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/392/original/f1a3270f-9d8a-48ac-a397-a576007b6b6b.png" srcset="" alt="Update Settings" height="75" width="174">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C7A0F470-1D6F-0135-78B3-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Update Settings </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

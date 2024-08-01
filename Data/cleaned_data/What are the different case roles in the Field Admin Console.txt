@@ -1,0 +1,16 @@
+What are the different case roles in the Field Admin Console
+Requester
+The Requester is the individual who first reports an issue and requires assistance. Under the Case Details tab, the Requester's information can be found under User's Name and User's Email.
+Requesters can be modified by updating the Web Email field of a case.
+Note: If a case is created without a value in the Web Email field, the email address displays as replace.me@example.com. This address indicates that the field should be updated as soon as possible.
+Owner
+The Owner is the individual who has responsibility for the case. Owners can transfer cases to other Field Admins or escalate them to the Instructure Support Team.
+Contact
+The Contact is the individual who facilitates communication with the Requester. In cases where the Field Admin is set as Owner, they hold both Owner and Contact roles. If that case is escalated to Instructure, the support agent is the Owner, but the Field Admin remains as the Contact. This arrangement allows the Field Admin to actively participate in the case while it is in the hands of the Support Team.
+CC (Carbon Copy)
+Carbon Copy (CC) is an individual who is added to a case to receive notifications on the progress of a specific case. Multiple individuals can be added as a CC but must be added on a case-by-case basis. CCs can be added to a case using the Add CC field within a case.
+Notes: 
+The email support@instructure.com cannot be added as a CC to a case.
+If a case is created via email, anyone placed as a CC on the original email will be automatically added as a CC on the case.
+Case Team
+The Case Team includes Account contacts and Field Admins who will receive notifications for all cases within an account.

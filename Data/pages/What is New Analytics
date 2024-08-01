@@ -1,0 +1,141 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_501C8DE0-31A9-0138-D472-12F2183ABDFB" class="text-block-content">
+    <p>New Analytics provides interactive graphs and tables that allow instructors and students to track data related to course grades, activity, and communication. Instructors can track student grades, submission status, weekly course activity, individual student participation, and online attendance. Instructors can also use New Analytics to message students based on their submission status or grade.</p>
+<p>Students can use New Analytics to view and download data about their course grades, weekly online activity, and Inbox communication.</p>
+<p>Data displays in interactive chart graphs or tables. You can also download the data.</p>
+<p>Data is refreshed for published courses in the New Analytics dashboard every 24 hours. Report data may be delayed by 24 hours; however, Course Activity Report data may be delayed by 40 hours. Only active and completed student enrollments are included in data for New Analytics. Deleted or inactive user enrollments do not generate data.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Currently, New Analytics is managed at the account and course levels through the New Course and User Analytics <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Feature-Option-Summary/ta-p/531316" target="_blank">feature option</a>. New Analytics will replace the <a href="/t5/Instructor-Guide/How-do-I-view-Course-Analytics/ta-p/968" target="_blank">current analytics</a> feature at the course and user levels in a future release.</li>
+<li>In order for New Analytics to display in Canvas, you may need to <a href="/t5/Canvas-Basics-Guide/How-do-I-enable-third-party-cookies-in-my-browser/ta-p/605670" target="_blank">enable third-party cookies</a> in your browser settings.</li>
+<li>New Analytics data does not display for unpublished courses.</li>
+<li>Users can view New Analytics only if their <a href="/t5/Admin-Guide/How-do-I-set-permissions-for-a-course-level-role-in-an-account/ta-p/101" target="_blank">course role permission</a> includes <em>Analytics - view pages</em>.</li>
+<li>Because mobile page view data is based on device settings and network connection, it may vary from the time the page views actually occurred. Page view data should not be used to assess academic integrity.</li>
+<li>Unposted assignments are not included in New Analytics course grade tab.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="analytics-beta-access" data-step-uuid="501CA2E0-31A9-0138-D473-12F2183ABDFB">
+    <h2 id="analytics-beta-access" class="step-title screensteps-heading">New Analytics Access</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/318/714/original/23a84815-2ce8-4ec4-b094-8dbadfcde82a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/318/714/medium/23a84815-2ce8-4ec4-b094-8dbadfcde82a.png" srcset="" alt="Analytics Beta Access" height="345" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_501CCBF0-31A9-0138-D475-12F2183ABDFB" class="text-block-content">
+    <p>To access New Analytics from Course Navigation, click the <strong>New Analytics </strong>link [1]. </p>
+<p>You can also access New Analytics from the <strong>New Analytics </strong>button in the Course Home Page [2].</p>
+<p><strong>Note: </strong>If you do not see New Analytics in Course Navigation, an instructor may need to <a href="/t5/Instructor-Guide/How-do-I-manage-Course-Navigation-links/ta-p/1020" target="_blank">enable New Analytics in your Course Navigation</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-filter-tabs" data-step-uuid="501CDEB0-31A9-0138-D476-12F2183ABDFB">
+    <h2 id="view-filter-tabs" class="step-title screensteps-heading">When would I use New Analytics as an instructor?</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/318/716/original/7f086560-3060-4f9c-afc0-7bd41da771c6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/318/716/medium/7f086560-3060-4f9c-afc0-7bd41da771c6.png" srcset="" alt="Course Average tab in Analytics Beta" height="740" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_501D0260-31A9-0138-D478-12F2183ABDFB" class="text-block-content">
+    <p>You can use New Analytics to track course grades for student submissions, course activity, individual student data, communication data, submission status data, and online attendance. </p>
+<p>As an instructor, you can perform various activities using the following tabs in New Analytics:</p>
+<ul>
+<li>
+<strong>Course Grade</strong> [1]: View average course grade analytics as an <a href="https://community.canvaslms.com/docs/DOC-18032-4152984807" target="_blank">interactive chart graph</a> or a <a href="https://community.canvaslms.com/docs/DOC-18034-how-do-i-view-average-course-grade-analytics-in-a-data-table-in-new-analytics" target="_blank">data table</a>. You can also compare the course average with an individual assignment, course section, or student filter using the <a href="https://community.canvaslms.com/docs/DOC-18037-4152984806" target="_blank">chart graph comparison</a> or <a href="https://community.canvaslms.com/docs/DOC-18033-4152984808" target="_blank">data table comparison</a>. </li>
+<li>
+<strong>Weekly Online Activity </strong>[2]: Access page view and participation data as an <a href="https://community.canvaslms.com/docs/DOC-17994-41521081669" target="_blank">interactive chart graph</a> or a <a href="https://community.canvaslms.com/docs/DOC-17997-41521081670" target="_blank">data table</a>. You can also compare the course average weekly online participation analytics with an individual student or section using the <a href="https://community.canvaslms.com/docs/DOC-17996-41521081671" target="_blank">chart graph comparison</a> or <a href="https://community.canvaslms.com/docs/DOC-17995-41521081672" target="_blank">data table comparison</a>.</li>
+<li>
+<strong>Students</strong> [3]: View grade and participation analytics for <a href="/t5/Instructor-Guide/How-do-I-view-New-Analytics-in-a-course-as-an-instructor/ta-p/801" target="_blank">individual students</a>. You can also view message communication data between you and individual students.</li>
+<li>
+<strong>Reports</strong> [4]: <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-view-and-download-reports-in-New-Analytics/ta-p/409936" target="_blank">Run and download reports</a> on missing, late, or excused assignments. The Class Roster report provides a list of enrolled students along with their contact information. The Course Activity report provides a list of daily user interactions in course resources.</li>
+<li>
+<strong>Online Attendance</strong> [5]: Discover <a href="/t5/Instructor-Guide/How-do-I-view-the-Online-Attendance-report-in-New-Analytics/ta-p/478617" target="_blank">whether students have met online attendance criteria</a> that has been selected by an admin. Admins must <a href="/t5/Admin-Guide/How-do-I-enable-the-New-Analytics-Online-Attendance-report-in-an/ta-p/478614" target="_blank">enable and configure this report</a>.</li>
+</ul>
+<p>You can also use New Analytics to communicate with students based on the analytics [6]. You can:</p>
+<ul>
+<li>Send a message to all students based on <a href="https://community.canvaslms.com/docs/DOC-18039-4152982519" target="_blank">specific course grade </a>or <a href="https://community.canvaslms.com/docs/DOC-18031-41521081673" target="_blank">participation criteria</a>.</li>
+<li>Send a message to an individual student based on <a href="https://community.canvaslms.com/docs/DOC-18035-4152984805" target="_blank">specific course grade </a>or <a href="https://community.canvaslms.com/docs/DOC-18000-41521081674" target="_blank">participation criteria</a>.</li>
+</ul>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Data is for viewing only and cannot directly be changed.</li>
+<li>Page views and participation metrics include an aggregate across all devices, including Canvas mobile apps.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="when-would-i-use-new-analytics-as-a-student" data-step-uuid="8fd868b2-e1ea-49c0-938f-50d1d642248a">
+    <h2 id="when-would-i-use-new-analytics-as-a-student" class="step-title screensteps-heading">When would I use New Analytics as a student?</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/318/719/original/31e11c83-1e7f-4783-8316-56ca339340f1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/318/719/medium/31e11c83-1e7f-4783-8316-56ca339340f1.png" srcset="" alt="When would I use New Analytics as a student?" height="675" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2131727e-7087-4110-965a-6b863239218d" class="text-block-content">
+    <p>You can <a href="/t5/Student-Guide/How-do-I-view-New-Analytics-in-a-course-as-a-student/ta-p/450" target="_blank">use New Analytics as a student</a> to view and/or download data about your grades, course activity, and communication. To access data, click the following tabs:</p>
+<ul>
+<li>
+<strong>Course Grade</strong> [1]: View a graph or table displaying your grades and submissions</li>
+<li>
+<strong>Weekly Online Activity </strong>[2]: View a graph or table displaying page views and participation activities</li>
+<li>
+<strong>Communication</strong> [3]: View a graph or table displaying Inbox message data</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="what-are-page-views-and-participations" data-step-uuid="eaf702cb-9d6b-4079-b4be-fce63b32e592">
+    <h2 id="what-are-page-views-and-participations" class="step-title screensteps-heading">What are page views and participations?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_132cc50a-49d7-4bca-8fbc-d34fd0814618" class="text-block-content">
+    <p>A "page view" is when you open a page in a course. Page views can give indicate how a user has been accessing course resources. However, because page view data is based on requests to the server, use page view data as a good approximation to activity and not an absolute metric. Page view data is most valuable for understanding whether activity occurred, and to make comparisons across students within a course or when viewing trends week to week.</p>
+<p>Several actions define participation in Canvas and collectively describe events where a user takes an action within a course. The following student actions generate analytics course participation:</p>
+<ul>
+<li>Announcements: posts a new comment to an announcement</li>
+<li>Assignments: submits an assignment</li>
+<li>Collaborations: loads a collaboration to view/edit a document</li>
+<li>Conferences: joins a web conference</li>
+<li>Discussions: posts a new comment to a discussion</li>
+<li>Pages: creates a page</li>
+<li>Quizzes: submits a quiz</li>
+<li>Quizzes: starts taking a quiz</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,39 @@
+How do I create a Multiple Choice quiz question as an instructor
+Add Question
+With the Questions tab selected inside a new quiz, click the New Question button.
+Set Name, Type, and Points
+Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).
+Click the drop-down menu and select the Multiple Choice question type.
+Enter number of points the question is worth (quiz totals are calculated based on combined total of questions).
+Note: Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.
+Edit Multiple Choice Question Details
+To build a multiple choice question, you will need to enter the following details:
+The question text (use the Rich Content Editor to include video, images, math equations, or flash activities)
+Question response options 
+Text for the answer comments under each answer and/or at the end of the question
+Create Answers with Rich Content Editor 
+To create your answer with the Rich Content Editor, hover over the response and click the Edit icon. This switch will allow you to post video, audio, math equations, and more in the answer response. Click the Done button when finished.
+Add or Delete Answers
+Click the Delete icon to the right of an answer to delete it. Click the Add Another Answer link to create as many distractors as you like. Multiple Choice questions can have more than four answers.
+View Correct Answer
+Correct responses are indicated in green, while incorrect responses are in red. 
+By default, the text in the first answer field is the answer that will be considered correct by Canvas. The correct answer is identified by a solid green arrow next to the answer, and the answer comment is also green.
+Change Correct Answer
+To select another response as the correct answer, hover your cursor to the left of the answer you want to reveal a faded green "ghost" arrow. Click the arrow.
+The arrow will become solid green, and the answer comment will also turn green to indicate the correct answer has changed.
+Enter Feedback Text
+You can choose to give students feedback in the answer comments fields. To leave feedback for a specific answer, click the comment field beneath the answer. 
+You can also create general answer comments for the quiz question as a whole. Students who select the correct answer will see the feedback in the green comment field. Students who select any incorrect answer will see the feedback in the red comment field. All students will see the feedback in the blue comment field.
+Note: Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.
+Each text box can be expanded in size by clicking and dragging the handle at the bottom-right of the text box.
+Update Question
+Click the Update Question button.
+Add additional individual questions as needed. 
+Student View of Multiple Choice Question
+This is what students see when they encounter a Multiple Choice question in a quiz.
+Student View of Multiple Choice Correct Answer
+This is what students see if they are allowed to see correct answers after submitting the quiz.
+Students can see which response was correct by viewing the green flag. Credit is assigned if the student answers a Multiple Choice question correctly. Notice that the blue answer comment appears whether or not the student answers this question correctly.
+Student View of Multiple Choice Incorrect Answer 
+This is what students see if they are allowed to see correct answers after submitting the quiz.
+Students can see which response was incorrect by viewing the red flag. No credit is assigned if the student answers a Multiple Choice question incorrectly. Notice that the blue answer comment appears whether or not the student answers this question correctly.

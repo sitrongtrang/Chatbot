@@ -1,0 +1,80 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_55E820B0-5689-0138-6F3D-12F2183ABDFB" class="text-block-content">
+    <p>You can generate a Canvas login QR code in your Canvas web browser. Once generated, you can use your mobile device to scan the QR code to log in to the Canvas Parent app without entering your student's school URL and user credentials.</p>
+<p>While you would most likely use the QR code to <a href="https://community.canvaslms.com/docs/DOC-10718-67952620813" target="_blank">access the Canvas Parent app</a>, the code can also be used to log in to the Student app or Teacher app if are a student or instructor in a course.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If you cannot view QR codes, your student's school has not enabled this feature.</li>
+<li>QR codes should be kept confidential, just as passwords. </li>
+<li>No other users should be in the surrounding area to capture the QR code. </li>
+<li>Do not generate a QR login code while sharing a screen via a screen sharing service.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-qr-code" data-step-uuid="55E83980-5689-0138-6F3E-12F2183ABDFB">
+    <h2 id="open-qr-code" class="step-title screensteps-heading">Open QR Code</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/835/821/original/a88e0c01-01d7-43ad-b16b-8c940561a4fc.png" srcset="" alt="Open QR Code" height="560" width="452">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_55E86020-5689-0138-6F40-12F2183ABDFB" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Account</strong> link [1], then click the <strong>QR for Mobile Login</strong> link [2].</p>
+<p><strong>Note: </strong>If you cannot view the QR for Mobile Login link, your student's school has not enabled this feature. </p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-qr-code-display" data-step-uuid="e5c1b97c-cc7b-40b8-b90d-3651f768bd8c">
+    <h2 id="confirm-qr-code-display" class="step-title screensteps-heading">Confirm QR Code Display</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/380/839/original/20f1649f-b470-4fa4-a528-550a03dfcc03.png" srcset="" alt="Confirm QR Code Display" height="511" width="482">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d976df28-bea5-43d5-8307-98e0b45998b8" class="text-block-content">
+    <p>To generate your mobile login QR code, click the <strong>Proceed</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-qr-code" data-step-uuid="55E870D0-5689-0138-6F41-12F2183ABDFB">
+    <h2 id="view-qr-code" class="step-title screensteps-heading">View QR Code</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/315/997/original/5200b84d-eeb2-4285-b1a0-ecb392d3ca5c.png" srcset="" alt="View QR Code" height="658" width="754">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_55E89410-5689-0138-6F43-12F2183ABDFB" class="text-block-content">
+    <p>View your QR code. The QR code can be scanned from the login page of the Parent app from an <a href="https://community.canvaslms.com/docs/DOC-9739-59347560718" target="_blank">Android device</a> or an <a href="https://community.canvaslms.com/docs/DOC-9607-59346560955" target="_blank">iOS device</a>.</p>
+<p><strong>Note:</strong> Mobile login QR codes expire 10 minutes after they are generated.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

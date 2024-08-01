@@ -1,0 +1,47 @@
+What is the Designer role
+Designer Role Use
+Designers may create course materials, view course usage data, and access and manage all areas of a Canvas course. For example, a designer may be added to a course with the Designer role to construct a course on behalf of a teacher. 
+The Designer role allows a user to:
+Create and modify course content
+Manually add student enrollments in the course
+Communicate with course participants
+Access course usage reports
+Monitor and moderate the participation and interactions of all enrolled users in a course
+Designer Access in Canvas
+By default, users with the Designer role may access all content areas of a Canvas course. However, these permissions may vary among institutions. To learn more about Designer participation in Canvas, view the Canvas Course Permissions PDF. 
+A Designer can: 
+Add and delete external applications (LTI) for a course
+Add, edit, and delete assignments, Classic Quizzes, course files and pages, and all other course content
+Add, edit, and delete items in a course calendar, including Scheduler appointments
+Add, edit, and delete learning outcomes associated with course content
+Create, view, and post to course announcements and discussions
+Create and edit rubrics
+Create conferences and student collaborations 
+Create, edit, and delete course sections and student groups
+Delete and lock discussions and edit others’ discussion posts
+Publish, conclude, and delete courses
+Send messages to other course users and to all members of a course
+View all student group pages for a course 
+View and comment on student submissions
+View and link to question banks
+View and manage student course enrollments
+View usage reports for a course
+A Designer cannot: 
+Build New Quizzes
+Create a Blueprint course
+Change the associated course term
+Generate observer pairing codes for students
+Masquerade as another user in a course
+Read SIS data
+Set up third party authentication for a course
+Unconclude a course
+Upload student enrollments via SIS imports
+View and manage the enrollment of teachers, other course designers, and teacher assistants in a course
+View course analytics
+View course change logs
+View grade audit trail
+View, moderate, and edit all grades
+Designer Role Limitations
+Designers cannot modify availability of any of the above permissions. Only administrators can modify access to these functions. 
+Designers can only create, modify, and moderate content for a course in which they are enrolled. 
+Only users with administrative permissions may import SIS data. Designers cannot import SIS data. 

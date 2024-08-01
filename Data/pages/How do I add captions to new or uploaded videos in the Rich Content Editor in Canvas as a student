@@ -1,0 +1,126 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BFF7EE40-7648-0138-6044-12F2183ABDFB" class="text-block-content">
+    <p>You can easily create and upload caption files when you <a href="/t5/Student-Guide/How-do-I-record-media-using-the-Rich-Content-Editor-as-a-student/ta-p/379" target="_blank">record a new video</a> or <a href="/t5/Student-Guide/How-do-I-upload-and-embed-a-media-file-from-my-computer-in-the/ta-p/381" target="_blank">upload an existing video</a> in Canvas using the Rich Content Editor. The Rich Content Editor is used in features that support the editor (Announcements, Assignments, Discussions, Pages, and Quizzes). </p>
+<p>You can create a SRT or WebVTT caption file using an external captioning tool such as <a href="https://amara.org/en/subtitling-platform/" target="_blank" rel="nofollow noopener noreferrer">Amara</a> or <a href="https://support.google.com/youtube/answer/2734796?hl=en" target="_blank" rel="nofollow noopener noreferrer">YouTube</a>.</p>
+<p><strong>Note:</strong> Users can view video captions in the Canvas apps. However, iOS devices can only display captions in WebVTT format. If you use another format besides WebVTT, users on iOS devices will not be able to display the video captions.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload-media" data-step-uuid="e9605a00-3dc4-497c-a08c-ad36e6845e53">
+    <h2 id="upload-media" class="step-title screensteps-heading">Open Video Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/602/991/original/8616a3ef-302b-4b7e-83ec-dcbcb9f7cb4a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/602/991/medium/8616a3ef-302b-4b7e-83ec-dcbcb9f7cb4a.png" srcset="" alt="Open Video Options" height="375" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47edc293-b58d-44df-a93a-634e16248d4e" class="text-block-content">
+    <p>Click your newly <a href="/t5/Student-Guide/How-do-I-record-media-using-the-Rich-Content-Editor-as-a-student/ta-p/379" target="_blank">recorded media</a> or <a href="/t5/Student-Guide/How-do-I-upload-and-embed-a-media-file-from-my-computer-in-the/ta-p/381" target="_blank">uploaded media</a> [1]. Then click the <strong>Video Options </strong>link [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-language-and-file" data-step-uuid="f6cb01c0-f49d-43e3-8fe3-c43c281c5808">
+    <h2 id="select-language-and-file" class="step-title screensteps-heading">Select Language and File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/602/993/original/3175076b-aaa5-4c7d-9bdd-62aa65327c02.png" srcset="" alt="Select Language and File" height="708" width="468">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_049e716e-8c2a-40d4-a919-69f00d97e867" class="text-block-content">
+    <p>To specify the language for your captions, click the <strong>Closed Captions/Subtitles </strong>drop-down menu [1].</p>
+<p>To attach your caption file, click the <strong>Choose caption file </strong>button [2]. You can upload SRT or VTT files.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-file" data-step-uuid="5e16e040-fcce-4ebd-8657-32f98f96345c">
+    <h3 id="open-file" class="step-title screensteps-heading">Open File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/602/995/original/ad91157a-2be6-4e2a-b25b-68902dd594c5.png" srcset="" alt="Open File" height="329" width="562">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_74cd40ee-b075-4760-a48f-9d29527707cb" class="text-block-content">
+    <p>Select your caption file [1], then click the <strong>Open </strong>button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="submit-video" data-step-uuid="21dbae1c-082f-48cf-ad1c-4e6fbaa84b2b">
+    <h3 id="submit-video" class="step-title screensteps-heading">View Selected File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/968/411/original/81c137bb-7c39-4ccc-8703-fd7579e81568.png" srcset="" alt="View Selected File" height="760" width="468">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eda222c6-92b5-4287-bb92-d41a86b52fab" class="text-block-content">
+    <p>View your caption file [1]. </p>
+<p>To attach additional caption files, click the <strong>Add </strong>button [2]. </p>
+<p>When finished adding media and caption files, click the <strong>Done</strong> button [3].</p>
+<p><strong>Note:</strong> If the video has been copied from another course and includes captions, a tooltip displays noting that inherited captions cannot be edited [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_changes" data-step-uuid="b6aeefab-2e0d-4718-9c19-6a59c1dd2312">
+    <h2 id="save_changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/603/000/original/388d1970-922c-482b-88a8-845eeafd953c.png" srcset="" alt="Save Changes" height="68" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_be350bb2-48bf-4b7e-8299-f9601d79b2b1" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The assignment, discussion, pages, and quizzes details pages display a <strong>Save &amp; Publish</strong> button. </li>
+<li>The Syllabus page displays an <strong>Update Syllabus</strong> button. </li>
+<li>Discussion replies display a <strong>Post Reply</strong> button.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-media-with-captions" data-step-uuid="920c508c-c832-4d52-bc84-bfb9ee329342">
+    <h2 id="view-media-with-captions" class="step-title screensteps-heading">View Media with Captions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/945/824/original/418cae2e-51d7-442d-969e-154a945f72e5.png" srcset="" alt="View Media with Captions" height="94" width="264">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f1aab731-c5d8-411f-9313-c2d6d6d89da8" class="text-block-content">
+    <p><a href="/t5/Student-Guide/How-do-I-view-captions-in-a-video-in-the-Rich-Content-Editor-as/ta-p/527" target="_blank">View captions</a>.</p>
+<p><strong>Note: </strong>Videos that are embedded as extra large size or larger with captions display a <strong>Captions</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

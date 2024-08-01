@@ -1,0 +1,133 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_77BB3250-028A-0135-BD98-22000BC102FE" class="text-block-content">
+    <p>You can enable an existing grading scheme as your course default grading scheme by editing your Course Settings. If you need to change your course grading scheme at any time, you can <a href="/t5/Instructor-Guide/How-do-I-view-and-manage-grading-schemes-in-a-course/ta-p/1188" target="_blank">view and manage grading schemes</a>.</p>
+<p>Course assignments use the course default grading scheme, or you can <a href="/t5/Instructor-Guide/How-do-I-add-a-grading-scheme-to-an-assignment/ta-p/1066" target="_blank">select another grading scheme for an assignment</a>.</p>
+<p>If you want to disable grading schemes for your entire course, you can deselect the grading scheme checkbox in Course Settings and your course will no longer be associated with a grading scheme. If you choose to use a grading scheme at a later time, you will have to re-enable a grading scheme.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>In a course export, the enabled course grading scheme is copied as the default grading scheme.</li>
+<li>Using an account-level grading scheme built by your institution links the scheme into your course—it does not import as a new scheme on the course level.  </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="968EC86A-8275-42D9-8B7F-B00FD79BDCB4">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/824/090/original/e4536ebe-7ea3-4f0e-8f37-72b0c8cae6b6.png" srcset="" alt="Open Settings" height="242" width="150">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77BB7090-028A-0135-BD9A-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_details" data-step-uuid="77f4821c-cc8c-466e-8797-52c3032ae692">
+    <h2 id="open_course_details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/176/139/original/838f73e1-12b3-4572-9166-ec879236ee07.png" srcset="" alt="Open Course Details" height="82" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77BB9F20-028A-0135-BD9C-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Course Details</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable_grading_scheme" data-step-uuid="F06954C0-B758-4618-9D37-0B0C64394031">
+    <h2 id="enable_grading_scheme" class="step-title screensteps-heading">Enable Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/623/309/original/960c74ca-19f7-47af-ae79-a6a60a66caca.png" srcset="" alt="Enable Grading Scheme" height="43" width="381">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77BBD390-028A-0135-BD9E-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Enable course grading scheme</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-grading-scheme" data-step-uuid="f7233714-543e-46e0-ae36-70398a111600">
+    <h2 id="set-grading-scheme" class="step-title screensteps-heading">Set Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/500/original/155fde9c-dbe2-4b92-a1cd-b5b2a75ae3cd.png" srcset="" alt="Set Grading Scheme" height="205" width="673">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fca3f750-df72-4512-ac7b-e9e8bdced536" class="text-block-content">
+    <p>To use a default grading scheme provided by your account, click the <strong>Grading Scheme </strong>drop-down menu [1] and select the grading scheme.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-a-grading-scheme-in-a-course/ta-p/1054" target="_blank">create a grading scheme</a> for your course, click the <strong>Add New Grading Scheme</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_grading_scheme" data-step-uuid="3E94D6E0-2F57-4497-B8A3-11184FC87ABC">
+    <h3 id="view_grading_scheme" class="step-title screensteps-heading">View Grading Scheme</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/502/original/f6978dfa-3c2c-4141-8396-a78ef902ec92.png" srcset="" alt="View Grading Scheme" height="205" width="675">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77BC0600-028A-0135-BDA0-22000BC102FE" class="text-block-content">
+    <p>To view the grading scheme that you set, click the <strong>View</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_grading_scheme" data-step-uuid="10F46DB1-C389-4728-B8DC-830734CAFE35">
+    <h2 id="select_grading_scheme" class="step-title screensteps-heading">Select Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/504/original/a04404e2-50a0-4bad-b49a-7e3ef07b6f5e.png" srcset="" alt="Select Grading Scheme" height="380" width="416">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77BC3670-028A-0135-BDA2-22000BC102FE" class="text-block-content">
+    <p>Canvas displays the Default Canvas Grading Scheme. If you want to select another grading scheme, click the <strong>Grading Scheme </strong>drop-down menu [1] and select a Course Level or Account Level grading scheme [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_course_details" data-step-uuid="A8C228AB-9487-45DF-8723-BF2426E7F9E2">
+    <h2 id="update_course_details" class="step-title screensteps-heading">Update Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/886/original/6b6cd044-7d30-45c4-9433-04f318d1e2ae.png" srcset="" alt="Update Course Details" height="64" width="213">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77BCC660-028A-0135-BDA8-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Update Course Details</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

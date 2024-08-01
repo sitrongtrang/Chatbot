@@ -1,0 +1,37 @@
+How do I enter and edit grades in the Gradebook as an instructor
+Open Grades
+In Course Navigation, click the Grades link.
+Locate Student Assignment
+Locate the student name and assignment where you want to enter a grade.
+Enter Grade
+Grades are entered according to the assignment's Display Grade setting. Grades can be entered as one of five options: points, complete/incomplete, letter grade, percentage, and GPA. You can change the assignment to display grades for a specific grading type.
+Note: When you reach the end of a column, pressing the Return or Enter key advances to the top of the next column.
+Enter Points Grade
+To enter a points grade, enter the number of points in the cell and press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard). 
+Enter Complete or Incomplete Grade
+To enter a complete or incomplete grade, click the drop-down menu in the cell and select the desired icon. Grading options include complete, incomplete, ungraded, and excused.
+Enter Letter Grade
+Click the drop-down menu and select a letter grade from the menu.
+You can also manually enter a letter grade. Enter the letter which corresponds to the letter scale defined by the grading scheme and press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard).
+View Letter Grade Validation Error
+If you enter a letter grade that is not supported in the grading scheme, the cell displays an invalid grade warning icon. Canvas will also display an invalid grade warning message.
+Enter Percentage Grade
+To enter a percentage grade, enter the percent in the cell and press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard). 
+Enter GPA Grade
+To enter a GPA grade, click the drop-down menu and select the desired grade from the menu.
+You can also enter the number which corresponds to the GPA scale defined by the grading scheme and press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard).
+View GPA Grade Validation Error
+If you enter a letter grade that is not supported in the grading scheme, the cell displays an invalid grade warning icon. Canvas will also display an invalid grade warning message.
+Edit Grade
+To edit an existing grade in the Gradebook, click the assignment cell for the grade. 
+To assign a new grade, enter the new grade. To delete the grade, click the Delete key. 
+To apply the edited grade, press the Return key (on a Mac keyboard) or the Enter key (on a PC keyboard). 
+Enter Grade via Grade Detail Tray
+Grades can also be entered in the Grade Detail Tray according to the assignment's display grade setting. To open the tray, click an assignment cell for a student and click the Grade Detail Tray icon. In the Grade field, enter the grade for the student.
+To advance to the next student, click the arrow icon. 
+View Excessive Points Alert
+If an excessive amount of points is added to a student's grade, Canvas will generate an alert notifying that the student was awarded an unusually high grade. You can either keep or correct the point value.
+Excessive points can occur in the following situations:
+The amount entered is 50% above the total points possible
+An extra digit is entered (e.g. 500 instead of 50)
+An assignment is given negative points

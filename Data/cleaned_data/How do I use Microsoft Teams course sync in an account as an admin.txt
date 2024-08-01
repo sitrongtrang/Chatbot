@@ -1,0 +1,17 @@
+How do I use Microsoft Teams course sync in an account as an admin
+Open Settings
+In Account Navigation, click the Settings link.
+Open Integrations
+From the Account Settings page, click the Integrations tab.
+Enter Microsoft Teams Details
+Enter your Azure Active Directory tenant name in the Tenant Name field.
+Select the attribute to use when associating a Canvas user with a Microsoft user in the Login Attribute drop-down menu. You can select the user's default Canvas email, unique user ID (such as the user's login_id or Canvas API's pseudonymunique_id), SIS user ID, and integration ID.
+If the Suffix field is populated, the entered text attaches to the Login Attribute.
+Select the attribute to use to match a Canvas user to a Microsoft user in the Active Directory Lookup Attribute drop-down menu. You can select user principal name (UPN), primary email address (mail), and email alias (mailNickname).
+To update the details, click the Update Settings button.
+Note: When the Email login attribute is selected, only the user's primary Canvas email address is used in the course sync.
+Enable Sync
+To enable Microsoft Teams sync in your Canvas account, click the Sync button. Then click the Grant tenant access link.
+Log In to Microsoft
+Use your Microsoft credentials to log in to your Microsoft Teams account. Logging in to your account grants Canvas access to your Microsoft tenant.
+Note: Granting access to your Microsoft tenant should be completed by the Microsoft 365 admin at your institution.

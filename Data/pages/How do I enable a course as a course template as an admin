@@ -1,0 +1,111 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_ba95054d-73ec-41d7-ac67-bb324ca7327e" class="text-block-content">
+    <p>As an admin, you can enable a course as a course template. After the template is enabled, you can <a href="/t5/Admin-Guide/How-do-I-select-a-course-template-in-an-account/ta-p/463701" target="_blank">select the course template</a> in the Accounts Settings on any account or sub-account.</p>
+<p>New courses created from the template are not associated with the template, and any changes to the new course must be made directly in the new course. To compare course templates to blueprint courses and Canvas Commons, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Course-Content-Distribution-Comparison/ta-p/387051" target="_blank">Course Content Distribution Comparison resource document</a>.</p>
+<p>Courses created from a course template are assigned to the default term, unless a term is selected when the course is created. Course participation is always limited to term start and end dates and must be adjusted manually.</p>
+<p>In order to manage course templates, an admin must have the Manage Course Templates permission enabled. This is a granular permission that is divided into individual permissions for creating, deleting, and editing templates. For more information, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Account-Role-Permissions/ta-p/387078" target="_blank">Account Permissions resource document</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>You cannot enable a course as a course template if the course has any enrollments, including the Test Student.</li>
+<li>Template courses cannot be deleted. However, users who have permission to delete a course template can deselect the Course Template checkbox and remove it as a course template.</li>
+<li>Creating a course using a template functions in essentially the same way as copying a course. Course copies may not include all content. For more details, please see the <a href="https://community.canvaslms.com/docs/DOC-10713" target="_blank">import content section </a>in the Canvas Basics Guide.</li>
+<li>Creating a course using a course template does not impact file quotas.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-course" data-step-uuid="c73ee6dc-b745-4d34-bd3a-0da06778a271">
+    <h2 id="open-course" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/491/093/original/18295f1f-ea58-4245-992e-a07b55eeea87.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/491/093/medium/18295f1f-ea58-4245-992e-a07b55eeea87.png" srcset="" alt="Open Course" height="318" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_adaa0757-f2c3-4802-9902-328c76a3c7a7" class="text-block-content">
+    <p>In the Account Navigation Menu, click the <strong>Courses</strong> link [1] and click the course you want to use as a template [2]. To find your desired course, you can use the course filters [3] or search field [4].</p>
+<p>To <a href="/t5/Admin-Guide/How-do-I-add-a-course-in-an-account-as-an-admin/ta-p/158" target="_blank">create a new course</a>, click the <strong>Add Course</strong> button [5].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="7fdd5a48-e98a-4ae0-9e3d-8d2f495729d6">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/347/494/original/a6062762-7e2b-4d92-a6aa-84384288e388.png" srcset="" alt="Open Settings" height="273" width="193">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5906562a-e5d9-41e6-ab01-fed50d814df1" class="text-block-content">
+    <p>In the Course Navigation Menu, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-course-as-course-template" data-step-uuid="71563c0a-1738-4b62-b314-024ba0ea214d">
+    <h2 id="enable-course-as-course-template" class="step-title screensteps-heading">Enable Course as Template</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/352/624/original/c2e0e80c-6192-4d68-be58-5627ff75be0c.png" srcset="" alt="Enable Course as Template" height="568" width="635">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_07b2ba56-3d97-4210-8fe0-e633ead341fd" class="text-block-content">
+    <p>In the <strong>Course Details</strong> tab [1], click the <strong>Enable course as a Course Template</strong> checkbox [2].</p>
+<p><strong>Note: </strong>If you are unable to manage the Course Template setting, the course may have enrollments (including the Test Student) or you may not have permission to manage course templates.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-settings" data-step-uuid="537a0ce7-62f2-4746-96a1-44ad06443f93">
+    <h2 id="save-settings" class="step-title screensteps-heading">Save Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/347/498/original/a301064d-cf58-4785-b443-719968727858.png" srcset="" alt="Save Settings" height="64" width="210">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8c876f8d-ef27-402a-80aa-ec33d8f2df37" class="text-block-content">
+    <p>Click the <strong>Update Course Details</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-associated-accounts" data-step-uuid="8f4eeaa7-6d66-4a55-96a7-8f3258bc5b9e">
+    <h2 id="view-associated-accounts" class="step-title screensteps-heading">View Associated Accounts</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/352/626/original/ea186fca-73ff-49a2-b771-d2eb26abd086.png" srcset="" alt="View Associated Accounts" height="149" width="409">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_839a233f-99d9-47a6-80ce-c04e065e3f0f" class="text-block-content">
+    <p>Once a <a href="/t5/Admin-Guide/How-do-I-select-a-course-template-in-an-account/ta-p/463701" target="_blank">course template is associated with an account</a>, you can view the number of accounts associated in the <strong>Associated with [number] account</strong> link. To view the names of the accounts, click the link.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

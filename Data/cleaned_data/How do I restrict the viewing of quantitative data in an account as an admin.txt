@@ -1,0 +1,18 @@
+How do I restrict the viewing of quantitative data in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Account Settings
+In Account Navigation, click the Settings link.
+View Restriction Options
+In the Account Settings tab, locate the Restrict view of quantitative data option.
+By default, the Restrict view of quantitative data checkbox is not selected, meaning students and observers can view numeric data as well as letter grades and comments. Additionally, the option to restrict the view of quantitative data in a course is unavailable.
+To retain this default for the entire institution, do not select the checkbox. 
+Note: The quantitative data restriction checkbox is for all new courses created in the account after the setting is enabled.
+Allow Restriction of Quantitative Data in Courses
+To allow users to restrict the view of quantitative data in a course, select the Restrict view of quantitative data checkbox. 
+When restricted in a course, students and observers only see qualitative data, which includes letter grades and comments.
+Restrict View of Quantitative Data in New Courses
+To set a default for new courses and sub-accounts in the entire account so students and observers cannot view quantitative data, which includes numeric data and points, click the Restrict view of quantitative data checkbox. Then click the Lock this setting for sub-accounts and courses checkbox. 
+When both options are selected, students and observers in new courses only see qualitative data, which includes letter grades and comments.
+Update Settings
+Click the Update Settings button.

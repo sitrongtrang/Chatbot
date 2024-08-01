@@ -1,0 +1,148 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7C743C90-E0D9-0138-3DDF-12F2183ABDFB" class="text-block-content">
+    <p>When you create a new event in your Canvas calendar, you can also schedule it to repeat, daily, weekly, monthly, or annually. This may you stay organized observing multiple students, multiple courses, and multiple events in Canvas as an observer.</p>
+<p>Tips for recurring events:</p>
+<ul>
+<li>Weekly events are repeated on the day of the week of the first event. For example, if an event is created on a Monday and repeats weekly, the next instance of the event will appear on the following Monday, regardless of the actual date.‬</li>
+<li>‪Monthly events are repeated on the day of the month of the first event. For example, if an event is created on July 6 and repeats monthly, the next instance of the event will appear on August 6. ‬ </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_calendar" data-step-uuid="7C744F90-E0D9-0138-3DE0-12F2183ABDFB">
+    <h2 id="open_calendar" class="step-title screensteps-heading">Open Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/074/492/original/dce7adbe-7fdf-43f8-81fc-9ec0b53543e4.png" srcset="" alt="Open Calendar" height="544" width="92">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7C7476E0-E0D9-0138-3DE2-12F2183ABDFB" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Calendar</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_event" data-step-uuid="7C748760-E0D9-0138-3DE3-12F2183ABDFB">
+    <h2 id="add_event" class="step-title screensteps-heading">Add Event</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/882/229/original/9826cd89-40cb-4d4f-869f-910e6fc81ec7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/882/229/medium/9826cd89-40cb-4d4f-869f-910e6fc81ec7.png" srcset="" alt="Add Event" height="579" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7C74AC70-E0D9-0138-3DE5-12F2183ABDFB" class="text-block-content">
+    <p>To add an event to your calendar, click any calendar date [1]. You can also navigate to view previous or upcoming dates using the <strong>Previous</strong> and <strong>Next</strong> icons [2].</p>
+<p>Alternatively, you can click the <strong>Add</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_more_options" data-step-uuid="7C74C1B0-E0D9-0138-3DE6-12F2183ABDFB">
+    <h2 id="view_more_options" class="step-title screensteps-heading">Add Event Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/882/231/original/37e6b64e-7d64-4b57-8537-2c7efb5a857d.png" srcset="" alt="Add Event Details" height="625" width="522">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7C74E570-E0D9-0138-3DE8-12F2183ABDFB" class="text-block-content">
+    <p>Enter a title for the event [1]. </p>
+<p>Depending on how you added your event, the date may be populated for you. If not, enter a date in the date field [2].</p>
+<p>The calendar times may also be populated for you in the From and To fields [3]. Edit or enter the start and end time for your event. To create an all-day event, leave the From and To fields blank so there is no start and end time for your event. </p>
+<p>In the <strong>Frequency</strong> drop-down menu, you can set recurring calendar events [4].</p>
+<p>If a location is required, enter a location for the event [5]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-event-frequency" data-step-uuid="975bf952-2e6a-4574-a59d-eaf8befaf3f0">
+    <h2 id="add-event-frequency" class="step-title screensteps-heading">Add Event Frequency</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/882/233/original/0e2698a0-6579-43cc-a49b-5a0d94306a3d.png" srcset="" alt="Add Event Frequency" height="348" width="531">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b5efc130-39dd-4bc7-84df-743f6229d46d" class="text-block-content">
+    <p>In the <strong>Frequency</strong> drop-down menu [1], you can select from multiple recurring options, including no repeat, daily, weekly, monthly, annually, every weekday, or a custom frequency.</p>
+<p><strong>Notes: </strong>Each frequency selection has an occurrence default:</p>
+<ul>
+<li>daily = 365 (days in a year)</li>
+<li>weekly = 52 (weeks in a year)</li>
+<li>monthly = 12 (months in a year)</li>
+<li>annually = 5 (The event will occur for five years)</li>
+<li>every weekday = 52 * 5 (weeks in a year * weekdays)</li>
+<li>Additionally, users can have a maximum of 400 occurrences.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-event-custom-frequency" data-step-uuid="05473aaf-d372-4d27-8718-74161e695568">
+    <h3 id="add-event-custom-frequency" class="step-title screensteps-heading">Add Event Custom Frequency</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/882/235/original/e70f2bc9-0448-44bd-b78f-5f935050e214.png" srcset="" alt="Add Event Custom Frequency" height="520" width="557">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_290cd9f9-dac7-4d62-b429-614cf4d27b74" class="text-block-content">
+    <p>To create a custom recurring event, select how often the event repeats [1], which day(s) it repeats on [2], and when it ends [3]. Click the <strong>Done</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_event" data-step-uuid="7C756710-E0D9-0138-3DEF-12F2183ABDFB">
+    <h2 id="create_event" class="step-title screensteps-heading">Submit Event</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/882/237/original/40710114-1713-4d7d-879a-7e9597ae4756.png" srcset="" alt="Submit Event" height="82" width="260">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7C758EE0-E0D9-0138-3DF1-12F2183ABDFB" class="text-block-content">
+    <p>Click the<strong> Submit </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_events" data-step-uuid="7C759FB0-E0D9-0138-3DF2-12F2183ABDFB">
+    <h2 id="view_events" class="step-title screensteps-heading">View Events</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/882/239/original/81a9cb66-5641-4fed-902b-2ec930922fa3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/882/239/medium/81a9cb66-5641-4fed-902b-2ec930922fa3.png" srcset="" alt="View Events" height="560" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7C75C350-E0D9-0138-3DF4-12F2183ABDFB" class="text-block-content">
+    <p>View the recurring events in your calendar. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

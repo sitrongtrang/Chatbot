@@ -1,0 +1,84 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_ddc0dfd9-8b95-4a0a-be21-be9ffe64000c" class="text-block-content">
+    <p>You can duplicate an assignment in your course. When an assignment is duplicated, the word <em>Copy</em> is added to the end of the assignment name.</p>
+<p>Duplicating an assignment defaults the copied assignment to an unpublished status. All items in the assignment are duplicated including the name, description, point value, and options, except for the following situations:</p>
+<ul>
+<li>Copied peer review assignments retain the peer review setting and Assign Review date, but the number of reviews per user will be set to zero.</li>
+<li>Copied assignments are always assigned to everyone in the course; differentiated assignments are not retained for individual users, groups, or sections.</li>
+<li>If a differentiated assignment includes an Everyone Else date, the copied assignment retains the Everyone Else due date, if any.</li>
+<li>If a differentiated assignment does not include an Everyone Else date, the copied assignment does not include a due date.</li>
+</ul>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Assignments currently cannot be duplicated for quizzes.</li>
+<li>Except for New Quizzes assessments, assignments configured as an external tool (LTI) submission type cannot be duplicated.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="5dc5f788-2444-4558-93ec-f9292f1c6f51">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/743/212/original/f838a14b-7118-4b0f-a4fd-f53f5ccbfb37.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fbfb1f0e-affd-4147-b831-af5350e96eff" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete_assignment" data-step-uuid="f4fccc46-90fb-40ca-8409-042b6d5421fb">
+    <h2 id="delete_assignment" class="step-title screensteps-heading">Duplicate Assignment</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/141/940/original/6c525b4f-b4a0-436b-ae54-5c34ac869191.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/141/940/medium/6c525b4f-b4a0-436b-ae54-5c34ac869191.png" srcset="" alt="Duplicate Assignment" height="334" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f87b7971-069c-401f-802f-3848d5af4fb2" class="text-block-content">
+    <p>Locate the assignment you want to duplicate and click the <strong>Options</strong> icon [1]. Click the <strong>Duplicate</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm_delete" data-step-uuid="107305ba-a81d-4aad-b99d-0db3599d991e">
+    <h2 id="confirm_delete" class="step-title screensteps-heading">View Duplicate</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/174/442/original/c439ca75-9e26-4bff-8830-bb783cbc8e7a.png" srcset="" alt="View Duplicate" height="209" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c3eed7f9-5d60-4af3-86f2-28ec45cc8cf9" class="text-block-content">
+    <p>View the assignment duplicate in your course.</p>
+<p><strong>Note: </strong>If applicable to your course, the Assignments page displays any Blueprint Course or Sync to SIS icons after the page is refreshed.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

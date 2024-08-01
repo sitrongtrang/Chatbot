@@ -1,0 +1,20 @@
+How do I set storage quotas for an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Settings
+The settings portion of your account is only available to Canvas admins. 
+In Account Navigation, click the Settings link.
+Open Quotas
+Click the Quotas tab.
+View Default Account Quotas
+In the Default Account Quota section, you can view the default quotas assigned to each course, user, and group.
+To change quotas, type a new number in the quota fields. Changing the quota will change the quotas for courses, users, and/or groups for the entire account. 
+Click the Update button.
+Note: Sub-account admins cannot manage user quotas.
+Find Manually Settable Quotas
+In the Manually Settable Quotas section, you can search for a course or group with a specific quota. In the ID field, select Course ID or Group ID. In the text field, enter the ID of the course or group. Click the Find button. 
+Notes: 
+The course ID is located at the end of your course URL (i.e. canvas.instructure.com/courses/XXXXXX , and the group ID is located at the end of the URL (i.e. canvas.instructure.com/courses/XXXXXX/groups/XXXXX). 
+Manually Settable Quotas at parent level only apply to its own sub-accounts/courses
+Update Quota
+Canvas displays the course or group and the quota. To change the quota, enter a new number in the quota field. Click the Update Quota button.

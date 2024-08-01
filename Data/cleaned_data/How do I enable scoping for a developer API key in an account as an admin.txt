@@ -1,0 +1,23 @@
+How do I enable scoping for a developer API key in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Developer Keys
+In Account Navigation, click the Developer Keys link.
+Add Developer Key
+Click the Add Developer Key button.
+Add API Key
+Click the Add API Key option.
+Enforce Scopes
+After you've completed the developer key information, click the Enforce Scopes button.
+Allow Include Parameters
+To permit usage of all "includes" parameters for this key, click the Allow Include Parameters checkbox.
+"Includes" parameters may grant access to additional data that is not included in the Endpoints table.
+Search Endpoints
+To search for a specific endpoint, type the name of the endpoint in the Search Endpoints field.
+To see all available endpoints, scroll through the Endpoints table.
+Select Read Only Endpoints
+To grant read-only (GET) access to the developer key, select the Read only checkbox. The table will automatically update and select all scopes that contain read-only endpoints.
+Select Individual Endpoints
+You can grant customized access to the developer API key. Click any scope name to view available endpoints. Select the desired endpoints by clicking the checkbox next to the endpoint name. The scope name line will update to show the summary of the collective selected endpoint access.
+Save Key
+Click the Save button.

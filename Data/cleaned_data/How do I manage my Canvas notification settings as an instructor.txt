@@ -1,0 +1,31 @@
+How do I manage my Canvas notification settings as an instructor
+Open Notifications
+In Global Navigation, click the Account link, then click the Notifications link.
+View Account Notification Settings
+On the Notification Settings page, you can manage notification settings for your Canvas account and/or manage notification settings for individual courses using the Settings for drop-down menu. 
+By default, the Settings for drop-down menu displays the Account option. A banner displays stating account-level notification settings apply to all of your Canvas courses, however, any course-specific notification settings override account notification settings. To dismiss the message, click the Close icon. 
+A banner indicates the times when daily and weekly notifications will be delivered. To dismiss the message, click the Close icon. 
+View account-level notification types and your listed contact methods. 
+Each notification has a default delivery frequency preference. To view the current notification delivery frequency for a notification type and contact method, hover over the notification icon. 
+View Notification Details
+To view details for a notification, hover over the notification name.
+Set Notification Settings
+Each notification is set to a default setting. To change a notification for a contact method, locate the notification and click the icon for the contact method.
+To receive a notification right away, select the Notify immediately option. These notifications may be delayed by up to one hour in case an instructor makes additional changes, which prevents you from being spammed by multiple notifications in a short amount of time. 
+To receive a daily notification, select the Daily summary option. The date and time of your daily notifications are posted in a banner at the top of the Notification Settings page.
+To receive a weekly notification, select the Weekly summary option. The date and time of your weekly notifications are posted in a banner at the top of the Notification Settings page.
+If you do not want to receive a notification, select the Notifications off option.
+Unsupported notification types display the Unsupported icon. Unsupported notification types cannot be enabled.
+Notes: 
+Each set notification setting will automatically apply to all of your courses. However, if you manage notification settings for a single course, notifications for that course must continue to be managed in the course.
+Twitter notification settings do not support daily summary or weekly summary options. 
+Unregistered contact methods will appear in notification settings but will not receive notifications until you confirm the registration.
+View Privacy Notice
+If you've enabled a notification setting for an email address that is outside your institution, you may see a privacy warning. You can close the warning by clicking the OK button. Once the warning has been displayed, it will not display again. 
+Set Push Notifications
+If you have enabled push notifications in the Canvas Teacher app, you can manage your settings in the Push Notification column. Please be aware that push notifications can only be sent to your mobile device right away or not at all. Daily and weekly notification options are not supported. 
+Additionally, settings inside the app will override settings set in the notifications page.
+Note: Some categories include limited availability for push notifications. Full details about supported notifications for push notifications can be found in the Canvas Notifications resource document.
+Set Slack Notifications
+If your institution uses a third-party application called Slack and has enabled it as a contact method, you can add Slack as a contact method and receive direct message notifications from Canvas in Slack.
+Slack notifications may vary depending on your Slack notification settings. 

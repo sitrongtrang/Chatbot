@@ -1,0 +1,32 @@
+Add Question
+Add Question
+With the Questions tab selected inside a new quiz, click the New Question button.
+Set Name, Type, and Points
+Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).
+Click the drop-down menu and select the Fill In Multiple Blanks question type.
+Enter number of points the question is worth (quiz totals are calculated based on combined total of questions).
+Note: Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.
+Enter Question Details
+Type your question into the Rich Content Editor. You can also use the Rich Content Editor to include video, images, math equations, or flash activities.
+Note: Fill-in-Multiple-Blanks questions that include tables may not display some question content when viewed by students.
+Create Reference Words
+Now replace the words you want students to enter in the question with reference words. Reference words should be surrounded by brackets and cannot contain spaces, periods, or other non-alphanumeric characters. Once you place a word in brackets, the word will populate in the Show Possible Answers for drop-down menu.
+For example, red has been replaced with [color1], and blue has been replaced with [color2]. 
+Enter Answer Responses for First Reference Word
+A student will not get full credit for an answer if it is left blank, misspelled, or is incorrect. For each item in the dropdown menu, instructors must try to account for all of the possible correct answers that a student might give. Currently, fill-in-multiple-blanks answers are not case sensitive. Partial credit will be assigned if only one of the fields is filled out correctly.
+Select the first reference word in the drop-down list and type the different versions of the right answer in the Possible Answer fields. You can add comments for each answer if you wish. Click Add Another Answer to add more answer fields. 
+Note: If a student does not enter any of the possible answers but still submits a valid response, instructors may need to manually grade the quiz to restore points that they lost.
+Enter Answer Responses for Additional Reference Words
+Select the second item in the drop-down menu to create associated answers. Repeat this process for as many reference words as are in your question.
+Enter Feedback Text
+You can choose to give students feedback in the answer comments fields. To leave feedback for a specific answer, click the comment field beneath the answer.
+You can also create general answer comments for the quiz question as a whole. Students who select the correct answer will see the feedback in the green comment field. Students who select any incorrect answer will see the feedback in the red comment field. All students will see the feedback in the blue comment field.
+Note: Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.
+Each text box can be expanded in size by clicking and dragging the handle at the bottom-right of the text box.
+Update Question
+Click the Update Question button.
+Add additional individual questions as needed. 
+Student View for Fill-in-Multiple-Blanks Question
+This is what students see when they encounter a Fill-in-Multiple-Blanks question.
+Student View for Fill-in-Multiple-Blanks Feedback
+If you allow students to see the correct answers, they will see correct responses marked with a correct answer flag. Their incorrect response will be marked with a red flag and the correct response marked with a gray flag. Partial credit will be assigned if some of the blanks are completed correctly. 

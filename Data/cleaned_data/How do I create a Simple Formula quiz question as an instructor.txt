@@ -1,0 +1,36 @@
+How do I create a Simple Formula quiz question as an instructor
+Add Question
+With the Questions tab selected inside a new quiz, click the New Question button.
+Set Name, Type, and Points
+Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).
+Click the drop-down menu and select the Formula question type.
+Enter number of points the question is worth (quiz totals are calculated based on combined total of questions).
+Note: Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.
+Edit Question Details
+Type the question prompt text and formula with variables in brackets in the Rich Content Editor. You can include video, images, math equations, or flash activities. For information on variables, formulas, and other options, click the Need help? link. 
+Note: If you need help adding a mathematical formula in the Rich Content Editor, please see the Math Editor lesson. You cannot use the letter "e" as a variable. It is a reserved mathematical constant.
+Set Variable Definitions
+After you have finished typing the formula in the Rich Content Editor, parameters to define the formula will appear. Set the variable definitions for the formula. Specify the minimum and maximum numbers for variable X. Select decimal places in the drop-down menu, and click the Recompute button to verify that Canvas will insert a number into the formula that is within the variable definition.
+Set Formula Definitions
+Type the formula definition in the formula field. Make sure the formula does not contain any brackets or equal signs. Select the Decimal Places drop-down menu to set the number of decimal places you want used for the result. Select the Save button to save your formula. 
+Notes: 
+The Formula Definition text box supports the following operators: + (add), - (subtract), * (multiply), / (divide), and ^ (power).
+If you need help building formulas in the Formula Definition field, see the Canvas Formula Quiz Question Helper Functions resource document.
+Recompute Solution
+Once you've added a formula definition, you can go back to the Recompute button and watch the calculated variable process through the formula and calculate a result. You can recompute as many times as you'd like. For instance, if an example value is 10 and the equation is 180 times x, 10 acts for x and the result is 1800. 
+Set Possible Number of Solutions
+In the Offer field, specify the number of possible solutions you want Canvas to generate. 
+In the error margin of field, enter the margin of error for the student's answer. Responses are based on relative error in addition to absolute error. Margins of error can be created as a percentage or as a point value (up to three decimal places).
+Click the Generate button to view final answer.
+View Possible Solutions
+Possible solutions will process according to the number of value combinations.
+Provide Feedback
+You can provide feedback for the question by clicking an answer comment field and entering text. The comment fields are color-coded to correspond with the type of answer the student provides. Green is for correct answer feedback, red is for incorrect answer feedback, and blue is for general question feedback.
+Note: Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.
+Update Question
+Click the Update Question button.
+Add additional individual questions as needed. 
+Student View for Formula Question
+This is what students see when they encounter a Formula question in a quiz.
+Student View for Formula Question Feedback
+If you allow students to see the correct answers, they will see the correct responses listed after their answer. A green flag indicates the correct answer. A red flag indicates the student's incorrect answer. 

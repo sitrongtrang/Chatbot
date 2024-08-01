@@ -1,0 +1,127 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0D0B0FE0-AAE2-0135-15A3-06467EE270FA" class="text-block-content">
+    <p>You can use the Gradebook to curve grades for an assignment. In the academic community, curving grades is advisable if only a certain number of students can pass, or when you require a fixed distribution of grades distributed throughout the class. </p>
+<p>To curve grades, Canvas asks for an average curve score and then adjusts the scores as a bell curve 66% around the average score. For instance, if the average score is the equivalent of a C, Canvas would distribute mostly C- and C+ scores, distributing outward down the curve to Bs and Ds, and then ultimately As and Fs. This type of scoring creates a predictable distribution, but it means that students will compete against their classmates for scoring.</p>
+<p>To learn more about how curved grades are calculated, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Curving-Grades-in-Canvas/ta-p/387085" target="_blank">Curving Grades in Canvas resource document</a>.</p>
+<p><strong>Note:</strong></p>
+<ul>
+<li>Grade curving cannot be undone. Pre-curved <a href="/t5/Instructor-Guide/How-do-I-view-the-history-of-all-grading-changes-in-the/ta-p/783" target="_blank">grade histories</a> will be available, but the curving action is irreversible. </li>
+<li>Student grades will be impacted differently based on where they are in the distribution of scores. Perfect scores will not be affected by curving grades.</li>
+<li>When Multiple Grading Periods are enabled in a course, you cannot set a default grade for any assignment that has at least one student in a closed grading period.</li>
+<li>When Moderated Grading is enabled for an assignment, the Curve Grades option is not available before grades are released.</li>
+<li>Curved grading is available in the <a href="/t5/Instructor-Guide/How-do-I-view-assignments-or-students-individually-in-the/ta-p/1247" target="_blank">Gradebook Individual View</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_gradebook" data-step-uuid="0D0B24D0-AAE2-0135-15A4-06467EE270FA">
+    <h2 id="open_gradebook" class="step-title screensteps-heading">Open Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/047/original/bcd62f47-7a0d-47f8-9733-e95f2dd2ed22.png" srcset="" alt="Open Gradebook" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D0B4FB0-AAE2-0135-15A6-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment" data-step-uuid="1bab133d-0d7a-4feb-956d-001e7fe55fb9">
+    <h2 id="open_assignment" class="step-title screensteps-heading">Open Assignment Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/729/691/original/526a0c25-3925-477a-ba87-47d914ce2edb.png" srcset="" alt="Open Assignment" height="272" width="723">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2f800225-2dda-4d56-80f0-2c3bfbf37e5a" class="text-block-content">
+    <p>Hover over the assignment column header and click the <strong>Options</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="curve_grades" data-step-uuid="0D0BB350-AAE2-0135-15AA-06467EE270FA">
+    <h2 id="curve_grades" class="step-title screensteps-heading">Curve Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/814/original/c39fbc8c-16d4-4707-a639-3bf61863b663.png" srcset="" alt="Curve Grades" height="405" width="647">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D0BDEA0-AAE2-0135-15AC-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Curve Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_curve_score" data-step-uuid="0D0BF0C0-AAE2-0135-15AD-06467EE270FA">
+    <h2 id="set_curve_score" class="step-title screensteps-heading">Set Curve Score</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/816/original/49198dd5-18a7-4269-a724-e7e058d64fdb.png" srcset="" alt="Set Curve Score" height="669" width="356">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D0C2050-AAE2-0135-15AF-06467EE270FA" class="text-block-content">
+    <p>In the <strong>Average Score</strong> field [1], type the average grade for the curve score. The graph above the Average Score field will change depending on what score is entered and give you an approximation of what the new scores would look like [2]. You can adjust the average score as necessary to produce a desired grading outcome. </p>
+<p>You can assign zeros to students who did not submit their assignments by clicking the <strong>Assign zeroes to unsubmitted students</strong> checkbox [3]. To curve grades, click the <strong>Curve Grades</strong> button [4]. </p>
+<p><strong>Note:</strong></p>
+<ul>
+<li>Grade curving cannot be undone. Pre-curved grade histories will be available, but the curving action is irreversible. </li>
+<li>Student grades will be impacted differently based on where they are in the distribution of scores.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_updated_scores" data-step-uuid="0D0C3850-AAE2-0135-15B0-06467EE270FA">
+    <h2 id="view_updated_scores" class="step-title screensteps-heading">View Updated Scores</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/882/954/original/b54b0bae-2940-4946-8293-172a82eb10c3.png" srcset="" alt="View Updated Scores" height="132" width="451">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D0C6390-AAE2-0135-15B2-06467EE270FA" class="text-block-content">
+    <p>Canvas displays how many scores were updated. Click the <strong>OK </strong>button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_curved_grades" data-step-uuid="0D0C7640-AAE2-0135-15B3-06467EE270FA">
+    <h2 id="view_curved_grades" class="step-title screensteps-heading">View Curved Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/818/original/02db6a1d-afd7-402a-8669-b402d7858ded.png" srcset="" alt="View Curved Grades" height="411" width="350">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D0CA430-AAE2-0135-15B5-06467EE270FA" class="text-block-content">
+    <p>View the new grades for the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

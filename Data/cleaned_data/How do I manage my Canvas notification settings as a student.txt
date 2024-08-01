@@ -1,0 +1,35 @@
+How do I manage my Canvas notification settings as a student
+Open Notifications
+In Global Navigation, click the Account link, then click the Notifications link.
+View Account Notification Settings
+On the Notification Settings page, you can manage how you recieve notifications for your Canvas account and/or manage how you receive notifications for individual courses. 
+A banner describes the settings you are managing. Another banner indicates the times when daily and weekly notifications will be delivered. To dismiss a banner message, click the Close icon. 
+By default, the Settings for drop-down menu displays the Account option. Account-level notification settings apply to all of your Canvas courses, however, any course-specific notification settings override account notification settings. 
+You can view your current account-level settings.
+View Notification Types and Methods
+Account-level notification types are listed by category. There are notifications for course activities, discussions, conversations, groups, scheduling, and conferences. 
+You can also view your contact methods such as email addresses and push notifications for mobile devices. 
+Each notification has a default delivery frequency setting. To view the current notification delivery frequency for a notification type and contact method, hover over the notification icon. 
+View Notification Details
+To view details for a notification, hover the cursor over the notification name. View details such as the activities that trigger the notification.
+To learn more about each notification, default settings, and notification triggers, view the Canvas Notifications resource document. 
+Manage Email Notification Frequency
+Each notification is set to a default setting. To change a notification for a contact method, locate the notification and click the icon for the contact method.
+To receive a notification right away, select the Notify immediately option. These notifications may be delayed by up to one hour in case an instructor makes additional changes, which prevents you from being spammed by multiple notifications in a short amount of time. 
+To receive a daily notification, select the Daily summary option. The date and time of your daily notifications are posted in a banner at the top of the Notification Settings page.
+To receive a weekly notification, select the Weekly summary option. The date and time of your weekly notifications are posted in a banner at the top of the Notification Settings page.
+If you do not want to receive a notification, select the Notifications off option.
+Unsupported notification types display the Unsupported icon. You cannot manage unsupported notifications.
+Notes: 
+Each set notification setting automatically applies to all of your courses. However, if you manage notification settings for a single course, notifications for that course must continue to be managed in the course.
+Although unregistered contact methods display in notification settings, they will not receive notifications until you confirm the registration.
+View Privacy Notice
+If you've set a notification setting for an email address that is outside your institution, you may see a privacy warning. You can close the warning by clicking the Ok button. Once the warning has been displayed, it will not display again. 
+Set Push Notifications
+If you have enabled push notifications in the Canvas Student mobile app on an Android device or on an iOS device, you can manage your settings in the Push Notification column. 
+Push notifications can only be sent to your mobile device right away or not at all. Daily and weekly notification options are not supported. 
+Some categories include limited availability for push notifications. For full details about supported notifications for push notifications, refer to the Canvas Notifications resource document.
+Note: Managing notification settings inside the Canvas Student mobile app will override settings selected in the Notification Settings page of the browser version of Canvas. 
+Set Slack Notifications
+If your institution uses a third-party messaging application called Slack and has enabled Slack as a contact method, you can add Slack as a contact method and receive direct message notifications from Canvas in Slack.
+Slack notifications may vary depending on your Slack notification settings. 

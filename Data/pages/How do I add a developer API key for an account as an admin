@@ -1,0 +1,153 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6CC7E6E0-1D45-0135-6A77-22000AB760A3" class="text-block-content">
+    <p>As an admin, you can create developer API keys for root accounts. A developer API key is a code given to the developer of a third-party application that allows access to certain information and permissions within Canvas. Developer API keys can be used to create custom integrations with Canvas and allow third-party apps to use Canvas authentication. The developer API key uses OAuth2 to enable the application to use Canvas for authentication. For more information about OAuth2, see the <a href="https://canvas.instructure.com/doc/api/file.oauth.html" target="_blank" rel="nofollow noopener noreferrer">Instructure API OAuth documentation</a>.</p>
+<p>The developer API key is sent from the application to Canvas when a user requests access. The application asks the user for permission to programmatically create an API access token. When the user authorizes the application, the third-party application will have the same access to information and account permissions as the user that granted access. For more information about developer documents, see the <a href="http://instructure.github.io/" target="_blank" rel="nofollow noopener noreferrer">Instructure Github page</a>.</p>
+<p><strong>Key Scoping</strong></p>
+<p>Developer API Keys includes functionality for key scoping as part of adding a developer API key. Key scoping allows you to control direct access to specific API endpoints for third-party tools.</p>
+<p><strong>Note:</strong> Developer Keys is an account permission. If you cannot view the Developer Keys link in Account Navigation, this permission has not been enabled for your user account.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="fb9ee703-8bd0-4bb5-9cc6-4238fe1b0d48">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7404ad19-055d-475d-a73e-55369e68799b" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_developer_keys" data-step-uuid="153fd85e-d6b6-456f-ba21-22c7e785ffb4">
+    <h2 id="open_developer_keys" class="step-title screensteps-heading">Open Developer Keys</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/808/original/bbc08dc0-670b-4cef-88e8-33b061cb46cb.png" srcset="" alt="Open Developer Keys" height="235" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6CC81B90-1D45-0135-6A79-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Developer Keys </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-developer-key" data-step-uuid="6d42faf2-9048-4744-993f-4a06efee0df2">
+    <h2 id="add-developer-key" class="step-title screensteps-heading">Add Developer Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/181/435/original/aa47f7ce-4691-4e4f-bd60-7d8809abac62.png" srcset="" alt="Add Developer Key" height="67" width="189">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c8cdb367-ced5-452c-a8ee-e8ecdd6bf800" class="text-block-content">
+    <p>Click the <strong>Add Developer Key </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-api-key" data-step-uuid="995f43ef-4344-40ab-bda7-56334349a4c8">
+    <h3 id="add-api-key" class="step-title screensteps-heading">Add API Key</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/259/444/original/7c976452-92e4-46d4-bc1e-f5a13ac497d3.png" srcset="" alt="Add API Key" height="200" width="193">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8261e699-1afd-4acd-beec-7040ec791bca" class="text-block-content">
+    <p>Click the <strong>Add API Key</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_key_settings" data-step-uuid="b3bb0ad2-51f5-490a-8b64-d6b41fa582e0">
+    <h2 id="enter_key_settings" class="step-title screensteps-heading">Enter Key Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/124/610/original/cef13739-fd5a-455b-8e8e-619a3f502db5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/124/610/medium/cef13739-fd5a-455b-8e8e-619a3f502db5.png" srcset="" alt="Enter Key Settings" height="510" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6CC87CB0-1D45-0135-6A7D-22000AB760A3" class="text-block-content">
+    <p>Enter the settings for the developer API key:</p>
+<ul>
+<li>
+<strong>Key Name</strong> [1]: Usually your app or company name. This field will be shown when users are asked to approve access to their Canvas account on your behalf.</li>
+<li>
+<strong>Owner Email </strong>[2]: The email of the person who owns the developer tool.</li>
+<li>
+<strong>Redirect URIs</strong> [3]: The domains where tokens are requested. These URIs are not your Canvas URL. To avoid mixed content browser concerns, use https.</li>
+<li>
+<strong>Redirect URI (Legacy)</strong> [4]: The URI for the key redirect. This field allows you to set the previous URI for a tool. Eventually this field will be removed.</li>
+<li>
+<strong>Vendor Code (LTI 2) </strong>[5]: A unique registered code which identifies the vendor or developer of the third-party tool. This is specifically for LTI 2 tools and apps. </li>
+<li>
+<strong>Icon URL </strong>[6]: The URL of the icon for your developer tool. This URL is presented to the user to approve authorization for your tool. To avoid mixed content browser concerns, use https.</li>
+<li>
+<strong>Notes</strong> [7]: Any notes about the developer key, such as the reason it was created.</li>
+<li>
+<strong>Test Cluster Only</strong> [8]: Creates a developer key that can only be used in the Canvas test environment.</li>
+<li>
+<strong>Enforce Scopes</strong> [9]: Allows you to <a href="/t5/Admin-Guide/How-do-I-enable-scoping-for-a-developer-API-key-in-an-account/ta-p/181" target="_blank">customize access for the key</a>. Otherwise, the key will have access to all endpoints available to the authorizing user. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_key" data-step-uuid="c0f698df-590d-4147-a9f9-0948dfa55a4a">
+    <h2 id="save_key" class="step-title screensteps-heading">Save Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/064/409/original/901bd3a0-f4e7-4618-8714-bf93fb4c0920.png" srcset="" alt="Save Key" height="59" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6CC8AF20-1D45-0135-6A7F-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_key" data-step-uuid="11b31852-dab4-4605-83b4-699415646afd">
+    <h2 id="view_key" class="step-title screensteps-heading">View Key</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/181/439/original/2db6ecf2-8776-4e4d-80e8-f3a2a542a491.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/181/439/medium/2db6ecf2-8776-4e4d-80e8-f3a2a542a491.png" srcset="" alt="View Key" height="327" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6CC90130-1D45-0135-6A81-22000AB760A3" class="text-block-content">
+    <p>View the Developer Key for your account. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

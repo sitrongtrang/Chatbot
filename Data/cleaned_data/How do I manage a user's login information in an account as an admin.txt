@@ -1,0 +1,24 @@
+How do I manage a user's login information in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open People
+In Account Navigation, click the People link.
+Find User
+Use the filter and search options to find the user in the account.
+Open User Profile
+In the search results, click the user's name.
+Add Login
+To add a new login, click the Add Login link.
+In the Login field, create a login for the user. The login can be a username or email and contain letters, numbers, or the following symbol characters: - _ = +.
+In the SIS ID field, you can add an SIS ID.
+In the Integration ID field, you can add an integration ID (secondary SIS ID).
+In the Password field, create a password for the user. Then confirm the password. 
+Click the Add Login button.
+Edit Login
+To edit an existing login, click the Edit icon.
+Update Login
+Update any login details as necessary.
+When you are done, click the Update Login button.
+Note: If you cannot view the password fields, you do not have permission to manage existing user passwords. The user must reset their password through the institution's password management system.
+Delete Login
+To delete a login, click the Delete icon.

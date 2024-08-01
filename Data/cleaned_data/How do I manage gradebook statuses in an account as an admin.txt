@@ -1,0 +1,22 @@
+How do I manage gradebook statuses in an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Grading
+In Account Navigation, click the Grading link.
+Open Grading Statuses
+Click the Statuses tab.
+Modify Standard Grading Statuses
+To change the standard status colors, click the Edit icon. 
+Select the new color for the status. The check mark indicates the selected color, and the hex color code displays in the text field.
+If you want to use a color not shown in the window, you can enter the color's hex code directly in in the text field. The hex field will display a warning icon if the hex code is not valid.
+Click the Save button.
+Note: The Extended status is not a default standard status and must be enabled by your Customer Support Manager.
+Create Custom Status
+To create a custom status, click the Add Status link. 
+In the Custom Status Name field, enter a name for the status. 
+Select the new color for the status. The check mark indicates the selected color, and the hex color code displays in the text field.
+If you want to use a color not shown in the window, you can enter the color's hex code directly in in the text field. The hex field will display a warning icon if the hex code is not valid.
+Click the Save button.
+Note: Once a custom status is created, it is automatically added to the Gradebook.
+Modify Custom Status
+To edit the custom status, click the Edit icon. To remove the custom status, click the Delete icon.

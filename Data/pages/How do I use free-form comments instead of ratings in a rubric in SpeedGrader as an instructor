@@ -1,0 +1,144 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7FF14D90-22E2-0135-8D22-22000BC102FE" class="text-block-content">
+    <p>When modifying a rubric, you can choose to enable free-form comments instead of using a ratings scale for each criterion. This allows you to write and leave comments related to the specific criterion. Please note that this option hides all ratings for each criterion, even for ratings within outcomes. </p>
+<p>To use free-form comments, make sure you have selected the free-form comments checkbox when <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058" target="_blank">adding a rubric to an assignment</a>. <em>Make sure this checkbox is selected before you begin grading submissions</em>. This option is only available for rubric criteria that use individual point values; range values are not supported in free-form comments.</p>
+<p>You can use free-form comments <em>with</em> the option to use the rubric for grading. If you do not select the rubric specifically for grading, you can still use the rubric to evaluate an assignment but the score will not update automatically.</p>
+<p> </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speedgrader" data-step-uuid="9f478043-a581-4c36-8df7-3dcca51dc5d2">
+    <h2 id="open_speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/334/original/66b67889-6304-4058-8139-0179b66bc3f5.png" srcset="" alt="Open SpeedGrader" height="54" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7FF17E50-22E2-0135-8D24-22000BC102FE" class="text-block-content">
+    <p>Open SpeedGrader from any assignment, graded discussion, or quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_student_submission" data-step-uuid="cdf9ddf7-3cd7-4851-b75e-7518188eebb1">
+    <h2 id="open_student_submission" class="step-title screensteps-heading">Open Student Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/332/original/5d052f95-d20c-4c0b-9880-5a0dd5cdffb6.png" srcset="" alt="Open Student Submission" height="387" width="357">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7FF1ADC0-22E2-0135-8D26-22000BC102FE" class="text-block-content">
+    <p>Use the <a href="/t5/Instructor-Guide/How-do-I-use-the-student-list-to-view-student-submissions-in/ta-p/770" target="_blank">student list</a> to locate a student submission.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_rubric" data-step-uuid="D56F0DE3-676A-4481-990D-C3D18D3C4B32">
+    <h2 id="view_rubric" class="step-title screensteps-heading">View Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/330/original/eac7774a-96c6-424d-ac58-d6df6fb28855.png" srcset="" alt="View Rubric" height="147" width="179">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7FF1D9F0-22E2-0135-8D28-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>View Rubric</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="resize_rubric" data-step-uuid="02e3a680-ca69-4239-930f-6e8cbcb3b2ab">
+    <h3 id="resize_rubric" class="step-title screensteps-heading">Resize Rubric</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/098/670/original/894608c1-fa95-42a4-a33c-052ebc72e775.png" srcset="" alt="Resize Rubric" height="646" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7FF207D0-22E2-0135-8D2A-22000BC102FE" class="text-block-content">
+    <p>To view the entire rubric window, you may need to scroll both vertically and horizontally. To resize the rubric window, click and drag the sizing column horizontally.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="complete_rubric" data-step-uuid="040C109B-4E6B-4357-B487-8B836AFE890D">
+    <h2 id="complete_rubric" class="step-title screensteps-heading">Complete Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/098/672/original/97d453c1-24e8-418c-b6ca-7c2acfb7b37c.png" srcset="" alt="Complete Rubric" height="646" width="706">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7FF23300-22E2-0135-8D2C-22000BC102FE" class="text-block-content">
+    <p>In the Ratings column, enter a comment for the criterion [1]. If you want to save the comment to use again for other students, select the <strong>Save this comment for reuse</strong> checkbox [2]. </p>
+<p>In the points column, enter a score for the criterion [3]. Each score will create the total points for the assignment [4]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="reuse_comments" data-step-uuid="b3538a93-2c9a-41e5-9a42-0e8c128a25c8">
+    <h3 id="reuse_comments" class="step-title screensteps-heading">Reuse Comments</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/098/665/original/158c0d1c-8a9f-40b3-b761-905ef1ef5ef7.png" srcset="" alt="Reuse Comments" height="692" width="707">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7FF26070-22E2-0135-8D2E-22000BC102FE" class="text-block-content">
+    <p>If you select your comment for reuse, in your next student assessment, the comment displays as an option in a comments drop-down menu. </p>
+<p><strong>Note: </strong>Comments saved for reuse cannot be edited or deleted.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_rubric" data-step-uuid="ad6c9ca5-176d-4214-8f14-a03d3e4a1880">
+    <h2 id="save_rubric" class="step-title screensteps-heading">Save Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/098/667/original/2b704228-fe5b-4c5e-b774-308bafdb3175.png" srcset="" alt="Save Rubric" height="755" width="708">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7FF28C50-22E2-0135-8D30-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_rubric_1" data-step-uuid="dbb19520-7549-4550-86df-2d3017a5e161">
+    <h2 id="view_rubric_1" class="step-title screensteps-heading">View Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/336/original/baaeaa62-3503-4bfa-b85f-8bd708e998c9.png" srcset="" alt="View Rubric" height="92" width="200">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7FF2BAF0-22E2-0135-8D32-22000BC102FE" class="text-block-content">
+    <p>If you set your rubric for grading, the rubric points will be automatically populated in the grade field. Otherwise, you can enter the grade from the rubric manually.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

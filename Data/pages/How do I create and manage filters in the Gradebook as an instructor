@@ -1,0 +1,316 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_a8541f52-0d6b-40c6-a14b-2efa3e77e08b" class="text-block-content">
+    <p>You can create and apply specific gradebook filters that may be used once or saved for future use. </p>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="700px" height="400px" src="https://embed.app.guidde.com/playbooks/86kqbHGQH3AXhUactiXXTH" title="How do I create and manage filters in the Gradebook?" frameborder="0" referrerpolicy="unsafe-url" allowfullscreen="true" allow="clipboard-write" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-forms allow-same-origin allow-presentation"></iframe>
+<p style="display: none">
+00:00:How do i create and manage filters in the Gradebook?
+00:04:In Course Navigation, click the Grades link.
+00:08:To view or manage gradebook filters, click the Apply Filters button.
+00:13:Click the Create &amp; Manager Filter Presets link.
+00:17:To create a new filter, click the Create Filter Preset expand arrow icon.
+00:23:Depending on how your course is setup, you can filter gradebook content by assignment groups, grading periods, modules, sections, student groups, submissions, start dates, and end dates.
+00:38:To save the filter for future use, enter a filter name in the Filter preset name field.
+00:44:To add a filter type, click a filter type drop-down menu
+00:49:You can select a specific filter type in which to filter gradebook content. The filter type field format and listed options vary depending on the selected filter type. If you selected the Sections filter type, course sections display in the Sections drop-down menu. To view content for a specific section, click the section name.
+01:10:If you selected the Assignment Group filter type, course assignment groups display in the Assignment Groups drop-down menu. To view content for a specific assignment group, click the assignment group name.
+01:23:If you selected the Module filter type, course modules display in the Modules drop-down menu. To view content for a specific module, click the module name.
+01:34:If you selected the Student Group filter type, course student groups display in the Student Groups drop-down menu. To view content for a specific student group, click the student group name.
+01:46:If you selected the Grading Periods filter type, you can view all grading periods or a specific grading period.
+01:53:If you selected the Submissions filter type, you can select a specific submission type.
+01:59:If you selected the Start Date or End Date filter type, you can view assignments with a start date or end date on or after a specific date. To view assignments with a start or end date on or after a specific date, add the date in the Date field.
+02:15:To save the filter preset, click the Save Filter Preset button. To clear the filter presets, click the Clear button.
+02:24:In the Apply Filters menu, view the saved filter preset.
+02:29:In the Saved Filters Preset sidebar, existing filters display. To rename a filter, enter a new name in the Filter preset name field. To manage a filter preset's filter type, click a Filter Type drop-down menu.
+02:45:To delete the filter, click the Delete Preset button.
+02:49:To create a new filter, click the Create Filter Preset expand arrow icon.
+02:55:View the filtered gradebook content. Applied filter names display in the Applied Filters section.
+03:02:To remove a filter, click the filter option drop-down menu and click the Remove Filter option.
+03:09:To remove all filters, click the Clear All Filters link
+03:13:To view gradebook settings, click the Settings icon.
+03:17:This guide covered how to create and manage filters in the Gradebook.
+</p>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-gradebook" data-step-uuid="20636ee0-032a-4fee-bdb5-6acefa8a27b1">
+    <h2 id="open-gradebook" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/915/original/667445c9-5c8e-4dc6-b321-f1c25b292ace.png" srcset="" alt="Open Grades" height="265" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2fcad123-3439-481a-aaad-efe22aa9064b" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-filters" data-step-uuid="80aa3c78-d93f-46d6-92f1-e43b03b41d3d">
+    <h3 id="open-filters" class="step-title screensteps-heading">Open Filters</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/917/original/5813e9e9-ed83-49ea-ac0c-388a8bdbc3c5.png" srcset="" alt="Open Filters" height="68" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_71bc03ce-9396-4e6d-8066-03f07276bfbb" class="text-block-content">
+    <p>To view or manage gradebook filters, click the <strong>Apply</strong> <strong>Filters</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-filter-presets" data-step-uuid="8c2e8c0b-2106-437a-b1c1-8912c9b781e5">
+    <h3 id="open-filter-presets" class="step-title screensteps-heading">Open Filter Presets</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/919/original/83fe37fc-5013-43b2-8139-fa8e38f5802a.png" srcset="" alt="Open Filter Presets" height="525" width="285">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c301e38a-aef2-486f-a137-8ffb3f1b0cb8" class="text-block-content">
+    <p>Click the <strong>Create &amp; Manager Filter Presets</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-a-new-filter" data-step-uuid="c0cb526e-97aa-424c-8607-89f4a005ba2d">
+    <h2 id="create-a-new-filter" class="step-title screensteps-heading">Create New Filter</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/921/original/50b78b18-4a41-40e7-8507-63e300a5088b.png" srcset="" alt="Create New Filter" height="339" width="492">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9d91e3a3-b176-4f7b-92fc-bbf8e9ad90c9" class="text-block-content">
+    <p>To create a new filter, click the <strong>Create Filter Preset</strong> expand arrow icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-filter-details" data-step-uuid="02a2119d-ed81-4095-b99e-102fb321fff8">
+    <h2 id="add-filter-details" class="step-title screensteps-heading">Add Filter Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/923/original/2607cf7b-374e-4de7-87f8-bb02ca13d86d.png" srcset="" alt="Add Filter Details" height="528" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7c6fc22f-69bc-435a-b9c5-2a9b07d58dc3" class="text-block-content">
+    <p>To save the filter for future use, enter a filter name in the <strong>Filter preset name</strong> field [1]. </p>
+<p>To add a filter type, click a filter type drop-down menu [2].</p>
+<p>Depending on how your course is setup, you can filter gradebook content by assignment groups, grading periods, modules, sections, student groups, submissions, start dates, and end dates. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-condition" data-step-uuid="6eae9f85-faf6-41c2-8827-d6b340f55c0e">
+    <h2 id="select-condition" class="step-title screensteps-heading">Select Filter Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/925/original/74b98896-1e3e-4aa6-8489-dde69d267d1b.png" srcset="" alt="Select Filter Type " height="529" width="463">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f7ab7367-c673-40f9-8c9d-aa3565a18451" class="text-block-content">
+    <p>You can select a specific filter type in which to filter gradebook content. The filter type field format and listed options vary depending on the selected filter type. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-sections-filter" data-step-uuid="aad88147-0ea9-4296-9965-de25ba8977d7">
+    <h3 id="view-sections-filter" class="step-title screensteps-heading">View Sections Filter</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/927/original/f8f0189c-1791-443c-af98-1be4ed0b95eb.png" srcset="" alt="View Sections Filter" height="533" width="491">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1b235836-1407-489a-b73a-1d5fcac2c378" class="text-block-content">
+    <p>If you selected the <strong>Sections</strong> filter type [1], course sections display in the <strong>Sections</strong> drop-down menu [2]. </p>
+<p>To view content for a specific section, click the section name [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-assignment-group-condition" data-step-uuid="2467938c-6e42-4a6f-bfa9-848e614c0d1e">
+    <h3 id="select-assignment-group-condition" class="step-title screensteps-heading">View Assignment Group Filter</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/929/original/5030577d-81e5-4594-a4d2-01124ec6b000.png" srcset="" alt="View Assignment Group Filter " height="529" width="491">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8710cd9d-4153-4da9-9912-bbf85a06205f" class="text-block-content">
+    <p>If you selected the <strong>Assignment Group</strong> filter type [1], course assignment groups display in the<strong> Assignment Groups</strong> drop-down menu [2]. </p>
+<p>To view content for a specific assignment group, click the assignment group name [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-module-condition" data-step-uuid="c088e7d4-96d8-426a-a36e-8dbac74ce4d3">
+    <h3 id="select-module-condition" class="step-title screensteps-heading">View Module Filter</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/184/323/original/65d1550d-c08d-4301-9514-2ed5b47dbb03.png" srcset="" alt="View Module Filter" height="522" width="467">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_de061068-1bb1-4728-840c-ada946c7ad33" class="text-block-content">
+    <p>If you selected the <strong>Module</strong> filter type [1], course modules display in the <strong>Modules</strong> drop-down menu[2]. </p>
+<p>To view content for a specific module, click the module name [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-student-group-condition" data-step-uuid="a99d9a47-bf12-4907-908e-5c4fe960902f">
+    <h3 id="select-student-group-condition" class="step-title screensteps-heading">View Student Groups Filter</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/933/original/20fcb4f6-72d9-49d2-839c-041f5f9bb994.png" srcset="" alt="View Student Groups Filter" height="589" width="470">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9e31b844-4b8b-484f-a591-4999bacd0af2" class="text-block-content">
+    <p>If you selected the <strong>Student Group</strong> filter type [1], course student groups display in the <strong>Student Groups</strong> drop-down menu [2]. </p>
+<p>To view content for a specific student group, click the student group name [3]. </p>
+<p><strong>Note:</strong> If your course does not include student groups, the Student Groups option is not displayed.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-grading-periods" data-step-uuid="3b370a93-1ca6-4cbb-b161-1ac71b622b6b">
+    <h3 id="view-grading-periods" class="step-title screensteps-heading">View Grading Periods</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/935/original/679e076f-2d9d-4141-b229-35d351206970.png" srcset="" alt="View Grading Periods" height="534" width="476">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3c593854-0ac7-448f-bfe7-039ced2be43f" class="text-block-content">
+    <p>If you selected the <strong>Grading Periods</strong> filter type [1], you can view all grading periods [2] or a specific grading period [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-submissions-condition" data-step-uuid="6b5d2c17-8d92-4267-b235-a3207bcc2108">
+    <h3 id="select-submissions-condition" class="step-title screensteps-heading">View Submissions Filter</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/937/original/f8591302-609c-471c-8fad-6272b9243943.png" srcset="" alt="View Submissions Filter" height="665" width="446">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_429654fe-61ee-4f74-acfe-8418cff69418" class="text-block-content">
+    <p>If you selected the <strong>Submissions </strong>filter type [1], you can select a specific submission type [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-start-date-condition" data-step-uuid="d297ae49-ea88-4c37-b880-b5da6bdfc4e2">
+    <h3 id="select-start-date-condition" class="step-title screensteps-heading">View Start and End Date Filter</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/744/097/original/a0e9aa36-5af2-4ec6-adad-90efe6b3c9a5.png" srcset="" alt="Select Start Date Condition" height="595" width="463">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e315f237-8dd8-41e4-8427-d33f63e8bd11" class="text-block-content">
+    <p>If you selected the <strong>Start Date</strong> or <strong>End Date</strong> filter type [1], you can view assignments with a start date or end date on or after a specific date. </p>
+<p>To view assignments with a start or end date on or after a specific date, add the date in the <strong>Date</strong> field [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="apply-filter-and-save" data-step-uuid="5e8c21cf-204e-4320-852a-f168dedee89d">
+    <h2 id="apply-filter-and-save" class="step-title screensteps-heading">Save Filter Preset</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/941/original/3adf8ed4-1509-4e2b-828b-3d29b482ad55.png" srcset="" alt="Save Filter Preset" height="112" width="265">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2b568420-d4bf-44e7-ad36-243893538004" class="text-block-content">
+    <p>To save the filter preset, click the <strong>Save Filter Preset </strong>button [1].</p>
+<p>To clear the filter presets, click the <strong>Clear</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-filter-preset" data-step-uuid="8fbff9e0-bc12-490c-b9b3-3ab40210bd90">
+    <h2 id="view-filter-preset" class="step-title screensteps-heading">View Filter Preset</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/943/original/99de39e8-87bf-43c1-8810-bc8e73b56885.png" srcset="" alt="View Filter Preset" height="150" width="277">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5f915b7d-b1a8-41a1-acbd-06e7bf66ac46" class="text-block-content">
+    <p>In the Apply Filters menu, view the saved filter preset.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-and-create-new-filters" data-step-uuid="21b5a61b-0cf1-414e-8e43-499536bf6a0d">
+    <h2 id="view-and-create-new-filters" class="step-title screensteps-heading">Manage Gradebook Filters</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/722/945/original/ec2ed3ff-165c-47f0-9af5-b2dae0c200dc.png" srcset="" alt="Manage Gradebook Filters" height="715" width="484">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_50af2705-057f-4ce8-a37b-4eb2b3b9b2ed" class="text-block-content">
+    <p>In the Saved Filters Preset sidebar, existing filters display. </p>
+<p>To rename a filter, enter a new name in the <strong>Filter preset name</strong> field [1]. </p>
+<p>To manage a filter preset's filter type, click a <strong>Filter Type</strong> drop-down menu [2].</p>
+<p>To delete the filter, click the <strong>Delete</strong> <strong>Preset</strong> button [3]. </p>
+<p>To create a new filter, click the <strong>Create Filter Preset </strong>expand arrow icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-applied-filters" data-step-uuid="eacbf019-8525-4326-857b-258d63e0c274">
+    <h2 id="view-applied-filters" class="step-title screensteps-heading">View Applied Filters</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/184/325/original/a4e4fd6b-cf9d-4d07-9d99-12c1111c0a1e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/184/325/medium/a4e4fd6b-cf9d-4d07-9d99-12c1111c0a1e.png" srcset="" alt="VIew Applied Filters" height="307" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6fd19caf-4e64-4a4e-9ce7-9592c9a675d9" class="text-block-content">
+    <p>View the filtered gradebook content [1].</p>
+<p>Applied filter names display in the <strong>Applied Filters</strong> section [2].</p>
+<p>To remove a filter, click the<strong> filter option</strong> drop-down menu [3] and click the <strong>Remove Filter</strong> option [4].</p>
+<p>To remove all filters, click the <strong>Clear All Filters </strong>link [5].</p>
+<p>To view gradebook settings, click the <strong>Settings</strong> icon [6].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

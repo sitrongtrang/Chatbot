@@ -1,0 +1,18 @@
+How do I set a default grade for an assignment in the Gradebook as an instructor
+Open Grades
+In Course Navigation, click the Grades link.
+Open Assignment Menu
+Hover over the assignment column header and click the Options icon.
+Set Default Grade
+Click the Set Default Grade link.
+Create Default Grades
+Type the default grade value in the Grade Value field. If you would like to overwrite existing grades for the assignment, select the Overwrite already-entered grades checkbox.
+Click the Set Default Grade button. 
+Notes: 
+If the Grade Value field is left empty and the Overwrite already-entered grades checkbox is checked, all assignment grades will be removed.
+A default grade will be assigned to students regardless of submission status.
+To have all assignments default grade set as missing type mi into the grade value field.
+Verify Default Grades
+Click the OK button.
+View New Grades
+Default grades are automatically entered for all students who do not have a grade. Grades can be changed by clicking the default grade and typing in an updated score.

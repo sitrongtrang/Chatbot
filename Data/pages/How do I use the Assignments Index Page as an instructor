@@ -1,0 +1,262 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BDD6CAB0-099C-0135-FF0D-22000B5A851D" class="text-block-content">
+    <p>You can view all your course assignments on the Assignments Index page. As an instructor, you can also add assignment groups, create an assignment, and modify assignment settings. You can also reorder assignments and assignment groups.</p>
+<p><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Assignments/ta-p/9" target="_blank">Learn more about Assignments</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="33178013-919C-4284-AD4E-901BAADC41A2">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/740/766/original/ecf070d0-339e-4754-abb2-17bf12ba6005.png" srcset="" alt="Open Assignments" height="285" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD770E0-099C-0135-FF0F-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignments_index_page" data-step-uuid="B4F25076-9D84-4421-825A-79CE40C2156D">
+    <h2 id="view_assignments_index_page" class="step-title screensteps-heading">View Assignments Index Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/898/original/cc924718-8ada-4596-8136-2b8adce1f4b6.png" srcset="" alt="View Assignments Index Page" height="487" width="809">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD7A7B0-099C-0135-FF11-22000B5A851D" class="text-block-content">
+    <p>The Assignments Index page is designed with global settings at the top of the page [1], followed by the Assignment groups [2]. Individual assignments are nested within each Assignment group [3].</p>
+<p><strong>Note: </strong>The Assignments Index page supports keyboard shortcuts. To view a window with a list of keyboard navigation shortcuts, press the Shift+Question Mark keys simultaneously on your keyboard.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_global_settings" data-step-uuid="9d2fea8c-417f-4e14-b33b-d771f7f2227a">
+    <h2 id="view_assignment_global_settings" class="step-title screensteps-heading">View Assignment Global Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/251/446/original/9af07b5f-0dcf-4da1-99a9-5f9c0b3a10bf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/251/446/medium/9af07b5f-0dcf-4da1-99a9-5f9c0b3a10bf.png" srcset="" alt="View Assignment Global Settings" height="86" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD7DE30-099C-0135-FF13-22000B5A851D" class="text-block-content">
+    <p>Global settings include searching for assignments [1], adding a new assignment group [2], and adding a new assignment [3]. To <a href="/t5/Instructor-Guide/How-do-I-weight-the-final-course-grade-based-on-assignment/ta-p/746" target="_blank">weight the final grade with assignment groups</a> or <a href="/t5/Instructor-Guide/How-do-I-bulk-update-due-dates-and-availability-dates-as-an/ta-p/1195" target="_blank">bulk update due dates and availability dates</a>, click the <strong>Options</strong> icon [4]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_by_grading_periods" data-step-uuid="3f32a3cf-77d8-413d-98d2-455cede4dd69">
+    <h3 id="view_by_grading_periods" class="step-title screensteps-heading">View by Grading Periods</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/251/464/original/8598705d-6730-40bc-b66e-c1d26ded1597.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/251/464/medium/8598705d-6730-40bc-b66e-c1d26ded1597.png" srcset="" alt="View by Grading Periods" height="69" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD816E0-099C-0135-FF15-22000B5A851D" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-use-grading-periods-in-a-course/ta-p/1030" target="_blank">multiple grading periods</a> are enabled in a course, you can use the global settings to sort and filter the Assignments page by grading period.</p>
+<p>Assignments and assignment groups are validated against assignments in closed grading periods.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_groups" data-step-uuid="0075a027-3867-42d9-afd4-f93de7754504">
+    <h2 id="view_assignment_groups" class="step-title screensteps-heading">View Assignment Types</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/900/original/57ac0df5-8710-4609-99fa-8773330aafe8.png" srcset="" alt="View Assignment Types" height="422" width="778">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD856D0-099C-0135-FF17-22000B5A851D" class="text-block-content">
+    <p>The Assignments page displays all assignments in the course. Each assignment type displays an icon representing the assignment type: assignment [1], discussion [2], classic quiz [3], or new quiz [4]. </p>
+<p>Discussions and quizzes also display in their respective index pages in Canvas.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-quizzes-next-assessments" data-step-uuid="c3848557-c3e5-4199-87d3-8da6d1f6211b">
+    <h3 id="view-quizzes-next-assessments" class="step-title screensteps-heading">View New Quizzes Assessments</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/902/original/3bc6ab9b-53c3-40d8-b4dc-28050e2407db.png" srcset="" alt="View New Quizzes Assessments" height="422" width="778">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_30378fa3-3288-4511-8520-c618a68e3be1" class="text-block-content">
+    <p>If you are using the New Quizzes LTI in your course, New Quizzes are indicated by the <strong>New Quizzes</strong> icon [1]. Quizzes created with the classic Canvas quiz tool are indicated by the <strong>Classic Quiz</strong><em> </em>icon [2]. Both quiz types can be used in the same course.</p>
+<p>For help with New Quizzes functionality, please see the <a href="https://community.canvaslms.com/docs/DOC-10460-canvas-instructor-guide-table-of-contents#jive_content_id_NewQuizzes" target="">New Quizzes chapter</a> in the Instructor Guide.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_individual_assignment" data-step-uuid="55EC9A3D-84E1-474C-96E9-EF5ED1B14A4C">
+    <h2 id="view_individual_assignment" class="step-title screensteps-heading">View Individual Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/895/original/d5757f0d-e8c5-4bcc-a12d-ab0c169eef5d.png" srcset="" alt="View Individual Assignment" height="351" width="761">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD8EF80-099C-0135-FF1D-22000B5A851D" class="text-block-content">
+    <p>Each assignment displays the assignment name [1], due date (if any) [2], the number of points the assignment is worth [3], and <a href="/t5/Instructor-Guide/How-do-I-publish-or-unpublish-an-assignment-as-an-instructor/ta-p/585" target="_blank">assignment draft state status</a> (published or unpublished) [4]. </p>
+<p>You can also set <a href="/t5/Instructor-Guide/How-do-I-view-differentiated-assignments-with-different-due/ta-p/715" target="_blank">varied due dates</a> for an assignment and create due dates according to course section. Varied due dates appear as <em>multiple dates</em>.</p>
+<p>If an assignment is associated with a module, the module name will appear on the individual line item of the assignment [5]. </p>
+<p><strong>Note:</strong> Due dates are not required for an assignment. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_availability_dates" data-step-uuid="18a4aa10-504e-4f8e-af4e-942a05873243">
+    <h3 id="view_availability_dates" class="step-title screensteps-heading">View Availability Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/904/original/a47385c7-e1cf-4fab-89f7-068b76a5fa8e.png" srcset="" alt="View Availability Dates" height="345" width="760">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD92450-099C-0135-FF1F-22000B5A851D" class="text-block-content">
+    <p>Assignments can also include <a href="/t5/Instructor-Guide/What-is-the-difference-between-assignment-due-dates-and/ta-p/897" target="_blank">availability dates</a>. Availability dates can make an assignment available for only a specific period of time. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage_individual_assignment" data-step-uuid="20249427-62cd-49d9-867e-848f7921b1ee">
+    <h3 id="manage_individual_assignment" class="step-title screensteps-heading">Manage Individual Assignment</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/141/858/original/61ce2cbf-4815-4efc-835e-baad39400354.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/141/858/medium/61ce2cbf-4815-4efc-835e-baad39400354.png" srcset="" alt="Manage Individual Assignment" height="365" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD95750-099C-0135-FF21-22000B5A851D" class="text-block-content">
+    <p>To view an assignment, click the assignment name [1].</p>
+<p>You can also use the options drop-down menu to <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">edit the assignment</a> [2], <a href="/t5/Instructor-Guide/How-do-I-use-SpeedGrader/ta-p/757" target="_blank">open SpeedGrader</a> [3], <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-assignment/ta-p/636" target="_blank">duplicate the assignment</a> [4], <a href="/t5/Instructor-Guide/How-do-I-move-or-reorder-an-assignment/ta-p/1289" target="_blank">move the assignment</a> [5], <a href="/t5/Instructor-Guide/How-do-I-use-Mastery-Paths-in-course-modules/ta-p/906" target="_blank">add an assignment to a MasteryPath</a> [6], <a href="/t5/Instructor-Guide/How-do-I-delete-an-assignment/ta-p/635" target="_blank">delete the assignment</a> [7], <a href="/t5/Instructor-Guide/How-do-I-send-an-assignment-to-another-instructor/ta-p/1118" target="_blank">send the assignment to another instructor</a> [8], or <a href="/t5/Instructor-Guide/How-do-I-copy-an-assignment-to-another-course/ta-p/1116" target="_blank">copy the assignment to another course </a>[9].</p>
+<p><strong>Note: </strong>The Mastery Paths setting can be managed in your course if the setting has been enabled by your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manually_reorder_assignment" data-step-uuid="4f4bad39-b5be-4de3-86bb-31ba95869f16">
+    <h3 id="manually_reorder_assignment" class="step-title screensteps-heading">Manually Reorder Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/906/original/9048a3dc-b725-4651-ab93-ea40bf3ff033.png" srcset="" alt="Manually Reorder Assignment" height="320" width="763">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD98930-099C-0135-FF23-22000B5A851D" class="text-block-content">
+    <p>You can also manually reorder an assignment by hovering over the drag handle next to the assignment and dragging the assignment to the desired location. </p>
+<p><strong>Note: </strong>If you are using Multiple Grading Periods, you cannot move assignments and quizzes that are part of a closed grading period to another assignment group. However, you can move open assignments and quizzes to another assignment group.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sis_assignments" data-step-uuid="9458cb6c-9e38-4f6e-a3f6-43d8e12c5f51">
+    <h2 id="view_sis_assignments" class="step-title screensteps-heading">View SIS Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/887/original/0a4a1dfd-ce10-4003-923b-5c775b63bdb4.png" srcset="" alt="View SIS Assignments" height="278" width="798">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD9BAD0-099C-0135-FF25-22000B5A851D" class="text-block-content">
+    <p>If your institution has enabled a student information system (SIS) integration, you can tell if an assignment is set up to be sent to your institution's SIS. Graded assignments can be enabled directly by clicking the sync icon next to an assignment.</p>
+<p>Some SIS integrations such as PowerSchool allow you to import assignment groups. Imported groups include an import icon to identify them from manually created assignment groups in Canvas.</p>
+<p><strong>Note:</strong> Some institutions may limit assignment names and/or require assignment due dates. If you try to enable an assignment and you receive an error message, the error will show which requirement needs to be resolved before the assignment can be enabled to be synced to your SIS.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="disable_sync" data-step-uuid="13b50aa7-481b-4c62-a49f-8a70f0879750">
+    <h3 id="disable_sync" class="step-title screensteps-heading">Disable Sync</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/889/original/ad343e6b-609e-4958-bd36-1fed1f5cb4f0.png" srcset="" alt="Disable Sync to SIS" height="355" width="827">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_654cde28-a0ad-4f64-aca9-cd20f3cd603e" class="text-block-content">
+    <p>If you need to disable sync for all assignments in the course without managing them individually, you can disable sync for all assignments at one time. Click the Options menu [1] then select the <strong>Disable Sync to SIS</strong> link [2]. All assignments will be updated and disabled from the SIS sync.</p>
+<p><strong>Note:</strong> Disable Sync to SIS is not available in the Options menu unless at least one assignment is already enabled to be synced to the SIS.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_masterypaths" data-step-uuid="98eee243-8ccb-4313-b5eb-dec707d302cb">
+    <h2 id="view_masterypaths" class="step-title screensteps-heading">View Mastery Paths</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/891/original/04b3119c-4bd6-4dbd-a467-4bc00ae39e3c.png" srcset="" alt="View Mastery Paths" height="346" width="800">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BDD9EE00-099C-0135-FF27-22000B5A851D" class="text-block-content">
+    <p>If you use <a href="/t5/Instructor-Guide/How-do-I-use-Mastery-Paths-in-course-modules/ta-p/906" target="_blank">Mastery Paths</a> in your course, you can tell which items are set up in Modules as Mastery Paths or conditional content items.</p>
+<p><strong>Note: </strong>The Mastery Paths setting can be managed in your course if the setting has been enabled by your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_blueprint_course" data-step-uuid="c314840c-b2f2-4296-96c1-fce20c19a921">
+    <h2 id="view_blueprint_course" class="step-title screensteps-heading">View Blueprint Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/170/893/original/6299257e-6b6a-44a5-9f6d-123af0621c0d.png" srcset="" alt="View Blueprint Course" height="278" width="783">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b9a68e0c-8326-4ad2-8744-1f0242ff21ca" class="text-block-content">
+    <p>If your course includes Blueprint icons, your course is associated with a blueprint course. Blueprint Courses are courses managed as a template and may contain locked objects managed by a Canvas admin, course designer, or other instructor. </p>
+<p>The Course Details tab in Course Settings will tell you if your course is a blueprint course. Most commonly, your course will not be a blueprint course and you can only <a href="/t5/Instructor-Guide/How-do-I-manage-content-for-a-course-associated-with-a-blueprint/ta-p/1282" target="_blank">manage unlocked content in your course</a>. If your course is a blueprint course, you can <a href="/t5/Instructor-Guide/How-do-I-lock-course-objects-in-a-blueprint-course-as-an/ta-p/1278" target="_blank">lock and sync course content</a> to associated courses. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-student-view" data-step-uuid="1a4344fe-a19c-406b-b1e2-4e6acb2da0c9">
+    <h2 id="view-student-view" class="step-title screensteps-heading">View Student View</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/413/022/original/675bed67-2ea5-41d1-9765-627a4e7d47e0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/413/022/medium/675bed67-2ea5-41d1-9765-627a4e7d47e0.png" srcset="" alt="View Student View" height="51" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_12716a6f-8046-45f6-9f2d-23c8ff8e8463" class="text-block-content">
+    <p>To view the assignments index page as a student, click the <strong>View as Student</strong> button.</p>
+<p><strong>Note:</strong> If the course navigation link for the page is disabled and hidden from students, the View as Student button does not display.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

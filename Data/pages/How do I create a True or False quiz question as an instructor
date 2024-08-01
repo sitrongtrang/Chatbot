@@ -1,0 +1,154 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_EF9694D0-222A-0135-76D9-22000BC102FE" class="text-block-content">
+    <p>You can create a question for students that is a true or false answer.</p>
+<p>If you need to edit a True/False question after publishing the quiz, you can use <a href="/t5/Instructor-Guide/What-options-can-I-use-to-regrade-a-quiz-in-a-course/ta-p/1093" target="_blank">quiz regrade</a> to edit quiz questions and tell Canvas to update grades for students who have already taken the quiz.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="71B419BA-CAC9-410B-8B8A-40D5F27D6AB8">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/636/original/025a2eac-ffc2-4837-b3e9-aa80d5273425.png" srcset="" alt="Add Question" height="255" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF971A70-222A-0135-76DB-22000BC102FE" class="text-block-content">
+    <p>With the <strong>Questions</strong> tab [1] selected inside a new quiz, click the <strong>New Question </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_name_type_and_points" data-step-uuid="F3A799E0-4816-41CD-B9D2-5FCDF9F2AAD0">
+    <h2 id="set_name_type_and_points" class="step-title screensteps-heading">Set Name, Type, and Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/642/original/05fd4a7c-691f-4108-965b-339a5c92050d.png" srcset="" alt="Set Name, Type, and Points" height="70" width="635">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF974C10-222A-0135-76DD-22000BC102FE" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field [1]. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+<p>Click the drop-down menu and select the True/False question type [2].</p>
+<p>Enter number of points the question is worth (quiz totals are calculated based on combined total of questions) [3].</p>
+<p><strong>Note:</strong> Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_true_false_question_details" data-step-uuid="BB0561FF-6248-45C6-A67C-7F5FC2FEE5EE">
+    <h2 id="edit_true_false_question_details" class="step-title screensteps-heading">Edit True/False Question Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/172/original/34876d7c-f65f-4b04-869e-f41e32651194.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/172/medium/34876d7c-f65f-4b04-869e-f41e32651194.png" srcset="" alt="Edit True/False Question Details" height="674" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF977C40-222A-0135-76DF-22000BC102FE" class="text-block-content">
+    <p>To build a True/False question, you will need to enter the following details:</p>
+<ol>
+<li>The question text (use the Rich Content Editor to include video, images, math equations, or flash activities)</li>
+<li>Text for the answer comments at the end of the question</li>
+</ol>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_correct_answer" data-step-uuid="CCFD9A3C-0347-4DB9-9720-963951FED9BA">
+    <h2 id="select_correct_answer" class="step-title screensteps-heading">Select Correct Answer</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/638/original/6af191c2-baf7-46e3-9fd1-bd161548aa26.png" srcset="" alt="Select Correct Answer" height="244" width="308">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF97ADE0-222A-0135-76E1-22000BC102FE" class="text-block-content">
+    <p>Hover your cursor to the left of the correct answer to reveal a green "ghost" arrow. Click the green arrow to the left of the correct answer. You will know which answer is the correct answer because both the arrow and the answer comment field around that answer will turn green. In this example, the "true" answer is the correct answer.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="complete_true_false_question_details" data-step-uuid="405279A3-1527-48F4-A9F6-19B8B41C00A5">
+    <h2 id="complete_true_false_question_details" class="step-title screensteps-heading">Complete True/False Question Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/175/original/d05f873b-5d32-4821-9dff-88b7689d6cc6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/175/medium/d05f873b-5d32-4821-9dff-88b7689d6cc6.png" srcset="" alt="Complete True/False Question Details" height="617" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF97DE30-222A-0135-76E3-22000BC102FE" class="text-block-content">
+    <p>Type or paste text in the answer comments fields. Use the handle at the bottom-right of the text box to expand.</p>
+<p><strong>Note:</strong> Any answer comments are visible as soon as a quiz is submitted and cannot be hidden from students. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="F2BC3D34-5884-43D7-8579-2AD7CCFE6136">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/632/original/ba16288d-3fe3-4c2a-8e1a-fc893b1b8a33.png" srcset="" alt="Update Question" height="53" width="216">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF980ED0-222A-0135-76E5-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+<p>Add additional <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">individual questions</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_of_true_false_question" data-step-uuid="1D704718-BBC3-4585-82BD-A954484B6B78">
+    <h2 id="student_view_of_true_false_question" class="step-title screensteps-heading">Student View of True/False Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/634/original/bd6d979d-2ad3-493d-80dc-3e6787f0796e.png" srcset="" alt="Student View of True/False Question" height="266" width="682">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF983F20-222A-0135-76E7-22000BC102FE" class="text-block-content">
+    <p>This is what a student sees when they encounter a True/False question in a quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_of_true_false_feedback" data-step-uuid="34E94B42-FC36-4CC9-A7BF-65F9616F47E1">
+    <h2 id="student_view_of_true_false_feedback" class="step-title screensteps-heading">Student View of True/False Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/630/original/1b44acf3-132d-461c-9d63-33f66142dd32.png" srcset="" alt="Student View of True/False Feedback" height="373" width="705">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF98B310-222A-0135-76E9-22000BC102FE" class="text-block-content">
+    <p>This is what students see if they are allowed to see correct answers after submitting the quiz.</p>
+<p>They will see if their answer was correct or incorrect. No credit is assigned if the student answers a True/False question incorrectly [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

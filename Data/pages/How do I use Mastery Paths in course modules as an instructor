@@ -1,0 +1,175 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9E0BFEF0-08E2-0135-7FFB-22000B5A851D" class="text-block-content">
+    <p>Mastery Paths allows you to customize learning experiences for students based on performance. You can enable Mastery Paths to automatically assign coursework based on the score achieved for a previous assignment. This provides multiple opportunities to show and achieve mastery in a course.</p>
+<p>Mastery Paths is based on <a href="/t5/Instructor-Guide/How-do-I-view-differentiated-assignments-with-different-due/ta-p/715" target="_blank">differentiated assignments</a>, which allows targeted learning activities to be assigned to different users and sections. With Mastery Paths, assignments are differentiated to individual students automatically and no additional work is required aside from grading student assignments as usual. After the initial assignment has been graded (either manually or automatically), the student’s score designates which conditional item(s) they are assigned as a learning path. For example, a learning path can assign one set of items to students who score at or above 70% and another set to students who score below 70%. If Student A scores an 70% or higher, they can access Page 1, Page 2, Assignment 1, and Assignment 2. You can require Student A to read both pages and complete at least one assignment. If Student B scores less than 70%, they can access Page 1, Page 3, Page 4, and Assignment 1. You can require Student B to read all three pages and complete the assignment in order to achieve mastery of the subject.</p>
+<p>When creating Mastery Paths, source assignments and all differentiated course items should be created, and differentiated items should be designated as conditional items before publishing the course.</p>
+<p><strong>Weighted Grading</strong></p>
+<p>If you use weighted grading in your course, additional course work may affect student's total grades. However, grade calculations are based on the assignments assigned to and completed by the student; students are not penalized for any assignments that are not assigned to them. If you are concerned about grade variances with point values, you may want to review the conditional assignments assigned to each Mastery Path and try to balance out grading totals in each path. Additionally you could evaluate student progress and add individual students to assignments as necessary that they can complete to improve their grade.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The Mastery Paths setting can be <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">managed in your course</a> if the setting has been <a href="/t5/Admin-Guide/How-do-I-set-details-for-an-account/ta-p/194" target="_blank">enabled by your institution</a>.</li>
+<li>If your institution uses a student information system (SIS) and requires due dates for assignments, any Mastery Paths assignments assigned to one or more students are currently not validated. Please use with caution when syncing to your SIS.</li>
+<li>If your course has a large number of students and/or if a Mastery Path has a large number of associated conditional items, students may experience a delay before they are assigned a path.</li>
+<li>Currently Mastery Paths does not support association with outcomes.</li>
+<li>Files, External URLs, and External Tool module items cannot be used as conditional items in Mastery Paths.</li>
+<li>If you choose to include a page in Mastery Paths, the page will only be accessible from within Mastery Paths and not in the course Pages page.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I use Mastery Paths in course modules?" src="https://community.instructuremedia.com/embed/d0e19a14-5c69-4531-9d83-643f78369797" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="b6b6cc5f-6111-4f59-b7bf-60bb88c05c85">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/180/original/2a376e48-0cdf-42de-a373-95c7de0e82ce.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E0C8FB0-08E2-0135-7FFD-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_course_modules" data-step-uuid="cc421988-62fd-4e70-8448-7e3c9d66633c">
+    <h2 id="add_course_modules" class="step-title screensteps-heading">Add Course Modules</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/151/746/original/4555507b-5c8d-4651-b192-847f3f37b60b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/151/746/medium/4555507b-5c8d-4651-b192-847f3f37b60b.png" srcset="" alt="Add Course Modules" height="300" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E0D1260-08E2-0135-7FFF-22000B5A851D" class="text-block-content">
+    <p>The Mastery Path process currently only originates from the course Modules page. Before you can designate source assignments and conditional items for a Mastery Path, all course assignments and pages should be developed and <a href="/t5/Instructor-Guide/How-do-I-add-course-content-as-module-items/ta-p/1157" target="_blank">added to Modules as module items</a>. Mastery Paths can be created from module structures in existing courses or new course content.</p>
+<p>Indenting module items can be used to help organize the module's structure and visually show which items should be conditional items in a Mastery Path.</p>
+<p>Graded assignments, graded discussions, or graded quizzes may be used as the source content for a Mastery Path. A student's source content score determines which conditional item(s) they are assigned. </p>
+<p>Any course item except for practice quizzes and ungraded surveys may be designated as a conditional item in a Mastery Path.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>In Mastery Paths, module <a href="/t5/Instructor-Guide/How-do-I-add-prerequisites-to-a-module/ta-p/1123" target="_blank">prerequisites</a> and <a href="/t5/Instructor-Guide/How-do-I-add-requirements-to-a-module/ta-p/1131" target="_blank">requirements</a> are not required, but they are encouraged to guide course organization and conditional paths.</li>
+<li>Files, External URLs, and External Tool module items cannot be used as conditional items in Mastery Paths.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="allow_page_content" data-step-uuid="5a351b16-7944-4c0a-a78a-9a2549b2bf18">
+    <h3 id="allow_page_content" class="step-title screensteps-heading">Allow Page Content</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/652/original/6d48f947-209d-40df-bee9-70c969b81fce.png" srcset="" alt="Allow Page Content" height="132" width="345">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E0D9910-08E2-0135-8001-22000B5A851D" class="text-block-content">
+    <p>Because content pages do not require grading, content pages cannot be used as source content and can only be added to a Mastery Path as conditional content. However, a <a href="/t5/Instructor-Guide/How-do-I-allow-a-page-to-be-a-Mastery-Path-module-item/ta-p/858" target="_blank">page must be allowed for </a>Mastery Paths before it can be added as a conditional item.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_conditional_items" data-step-uuid="a056fab2-408b-498c-a934-7bf226419275">
+    <h2 id="add_conditional_items" class="step-title screensteps-heading">Add Conditional Items</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/255/810/original/66fba019-419b-455a-b2c0-01e489de7351.png" srcset="" alt="Add Conditional Items" height="730" width="639">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E0E3CD0-08E2-0135-8003-22000B5A851D" class="text-block-content">
+    <p>A Mastery Path originates from an assignment assigned to everyone, such as a pre-test or an introductory assignment.  </p>
+<p>The Mastery Paths configuration page allows you to <a href="/t5/Instructor-Guide/How-do-I-add-conditional-content-to-a-Mastery-Path-source-item/ta-p/854" target="_blank">add conditional content items</a> to the source content item. Conditional content items are selected from the list of module items you have already added to the module. These items are then assigned to specific students through conditional rules in three scoring ranges. After the source content assignment has been graded (either manually or automatically), the student’s score designates which conditional item(s) they are assigned as a learning path.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_items_to_masterypaths" data-step-uuid="cca9684f-1f03-4d2d-b3c9-9353eeaf1740">
+    <h2 id="assign_items_to_masterypaths" class="step-title screensteps-heading">Assign Items to Mastery Paths</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/654/original/2375ae3c-aa98-464a-8c9d-101782aac7e0.png" srcset="" alt="Assign Items to Mastery Paths" height="334" width="625">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E0EBE90-08E2-0135-8005-22000B5A851D" class="text-block-content">
+    <p>By default, assignments in Canvas are assigned to Everyone, which means all students will be able to view the assignment in their Modules page. Once conditional content items have been added to a Mastery Path, the <a href="/t5/Instructor-Guide/How-do-I-assign-a-conditional-assignment-for-students-to/ta-p/1025" target="_blank">conditional assignments must be assigned to Mastery Paths</a>. The Mastery Paths assignment designates the assignment for conditional release only, and the assignment will only display to students whose source content scores fall in a range that releases the conditional assignment to them.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="release_conditional_items" data-step-uuid="cec0f1c2-4656-4aed-9abf-b137b713cdd9">
+    <h2 id="release_conditional_items" class="step-title screensteps-heading">Release Conditional Items</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/168/040/original/f07cd9e5-2808-4748-9a7b-7975ae4dfff0.png" srcset="" alt="Release Conditional Items" height="337" width="827">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E0F6020-08E2-0135-8007-22000B5A851D" class="text-block-content">
+    <p>When you create Mastery Paths for your course, students see content added to their Modules page as they move through the course. When the course begins, they will only be able to see items that have been published and assigned to <strong>Everyone</strong> or assigned specifically to them. In contrast, courses that do not use Mastery Paths display all content in the Module, even if the content is locked.</p>
+<p>Once a Mastery Path source assignment has been graded (either automatically by Canvas or manually in SpeedGrader), the conditional item(s) will automatically display in the student’s Modules page based on the source item’s scoring range.</p>
+<p>If a Mastery Path source assignment scoring range includes an <strong>Or</strong> option, students must choose which conditional item(s) they wish to complete before proceeding. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If you set a requirement that module items must be completed in order, when a student completes a Mastery Path that requires any manual grading, all subsequent module items will be locked for the student until the Mastery Path is graded.</li>
+<li>If you regrade a source assignment after a student chooses a Mastery Path option, and the regrade puts the student in a different conditional item range, they will have to complete the conditional item(s) in the reassigned Mastery Path before advancing through the module.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_path_assignment" data-step-uuid="5d571451-f7a6-48ba-b2c1-6842596db5a2">
+    <h2 id="view_student_path_assignment" class="step-title screensteps-heading">View Student Path Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/648/original/59628860-e21d-406b-b31a-1fa3a055997a.png" srcset="" alt="View Student Path Assignment" height="157" width="617">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E102ED0-08E2-0135-8009-22000B5A851D" class="text-block-content">
+    <p>When a student is assigned or selects a conditional item, the conditional assignment automatically adds the student’s name to the assignment as being differentiated to that student.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_masterypath_breakdown" data-step-uuid="418ca523-e4f4-4f31-97e4-4d7ab398bfd1">
+    <h2 id="view_masterypath_breakdown" class="step-title screensteps-heading">View Mastery Path Breakdown</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/646/original/9df673c4-72cc-4ab2-b753-d1b95bb0f0cb.png" srcset="" alt="View MasteryPath Breakdown" height="242" width="284">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E10A040-08E2-0135-800B-22000B5A851D" class="text-block-content">
+    <p>Once students complete a source content item for a Mastery Path, you can <a href="/t5/Instructor-Guide/How-do-I-view-the-Mastery-Paths-range-breakdown-results-for-an/ta-p/1065" target="_blank">view the </a>Mastery Paths<a href="/t5/Instructor-Guide/How-do-I-view-the-Mastery-Paths-range-breakdown-results-for-an/ta-p/1065" target="_blank"> breakdown</a>. Each scoring range includes a link that shows the number of students in each range. You can click the name of a student in the range, view the student’s source content submission and score, and send a message to the student.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

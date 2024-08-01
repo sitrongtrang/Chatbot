@@ -1,0 +1,16 @@
+How do I restrict student access to a course before or after the course dates as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Set Restriction Options
+Courses may be assigned to the Default Term or a specific term. By default, students will be able to participate in the course within the term dates. However, your course may allow students to participate within course dates and have set course start and end dates. 
+By default, student access checkboxes are not selected, meaning students can view courses before and after term or set course dates. To retain this default for the course, do not select any checkboxes. 
+To restrict students from viewing a link to the course before the term start date, click the Restrict students from viewing course before term start date checkbox. 
+To restrict students from viewing a link to the course before the set course start date, click the Restrict students from viewing course before course start date checkbox. If the course start date is blank, students can access the course before the term start date.
+To restrict students from accessing the course after the term end date, click the Restrict students from viewing course after term end date checkbox. 
+To restrict students from accessing the course after the set course end date, click the Restrict students from viewing course after course end date checkbox. If the course end date is blank, students can access the course after the term end date.
+Change Student Access
+The default checkbox settings are passed down from the account level. By default, student access checkboxes are not selected, meaning students can view and access courses before and after course participation dates. 
+Depending on your admin, the student access setting may vary in your course. 
+View Locked Setting
+If your admin has locked one or more settings, locked settings are grayed out and cannot be changed. 
+If your admin has not locked one or more settings, you can change the settings for your course as necessary. If any settings are already selected, the selection indicates the default for the entire institution.

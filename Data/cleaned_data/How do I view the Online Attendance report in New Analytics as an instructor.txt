@@ -1,0 +1,36 @@
+How do I view the Online Attendance report in New Analytics as an instructor
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open New Analytics
+To open New Analytics, click the New Analytics link in Course Navigation or click the New Analytics button in the Course Home Page.
+Note: If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.
+Open Attendance
+Click the Online Attendance tab.
+View Online Attendance Report
+By default, the Online Attendance report displays attendance data for the current week.
+The data table displays the name of each student, their section, the number of days they haven't met online attendance criteria, and their attendance status for each day.
+If a student has met online attendance criteria for a given date, the date displays a Checkmark icon. If a student has not met online attendance criteria for a given date, the date displays an X icon.
+Filter Table by Date
+The Online Attendance table can display data for a week or a day. To manage what displays in the table, click the Date drop-down menu and select the Week option or Day option.
+To move to the previous week or date, click the Previous button. To move to the next week or date, click the Next button.
+Filter Table by Section or Student
+You can also filter the Online Attendance table data to display specific students or course sections.
+To search for student or section, enter a name in the Add a Section, Student field or click the drop-down menu.
+Selected students or sections display in the search field. You can select a maximum of three students and/or sections to filter the Online Attendance table data. To remove a student or section filter, click the Remove icon.
+Select Class Days
+To select which days of the week attendance data is recorded for students, click the Class Days drop-down menu.
+To select your class dates, click the Class Meet Days buttons. Then click the Done button.
+View Table
+Any day of the week that is not selected as a class day displays as shaded in the Online Attendance table. The Days Not Met column displays Online Attendance totals for class days..
+The Checkmark and X icons still display in dates that are not designated as class dates to indicate if students met attendance criteria on those dates.
+Filter Table by Criteria Status
+To filter the Online Attendance table by criteria status, click the Filter drop-down menu.
+To show all students, select the Show All option. To show students who have not met criteria for every class day, select the Criteria Not Met option. To show students who have met criteria for every class date, select the Criteria Met option.
+View Criteria Settings
+To view criteria settings managed by your institution, click the Settings button.
+If your institution allows you to set attendance criteria at the course level, you can enable or disable the Online Attendance dashboard in New Analytics for each of your courses.
+You can also select your own criteria. Criterion that count toward online attendance display a checkmark icon. Criterion that do not count toward online attendance display an empty checkbox.
+Click the Save Settings button.
+View Locked Criteria Settings
+To view criteria settings managed by your institution, click the Settings button.
+Online attendance criteria are locked and can only be managed by your institution.

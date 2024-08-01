@@ -1,0 +1,23 @@
+How do Canvas Consortiums use trust accounts
+Canvas Consortium and Trust Accounts
+When a consortium is created, a one-way trust is put in place. The child instances trust the users of the parent instance, so any users in the parent instance are able to be enrolled in courses in the child instances. When configuring a new consortium, two optional settings can be enabled. These are disabled by default:
+Automatically create a web of trust when creating new account
+Automatically have the parent instance trust new child instances 
+Canvas Consortiums Types
+Single Account Consortium: A parent account can view and manage child accounts. Single instance consortium examples:
+A large school district that oversees a group of schools, but does not manage data (separate authentication domains, possible even separate SIS databases).
+A content provider which allows customers to opt-in to use their Canvas account. They provide the learning environment, but each customer is a separate organization.
+Basic Consortium: The child accounts have a default trust relationship with the parent account (one-way trust). The parent does not trust the child accounts. The child accounts can set up trust relationships with one another, but it is not required. This type of consortium is common among statewide or countywide organizations.
+Mixed Consortium: There is a web of trusts between multiple child accounts, the child accounts also trust the parent account. This type of consortium is common among statewide or countywide organizations.
+Auto-Merge Consortium: This could be a basic or mixed consortium with an added setting that will auto-merge similar users. This setting utilizes the integration_id identifier value in Canvas. This type of consortium is more common among institutions that have separate instances because of their size.
+Trust Account Relationships
+A trust account relationship allows one Canvas account to trust another Canvas account and allows users to be enrolled in both places. Instead of creating two separate accounts and merging them together, a trust relationship allows separate Canvas accounts to share user identities, so a user can log in to one account and access courses from both accounts.
+Note: Trust account settings are established during implementation. Trust account relationships can be established between multiple accounts.
+Trust Behaviors 
+Trusts do not show information in the user interface indicating an account is in a trust relationship with another school or that the course a user is enrolled in is at another school.
+Trusts do not provide data on which users are in a trust enrollment at another school.
+The Canvas interface does not show provided trust data. The trust relationship is simply an invisible link that exists between two or more sites.
+User lists from one school cannot be browsed from another school. Admins from both schools need to work out a business process to send enrollments from one school to the other.
+Trust accounts do not provide any automation for trust enrollments. Users are enrolled via CSV uploads or via the API.
+Users enrolled in courses at other schools are only able to see the name of the course they are enrolled in. They cannot view any information in the interface that shows the course is located at another school.
+Trust Account Definitions 

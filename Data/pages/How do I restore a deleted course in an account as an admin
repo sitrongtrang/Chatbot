@@ -1,0 +1,115 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E6365E70-1CA3-0135-6BAE-22000BC102FE" class="text-block-content">
+    <p>An admin can restore courses that have been reset or deleted. You must know the Course ID number to restore the course. If your instructor cannot locate the Course ID number, you can access the instructor’s user details and look for the Course ID under Page Views. The Course ID can be found by viewing the number at the end of the browser URL of a page view in the deleted course (e.g. account.instructure.com/courses/XXXXXX).  </p>
+<p>Restoring a course restores the previous course URL and all content. However, enrollments cannot be restored. </p>
+<p><strong>Note:</strong> Using an SIS ID will not restore a course unless the course was deleted via SIS.  </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="399A884A-D1F9-4639-BA2B-DC5160561656">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E6369040-1CA3-0135-6BB0-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_admin_tools" data-step-uuid="97155A42-5A01-4FC7-B63A-2E941B4EA685">
+    <h2 id="open_admin_tools" class="step-title screensteps-heading">Open Admin Tools</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png" srcset="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png 2.0x, https://media.screensteps.com/image_assets/assets/005/796/780/original_lowres/open-admin-tools.png" alt="Open Admin Tools" height="282" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E636C370-1CA3-0135-6BB2-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Admin Tools</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-course" data-step-uuid="0f6aca4f-3555-4a74-9772-f1e3959735e3">
+    <h2 id="select-course" class="step-title screensteps-heading">Select Restore Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/086/653/original/2dbe6dfd-2892-44eb-924f-a2e84033841b.png" srcset="" alt="Select Restore Type" height="559" width="350">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_929ab69e-3c36-45ec-80a6-13519752f4fe" class="text-block-content">
+    <p>In the Restore Content tab, click the <strong>Select a restore type </strong>drop-down menu [1] and select the <strong>Courses </strong>option<strong> </strong>[2].</p>
+<p>You can also <a href="/t5/Admin-Guide/How-do-I-restore-a-deleted-user-in-an-account/ta-p/596828" target="_blank">restore deleted users </a>[3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_course_id" data-step-uuid="443FD5D9-58C4-4C4D-AD35-5C30242986C9">
+    <h2 id="enter_course_id" class="step-title screensteps-heading">Enter Course ID</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/118/578/original/4b21fb1d-328a-42a0-9056-1a447a0e4a0e.png" srcset="" alt="Enter Course ID" height="354" width="440">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E636F060-1CA3-0135-6BB4-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Course ID</strong> field [1], enter the course ID of the course you want to restore. Click the <strong>Find</strong> button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="restore_course" data-step-uuid="1A427AC7-1606-4674-BFC9-0E16428D5A12">
+    <h2 id="restore_course" class="step-title screensteps-heading">Restore Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/077/873/original/f774a89e-c3e4-45c1-9677-cba5a21c4e5c.png" srcset="" alt="Restore Course" height="445" width="518">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E6371E00-1CA3-0135-6BB6-22000BC102FE" class="text-block-content">
+    <p>When the course appears, click the <strong>Restore </strong>button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm_course_undelete" data-step-uuid="F4D7CF12-8CBF-4034-99BD-B7BFC7E4F855">
+    <h2 id="confirm_course_undelete" class="step-title screensteps-heading">Confirm Course Restore</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/077/875/original/49c39039-d6bd-4917-a94a-7d159a417746.png" srcset="" alt="Confirm Course Undelete" height="349" width="517">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E6374C20-1CA3-0135-6BB8-22000BC102FE" class="text-block-content">
+    <p>Canvas will confirm you have restored your course.</p>
+<p>To view the course, click the <strong>View Course </strong>button [1]. To add user enrollments into the course, click the <strong>Add Enrollments </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

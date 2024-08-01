@@ -1,0 +1,23 @@
+What is the hierarchical structure for Canvas accounts
+View Hierarchy
+Institutions can create a hierarchical structure to best fit the needs of their institution. Users with an admin role can be assigned to specific sub-accounts with specific account-level permissions. 
+Account-level permissions are initially set by the root account admin and trickle down through the hierarchy but not up. Admins for sub-accounts can modify account-level permissions for their sub-account. Admins in one account have administrative permissions within that account as well as in any sub-accounts of that account. Additionally, an admin can move a course within its sub-account, but they cannot move a course between sub-accounts unless they are also the admin of the parent account of each sub-account. 
+With the exception of Terms, SIS imports, Authentication, and a few account settings, most admin account settings can be modified or, in the case of permissions, overridden in a sub-account. For more information about account-level permissions, view the Canvas Account Level Permissions PDF. 
+View Subaccounts
+Sub-accounts are often used to manage permissions and organizational hierarchy within an institution. Many institutions set up sub-account organizational structures that mirror their SIS or registration systems. For example, sub-accounts can be created for individual colleges within a university, or for schools within a district. Sub-accounts can also be created within sub-accounts, such as when a college subdivides into departments that subdivide into programs, or a school that subdivides into grade levels that subdivide into specific subjects. 
+Admins, other Canvas users, and courses can be assigned to sub-accounts. A user can hold different roles in each sub-account. For example, a college dean who also teaches courses at their institution can be assigned as an admin in their college account and assigned a teacher role in a sub-account.
+Sub-accounts can also be used to create and access question banks, outcomes, rubrics, grading schemes, reports, and analytics. 
+Although terms cannot be created in sub-accounts, many institutions create terms at the root account that can be used by specific sub-accounts so each can have different access dates.
+Organize accounts based on:
+Departments then Term Dates. For example: Science Department; Fall 2012/Spring 2013/Summer 2013
+Departments then Sub-Departments. For example: Science Department; Physics/Biology/Chemistry
+Departments then Sub-Departments then Course Type. For example: Science Department; Biology; Face to Face/Blended/Fully Online
+School then Grade-level. For example: K12 School; First Grade
+View Courses and Sections
+Courses are added to an account or subaccount. Courses are the virtual classroom where all the content resides and where student users can learn and interact with instructors and peers. 
+Sections are a group of students that have been organized for administrative purposes. When users are enrolled in a course, they are actually enrolled in one of the sections of that course. It is possible to place more than one section in course, but it is not possible to put sections within sections. All sections of a course share the same content. 
+If a course is taught by one or more instructors, sections can remain under one course if each instructor is added to their respective section.
+Section Options
+Each section can have its own varied due dates for assignments, quizzes, and discussions. For example, a course may have sections that meet on different days of the week or in different formats (online vs. face-to-face). 
+Sections are also beneficial when Teacher Assistants are assigned to help manage courses and oversee grading for a portion of a course enrollment. As part of SIS or manual enrollments, you can limit students to only see students in their section. Instructors can also limit students if you allow them to manually enroll users in their own courses.
+Note: Admins and instructors cannot restrict sections from accessing course navigation (i.e, Assignments, Discussions, Quizzes, etc.). If you want to assign specific assignments to individual sections, this can be done from the Assign To field. 

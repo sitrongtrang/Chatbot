@@ -1,0 +1,40 @@
+How do I add a rubric to an assignment as an instructor
+Open Assignments
+In Course Navigation, click the Assignments link. 
+Open Assignment
+Click the name of the assignment.
+Add Rubric
+Click the Add Rubric button.
+Find a Rubric
+To find an existing rubric, click the Find a Rubric link. 
+You can find rubrics that were created in previous assignments as well as rubrics created in other courses where you have an instructor role. 
+Select Rubric
+In the first column, select a course or account. In the second column, locate and click the name of a rubric. You can view the criteria and points in each rubric. To select a rubric for the assignment, scroll to the bottom of the rubric and click the Use This Rubric button.
+Edit Rubric
+To edit an unused rubric or to select rubric settings, click the Edit icon.
+Note: When editing a rubric, you can remove associated outcome criteria. However, outcome criteria can only be edited from the Outcomes page. 
+Create New Rubric
+If you can't find an existing rubric to use for the assignment, you can create a new rubric for your assignment. New rubrics are saved in your course for future use. 
+Select Rubric Settings
+Once you have added a rubric, you can select several options for the rubric.
+If you want to write free-form comments to students in SpeedGrader, select the I'll write free-form comments... checkbox. If this option is selected, no ratings are used to assess the student and criterion values are assigned manually.
+If you want to remove points from the rubric, select the Remove points from rubric checkbox. If this option is selected, no points are associated with the rubric, but students can still be rated using the rubric criterion.
+If you have the Learning Mastery Gradebook enabled but you don't want outcome results to be posted to the Learning Mastery Gradebook, select the Don't post Outcomes results to Learning Mastery Gradebook checkbox. If this option is selected, students will be able to see rubric and outcome results in the Grades and submission details pages but results will not be posted to the Learning Mastery Gradebook.
+If you want to use the rubric for grading in SpeedGrader, select the Use this rubric for assignment grading checkbox. 
+If you don't want students to see the score total for the rubric, select the Hide score total for assessment results checkbox. Students can still see the point values for each criterion, but the total score will not be shown at the bottom of the rubric. This option is only available if the rubric is not used for grading.
+Save Rubric
+Click the Update Rubric button.
+Note: If you created a new rubric, the assignment will show the Create Rubric button.
+Adjust Scoring Points
+If you select the option to use the rubric for grading, Canvas will compare the rubric score and Assignment points.
+If the number of points in the rubric is different than the number of points in the Assignment, Canvas will generate a warning message notifying that the point values are not equal.
+To update the number of points in the assignment, click the Change button. Otherwise, click the Leave different button.
+View Rubric
+View the rubric for the assignment. 
+To edit the rubric, click the Edit icon. To replace the rubric with an existing rubric, click the Search icon. 
+To delete the rubric from the assignment, click the Delete icon.If the rubric was created from the assignment and is not linked to other course content, the rubric will be removed from the course when deleted.
+Copy Rubric
+If you try to edit a rubric that has been used in more than one assignment (assignment, graded discussion, or quiz), Canvas generates a warning message that the rubric can't be edited. This message means that the rubric can't be edited directly, but you can create a copy of the rubric. 
+To create a copy of the rubric, click the OK button. Canvas will create a copied version of the rubric. The edited version will automatically replace the previous rubric in the assignment. If you use the rubric for grading, the rubric will update for all students in SpeedGrader. You may want to re-review student submissions that may have already been graded with the original rubric.
+The copied rubric will also be saved in the course rubrics list for future use.
+Note: A rubric linked to multiple assignments will not be copied if the only change made is to use the rubric for assignment grading.

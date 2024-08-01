@@ -1,0 +1,179 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_dd12c229-37ee-4e59-b416-9fbd47887c9f" class="text-block-content">
+    <p>You can import questions from a QTI package into an item bank. This lesson describes how to add a QTI package to an item bank by creating a new item bank. You can also add a QTI package to an empty item bank that has already been created.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>New Quizzes only supports imports from QTI 1.2 and 2.x versions. However, some QTI 1.2 and 2.x 3rd party packages include software-specific item types which may not be supported.</li>
+<li>You can only import questions if you access item banks from the Manage Item Banks page in the Options menu. If you click the Item Banks button, you will not be able to import questions.</li>
+<li>When creating an item bank from a QTI import, the new item bank is given the same title as the imported QTI file.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-item-banks" data-step-uuid="670dc4c4-0138-4eff-86d4-49f00e001c59">
+    <h2 id="open-item-banks" class="step-title screensteps-heading">Open Item Banks</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/224/452/original/37b53d04-6ecd-436e-bb2f-8f6586db4d72.png" srcset="" alt="Open Item Banks " height="242" width="167">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_90eecaa4-9d70-4ab4-97f8-5560d92b7523" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Item Banks</strong> link.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>You can also access quizzes from the Assignments page.</li>
+<li>You can also access Item Banks from the New Quizzes Build page.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-item-bank" data-step-uuid="0a7d5356-a52a-4594-a2f7-6c796a9714f0">
+    <h2 id="add-item-bank" class="step-title screensteps-heading">Add Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/942/442/original/5c7bd9b9-8f2e-4445-b34e-32451c00cc6e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/942/442/medium/5c7bd9b9-8f2e-4445-b34e-32451c00cc6e.png" srcset="" alt="Add Item Bank" height="276" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4ef95d67-45b6-4452-ae73-17c6ed6e77d5" class="text-block-content">
+    <p>Click the <strong>Add Bank</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="name-item-bank" data-step-uuid="500f19b8-3e3f-4f19-aa54-8120aa69fc23">
+    <h3 id="name-item-bank" class="step-title screensteps-heading">Name Item Bank</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/806/773/original/142658dd-85de-4d16-9258-e709b64e67be.png" srcset="" alt="Name Item Bank" height="332" width="495">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_006882e5-c296-4be3-a8ee-daabcc5689ad" class="text-block-content">
+    <p>In the <strong>Bank Name</strong> field [1], enter the name of the item bank. You can share the new item bank to the current course by clicking the <strong>Share </strong>checkbox [2]. To save your bank, click the <strong>Create Bank</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-item-bank" data-step-uuid="6e1bd799-218b-4ff7-94a9-820f974d7efa">
+    <h3 id="select-item-bank" class="step-title screensteps-heading">Select Item Bank</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/942/444/original/709d9d36-fe40-4a68-b2e9-692b4e5fec95.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/942/444/medium/709d9d36-fe40-4a68-b2e9-692b4e5fec95.png" srcset="" alt="Select Item Bank" height="302" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_826c3281-8384-4027-9f04-e146c5095a12" class="text-block-content">
+    <p>Click the name of your new item bank.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-content" data-step-uuid="f22989fb-7746-485c-9c53-3198bf69ae4c">
+    <h2 id="import-content" class="step-title screensteps-heading">Import Content</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/806/775/original/4ff27a18-bca8-46f1-a730-1f3fda60ee13.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/806/775/medium/4ff27a18-bca8-46f1-a730-1f3fda60ee13.png" srcset="" alt="Import Content" height="119" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c20bed07-face-4c5b-99b4-bf0e54813b64" class="text-block-content">
+    <p>Click the <strong>Options</strong> icon [1] then select the <strong>Import Content</strong> option [2].</p>
+<p><strong>Note:</strong> If there are questions in your item bank, you will not be able to select the Import Content option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-qti-file" data-step-uuid="fd03609d-0333-45ae-9d0b-731f7aa53d1e">
+    <h2 id="import-qti-file" class="step-title screensteps-heading">Import QTI File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/224/462/original/a2a61812-03e5-4e5c-a5bc-8ccc77f656c4.png" srcset="" alt="Import QTI File" height="298" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6ee12fef-8ba6-4299-b2ac-8b63e7cd4518" class="text-block-content">
+    <p>To import a QTI file, drag and drop the file [1] or select a file by clicking the <strong>Browse</strong> button [2].</p>
+<p>To start the import, click the <strong>Import </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-import-status" data-step-uuid="697c27fe-90f4-477b-a762-634c1e921703">
+    <h2 id="view-import-status" class="step-title screensteps-heading">View Import Status</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/925/048/original/ff324a14-42d4-4b71-8012-879f0f2a22e6.png" srcset="" alt="View Import Status" height="209" width="481">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0395c214-350f-4412-a706-b8688174f4b0" class="text-block-content">
+    <p>A status bar will display the status of the import.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-item-bank-questions" data-step-uuid="27febc39-bd86-4ff4-adef-d2b7c79e6b77">
+    <h2 id="manage-item-bank-questions" class="step-title screensteps-heading">Manage Item Bank Questions</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/806/777/original/ebbe0146-972a-4c62-b764-51cabb4a30e3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/806/777/medium/ebbe0146-972a-4c62-b764-51cabb4a30e3.png" srcset="" alt="Manage Item Bank Questions" height="477" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ebe10118-6e00-409a-b17a-a8c677b75285" class="text-block-content">
+    <p>View the imported questions in your item bank. To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add a new question to the item bank</a>, click the <strong>Add New</strong> button [1].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-edit-an-item-bank-item-in-New-Quizzes/ta-p/703" target="_blank">edit an item bank question</a>, click the <strong>Edit</strong> icon [2]. To <a href="/t5/Instructor-Guide/How-do-I-move-or-copy-a-question-from-one-item-bank-to-another/ta-p/584" target="_blank">move or copy a question to another item bank</a>, click the <strong>Copy</strong> icon [3]. To delete a question, click the <strong>Delete</strong> icon [4].</p>
+<p>To return to your item bank, click the <strong>Return</strong> button [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-question-details_1" data-step-uuid="fa25a78d-ff89-4c15-99d4-0908689d399d">
+    <h3 id="view-question-details_1" class="step-title screensteps-heading">View Question Details</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/806/780/original/1e6a1314-93c3-483d-8a5e-15f665d3eeb7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/806/780/medium/1e6a1314-93c3-483d-8a5e-15f665d3eeb7.png" srcset="" alt="View Question Details" height="577" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_50282bf9-3c59-400e-9ee6-3fb69820cd23" class="text-block-content">
+    <p>To view more details for a question, click the <strong>Open</strong> icon [1]. The details will include answer choices [2] and the date and time the question was last updated [3].</p>
+<p>To close question details, click the <strong>Close</strong> icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

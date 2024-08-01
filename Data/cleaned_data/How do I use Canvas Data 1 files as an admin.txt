@@ -1,0 +1,17 @@
+How do I use Canvas Data 1 files as an admin
+Canvas Data 1 will be deprecated on December 31, 2023. Canvas Data 1 guides will be removed from the Community end of June 2024. Learn more about accessing data using Canvas Data 2.
+Tableau
+Tableau is a per-user license software platform that helps people see and understand their data. For help with files in Tableau, please view the Tableau support page. 
+Canvas Data in Tableau can be viewed through Amazon Redshift and is the easiest, recommended method for accessing and analyzing data. In Tableau, select the Connect to Data link and select Amazon Redshift. To connect to the database, enter your Redshift credentials as set up in the Canvas Admin Portal.
+SQL Workbench/J
+SQL Workbench/J is a free cross-platform SQL query tool that operates on Java. For more information about SQL Workbench/J, please see the Amazon SQL Workbench/J documentation. 
+Canvas Data in SQL Workbench/J can be viewed through Amazon Redshift. To connect to the database, enter your Redshift credentials as set up in the Canvas Admin Portal. 
+image source
+Excel
+Excel is a data analysis tool that is part of Microsoft Office. Windows users can download the Windows Redshift ODBC Driver, and Mac OS X users can download the Mac Redshift ODBC Driver.
+Canvas Data in Excel can be viewed through Amazon Redshift. Open Excel, select the Excel Data Connection Wizard, and locate the ODBC driver. To connect to the database, enter your Redshift credentials as set up in the Canvas Admin Portal. 
+R
+R is a free software environment for statistical computing and graphics. It runs on a wide variety of platforms. For help with files in R, please view the R support page.
+Canvas Data in R can be viewed through Amazon Redshift. To connect to the database, enter your Redshift credentials as set up in the Canvas Admin Portal. 
+Other ODBC Tools
+Most other ODBC and Java database connectivity (JDBC) PostgresSQL clients should be supported by Canvas Data. However, please notes that pgAdmin is not supported. 

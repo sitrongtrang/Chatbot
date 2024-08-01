@@ -1,0 +1,121 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4AD53390-1ED5-0135-B71C-22000B5A851D" class="text-block-content">
+    <p>You can run reports to review attendance data for your students. This report is sent to your email, where it can be downloaded as a comma separated value (CSV) file.</p>
+<p>Reports are delivered in a CSV format and display all content in a list. Reports always include the following data fields: Course ID, SIS Course ID, Course Code, Course Name, Teacher ID, Teacher Name, Student ID, Student Name, Class Date, Attendance, and Timestamp. </p>
+<p>Roll Call Attendance Badges are included in course reports if they were created at the most immediate account or sub-account level and have been assigned to students. If the course belongs to a sub-account, only badges created at the sub-account level will appear in reports. If the course does not belong to a sub-account, only badges created at the account level will appear in reports. Additionally, the badges will also only be included if they were set within the time frame you specify in the report.</p>
+<p>You can generate reports for the entire course or a specific student. To locate a student or course ID, view the People page. The student SIS ID will be listed in the table. The course ID will be in the browser URL (e.g. courses/XXXXXX/users/XXX). </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>You can narrow large results within a CSV report using the Data group Filter button.</li>
+<li>The Student ID and SIS ID are not the same and hold different values.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_attendance" data-step-uuid="66585455-4D95-4F4D-AAAD-5C71E5499209">
+    <h2 id="open_attendance" class="step-title screensteps-heading">Open Attendance</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/965/original/14d7143d-4790-4795-a405-d4bcb7336d48.png" srcset="" alt="Click Attendance Link" height="231" width="173">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4AD56C80-1ED5-0135-B71E-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Attendance</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_attendance_report" data-step-uuid="31A22DB3-FEF1-462F-91C6-3631D789D251">
+    <h2 id="open_attendance_report" class="step-title screensteps-heading">Open Attendance Report</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/500/original/b2e548d6-37a2-4d89-ba9e-4601e193d061.png" srcset="" alt="Open Attendance Reports" height="121" width="311">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4AD5A6C0-1ED5-0135-B720-22000B5A851D" class="text-block-content">
+    <p>In Roll Call, click the <strong>Settings</strong> icon [1] and select <strong>Attendance Report </strong>[2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="specify_report_data" data-step-uuid="725B242C-7BE4-45EC-92A1-A016F0DA0BDB">
+    <h2 id="specify_report_data" class="step-title screensteps-heading">Specify Report Data</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/506/original/0af5f28d-c84b-4d37-858f-20ec57eb5d21.png" srcset="" alt="Enter Report Criteria" height="389" width="810">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4AD5DC50-1ED5-0135-B722-22000B5A851D" class="text-block-content">
+    <p>You can specify criteria for your report. If you leave the fields blank, the report will be generated for the entire course.</p>
+<p>You can choose a date range for the report [1]. You can also optionally filter by SIS Student ID [2]. </p>
+<p>By default, the email field [3] will be populated with your email address to send the report. Confirm your email in the field or enter a new email address. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="run_report" data-step-uuid="fd91701d-2124-4b55-aec4-bd9e6cd90c0e">
+    <h2 id="run_report" class="step-title screensteps-heading">Run Report</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/496/original/48c1e651-3b74-446a-8e56-b38e55f03f9b.png" srcset="" alt="Click Run Report Button" height="51" width="118">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4AD61370-1ED5-0135-B724-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Run Report</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_notification" data-step-uuid="A975EA36-34D6-4CAC-AD14-B0A61B453CA1">
+    <h2 id="view_notification" class="step-title screensteps-heading">View Notification</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/498/original/f204ff69-fa18-4d1b-bb4f-c87d23536e74.png" srcset="" alt="View Report Notification" height="51" width="792">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4AD646D0-1ED5-0135-B726-22000B5A851D" class="text-block-content">
+    <p>Confirm that the report was generated successfully.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_email" data-step-uuid="7C0F0944-E806-4208-B89D-0743FBD453E5">
+    <h2 id="view_email" class="step-title screensteps-heading">View Email</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/215/583/original/10875c44-8832-42ae-954b-9b4575169a8a.png" srcset="" alt="Check Email" height="200" width="666">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4AD67E50-1ED5-0135-B728-22000B5A851D" class="text-block-content">
+    <p>Check your email for a message with the subject Roll Call Attendance Report. The email contains a link where you can access your attendance report for the next 6 hours. When you click the link, you will be prompted to open or save the CSV file that contains your report results. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

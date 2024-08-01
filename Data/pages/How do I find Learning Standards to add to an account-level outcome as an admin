@@ -1,0 +1,126 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6B022C90-1D4D-0135-D199-22000B5A851D" class="text-block-content">
+    <p>Learning Standards are goals and objectives for student assessment in the United States. These standards have been created by the nation's governors and educational leaders to assess specific student learning.</p>
+<p>Canvas will import the following standards for free: </p>
+<ul>
+<li>All Common Core Standards for Language Arts, Math, and Science (NGSS)</li>
+<li>All state specific standards for Core 4 subjects (Language Arts, Math, Science, and Social Studies) for states with current Canvas customers</li>
+<li>All ISTE Standards for Coaches, Computer Science Educators, Students, Teachers, and Administrators</li>
+</ul>
+<p>When Learning Standards are imported into the account level, instructors who are finding standards for their course will view the Learning Standards as part of the Account Standards outcome group.</p>
+<p>If your state does not appear in Outcomes or if your institution does not have access to learning standards, please contact your Customer Success Manager.</p>
+<p>This article displays how to find Learning Standards in the classic Outcomes page view. If the Outcomes page in your account displays differently than the images in this article, <a href="/t5/Admin-Guide/How-do-I-find-an-existing-outcome-to-add-to-an-account-in/ta-p/486336" target="_blank">learn how to find outcomes in an account</a> that has enabled the Improved Outcomes Management feature option.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="cccb5ef0-34bd-4c7d-8285-550b1cb269ec">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B031750-1D4D-0135-D19B-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="829EF413-3AAE-4FDD-AF8D-4A5582E349E3">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/360/original/98822e97-4e3f-4c66-997a-622f8cf76c83.png" srcset="" alt="Open Outcomes" height="296" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B03D7B0-1D4D-0135-D19D-22000B5A851D" class="text-block-content">
+    <p>In Account or Sub-Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_outcome" data-step-uuid="a3b58949-d95e-4f96-b27e-0624f8c3d80a">
+    <h2 id="find_outcome" class="step-title screensteps-heading">Find Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/380/763/original/bd35873b-be3c-4db3-8035-3f01a6c44978.png" srcset="" alt="Find Outcome" height="81" width="331">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B049990-1D4D-0135-D19F-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Find</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_outcome_type" data-step-uuid="A814C4EA-3573-4FB8-9AEF-7D086F905907">
+    <h3 id="select_outcome_type" class="step-title screensteps-heading">Select Outcome Type</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/835/817/original/87e1f4f9-ba77-426b-bf53-619f68d8e07a.png" srcset="" alt="Select Outcome Type" height="148" width="219">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B054F10-1D4D-0135-D1A1-22000B5A851D" class="text-block-content">
+    <p>To view state standards, click the State Standards outcome group.</p>
+<p>To view Common Core standards, click the Common Core Standards outcome group.</p>
+<p><strong>Note:</strong> If State and Common Core groups are not available to you, please contact your Customer Success Manager.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_outcomes" data-step-uuid="78A2C06D-1035-4AB5-AF55-E654878E17E0">
+    <h2 id="choose_outcomes" class="step-title screensteps-heading">Choose Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/835/819/original/b4a2393b-0128-4029-bc5c-dacdec378c65.png" srcset="" alt="Choose Outcomes" height="626" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B062AF0-1D4D-0135-D1A3-22000B5A851D" class="text-block-content">
+    <p>State and Common Core Standards are nested outcomes, so you can import entire outcome groups into your course, or view all nested outcome groups to locate an individual standard. </p>
+<p>Select the name of an outcome group to view available outcomes [1]. When you have located an outcome, click the name of the outcome you want to import [2]. Click the <strong>Import</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_outcomes" data-step-uuid="82EC3D82-6A84-4804-8EDE-D5A51D0D6669">
+    <h2 id="view_outcomes" class="step-title screensteps-heading">View Outcomes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/766/original/c9953c79-0653-4ac9-a593-ec0bf88436f2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/766/medium/c9953c79-0653-4ac9-a593-ec0bf88436f2.png" srcset="" alt="View Outcomes" height="295" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6B06E3F0-1D4D-0135-D1A5-22000B5A851D" class="text-block-content">
+    <p>View the added Outcomes. </p>
+<p><strong>Note</strong>: The account or sub-account must have the standards imported first before instructors can find and use them in their courses.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

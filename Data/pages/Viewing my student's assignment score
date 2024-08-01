@@ -1,0 +1,114 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_729b128c-1b74-4785-b2be-078236c281f2" class="text-block-content">
+    <p>Certain course actions may seem to make course grades disappear, but there are a few steps available to take to help locate them.</p>
+<p><strong>Note: </strong>External tools have additional restrictions determined by the provider of the tool. Review with external app documentation, or contact the provider support for information on that functionality.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-existing-assignment" data-step-uuid="a2c9e451-f0c6-4cf1-ab37-19384bd4524a">
+    <h2 id="confirm-existing-assignment" class="step-title screensteps-heading">Open Assignments Index Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/274/661/original/d7003123-df43-487f-9dfb-96e79dcc03e6.png" srcset="" alt="Open Assignments Index Page " height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b873cc50-900e-4336-8b3a-2dfaa7730609" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/274/659/original/5b6f7b1c-4f39-47ca-9569-6e2676024094.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/274/659/medium/5b6f7b1c-4f39-47ca-9569-6e2676024094.png" srcset="" alt="Open Assignments Index Page " height="84" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e4317e3f-83be-47fe-967c-77affc7e7f22" class="text-block-content">
+    <p>The <a href="https://community.canvaslms.com/docs/DOC-10061-415267000" target="_blank">Assignments Index page</a> shows the full list of graded items in the course including assignments, quizzes, and discussions.</p>
+<p>To search for an assignment, enter the assignment name in the <strong>Search for Assignment</strong> field. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If the assignment does not exist, it may need to be restored. Contact Support via the Global Navigation Help link for assistance. </li>
+<li>Look for duplicate assignments by the same or similar names, the duplicates may make it more difficult to view assignment grades in the Gradebook. Remove or unpublish duplicates as needed. </li>
+</ul>
+<p>Check your assignment group names. If you have an assignment group with the same name as the assignment (e.g, you have Test #1 as an assignment, as well as Test #1 as a group), verify that the assignment is located in that assignment group, as it will result in an empty assignment group column in the gradebook if it does not. If needed, learn about <a href="https://community.canvaslms.com/docs/DOC-13342-4152807365" target="_blank">moving assignments</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-assignment-status" data-step-uuid="b45c88b1-f5ca-476b-99bd-9d4c62eb0aa3">
+    <h2 id="confirm-assignment-status" class="step-title screensteps-heading">Review Existing Assignment Configuration</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/274/654/original/2004e333-d677-407b-9bf9-87b029efb855.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/274/654/medium/2004e333-d677-407b-9bf9-87b029efb855.png" srcset="" alt="Review Existing Assignment Configuration" height="396" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7a79d749-3be7-47e6-8670-bc52306967cd" class="text-block-content">
+    <p>If the assignment exists, check the assignment settings. Click the name of the assignment [1], then click the <strong>Edit</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/276/767/original/a598faa1-0fcd-4994-b2f0-6eeca6b1652c.png" srcset="" alt="Review Existing Assignment Configuration" height="278" width="582">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9cf08929-776a-4511-8437-43597b96e8bf" class="text-block-content">
+    <p>In the <strong>Display Grade As</strong> field, confirm that the assignment is set to an option besides Not Graded. If the Not Graded option is selected, the assignment and grades do not display in the gradebook.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/274/657/original/44dcc1b0-7564-45ef-9fb5-8640a1171b43.png" srcset="" alt="Review Assign to Fields " height="348" width="472">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fc2025dd-7f60-4b36-b657-dacbf6704508" class="text-block-content">
+    <p>In the Assign section, ensure that the assignment is assigned to Everyone or to all students in the course for whom this assignment should be graded. If you specified a course or section, any students not in the group or section are included in the assignment and their assignment grade will not display in the gradebook. This applies to any assignment, discussion, or quiz. </p>
+<p>Learn about creating <a href="https://community.canvaslms.com/docs/DOC-10434-4152669141" target="_blank">custom due dates for a section</a> or <a href="https://community.canvaslms.com/docs/DOC-9973-4152101242" target="_blank">for individual students</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="review-availability-dates" data-step-uuid="d401f61d-fad3-4631-b1df-2d4efc68c0c5">
+    <h2 id="review-availability-dates" class="step-title screensteps-heading">Review Gradebook Filters </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/276/765/original/9f1f8ede-b2b0-44ec-be9c-ea2b0a6786a5.png" srcset="" alt="Review Gradebook Filters" height="366" width="721">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0087563c-9197-4d2f-b8d4-5dac002c21c9" class="text-block-content">
+    <p>If you have enabled filters in your Gradebook, you may restrict your view of all assignments and grades in the gradebook. </p>
+<p>In Course Navigation, click the <strong>Grades </strong>link [1].<strong> </strong>Then, click the <strong>View</strong> drop-down menu [2] and confirm which filters you have enabled in <strong>Filters</strong> [3].</p>
+<p>In particular, grade period filters (semesters, quarters, terms, etc.) affect the grades displayed in the gradebook. You may need to adjust assignment due dates to match grading period dates.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

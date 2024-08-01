@@ -1,0 +1,216 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9C26ADB0-222A-0135-D98E-22000B5A851D" class="text-block-content">
+    <p>You can create a quiz question with a formula in it.</p>
+<p><strong>Note</strong>:</p>
+<ul>
+<li>If you need help adding a mathematical formula in the Rich Content Editor, please see the <a href="/t5/Instructor-Guide/How-do-I-use-the-math-Equation-Editor-in-the-Rich-Content-Editor/ta-p/816" target="_blank">Math Editor lesson</a>.</li>
+<li>If you need help building formulas in the Formula Definition field, see the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Formula-Quiz-Question-Helper-Functions/ta-p/387062" target="_blank">Canvas Formula Quiz Question Helper Functions resource document</a>.</li>
+<li>To negate an expression in the Formula Definition field, multiply the function by -1. For example,  type -1*sqrt(5x).</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="985CD021-2A10-4146-B4C9-243A0C2E165B">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/262/751/original/ce0f916a-f9d8-4099-8932-74b60a22a96e.png" srcset="" alt="Add Question" height="246" width="698">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C27C4C0-222A-0135-D990-22000B5A851D" class="text-block-content">
+    <p>With the <strong>Questions</strong> tab [1] selected inside a new quiz, click the <strong>New Question </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_name_type_and_points" data-step-uuid="A0BDF6CB-69C2-43F0-9B4D-2C8E8B514A1F">
+    <h2 id="set_name_type_and_points" class="step-title screensteps-heading">Set Name, Type, and Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/578/original/a6e211c9-8757-44ff-b0dd-4ab90c1e953d.png" srcset="" alt="Set Name, Type, and Points" height="69" width="702">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C280180-222A-0135-D992-22000B5A851D" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field [1]. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+<p>Click the drop-down menu and select the Formula question type [2].</p>
+<p>Enter number of points the question is worth (quiz totals are calculated based on combined total of questions) [3].</p>
+<p><strong>Note:</strong> Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_question_details" data-step-uuid="45B78EA0-D490-49C6-8E58-AF286010E200">
+    <h2 id="edit_question_details" class="step-title screensteps-heading">Edit Question Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/049/341/original/3be64f87-f649-4a41-8467-3a719aa527f8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/049/341/medium/3be64f87-f649-4a41-8467-3a719aa527f8.png" srcset="" alt="Edit Question Details" height="464" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C2838F0-222A-0135-D994-22000B5A851D" class="text-block-content">
+    <p>Type the question prompt text and formula with variables in brackets in the Rich Content Editor [1]. You can include video, images, math equations, or flash activities. For information on variables, formulas, and other options, click the <strong>Need help? </strong>link [2]. </p>
+<p><strong>Note: </strong>If you need help adding a mathematical formula in the Rich Content Editor, please see the <a href="/t5/Instructor-Guide/How-do-I-use-the-math-Equation-Editor-in-the-Rich-Content-Editor/ta-p/816" target="_blank">Math Editor lesson</a>. You cannot use the letter "e" as a variable. It is a reserved mathematical constant.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_variable_definitions" data-step-uuid="DAA011A9-6623-4473-B401-62D08F62A0DE">
+    <h2 id="set_variable_definitions" class="step-title screensteps-heading">Set Variable Definitions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/930/893/original/09b03713-b621-4e4e-8898-073e36e535c7.png" srcset="" alt="Set Variable Definitions" height="171" width="718">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C28DF60-222A-0135-D996-22000B5A851D" class="text-block-content">
+    <p>After you have finished typing the formula in the Rich Content Editor, parameters to define the formula will appear. Set the variable definitions for the formula. Specify the minimum and maximum numbers for variable X [1]. Select decimal places in the drop-down menu [2], and click the <strong>Recompute</strong> button [3] to verify that Canvas will insert a number into the formula that is within the variable definition.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_formula_definitions" data-step-uuid="A4CB90E9-0E9B-4A94-A753-139CE15B471F">
+    <h2 id="set_formula_definitions" class="step-title screensteps-heading">Set Formula Definitions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/583/original/a9a12f91-bbf1-41c1-b6cc-e77202950e7d.png" srcset="" alt="Set Formula Definitions" height="164" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C293BE0-222A-0135-D998-22000B5A851D" class="text-block-content">
+    <p>Type the formula definition in the formula field [1]. Make sure the formula does not contain any brackets or equal signs. Select the <strong>Decimal Places </strong>drop-down menu [2] to set the number of decimal places you want used for the result. Select the <strong>Save </strong>button to save your formula [3]. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The Formula Definition text box supports the following operators: + (add), - (subtract), * (multiply), / (divide), and ^ (power).</li>
+<li>If you need help building formulas in the Formula Definition field, see the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Formula-Quiz-Question-Helper-Functions/ta-p/387062" target="_blank">Canvas Formula Quiz Question Helper Functions resource document</a>.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="recompute_solution" data-step-uuid="868bb745-2247-4605-a25c-5828fa80b7a6">
+    <h2 id="recompute_solution" class="step-title screensteps-heading">Recompute Solution</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/574/original/e9af2481-0d3b-4b92-b631-156b7cb5fe09.png" srcset="" alt="Recompute Solution" height="358" width="700">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C298E30-222A-0135-D99A-22000B5A851D" class="text-block-content">
+    <p>Once you've added a formula definition, you can go back to the Recompute button and watch the calculated variable process through the formula and calculate a result. You can recompute as many times as you'd like. For instance, if an example value is 10 and the equation is 180 times x, 10 acts for x and the result is 1800. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_possible_number_of_solutions" data-step-uuid="31096C6A-86A2-437C-BB94-503CD988E3F1">
+    <h2 id="set_possible_number_of_solutions" class="step-title screensteps-heading">Set Possible Number of Solutions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/585/original/5e09cc99-8de5-40c5-ba95-521833e43bfb.png" srcset="" alt="Set Possible Number of Solutions" height="161" width="471">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C29D030-222A-0135-D99C-22000B5A851D" class="text-block-content">
+    <p>In the Offer field, specify the number of possible solutions you want Canvas to generate [1]. </p>
+<p>In the error margin of field, enter the margin of error for the student's answer [2]. Responses are based on relative error in addition to absolute error. Margins of error can be created as a percentage or as a point value (up to three decimal places).</p>
+<p>Click the <strong>Generate</strong> button to view final answer [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_possible_solutions" data-step-uuid="03ed8f7c-93ea-4be3-ac0a-f468bace151c">
+    <h2 id="view_possible_solutions" class="step-title screensteps-heading">View Possible Solutions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/591/original/b19b52af-39ae-4c77-8428-435ead88ada3.png" srcset="" alt="View Possible Solutions" height="356" width="694">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C2A06E0-222A-0135-D99E-22000B5A851D" class="text-block-content">
+    <p>Possible solutions will process according to the number of value combinations.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="provide_feedback" data-step-uuid="2D5D2AEE-183A-40E0-A031-A0A4E003E065">
+    <h2 id="provide_feedback" class="step-title screensteps-heading">Provide Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/568/original/a24321f0-c664-4b62-a496-01cdec156ac4.png" srcset="" alt="Provide Feedback" height="66" width="274">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C2A4730-222A-0135-D9A0-22000B5A851D" class="text-block-content">
+    <p>You can provide feedback for the question by clicking an answer comment field and entering text. The comment fields are color-coded to correspond with the type of answer the student provides. Green is for correct answer feedback [1], red is for incorrect answer feedback [2], and blue is for general question feedback [3].</p>
+<p><strong>Note:</strong> Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="E82A0D61-F1C7-4055-AEB0-5C49496BC0E3">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/572/original/91124139-a6d8-4589-97a8-f367b9cd3c6e.png" srcset="" alt="Update Question" height="52" width="214">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C2A7CC0-222A-0135-D9A2-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+<p>Add additional <a href="null" target="_blank" rel="nofollow noopener noreferrer">individual questions</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_formula_question" data-step-uuid="B12F2489-DA52-4240-8E55-069EC0ED842D">
+    <h2 id="student_view_for_formula_question" class="step-title screensteps-heading">Student View for Formula Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/416/711/original/8f65bf14-8b2e-4bc7-b9e1-0bdd9881f03a.png" srcset="" alt="Student View for Formula Questions" height="229" width="619">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C2AB020-222A-0135-D9A4-22000B5A851D" class="text-block-content">
+    <p>This is what students see when they encounter a Formula question in a quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_formula_question_feedback" data-step-uuid="A42A4412-DE6A-4124-A052-A0AB03A69259">
+    <h2 id="student_view_for_formula_question_feedback" class="step-title screensteps-heading">Student View for Formula Question Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/930/890/original/29ceb4ec-133f-4348-a22f-b58d9741fcb1.png" srcset="" alt="Student View for Formula Question" height="544" width="601">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9C2AFAD0-222A-0135-D9A6-22000B5A851D" class="text-block-content">
+    <p>If you allow students to see the correct answers, they will see the correct responses listed after their answer [1]. A green flag indicates the correct answer [2]. A red flag indicates the student's incorrect answer [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

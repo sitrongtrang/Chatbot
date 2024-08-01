@@ -1,0 +1,35 @@
+How do I add conditional content to a Mastery Path source item as an instructor
+Open Modules
+In Course Navigation, click the Modules link.
+Open Mastery Paths
+Locate the item where you want to add a Mastery Path and click the Options icon. Click the Mastery Paths option.
+Note: Items that cannot originate a Mastery Path, including content pages and non-graded items, will not display the Mastery Paths settings option.
+View Conditional Range
+The assignment grade display and point value are shown at the top of the Mastery Path page. 
+The Mastery Paths tab displays three ranges for conditional content. The ranges match the grade display set for the assignment—points, percentage, letter grade, or GPA. The ranges default to 70%, 40%, and 0% of the assignment’s point value. rounded up respectively. For instance, an assignment worth 25 points defaults to ranges of 25–18 points, 18–10 points, and 10–0 points. 
+Set Conditional Range
+Each range can be customized to a range outside the default values. To adjust a range, click the value and enter the new conditional range.
+Note: Range values must be set in order from highest to lowest. Empty values are not allowed.
+Add Items to Range
+Select the range where you want to add conditional content items and click the Add button.
+Locate Items
+Any existing course item that can be used in a Mastery Path can be added as conditional content. 
+In the content window, you can search for content by name in the Search field, or filter items by type using the All Items drop-down menu. If a content item does not display in the content window, the item cannot be added as a conditional release item.
+Notes: 
+When sorting by type, you must add an item from a type before selecting another type.
+The content window only displays supported items for conditional content. Practice quizzes and ungraded surveys are not supported as conditional items.
+Pages will not display as a conditional item unless the page was previously edited to be included as a Mastery Path item.
+Add Items
+To add a content item, select the checkbox next to the item. You can select multiple items at one time.
+Click the Add Items button.
+Add Additional Items
+Select another range and add the appropriate content items. You can add up to three item groups to each range using existing items in a course as conditional items. Conditional items may be added in the form of individual item requirements for a student to choose from, or as a group of items a student must complete.
+Note: An item may be added to more than one range. An item that is already added in the range will be crossed out in the content window.
+Manage Items
+Multiple conditional items within a range can be mixed and matched as individual items, grouped items, or both. Items can also be reordered within the range by dragging and dropping in the preferred order.
+You can also edit an item, move an item, or delete an item from the item's options menu.
+Set Student Choice Option
+When more than one conditional item is added to the same range, the items default to be completed together as indicated by the And (ampersand) button. Students who complete the assignment and score in a range with joined assignments must complete all the assignments in the conditional path.
+If you want to give students a choice between assignments in a path, a range's items can be set to complete only one item or group in the path. To create a path option, click the And button. The items will separate and the And will change to an Or button. Students who complete the assignment and score in a range with an Or designation can select which item(s) to complete as part of the conditional path. To help select an assignment path, students will be able to view the descriptions of each assignment.
+Save Assignment
+When you are finished adding conditional items, click the Save button.

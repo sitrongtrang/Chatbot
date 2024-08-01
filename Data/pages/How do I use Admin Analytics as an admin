@@ -1,0 +1,159 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--warning screensteps-wrapper">
+  <div id="text-content_0f186071-35b8-4dc8-acd2-b90126c47c7e" class="text-block-content">
+    <p>In the beta environment only, Admin Analytics and Course Analytics data is pulled from Canvas Data 2 (CD2)/Data Access Platform (DAP). All data will be migrated to CD2/DAP on August 1, 2024. You can migrate your data to CD2/DAP before August 1, 2024 by contacting your Customer Success Manager (CSM).</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_ec45a5ce-3f52-4f13-a247-3b95cb672d23" class="text-block-content">
+    <p>If enabled by your institution, you can use Admin Analytics to view, filter, and download data about Canvas usage.</p>
+<p><a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Admin-Analytics-Chart-and-Data-Definitions/ta-p/562085" target="_blank">Learn more about dashboard charts and statistics</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Admin Analytics is an account <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Feature-Option-Summary/ta-p/531316" target="_blank">feature option</a>. </li>
+<li>To view Admin Analytics data for their sub-account(s), sub-account admins must have the Admin Analytics - View and Export Data permission enabled. </li>
+<li>Admin Analytics provides analytics data about all Canvas courses, including public courses. However, participations and page view data includes only users with student or teacher </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="115302a3-9537-450e-9886-745b72581664">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_589e55d4-5794-471e-ae7f-4d94e74da999" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="e56487cc-13b5-437a-acba-1d6954eabd42">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Admin Analytics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/830/251/original/debb272b-49aa-46fc-b036-db071bfbda37.png" srcset="" alt="Open Admin Analytics" height="204" width="171">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5e469c58-1b70-4c4f-8933-639627b5eb80" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Admin</strong> <strong>Analytics </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-analytics" data-step-uuid="b91e89c0-55c1-426f-b865-bde84f3835e7">
+    <h2 id="view-analytics" class="step-title screensteps-heading">View Admin Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/536/211/original/730841b9-1268-4a7b-817c-8453c951777d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/536/211/medium/730841b9-1268-4a7b-817c-8453c951777d.png" srcset="" alt="View Admin Analytics" height="414" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8f08cecd-7d66-4ee8-8628-b8ae89cbc64c" class="text-block-content">
+    <p>In Admin Analytics, you can filter data [1], view data by dashboard [2], and view an individual dashboard's data [3].</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>By default, the Overview Dashboard displays are filtered by the active term [4].</li>
+<li>n the Admin Analytics navigation, the Intelligent Insights menu only displays for users who have opted into <a href="/t5/Intelligent-Insights-Guides/What-is-Intelligent-Insights/ta-p/608459" target="_blank">Intelligent Insights</a>. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-analytics-filters" data-step-uuid="641f3b57-5821-4fcf-a16f-d439d90fd6c9">
+    <h2 id="view-analytics-filters" class="step-title screensteps-heading">Apply Filters</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/543/269/original/9f387f7a-2b1f-41d8-ab64-e5cfebfb96f7.jpg" srcset="" alt="Apply Filters" height="2042" width="505">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cab5b1c8-ff43-4c6c-9d19-3ee6e52e2bf7" class="text-block-content">
+    <p>You can filter data using the following menus: </p>
+<ul>
+<li>Sub-Accounts [1]</li>
+<li>Term [2] </li>
+<li>Course [3]</li>
+<li>Teacher [4]</li>
+<li>Course Status [5]</li>
+<li>Date Granularity [6]</li>
+<li>Course Start Date [7]</li>
+<li>Course Activity Criteria [8]</li>
+<li>Student Activity Criteria [9]</li>
+</ul>
+<p>To apply the selected filters, click the <strong>Apply Filters </strong>button [10].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/830/259/original/7479f2c7-b90d-40bb-b6a6-07fc40ac46ec.png" srcset="" alt="Search Filters" height="369" width="465">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f646b7be-6edb-4fcc-b683-1b899ad6bf51" class="text-block-content">
+    <p>To search within a filter menu, enter a search term in the search field [1]. A maximum of 500 search results are returned.</p>
+<p>To select all of the results, click the<strong> Select All </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-dashboards" data-step-uuid="5c88d254-ede7-4143-873b-5cff43c4db39">
+    <h2 id="view-dashboards" class="step-title screensteps-heading">View Dashboards</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/929/434/original/4ebaeb8f-638d-4e6a-9868-71ea939aadb9.png" srcset="" alt="View Dashboards" height="93" width="334">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eea3fb29-47fe-4a00-abd7-6bfc66aacb93" class="text-block-content">
+    <p>In Admin Analytics, you can view data via the Overview, Course, and Student Dashboards.</p>
+<p>The <a href="/t5/Admin-Guide/How-do-I-view-the-Admin-Analytics-Overview-Dashboard/ta-p/562117" target="_blank">Overview Dashboard</a><strong> </strong>displays account courses by status, student and teacher engagement data, various data over a given time, and average course grades [1].</p>
+<p>The <a href="/t5/Admin-Guide/How-do-I-view-the-Admin-Analytics-Course-Dashboard/ta-p/562118" target="_blank">Course Dashboard</a><strong> </strong>displays course grade and engagement statistics, feature use data, courses with low average grades, and courses with low student activity [2].</p>
+<p>The <a href="/t5/Admin-Guide/How-do-I-view-the-Admin-Analytics-Student-Dashboard/ta-p/562119" target="_blank">Student Dashboard</a><strong> </strong>displays student grade and engagement statistics, grade averages, submissions by status, and student details [3].</p>
+<p><a href="/t5/Admin-Guide/How-do-I-view-and-manage-statistic-and-chart-data-in-Admin/ta-p/562115" target="_blank">Learn more about viewing and managing statistic and chart data.</a></p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="export-analytics" data-step-uuid="4933fb88-28b6-4693-9a09-b6f5958b9000">
+    <h3 id="export-analytics" class="step-title screensteps-heading">Refresh Cache and Download Analytics</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/006/967/original/11b6c2bd-e459-44d9-ae06-dde9defe83b4.png" srcset="" alt="Refresh Cache and Download Analytics" height="178" width="337">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f6130889-a341-44c5-81af-80f2aa85d870" class="text-block-content">
+    <p>To refresh your dashboard's cache, click the <strong>Options </strong>icon [1], then click the <strong>Clear cache and refresh </strong>link [2].</p>
+<p>To download a summary of the dashboard you are viewing to your computer, click the <strong>Download </strong>link [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

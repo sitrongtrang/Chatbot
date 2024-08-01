@@ -1,0 +1,186 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_19C0DCD0-AAE2-0135-1744-06467EE270FA" class="text-block-content">
+    <p>As needed, you can use the Grade Detail Tray to change the status for an assignment, discussion, or quiz submission. Available statuses include late, missing, excused, or none (no status). You can also change the status for a group assignment. Assignments with a late or missing status will display a label on the student's grades page indicating the status. If you do not want status labels displayed on a student's grades page, set the assignment status to None.</p>
+<p>Excused assignments are not calculated as part of a student's total grade. Currently, points are not automatically deducted for assignments with a late status.</p>
+<p>When an assignment is excused, the assignment page and the student grade page will show the student that he or she has been excused from the assignment. Students cannot submit excused assignments. </p>
+<p>When a missing label is manually applied, the missing label is removed by a new submission or manual removal. Entering a score does not remove a manually-applied missing label.</p>
+<p><strong>Note: </strong>You can <a href="/t5/Instructor-Guide/How-do-I-change-the-color-for-a-grading-status-in-the-Gradebook/ta-p/998" target="_blank">change the status colors</a><a href="https://canvas.screenstepslive.com/admin/v2/internal_links/815124?type=article&amp;site_id=10425" target="_blank" rel="nofollow noopener noreferrer"> </a>for each status in the Gradebook; however, you cannot change the status names. You can also <a href="/t5/Instructor-Guide/How-do-I-change-the-status-of-a-submission-in-SpeedGrader/ta-p/488380" target="_blank">change the status of submissions in the SpeedGrader</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="19C215D0-AAE2-0135-1745-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/030/original/34c9ccd4-fa58-4dce-b964-0961dbb7b09a.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_19C24B20-AAE2-0135-1747-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_assignment" data-step-uuid="19C262E0-AAE2-0135-1748-06467EE270FA">
+    <h2 id="select_assignment" class="step-title screensteps-heading">Open Grade Detail Tray</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/035/493/original/5134a0ac-136a-4e6d-8adc-a4df8b714776.png" srcset="" alt="Open Grade Detail Tray" height="352" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_19C29250-AAE2-0135-174A-06467EE270FA" class="text-block-content">
+    <p>Locate the student name and assignment where you want to change the status. Click the Gradebook cell and click the <strong>Grade Detail Tray</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="excuse_assignment" data-step-uuid="19C2AA10-AAE2-0135-174B-06467EE270FA">
+    <h2 id="excuse_assignment" class="step-title screensteps-heading">View Assignment Status</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/245/423/original/13c2e233-f62b-4256-9d41-3b816fc24fec.png" srcset="" alt="View Assignment Status" height="769" width="323">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_19C2D830-AAE2-0135-174D-06467EE270FA" class="text-block-content">
+    <p>The Status section of the Grade Detail Tray displays available status options. Any selected status is applied immediately. Depending on the assignment's settings and student submissions, a status may already be selected for you.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Color status is only visible in the Gradebook and does not affect the student Grades page. </li>
+<li>Depending on your institution, custom gradebook statuses may display.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-no-status" data-step-uuid="8512ceb9-6093-4587-8c80-33e88251632f">
+    <h3 id="select-no-status" class="step-title screensteps-heading">Select No Status</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/245/433/original/22a752b9-b494-48dc-8b73-f08b38b83b45.png" srcset="" alt="Select No Status" height="266" width="312">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17e282df-4cdd-4449-bd46-633d7a584540" class="text-block-content">
+    <p>To select no status, click the <strong>None</strong> radio button.</p>
+<p>The None status indicates that no status exists, or that the assignment was turned in before the due date. </p>
+<p>When a grade is added to an assignment with a missing status, the missing label is automatically removed.  You can also update any late or missing assignment to have no status if you do not want a label displayed in the student's grades page.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-late-status" data-step-uuid="3ac6d790-c5a9-4d29-abf6-55aaa04a8f10">
+    <h3 id="select-late-status" class="step-title screensteps-heading">Select Late Status</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/245/425/original/ac14688c-3e61-465e-b60f-d64cdffd0713.png" srcset="" alt="Select Late Status" height="317" width="313">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b398d27a-47eb-44b7-820f-f8ca269edbce" class="text-block-content">
+    <p>To select a Late status, click the <strong>Late</strong> radio button. </p>
+<p>The Late status indicates an assignment that was submitted after the due date. You can enter a number of how many days late the student submitted the assignment. </p>
+<p><strong>Note: </strong>Currently, the Late field is for reference only and has no effect on the student's grade.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-missing-status" data-step-uuid="ab92d656-19f9-4bf1-a919-f37b734f226b">
+    <h3 id="select-missing-status" class="step-title screensteps-heading">Select Missing Status</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/245/429/original/e5685353-9379-4954-ac1a-80eb2268a3d0.png" srcset="" alt="Select Missing Status" height="264" width="312">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_505c39db-c2d7-4821-acb8-e23f43f1801b" class="text-block-content">
+    <p>To select a Missing status, click the <strong>Missing</strong> radio button. </p>
+<p>The Missing status indicates an online assignment that has not been submitted and is past the due date.</p>
+<p>When a missing label is manually applied, the missing label is removed by a new submission or manual removal. Entering a score does not remove a manually-applied missing label.</p>
+<p><strong>Note:</strong> When the Automatically apply grade for missing submissions setting is enabled, entering MI or mi in the assignment cell applies the missing status to an assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-excused-status" data-step-uuid="a43622e9-bc8a-4afb-9884-9c92b57b71c7">
+    <h3 id="select-excused-status" class="step-title screensteps-heading">Select Excused Status</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/245/435/original/b0db8d7b-2c04-42b8-adb0-f4b9a4e72792.png" srcset="" alt="Select Excused Status" height="264" width="312">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d35b732b-8061-4fbd-836d-ad785da0b18f" class="text-block-content">
+    <p>To select an Excused status, click the <strong>Excused</strong> radio button. </p>
+<p>The Excused status indicates that the student has been excused from making a submission. Students are not able to submit excused assignments, and excused assignments are not calculated in the student's total grade. You can also excuse an assignment by typing EX in the assignment cell. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-custom-status" data-step-uuid="1b838816-bbb0-4510-9647-160e8fb92e69">
+    <h3 id="select-custom-status" class="step-title screensteps-heading">Select Custom Status</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/875/434/original/910dcb5c-a2be-40e2-b9f7-9cdc68225636.png" srcset="" alt="Select Custom Status" height="373" width="312">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5f25b0a1-ba05-4038-b92d-582ee15264c7" class="text-block-content">
+    <p>Depending on your institution, you may be able to view and select a custom status. </p>
+<p>To select an custom status, click the custom status radio button. You cannot make changes to the custom statuses.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_excused_assignment" data-step-uuid="19C2EFB0-AAE2-0135-174E-06467EE270FA">
+    <h2 id="view_excused_assignment" class="step-title screensteps-heading">View Assignment Status in Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/245/427/original/c380492d-ffad-479f-be63-4cb7006bac2d.png" srcset="" alt="View Assignment Status in Gradebook" height="351" width="393">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_19C319C0-AAE2-0135-1750-06467EE270FA" class="text-block-content">
+    <p>Assignment cells in the Gradebook will display the color assigned to the corresponding status.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student-view-of-assignment-status" data-step-uuid="1df30952-7bec-49a5-93d5-50c59f5da9aa">
+    <h2 id="student-view-of-assignment-status" class="step-title screensteps-heading">Student View Assignment Status</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/138/218/original/5536dccb-50b5-4c25-b2a3-91f74c686381.png" srcset="" alt="Student View of Assignment Status" height="344" width="826">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_827a9301-80ec-42b6-9ddb-a75e726c15d7" class="text-block-content">
+    <p>The student grades page will display a label corresponding to the status setting in the Gradebook. Labels will display for late assignments [1] or missing assignments [2]. Excused assignments are noted by <em>EX</em> in the points column. Students who submit assignments that are marked <em>EX</em> can still see their scores when viewing their own grades. </p>
+<p>Assignments with no status (none) [4] do not display a label in the Status column of the student grades page.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

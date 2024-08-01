@@ -1,0 +1,158 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_b2d1c6b0-597f-4a9f-b6b4-419e28e8d54a" class="text-block-content">
+    <p>You can move outcomes and outcome groups from the account Outcomes page. When moving an outcome group, you move the group within another outcome group. When moving outcomes, you can move multiple outcomes at the same time.</p>
+<p>This lesson displays how to move outcomes and outcome groups in an account that has enabled the Improved Outcomes Management feature option. If the Outcomes page in your account displays differently than the images in this lesson, learn how to <a href="/t5/Admin-Guide/How-do-I-move-outcomes-and-outcome-groups-in-an-account/ta-p/191" target="_blank">move outcomes and outcome groups in the classic Outcomes page view.</a> </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>To move account outcomes and outcome groups into another account or course, you can <a href="/t5/Admin-Guide/How-do-I-view-reports-for-an-account/ta-p/109" target="_blank">run and download the Outcome Export account report</a> as a CSV file. Then, <a href="/t5/Instructor-Guide/How-do-I-import-outcomes-into-a-course-in-Improved-Outcomes/ta-p/486359" target="_blank">import the CSV file into a course</a> or into <a href="/t5/Admin-Guide/How-do-I-import-outcomes-for-an-account/ta-p/267" target="_blank">another account</a>. </li>
+<li>You can also <a href="/t5/Instructor-Guide/How-do-I-move-course-outcomes-and-outcome-groups-in-Improved/ta-p/486356" target="_blank">move course outcomes and outcome groups</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="c900ccc1-862f-4e7a-8848-dc548a3a9e77">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04d864f7-b7c1-4235-b9da-6d297dfd4aa9" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="84836c6b-e7bf-4fda-a522-2b6f5917c78e">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/832/788/original/cda2108d-b74e-42f3-821e-ad4d0eb5101c.png" srcset="" alt="Open Outcomes" height="282" width="160">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7774fe72-65b3-44c2-8331-f6bbf3eec2ef" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="move-outcome-group" data-step-uuid="d3a75269-8088-46a3-a977-a954a7aa3043">
+    <h2 id="move-outcome-group" class="step-title screensteps-heading">Move Outcome Group</h2>
+        <div class="step screensteps-section screensteps-depth-2" id="select-outcome-group" data-step-uuid="6556097c-5135-4bc9-8df0-4e1cb09e49f9">
+    <h3 id="select-outcome-group" class="step-title screensteps-heading">Select Outcome Group</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/736/124/original/57abd2e6-1c00-4eef-9d55-563c2d2b167e.png" srcset="" alt="Select Outcome Group" height="291" width="291">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1f2cfca2-977b-42e0-918e-ac833b5f5ac1" class="text-block-content">
+    <p>To move an outcome group, click the name of the group.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-move-window" data-step-uuid="a432fde0-c31c-49e9-901b-249f252fcd80">
+    <h3 id="open-move-window" class="step-title screensteps-heading">Open Move Window</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/736/126/original/5248ffec-df09-44e2-916d-389434afea39.png" srcset="" alt="Open Move Window" height="280" width="759">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b4ae5037-f955-408c-addc-dad893ce5016" class="text-block-content">
+    <p>Click the <strong>Options</strong> icon [1]. Then click the <strong>Move</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="move-outcome-group_1" data-step-uuid="7e4f76e9-e558-4766-9129-6ff7ba67f19b">
+    <h3 id="move-outcome-group_1" class="step-title screensteps-heading">Move Outcome Group</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/735/270/original/e37f3736-6f41-45ff-8649-94240de26fe4.png" srcset="" alt="Move Outcome Group" height="634" width="791">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_82141a8f-7310-4b9a-a639-5cd2e46ddccd" class="text-block-content">
+    <p>You can move the outcome group so it is organized within another outcome group.</p>
+<p>To select the outcome group where you want to move your outcome group, click the name of the group [1]. To <a href="/t5/Admin-Guide/How-do-I-create-outcome-groups-for-an-account-in-Improved/ta-p/486335" target="_blank">create a new outcome group</a> to move your existing outcome group, click the <strong>Create New Group</strong> link [2].</p>
+<p>If your outcome group is already organized within another outcome group, you can move your group to the account level by clicking the name of the account [3].</p>
+<p>To move your outcome group, click the <strong>Move</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="move-outcome" data-step-uuid="41334c67-7e92-48fd-9e1a-b26f8e5e2c2e">
+    <h2 id="move-outcome" class="step-title screensteps-heading">Move Outcome</h2>
+        <div class="step screensteps-section screensteps-depth-2" id="select_outcome" data-step-uuid="b4b14eca-d77d-4388-b976-2b80236806be">
+    <h3 id="select_outcome" class="step-title screensteps-heading">Select Outcome</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/736/128/original/3d80c6c7-7f2b-468f-ab84-f8d962978991.png" srcset="" alt="Select Outcome" height="378" width="806">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f421622d-788c-4cbe-bcac-c2079c3b7fdf" class="text-block-content">
+    <p>To move an outcome, click the outcome group where the outcome belongs [1]. Then find the outcome you want to move [2].</p>
+<p>Click the <strong>Options</strong> icon for the outcome [3]. Then click the <strong>Move</strong> link [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="move_outcome_or_outcome_group" data-step-uuid="d0dd4583-5947-4254-82b4-49533c25e35f">
+    <h3 id="move_outcome_or_outcome_group" class="step-title screensteps-heading">Move Outcome or Outcome Group</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/736/130/original/b34b7333-5180-4220-8ecb-0e6eab22c6a0.png" srcset="" alt="Move Outcome or Outcome Group" height="596" width="787">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e3e85660-3130-402f-874e-4948340e63e3" class="text-block-content">
+    <p>To move multiple outcomes, click the checkboxes next to the outcomes you want to move [1]. </p>
+<p>The Outcomes page displays the number of outcomes you have selected. To view the names of the selected outcomes, click the <strong># Outcomes Selected</strong> link [2]. You can select outcomes from multiple outcome groups without losing previously  selected outcomes.</p>
+<p>To move your selected outcomes, click the <strong>Move</strong> button [3].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/735/276/original/8b778cbc-1f54-4da6-afc6-a1fa8c121d20.png" srcset="" alt="Choose Where to Move Outcome or Outcome Group" height="634" width="787">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d0341172-05b6-4a28-8fde-02e3a37cbd3d" class="text-block-content">
+    <p>You can move outcomes so they are organized within an outcome group.</p>
+<p>To select the outcome group where you want to move your outcome(s), click the name of the group [1]. To <a href="/t5/Admin-Guide/How-do-I-create-outcome-groups-for-an-account-in-Improved/ta-p/486335" target="_blank">create a new outcome group</a> to move your existing outcome group, click the <strong>Create New Group</strong> link [2].</p>
+<p>If your outcomes are already organized within an outcome group, you can move outcomes to the account level by clicking the name of the account [3].</p>
+<p>To move your outcome(s), click the <strong>Move</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

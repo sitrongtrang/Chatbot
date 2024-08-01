@@ -1,0 +1,18 @@
+How do I configure SSO settings for my authentication provider as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Authentication
+In Account Navigation, click the Authentication link.
+Configure SSO Settings
+In the SSO Settings section, enter details for the appropriate fields. 
+In the Login Label field, you can enter a label that displays in the login page and that students use to enter their unique identifier. If no label is set, the login field defaults to Email. You can enter labels such as username, student ID, etc.
+In the Forgot Password URL field, you can enter the URL for your institution's forgot password page. Leave this field blank if you want users to view the default Canvas password reset page.
+In the Discovery URL field, you can enter a URL for an authentication page, if any. If no page is set, users are sent to the first authentication provider in the authentication provider list. 
+Set Third-Party Unknown User URL
+When using a third-party authentication provider, you can also enter a URL that redirects users if an authenticated user is not found in Canvas.
+Save SSO Settings
+Click the Save button.
+Set Provider Positions
+When you have more than one authentication provider in your account, Canvas authentication defaults to the first position and is the default configuration for the Discovery URL.
+To change the position of your authentication providers, locate the provider and click the position menu. Choose the placement number for the new position. Then click the Savebutton.
+Note: Canvas authentication can only be deleted from the authentication page if another third party authentication provider has been enabled. If the only existing authentication provider is deleted, Canvas authentication will be restored as the default provider.

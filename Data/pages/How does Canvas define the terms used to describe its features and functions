@@ -1,0 +1,786 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_72A90450-18A7-0135-41ED-22000AB760A3" class="text-block-content">
+    <p>New Canvas users may encounter new terminology throughout Canvas. This lesson is a glossary that identifies the most common terms used in Canvas. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="account" data-step-uuid="1938ed15-5600-4cc2-9676-50524e78c899">
+    <h2 id="account" class="step-title screensteps-heading">Account</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72A92E80-18A7-0135-41EE-22000AB760A3" class="text-block-content">
+    <p>An Account represents an administrative organization unit within Canvas. Every instance of Canvas has the potential to contain a hierarchy of accounts but begins with just one account (referred to as the root account). An account can also contain a subaccount. Canvas admins can manage all accounts and subaccounts for their institutions.</p>
+<p>Account also refers to a user account, which houses a user's profile, notifications, files, settings, and ePortfolios.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="masquerade" data-step-uuid="eb472825-e847-48fa-b05f-4d474617fe30">
+    <h2 id="masquerade" class="step-title screensteps-heading">Act as User</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AC55D0-18A7-0135-420B-22000AB760A3" class="text-block-content">
+    <p>Act as User refers to viewing Canvas as another user. Unless granted specific permission, only admins can act as other Canvas users.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="activity-stream" data-step-uuid="BF3FAD64-C8A7-4EB9-A9A9-4E6F4DB72D27">
+    <h2 id="activity-stream" class="step-title screensteps-heading">Activity Stream</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72A94A50-18A7-0135-41EF-22000AB760A3" class="text-block-content">
+    <p>An Activity Stream displays all recent activity in Canvas. There are two types of Activity Streams in Canvas: Global and Course. The Global Activity Stream is part of the Dashboard and shows recent activity for all courses. The Course Activity Stream is part of a Course Home Page and shows recent activity for a specific course. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="analytics" data-step-uuid="ca37e219-7c9b-47cb-8a2b-7a0a04ded811">
+    <h2 id="analytics" class="step-title screensteps-heading">Analytics</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b24afafb-f76b-4afc-8b85-7354bfb5fe55" class="text-block-content">
+    <p>Analytics is a tool that can be used to evaluate individual components of a course as well as student performance. Canvas currently offers two options for Analytics: Classic Analytics and New Analytics.</p>
+<p>Learn more about <a href="/t5/Canvas-Basics-Guide/What-is-New-Analytics/ta-p/73" target="_blank">New Analytics</a> and <a href="/t5/Canvas-Basics-Guide/What-are-Analytics/ta-p/88" target="_blank">Classic Analytics</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="announcements" data-step-uuid="990E8DF7-66FD-484B-97AA-ACA1CDDA7032">
+    <h2 id="announcements" class="step-title screensteps-heading">Announcements</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72A96520-18A7-0135-41F0-22000AB760A3" class="text-block-content">
+    <p>Announcements is a communication tool that allows instructors to post announcements for all users in a course. Announcements can be created in courses and groups. Canvas admins can also make announcements for an entire Canvas account. Instructors can allow students to reply to announcements. </p>
+<p><a href="/t5/Canvas-Basics-Guide/What-are-Announcements/ta-p/39" target="_blank">Learn more about Announcements.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assignments" data-step-uuid="03EC31C9-9E23-48D7-A564-D51CFA8B31A1">
+    <h2 id="assignments" class="step-title screensteps-heading">Assignments</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72A982A0-18A7-0135-41F1-22000AB760A3" class="text-block-content">
+    <p>An assignment is any activity assessment that is created by the instructor. Assignments can include Assignments, Discussions, and Quizzes. Some assignments are submitted for no grade. Other assignments may be submitted offline but tracked in the Canvas Gradebook or be submitted online. </p>
+<p>Assignments is a link in Course Navigation. The Assignments page lists all assignment types in a course.</p>
+<p><a href="/t5/Canvas-Basics-Guide/What-are-Assignments/ta-p/9" target="_blank">Learn more about Assignments.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="beta" data-step-uuid="5c531cc1-d12a-4d05-bac6-7d59b93efd74">
+    <h2 id="beta" class="step-title screensteps-heading">Beta</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72A99BC0-18A7-0135-41F2-22000AB760A3" class="text-block-content">
+    <p>Beta means a version of a product that is used for testing. Each Canvas account has a beta environment to use for exploring new features before they are released in the production environment. Canvas does not require customers to test products but feedback is always welcome.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="blueprint-course" data-step-uuid="fe149a63-24dd-45a4-bc24-e05c1f4a890c">
+    <h2 id="blueprint-course" class="step-title screensteps-heading">Blueprint Course</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99e066e5-1073-4c80-8b2f-1dd538accb47" class="text-block-content">
+    <p>A Blueprint Course is a course that serves as a template for other courses. A course is set as a Blueprint Course in Course Settings. Courses that are linked to the Blueprint Course are called associated courses. When a Blueprint Course is synced, Blueprint Course content is copied to associated courses to match the Blueprint Course content. A Blueprint Course can include admin and instructor enrollments but not student enrollments. A course can only be associated with one Blueprint Course at a time.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="breadcrumbs" data-step-uuid="C1461B6C-FBF1-47F9-A681-310878ADC349">
+    <h2 id="breadcrumbs" class="step-title screensteps-heading">Breadcrumbs</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72A9B960-18A7-0135-41F3-22000AB760A3" class="text-block-content">
+    <p>Breadcrumbs are the trail at the top of a page window that helps users see what page they are viewing in the course hierarchy.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="calendar" data-step-uuid="E3B10886-33FE-40A5-9AD6-049DB74B59C3">
+    <h2 id="calendar" class="step-title screensteps-heading">Calendar</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72A9D470-18A7-0135-41F4-22000AB760A3" class="text-block-content">
+    <p>The Calendar is a communication tool that shows users all events and assignments in their courses and groups. </p>
+<p>The Calendar is a link in Global Navigation. <a href="/t5/Canvas-Basics-Guide/What-is-the-Calendar/ta-p/76" target="_blank">Learn more about the Calendar.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas-community" data-step-uuid="61fe2eee-71bb-459b-ac6d-ba6a528aefe6">
+    <h2 id="canvas-community" class="step-title screensteps-heading">Canvas Community </h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72A9F0E0-18A7-0135-41F5-22000AB760A3" class="text-block-content">
+    <p>The Canvas Community is an external resource provided by Canvas for all Canvas customers. The Canvas Community includes the Canvas Guides, which provides all Canvas documentation and videos, idea conversations, community groups, and more. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="celebrations" data-step-uuid="ace8a80b-8592-4826-bfa9-b5edf5220ad5">
+    <h2 id="celebrations" class="step-title screensteps-heading">Celebrations</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42e98542-c192-4851-8285-027218253bc3" class="text-block-content">
+    <p>Celebrations are animations that display in the Canvas interface to congratulate a user for completing a task. Once they are enabled at the account level, celebration animations can be managed by individual users from the User Settings page.</p>
+<p>Students can view celebration animations in the assignment submissions page for on-time submissions. Instructors can view celebration animations when they run the link validator and no invalid links are found.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="chat" data-step-uuid="E8182847-8E47-4BD8-AF04-EB0BCD70398F">
+    <h2 id="chat" class="step-title screensteps-heading">Chat</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AA0AF0-18A7-0135-41F6-22000AB760A3" class="text-block-content">
+    <p>The Chat tool provides synchronous video, audio, and text communication between students enrolled in a course. </p>
+<p>When added to a course, Chat is a link in Course Navigation. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="collaborations" data-step-uuid="ADBEF65D-8D2D-40C6-A6E1-3D88C0702CF4">
+    <h2 id="collaborations" class="step-title screensteps-heading">Collaborations</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AA25B0-18A7-0135-41F7-22000AB760A3" class="text-block-content">
+    <p>Collaborations is a tool that allows students and instructors to create and edit documents that can be edited by the entire course or any subset of the course roster.</p>
+<p>Collaborations is a link in Course Navigation.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="conferences" data-step-uuid="B4E34DE9-469C-47D1-8B04-F20569A71F76">
+    <h2 id="conferences" class="step-title screensteps-heading">Conferences</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AA41C0-18A7-0135-41F8-22000AB760A3" class="text-block-content">
+    <p>Conferences allow instructors to create virtual classrooms and interact with their students in real time using audio, video, desktop sharing, and presentation tools. Students can also create conferences in groups. </p>
+<p>Conferences is a link in Course Navigation. <a href="/t5/Canvas-Basics-Guide/What-are-Conferences/ta-p/53" target="_blank">Learn more about Conferences.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course-code" data-step-uuid="fd8a1404-f147-4aac-a766-f2f47a954184">
+    <h2 id="course-code" class="step-title screensteps-heading">Course Code</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d31e1563-6574-4bce-b059-a0592a44a059" class="text-block-content">
+    <p>The course code is a short name for a course. The course code is displayed at the top of the Course Navigation Menu and as part of course cards in the dashboard.</p>
+<p>The course code is also known as the reference code or the short name.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="courses" data-step-uuid="babf02a2-18c2-4844-94a4-0052131020f2">
+    <h2 id="courses" class="step-title screensteps-heading">Courses</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AA79E0-18A7-0135-41FA-22000AB760A3" class="text-block-content">
+    <p>Courses are units of instruction in one subject that typically last one term. Courses can be created by Canvas admins or instructors.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course-home-page" data-step-uuid="42EC5F0C-C1BC-40C4-963E-EF22FC457EE9">
+    <h2 id="course-home-page" class="step-title screensteps-heading">Course Home Page</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AA9490-18A7-0135-41FB-22000AB760A3" class="text-block-content">
+    <p>The Course Home Page is the first page that students see in a course. The Course Home Page can be customized to display content based on an instructor's preference.</p>
+<p>The Home Page is a link in Course Navigation. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course-import-tool" data-step-uuid="365F60B3-005A-4887-AA63-947335EE85F8">
+    <h2 id="course-import-tool" class="step-title screensteps-heading">Course Import Tool</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AAB200-18A7-0135-41FC-22000AB760A3" class="text-block-content">
+    <p>The Course Import Tool allows content to be imported from existing Canvas courses and content packages from other LMS and textbook publishers. The Course Import Tool is located in Course Settings. </p>
+<p><a href="/t5/Canvas-Basics-Guide/What-is-the-Course-Import-Tool/ta-p/21" target="_blank">Learn more about the Course Import Tool.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course-navigation" data-step-uuid="92C3E6E9-4BF4-448D-8B92-1245696051D8">
+    <h2 id="course-navigation" class="step-title screensteps-heading">Course Navigation</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AAD1A0-18A7-0135-41FD-22000AB760A3" class="text-block-content">
+    <p>Course Navigation is a menu on the left side of a Canvas course. Course Navigation consists of navigation links directed to all the feature areas within a course. Instructors can customize Course Navigation for each course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course-setup-checklist" data-step-uuid="7CC4D6B8-D29E-4405-83CC-9AB07ACE39C0">
+    <h2 id="course-setup-checklist" class="step-title screensteps-heading">Course Setup Checklist</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AAE9D0-18A7-0135-41FE-22000AB760A3" class="text-block-content">
+    <p>The Course Setup Checklist is a tool for instructors who are new to Canvas and need help setting up a Canvas course. The Course Setup Checklist is located on the Course Home Page.</p>
+<p>Some accounts may be configured to use the New User Tutorial instead of the Course Setup Checklist.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course-statistics" data-step-uuid="CE04DDAD-4A0B-4A2F-86E8-9F3CB3FF9006">
+    <h2 id="course-statistics" class="step-title screensteps-heading">Course Statistics</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AB0230-18A7-0135-41FF-22000AB760A3" class="text-block-content">
+    <p>Course Statistics are an instructor tool that summarizes overall student participation in the course. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course-status" data-step-uuid="F6A30B60-11EF-412D-B8B8-BE8E3C850550">
+    <h2 id="course-status" class="step-title screensteps-heading">Course Status</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AB1E20-18A7-0135-4200-22000AB760A3" class="text-block-content">
+    <p>Course Status refers to the state of a Canvas course. All new Canvas courses begin in an unpublished state, where admins can manage course enrollments and instructors can prepare content and assignments for students. A published state means the course is available to students. A concluded state means the course has ended and users can access content in a read-only format.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="csv-file" data-step-uuid="2c1012f2-9cbb-4a54-b295-c086e69d8fc8">
+    <h2 id="csv-file" class="step-title screensteps-heading">CSV File</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AB3A90-18A7-0135-4201-22000AB760A3" class="text-block-content">
+    <p>A comma separated value (CSV) file is a file type designed for importing and exporting content. Instructors can create a CSV file from Excel or Google Docs.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="dashboard" data-step-uuid="1A4B3951-E95A-415C-8E0B-032724C56100">
+    <h2 id="dashboard" class="step-title screensteps-heading">Dashboard</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AB56E0-18A7-0135-4202-22000AB760A3" class="text-block-content">
+    <p>The Dashboard is a panel of content that acts as the Canvas default landing page and provides an overview of all Canvas activity for a user. The Dashboard shows all courses and groups, recent activity, to-do items, upcoming assignments, and recent feedback.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="direct-share" data-step-uuid="7a268088-a4fa-4cd2-bee2-02212837ddd8">
+    <h2 id="direct-share" class="step-title screensteps-heading">Direct Share</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c44fe136-ca70-4204-a4ad-a28e450cafa5" class="text-block-content">
+    <p>Direct Share is a Canvas feature that allows instructors<strong> </strong>to copy content to another course or share content with another user. Direct Share can be used in Assignments, Discussions, Modules, Pages, Quizzes, and New Quizzes.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="discussions" data-step-uuid="d5a93610-a006-4015-ab30-e2f992ccb345">
+    <h2 id="discussions" class="step-title screensteps-heading">Discussions</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AB7400-18A7-0135-4203-22000AB760A3" class="text-block-content">
+    <p>Discussions is a forum designed to facilitiate informal communication between students in a course. Discussions can also be created as assignments for grading purposes. Students can also respond to informal and graded discussions in the context of a group. All Discussions content is public, and all course students can view and reply to a discussion. </p>
+<p>Discussions is a link in Course Navigation. <a href="/t5/Canvas-Basics-Guide/What-are-Discussions/ta-p/3" target="_blank">Learn more about Discussions.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="docviewer" data-step-uuid="bf9a9be1-f7a1-4d40-8999-885c0b3e76bf">
+    <h2 id="docviewer" class="step-title screensteps-heading">DocViewer</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ff5a5b6b-1361-4853-af78-e2670803e414" class="text-block-content">
+    <p>Canvas DocViewer is a document preview tool that displays file previews for supported file types. Some file types may need to be downloaded for viewing if they cannot be previewed through DocViewer.</p>
+<p>DocViewer also allows annotations in online assignment submissions in Canvas. This tool can be used by both students and instructors. Students can access DocViewer for annotations and comments in the assignment details page, and instructors can access DocViewer in SpeedGrader. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="eportfolios" data-step-uuid="2D0CF950-165C-445C-A4F7-82050B9AF0C6">
+    <h2 id="eportfolios" class="step-title screensteps-heading">ePortfolios</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AB8C40-18A7-0135-4204-22000AB760A3" class="text-block-content">
+    <p>ePortfolios allow students to showcase their best work to colleagues and prospective employers. They also make it possible for students to create light-weight websites or presentations.</p>
+<p>ePortfolios is a link in User Navigation. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="equations" data-step-uuid="787fcaf4-cf1a-4c6e-9b2f-4e4ed92375d5">
+    <h2 id="equations" class="step-title screensteps-heading">Equations</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_82716c01-41a7-471a-8f29-d26f815f0b46" class="text-block-content">
+    <p>Equations are an expression of mathematical functions that can be entered and viewed in various areas of the Canvas interface. Equations can be added using the <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-the-Math-Editor-in-the-New-Rich-Content-Editor-as/ta-p/816" target="_blank">Math Editor in the New Rich Content Editor</a> or <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-the-Rich-Content-Editor-in-New-Quizzes/ta-p/654" target="_blank">MathQuil in New Quizzes</a>. Equations are also accepted in other Canvas text fields, including assignment titles and calendar events.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="files" data-step-uuid="61EEDA83-18CE-4736-809E-08312977AB2D">
+    <h2 id="files" class="step-title screensteps-heading">Files</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ABA720-18A7-0135-4205-22000AB760A3" class="text-block-content">
+    <p>Canvas provides a file repository for each user, group, and course. Files can be public or private.</p>
+<p>Files is a link in User Navigation or Course Navigation. <a href="/t5/Canvas-Basics-Guide/What-are-Files/ta-p/7" target="_blank">Learn more about Files.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="free-for-teacher" data-step-uuid="d6f337f9-20cf-44bf-a606-16ccc7a15abc">
+    <h2 id="free-for-teacher" class="step-title screensteps-heading">Free for Teacher</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b9fef975-bfe7-4ec5-9725-0301864018f4" class="text-block-content">
+    <p>Free for Teacher is a free Canvas account that provides essential functionality of the learning management platform<strong>.</strong></p>
+<p><a href="https://community.canvaslms.com/t5/Contingency-Planning/Free-for-Teacher-Account-FAQ/m-p/394304#M4" target="_blank">Learn more about Free-for-Teacher accounts.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="global-navigation" data-step-uuid="0213CC0E-E783-4B4A-829C-3BBACB4C49C3">
+    <h2 id="global-navigation" class="step-title screensteps-heading">Global Navigation</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ABC050-18A7-0135-4206-22000AB760A3" class="text-block-content">
+    <p>Global Navigation is the menu that appears on every Canvas page. Global Navigation consists of navigation links that direct users to frequently-used features in Canvas. </p>
+<p>In the New Canvas User Interface (UI), Global Navigation is located on the left of every Canvas page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="gradebook" data-step-uuid="9956d79b-2f0b-47db-847a-fe6ccd6ea5e6">
+    <h2 id="gradebook" class="step-title screensteps-heading">Gradebook</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ABDC90-18A7-0135-4207-22000AB760A3" class="text-block-content">
+    <p>The Gradebook stores information about student progress in Canvas. Canvas includes two types of gradebooks: a standard gradebook that provides a collection of numerical or letter-grade assessments, and a Learning Mastery Gradebook that compiles assessments based on learning standards and outcomes. </p>
+<p>The Gradebook is a link in Course Navigation for instructors. <a href="/t5/Canvas-Basics-Guide/What-are-Grades-and-the-Gradebook/ta-p/49" target="_blank">Learn more about the Gradebook.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="grades" data-step-uuid="70733D79-A109-4309-85D1-11AF37508095">
+    <h2 id="grades" class="step-title screensteps-heading">Grades</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AC00F0-18A7-0135-4208-22000AB760A3" class="text-block-content">
+    <p>Grades are a measurement of student performance. Students can calculate hypothetical grades on this page. Instructors can quickly edit grades for any course or section in the Gradebook.</p>
+<p>Grades is a link in Course Navigation for students. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="groups" data-step-uuid="DB75FBEC-352B-4F35-809C-6A93A06380F6">
+    <h2 id="groups" class="step-title screensteps-heading">Groups</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AC1FC0-18A7-0135-4209-22000AB760A3" class="text-block-content">
+    <p>Groups is a tool that helps instructors separate students into smaller course units. Groups can be created for students or by students to enable efficient collaboration.</p>
+<p>Groups is a link in the Global Navigation Menu. <a href="/t5/Canvas-Basics-Guide/What-are-Groups/ta-p/16" target="_blank">Learn more about Groups.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="help" data-step-uuid="676AA786-7376-4DC0-9DFA-D4ED0899ADBA">
+    <h2 id="help" class="step-title screensteps-heading">Help</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AC3BD0-18A7-0135-420A-22000AB760A3" class="text-block-content">
+    <p>The Help feature is part of Global Navigation and helps users get help in Canvas at any time. The Help link can be customized by a Canvas admin for the institution and may display as a different name.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="conversations" data-step-uuid="3D86B6EC-9ED3-4813-A563-E82A4FB92E07">
+    <h2 id="conversations" class="step-title screensteps-heading">Inbox</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AA5D40-18A7-0135-41F9-22000AB760A3" class="text-block-content">
+    <p>The Inbox is a messaging tool used in Canvas to communicate with a course, a group, an individual student, or a group of students. Messages created in the Inbox can be sent to one user or multiple users.</p>
+<p>Inbox is a link in Course Navigation. <a href="/t5/Canvas-Basics-Guide/What-is-the-Inbox/ta-p/55" target="_blank">Learn more about the Inbox.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="learning-mastery" data-step-uuid="1be9faca-577b-467b-a1a9-2499a202c953">
+    <h2 id="learning-mastery" class="step-title screensteps-heading">Learning Mastery</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_448d0b1a-ee74-4feb-a936-be250c647ed7" class="text-block-content">
+    <p>Learning Mastery maintains that students must achieve a level of mastery (e.g. 90% on a knowledge test) in prerequisite knowledge before moving forward to learn subsequent information. Learning mastery is commonly measured through outcomes.</p>
+<p>The Learning Mastery Gradebook helps instructors and admins assess the outcome standards being used in Canvas courses. This gradebook helps institutions measure student learning for accreditation and better assess the needs of their students. Individual student scores within each outcome are based on outcome values.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="masterypaths" data-step-uuid="d6b12c4b-7489-40c3-b755-48d0ca8cc395">
+    <h2 id="masterypaths" class="step-title screensteps-heading">MasteryPaths</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a50e074a-0c5d-4c85-994d-84f7c6e2106a" class="text-block-content">
+    <p>MasteryPaths is a feature enabled through Modules that supports learning mastery. If students do not achieve mastery for an assignment, they are given additional support in learning and reviewing the information, then tested again. This cycle will continue until learners accomplishes mastery and may move to the next stage.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="math-editor" data-step-uuid="48EC73C3-5BB1-4D4A-A9EC-2EEA6A5B4F98">
+    <h2 id="math-editor" class="step-title screensteps-heading">Math Editor</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AC70A0-18A7-0135-420C-22000AB760A3" class="text-block-content">
+    <p>The Math Editor is a Latex-compatible toolbar in the Rich Content Editor that makes it easy for instructors to write math expressions and equations. Instructors and students can use the Math Editor when creating and taking quizzes.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="moderated-grading" data-step-uuid="72fbf71c-ff29-4ea8-bda6-1e19567ff650">
+    <h2 id="moderated-grading" class="step-title screensteps-heading">Moderated Grading</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f29cf53d-c507-448e-9011-61d54099e159" class="text-block-content">
+    <p>Moderated Grading allows multiple reviewers to grade student submissions and create draft or provisional grades. For instance, an instructor may want two TAs to grade all assignments before the instructor determines the final grade.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modules" data-step-uuid="E3AF6A74-C654-48F1-8C51-1F3C264A1B54">
+    <h2 id="modules" class="step-title screensteps-heading">Modules</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AC8C50-18A7-0135-420D-22000AB760A3" class="text-block-content">
+    <p>Modules is a tool that can unify all course content into structural components. Module content can be grouped by week, topic, or day. Modules can be set up to require students to complete materials in a sequential fashion.</p>
+<p>Modules is a link in Course Navigation. <a href="/t5/Canvas-Basics-Guide/What-are-Modules/ta-p/6" target="_blank">Learn more about Modules.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="notifications" data-step-uuid="F7669A9D-A0BF-41D3-AD2F-1C74EB1614B0">
+    <h2 id="notifications" class="step-title screensteps-heading">New User Tutorial</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ACA5E0-18A7-0135-420E-22000AB760A3" class="text-block-content">
+    <p>The New User Tutorial shows new instructors using Canvas for the first time how to become familiar with Canvas using sidebars built into each Canvas feature area. </p>
+<p>Some accounts may be configured to use the Course Setup Checklist instead of the New User Tutorial.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="notifications_1" data-step-uuid="c9e06cf8-2c5d-489c-adc4-338c230ba11c">
+    <h2 id="notifications_1" class="step-title screensteps-heading">Notifications</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_132314b5-a729-4b7a-92e7-25b25c21bbe2" class="text-block-content">
+    <p>Notifications allow users to determine where and when they will be notified about activity in Canvas. Each Canvas user can adjust the Notification Settings in their Profile to contact them via email on a schedule that fits their individual needs. Some users will want to be notified of course events on a more regular basis than others. Notifications are set for an entire user's account, not on an individual course basis. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="outcomes" data-step-uuid="94173313-4A97-4A9A-A6B3-087CBCC42A8D">
+    <h2 id="outcomes" class="step-title screensteps-heading">Outcomes</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ACC330-18A7-0135-420F-22000AB760A3" class="text-block-content">
+    <p>Outcomes are statements that describe skills, understandings, and attitudes that learners will develop during a course or program. Instructors can specify learning outcomes for their courses and track student progress based on measured standards rather than letter grades.</p>
+<p>Outcomes is a link in Course Navigation. <a href="/t5/Canvas-Basics-Guide/What-are-Outcomes/ta-p/75" target="_blank">Learn more about Outcomes.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="pages" data-step-uuid="872E10DA-00FF-455A-97C1-1FE30CF6BA8D">
+    <h2 id="pages" class="step-title screensteps-heading">Pages</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ACDFA0-18A7-0135-4210-22000AB760A3" class="text-block-content">
+    <p>Pages comprises all pages created in a course. A page allows instructors to create content for a Canvas course. Students can also create and edit pages in Groups. </p>
+<p>Pages is a link in Course Navigation. <a href="/t5/Canvas-Basics-Guide/What-are-Pages/ta-p/5" target="_blank">Learn more about Pages</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="pages-front-page" data-step-uuid="ba4e8ca1-7fb6-4f5a-aeb9-4ff326aec974">
+    <h2 id="pages-front-page" class="step-title screensteps-heading">Pages Front Page</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0ee7bd9f-5dd8-42ea-a48f-dab40fc15e69" class="text-block-content">
+    <p>In Pages, instructors can select a page to display as the Front Page. A Front Page is the first page that displays when users navigate to Pages in Course Navigation. When set, a Front Page can also be used as the <a href="/t5/Instructor-Guide/How-do-I-change-the-Course-Home-Page/ta-p/1035" target="_blank">Course Home Page</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="pairing-codes" data-step-uuid="6370fdb4-6ed1-4e74-852c-617c9b689f61">
+    <h2 id="pairing-codes" class="step-title screensteps-heading">Pairing Codes</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11362618-a7d1-40fb-ac4e-92859c66be7e" class="text-block-content">
+    <p>Pairing codes are six-digit alphanumeric codes used to link an observer to a student. Students can generate pairing codes from <a href="https://community.canvaslms.com/t5/Student-Guide/How-do-I-generate-a-pairing-code-for-an-observer-as-a-student/ta-p/418" target="_blank">their User Settings page</a>, or instructors can generate them from a <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-generate-a-pairing-code-for-an-observer-as-an/ta-p/1217" target="_blank">student's User Details page</a>. Once the code is generated, observers can enter the pairing code to link to the student from <a href="https://community.canvaslms.com/t5/Observer-Guide/How-do-I-link-a-student-to-my-user-account-as-an-observer/ta-p/539" target="_blank">their User Settings page</a> or in the Canvas Parent app.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="people" data-step-uuid="083D0ABE-672B-4A62-A91D-2AAC1397F868">
+    <h2 id="people" class="step-title screensteps-heading">People</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ACFC40-18A7-0135-4211-22000AB760A3" class="text-block-content">
+    <p>People displays all users enrolled in a course. Instructors can click a student's name to view a summary of their activity in a course.</p>
+<p>People is a link in Course Navigation.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="posting-policies" data-step-uuid="471501c3-d11a-42c4-9c14-d7fd4529dd9a">
+    <h2 id="posting-policies" class="step-title screensteps-heading">Posting Policies</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c176a693-ef4c-4c07-a161-ca273e15de49" class="text-block-content">
+    <p>Posting policies is a setting in the Gradebook that designates whether newly-entered grades are visible or hidden to students by default. When grades are hidden, instructors can manually post grades at a later time. Policies can be set at the course level or assignment level.</p>
+<p><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-posting-policies-in-a-course/ta-p/928" target="_blank">Learn more about posting policies.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="production" data-step-uuid="cf3bd86f-ee13-492d-bb5d-111f0865ed44">
+    <h2 id="production" class="step-title screensteps-heading">Production</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AD1BF0-18A7-0135-4212-22000AB760A3" class="text-block-content">
+    <p>Production is the Canvas environment that contains all live data and where users interact with their Canvas courses. New and updated Canvas features are released into the production environment every three weeks. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="profile" data-step-uuid="B47BC1C9-0F83-4AE6-8AAC-3E0A88BCE6CF">
+    <h2 id="profile" class="step-title screensteps-heading">Profile</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AD3A20-18A7-0135-4213-22000AB760A3" class="text-block-content">
+    <p>A profile is a description that provides information about a person. Admins can choose to enable the Profile feature, which allows users to create biographies and link to social networks as part of their user account. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="quizzes" data-step-uuid="9D494183-037A-4422-91F9-F53F730ABB73">
+    <h2 id="quizzes" class="step-title screensteps-heading">Quizzes</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AD53D0-18A7-0135-4214-22000AB760A3" class="text-block-content">
+    <p>Quizzes displays all quiz assessment types in a course. Canvas currently offers to quiz engines, Classic Quizzes and New Quizzes. Classic Quizzes is the legacy quizzing tool which provides security from third-party tools, Speedgrader, or CSV exports for student response analysis. New Quizzes is an upgraded quizzing tool with an improved interface, additional question types, and advanced features for moderation and accommodation.</p>
+<p>Quizzes is a link in Course Navigation. Learn more about <a href="/t5/Canvas-Basics-Guide/What-is-New-Quizzes/ta-p/17" target="_blank">New Quizzes</a> and <a href="/t5/Canvas-Basics-Guide/What-are-Quizzes/ta-p/68" target="_blank">Classic Quizzes</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="rich-content-editor" data-step-uuid="3DA1BAC8-44DB-43D2-B159-C2A7676389D9">
+    <h2 id="rich-content-editor" class="step-title screensteps-heading">Rich Content Editor</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AD6F60-18A7-0135-4215-22000AB760A3" class="text-block-content">
+    <p>The Rich Content Editor (RCE) is a word processor that supports creation and formatting of content in Announcements, Assignments, Discussions, Pages, Syllabus, Quizzes.</p>
+<p>Learn more about the <a href="/t5/Canvas-Basics-Guide/What-is-the-Rich-Content-Editor/ta-p/12" target="_blank">Rich Content Editor.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="role" data-step-uuid="83a0c9ab-629e-41a6-8373-1c5bbd1ea623">
+    <h2 id="role" class="step-title screensteps-heading">Role</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f6329631-b936-4f74-abd2-34e9a411e518" class="text-block-content">
+    <p>A role describes the permissions granted to a given user in a given context (course, account, and subaccount). Canvas includes both course-level and account-level roles; the base role types are Student, Teacher Assistant (TA), Teacher, Designer, Observer, and Admin. (In Canvas terminology, teachers are also referred to as instructors.) Customized versions of any of these roles can also be created by an admin.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="rss-feed" data-step-uuid="0977cdcd-d576-4d29-976c-e42fb9ef0b61">
+    <h2 id="rss-feed" class="step-title screensteps-heading">RSS Feed</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AD8920-18A7-0135-4216-22000AB760A3" class="text-block-content">
+    <p>Really Simple Syndicate (RSS) is a computer document format that allows electronic content distribution. Audio RSS feeds are also referred to as podcasts. RSS Feeds can be imported into a Canvas course via Announcements.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="rubrics" data-step-uuid="4BBEB157-141F-4C43-BAB1-C2E3154763BD">
+    <h2 id="rubrics" class="step-title screensteps-heading">Rubrics</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ADA2B0-18A7-0135-4217-22000AB760A3" class="text-block-content">
+    <p>A Rubric is an assessment tool for communicating expectations of quality. Rubrics are typically comprised of rows and columns. Rows are used to define the various criteria being used to assess an assignment. Columns are used to define levels of performance for each criterion.</p>
+<p><a href="/t5/Canvas-Basics-Guide/What-are-Rubrics/ta-p/35" target="_blank">Learn more about Rubrics.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sandbox" data-step-uuid="a461e816-8b11-498f-9027-4f86fd3d797f">
+    <h2 id="sandbox" class="step-title screensteps-heading">Sandbox</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d61057b2-b0dd-4295-8b24-29b5543051d5" class="text-block-content">
+    <p>A Canvas sandbox is a course without student enrollments where instructors can create, modify, and preview course content and structure without student interference. They can then share or import sandbox content into live courses. Instructors may be able to <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-start-a-new-course-from-the-Dashboard-as-an-instructor/ta-p/794" target="_blank">start a new course as a sandbox course</a> from their Canvas dashboard. </p>
+<p>A Canvas sandbox may also refer to an institution's beta environment where admins and instructors can enable and use upcoming Canvas features. Admins may use the <a href="https://community.canvaslms.com/t5/Admin-Guide/How-do-I-access-the-Canvas-beta-environment-as-an-admin/ta-p/111" target="_blank">Canvas beta environment</a> to review how feature options impact users and courses in their account. Instructors may use the <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-access-the-Canvas-beta-environment-as-an-instructor/ta-p/727" target="_blank">Canvas beta environment</a> to test features and build course content.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="scheduler" data-step-uuid="7dbfb1c0-3551-40ac-ae1d-b2fa9a58ad61">
+    <h2 id="scheduler" class="step-title screensteps-heading">Scheduler</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7174a7e4-21fd-4b4d-92bd-bebd7c877bbd" class="text-block-content">
+    <p>Scheduler is a Calendar tool that creates appointment groups within a course or group.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sections" data-step-uuid="93721598-d3db-4419-9f74-8804bc3b3e83">
+    <h2 id="sections" class="step-title screensteps-heading">Sections</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ADC1A0-18A7-0135-4218-22000AB760A3" class="text-block-content">
+    <p>Sections are divisions of students within a course. All course sections view the same course content.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="settings" data-step-uuid="C942917F-1741-4E2F-908F-605D2E3226D0">
+    <h2 id="settings" class="step-title screensteps-heading">Settings</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ADE1E0-18A7-0135-4219-22000AB760A3" class="text-block-content">
+    <p>Settings allow admins and instructors to customize the Account or Course Navigation, add users, import content, and link to external tools.   </p>
+<p>Settings is a link in Account and Course Navigation. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sis-id" data-step-uuid="0c2eca60-5f1e-4f46-b6c7-ef4d55b127a3">
+    <h2 id="sis-id" class="step-title screensteps-heading">SIS ID</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ffd07e52-c31d-48ff-90c1-fd3beb5f8afe" class="text-block-content">
+    <p>A SIS ID is a unique identifier for an object in Canvas. SIS IDs can be assigned to accounts, courses, terms, sections, users, and groups for a student information system.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sis-imports" data-step-uuid="0b04aa53-9638-4ebe-92fc-74bf85b9b2cd">
+    <h2 id="sis-imports" class="step-title screensteps-heading">SIS Imports</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72ADFC30-18A7-0135-421A-22000AB760A3" class="text-block-content">
+    <p>SIS Imports allows admins to upload and integrate data from various Student Information Systems (SIS), complex databases, and even simple spreadsheets. Imports can be done manually via the SIS Imports link in Account Navigation or automatically via the API.</p>
+<p>These integrations also allow institutions to post grades from the Canvas Gradebook into the institution's SIS.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="speedgrader" data-step-uuid="6669C2BE-B099-44CB-85FA-D1B639DE0C7B">
+    <h2 id="speedgrader" class="step-title screensteps-heading">SpeedGrader</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AE18A0-18A7-0135-421B-22000AB760A3" class="text-block-content">
+    <p>SpeedGrader is a grading tool that helps instructors evaluate student work. Instructors can use rubrics for fast assessment and leave text, video, and audio comments for their students. SpeedGrader is also available as a Canvas mobile app on iOS and Android devices.</p>
+<p><a href="/t5/Canvas-Basics-Guide/What-is-SpeedGrader/ta-p/13" target="_blank">Learn more about SpeedGrader.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student-view" data-step-uuid="2a1ded8e-6a7c-434a-b7ff-feda22066c46">
+    <h2 id="student-view" class="step-title screensteps-heading">Student View</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AE3100-18A7-0135-421C-22000AB760A3" class="text-block-content">
+    <p>Student View is a tool used by instructors to see how their course appears to students. Activating Student View generates a Test Student that appears in a canvas course and can be used to submit assignments, reply to discussions, and upload files as a test method in the course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="service-cloud" data-step-uuid="EEAFD68D-BF16-4322-9589-CCD3DDCDBDBB">
+    <h2 id="service-cloud" class="step-title screensteps-heading">Service Cloud</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AE4C90-18A7-0135-421D-22000AB760A3" class="text-block-content">
+    <p>Service Cloud is the Canvas Support system. A support case is a formal request from a Canvas admin to receive help or direction from Canvas Support. Support Cases can be accessed by institutions using Service Cloud. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="syllabus" data-step-uuid="1D70397E-B412-4072-8086-F194B44B24E8">
+    <h2 id="syllabus" class="step-title screensteps-heading">Syllabus</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AE67D0-18A7-0135-421E-22000AB760A3" class="text-block-content">
+    <p>The Syllabus is a piece of content that outlines activities in a course. </p>
+<p>The Syllabus is a link in Course Navigation.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="term" data-step-uuid="36d175d6-4fff-4d9a-901c-b1b016c59b56">
+    <h2 id="term" class="step-title screensteps-heading">Term</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AE81E0-18A7-0135-421F-22000AB760A3" class="text-block-content">
+    <p>A term is a period of time assigned to academic instruction. In Canvas, course dates generally align with term dates, though course dates can extend beyond or be shorter than default term dates.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="test" data-step-uuid="f8b54b66-fac8-4876-bd45-f71cf084fe68">
+    <h2 id="test" class="step-title screensteps-heading">Test</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AE9C00-18A7-0135-4220-22000AB760A3" class="text-block-content">
+    <p>Test is the environment used for testing real data in Canvas without affecting the production environment. The test environment is overwritten with data from the production environment every third Saturday of the month.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="web-services" data-step-uuid="3D9DDA1A-7A1F-48B1-9307-A48E4F3E522C">
+    <h2 id="web-services" class="step-title screensteps-heading">Web Services</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72AEB300-18A7-0135-4221-22000AB760A3" class="text-block-content">
+    <p>Web Services are a collection of third-party services that users can use for notifications. Web Services currently support integrations with Google Drive, Skype, Twitter, Delicious, and Diigo.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="welcome-tour" data-step-uuid="8cbe90eb-ee34-4310-abae-f3ffeed3e109">
+    <h2 id="welcome-tour" class="step-title screensteps-heading">Welcome Tour</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_07f3c03d-298e-45ab-8023-acbc69771b6f" class="text-block-content">
+    <p>The Welcome tour is a series of tutorials that display in the Canvas interface for new users and provide an overview of Canvas functionality for students, instructors, and administrators.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

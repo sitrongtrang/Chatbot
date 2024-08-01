@@ -1,0 +1,60 @@
+What is the difference between assignment due dates and availability dates
+View Due Date
+The due date is the date and time when the assignment is due. Student assignments submitted after the due date will be marked as late in the Gradebook. Due Dates are not required in Canvas, but they are helpful in managing course workflow and deadlines.
+You can also set a specific time as part of the due date. When you change a due time on an assignment, the seconds value defaults to 0 unless the minutes value is set to 59, in which case, the seconds are also set to 59. For example, if you set a due date of September 19 at 4:15 pm, any student submission made at or after September 19 at 4:15:01 is marked late.
+If a date does not include a time, the listed date defaults to the course’s default due time.
+View Availability Dates
+If you want to create a date range for students to view and submit an assignment, you can set availability dates. Availability dates can also be called lock dates.
+Available From:the date and time when the Assignments will become available to students. If a due date does not include a time, the listed date defaults to the course's default due time. Students cannot view assignment content until after the Available from date has passed.
+Until:the date and time when students can no longer submit the assignment. If no time is set, this time defaults to 11:59 pm for the course time zone and the assignment will close at 12:00:00 am of the following day.
+When the assignment is published, blank availability date fields allow the assignment to be submitted at any time throughout the entire course. 
+View Assignment Details
+After you save the assignment, you can view the details for the assignment. If there is an assignment due date, the date displays under the Due heading. If there are availability dates, they display under the Available from and Until headings.
+You can also view details for all assignments on the Assignments Index Page.
+View Correct Answers in Quizzes
+In Quizzes, the Until date does not restrict student access to view the result of their quiz. For instance, you may not want students to view the results of their quiz after the Until date. To make this change, you need to edit the quiz options and restrict the quiz results.
+Working with Due and Availability Dates
+Due Dates and Availability Dates can be used together, depending on how you want to manage the assignment. Here are some common scenarios you can create with dates. All examples include a Due Date, though they are not required for assignments. 
+Create Open Assignment
+If you want to keep an assignment open throughout the entire course, do not set any availability dates. When no availability dates are set, the assignment can be submitted by all users until the course ends.
+For example, if you want students to be able to view and submit the assignment at any time but reward those who submit by a due date of September 19 at 11:59 pm, only set the Due Date.
+Canvas views and scores the assignment as follows:
+Canvas opens the assignment to all student submissions on the first day of the course (according to term date and course time zone)
+In the Gradebook, the assignment is marked on time if submitted by September 19 at 11:59 pm (according to course time zone)
+In the Gradebook, the assignment is marked late if submitted on or after September 20 at 12:00:00 am (according to course time zone)
+Canvas closes the assignment to all student submissions on the last day of the course (according to term date and course time zone) 
+Note: Due times set to 12am and 24:00 autocorrect to 11:59pm and 23:59.
+Limit Submission Available From Date
+If you want to keep students from viewing and submitting an assignment until a specific date, set an Available From date. Assignment content is not visible to students until after the Available from date and time passes. However, rubrics are visible to students regardless of availability dates.
+For example, if you set an assignment as due on September 19 at 11:59 pm, but you do not want students to submit the assignment until September 9 at 12 am, set the Available From date as September 9 at 12 am. 
+Canvas views and scores the assignment as follows:
+Canvas opens the assignment to all student submissions on September 9 at 12:00 am (according to course time zone)
+In the Gradebook, the assignment is on time if submitted by September 19 at 11:59 pm (according to course time zone)
+In the Gradebook, the assignment is marked late if submitted on or after September 20 at 12:00:00 am (according to course time zone)
+Canvas closes the assignment to all student submissions on the last day of the course (according to term date and course time zone) 
+Limit Submission Until Date
+If you want to allow students to submit an assignment until a specific date, set an Until date. The date you set depends on whether you want to accept late submissions. When the Until date has passed, students can still view or download their submissions and view any submission comments.
+No late submissions—Some instructors do not allow any late submissions by setting the Until Date as the Due Date. For example, If you want to allow students to view the assignment at any time with a due date of September 19 at 11:59 pm, but you do not want to accept any late submissions, also set the Until Date as September 19 at 11:59 pm. 
+Canvas views and scores the assignment as follows:
+Canvas opens the assignment to all student submissions on the first day of the course (according to term date and course time zone)
+In the Gradebook, the assignment is on time if submitted by September 19 at 11:59 pm (according to course time zone)
+Canvas closes the assignment to all student submissions on September 20 at 12:00 am (according to course time zone)
+Note: Due times set to 12am and 24:00 autocorrect to 11:59pm and 23:59.
+Allow late submissions—Some instructors allow late submissions within a specific period of time after the due date. For example, if you want to allow students to submit a late assignment up to three days after the due date, set the Until Date as September 22 at 11:59 pm. 
+Canvas views and scores the assignment as follows:
+Canvas opens the assignment to all student submissions on the first day of the course (according to term date and course time zone)
+In the Gradebook, the assignment is on time if submitted by September 19 at 11:59 pm (according to course time zone)
+ In the Gradebook, the assignment is marked late if submitted between September 20 at 12:00:00 am and September 22 at 11:59:59 pm (according to course time zone)
+Canvas closes the assignment to all student submissions on September 23 at 12:00:00 am (according to course time zone)
+Note: In Quizzes, the autosubmit feature is tied to the Until date, which may affect student submissions. For more details, view the Quiz availability dates lesson.
+Limit Submission Date Range
+If you want to allow students to submit an assignment only in a specific date range, set both availability dates for the assignment.
+For example, if an assignment is due September 19 at 11:59 pm, but you only want students to be able to submit the assignment between September 9 and September 22, and you want to allow late assignments for 3 days, set the Available From date as September 9 at 12 am, and the Until date as September 22 at 11:59 pm.
+Canvas views and scores the assignment as follows:
+Canvas opens the assignment to all student submissions on September 9 at 12 am (according to course time zone)
+In the Gradebook, the assignment is on time if submitted by September 19 at 11:59 pm (according to course time zone)
+In the Gradebook, the assignment is marked late if submitted between September 20 at 12:00 am and September 22 at 11:59:59 pm (according to course time zone)
+Canvas closes the assignment to all student submissions on September 23 at 12:00:00 am (according to course time zone)
+Bulk Update Due and Availability Dates
+You may be able to update due dates and availability dates for multiple assignments at one time.
+If no time is set, the due time defaults to 11:59:59 pm for the course time zone, and the assignment is marked late at 12:00:00 am. For example, if you set a due date of September 19 at 11:59 pm, the assignment is marked late if submitted at or after September 20 at 12:00:00. 

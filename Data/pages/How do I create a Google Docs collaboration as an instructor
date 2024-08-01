@@ -1,0 +1,129 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_46136730-1EE1-0135-7260-22000B5A851D" class="text-block-content">
+    <p>You can start a new collaboration using Google Docs in Canvas. Google Docs allows you to add up to 50 users per collaboration, and all users can view and edit a document at the same time. However, a Google file may be shared with up to 200 email addresses including viewers, commenters, and editors. To alert invitees about collaborations, you can create course <a href="/t5/Instructor-Guide/How-do-I-add-an-event-to-a-course-calendar/ta-p/948" target="_blank">events</a> in the Calendar. </p>
+<p>Google Docs collaborations are separate from Google Drive collaborations. If your collaboration options include Google Spreadsheets and Presentations in addition to Documents, your course has enabled <a href="/t5/Instructor-Guide/How-do-I-create-a-Google-Drive-collaboration-as-an-instructor/ta-p/632" target="_blank">Google Drive collaborations</a>.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>This lesson is for creating a collaboration in a course; when collaborations are created in a group, only group members and users with instructor-based roles (including TAs) can be selected as collaborators.</li>
+<li>Creating a collaboration is a course permission. If you cannot create a collaboration in a course, your institution has restricted this feature.</li>
+<li>When creating a collaboration you cannot link to a previously created collaboration.</li>
+<li>Each collaborator will need a Google account and will need to <a href="/t5/Instructor-Guide/How-do-I-connect-to-Google-Drive-as-a-web-service-in-Canvas-as/ta-p/736" target="_blank">connect Google Drive as a registered service in Canvas</a>. </li>
+<li>Google Apps for Education (integration with your school) works with Google Docs in Canvas. Please note, if your school email does not allow access to Google Docs, you will need to use a regular Google account (i.e. example@gmail.com).</li>
+<li>Email notifications for collaborations relate directly to the account used to connect to Google Drive. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_collaborations" data-step-uuid="DA9882A0-65DD-4B3F-B327-D9A25DE62421">
+    <h2 id="open_collaborations" class="step-title screensteps-heading">Open Collaborations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/491/original/e6439ffd-98c4-485d-ba18-67fb81540ed8.png" srcset="" alt="Open Collaborations" height="232" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_46143ED0-1EE1-0135-7262-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Collaborations</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="start_a_new_collaboration" data-step-uuid="5C6B6F35-87FA-42D5-B743-3F70AD03B5F7">
+    <h2 id="start_a_new_collaboration" class="step-title screensteps-heading">Start a New Collaboration</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/639/original/7916bd47-1924-4b7e-be4a-50ed3234f5b3.png" srcset="" alt="Start a New Collaboration" height="66" width="254">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_461508E0-1EE1-0135-7264-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Start a new collaboration</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="authorize-google" data-step-uuid="016ad768-0dc8-456e-922e-fd27d0f5547d">
+    <h3 id="authorize-google" class="step-title screensteps-heading">Authorize Google</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/272/133/original/59f1643c-8655-4c2f-9e55-4668a2ed0299.png" srcset="" alt="Authorize Google" height="384" width="730">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1aca5c53-7755-4089-9d51-8a1f45cc0bb3" class="text-block-content">
+    <p>If you have not previously authorized Google Drive access in Canvas, you may be prompted to authorize access. Click the <strong>Authorize Google Drive Access</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="collaborate_using_google_docs" data-step-uuid="8FCFF220-936C-4215-895B-9BAE39CF905E">
+    <h2 id="collaborate_using_google_docs" class="step-title screensteps-heading">Collaborate Using Google Docs</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/832/284/original/0fadac6e-8b5b-41b4-b649-467403c2f9e5.png" srcset="" alt="Collaborate Using Google Docs" height="274" width="696">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_46160AF0-1EE1-0135-7266-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Collaborate using </strong>drop-down menu and select Google Docs.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_collaboration_document" data-step-uuid="BFCC0C01-6776-4367-84E6-698F4607680A">
+    <h2 id="create_collaboration_document" class="step-title screensteps-heading">Create Collaboration Document</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/641/original/487173ad-6aea-4291-b5a8-c13f4ce87932.png" srcset="" alt="Create Collaboration Document" height="596" width="736">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_46170980-1EE1-0135-7268-22000B5A851D" class="text-block-content">
+    <p>To create a collaboration document using Google Docs, you will first need to name the document [1], create a description [2], and select collaborators [3]. By default, you can view the list of people in the course and can collaborate with individual or multiple users in the course. You can also click the Groups tab and collaborate with a group. </p>
+<p>Click the <strong>Start Collaborating</strong> button [4].</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Google Docs allows you to add up to 50 users per collaboration, and all users can view and edit a document at the same time.</li>
+<li>Collaborators must have a Google account and will need to authorize Canvas before they can view the collaboration.</li>
+<li>You can add multiple groups to a collaboration, but all groups will collaborate in the same document. For group-specific collaborations, consider creating a new collaboration for each group or <a href="/t5/Instructor-Guide/How-do-I-view-content-and-student-activity-within-a-group-as-an/ta-p/731" target="_blank">creating a group collaboration within the group</a>.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_document" data-step-uuid="4E5E3A19-9E7A-46ED-9FF4-E9266A28960C">
+    <h2 id="edit_document" class="step-title screensteps-heading">Edit Document</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/571/648/original/26017f8c-cdb6-4640-85cd-4ecf831b7471.png" srcset="" alt="Edit Document" height="282" width="853">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4617D5D0-1EE1-0135-726A-22000B5A851D" class="text-block-content">
+    <p>View the newly created document in a new browser window.</p>
+<p><strong>Note: </strong>By default, any collaborator can share the document. The document owner can manage the document's share settings from within the Google Doc. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

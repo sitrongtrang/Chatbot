@@ -1,0 +1,29 @@
+How do I use Mastery Paths in course modules as an instructor
+Open Modules
+In Course Navigation, click the Modules link.
+Add Course Modules
+The Mastery Path process currently only originates from the course Modules page. Before you can designate source assignments and conditional items for a Mastery Path, all course assignments and pages should be developed and added to Modules as module items. Mastery Paths can be created from module structures in existing courses or new course content.
+Indenting module items can be used to help organize the module's structure and visually show which items should be conditional items in a Mastery Path.
+Graded assignments, graded discussions, or graded quizzes may be used as the source content for a Mastery Path. A student's source content score determines which conditional item(s) they are assigned. 
+Any course item except for practice quizzes and ungraded surveys may be designated as a conditional item in a Mastery Path.
+Notes: 
+In Mastery Paths, module prerequisites and requirements are not required, but they are encouraged to guide course organization and conditional paths.
+Files, External URLs, and External Tool module items cannot be used as conditional items in Mastery Paths.
+Allow Page Content
+Because content pages do not require grading, content pages cannot be used as source content and can only be added to a Mastery Path as conditional content. However, a page must be allowed for Mastery Paths before it can be added as a conditional item.
+Add Conditional Items
+A Mastery Path originates from an assignment assigned to everyone, such as a pre-test or an introductory assignment. 
+The Mastery Paths configuration page allows you to add conditional content items to the source content item. Conditional content items are selected from the list of module items you have already added to the module. These items are then assigned to specific students through conditional rules in three scoring ranges. After the source content assignment has been graded (either manually or automatically), the student’s score designates which conditional item(s) they are assigned as a learning path.
+Assign Items to Mastery Paths
+By default, assignments in Canvas are assigned to Everyone, which means all students will be able to view the assignment in their Modules page. Once conditional content items have been added to a Mastery Path, the conditional assignments must be assigned to Mastery Paths. The Mastery Paths assignment designates the assignment for conditional release only, and the assignment will only display to students whose source content scores fall in a range that releases the conditional assignment to them.
+Release Conditional Items
+When you create Mastery Paths for your course, students see content added to their Modules page as they move through the course. When the course begins, they will only be able to see items that have been published and assigned to Everyone or assigned specifically to them. In contrast, courses that do not use Mastery Paths display all content in the Module, even if the content is locked.
+Once a Mastery Path source assignment has been graded (either automatically by Canvas or manually in SpeedGrader), the conditional item(s) will automatically display in the student’s Modules page based on the source item’s scoring range.
+If a Mastery Path source assignment scoring range includes an Or option, students must choose which conditional item(s) they wish to complete before proceeding. 
+Notes: 
+If you set a requirement that module items must be completed in order, when a student completes a Mastery Path that requires any manual grading, all subsequent module items will be locked for the student until the Mastery Path is graded.
+If you regrade a source assignment after a student chooses a Mastery Path option, and the regrade puts the student in a different conditional item range, they will have to complete the conditional item(s) in the reassigned Mastery Path before advancing through the module.
+View Student Path Assignment
+When a student is assigned or selects a conditional item, the conditional assignment automatically adds the student’s name to the assignment as being differentiated to that student.
+View Mastery Path Breakdown
+Once students complete a source content item for a Mastery Path, you can view the Mastery Paths breakdown. Each scoring range includes a link that shows the number of students in each range. You can click the name of a student in the range, view the student’s source content submission and score, and send a message to the student.

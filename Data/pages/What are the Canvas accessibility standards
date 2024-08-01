@@ -1,0 +1,187 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_b4432ba6-16d6-41f7-bf3b-36b3fec59030" class="text-block-content">
+    <p>Ensuring an accessible and pleasant experience to all users, regardless of disability, is a key element of Canvas software. The Canvas platform was built using the most modern HTML and CSS technologies, and is committed to W3C's Web Accessibility Initiative and <a href="https://www.section508.gov/" target="" rel="nofollow noopener noreferrer">Section 508</a> guidelines.</p>
+<p>The Voluntary Product Accessibility Template, or VPAT, is a tool that administrators and decision-makers can use to evaluate Canvas' conformance with the accessibility standards under Section 508 of the Rehabilitation Act. View more information about the <a href="https://www.instructure.com/canvas/accessibility" target="_blank" rel="nofollow noopener noreferrer">Canvas Voluntary Product Accessibility Template</a>.</p>
+<p>General accessibility design guidelines can be found in the <a href="https://community.canvaslms.com/t5/Accessibility/General-Accessibility-Design-Guidelines/ba-p/252642" target="">General Accessibility Design Guidelines</a> document. </p>
+<p>You can read more about the most recent accessibility and feature enhancements in the <a href="https://community.canvaslms.com/t5/Canvas-Releases/tkb-p/canvas-release" target="">Canvas Product Release Notes</a>. If you have additional suggestions, please contact <a href="mailto:accessibility@instructure.com" target="_blank" rel="nofollow noopener noreferrer">accessibility@instructure.com</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="screen-readers-and-browsers" data-step-uuid="71b446d7-8d53-4b9e-9578-1965f0e6d4c6">
+    <h2 id="screen-readers-and-browsers" class="step-title screensteps-heading">Screen Readers and Browsers</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4fc43719-3856-4840-aba1-7850158fb644" class="text-block-content">
+    <p>Each Canvas feature and release is manually tested with the following screen reader and browser combinations: </p>
+<ul>
+<li>
+<a href="http://www.freedomscientific.com/Products/Blindness/JAWS" target="_blank" rel="nofollow noopener noreferrer">JAWS</a> (latest version for Chrome/Firefox on Windows)</li>
+<li>
+<a href="http://www.nvaccess.org/" target="_blank" rel="nofollow noopener noreferrer">NVDA</a> (latest version for Chrome/Firefox on Windows)</li>
+<li>
+<a href="http://www.apple.com/accessibility/voiceover/" target="_blank" rel="nofollow noopener noreferrer">VoiceOver</a> (latest version for Safari/Chrome on Macintosh and iOS mobile)</li>
+<li>
+<a href="https://support.google.com/accessibility/android/answer/6283677?hl=en" target="_blank" rel="nofollow noopener noreferrer">Talkback</a> (latest version for Android mobile)</li>
+</ul>
+<p>Browser and screen reader pairing is selected based on current screen reader and browser usage statistics, ensuring that preferred combinations are always maintained for the widest range of Canvas users. As preferences shift and stabilize over time, Canvas testing and support shift to match them.</p>
+<p>Canvas is designed so that screen reader users can confidently utilize their preferred screen reader and browser. However, the variety of browser and screen reader combinations means that only the above-listed combinations are tested and confirmed to work well in Canvas. If you experience issues using your preferred browser and screen reader combination, please review and utilize the officially supported combinations listed above. If you experience issues with the officially supported screen reader and browser combinations, please report your experience to Canvas Support.</p>
+<p>Learn more about <a href="/t5/Canvas-Basics-Guide/What-are-the-browser-and-computer-requirements-for-Instructure/ta-p/66" target="_blank">supported Canvas browsers</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas-navigation-with-screen-readers" data-step-uuid="dd225a61-5ecd-416f-9fa2-d7ea0eb5b89c">
+    <h2 id="canvas-navigation-with-screen-readers" class="step-title screensteps-heading">Canvas Navigation with Screen Readers</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_619c5d48-fc94-473a-86f4-9ffe57532a2f" class="text-block-content">
+    <p>Canvas makes extensive use of ARIA landmark regions. Accessible Rich Internet Applications (ARIA) defines ways to make web content and web applications more accessible to people with disabilities. Therefore, the best way to get around in Canvas is to navigate via regions. Within regions, Canvas uses HTML headings, so navigating between headings can be helpful.</p>
+<p>When using a screen reader, the <a href="" target="_blank" rel="nofollow noopener noreferrer">Canvas page navigation menu</a> is as follows:</p>
+<p>1. Main navigation</p>
+<p>2. Context navigation</p>
+<p>3. Breadcrumbs navigation</p>
+<p>4. Main region</p>
+<p>5. Complimentary information</p>
+<p>6. Content information</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas-accessibility-components" data-step-uuid="1167f77e-fb2d-4e16-be58-1d2fa1f2fc2e">
+    <h2 id="canvas-accessibility-components" class="step-title screensteps-heading">Canvas Accessibility Components</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67beb811-fee1-42c3-8643-8f6d62ed99d4" class="text-block-content">
+    <p>Canvas contains several unifying accessibility features that can be found on various pages in Canvas.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="moving-content-in-canvas" data-step-uuid="c702b415-284b-4f23-acb8-9c0cd6c1c283">
+    <h3 id="moving-content-in-canvas" class="step-title screensteps-heading">Moving Content in Canvas</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_495e3fb3-426e-4cf0-a407-03e648f6a98a" class="text-block-content">
+    <p>Wherever drag and drop is used to reorder components, the Move-to option is also available and allows both screen readers and keyboard users to move Canvas content. The Move-to option is available in the following features:</p>
+<ul>
+<li>Course Navigation</li>
+<li>Modules</li>
+<li>Discussions</li>
+<li>Assignments</li>
+<li>Outcomes</li>
+<li>Quizzes</li>
+<li>New Quizzes</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="keyboard-shortcuts" data-step-uuid="b5fbfaa1-0e4a-4874-bdbd-e4b277124ebb">
+    <h3 id="keyboard-shortcuts" class="step-title screensteps-heading">Keyboard Shortcuts</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_20f22421-2de2-43ba-a2ca-9f630b7b2f1e" class="text-block-content">
+    <p>To view a window with a list of keyboard navigation shortcuts in an individual discussion, announcement, or in the Rich Content Editor, press <strong>Alt+F8</strong> (on a PC keyboard) or <strong>Option+F8</strong> (on a Mac keyboard) simultaneously on your keyboard. To view a window with a list of keyboard navigation shortcuts in the Assignments Index page, Modules Index page, Gradebook, and SpeedGrader, press Shift+? on your keyboard. Keyboard shortcuts are available on the following Canvas pages:</p>
+<ul>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Announcements/ta-p/39" target="">Announcement Threads</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Assignments/ta-p/9" target="">Assignments Index Page</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-manage-Course-Navigation-links/ta-p/1020" target="">Course Settings: Navigation Tab</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Discussions/ta-p/3" target="">Discussion Threads</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Grades-and-the-Gradebook/ta-p/49" target="">Gradebook</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Modules/ta-p/6" target="">Modules Index Page</a></li>
+<li><a href="/t5/Canvas-Basics-Guide/What-is-New-Quizzes/ta-p/17" target="_blank">New Quizzes</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-the-Rich-Content-Editor/ta-p/12" target="">Rich Content Editor</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-SpeedGrader/ta-p/13" target="">SpeedGrader</a></li>
+</ul>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>For more information, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Keyboard-Shortcuts/ta-p/387069" target="_blank">Canvas Keyboard Shortcut resource document</a> and <a href="https://webaim.org/techniques/keyboard/" target="_blank" rel="nofollow noopener noreferrer">general keyboard accessibility tips</a>. </li>
+<li>You can also view additional keyboard shortcuts and tips specific to the following screen readers: <a href="https://webaim.org/articles/jaws/" target="_blank" rel="nofollow noopener noreferrer">JAWS</a>, <a href="https://instructure.atlassian.net/wiki/spaces/a11y/pages/14286953/NVDA" target="_blank" rel="nofollow noopener noreferrer">NVDA</a>, and <a href="https://webaim.org/articles/voiceover/" target="_blank" rel="nofollow noopener noreferrer">VoiceOver</a>.  </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas-feature-accessibility" data-step-uuid="7575b198-3f80-4ad7-b0e4-ab01d0fcea22">
+    <h2 id="canvas-feature-accessibility" class="step-title screensteps-heading">Canvas Feature Accessibility</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_185e0f71-bd7d-4a9c-aaa8-c388a4860047" class="text-block-content">
+    <p>Several Canvas features have been specifically improved for accessibility. Other features may be limited at this time. This section highlights several feature areas and accessibility behaviors.</p>
+<p><strong>Calendar: </strong>The Calendar supports Agenda View, which lists all assignments and events in a list or agenda format. Learn how to access the <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-the-Calendar-as-an-instructor/ta-p/917" target="">Calendar Agenda View</a>.</p>
+<p><strong>Chat: </strong>The Chat Tool has an option to enable audio notifications when new messages are posted.</p>
+<p><strong>Font Sizing: </strong>The Canvas interface uses rem sizing for fonts so any typography will zoom when the browser is zoomed and will scale if a custom browser-sized font is chosen or set from a browser's setting.</p>
+<p><strong>Gradebook: </strong>Both the Gradebook and the Learning Mastery Gradebook support an individual view, where instructors can view assignments and grades for one student at a time. Learn more about individual view in the <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-view-assignments-or-students-individually-in-the/ta-p/1247" target="">Gradebook </a>and <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-view-outcomes-or-student-results-individually-in-the/ta-p/1094" target="">Learning Mastery Gradebook</a>.</p>
+<p><strong>Quizzes: </strong>Quizzes allows instructors to moderate a quiz for individuals requiring more time or who need multiple attempts. Learn how to <a href="https://community.canvaslms.com/t5/Instructor-Guide/Once-I-publish-a-quiz-how-can-I-give-my-students-extra-attempts/ta-p/1242" target="">grant extra time or attempts in a quiz</a>.</p>
+<p><strong>New Quizzes: </strong>New Quizzes allows instructors to moderate a quiz for individuals requiring more time or who need multiple attempts. Learn how to <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-moderate-a-student-s-assessment-attempt-in-New-Quizzes/ta-p/655" target="">grant extra time or attempts in a New Quiz</a>.</p>
+<p><strong>Rich Content Editor: </strong>The Rich Content Editor supports multiple accessibility features for easy creation of accessible content:</p>
+<ul>
+<li>The Rich Content Editor includes an accessibility tool that checks common accessibility errors within the editor. This tool can help you design course content while considering accessibility attributes and is located in the Rich Content Editor menu bar. Learn how to <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-the-Accessibility-Checker-in-the-Rich-Content/ta-p/820" target="">use the Accessibility Checker in the Rich Content Editor</a>.</li>
+<li>Alt text should be added when embedding external images. Learn how to <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-upload-and-embed-an-image-in-the-New-Rich-Content/ta-p/784" target="">embed images from the web in the Rich Content Editor</a>.</li>
+<li>Closed captions should be embedded for videos uploaded to Canvas. Learn how to <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-view-captions-in-a-video-in-the-New-Rich-Content-Editor/ta-p/1272" target="">view </a>and <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-manage-video-options-in-the-New-Rich-Content-Editor-as/ta-p/409962" target="">manage captions</a> using the Rich Content Editor.</li>
+<li>Headings for table columns and rows can be changed in either the Rich Content Editor or the HTML Editor view.</li>
+</ul>
+<p><strong>SpeedGrader/DocViewer/Annotations: </strong>Students can now access annotations and comments with a screen reader, including information about the annotation type, author name, comment, and any reply comments at the end of the document. <a href="https://community.canvaslms.com/groups/accessibility/blog/2017/06/22/accessibility-and-docviewer" target="_blank">Please see blog post for more information.</a></p>
+<p><strong>User Settings: </strong>The User Settings page hosts <a href="https://community.canvaslms.com/t5/Student-Guide/What-feature-options-can-I-enable-in-my-user-account-as-a/ta-p/431" target="">two feature options to enhance accessibility</a>. Learn how to <a href="https://community.canvaslms.com/t5/Student-Guide/How-do-I-change-the-settings-in-my-user-account-as-a-student/ta-p/423" target="">change user settings</a>.</p>
+<ul>
+<li>
+<strong>High Contrast UI:</strong> When enabled, this feature offers higher contrast in buttons, tabs, and other areas throughout Canvas.</li>
+<li>
+<strong>Underline Links:</strong> When enabled, this feature underlines hyperlinks in navigation menus, the Dashboard, and page sidebars.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="third-party-lti-integration-accessibility" data-step-uuid="97c02726-e632-485d-b14b-fb5101f3171b">
+    <h2 id="third-party-lti-integration-accessibility" class="step-title screensteps-heading">Third-party (LTI) Integration Accessibility</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5eca02d2-1ca9-4892-951f-f5fc56a4fe85" class="text-block-content">
+    <p>Canvas offers many optional LTI app integrations as part of our commitment to open education. When we review new integration tools, accessibility features are always an important consideration. Unfortunately, as integrations are created by third-party developers and offered to Canvas clients as an optional service, we cannot always ensure that these integrations meet the same standards that we hold for core Canvas. Therefore, if an institution wants to incorporate an integration where additional features may be required, we recommend the institution contact the developer directly with any specific concerns.</p>
+<p>Some integrations are non-optional hosted services within Canvas. Any accessibility issues for Canvas-hosted services should be submitted as a help ticket via the institution's support process. We are open to suggestions for new integrations and have an area in the <a href="http://community.canvaslms.com" target="">Instructure Community</a> forums for feature requests.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="additional-accessibility-resources" data-step-uuid="3d401bdf-7eb6-4209-830f-6310b24e3663">
+    <h2 id="additional-accessibility-resources" class="step-title screensteps-heading">Additional Accessibility Resources</h2>
+  </div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57cf4fa8-4e83-4477-852e-77a35c5e1c2e" class="text-block-content">
+    <p><a href="https://community.canvaslms.com/docs/DOC-6504-udoit-information" target="_blank">Universal Design Online content Inspection Tool (UDOIT):</a> (pronounced, You Do It) enables faculty to identify accessibility issues in their Canvas course content. It will scan a course, generate a report, and provide resources on how to address common accessibility issues. It was created by the <a href="https://cdl.ucf.edu/about/" target="_blank" rel="nofollow noopener noreferrer">Center for Distributed Learning</a> (CDL) at the <a href="https://www.ucf.edu/" target="_blank" rel="nofollow noopener noreferrer">University of Central Florida</a> (UCF).</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fc8e10e6-245a-4d11-8761-affcbc9d6354" class="text-block-content">
+    <p><em>Significant contributions to this guide were made by:</em></p>
+<ul>
+<li>John Raible: Instructional Designer for the Center for Distributed Learning at the University of Central Florida</li>
+<li>Nancy Swenson: Instructional Designer for the Center for Distributed Learning at the University of Central Florida</li>
+</ul>
+  </div>
+</div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

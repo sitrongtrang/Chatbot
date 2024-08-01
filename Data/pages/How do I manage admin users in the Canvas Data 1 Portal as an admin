@@ -1,0 +1,143 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--alert screensteps-wrapper">
+  <div id="text-content_2b653a3a-758f-4593-bf46-36e38d76c6f1" class="text-block-content">
+    <p>Canvas Data 1 will be <a href="https://community.canvaslms.com/t5/The-Product-Blog/Canvas-Data-In-with-the-New-Out-with-the-Old/ba-p/590171" target="_blank">deprecated on December 31, 2023</a>. Canvas Data 1 guides will be removed from the Community end of June 2024.  <a href="/t5/Admin-Guide/What-is-Canvas-Data-2/ta-p/560956" target="_blank">Learn more about accessing data using Canvas Data 2</a>.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_926F3FD0-1CB0-0135-FAEC-22000B5A851D" class="text-block-content">
+    <p>In the Canvas Data Portal, the Current Users section shows admins who have been given access to the Canvas Data Portal, along with their permissions. You can edit permissions for existing admins, add new admins, and delete admins.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="c8df32c9-6d68-463f-adb6-a39fb30ae0b8">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_74c67168-d614-4db2-a617-7c4e82fd5e0c" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_canvas_data_portal" data-step-uuid="cf2464e0-44f1-44f5-928f-a51f84513794">
+    <h2 id="open_canvas_data_portal" class="step-title screensteps-heading">Open Canvas Data Portal</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/692/original/7c049a65-f690-4822-bbcf-87f4fc4fabdc.png" srcset="" alt="Open Canvas Data Portal" height="331" width="185">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_926F76C0-1CB0-0135-FAEE-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Canvas Data Portal </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_users" data-step-uuid="7620bfce-d319-42b4-b7aa-88666e0b2f21">
+    <h2 id="view_users" class="step-title screensteps-heading">View Users</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/557/459/original/c623846f-cc25-4609-b0c3-fdc11ba4c23f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/557/459/medium/c623846f-cc25-4609-b0c3-fdc11ba4c23f.png" srcset="" alt="View Users" height="219" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_926FA870-1CB0-0135-FAF0-22000B5A851D" class="text-block-content">
+    <p>In the Credentials Portal, you can view the users who has been given access to the Canvas Data Portal. </p>
+<p>Any admin who does not have access but who has tried to view the portal also appears in the list. </p>
+<p>User information includes the admin's name [1] and admin's user ID [2].</p>
+<p><strong>Note: </strong>Canvas support agents who have managed support cases in your data portal may also display in the Manage Users list.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_permissions" data-step-uuid="6f061a47-1991-4488-93c2-08a965b79048">
+    <h3 id="view_permissions" class="step-title screensteps-heading">View Permissions</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/557/470/original/3a011227-c0a4-4cba-bb74-02b9c0fdefd6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/557/470/medium/3a011227-c0a4-4cba-bb74-02b9c0fdefd6.png" srcset="" alt="View Permissions" height="219" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_926FE0D0-1CB0-0135-FAF2-22000B5A851D" class="text-block-content">
+    <p>User information also displays permissions based on your institution's Canvas Data subscription.</p>
+<p>In permissions, the no label means that the user cannot perform the listed permission. A yes label means that the user has access to perform the permission.</p>
+<p>An account may include up to five available permissions:</p>
+<ul>
+<li>
+<strong>Manage Users</strong>—can add other Canvas Data users for the account</li>
+<li>
+<strong>Grant Admin Permissions</strong>—can allow Canvas Data users to add other Canvas Data users</li>
+<li>
+<strong>Connect to Redshift</strong>—can generate credentials to connect to Redshift (hosted accounts only)</li>
+<li>
+<strong>Manage IP Address Whitelist</strong>—can manage the IP whitelist (hosted accounts only)</li>
+<li>
+<strong>Flat File Download</strong>—can download flat files from Canvas Data</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_users" data-step-uuid="c04316b3-7963-419d-8ddf-c7468dea2d57">
+    <h2 id="manage_users" class="step-title screensteps-heading">Manage Users</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/557/480/original/082d9c0f-c7f0-413d-a3c2-86e707c6a953.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/557/480/medium/082d9c0f-c7f0-413d-a3c2-86e707c6a953.png" srcset="" alt="Manage Users" height="219" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92702E70-1CB0-0135-FAF4-22000B5A851D" class="text-block-content">
+    <p>To edit a user, click the <strong>Edit</strong> button [1]. To delete a user, click the <strong>Delete </strong>button [2].</p>
+<p><strong>Note:</strong> You cannot edit or delete information for your own account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_user" data-step-uuid="61c872cb-3e85-4d20-906c-c9129c8faa20">
+    <h2 id="add_user" class="step-title screensteps-heading">Add User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/478/original/58190c14-43a8-44d0-9b94-19ee8080ed69.png" srcset="" alt="Add User" height="354" width="739">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_927065C0-1CB0-0135-FAF6-22000B5A851D" class="text-block-content">
+    <p>To add a new admin, scroll down the page to the <strong>Add New User </strong>section.</p>
+<p>Enter the Canvas ID [1] and the Full Name [2] of the admin. Select the checkbox(es) for the permission(s) you want to enable for the user [3]. </p>
+<p>Click the <strong>Create User</strong> button [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

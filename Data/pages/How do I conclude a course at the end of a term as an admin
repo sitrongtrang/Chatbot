@@ -1,0 +1,136 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1578C200-18A6-0135-53F5-22000BC102FE" class="text-block-content">
+    <p>When a course is completed and you want to provide read-only access to the course, you may be able to conclude the course manually in Canvas. However, if your institution uses software that automatically concludes enrollments, you do not have to manually end your course since the end date of the course will automatically conclude the course on your behalf. </p>
+<p>When courses are manually concluded, all enrollments are removed from the course and placed in the prior enrollments page. All users in the course will have read-only access. This change applies to all enrollments, including course instructors. Instructor-based roles will no longer have the same access in the course and will result in loss of course functionality and user information, such as viewing SIS data. If full functionality is still required for instructors but you want to conclude the course for students, you can change the participation end date of the course. Please note that instructors can also change the course participation date for their courses.</p>
+<p>Once a course is concluded, if you do not want students to be able to view the course at all, you can <a href="/t5/Admin-Guide/How-do-I-restrict-student-access-before-or-after-a-course-date/ta-p/169" target="_blank">restrict students from viewing prior courses</a>. You can <a href="/t5/Admin-Guide/How-do-I-unconclude-a-course-in-an-account/ta-p/189" target="_blank">unconclude a course,</a> if necessary.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Manually concluding a course is a course permission. If the Conclude this Course button does not appear in Course Settings, this setting has been restricted for your course. If you are an instructor, contact your admin for assistance.</li>
+<li>Manually concluding, or hard concluding, a course results in loss of user access and functionality for all user roles. To preserve user access and information, and course functionality for instructors, consider soft concluding a course using term dates or course end dates.</li>
+<li>When a course is concluded, the course participation end date is automatically populated with the current date and time.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="eafbe1ef-e547-445e-80d0-efc565919a43">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_577e1823-20b1-4371-b590-6c94482f2f99" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-courses" data-step-uuid="d47b0670-b1c6-460f-93b8-db21cfaf73af">
+    <h2 id="open-courses" class="step-title screensteps-heading">Open Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/879/original/06bfbd4d-fbeb-43ea-ae87-4db6d8509ba4.png" srcset="" alt="Open Courses" height="306" width="166">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_efaecb27-50dc-4620-9494-11e130418a81" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Courses</strong> link. </p>
+<p><strong>Note:</strong> When you open an account, the account defaults to the Courses page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter_or_find_course" data-step-uuid="302493a1-0701-4268-aacb-b7cf394988ca">
+    <h2 id="filter_or_find_course" class="step-title screensteps-heading">Find Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/371/037/original/d73eff14-6cb1-4eaa-8619-5cb22fb3adbb.png" srcset="" alt="Find Course" height="98" width="745">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9b655ca4-08ab-4862-97d6-276dccd8b1d8" class="text-block-content">
+    <p>To find the course in the account, use the filter and search options.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="788bf738-bd66-4e73-b074-21c6113eebd6">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/491/095/original/9d06f1d9-a243-43a0-ac2c-047b559e0a86.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/491/095/medium/9d06f1d9-a243-43a0-ac2c-047b559e0a86.png" srcset="" alt="Open Settings" height="82" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7262b890-1adc-479d-b542-9f8ed3a1ae17" class="text-block-content">
+    <p>In the courses list, click the course <strong>Settings</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="conclude_this_course" data-step-uuid="311FA0B2-26D9-47EA-8B03-EBCCC0A7165E">
+    <h2 id="conclude_this_course" class="step-title screensteps-heading">Conclude This Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/187/original/6bf1f4ba-2f15-4ab7-8392-2aab10556475.png" srcset="" alt="Conclude This Course" height="488" width="273">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_15791FB0-18A6-0135-53F9-22000BC102FE" class="text-block-content">
+    <p>To conclude your course, click the <strong>Conclude this Course</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="conclude_course" data-step-uuid="E17A6283-7B0C-4AAE-A14A-A446557B98CF">
+    <h2 id="conclude_course" class="step-title screensteps-heading">Conclude Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/183/original/8ce56997-4e90-4a27-8f7e-77aa6cbe952f.png" srcset="" alt="Conclude Course" height="290" width="635">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_15794B60-18A6-0135-53FB-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Conclude Course</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_confirmation" data-step-uuid="C9671B0B-BFF9-4A4E-A0EE-5EFB06455A90">
+    <h2 id="view_confirmation" class="step-title screensteps-heading">View Confirmation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/179/original/c712574e-7c75-4cf5-94ce-7bb85f913c30.png" srcset="" alt="View Confirmation" height="65" width="502">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_15797850-18A6-0135-53FD-22000BC102FE" class="text-block-content">
+    <p>Verify that the course has been concluded.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,21 @@
+How do I edit or delete an outcome in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Outcomes
+In Account or Sub-Account Navigation, click the Outcomes link.
+Select Outcome
+Locate the outcome you want to modify.
+Modify Outcome
+To edit an outcome, click the Edit button. Editing an outcome lets you change the outcome name, description, calculation method, and other elements as set when creating an account outcome.
+When you are finished with your edits, click the Save button.
+To delete an outcome, click the Delete button.
+View Outcome Edit Confirmation
+If you edit an outcome that has been used to assess a student, Canvas displays a message notifying you that your edits will update all outcomes associated with a rubric that has not been assessed.
+Click the Save button.
+Note: This message only displays for outcomes you modify that have not been used to assess a student. If this confirmation message does not display, the outcome is associated with more than one rubric and edits cannot be updated. 
+View Assessed Outcome
+If an outcome has already been used to assess a student, some modifications may affect student results.
+To view any aligned items and student assessments for a particular outcome, click the name of the outcome. These assignments and rubrics may be affected when you edit the outcome.
+View Scoring Edits Confirmation
+If you are editing scoring details on an outcome that has been used to assess students, Canvas displays a message notifying you that your edits will affect all students previously assessed using the outcome. Scoring changes only affect a student's learning mastery score in the Learning Mastery Gradebook for the edited outcome. When scoring criteria is edited, the learning mastery values scale for assessed rubrics according to the original points possible. 
+Click the Save button.

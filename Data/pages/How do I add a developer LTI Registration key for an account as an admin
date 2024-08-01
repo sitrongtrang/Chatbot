@@ -1,0 +1,135 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_5e83fd33-fb7a-4035-8616-8a2b9f2e0f35" class="text-block-content">
+    <p>As an admin, you can create developer LTI Registration keys for an account.</p>
+<p><strong>Note: </strong>Developer Keys is an account permission. If you cannot view the Developer Keys link in Account Navigation, this permission has not been enabled for your user account.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="568b12a2-1c69-469b-98c2-8f25e07b7649">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d4ce89b9-190a-4533-bf9b-1307b996e0ca" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_developer_keys" data-step-uuid="f7865593-3ab8-40f1-b734-c5cf28eb3260">
+    <h2 id="open_developer_keys" class="step-title screensteps-heading">Open Developer Keys</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/259/404/original/ecee7283-3d94-44a9-9215-6c750f2fe765.png" srcset="" alt="Open Developer Keys" height="235" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ddb345da-a0b1-4d0a-a09b-2932c706e66f" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Developer Keys </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-api-key" data-step-uuid="029dd057-a1e1-4ade-9125-8d91e3db2158">
+    <h2 id="add-api-key" class="step-title screensteps-heading">Add Registration Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/259/554/original/c3774c3e-d3bf-4cb8-a72a-7a4e2e07bd31.png" srcset="" alt="Add Registration Key" height="200" width="203">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c43bd562-c18e-4e74-a9bc-469a32981f17" class="text-block-content">
+    <p>Click the <strong>Add Developer Key </strong>button [1]. Then click the <strong>LTI Registration</strong> option [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-registration-url" data-step-uuid="d27c5b7f-5fc2-4966-af2a-dfd2c4a48961">
+    <h3 id="enter-registration-url" class="step-title screensteps-heading">Enter Registration URL</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/259/410/original/a9161f9d-0d45-46e3-8298-9e15324c0d8a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/259/410/medium/a9161f9d-0d45-46e3-8298-9e15324c0d8a.png" srcset="" alt="Enter Registration URL " height="254" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1d71e5d1-a4b5-46d9-8582-d77fb367a656" class="text-block-content">
+    <p>Enter the URL in the <strong>Dynamic Registration URL </strong>field [1], and then click the <strong>Continue </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sign-in-to-registration-url" data-step-uuid="1e92f03f-2b60-47a2-9134-c70d4e2d578a">
+    <h2 id="sign-in-to-registration-url" class="step-title screensteps-heading">Sign in to Registration URL</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/259/412/original/6b43866a-50c0-47c7-b6a1-d73d96ded3d4.png" srcset="" alt="Sign in to Registration URL " height="412" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b65ba718-e997-4db8-98ff-80f887495d92" class="text-block-content">
+    <p>Sign into the tool and install the external tool.</p>
+<p><strong>Note: </strong>This page may differ depending on the external tool being used.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="register-app" data-step-uuid="f693c7ef-688a-4642-b0f0-46e5aab23181">
+    <h2 id="register-app" class="step-title screensteps-heading">Register App</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/273/892/original/993867ae-ef78-4bf1-89cf-4fbd96e2e9c4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/273/892/medium/993867ae-ef78-4bf1-89cf-4fbd96e2e9c4.png" srcset="" alt="Register App" height="736" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a04a9c48-344c-4b4f-9ab4-fec2760845a6" class="text-block-content">
+    <p>In the LTI App Settings, admins have the ability to manage the external tool's permissions [1] and placements [2]. By default, all permissions and placements are activated. </p>
+<p>Click the checkbox next to the permission to change permissions [3] and click the toggle to hide a placement [4].  </p>
+<p>Click <strong>Enable &amp; Close</strong> button to add to your account [5].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-app" data-step-uuid="f207f4c9-8ebc-4ba7-927e-3f03a533e1a5">
+    <h2 id="view-app" class="step-title screensteps-heading">View App</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/259/416/original/f7c30952-7493-4057-9262-12db3925007b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/259/416/medium/f7c30952-7493-4057-9262-12db3925007b.png" srcset="" alt="View App" height="282" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f323da9d-adba-4527-9fad-40e87cb9d72e" class="text-block-content">
+    <p>View the LTI Registration key for your account.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

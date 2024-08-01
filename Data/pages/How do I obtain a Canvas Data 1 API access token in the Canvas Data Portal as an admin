@@ -1,0 +1,106 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--alert screensteps-wrapper">
+  <div id="text-content_ca1eb63a-088e-4fdd-8854-cddbe5c65bf9" class="text-block-content">
+    <p>Canvas Data 1 will be <a href="https://community.canvaslms.com/t5/The-Product-Blog/Canvas-Data-In-with-the-New-Out-with-the-Old/ba-p/590171" target="_blank">deprecated on December 31, 2023</a>. Canvas Data 1 guides will be removed from the Community end of June 2024.  <a href="/t5/Admin-Guide/What-is-Canvas-Data-2/ta-p/560956" target="_blank">Learn more about accessing data using Canvas Data 2</a>.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_35bd9c35-b8ed-49f7-94ef-6bd7c538cf98" class="text-block-content">
+    <p>The Canvas Data API allows you to get information about or download Canvas Data files.</p>
+<p>Any Canvas Data admin can generate API credentials, but the credentials are shared between all admin users in that account. If you would like to grant access to other users or third-party partners to download files via the API, you can generate credentials and securely pass them to those users. However, if you need to revoke access for a user, you will need to regenerate the credentials and securely distribute the credentials again.  </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="768ab34a-1c54-45a8-97c2-e86ed40fe056">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2c1627e4-6b9d-4803-abae-57dca7d1e25d" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-canvas-data-portal" data-step-uuid="291f7407-2252-440f-abf1-87a9b79890eb">
+    <h2 id="open-canvas-data-portal" class="step-title screensteps-heading">Open Canvas Data Portal</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/688/original/7c049a65-f690-4822-bbcf-87f4fc4fabdc.png" srcset="" alt="Open Canvas Data Portal" height="331" width="185">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8f249fc5-6c7f-4599-88a4-bf2b7fe8147d" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Canvas Data Portal</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-credentials" data-step-uuid="6fb75c21-1cec-4edd-91f0-e1f91df2e638">
+    <h2 id="create-credentials" class="step-title screensteps-heading">Create Credentials</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/407/362/original/ed52ebb1-d80e-4ce9-993d-f4708f0859a0.png" srcset="" alt="Create Credentials" height="109" width="214">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a4b43abf-b49c-492d-9a4d-54f51b2fd98a" class="text-block-content">
+    <p>Click the <strong>Create Credentials</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="copy-credentials" data-step-uuid="42fc28ef-8334-45ac-9ef5-23a7925b5ca9">
+    <h2 id="copy-credentials" class="step-title screensteps-heading">Copy Credentials</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/442/746/original/8c06fd57-c4cb-443b-a78f-cdd291d73ccc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/442/746/medium/8c06fd57-c4cb-443b-a78f-cdd291d73ccc.png" srcset="" alt="Copy Credentials" height="224" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a13cbaa0-c64e-4ea1-87ed-865c7baad535" class="text-block-content">
+    <p>Copy the API Key and API Secret. If you return to the Credentials Portal, you will be able to see the API Key but not the API Secret. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-new-credentials" data-step-uuid="200af258-a7b9-4f72-8d1e-682f74aac5a3">
+    <h2 id="create-new-credentials" class="step-title screensteps-heading">Create New Credentials</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/442/745/original/bf8180f8-65cb-46e0-9b41-fadd68cc7b58.png" srcset="" alt="Create New Credentials" height="160" width="742">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85139e63-d6b5-4060-a078-67111f785f63" class="text-block-content">
+    <p>You can create new credentials by clicking the <strong>Create Credentials</strong> button. However, generating new credentials will invalidate the old credentials for all users who have access to them.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

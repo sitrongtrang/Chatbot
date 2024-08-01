@@ -1,0 +1,27 @@
+How do I use grading schemes in a course as an instructor
+Common Grading Schemes
+Grading schemes are built based on points and percentage ranges, and each percentage range is assigned a name value. You can create any type of grading scheme by editing the name and percentage range for each item. When enabling a grading scheme for a course, the grading scheme is applied to the students' final grades in addition to the overall percentage. 
+Notes:
+Grading schemes only support two decimal places.
+The only scores allowed in the Gradebook are those defined in the grading scheme. 
+Gradebook entries that are not specifically defined in the grading scheme revert back to the icon showing that the submission needs to be graded. Depending on an assignment's display grade, some Gradebook entries cannot convert to a grading scheme.
+Letter Grades
+Letter Grades is the most traditional type of grading scheme and is the default format for new grading schemes. Only supported scores are allowed in the Gradebook, so if you build a letter grade scheme with name values for only A, B, and C, you cannot enter a score that converts to an A- or B+.
+Performance
+Performance grading schemes are based on a standard of individual performance. Only supported scores are allowed in the Gradebook, so if you build a performance scheme with the name values of only Excellent and Poor, you cannot enter a score of Good.
+Points
+Points grading schemes are based on a set of points in a range. When the course grading scheme is point-based, Assignment Group totals and Final Score display a tooltip of raw earned points and total points. In the gradebook cell, points display scaled points as fractions.
+Note: When the Final Grade Override feature option is enabled for an institution and a course is using a point-based grading scheme, instructors can override the grade with a letter grade only.
+Course Grading Schemes
+When enabling a grading scheme for a course, the grading scheme is applied to the students' final grades in addition to the overall percentage. Learn how to enable a course grading scheme.
+Student View
+Students can view the results of the grading scheme on their Grades page.
+Assignment Grading Schemes
+Grading schemes can be applied specifically to individual assignments. Each assignment includes a field that allows you to choose how the grade is displayed in the Gradebook and in the student Grades page. Learn how to enable an assignment grading scheme.
+For Letter Grade Schemes, you can input scores in the Gradebook depending on the assignment display type:
+For any assignment type, you can enter grades as points or a percentage. For instance, if an assignment is worth 10 points and the student earns 9, you can input 9 or 90% (which displays the grade defined in the percentage range). 
+When an assignment grade display is specifically set to Letter Grade, you can also input a letter grade directly, such as an A-. 
+For Performance schemes, you can input scores in the Gradebook by points, percentage, or performance value. For instance, if an assignment is worth 10 points and the student earns 9, you can input 9 or 90% (which displays the performance defined in the percentage range). You can also input a performance value directly.
+Note: Grading schemes do not apply to Assignment Group columns in the Gradebook. 
+Student View
+In the Grades page, students can see their grades displayed with both the points earned and the grading scheme equivalent.

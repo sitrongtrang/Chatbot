@@ -1,0 +1,25 @@
+How do I restrict files and folders to students in Canvas as an instructor
+Open Files
+In Course Navigation, click the Files link.
+Select File
+By default course files are visible, published, and accessible to all users and display a published icon. Teachers and TAs can restrict file and folder availability, which means the content will only be accessible to teachers and TAs in the course as long as the file is not placed to a content area outside of Files (e.g. Modules, Assignments). 
+To edit file visibility permission, click a file's published or unpublished icon.
+Note: If required by course or account settings, you may need to manage file usage rights before publishing. Learn about managing file usage rights. 
+Manage Visibility in Student Files
+The default restriction option is to make the file only available to students with the link. The Only available with link radio button makes the file available to students who are given a link to the file. The file will be hidden from students in Course Files.
+Notes: 
+The option to make a file only available with a link only applies to Course Files; if you add this file to another area of Canvas, such as Assignments or Modules, all students can view the file.
+When new files are uploaded, the file visibility matches the setting specified in Course Settings. However, you can click the Visibility drop-down menu and select another visibility option.
+Schedule Student Availability
+By scheduling availability to a file or folder, you can give students a window of time to view the file. Students can view the file in Course Files as well as other areas of Canvas where the file has been added during the availability window. If students attempt to access the file outside the availability window, the file is inaccessible.
+To set student availability dates, click the Schedule availability radio button. Then, enter the starting date for the file to be available in the Available From field. If applicable, enter the date when students can no longer view the file in the Available Until field. You can use the calendar to enter a date, or you can enter a date manually.
+With manual entries, the setting for Available From and Available Until is set up to only accept input in one of the following inputs: 
+dd/mm/yyyy 00:00 (24hr) Ex. 27/02/2013 23:59 
+dd/mm/yyyy 00:00am/pm Ex. 27/02/2013 11:59pm 
+Mon Da 00:00am/pm Ex. Feb 27 11:59pm 
+Mon Da 00:00 (24hr) Ex. Feb 27 23:59 
+Note: The time field is optional and, if not selected, defaults to 12am.
+Update File
+Click the Update button.
+View File
+View the restricted status for the file. Hover over the icon to view the details.

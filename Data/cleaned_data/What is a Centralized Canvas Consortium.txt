@@ -1,0 +1,37 @@
+What is a Centralized Canvas Consortium
+Roles and Permissions 
+Roles and permissions are inherited from the parent account to the child account in centrally managed consortiums.
+- Permission overrides are available in the child account unless they are locked.
+- Permissions can be locked at the parent account level and the child account can view but not override the permission.
+Note: Child accounts can override unlocked permissions.
+Account Settings Inheritance 
+The following are how child accounts inherit parent account settings.
+- Child accounts inherit parent account settings.
+- Child accounts inherit certain parent account settings, however, the child account does not have visibility or control to change the settings.
+- Child accounts can view locked settings but cannot change the locked settings.
+- Child accounts can view and modify unlocked settings.
+Intergrations 
+In Child Account Settings, the Integrations tab is not displayed. The Integrations tab is only displayed in the parent account settings and all settings are inherited.
+Notifications 
+Notifications do not display in child accounts. All notification settings are inherited from the parent account.
+Themes Inheritance
+The following are how child accounts inherit parent account themes.
+- Child accounts inherit theme settings and configurations.
+- Parent accounts can lock child accounts from editing themes.
+- Child accounts settings are inherited from the parent account but are not visible. 
+- Child accounts can use the parent account theme by clicking the Default Theme option.
+- Child accounts can create a new theme based on the parent account theme configuration.
+Developer Keys
+Edits to developer keys in parent accounts automatically sync in child accounts for centrally managed Consortium accounts.
+Current Limitations of Centralized Consortiums
+The following features are not inherited by child accounts.
+- EduApp tokens
+- Grading periods
+- Grading schemes
+- LTI tool configurations
+- Outcomes
+- Quiz item banks
+- Quiz questions
+- Quotas
+- Rubrics
+- Terms

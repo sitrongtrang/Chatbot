@@ -1,0 +1,130 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_37A78390-05DE-0135-1AF0-22000BC102FE" class="text-block-content">
+    <p>The Recent Activity Dashboard shows you important recent activities from all of your courses including announcements, discussions, assignments, and conversations. This stream is similar to the <a href="" data-object-class="article" target="" data-object-uuid="54A35540-FEF3-0134-C199-22000AB760A3" data-object-manual-uuid="2E64DA50-E3D9-012F-D7C3-12313804AAC3" rel="nofollow noopener noreferrer">Course Activity Stream</a> for an individual course.</p>
+<p>The following activities will cause notifications for each course to appear in the Global Activity Stream:</p>
+<ul>
+<li>New Announcements</li>
+<li>Replies to Announcements</li>
+<li>New Discussions</li>
+<li>New Discussion Posts</li>
+<li>New Assignments</li>
+<li>Assignments, Quizzes, or Discussions Changed from Ungraded to Graded</li>
+<li>Due Date Changes to Assignments, Quizzes, and Discussions</li>
+<li>New Graded Assignments</li>
+<li>New Peer Review Assignments</li>
+<li>New Conversation Messages</li>
+</ul>
+<p> </p>
+<p>The Recent Activity Dashboard also includes the <a href="/t5/Instructor-Guide/How-do-I-use-the-To-Do-list-and-sidebar-in-the-Dashboard-as-an/ta-p/811" target="_blank">Dashboard sidebar</a>, which includes items in your To-Do list and includes a link to the global Grades page.</p>
+<p>You can change your Dashboard view at any time using the Dashboard Options icon.</p>
+<p> </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Notifications in the Recent Activity Dashboard will not display for activity in Files, Collaborations, Grades, Pages, or Conferences; ungraded quizzes and surveys; or edits to Discussions.</li>
+<li>Edits to Quizzes and Assignments will only display in the Recent Activity Dashboard when the <strong>Notify users that this content has changed</strong> button has been selected in a course.</li>
+<li>To receive notifications for Discussions, you must actively post in the discussions at least once every two weeks. If you stop participating in a discussion after two weeks, Canvas will no longer display discussion notifications.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_dashboard" data-step-uuid="7921fafd-d57e-4321-9bfe-125980dc3b55">
+    <h2 id="open_dashboard" class="step-title screensteps-heading">Open Dashboard</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/836/286/original/1b235576-09da-423f-92ed-592099755bea.png" srcset="" alt="Open Dashboard" height="598" width="89">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_37A7B490-05DE-0135-1AF2-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Dashboard </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_global_activity_stream" data-step-uuid="6956beb9-9336-4eeb-b13e-27b041aca510">
+    <h2 id="open_global_activity_stream" class="step-title screensteps-heading">Open Global Activity Stream</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/288/304/original/897fc75a-ed13-4dae-853e-fbf470618568.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/288/304/medium/897fc75a-ed13-4dae-853e-fbf470618568.png" srcset="" alt="Open Global Activity Stream" height="336" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_37A7E470-05DE-0135-1AF4-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Options</strong> icon [1] and then click the <strong>Recent Activity</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_global_activity" data-step-uuid="78d93615-503e-41cb-87dd-f292168a2fe0">
+    <h2 id="view_global_activity" class="step-title screensteps-heading">View Global Activity</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/245/203/original/90d53088-673b-4332-b70a-e5871d59d84e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/245/203/medium/90d53088-673b-4332-b70a-e5871d59d84e.png" srcset="" alt="View Global Activity" height="186" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_37A81200-05DE-0135-1AF6-22000BC102FE" class="text-block-content">
+    <p>The Global Activity Stream contains recent notifications from all of your courses, including announcements, discussions, assignments, and conversations. This activity stream helps you see all recent activity in your courses and easily ask questions and post to discussion forums. Unlike course cards, the activity stream does not mimic the visibility of Course Navigation links. </p>
+<p>Activities are indicated by activity type and display an icon [1] for the activity. Each activity also includes the name of its associated course [2]. </p>
+<p>New activity in your account is indicated by an unread icon [3]. Discussions and Announcements indicate new activity items published in a course, and Conversations indicate a new message received from a user in a course. Recent Activity items remain for four weeks.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="expand_and_collapse_notifications" data-step-uuid="92ca686f-8893-42a8-946b-0af781b970d3">
+    <h2 id="expand_and_collapse_notifications" class="step-title screensteps-heading">Expand and Collapse Notifications</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/245/207/original/f12aea5a-180b-4ec9-9706-96731400f8ae.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/245/207/medium/f12aea5a-180b-4ec9-9706-96731400f8ae.png" srcset="" alt="Expand and Collapse Notifications" height="232" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_37A83EF0-05DE-0135-1AF8-22000BC102FE" class="text-block-content">
+    <p>You can view the details of each activity by hovering in the notification area and clicking the <strong>Show More </strong>link [1]. To collapse recent activity, click the <strong>Show Less </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_recent_activity" data-step-uuid="f33d5624-7a95-4333-ad82-1e07407eb1be">
+    <h2 id="manage_recent_activity" class="step-title screensteps-heading">Manage Recent Activity</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/245/206/original/839fa3ea-61e0-4aa1-beb2-b7cefacd568f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/245/206/medium/839fa3ea-61e0-4aa1-beb2-b7cefacd568f.png" srcset="" alt="Manage Recent Activity" height="236" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_37A86D50-05DE-0135-1AFA-22000BC102FE" class="text-block-content">
+    <p>You can directly access your recent activities by clicking the course link [1]. To remove a notification, click the <strong>remove </strong>icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

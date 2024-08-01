@@ -1,0 +1,98 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_AA3100D0-F3A8-0139-2805-12F2183ABDFB" class="text-block-content">
+    <p>Grouping outcomes in a course allows for organization of multiple related outcomes.</p>
+<p>This lesson displays how to create outcome groups in a course within an account that has enabled the Improved Outcomes Management feature option. If the Outcomes page in your course displays differently than the images in this lesson, learn how to <a href="/t5/Instructor-Guide/How-do-I-create-outcome-groups-for-a-course/ta-p/1128" target="_blank">create outcome groups</a><a href="https://canvas.screenstepslive.com/admin/v2/internal_links/1136008?type=article&amp;site_id=2204" target="_blank" rel="nofollow noopener noreferrer"> </a>in the classic Outcomes page view.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="AA311650-F3A8-0139-2806-12F2183ABDFB">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/828/160/original/45b865e5-5af4-4763-bbb3-dd55c7bedd95.png" srcset="" alt="Open Outcomes" height="274" width="154">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AA313D60-F3A8-0139-2808-12F2183ABDFB" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_outcome_group" data-step-uuid="AA314EC0-F3A8-0139-2809-12F2183ABDFB">
+    <h2 id="add_outcome_group" class="step-title screensteps-heading">Add Outcome Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/803/911/original/67c6f44a-d245-40bd-b7a6-4b7777782697.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/803/911/medium/67c6f44a-d245-40bd-b7a6-4b7777782697.png" srcset="" alt="Add Outcome Group" height="294" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AA318340-F3A8-0139-280B-12F2183ABDFB" class="text-block-content">
+    <p>You can create a standalone outcome group in your course or create a group nested within another group.</p>
+<p>To create a new outcome group, click the <strong>Create New Group</strong> link [1].</p>
+<p>To create an outcome group within another outcome group, click the <strong>Expand</strong> icon for the group [2] and click the <strong>Create New Group</strong> link within the group [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-group-name" data-step-uuid="acc15852-9d83-4963-8bb4-5e8b319774fb">
+    <h2 id="enter-group-name" class="step-title screensteps-heading">Enter Group Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/803/915/original/7b759440-5e4a-482a-b4b1-052105f51030.png" srcset="" alt="Enter Group Name" height="332" width="388">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cc138117-e3f8-46c5-83ad-034346d94a8f" class="text-block-content">
+    <p>Enter the group name in the <strong>Name</strong> field [1].</p>
+<p>To cancel, click the <strong>Cancel</strong> button [2]. To save the outcome group, click the <strong>Confirm</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_outcome_group" data-step-uuid="AA31D270-F3A8-0139-280F-12F2183ABDFB">
+    <h2 id="view_outcome_group" class="step-title screensteps-heading">View Outcome Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/452/289/original/74139536-f7a0-4fef-bcd8-80fbb6daf497.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/452/289/medium/74139536-f7a0-4fef-bcd8-80fbb6daf497.png" srcset="" alt="View Outcome Group" height="476" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AA31FDE0-F3A8-0139-2811-12F2183ABDFB" class="text-block-content">
+    <p>To view the new outcome group, click the name of the group in the Outcome Groups list [1].</p>
+<p>To view the Settings menu for the group, click the <strong>Settings</strong> icon [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-edit-or-remove-a-course-outcome-group-in-Improved/ta-p/486361" target="_blank">edit the outcome group</a>, click the <strong>Edit</strong> link [3]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-move-course-outcomes-and-outcome-groups-in-Improved/ta-p/486356" target="_blank">move the outcome group</a>, click the <strong>Move</strong> link [4].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-create-a-course-outcome-in-Improved-Outcomes-Management/ta-p/486357" target="_blank">add outcomes</a>, click the <strong>Add Outcomes</strong> link [5].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-import-outcomes-into-a-course-in-Improved-Outcomes/ta-p/486359" target="_blank">import outcomes</a>, click the <strong>Import Outcomes</strong> link [6].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-edit-or-remove-a-course-outcome-group-in-Improved/ta-p/486361" target="_blank">remove the outcome group from the course</a>, click the <strong>Remove</strong> link [7].</p>
+<p>To view the outcome group description, click the <strong>View Description </strong>link<strong> </strong>[8].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

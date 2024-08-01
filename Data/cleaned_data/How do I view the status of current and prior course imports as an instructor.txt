@@ -1,0 +1,24 @@
+How do I view the status of current and prior course imports as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Import Content into Course
+Click the Import Course Content link.
+View Current Jobs
+The Current Jobs menu displays the status of your import. Canvas can display several import statuses.
+View Queued
+When an import is first uploaded, the status displays as queued. Canvas copies may also display as pre-processing. These statuses both mean that Canvas is preparing the file for import. 
+View Running
+When a report is uploading, the status displays as Running. Running reports display a progress bar indicating the time remaining to complete the import.
+View Waiting for Select
+If you chose to select specific content as part of the import process, the current job shows as Waiting for Select, which means you must select the content you want to import before it can be completed. You cannot cancel this action. Click the Select Content button.
+Once you select content, the statuses will return to Queued and Running until Canvas imports the selected content.
+Note: If you no longer want to select specific content and want to import all content instead, click the Select Content button and simply select all content and groups available for importing.
+View Completed
+When your import is complete, the status displays as Completed. View imported content by accessing any link in Course Navigation.
+A Completed status shown in orange indicate the import contains errors. To view the specific error(s), click the issues link. Examples of error issues include an external tool that needs to be reconfigured or content that includes a broken link. 
+View Failed
+If an import is unsupported or otherwise cannot be imported, the status displays as Failed. To view the specific error(s), click the issues link.
+View Previous Import
+You can view previously imported content using the link next to the import type.
+For imported files, click the content name. The file will download to your computer. File imports cannot be downloaded for re-import after 500 days.
+For course copies, clicking the link will take you back to the course that was copied. 

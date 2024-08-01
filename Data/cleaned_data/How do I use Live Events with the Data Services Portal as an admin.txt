@@ -1,0 +1,17 @@
+How do I use Live Events with the Data Services Portal as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Data Services
+In Account Navigation, click the Data Services link.
+View Data Services
+By default, Data Services opens to the Settings page. In Data Services Settings, you can view and manage a list of all your account data streaming options. 
+To view data services documentation, click the Documentation tab. 
+View Data Streaming Options
+View your current data streams. The Data Streaming Options table displays the name and status of your streams. Inactive streams display the Inactive status label. Active streams do not display a label.
+Add Data Stream
+To add a new data stream, click the Add button.
+Manage Data Stream Options
+To manage options for a data stream, click the stream's Options icon. To edit the stream, click the Edit link. To duplicate the stream, click the Duplicate link. To deactivate the stream, click the Deactivate link.
+Note: Inactive subscriptions are only displayed for 90 days.
+Reactivate Data Stream
+To reactivate a deactivated stream, click the Reactivate link.

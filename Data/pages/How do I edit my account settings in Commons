@@ -1,0 +1,146 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2158FEC0-1CA0-0135-61D4-22000B5A851D" class="text-block-content">
+    <p>As an admin, you can manage account settings. Settings are saved automatically as you make changes.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_admin_settings" data-step-uuid="a26b313f-69a7-44b8-921c-8317e9130be9">
+    <h2 id="open_admin_settings" class="step-title screensteps-heading">Open Admin Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/538/777/original/b1ced00b-fc0e-449a-b023-c9bd67d7b76e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/538/777/medium/b1ced00b-fc0e-449a-b023-c9bd67d7b76e.png" srcset="" alt="Open Admin Settings" height="61" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_21593650-1CA0-0135-61D6-22000B5A851D" class="text-block-content">
+    <p>In Commons Navigation, click the <strong>Admin</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account_settings" data-step-uuid="a900ac35-e8db-4711-9ba4-3c1cc59d6fcd">
+    <h2 id="open_account_settings" class="step-title screensteps-heading">Open Account Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/860/544/original/4b8a1602-1b64-401a-af3b-82f5779739d5.png" srcset="" alt="Open Account Settings" height="767" width="761">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_21596AE0-1CA0-0135-61D8-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Account Settings</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-approved-content" data-step-uuid="857cab78-7352-4d57-bcb6-dce6fd6015c3">
+    <h2 id="edit-approved-content" class="step-title screensteps-heading">Edit Approved Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/350/650/original/f7af6af7-c777-407a-993b-397d78ba5909.png" srcset="" alt="Edit Approved Content" height="356" width="758">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3df311a0-3e6f-48d6-88fb-0357b21706e7" class="text-block-content">
+    <p>You can allow approved content for your Commons account. Approved content is indicated in search results by a customizable banner and image.</p>
+<p>To allow approved content, enable the <strong>Allow Approved Content </strong>option [1].</p>
+<p>To select a custom background color, click the <strong>Select background color</strong> button [2].</p>
+<p>To upload a custom image, click the <strong>Select image</strong> link [3]. To reset the custom image back to the default (a white checkmark icon), click the <strong>Reset to default</strong> link [4].</p>
+<p>To prioritize approved content in search results, click the <strong>Prioritize approved content in search results</strong> checkbox [5].</p>
+<p>You can allow other users to manage approved content. Type the name of a user in the field and press Enter (PC) or Return (Mac) to give them permission to curate approved content [6].</p>
+<p><strong>Note: </strong>Custom images must be 50x50 pixels in size and the file format must be either JPEG, PNG, or SVG.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_public_content" data-step-uuid="59403825-2277-4a9a-8bc1-4ba6d62e4136">
+    <h2 id="edit_public_content" class="step-title screensteps-heading">Edit Public Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/004/992/original/e430bee0-ecb5-4d85-877f-a014d6eba4bf.png" srcset="" alt="Edit Public Commons" height="98" width="435">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2159A000-1CA0-0135-61DA-22000B5A851D" class="text-block-content">
+    <p>By default, users will be able to share and view public content.</p>
+<p>To disable public sharing, disable the <strong>Allow users to share to public account</strong> option [1]. This will remove the <em>Public</em> option when <a href="/t5/Canvas-Commons/How-do-I-use-Commons/ta-p/1795" target="_blank">finding a resource</a> in Commons and the <em>Share with public (All Canvas users) </em>option when <a href="/t5/Canvas-Commons/What-types-of-sharing-options-are-available-in-Commons/ta-p/1815" target="_blank">sharing a resource</a> to Commons.</p>
+<p>To prevent users in your account from viewing or importing publicly shared content, disable the <strong>Allow users to view publicly shared content </strong>option [2]. This option will hide all publicly shared resources from your Commons account. Users will also not be able to import any publicly shared resources. However, disabling this option does not affect publicly available featured content.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Authors of publicly shared resources will always be able to view their resource.</li>
+<li>If the Allow users to view publicly shared content option is disabled, admins will not be able to view public resources and discovering users will not be able to view updates to previously imported public resources.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-featured-content" data-step-uuid="e82f7870-20b9-4166-aa02-9d579974e873">
+    <h2 id="edit-featured-content" class="step-title screensteps-heading">Edit Featured Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/690/535/original/f21a5008-6537-4771-8c58-bffb4a699fc5.png" srcset="" alt="Edit Featured Content" height="60" width="255">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dd29922c-aa09-4790-a6ec-3fe061438efd" class="text-block-content">
+    <p>Featured content is enabled by default. When this option is enabled, featured content displays to users at the top of the Commons search page. </p>
+<p>To disable featured content from displaying at the top of the Commons search page, disable the <strong>Allow featured content</strong> option. Featured content curated by the Commons team will still display in search results even if this option is disabled.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-default-search-filters" data-step-uuid="a6773543-71c9-407f-b1d0-80f25fe044a7">
+    <h2 id="edit-default-search-filters" class="step-title screensteps-heading">Edit Default Search Filters</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/004/984/original/7465efaf-bbfe-4c5b-aaa1-b5db18c18fa8.png" srcset="" alt="Edit Default Search Filters" height="778" width="604">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b2affb74-254f-4e31-9492-a1498b6afd0a" class="text-block-content">
+    <p>You can configure default search filters in Commons. Default search filters are automatically applied to all search results in Commons. However, users can modify filters for individual searches.</p>
+<p>To turn on default search filters, enable the <strong>Configure default search filters</strong> option [1].</p>
+<p>To only display approved content in search results, enable the <strong>Only Account Approved Resources</strong> option [2].</p>
+<p>To filter content based on grade/level, click the checkbox next to the desired grade/level [3].</p>
+<p>To filter content based on sharing and publicity settings, select an option from the list [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_standards_outcomes" data-step-uuid="d8e66634-e651-4124-84e6-b4c906f1ae4c">
+    <h2 id="edit_standards_outcomes" class="step-title screensteps-heading">Edit Standards &amp; Outcomes </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/149/333/original/a5687c75-a9cd-4877-883b-2407ea613a1f.png" srcset="" alt="Edit Standards &amp;amp; Outcomes " height="146" width="445">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2159D4B0-1CA0-0135-61DC-22000B5A851D" class="text-block-content">
+    <p>By default, Standards &amp; Outcomes settings are enabled.</p>
+<p>To disable users from tagging federal or state standards to shared resources in Commons, click the <strong>Show Common Core Standards</strong> [1] or <strong>Show State Standards </strong>[2]<strong> </strong>button to turn off the option.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

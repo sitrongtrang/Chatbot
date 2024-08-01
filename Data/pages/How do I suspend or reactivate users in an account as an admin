@@ -1,0 +1,148 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_99222B26-7B5C-4B9B-AE7C-C1F79CF573EC" class="text-block-content">
+    <p>You can suspend and reactivate a user's profile. Suspending a user allows you to remove the user's login access to authorized systems. Reactivating a user allows the user to log into Canvas and regain access to previously authorized API integrations. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>User suspension and reactivation is also supported in the SIS Export report.</li>
+<li>Users with multiple pseudonyms will continue to receive notifications unless all pseudonyms are suspended. </li>
+<li>Only root account admins can view and manage suspensions.</li>
+<li>Suspending a student does not affect the student's <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Enrollment-Status-Comparison/ta-p/387055" target="_blank">Canvas enrollment status</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="5FB24922-8C58-4032-BC46-2B77598D2369">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B3F9E158-320D-457F-BEE0-E9E0D6B308D9" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-people" data-step-uuid="54E73D7F-01AB-4720-9CD8-9C7E012953B3">
+    <h2 id="open-people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/393/original/59a3b177-c463-4464-9ce9-51c59096b183.png" srcset="" alt="Open People" height="298" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_115B32A1-6E9C-43E9-8409-78665B62AF2B" class="text-block-content">
+    <p>In Account Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_user" data-step-uuid="4C3820CC-5262-43FB-8E56-6B72B4170202">
+    <h2 id="find_user" class="step-title screensteps-heading">Find User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/076/220/original/find-user.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png" srcset="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png 2.0x, https://media.screensteps.com/image_assets/assets/008/076/220/medium_lowres/find-user.png" alt="Find User" height="103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C803E319-F6C6-4A6A-A10C-3F4C981E9201" class="text-block-content">
+    <p>Use the filter and search options to find the user in the account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_profile" data-step-uuid="7C759984-8BE9-4437-8E59-2ABE149FAB48">
+    <h2 id="open_user_profile" class="step-title screensteps-heading">Open User Profile</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/971/054/original/2b2ce42e-12ab-4ba8-af1c-623932d247a8.png" srcset="" alt="Open User Profile" height="164" width="596">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_27BDEBB7-D6CA-4432-984D-4E32CF692FC8" class="text-block-content">
+    <p>In the search results, click the user's name.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_user_details" data-step-uuid="67D95E76-53B3-4688-9185-A6D6AA463291">
+    <h2 id="edit_user_details" class="step-title screensteps-heading">Suspend User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/013/616/original/ab86f9b2-eb86-4b0a-a3b8-d724b1ba9d8f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/013/616/medium/ab86f9b2-eb86-4b0a-a3b8-d724b1ba9d8f.png" srcset="" alt="Suspend User " height="362" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_03F2536D-6EC5-459E-B6BD-4B56F763F2D8" class="text-block-content">
+    <p>Click the <strong>Suspend User</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_details" data-step-uuid="29FE9896-293F-45EC-A716-04E1C1F43BFD">
+    <h2 id="update_details" class="step-title screensteps-heading">Confirm Suspension</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/972/515/original/cf90223c-bfda-4115-be62-b61e227d71a9.png" srcset="" alt="Confirm Suspension " height="319" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_19E849C7-FDF2-4DA9-A87B-C478D7466B73" class="text-block-content">
+    <p>To suspend a user and remove all of their login access to authorized systems, click the <strong>Suspend</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="reactivate-user" data-step-uuid="7d10ecdc-a2dc-48a2-99c0-d89675bccb6c">
+    <h2 id="reactivate-user" class="step-title screensteps-heading">Reactivate User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/013/618/original/d701f574-a3cc-4527-8e67-019216fa2f6f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/013/618/medium/d701f574-a3cc-4527-8e67-019216fa2f6f.png" srcset="" alt="Reactivate User " height="362" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_837627a7-fcbd-44aa-9ae2-3c740d756873" class="text-block-content">
+    <p>To allow a user to login again, click the <strong>Reactivate User</strong> link. </p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/971/062/original/08ab7560-c72d-490d-8739-d955d4b4fab6.png" srcset="" alt="Confirm Reactivation" height="317" width="476">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ed6dff3f-1d77-4280-a3a8-ce624faefe07" class="text-block-content">
+    <p>Click the <strong>Reactivate</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

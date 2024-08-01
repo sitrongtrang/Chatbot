@@ -1,0 +1,212 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_81ACA4C0-1F01-0135-2777-22000AB760A3" class="text-block-content">
+    <p>You can view quizzes in your course by accessing the Quizzes page. Learn how to view each type of quiz that may appear in your course.</p>
+<p><strong>Note:</strong> Your instructor may choose to hide the Quizzes link in Course Navigation. If the Quizzes link is not available, you can still access Quizzes through other areas of Canvas. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="A01C0123-B1EB-4E6D-BCDE-49EA6F05364B">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/382/original/c80ad8a7-ad8e-4b5b-978b-76bb2a353809.png" srcset="" alt="Open Quizzes" height="242" width="173">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81ACD790-1F01-0135-2779-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+<p><strong>Note: </strong>If the Quizzes link is not available in Course Navigation, you can access course quizzes through the Modules page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_quizzes" data-step-uuid="F81A96EA-C30D-43D8-9CCC-1164C5F821E8">
+    <h2 id="view_quizzes" class="step-title screensteps-heading">View Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/293/907/original/6ff32f79-9e02-40d6-9316-db3bf37fe038.png" srcset="" alt="View Quizzes" height="296" width="622">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81AD0580-1F01-0135-277B-22000AB760A3" class="text-block-content">
+    <p>Quizzes are identified by the quiz icon [1]. </p>
+<p>In the Quiz Index Page, you can view the name of each quiz [2], the availability dates for the quiz [3], the due date for the quiz [4], the number of points the quiz is worth [5], and the number of questions in the quiz [6]. </p>
+<p>Quizzes are ordered by due date. Some quizzes may not include a due date.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_availability_dates" data-step-uuid="0fd1e43b-aa24-4605-9562-fe3a5c1a4953">
+    <h3 id="view_availability_dates" class="step-title screensteps-heading">View Availability Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/293/909/original/9cda9982-c346-42c5-a19e-1f7b6f933e8d.png" srcset="" alt="View Availability Dates" height="345" width="622">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81AD3950-1F01-0135-277D-22000AB760A3" class="text-block-content">
+    <p>The first dates you may see are called availability dates. Sometimes your instructor only wants you to submit a quiz during a specified date range, so the available dates are the range of time that the quiz is accessible to you.</p>
+<ol>
+<li>If the quiz does not have a date listed, the quiz is open; you can complete the quiz at any time during your course.  </li>
+<li>If the quiz says <strong>Available until </strong>[date], you can complete the quiz until the specified date. </li>
+<li>If the quiz says <strong>Not Available Until</strong> [date], the quiz is locked until until the specified date.</li>
+<li>If the quiz says <strong>Closed</strong>, the quiz cannot accept quiz submissions.  </li>
+</ol>
+<p>If you start a quiz but do not submit it, Quizzes includes an autosubmit feature that will submit the quiz for you on the <strong>Available until </strong>quiz date. If a quiz does not include an Available until date, the quiz will autosubmit on the last day of the course. </p>
+<p><strong>Note:</strong> If the listed date is set to 12 am the last day for the assignment to be submitted is the full day before the listed date. For instance, if an assignment is Available until December 15, you can access the assignment until December 14 at 11:59 pm.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_due_dates" data-step-uuid="914b2e59-daf9-4596-9980-41ab3f387d2f">
+    <h3 id="view_due_dates" class="step-title screensteps-heading">View Due Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/293/897/original/21742d05-f292-4962-9a81-417953bef9e3.png" srcset="" alt="View Due Dates" height="211" width="622">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81AD6800-1F01-0135-277F-22000AB760A3" class="text-block-content">
+    <p>The second set of dates are the Due dates [1] for each respective quiz. Any quizzes submitted after the due date are marked as late; some instructors may deduct points for late submissions. Again, not all quizzes may include a Due date. </p>
+<p>You can still submit late quizzes before the quiz <strong>Available until</strong> date (otherwise the quiz will be autosubmitted for you). </p>
+<p><em>Please be aware that the Due date may be <strong>before or on</strong> the Available date. </em></p>
+<p>Due dates also include a time [2]. If your instructor does not set a due time, the listed date displays the course's default due time.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter_quizzes" data-step-uuid="0a51b455-2c57-4c88-ac3b-e86df73cbde6">
+    <h2 id="filter_quizzes" class="step-title screensteps-heading">Filter Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/782/original/d227721d-c390-45ce-a366-fdeea8786401.png" srcset="" alt="Filter Quizzes" height="72" width="275">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81AD9B60-1F01-0135-2781-22000AB760A3" class="text-block-content">
+    <p>You can search for a quiz by typing a quiz title or a keyword in the <strong>Search for Quiz</strong> field.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_quiz_details" data-step-uuid="2741411c-d990-4a6f-b70a-ee6810f32c7d">
+    <h2 id="view_quiz_details" class="step-title screensteps-heading">View Quiz Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/293/901/original/7c585639-67f0-470e-81cc-5fbb63159f9a.png" srcset="" alt="View Quiz Details" height="211" width="622">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81ADC8C0-1F01-0135-2783-22000AB760A3" class="text-block-content">
+    <p>To view the details of a quiz, click the name of the quiz. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_open_quiz" data-step-uuid="0d7a14df-d1bc-42c5-8c26-4b3c21ef63e4">
+    <h3 id="view_open_quiz" class="step-title screensteps-heading">View Open Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/293/903/original/2b16c999-f2d2-4505-bf8d-794fe10a592a.png" srcset="" alt="View Open Quiz" height="344" width="657">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81ADFC70-1F01-0135-2785-22000AB760A3" class="text-block-content">
+    <p>When a quiz is open to you to take at any time, you can view the due date, points, and questions for the quiz. </p>
+<p>You can also view additional details:</p>
+<ul>
+<li>
+<strong>Time Limit</strong> [1]: the length of time you have to complete the quiz. If your quiz has a time limit, you must complete the entire quiz within that time in one sitting. If you navigate away from the quiz, the timer will keep running. You will also be kicked out of the quiz when the time limit has been reached.</li>
+<li>
+<strong>Instructions</strong> [2]<strong>:</strong> any instructions that your instructor has about the quiz.</li>
+</ul>
+<p> </p>
+<p>In the example above, the quiz is due by September 15. However, if you were to miss the due date, you could still take the quiz for late credit before the last day of the course.</p>
+<p>To <a href="/t5/Student-Guide/How-do-I-take-a-quiz/ta-p/507" target="_blank">take the quiz</a>, click the <strong>Take the Quiz </strong>button.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you start a quiz that has a due date, but do not finish the quiz by the due date (as indicated in your local time zone), Canvas will automatically submit the quiz on the due date. </li>
+<li>Quiz details do not show the due date in relation to the current time. For example, if a quiz has a due date of 11:59 pm and you begin the quiz at 11:30 pm, you will only have 30 minutes to complete the quiz before it is marked late. The same time restriction applies if you are taking a timed quiz. For example, if the Time Limit was set to 60 minutes but you begin the quiz at 11:30 pm, you still only have 30 minutes to complete the quiz before it is marked late. Canvas will notify you regarding any time restrictions when you begin the quiz.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_quiz_with_availability_dates" data-step-uuid="73f4e851-3cb3-4095-be1b-ee76e9349580">
+    <h3 id="view_quiz_with_availability_dates" class="step-title screensteps-heading">View Quiz with Availability Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/293/899/original/a58dccf2-858f-452d-8738-1ac8d546d8a1.png" srcset="" alt="View Quiz with Availability Dates" height="344" width="657">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81AE31E0-1F01-0135-2787-22000AB760A3" class="text-block-content">
+    <p>When a quiz is open to you during availability dates, you can view all available quiz information in addition to the specific dates the quiz is available to you. Availability dates may include a first available date (open date), last available date (locked or closed), or both dates to create an overall date range. The Due date may be <strong>before or on</strong> the last available date (if one is set).</p>
+<p>In the example above, the quiz is available to you starting April 8 at 12 am and is due by April 9 at 11:59 pm. However, if you were to miss the due date, you could still take the quiz until April 10 at 11:59 pm for late credit. If you do not submit the quiz by the last available date of April 10 at 11:59 pm (as indicated in your local time zone), Canvas will automatically submit the quiz on the last available date. On April 11 at 12 am, the quiz will not be available to you.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_locked_quiz" data-step-uuid="8ba8179f-db17-46a5-9882-c6efb6ceaf35">
+    <h3 id="view_locked_quiz" class="step-title screensteps-heading">View Locked Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/293/911/original/44014fdc-35fe-4d8b-9fe5-491c67c23e7e.png" srcset="" alt="View Locked Quiz" height="219" width="657">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81AE6520-1F01-0135-2789-22000AB760A3" class="text-block-content">
+    <p>When a quiz is locked, you can view all details of the quiz. You can also view the date when you can take the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_closed_quiz" data-step-uuid="3c51e68a-2db0-44d7-8a97-be0ddca0fe95">
+    <h3 id="view_closed_quiz" class="step-title screensteps-heading">View Closed Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/293/905/original/0e26a529-96b6-4890-ae9b-f626107de963.png" srcset="" alt="View Closed Quiz" height="391" width="650">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81AE9960-1F01-0135-278B-22000AB760A3" class="text-block-content">
+    <p>When a quiz is closed, you can view all details of the quiz. You can also view the date the quiz was locked to submissions.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-unavailable-quiz" data-step-uuid="7c84846e-2312-45fe-82f7-98848c92ba3e">
+    <h2 id="view-unavailable-quiz" class="step-title screensteps-heading">View Unavailable Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/780/263/original/be8f86f3-e9b2-497a-b193-c2f3ef70f382.png" srcset="" alt="View Unavailable Quiz" height="59" width="529">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cacc3096-f52e-462b-bac4-65f15b16d9f2" class="text-block-content">
+    <p>In New Quizzes, when your enrollment has been concluded in a course, a message displays that the quiz is no longer available. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

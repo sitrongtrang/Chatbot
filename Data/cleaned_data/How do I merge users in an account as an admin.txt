@@ -1,0 +1,29 @@
+How do I merge users in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open People
+In Account Navigation, click the People link.
+Find User
+Use the filter and search options to find the user in the account.
+Open User Profile
+In the search results, click the user's name.
+Merge User
+Click the Merge with Another User link.
+Find User Account
+Locate the user account where you want to merge the user's information. You can either search for the user or enter the user's ID. 
+If you are enrolled in multiple accounts, the User Accounts page displays an account menu. In the drop-down menu, select the account where the user is located.
+To locate a user by name, type the user's name in the Name field. Select the user when the full name appears. After confirming the user, click the Select button.
+To select a user by user ID, enter the ID in the User ID field and click the Go button. 
+Note: The User ID is found at the end of your Canvas URL (i.e. account.instructure.com/account/XXXXXX/users/XXXXXX).
+Merge User Accounts
+After selecting the user account to merge, you will see the process and end result table.
+The table will show you the User, Action, Emails, Logins, and Enrollments of each user. The table will tell you what will be deleted and kept.
+If you want to change positions of the users so one gets deleted and the other does not, click the Switch User Positions button.
+You can also click the Merge Someone Else With [User Name] for either of the users if you decide to change the users.
+When you are ready, click the Prepare to Merge Users button.
+Note: The table will not display enrollments in concluded courses or courses in an unpublished state.
+Confirm Merge
+You will be prompted one more time to ask if you are sure about merging the users together. When you are ready, click the Merge User Accounts button.
+Note: This process cannot be undone.
+View Confirmation
+Confirm the merge was successful.

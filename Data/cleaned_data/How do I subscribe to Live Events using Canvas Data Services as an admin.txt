@@ -1,0 +1,35 @@
+How do I subscribe to Live Events using Canvas Data Services as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Data Services
+In Account Navigation, click the Data Services link.
+Add Data Stream
+To create a new data stream for your account, click the Add Stream button. 
+Configure Data Stream
+Enter a title for your stream in the Name/Title field. 
+Select an SQS or HTTPS delivery method in the Delivery Method drop-down menu. Then enter your AWS SQS or an HTTPS endpoint URL in the URL field.
+Notes: 
+Only one delivery method is allowed per subscription. 
+Canvas uses JWT to sign an event. If service is unavailable and Canvas cannot reach it, the events occurring during the service outage may not be delivered.
+Configure Amazon SQS Data Stream
+If you want to require authentication for an Amazon SQS URL, select the AWS Credentials in the Authentication field. If authentication is not required, this field can be set to the None option.
+If AWS credentials are required, enter the AWS key, AWS secret, and AWS region.
+Select the event format in theMessage Type field. Message type can be set to Canvas or Caliper 1.1.
+Note:The Application Type field can only be set to the Data Streaming option.
+Configure HTTPS Data Stream
+The HTTPS delivery method includes an option to display source endpoint payload data with your data stream. To view payload data, select the Sign Payloadcheckbox.
+Select the event format in theMessage Type field. Message type can be set to Canvas or Caliper 1.1.
+Note:The Application Type field can only be set to the Data Streaming option.
+Select Subcriptions
+Select the subscriptions you want to include in your data stream. 
+To search for specific events, type the event name in the Search Events field. 
+To include all events in your stream, click the Subscriptions checkbox. Selecting this option includes all event types as well as user and system generated actions.
+To subscribe to events triggered by an action directly performed by and end user, click the User Generated checkbox. User generated events include information about web requests, browser and user data in event metadata, and details about objects affected by the change. 
+To subscribe to events triggered by asynchronous jobs, click the System Generated checkbox. System generated events include data about processes that triggered an event as well as details about objects affected by the change.
+You can also subscribe to event groups. To subscribe to all items in a group, click the checkbox for the group. You can also select to include only User or System Generated data. 
+To subscribe to individual events, click the Arrow icon for the subscription group and click the checkbox for the subscription you want to add.
+Note: The image in this step shows subscription options for the Canvas message type. The options for the Caliper 1.1 message types are different, but the steps to subscribe are the same.
+Save Data Stream
+To save your data stream, click the Save & Exit button.
+View Data Streams
+You can view and manage your data streams on the Data Streaming Options page. 

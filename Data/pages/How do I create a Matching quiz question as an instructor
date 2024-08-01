@@ -1,0 +1,159 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3EBD4E70-2229-0135-F561-22000B5A851D" class="text-block-content">
+    <p>You can create a matching question for your students.</p>
+<p><strong>Note</strong>: Matching questions only support text at this time.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="0D4CFC64-BC9D-4098-8B3B-845067B1AA2E">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/329/original/deb96584-e9eb-4d79-b492-d4d4808f3697.png" srcset="" alt="Add Question" height="246" width="698">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3EBDBD90-2229-0135-F563-22000B5A851D" class="text-block-content">
+    <p>With the <strong>Questions</strong> tab [1] selected inside a new quiz, click the <strong>New Question </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_name_type_and_points" data-step-uuid="1D72476D-13E4-4FF3-8B3B-97078FA851DB">
+    <h2 id="set_name_type_and_points" class="step-title screensteps-heading">Set Name, Type, and Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/323/original/a0c3ceb7-1b52-439a-afcf-3438c2717256.png" srcset="" alt="Set Name, Type, and Points" height="72" width="628">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3EBE9260-2229-0135-580D-22000B5A851D" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field [1]. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+<p>Click the drop-down menu and select the Matching question type [2].</p>
+<p>Enter number of points the question is worth (quiz totals are calculated based on combined total of questions) [3].</p>
+<p><strong>Note:</strong> Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_matching_question_details" data-step-uuid="bf6ab7ed-04a1-482f-b43b-13df75e7f97e">
+    <h2 id="enter_matching_question_details" class="step-title screensteps-heading">Enter Matching Question Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/122/289/original/b43d606e-f178-4e2a-a6ff-c12b2e3f4fee.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/122/289/medium/b43d606e-f178-4e2a-a6ff-c12b2e3f4fee.png" srcset="" alt="Enter Matching Question Details" height="1214" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3EBF6290-2229-0135-580F-22000B5A851D" class="text-block-content">
+    <p>To build a Matching question, you will need to enter the following details:</p>
+<ol>
+<li>The question text (use the Rich Content Editor to include video, images, math equations, or flash activities)</li>
+<li>The first part of the matching pair</li>
+<li>The second part of the matching pair (displays a maximum of 100 characters)</li>
+</ol>
+<p>Repeat steps 2 and 3 until all matches are paired.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_additional_match_answers_and_possibilities" data-step-uuid="afa4464b-f4ad-48cd-89ea-b5d88c751569">
+    <h3 id="add_additional_match_answers_and_possibilities" class="step-title screensteps-heading">Add Additional Match Answers and Possibilities  </h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/122/292/original/7f4e8cfd-d121-4822-8b4b-e594332279c8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/122/292/medium/7f4e8cfd-d121-4822-8b4b-e594332279c8.png" srcset="" alt="Add Additional Match Answers and Possibilities  " height="572" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3EBFE9B0-2229-0135-5811-22000B5A851D" class="text-block-content">
+    <p>If you want to add another answer, click the <strong>Add Another Answer</strong> link [1].</p>
+<p>To add incorrect answers as distractors, enter each item on its own line in the <strong>Additional Match Possibilities </strong>field [2]. When answering these questions, students will see a randomized list that includes these distractors and all correct answers entered in the Matching right side fields.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_feedback_text" data-step-uuid="FB0D4FD2-280F-4199-99CE-A1F144B8EAD5">
+    <h2 id="enter_feedback_text" class="step-title screensteps-heading">Enter Feedback Text</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/122/294/original/747f297f-cc3f-438c-a2e7-65bbd0ff1d74.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/122/294/medium/747f297f-cc3f-438c-a2e7-65bbd0ff1d74.png" srcset="" alt="Enter Feedback Text" height="521" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3EC02120-2229-0135-5813-22000B5A851D" class="text-block-content">
+    <p>To leave general answer feedback per answer, click the general comments field [1].  </p>
+<p>You can choose to create a correct answer comment [2], wrong answer comment [3] and general answer comments [4] for the quiz question as a whole.</p>
+<p><strong>Note:</strong> Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.  </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="A4A9A5E5-37C2-49CC-BC39-D99EC4F9C279">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/319/original/ce18cc61-a80e-4d43-947b-478d6d147dab.png" srcset="" alt="Update Question" height="52" width="214">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3EC10F90-2229-0135-5B12-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+<p>Add additional <a href="null" target="_blank" rel="nofollow noopener noreferrer">individual questions</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_matching_question" data-step-uuid="03E4A663-CD19-4213-B796-B3984C2AAA89">
+    <h2 id="student_view_for_matching_question" class="step-title screensteps-heading">Student View for Matching Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/333/original/532bd56b-2d96-40f3-8d53-bd37ee9dbbd4.png" srcset="" alt="Student View for Matching Question" height="391" width="663">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3EC2EE30-2229-0135-5B14-22000B5A851D" class="text-block-content">
+    <p>This is what students see when they encounter a Matching question in a quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_matching_feedback" data-step-uuid="FAEDBD84-6407-4F60-8646-728F427789AD">
+    <h2 id="student_view_for_matching_feedback" class="step-title screensteps-heading">Student View for Matching Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/327/original/70861b99-0eb5-4846-9739-b9d64131ab5d.png" srcset="" alt="Student View for Matching Feedback" height="596" width="703">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3EC45690-2229-0135-DB36-22000B5A851D" class="text-block-content">
+    <p>If you allow students to see the correct answers, correct responses are marked with a green flag [1]. Incorrect responses will be marked with a red flag [2] and any correct answers not indicated by the student are marked with a gray flag [3]. Partial credit will be assigned if some of the blanks are completed correctly [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

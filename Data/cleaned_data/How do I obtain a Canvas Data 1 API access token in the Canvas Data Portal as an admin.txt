@@ -1,0 +1,12 @@
+How do I obtain a Canvas Data 1 API access token in the Canvas Data Portal as an admin
+Canvas Data 1 will be deprecated on December 31, 2023. Canvas Data 1 guides will be removed from the Community end of June 2024. Learn more about accessing data using Canvas Data 2.
+Open Account
+Click the Admin link, then click the name of the account.
+Open Canvas Data Portal
+In Account Navigation, click the Canvas Data Portal link.
+Create Credentials
+Click the Create Credentials button.
+Copy Credentials
+Copy the API Key and API Secret. If you return to the Credentials Portal, you will be able to see the API Key but not the API Secret. 
+Create New Credentials
+You can create new credentials by clicking the Create Credentials button. However, generating new credentials will invalidate the old credentials for all users who have access to them.

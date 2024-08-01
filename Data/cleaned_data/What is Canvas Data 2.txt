@@ -1,0 +1,25 @@
+What is Canvas Data 2
+Canvas Data 2
+Canvas Data 2 offering is a set of services and technologies that provides institutions with access to download their raw data across various Instructure educational products. Canvas Data 2 allows institution IT/data teams to retrieve their school's LMS data in bulk and keep it up-to-date (4 hours of data freshness) to conduct their own research and build custom reports, dashboards, and tools to meet the unique needs of the institution. Canvas Data 2 allows access to high-fidelity source data and provides more granular data.
+Audience and Usage
+The intended audience for this tool is institution data analysts, developers, or data administrators with some knowledge of raw data collection and transformation. 
+Institutions are likely to use this data for analytics and custom reporting initiatives.
+Usage:
+Low latency (4 hours)
+Transactional data
+Operational data
+Bulk transfers
+Note: Canvas Data 2 is an opt-in product, nevertheless in the initial phase as customers are onboarded in an ongoing fashion, the data freshness may be higher than 4 hours.
+Data Schema and Versioning
+Canvas Data 2 introduces a new relational data schema instead of the star schema from Canvas Data 1.
+The Canvas Data 2 schema is versioned; any updates (additions and deletions) create a new schema version for a table.
+Data Refresh and Formats
+Data is available approximately within 4 hours from the transaction in Canvas.
+The following formats are available:
+JSON
+CSV
+TSV
+Parquet
+Datasets
+There are 89 unique datasets (tables).
+Data will be available as snapshots (state at current point in time) or incremental updates (most recent changes between two points in time).

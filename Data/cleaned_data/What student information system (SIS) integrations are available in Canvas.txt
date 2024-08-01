@@ -1,0 +1,25 @@
+What student information system (SIS) integrations are available in Canvas
+Instructure Supported SIS Integrations 
+Instructure supports Canvas integrations with the following Student Information Systems: 
+Aeries
+Aspen
+Aspire
+Blackbaud
+Classlink *
+Focus
+Infinite Campus
+PeopleSoft (Oracle)
+Pinnacle (Wazzle)
+PowerSchool
+ProgressBook (DASL) 
+Q (Mistar/Aequitas)
+Qmlativ (Skyward)
+Sapphire
+SchoolTool
+Skyward (SMS)
+Sunet LMS *
+Synergy
+* This integration does not currently support grade passback (GPB). 
+Other SIS Integrations
+If your institution's SIS provider is not listed above as an Instructure Supported integration, your SIS provider may support an integration with Canvas. For more information, please contact your SIS provider. 
+Alternatively, you can utilize the SIS Import Tool to bulk-upload your institution's SIS data to Canvas. Learn more about Canvas SIS Import Format Documentation and Canvas API documentation.

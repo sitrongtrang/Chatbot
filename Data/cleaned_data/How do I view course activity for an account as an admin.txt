@@ -1,0 +1,23 @@
+How do I view course activity for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Admin Tools
+In Account Navigation, click the Admin Tools link.
+Open Logging
+Click the Logging tab. 
+Select Log Type
+From the log type drop-down menu, select the Course Activity option.
+Search by Course Name or Course ID
+Search by Course ID or course name. You can locate your course ID number at the end of your course URL (i.e. canvas.instructure.com/courses/XXXXXX).
+Once you start to type the course information, Canvas will generate a drop-down list of matching Canvas courses. Results are based on valid field entries, so if no results appear (especially if searching by name), confirm the information and try again.
+You can also enter a date range in the date fields. Dates are not required, but adding dates will narrow your results.
+Find Course Activity
+Click the Find button.
+View Course Activity
+Canvas will display any applicable results for the field(s) you selected:
+The Date of the activity
+The Time of the activity
+The User who performed the activity
+The Type of activity (concluded, unconcluded, published, deleted, restored, updated, created, copied to, copied from, reset to, and reset from)
+The Source of the activity (manual or via API)
+The Event Details of the activity type (click View Details link) 

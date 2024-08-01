@@ -1,0 +1,238 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0F42A060-1EFF-0135-FEC8-22000B5A851D" class="text-block-content">
+    <p>If your institution uses Thin Common Cartridge files, you can use the select specific content option in course imports to import content as separate modules. Thin Common Cartridge is a subset of the full Common Cartridge specification.</p>
+<p>Selecting content in a Thin Common Cartridge file is structured differently than other import types. Thin Common Cartridge is a lightweight metadata structure most commonly used by K12 institutions that allows publishers to provide digital resources using LTI links (external tools), which usually contains a significant number of resources in one common cartridge interchange file (.imscc). Thin Common Cartridge files are designed by creating items grouped into a folder or series of folders that defines how the content should be organized for the learner. </p>
+<p>When importing Thin Common Cartridge files, Canvas uses metadata identifiers and titles to simulate the hierarchical structure within the Thin Common Cartridge file. This structure appears as nested content within the Modules content heading, allowing users to view a structured organization and locate the content they want to import into the course. By default, grouped content is imported as one module, but they can also be imported as separate modules. Individual content within a content group is automatically imported as separate modules. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="0a2984a3-32bc-413d-ae2f-658fe6b33130">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/813/original/0d7a4cf3-8829-496c-b86d-1661b5a57fe6.png" srcset="" alt="Open Settings" height="241" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F438CE0-1EFF-0135-FECA-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_content_into_course" data-step-uuid="d8ca3ef7-2950-4530-a06c-71f780ffc23e">
+    <h2 id="import_content_into_course" class="step-title screensteps-heading">Import Content into Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/810/original/853a03ed-f2ba-48cf-b77b-bdb2a6fe9be4.png" srcset="" alt="Import Content into Course" height="439" width="265">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F43F410-1EFF-0135-FECC-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Import Course Content </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_content_type" data-step-uuid="7279316a-c0a9-415f-a076-188863880e3f">
+    <h2 id="select_content_type" class="step-title screensteps-heading">Select Content Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/824/original/4d3302bd-41c0-41d5-8926-710123802a75.png" srcset="" alt="Select Content Type" height="116" width="485">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F442AB0-1EFF-0135-FECE-22000B5A851D" class="text-block-content">
+    <p>In the Content Type drop-down menu, select the <a href="/t5/Instructor-Guide/How-do-I-import-content-from-Blackboard-6-7-8-9-into-Canvas/ta-p/1069" target="_blank">Common Cartridge 1.x Package</a> option. Complete any additional fields required for the content. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_specific_content" data-step-uuid="34d15137-c076-440b-a8f3-ef616f932634">
+    <h2 id="select_specific_content" class="step-title screensteps-heading">Select Specific Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/808/original/1a7f6dcf-9459-4901-b8ef-0841f7d5bf6a.png" srcset="" alt="Select Specific Content" height="76" width="268">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F446150-1EFF-0135-FED0-22000B5A851D" class="text-block-content">
+    <p>In the Content section, click the <strong>Select specific content</strong> radio button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-content-import-warning-message" data-step-uuid="29b0366f-4b22-426e-a85d-fd02fb0dca60">
+    <h2 id="view-content-import-warning-message" class="step-title screensteps-heading">View Content Import Warning Message</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/938/030/original/ee20eeeb-9a7b-4b90-9987-3364d343c50e.png" srcset="" alt="View Content Import Warning Message " height="120" width="582">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8ad71cf3-75f1-49ae-990f-e6dfda7d685f" class="text-block-content">
+    <p>When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_content" data-step-uuid="72d02575-c423-4271-b1d5-f3969f4e8b28">
+    <h2 id="import_content" class="step-title screensteps-heading">Import Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/567/635/original/cd2cc7d1-a027-4df5-a1b3-f8659ae67818.png" srcset="" alt="Import Content" height="111" width="685">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F4497C0-1EFF-0135-FED2-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Import </strong>button [1]. </p>
+<p>A progress indicator displays the upload status by percentage [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_content" data-step-uuid="0f6bbbbd-5012-4422-bbcb-0befb36620b5">
+    <h2 id="select_content" class="step-title screensteps-heading">Select Content</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/816/original/ca3a30e5-0b2a-42fb-99d2-dbfbfa6904ef.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/816/medium/ca3a30e5-0b2a-42fb-99d2-dbfbfa6904ef.png" srcset="" alt="Select Content" height="118" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F44CB00-1EFF-0135-FED4-22000B5A851D" class="text-block-content">
+    <p>In the Current Jobs section, click the <strong>Select Content </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_content" data-step-uuid="0cab3719-297e-4d56-915f-f00c9d1164bb">
+    <h2 id="view_content" class="step-title screensteps-heading">View Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/826/original/30ab11b2-49bd-499b-8d10-47718d1ab085.png" srcset="" alt="View Content" height="191" width="558">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F450290-1EFF-0135-FED6-22000B5A851D" class="text-block-content">
+    <p>Thin Common Cartridge files are shown as one module. Click the Modules expand icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_all_group_content" data-step-uuid="394d15d0-4194-4da5-aaab-4feabb6e5a2f">
+    <h2 id="select_all_group_content" class="step-title screensteps-heading">Select All Group Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/812/original/5f12053a-7b4a-4579-98f7-6d7818a86275.png" srcset="" alt="Select All Group Content" height="654" width="621">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F453E20-1EFF-0135-FED8-22000B5A851D" class="text-block-content">
+    <p>Locate the content by expanding the nested structure. Content groups show the number of items within the group [1]. </p>
+<p>If you want to import an entire content group, select the checkbox next to the group [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_module_import_option" data-step-uuid="ce7a6ddb-de62-4a6b-830b-2af0154e6317">
+    <h3 id="select_module_import_option" class="step-title screensteps-heading">Select Module Import Option</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/820/original/f708bb55-8c6f-4059-89e1-67ec48ba43a1.png" srcset="" alt="Select Module Import Option" height="654" width="621">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F4574C0-1EFF-0135-FEDA-22000B5A851D" class="text-block-content">
+    <p>Like other course import types, selecting a content group selects all items within the module group. However, Thin Common Cartridge content is always imported as one module, which can be extremely cumbersome in a Canvas course. </p>
+<p>By default, content is imported as one module [1]. If you would rather import content as separate modules, click the <strong>Import sub-modules separately </strong>radio button [2]. </p>
+<p><strong>Note: </strong>If you want to import several content groups as separate modules, module settings are applied on <em>a per-content-group basis, </em>meaning you must fully expand each content group and specify the separate modules option. Otherwise, all selected content in the hierarchy will <em>always </em>be imported as one module.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_specific_group_content" data-step-uuid="16d0e042-a356-4735-a0e5-d84a423018a9">
+    <h2 id="select_specific_group_content" class="step-title screensteps-heading">Select Specific Group Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/822/original/36f2c4e4-dce1-40c7-8a56-5585510e66fc.png" srcset="" alt="Select Specific Group Content" height="654" width="621">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F45A9F0-1EFF-0135-FEDC-22000B5A851D" class="text-block-content">
+    <p>To import only a few items from a content group, select the specific items to be imported [1]. Canvas places a dash in the content group checkbox [2], indicating not all items are selected within the group. </p>
+<p>Selecting individual content items automatically imports content as separate modules.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_content_1" data-step-uuid="947086d0-4615-4e67-93b4-6cabc5a656d9">
+    <h2 id="select_content_1" class="step-title screensteps-heading">Select Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/803/original/c1c8236c-6960-4630-8096-f637d402faa5.png" srcset="" alt="Select Content" height="67" width="240">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F45DFB0-1EFF-0135-FEDE-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Select Content </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_current_jobs" data-step-uuid="1f574d25-d273-402a-8d90-6eabe0b84cc5">
+    <h2 id="view_current_jobs" class="step-title screensteps-heading">View Current Jobs</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/805/original/b9ab25c9-5d04-454c-9b9d-9d260b77b12e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/805/medium/b9ab25c9-5d04-454c-9b9d-9d260b77b12e.png" srcset="" alt="View Current Jobs" height="146" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F4615E0-1EFF-0135-FEE0-22000B5A851D" class="text-block-content">
+    <p>The Current Jobs section displays the status of your import. The import displays progress bar indicating the time remaining to complete the import. </p>
+<p>The import may also display errors as part of the import status. Learn more about <a href="/t5/Instructor-Guide/How-do-I-view-the-status-of-current-and-prior-course-imports/ta-p/1077" target="_blank">course import statuses</a>.</p>
+<p>When the course has completed, view modules content by accessing the Modules link in Course Navigation. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_modules" data-step-uuid="a50eecc1-486e-46c1-af57-e9e7770fe3b0">
+    <h2 id="view_modules" class="step-title screensteps-heading">View Modules</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/814/original/fef47491-53b4-4986-a970-6dd7902e9d86.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/814/medium/fef47491-53b4-4986-a970-6dd7902e9d86.png" srcset="" alt="View Modules" height="430" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F4660D0-1EFF-0135-FEE2-22000B5A851D" class="text-block-content">
+    <p>View the modules content in your course, either as one module or separate modules. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

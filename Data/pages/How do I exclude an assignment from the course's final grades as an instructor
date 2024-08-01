@@ -1,0 +1,120 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_332B65F0-1ED0-0135-EAEE-22000BC102FE" class="text-block-content">
+    <p>When creating an assignment, you can choose to not count assignments toward the final grade. This feature allows you to provide feedback for assignments without the assignment counting toward Gradebook calculations. By default, everyone in the course will have the grade excluded unless you specifically <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-a-course-section/ta-p/914" target="_blank">assign course sections</a>, <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-an-individual-student/ta-p/717" target="_blank">assign individual students</a>, or <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-a-course-group/ta-p/633" target="_blank">assign course groups</a> to the assignment. </p>
+<p>Assignments that are excluded from the final grade include a banner at the top of the assignment page and the assignment details page. The Gradebook and student Grades page also includes an icon showing the grade has been excluded. </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>This feature is only available in assignments; it does not apply to graded discussions or quizzes.</li>
+<li>Excluding an attendance assignment from the final grade should only be managed from the <a href="/t5/Instructor-Guide/How-do-I-use-the-Roll-Call-Attendance-tool-in-a-course/ta-p/1003" target="_blank">Roll Call Attendance tool settings</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="fa523029-a208-4b6d-b802-23115101a4ed">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/742/870/original/f247d828-9e77-445d-8382-9b5f76beef60.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_332C4F30-1ED0-0135-EAF0-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="51925459-765c-445b-b300-7e72f598a97c">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/255/617/original/58f04b6a-0a8b-43ba-91b8-acfc8de49f7d.png" srcset="" alt="Add Assignment" height="65" width="315">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_332D02D0-1ED0-0135-EAF2-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_assignment_details" data-step-uuid="80de349a-6c73-48ad-9508-7f9216942408">
+    <h2 id="enter_assignment_details" class="step-title screensteps-heading">Add Assignment Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/237/651/original/f4db48a6-c875-4354-8f77-3e087f9bc323.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/237/651/medium/f4db48a6-c875-4354-8f77-3e087f9bc323.png" srcset="" alt="Add Assignment Details" height="596" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b593a426-b3e0-49e7-aafc-d6cf47a0e781" class="text-block-content">
+    <p>Add <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">details to the assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="exclude_assignment_from_final_grade" data-step-uuid="6974f3d2-2ecc-4d72-a47a-1254d35ecd29">
+    <h2 id="exclude_assignment_from_final_grade" class="step-title screensteps-heading">Exclude Assignment from Final Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/189/original/a6cce128-5b90-4fe3-bdbc-3d65d3b1fb3d.png" srcset="" alt="Exclude Assignment from Final Grade" height="77" width="410">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_332D6200-1ED0-0135-EAF6-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Do not count this assignment toward the final grade </strong>checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_assignment" data-step-uuid="d7ea79eb-6c26-4a6d-a545-58a7b9178828">
+    <h2 id="save_assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/197/original/82a22f22-5198-426f-8e35-d721e73a3517.png" srcset="" alt="Save Assignment" height="95" width="686">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_332D8FE0-1ED0-0135-EAF8-22000BC102FE" class="text-block-content">
+    <p>If you want to notify users about any future assignment changes, click the <strong>Notify users that this content has changed</strong> checkbox [1]. Click the <strong>Save </strong>button [2]. </p>
+<p><strong>Note:</strong> If your assignment has not yet been published, the assignment will show the <strong>Save &amp; Publish</strong> button. The Save button will create a draft of your assignment so you can publish it later.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment" data-step-uuid="ce340d8c-d38a-42dc-944d-0f5157d099a2">
+    <h2 id="view_assignment" class="step-title screensteps-heading">View Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/023/771/original/adc1549c-87d0-4904-8934-b0b5646c7fa2.png" srcset="" alt="View Assignment" height="327" width="642">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_332DBDB0-1ED0-0135-EAFA-22000BC102FE" class="text-block-content">
+    <p>View your assignment with the banner showing the assignment does not count toward the final grade.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

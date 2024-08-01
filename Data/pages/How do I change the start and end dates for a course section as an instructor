@@ -1,0 +1,163 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0E6E9060-22CE-0135-BB4C-22000AB760A3" class="text-block-content">
+    <p>By default, sections inherit course dates set for your entire institution. If a course does not include specific dates, the section dates default to term dates. However, as an instructor, you may need to change the start and end dates for a course section. Dates can be shorter than or overlap the course or term dates.</p>
+<p>Adding section dates may also affect the Courses page and the placement of the section's course in the Past, Current, or Future Enrollments list for students. For more information, view the interactive <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Student-Course-Visibility-and-Participation-Flowchart/ta-p/387094" target="_blank">Student Course Visibility and Participation flowchart</a>. </p>
+<p><strong>Limit User Participation Dates</strong></p>
+<p>You can set whether or not students can only participate in the section during the specified section dates using the Student Participation checkbox. Participation means that students can submit assignments, post discussions, upload files, or take part in any other action-based task for the course section. If you limit students to only be able to participate during the section dates, they can accept the course section invitation, access the course section, and look at content, but they cannot fully participate until the first day of the course for the section. When the course section is concluded, the course section is placed in a read-only state.</p>
+<p><strong>Section Override Dates</strong></p>
+<p>Section override dates are only created if the Student Participation checkbox is selected as part of creating section start and end dates (both dates are required). Students can participate in the course section before and after the start and end date, and participation will always be determined by the course dates. If a course does not include course dates, dates are determined by term dates.</p>
+<p><strong>Dashboard Considerations</strong></p>
+<p>The Student Participation sections checkbox may also affect courses that have been marked as a favorite and display in the Dashboard. If a section includes an override date and the Student Participation checkbox is selected, students cannot participate in the course after the section end date, and the course will be removed from the Dashboard. </p>
+<p>Moreover, if the Student Participation checkbox is not selected, the course will still display in the Dashboard as a favorite course after the section end date since the course section still allows participation as an active course. The course will not be removed until the course section is concluded via course/term dates. However, if the Student Participation checkbox is not selected for the section, the section dates determine the placement of the course section in the Past, Current, or Future Enrollments list regardless of the course/term dates.</p>
+<p><strong>Note</strong>: You can only change section end dates when your enrollment is active. Section dates cannot be changed once your enrollment has concluded for the course.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_settings" data-step-uuid="0DB656DE-B4C0-40E5-9742-ECBCEA5E1821">
+    <h2 id="open_course_settings" class="step-title screensteps-heading">Open Course Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/759/114/original/a7de8619-bbb5-4e38-b436-96f9a94bbc25.png" srcset="" alt="Open Course Settings" height="243" width="178">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E6F84B0-22CE-0135-BB4E-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_sections" data-step-uuid="27200132-59E1-4CA1-9D5A-5BA00BD077E2">
+    <h2 id="open_sections" class="step-title screensteps-heading">Open Sections</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/029/original/093018cc-f9e3-4a67-b8c6-8ace0ce444db.png" srcset="" alt="Open Sections" height="74" width="519">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E6FBA70-22CE-0135-BB50-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Sections</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_section" data-step-uuid="426AB0E7-3F92-4E58-AD7B-D8BD74A0AAD4">
+    <h2 id="open_section" class="step-title screensteps-heading">Open Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/333/580/original/ef6b035f-b88d-4000-b247-be55027c906e.png" srcset="" alt="Open Section" height="385" width="681">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E6FF240-22CE-0135-BB52-22000AB760A3" class="text-block-content">
+    <p>Click the section name link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_section" data-step-uuid="6DBA42E1-008F-4EEA-9E53-BC635D69DCE7">
+    <h2 id="edit_section" class="step-title screensteps-heading">Edit Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/333/582/original/a88e872b-b3d8-4c4f-9c4f-b51a81d94f8c.png" srcset="" alt="Edit Section" height="469" width="583">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E702720-22CE-0135-BB54-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Edit Section</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_course_start_date" data-step-uuid="93f207f9-b039-4e8c-8063-da902f76739b">
+    <h2 id="set_course_start_date" class="step-title screensteps-heading">Set Start Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/333/585/original/65c5b76a-088f-4c25-9a30-a2e89ad0e8d2.png" srcset="" alt="Set Course Start Date" height="538" width="576">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ffab1acb-fa2f-463a-862f-a93b4e69295a" class="text-block-content">
+    <p>Click the <strong>Starts </strong>calendar icon [1]. Select a new start date for the section [2]. You can also enter a time [3].</p>
+<p>Click the <strong>Done</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_end_date" data-step-uuid="6c349662-f8fd-4490-894b-3ca8a0aafd22">
+    <h2 id="set_end_date" class="step-title screensteps-heading">Set End Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/344/011/original/89523dda-4ff9-4797-bdcc-f0efb7aefdee.png" srcset="" alt="Set End Date" height="569" width="528">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_22a49542-807e-49aa-a43b-25ddcc49490f" class="text-block-content">
+    <p>Click the <strong>Ends</strong> calendar icon [1]. Select a new end date for the section [2]. You can also enter a time [3].</p>
+<p>Click the <strong>Done</strong> button [4].</p>
+<p><strong>Note:</strong> End dates occur at precisely the minute they are set. For example, a section with an end time at 11:59pm will end at 11:59:00pm.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="limit_user_participation" data-step-uuid="eadad689-0853-4091-90c8-a99f5d3aa2bd">
+    <h3 id="limit_user_participation" class="step-title screensteps-heading">Limit Student Participation</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/150/502/original/baf91d4a-bb62-4788-a7b4-59c027cc1a7d.png" srcset="" alt="Limit Student Participaton" height="79" width="690">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_568faed7-509d-4a1b-aff6-f5dda77384c5" class="text-block-content">
+    <p>If you do not want to let students participate in the course section outside of the section dates, select the <strong>Students can only participate in the course between these dates</strong> checkbox [1]. Selecting this checkbox creates a section override and overrides the course dates. Students can only participate in the course section between the section dates, and the course section will be in a read-only state outside the course section dates.</p>
+<p>This checkbox only affects student and observer roles; all other roles default to term access dates. </p>
+  </div>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_74d3fab8-31d9-4996-b385-ddb8d22160dc" class="text-block-content">
+    <p><strong>Notes:</strong> </p>
+<ul>
+<li>Section override dates are only created if the Student Participation checkbox is selected. </li>
+<li>If the Student Participation checkbox is not selected, students can participate in the course section before and after the start and end date, and participation will always be determined by the course dates. If a course does not include course dates, dates are determined by term dates. </li>
+<li>When the Student Participation checkbox is not selected, the section dates determine the placement of the course in the Past, Current, or Future Enrollments list for students.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_section" data-step-uuid="D99BC92D-3C97-4803-8920-C821A1A241A0">
+    <h2 id="update_section" class="step-title screensteps-heading">Update Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/333/591/original/ad267149-00a6-438e-92c6-5a98a8676b89.png" srcset="" alt="Update Section" height="70" width="259">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E7120B0-22CE-0135-BB56-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Update Section</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

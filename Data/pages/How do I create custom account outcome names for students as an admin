@@ -1,0 +1,106 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_49288720-1D4B-0135-A56D-22000BC102FE" class="text-block-content">
+    <p>As an admin, you can choose to allow the Student Learning Mastery Gradebook feature option for instructors to enable in their courses, which lets students see Learning Mastery scores on their Grades page. All Outcomes in the course appear in the student view. However, some official outcome names may be difficult for students to understand, so when creating outcomes at the account level, you have the option to create a custom, or more friendly name, to appear for students. This separate name field allows you to keep both the official name of the outcome as well as create a friendlier version that is more helpful for students. </p>
+<p>This article displays how to create custom account outcome names in the classic Outcomes page view. If the Outcomes page in your account displays differently than the images in this article, <a href="/t5/Admin-Guide/How-do-I-create-an-outcome-for-an-account-in-Improved-Outcomes/ta-p/486334" target="_blank">learn how to create outcomes</a> in an account that has enabled the Improved Outcomes Management feature option.</p>
+<p><strong>Note:</strong> For instructors, creating a custom name is a course permission. If they have access, instructors can create friendly names for outcomes they create at the course level. However, they cannot create custom names for outcomes created at the account level.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="f15ae17d-dffe-4150-a7d1-f32821e7bea1">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4928BFD0-1D4B-0135-A56F-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="ea4630b3-fee2-448f-878f-7bb5182db91a">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/356/original/98822e97-4e3f-4c66-997a-622f8cf76c83.png" srcset="" alt="Open Outcomes" height="296" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4928F080-1D4B-0135-A571-22000BC102FE" class="text-block-content">
+    <p>In Account or Sub-Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_new_outcome" data-step-uuid="c0c617ea-19fa-44a8-a5df-8cb93446ac35">
+    <h2 id="create_new_outcome" class="step-title screensteps-heading">Create New Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/714/original/d62fb6e7-b212-4335-9d98-5d126d5abc51.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/714/medium/d62fb6e7-b212-4335-9d98-5d126d5abc51.png" srcset="" alt="Create New Outcome" height="72" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49292270-1D4B-0135-A573-22000BC102FE" class="text-block-content">
+    <p>If you want to create a friendly name while <a href="/t5/Admin-Guide/How-do-I-create-an-outcome-for-an-account/ta-p/128" target="_blank">creating a new Outcome,</a> click the <strong>New Outcome</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="create_friendly_name" data-step-uuid="04af0e59-aa0b-4274-b090-fcb5c9d583b4">
+    <h3 id="create_friendly_name" class="step-title screensteps-heading">Create Friendly Name</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/488/315/original/61ebb370-38ba-4290-8b71-026b15287dc5.png" srcset="" alt="Create Friendly Name" height="113" width="580">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_492959C0-1D4B-0135-A575-22000BC102FE" class="text-block-content">
+    <p>Enter a name for the outcome in the <strong>Name this outcome</strong> field [1]. This is the name of the outcome that will also appear for instructors in their Learning Mastery Gradebook.</p>
+<p>To create a custom outcome name for students, enter a name in the <strong>Friendly name (optional)</strong> field [2].  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_outcome" data-step-uuid="5354466b-50c0-4640-baef-969f3c612931">
+    <h2 id="edit_outcome" class="step-title screensteps-heading">Edit Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/717/original/b5660ed3-7a09-4981-843b-bc78b09b8bc6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/717/medium/b5660ed3-7a09-4981-843b-bc78b09b8bc6.png" srcset="" alt="Edit Outcome" height="642" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49298A70-1D4B-0135-A577-22000BC102FE" class="text-block-content">
+    <p>If you want to edit an existing outcome and add a friendly name, locate and click the name of the outcome [1]. Click the <strong>Edit Outcome </strong>button [2].</p>
+<p>You can only edit outcomes that have not yet been used to assess a student. If the Edit Outcome button is grayed out, you cannot edit the outcome.</p>
+<p><strong>Note: </strong>Your friendly name will not appear as part of the Outcomes Index page. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

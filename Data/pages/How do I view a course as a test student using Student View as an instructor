@@ -1,0 +1,107 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_EFAA5CD0-16FC-0135-B0F7-22000BC102FE" class="text-block-content">
+    <p>You can view a course the same way that your students view your course through Student View. Enabling Student View creates a Test Student in your course. You can also activate Student View in your Course Settings.</p>
+<p>To see the student's perspective on Canvas, use Student View to view the course, post and reply to discussions, submit assignments, view grades, view people, view pages, view the syllabus, view quizzes, view the calendar, and view the scheduler (if enabled).</p>
+<p>You can reset Test Student data at any time; however, Test Student activity that involves interactions with other students cannot be removed, such as discussion replies. Test Student data that involves interactions with other students are retained even if the test student is removed from section enrollments.</p>
+<p>Attendance, conferences, conversations inbox, collaborations, differentiated assignments, external apps, groups, peer reviews, and profiles do not work for the Test Student. You will see only what you, as the instructor, allow your students to see.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Each Canvas course has a separate Test Student account. Whenever you move to a new course you will need to enable Student View for that course.</li>
+<li>Submissions and scores for the Test Student do not affect course analytics.</li>
+<li>To test or preview assignments and discussions as the Test Student, items must be published to the course.</li>
+<li>You can only view the course layout as it is seen by your students. You cannot view student-specific information, such as conversations between students.</li>
+<li>Student View should not be used to test MasteryPaths in the beta or test environment.</li>
+<li>Once you activate Student View, the Test Student is shown at the end of the Gradebook and SpeedGrader and is automatically added to every section in your course. If you want to remove the test student completely, you will have to remove the test student from your <a href="/t5/Instructor-Guide/How-do-I-view-enrollments-in-a-course-section/ta-p/1057" target="_blank">section enrollments</a>.</li>
+<li>New Quizzes assessments should be previewed in New Quizzes and not taken as the test student. Test Student attempts cannot be reset and will affect analysis reports.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_student_view" data-step-uuid="724F53FF-9EC6-4464-9459-BD7E69C3D901">
+    <h2 id="open_student_view" class="step-title screensteps-heading">Open Student View</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/412/039/original/20cd9ce9-d00a-4515-b54d-82728d813495.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/412/039/medium/20cd9ce9-d00a-4515-b54d-82728d813495.png" srcset="" alt="Open Student View" height="281" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFAB8F10-16FC-0135-B0FB-22000BC102FE" class="text-block-content">
+    <p>You can access Student View from most areas of the course including: Home, Modules, Assignments, Announcements, Discussions, Quizzes, Pages, Syllabus, and Outcomes. </p>
+<p>To view the page as a test student, click the <strong>View as Student</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course" data-step-uuid="0CB08F36-D22D-41D0-99AB-7D54D21358BA">
+    <h2 id="view_course" class="step-title screensteps-heading">View Course</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/856/685/original/c1910b55-828e-4d5b-8629-c29310c87d21.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/856/685/medium/c1910b55-828e-4d5b-8629-c29310c87d21.png" srcset="" alt="View Course" height="442" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFABE140-16FC-0135-B0FD-22000BC102FE" class="text-block-content">
+    <p>You can now view the course as a student user would see it. For example, students cannot see the Settings navigation link like instructors can.</p>
+<p>You will know if you are in Student View because of the persistent box on the bottom of the screen indicating you are logged into Student View.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="reset_student" data-step-uuid="c6907f86-f7fb-4c2e-a70b-3878302aead0">
+    <h2 id="reset_student" class="step-title screensteps-heading">Reset Student</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/792/041/original/7cf3419f-4544-47f1-99e7-dbcd757a3a79.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/792/041/medium/7cf3419f-4544-47f1-99e7-dbcd757a3a79.png" srcset="" alt="Reset Student" height="44" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFAD3AC0-16FC-0135-B0FF-22000BC102FE" class="text-block-content">
+    <p>You can also reset the Test Student by clicking <strong>Reset Student</strong>. This action will clear all activity that does not include any student interaction.</p>
+<p>For example, if you created an assignment and submitted it as the Test Student but then forgot to add a certain submission type, you can click the Reset Student button and submit the assignment again as the Test Student. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="leave_student_view" data-step-uuid="3495F15E-D0F3-4DDA-BF00-7915DE9F17C9">
+    <h2 id="leave_student_view" class="step-title screensteps-heading">Leave Student View</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/792/037/original/0cba7d03-368a-4584-8587-03f4e67515a7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/792/037/medium/0cba7d03-368a-4584-8587-03f4e67515a7.png" srcset="" alt="Leave Student View" height="44" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFAD8B60-16FC-0135-B101-22000BC102FE" class="text-block-content">
+    <p>To return to your course in the instructor view, click the <strong>Leave Student View </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

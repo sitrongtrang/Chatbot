@@ -1,0 +1,203 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_5F7F3860-2229-0135-49FE-22000B5A851D" class="text-block-content">
+    <p>You can create a question that has multiple answers in it.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If you need to edit a Multiple Answers question after publishing the quiz, you can use <a href="/t5/Instructor-Guide/What-options-can-I-use-to-regrade-a-quiz-in-a-course/ta-p/1093" target="_blank">quiz regrade</a> to edit quiz questions and tell Canvas to update grades for students who have already taken the quiz. However, this option only works for regrading existing questions, not deleting questions completely.</li>
+<li>To calculate scores for Multiple Answers quiz questions, Canvas divides the total points possible by the amount of correct answers for that question. This amount is awarded for every correct answer selected and deducted for every incorrect answer selected. No points are awarded or deducted for correct or incorrect answers that are not selected. For example, an instructor may create a Multiple Answer quiz question with 9 points possible that includes three correct choices and two incorrect choices. If a student selects two correct answers and one incorrect answer, they would be awarded 3 total points for that question. This would be calculated by awarding 3 points (9 total points divided by 3 correct answers) for each correct answer and subtracting 3 points for the incorrect answer.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="2D704360-3AF5-41DE-A96C-720B6AE11CB7">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/760/original/2431164a-44ed-41bb-9319-8d9835f9ced2.png" srcset="" alt="Add Question" height="258" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F7F6FD0-2229-0135-4A00-22000B5A851D" class="text-block-content">
+    <p>With the <strong>Questions</strong> tab [1] selected inside a new quiz, click the <strong>New Question </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_name_type_and_points" data-step-uuid="2582f82d-303e-46aa-9fee-acae1c841e76">
+    <h2 id="set_name_type_and_points" class="step-title screensteps-heading">Set Name, Type, and Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/764/original/7ee60de6-bd3f-4205-ab65-c1ecf95328d2.png" srcset="" alt="Set Name, Type, and Points" height="70" width="632">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F7FA5F0-2229-0135-4A02-22000B5A851D" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field [1]. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+<p>Click the drop-down menu and select the Multiple Answers question type [2].</p>
+<p>Enter number of points the question is worth (quiz totals are calculated based on combined total of questions) [3].</p>
+<p><strong>Note: </strong>Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_multiple_answers_question_details" data-step-uuid="5C2212B2-2555-4A05-811A-5EB8F1F7E1B1">
+    <h2 id="edit_multiple_answers_question_details" class="step-title screensteps-heading">Edit Multiple Answers Question Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/882/original/37490b66-7775-44b5-9f16-f4003f8c5a55.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/882/medium/37490b66-7775-44b5-9f16-f4003f8c5a55.png" srcset="" alt="Edit Multiple Answers Question Details" height="1007" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F7FE0C0-2229-0135-4A04-22000B5A851D" class="text-block-content">
+    <p>To build a Multiple Answers question, you will need to enter the following details:</p>
+<ol>
+<li>The question text (use the Rich Content Editor to include video, images, math equations, or flash activities)</li>
+<li>Question response text </li>
+<li>Text for the answer comments under each correct answer and/or at the end of the question</li>
+</ol>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="create_answers_with_rich_content_editor" data-step-uuid="4A1806D8-C49C-453B-872C-9F501BCB557B">
+    <h3 id="create_answers_with_rich_content_editor" class="step-title screensteps-heading">Create Answers with Rich Content Editor </h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/885/original/30e89422-bf48-4f50-b2bb-8d724bca11ba.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/885/medium/30e89422-bf48-4f50-b2bb-8d724bca11ba.png" srcset="" alt="Create Answers with Rich Content Editor" height="440" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F801580-2229-0135-4A06-22000B5A851D" class="text-block-content">
+    <p>To create your answer with the Rich Content Editor, hover over the response and click the<strong> Edit </strong>icon [1]. This switch will allow you to post video, audio, math equations, and more in the answer response. To close the editor, click the <strong>Done</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_or_delete_answers" data-step-uuid="6C49BA6C-D04F-4A60-9010-E086696AF676">
+    <h2 id="add_or_delete_answers" class="step-title screensteps-heading">Add or Delete Answers</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/187/112/original/b872a6f0-c24d-41bc-819f-b1056e806ce5.png" srcset="" alt="Add or Delete Answers" height="478" width="646">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F804B00-2229-0135-4A08-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Another Answer</strong> [1] link to create as many correct answers and distractors as you like. If you want to delete a response, hover over the response and click the <strong>Delete</strong> icon [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_correct_answers" data-step-uuid="117CB9BF-FE84-4527-8048-D8067D79A16C">
+    <h2 id="select_correct_answers" class="step-title screensteps-heading">Select Correct Answers</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/768/original/960c8466-3451-44a5-b9dc-cb6f30995f41.png" srcset="" alt="Select Correct Answers" height="610" width="641">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F808030-2229-0135-4A0A-22000B5A851D" class="text-block-content">
+    <p>Multiple Answers questions can have more than one correct answer. Hover your cursor to the left of any answer to reveal a green "ghost" arrow. Click the green arrow to the left of the correct answers. You will know which answers are marked as correct responses because both the arrow and the feedback bubble below the answer field will turn green. In this example, the second and third answers are marked as correct. Students are required to select all correct answers to get full credit.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_feedback_text" data-step-uuid="1ff2f6e4-777f-439e-acc1-3bdb9d0a560d">
+    <h2 id="enter_feedback_text" class="step-title screensteps-heading">Enter Feedback Text</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/490/861/original/3bfd8490-9672-451e-80df-e4c167cce6b3.png" srcset="" alt="Enter Feedback Text" height="711" width="733">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F80B7C0-2229-0135-4A0C-22000B5A851D" class="text-block-content">
+    <p>You can choose to give students feedback in the answer comments fields. To leave feedback for a specific answer, click the comment field beneath the answer [1].</p>
+<p>You can also create general answer comments for the quiz question as a whole [2]. Students who select the correct answer will see the feedback in the green comment field. Students who select any incorrect answer will see the feedback in the red comment field. All students will see the feedback in the blue comment field.</p>
+<p><strong>Note:</strong> Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.  </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="577859dd-1795-4463-9fe2-66c6ebd1f86d">
+    
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/887/original/a1f69344-dfb0-4937-92aa-5311cac8315b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/887/medium/a1f69344-dfb0-4937-92aa-5311cac8315b.png" srcset="" alt="Add Feedback Text" height="1310" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F80EEE0-2229-0135-4A0E-22000B5A851D" class="text-block-content">
+    <p>Each text box can be expanded in size by clicking and dragging the handle at the bottom-right of the text box.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="B94CCD45-F9ED-491B-8F36-D09DFD09AD02">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/778/original/b882de61-5a09-439d-a531-c011730b2344.png" srcset="" alt="Update Question" height="53" width="216">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F812340-2229-0135-4A10-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+<p>Add additional <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">individual questions</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_multiple_answers_question" data-step-uuid="E9E4823E-6316-416F-91A9-C41316E175A9">
+    <h2 id="student_view_for_multiple_answers_question" class="step-title screensteps-heading">Student View for Multiple Answers Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/766/original/69eab489-7cc0-4883-8e14-852c08fae646.png" srcset="" alt="Student View for Multiple Answers Question" height="374" width="679">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F8156A0-2229-0135-4A12-22000B5A851D" class="text-block-content">
+    <p>This is what students see when they encounter a Multiple Answers question in a quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_multiple_answers_feedback" data-step-uuid="1C0F3D3A-8FB5-4AE5-9D33-9210227358EA">
+    <h2 id="student_view_for_multiple_answers_feedback" class="step-title screensteps-heading">Student View for Multiple Answers Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/780/original/fda73dc1-4de1-44a1-a7c8-ca91135fb09c.png" srcset="" alt="Student View for Multiple Answers Feedback" height="512" width="712">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5F818BD0-2229-0135-4A14-22000B5A851D" class="text-block-content">
+    <p>If you allow students to see the correct answers, correct responses are marked with a green flag [1]. Incorrect responses will be marked with a red flag [2] and any correct answers not indicated by the student are marked with a gray flag [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

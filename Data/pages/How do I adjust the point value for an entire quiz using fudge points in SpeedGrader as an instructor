@@ -1,0 +1,138 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_EB9D9010-222E-0135-B277-22000BC102FE" class="text-block-content">
+    <p>Fudge points allow you to manually add or remove points from a student's overall quiz score. This feature is only available in SpeedGrader.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If you want to adjust points for a specific question within the quiz, you may want to use the <a href="/t5/Instructor-Guide/What-options-can-I-use-to-regrade-a-quiz-in-a-course/ta-p/1093" target="_blank">quiz regrade</a> feature.</li>
+<li>Grade changes to Classic Quiz submissions made via Gradebook import may display as fudge points in SpeedGrader.</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-create-a-survey-in-my-course/ta-p/782" target="_blank">Graded survey</a> quizzes do not support the use of fudge points.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="de0fa89f-a6b5-4c56-89e4-6f39e8685c1f">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/037/original/0f4682fc-405d-4bd2-a3c5-5b4a2f7d68b7.png" srcset="" alt="Open Quizzes" height="258" width="174">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB9DC520-222E-0135-B279-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quiz" data-step-uuid="dcdda7db-602d-4e3d-8765-8fed2c85e117">
+    <h2 id="open_quiz" class="step-title screensteps-heading">Open Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/311/original/12b15989-ddfb-45be-921d-a973d2d3c835.png" srcset="" alt="Open Quiz" height="278" width="729">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB9DF130-222E-0135-B27B-22000BC102FE" class="text-block-content">
+    <p>Click the name of the quiz you want to open.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speedgrader" data-step-uuid="9b534526-4f89-42c5-83e7-daa6ada0f3de">
+    <h2 id="open_speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/248/238/original/65140bbd-21a7-4242-92eb-f643f47176e3.png" srcset="" alt="Open SpeedGrader" height="225" width="265">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB9E2040-222E-0135-B27D-22000BC102FE" class="text-block-content">
+    <p>In the sidebar, click the SpeedGrader link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_student" data-step-uuid="b4ae8f3c-fc8d-45b0-b79a-5e408e1b10be">
+    <h2 id="select_student" class="step-title screensteps-heading">Select Student</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/051/original/f5d5cb0d-c713-4346-87ab-b38f1e043b46.png" srcset="" alt="Select Student" height="233" width="365">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB9E51B0-222E-0135-B27F-22000BC102FE" class="text-block-content">
+    <p>In the Student drop-down menu, select the name of the student whose quiz you want to view.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_fudge_points" data-step-uuid="9d239217-9906-48b1-bbb2-fd9688073e6e">
+    <h2 id="assign_fudge_points" class="step-title screensteps-heading">Assign Fudge Points</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/766/047/original/d0c72ff9-752c-4dbf-ab8c-6dc5edd9a7ae.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/766/047/medium/d0c72ff9-752c-4dbf-ab8c-6dc5edd9a7ae.png" srcset="" alt="Assign Fudge Points" height="567" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB9E81D0-222E-0135-B281-22000BC102FE" class="text-block-content">
+    <p>In the Fudge Points field at the bottom of the window, enter the number of points you want to add to the overall quiz score. You can also enter negative points.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_fudge_points" data-step-uuid="dc22395e-0891-4e8c-bec2-0d1de5fe1beb">
+    <h3 id="view_fudge_points" class="step-title screensteps-heading">View Fudge Points</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/766/041/original/fcf115af-5c32-412f-a0be-0087abe8695f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/766/041/medium/fcf115af-5c32-412f-a0be-0087abe8695f.png" srcset="" alt="View Fudge Points" height="577" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB9EB0F0-222E-0135-B283-22000BC102FE" class="text-block-content">
+    <p>The Final Score area will show you what the final score would look like based on the number of fudge points.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_quiz_score" data-step-uuid="638ce5ff-e614-4d73-bdba-8f66748900bf">
+    <h2 id="update_quiz_score" class="step-title screensteps-heading">Update Quiz Score</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/766/043/original/aa25ac46-f935-4cbc-b94e-037932c32c0d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/766/043/medium/aa25ac46-f935-4cbc-b94e-037932c32c0d.png" srcset="" alt="Update Quiz Score" height="577" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EB9EE150-222E-0135-B285-22000BC102FE" class="text-block-content">
+    <p>When you are ready to change the student's quiz score, click the <strong>Update Scores </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

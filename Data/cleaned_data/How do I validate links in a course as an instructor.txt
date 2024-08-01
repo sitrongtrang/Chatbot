@@ -1,0 +1,16 @@
+How do I validate links in a course as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Open Validation Link
+In the sidebar, click the Validate Links in Content link.
+Start Link Validation
+Click the Start Link Validation button.
+View Links
+If any links are found in the course, Canvas displays the number of links, followed by the name of the content item and the content's associated invalid link(s).
+View Unpublished Content
+By default, the Show links to unpublished content checkbox is selected. The page will display any broken links in unpublished content.
+View Broken Link Details
+The validator displays broken links and images by item type. Broken content is identified as either a link or an image. Non-existent content means that the object is invalid and should be replaced. Unreachable objects mean the image could not be displayed.
+Update Links
+To update links within course content, click the name of the content item.
+After you update your content, you can validate your links again by returning to the Link Validator page and clicking the Restart Link Validation button. 

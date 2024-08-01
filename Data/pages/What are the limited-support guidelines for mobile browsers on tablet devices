@@ -1,0 +1,102 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2410f8a3-6bdc-491f-ba84-52388a100fbd" class="text-block-content">
+    <p>Canvas supports the latest two versions of the most <a href="/t5/Canvas-Basics-Guide/What-are-the-browser-and-computer-requirements-for-Instructure/ta-p/66" target="_blank">popular desktop browsers for Canvas</a>. Many users also rely on mobile devices. Native Canvas apps support a limited set of features on mobile, but the apps don't cover all Canvas functionality.</p>
+<p>Canvas engineering teams do not fully support mobile browsers for Canvas but will ensure that critical features and functions work for tablet devices (screen sizes 7.9" or higher used in landscape mode) running the most recent version of Safari (iOS) and Chrome (Android).</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="what-is-limited-browser-support" data-step-uuid="bec1a1b0-e5c8-49df-b35b-3c87d2d51a2f">
+    <h2 id="what-is-limited-browser-support" class="step-title screensteps-heading">What is Limited Browser Support?</h2>
+  </div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_34e30331-f6f2-4d58-9736-e28ae8da6f02" class="text-block-content">
+    <p>Canvas engineering will reactively address critical issues with core features that affect the most recent version of the native browser on iOS and Android tablet devices in landscape mode.</p>
+<p><strong>Key Terms</strong></p>
+<ul>
+<li>Native browsers: Safari (iOS) and Chrome (Android)</li>
+<li>Reactive: Quality assurance teams test against each fully-supported browser before every Canvas release. For mobile browsers, Canvas responds to problems reported by Canvas users.</li>
+<li>Critical issue: An issue that makes an important feature or function unusable.</li>
+<li>Core feature: A feature needed for a key teaching and learning interaction.</li>
+<li>Most recent version: If theres a more recent version of the mobile browser and updating solves the problem, that solution will be suggested as the solution.</li>
+<li>Tablet devices: Devices with 7.9" or larger screens.</li>
+<li>Landscape mode: The device is held so the display is wider than its height.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-quickly-will-qualifying-mobile-browser-issues-be-fixed" data-step-uuid="8fb56958-bee9-4ba6-898d-448df6ee0031">
+    <h2 id="how-quickly-will-qualifying-mobile-browser-issues-be-fixed" class="step-title screensteps-heading">How quickly will qualifying mobile-browser issues be fixed?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c39135a3-ef31-4bfe-a837-528faf813613" class="text-block-content">
+    <p>Canvas treats qualifying mobile browser issues as bugs. Engineering teams triage these bugs by severity and resolve them on the following schedule:</p>
+  </div>
+</div>
+ 
+      <div class="screensteps-table">
+  <table style="width:100%;">
+<thead><tr>
+<th style="width:16.2642%;">Severity</th>
+<th style="width:25.6722%;">Description</th>
+<th style="width:58.1533%;">Resolution Time</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="width:16.2642%;">Level 1</td>
+<td style="width:25.6722%;">Users can’t access Canvas</td>
+<td style="width:58.1533%;">Resources will be assigned immediately and will work uninterrupted until the problem is solved.</td>
+</tr>
+<tr>
+<td style="width:16.2642%;">Level 2</td>
+<td style="width:25.6722%;">Users can’t use a core feature; no workaround exists</td>
+<td style="width:58.1533%;">Resources will be assigned within two hours and will work uninterrupted until the problem is solved.</td>
+</tr>
+<tr>
+<td style="width:16.2642%;">Level 3</td>
+<td style="width:25.6722%;">Users can’t use a core feature, but a workaround exists</td>
+<td style="width:58.1533%;">Resources will be assigned within two business days and will develop and deploy a fix within two full release cycles.</td>
+</tr>
+<tr>
+<td style="width:16.2642%;">Level 4</td>
+<td style="width:25.6722%;">All other issues affecting only mobile browsers</td>
+<td style="width:58.1533%;">Resources will review the problem within five business days, assessing impact, resource availability, and development priorities. <br><br>A given problem may not be fixed when the impact is minor, when the affected workflow is seldom used, or when a workaround exists.</td>
+</tr>
+</tbody>
+</table>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c8b4db03-b222-4667-9ff2-da6809a6ad01" class="text-block-content">
+    <p>Caveats—</p>
+<p><strong>Screen size and orientation</strong></p>
+<p>The Canvas web application is not fully responsive yet. Engineers are basing all <strong>new </strong>development on responsive-design best practices. This initiative will take some time to touch all parts of Canvas. In the meantime, Canvas will generally work better when viewed on a larger screen. Canvas teams may not choose to address issues that affect only devices with smaller screens or that affect larger-screen devices only when in portrait mode, even if they meet other criteria described above.</p>
+<p><strong>Big Blue Button conferencing</strong></p>
+<p>Screen-sharing in Canvas Conferences currently requires the Java plugin for desktop browsers. However, Big Blue Button (whose software powers Canvas Conferences) has created a mobile-friendly HTML5 version of their application for participants (primarily students). Other adjustments for additional user roles and features may be announced in future releases.</p>
+<p><strong>Partners and third-party tools</strong></p>
+<p>Many customers use third-party tools in Canvas, including LTI apps. Partner networks are encouraged to build tools that work well in mobile browsers, and any reported problems will be reported back to them. Some third-party tools will work better than others on mobile, and some may not work at all.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

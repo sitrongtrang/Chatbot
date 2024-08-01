@@ -1,0 +1,118 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_C92D6F10-1D4D-0135-91B6-22000AB760A3" class="text-block-content">
+    <p>You can move outcomes and outcome groups after you have added them to your account or sub-account. You can use the Move Outcome or Move Outcome Group button, or you can manually drag and drop the outcome or outcome group.</p>
+<p>This article displays how to move outcomes and outcome groups in the classic Outcomes page view. If the Outcomes page in your account displays differently than the images in this lesson,<a href="/t5/Admin-Guide/How-do-I-move-account-outcomes-and-outcome-groups-in-Improved/ta-p/486337" target="_blank"> learn how to move outcomes and outcome groups</a> in an account that has enabled the Improved Outcomes Management feature option.</p>
+<p><strong>Note:</strong> To move an outcome to an outcome group, you will need to create an <a href="/t5/Admin-Guide/How-do-I-create-outcome-groups-for-an-account/ta-p/129" target="_blank">outcome group</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="aaccd378-f2c6-4454-8b74-8ab0c8ac8287">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C92D9EB0-1D4D-0135-91B8-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="72836d36-d5c5-4cf3-8774-57f2664c91fe">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/358/original/98822e97-4e3f-4c66-997a-622f8cf76c83.png" srcset="" alt="Open Outcomes" height="296" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C92DCDD0-1D4D-0135-91BA-22000AB760A3" class="text-block-content">
+    <p>In Account or Sub-Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_outcome" data-step-uuid="89b13c41-4ae5-46c1-a147-b844dca748da">
+    <h2 id="select_outcome" class="step-title screensteps-heading">Select Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/730/original/6d47b620-4e16-4ce3-92c3-f47d97ffee24.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/730/medium/6d47b620-4e16-4ce3-92c3-f47d97ffee24.png" srcset="" alt="Select Outcome" height="221" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C92DFD80-1D4D-0135-91BC-22000AB760A3" class="text-block-content">
+    <p>Locate the outcome or outcome group you wish to move.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="move_outcome_or_outcome_group" data-step-uuid="188fc4d0-f926-4fc1-89c6-8de3aea5cc08">
+    <h2 id="move_outcome_or_outcome_group" class="step-title screensteps-heading">Move Outcome or Outcome Group</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/348/726/original/f0c30d83-0e99-44ea-8f0f-80f7c88598af.png" srcset="" alt="Move Outcome or Outcome Group" height="68" width="273">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C92E3030-1D4D-0135-91BE-22000AB760A3" class="text-block-content">
+    <p>To move an individual outcome or outcome group, click the <strong>Move </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="929e3199-c65a-4545-a5d3-9e7b11ba5f51">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/787/910/original/cda755fd-99e3-4427-afdc-ff4700b53ab2.png" srcset="" alt="Move Outcome" height="278" width="602">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C92E5FE0-1D4D-0135-91C0-22000AB760A3" class="text-block-content">
+    <p>Select the outcomes group where you want to move the outcome or outcome group [1].</p>
+<p>Click the <strong>Move</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="drag_and_drop_outcome_or_outcome_group" data-step-uuid="eda46014-edc3-43bd-8c20-658e147e675a">
+    <h2 id="drag_and_drop_outcome_or_outcome_group" class="step-title screensteps-heading">Drag and Drop Outcome or Outcome Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/727/original/5162c591-36ff-49e9-bb58-ad59d6d7763d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/727/medium/5162c591-36ff-49e9-bb58-ad59d6d7763d.png" srcset="" alt="Drag and Drop Outcome our Outcome Group" height="294" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C92E8D90-1D4D-0135-91C2-22000AB760A3" class="text-block-content">
+    <p>You can also use the drag and drop option to move outcomes and outcome groups. Click the outcome or outcome group and drag the outcome or outcome group to the desired location. Drop the outcome or outcome group in the desired location by releasing the mouse.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

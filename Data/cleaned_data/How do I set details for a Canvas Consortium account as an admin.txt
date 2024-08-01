@@ -1,0 +1,91 @@
+How do I set details for a Canvas Consortium account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link.
+View Settings
+Account Settings defaults to the Settings tab. Here you can view all the details available to you in your account.
+View Account Settings
+The Account Settings section allows you to specify settings for the entire consortium account, including account name, default language, default time zone, Multi-Factor Authentication and self-enrollment. 
+You can also specify trusted URLs at the parent account. This option allows accounts to have custom login pages hosted on different domains but still keep the authenticity token.
+You can set a default view for the Dashboard using the Default View for Dashboard drop-down menu. Default options include Recent Activity, List View, and Card View. The setting defaults to the Card View. Specifying a default view applies to all new account users. Once a user has selected a different view, the default no longer applies. If you want to apply the selected default view to all users in the account, click the Overwrite all users’ existing default dashboard preferences checkbox. However, users can change their dashboard view at any time in the dashboard options menu.
+View Maintenance Window
+The Default Time Zone settings also display the maintenance windows for your account. You can expect that all maintenance for your account will occur during your maintenance window, unless emergency maintenance is required. Even though the windows are two hours each, your expected downtime shouldn't last for more than a few minutes. It is also possible that maintenance will not be necessary during your scheduled maintenance windows.
+You can view the regular cadence when your maintenance windows take place as well as the specific date and time of your next maintenance window.
+View Restriction Settings
+You can also manage restriction settings for the entire consortium account. 
+If you do not want instructors to be able to rename their courses, click the Don't let teachers rename their courses checkbox. 
+If you do not want instructors to modify course availability dates, click the Don't let teachers modify course availability dates checkbox. This checkbox does not display in the Account Setting page for child accounts.
+To allow students to opt-in to receive scores as part of grading notifications, click the Students can opt-in to receiving scores in email notifications checkbox. When this option is enabled, the user's Notification Settings page displays an opt-in checkbox in the Course Activities Grading section. If you enable this option but disable it at a later time, the checkbox will be removed from the notifications page, and anyone who has opted in will no longer receive scores in grading notifications.
+To allow students to be included in global surveys, click the Include students in global surveys checkbox.
+If you do not want students to be able to view quiz questions after their course has concluded, click the Restrict students from viewing quiz questions after course end date checkbox. 
+You can choose to restrict student access to view courses before the course start date.
+If you choose to restrict students from accessing courses before the start date, you can also restrict students from viewing future courses in their enrollments list.
+You can also choose to restrict student access to view courses after the course end date.
+You can also disable comments on announcements in all courses. 
+To allow students to download course content and view content offline for all courses, select the Allow students to download course content and view offline checkbox. Alternatively, if you'd prefer to allow students to download course content and view content offline for specific courses, you can enable the ePub Exporting feature option for the course. 
+You can require that copyright and license information be provided for files before they are published.
+You can also disable Canvas media uploads in the Rich Content Editor.
+You can allow the option to split student names into two separate columns and show first and last names separately in the Gradebook.
+Institutions can increase the list of displayed calendars from 10 to 15. This checkbox applies to all users in the account.
+Note: Settings managed in the parent account are inherited and locked at the child account.
+View Slack API Key
+You can add a Slack API key in Account Settings to allow users to receive notifications in Slack. The Slack API Key is generated from an app created using the Slack API. To add a new Slack API key, type the Bot User OAuth Access Token copied from Slack in the New Slack Api Key field.
+Learn more about creating a Slack App for your institution.
+Note: Creating a Slack App and generating an Access Token requires that you are also an admin user in Slack.
+View Personal Pronouns
+The Personal Pronouns section allows you to enable and customize personal pronoun options in your account. When enabled, users can select a pronoun to display after their username in several areas in Canvas.
+View Quiz IP Address Filters
+The Quiz IP Address filter allows an admin to create a predefined list of IP addresses or address ranges, making it easier for instructors to select a valid setting when creating a quiz. Since this is often used by an organization to limit tests to an on-campus testing center, it is recommended that you use a descriptive name that associates your filter with that location.
+Filters can be a comma-separated list of addresses, or an address followed by a mask (i.e., 192.168.217.1/24 or 192.168.217.1/255.255.255.0). For more information on these masks, view the IP Filtering in Canvas PDF.
+View Features
+The Features section lets you enable or disable specific built-in Canvas functionality.
+To allow child accounts to use the Canvas for Elementary interface, click the Canvas for Elementary checkbox
+To allow admins to manage user login information and change a user's password, click the Password setting by admins checkbox. This option is best for institutions that do not use a student information system to manage student data. 
+To allow parent account admins to view notifications that have been sent to a specific user, click the Admins can view notifications checkbox.
+The Faculty Journal allows teachers to make private notes about student progress that are available beyond a single course. To manage the Faculty Journal for the account, click the Faculty Journal checkbox. 
+To allow ePortfolios, click the ePortfolios checkbox.
+To allow SIS imports, click the SIS imports checkbox. 
+To include integration IDs in Gradebook exports, click the Include integration IDs in the gradebook exports checkbox. 
+To allow invitation previews, click the Invitation Previews checkbox.
+To allow alerts, click the Alerts checkbox. 
+To allow custom CSS or JavaScript to override default Canvas interface settings, click the Custom CSS/JavaScript overrides checkbox. 
+View Additional Features
+To enable the scheduler, click the Enable Scheduler checkbox.
+To enable user profiles which takes the place of the User Details page, click the Enable Profiles checkbox.
+To prevent users from navigating to Canvas in a web browser within the Canvas Parent app, click the Limit access to Canvas web from the Canvas Parent app checkbox. 
+To let child accounts use the Theme Editor, click the Let sub-accounts use the Theme Editor to customize their own branding checkbox.
+To allow users to be added to a course via email address without already having a Canvas user account, click the Open Registration checkbox.
+To allow users to edit their name as part of their user account settings, click the Users can edit their name checkbox.
+To allow users to delete the institution-added email address in their user accounts and use a personal email address, click the Users can delete their institution-assigned email address checkbox. If this feature is selected, also consider enabling the non-institutional email notification.
+To display the sender email address for user interaction notifications, click the Show the email address of sender for user interaction Notifications checkbox.
+To show a searchable list of courses in the root account when the public course index setting is enabled, click the Show a searchable list of courses in this root account with the "Include this course in the public course index" flag enabled checkbox.
+To allow push notifications for mobile device users, click the Enable push notifications to mobile devices checkbox.
+To allow users to integrate course content using Equella, click the Equella checkbox.
+To enable the Turnitin API, click the Turnitin checkbox. 
+To allow users in your account to receive surveys about Canvas, click the Account Surveys checkbox. 
+To enable analytics for the account, click the Analytics checkbox.
+To allow students to access beta and test instances, click the Beta and Test Access for Students checkbox
+To allow users to upload a profile picture in their user accounts, click the User Avatars checkbox. When this feature is enabled, you can manage profile pictures for all users. 
+When the User Avatars checkbox is selected, the Enable Gravatar checkbox is also selected by default. A Gravatar is a globally recognized avatar associated for a user in any website that supports Gravatars. When Gravatars are enabled in an account, users can import their Gravatar when selecting a profile picture in their user settings page. Gravatars are associated with the users Gravatar email address. When Gravatars are disabled, the From Gravatar tab is not included as an option in the Select Profile Picture window.
+View SIS Grade Export Settings
+If you've integrated your account with a student information system (SIS), depending on your institution's configuration, you can either configure SIS submissions for your entire consortium account or manage SIS integration settings. 
+View Help Menu Options
+As a consortium account admin, you can customize the Help menu that appears in Canvas for all users. You can also add custom help links for your institution and have them display to all or specific user roles.
+View Similarity Detection Platform
+The Similarity Detection Platform section displays for all accounts and is used for plagiarism LTI tool integrations. 
+If your account has installed at least one plagiarism LTI tool, any content you include in the Similarity Pledge text field will display to students. Similarity pledges require students to check a box acknowledging they agree with the pledge information, which usually asks them to verify their work is their own and that any sources have been properly cited.
+You can also set the originality score default for the entire account in the Students can see originality score drop-down menu. You can set the report to generate immediately upon assignment submission, after an assignment is graded, after an assignment due date, or never. The account default is not required and can be changed at any other level. Subaccounts can set a separate default from the account, and individual assignments within a course can set their own originality preferences as well. 
+View Course Template
+If a course has been designated as a course template, you can select the template to be used for all new courses in the consortium account or child account(s).
+Note: Course templates are not inherited into child consortium accounts.
+View Web Services
+The Enabled Web Services section displays third-party integrations that can be enabled for a consortium account. These integrations can be used to extend the functionality of a user's Canvas profile. For example, when a user connects their Twitter account to their Canvas user profile, Canvas can send that user private Twitter messages about new assignments, quizzes, messages, etc. This is all configurable in the user's Notification Settings.
+Note: If you enable the Google Apps LTI for your entire consortium, you do not need to enable the Google Drive web service for your students.
+View Who Can Create New Courses
+You can choose who can create new courses within your account in addition to consortium account administrators. This setting allows the selected user(s) to create new course shells by clicking the Create a New Course button in the Dashboard.
+You can allow teachers, students, and/or users with no enrollments to create courses in your account.
+You can also manage where new courses created by teachers and students can be placed. To allow courses to be created in any account where a teacher or student has an active enrollment, click the Allow creation anywhere the user has active enrollments checkbox. To allow courses to only be created in the Manually-Created Courses sub-account, click the Allow creation only in the Manually-Created Courses sub-account checkbox.
+Note: Account administrators can always create courses.
+Update Settings
+Click the Update Settings button.

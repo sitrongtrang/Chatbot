@@ -1,0 +1,195 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4879AD50-1ED1-0135-A3DB-22000B5A851D" class="text-block-content">
+    <p>When creating an assignment, you can choose to set up an assignment with moderated grading. Moderated grading allows multiple reviewers to grade a student's work and create draft or provisional grades for an assignment. For instance, you may want to allow two Teaching Assistants to grade all assignments, and you can review their assessments before determining the final grade. Moderated grading is also useful for creating a sampling of students for assignment review to ensure grading is consistent and allows secondary grade reviews. </p>
+<p>When you <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058" target="_blank">add a rubric to a moderated assignment</a>, any associated outcome results display in the Learning Mastery Gradebook only after final grades are posted. </p>
+<p>In moderated grading, anyone with assignment creation permissions can specify an assignment submission to be reviewed by one or multiple graders, edit the assignment if necessary, review the grades, and select which grade should be set as the final grade for each student. For each moderated submission, the user set as the moderator is the only user who can specify the final grade for each assignment. Any grader can be specified as the grader who can determine the final grade as long as they have the corresponding permission, but the moderator does not have to personally grade the assignment. Once the assignment is created, only the moderator and admins will be able to change the assigned final grader. </p>
+<p><strong>Moderated Grading</strong></p>
+<p>For moderated assignments, when an assignment reaches its maximum number of graders, the grading notification will be removed from the Dashboard for graders who have not yet assessed the assignment. However, submissions can still be accessed through the Gradebook, if needed. SpeedGrader displays submissions in a read-only mode to hide all student names and submission details. </p>
+<p><strong>Anonymous Grading</strong></p>
+<p>Moderated grading can be enabled with <a href="/t5/Instructor-Guide/How-do-I-add-an-assignment-that-includes-anonymous-grading/ta-p/769" target="_blank">anonymous grading assignment options</a>. If enabled in an assignment, anonymous grading is enabled by default in SpeedGrader, although <a href="/t5/Instructor-Guide/How-do-I-hide-student-names-in-SpeedGrader/ta-p/768" target="_blank">anonymous grading in SpeedGrader</a> can be enabled separately if not enabled for an assignment.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_856789fa-48e0-426d-8b71-b7b82ab3dd2e" class="text-block-content">
+    <p><strong>Notes:</strong></p>
+<ul>
+<li>Moderated grading is currently a course opt-in feature. To enable this feature, learn how to manage feature options in the <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">course features lesson</a>.</li>
+<li>Once an assignment has been set as a moderated assignment, the moderated assignment option cannot be disabled once submissions have been received, but any edits made to the moderated settings are tracked. To view edits to moderated settings as well as other grading actions, <a href="/t5/Instructor-Guide/How-do-I-audit-an-assessment-in-SpeedGrader/ta-p/660" target="_blank">audit the assessment in SpeedGrader</a>.</li>
+<li>Once an assignment has been set as a moderated assignment, course roles must have the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Course-Role-Permissions/ta-p/387080" target="_blank">Grades - select final grade for moderation permission</a> to publish or edit moderated assignments. </li>
+<li>Grades cannot be edited in the Gradebook before grades are <a href="/t5/Instructor-Guide/How-do-I-publish-final-grades-for-a-moderated-assignment/ta-p/681" target="_blank">released as final grades to the Gradebook</a> by the moderator. However, after grades are posted, grades can be edited in the Gradebook by any grader.</li>
+<li>Moderated assignments are automatically muted or hidden in the Gradebook until grades are posted.</li>
+<li>Moderated assignments are not supported with Peer Review assignments.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="73010c6c-7d3f-4ca2-814e-5c1bc87fdc09">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/927/original/64c6362c-5c87-4e26-8a7f-08b41ff3a67d.png" srcset="" alt="Open Assignments" height="241" width="163">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4879E1E0-1ED1-0135-A3DD-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment" data-step-uuid="9a13907e-f041-48e1-922b-8817c63a282e">
+    <h2 id="open_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/740/898/original/6276d5f0-c33c-454e-8efa-d6b3faf1c4bb.png" srcset="" alt="Add Assignment" height="68" width="296">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_487A1670-1ED1-0135-A3DF-22000B5A851D" class="text-block-content">
+    <p>To create an assignment with all assignment details at the same time, click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit-assignment" data-step-uuid="1f572840-a9be-46de-b656-967238d4b81d">
+    <h3 id="edit-assignment" class="step-title screensteps-heading">Edit Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/893/original/ec0847e8-a9ec-4481-8ed4-b99a5472685f.png" srcset="" alt="Open Assignment" height="213" width="741">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_31423434-a858-43fa-9690-aca6a1ee583a" class="text-block-content">
+    <p>If you want to edit an existing assignment that has not yet received student submissions, click the name of the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-assignment-details" data-step-uuid="201255db-2fe3-4e92-9938-060780d2cd6a">
+    <h3 id="add-assignment-details" class="step-title screensteps-heading">Add Assignment Details</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/239/159/original/3ef9e3b0-4269-4fc6-911f-a7a2eb8a9878.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/239/159/medium/3ef9e3b0-4269-4fc6-911f-a7a2eb8a9878.png" srcset="" alt="Add Assignment Details" height="689" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6332f754-e54d-4971-a387-d8778e54017b" class="text-block-content">
+    <p>Add <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">details to the assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_moderated_grading" data-step-uuid="03e171b0-115c-4546-86dd-ba0ea4462b42">
+    <h2 id="select_moderated_grading" class="step-title screensteps-heading">Select Moderated Grading</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/740/900/original/5d1312cb-c7dd-4b48-8234-ee6dd654e6f4.png" srcset="" alt="Select Moderated Grading" height="155" width="556">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_487A7B30-1ED1-0135-A3E3-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Moderated Grading</strong> checkbox.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-number-of-graders" data-step-uuid="fc294ec5-db79-4dcf-b807-8737008f7752">
+    <h3 id="select-number-of-graders" class="step-title screensteps-heading">Select Number of Graders</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/883/909/original/c55ca930-de76-461c-a5f7-fee28a81ca82.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/883/909/medium/c55ca930-de76-461c-a5f7-fee28a81ca82.png" srcset="" alt="Select Number of Graders" height="212" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_53dcb637-3535-4b5b-96f0-5f4205e6cf21" class="text-block-content">
+    <p>In the <strong>Number of Graders</strong> text box [1], enter the number of graders who should grade the submission. If the number of graders is changed to a higher number, the page displays a message that there are not enough course users with grading permissions to fulfill the desired number of graders [2]. </p>
+<ul>
+<li>Canvas allows for a maximum of 10 graders. If you enter a number larger than 10, the page displays a message that only 10 graders are available in the course.</li>
+<li>A moderator does not have to specify which specific graders in the course can grade submissions. If a course includes a surplus of graders higher than the desired number of graders, any grader can assess an assignment submission until the specified number of grades has been achieved. When an assignment has reached the specified number of graders, remaining graders will not be able to access the assignment anywhere in Canvas.</li>
+<li>The moderator is never included in the number of available graders since the moderator does not traditionally grade individual submissions. However, the moderator may choose to provide a custom grade instead of selecting a grade from one of the graders.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-grader-visibility" data-step-uuid="267db33c-4127-43ed-86a7-c4fe4cffdf5a">
+    <h3 id="select-grader-visibility" class="step-title screensteps-heading">Select Grader Visibility</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/740/902/original/8e465792-70cf-4cdd-99f9-1f321c70f3d8.png" srcset="" alt="Select Grader Visibility" height="66" width="341">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9da82d49-6bc1-423e-895f-4cb0dcdff77e" class="text-block-content">
+    <p>If you want to allow graders to view each other's comments, select the <strong>Graders can view each other's comments</strong> checkbox. This option is selected by default.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/740/908/original/59f4da4a-2e2b-4981-9e79-44466d5e8997.png" srcset="" alt="Select Grader Visibility" height="425" width="554">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60f62079-aec4-48a9-bdc6-5878e9e8814b" class="text-block-content">
+    <p><strong>Note: </strong>If anonymous grading is also enabled for your course, selecting this option displays the <strong>Graders cannot view each other's names </strong>checkbox in the anonymous grading assignment options. </p>
+<p>This option allows graders to view comments from other graders but not view the name associated with each comment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-final-grader" data-step-uuid="e954343e-bc8c-4207-8071-e870b98bfd1e">
+    <h3 id="select-final-grader" class="step-title screensteps-heading">Select Final Grader</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/740/904/original/fafc45ee-ede3-48fb-87b7-80af84076f48.png" srcset="" alt="Select Final Grader" height="158" width="423">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c31a9074-3280-4ba5-a322-5d3e738e60a5" class="text-block-content">
+    <p>In the <strong>Select Grader</strong> menu [1], select the name of the moderator, or the grader who determines the final grade. The Select Grader menu displays the names of course graders who have been given permission to determine the final grade. This permission is assigned to one or more roles at the account level. If you have permission, you can select your own name as the final grader.</p>
+<p>To allow the final grader to view other graders' names, click the <strong>Final grader can view other grader names</strong> checkbox [2]. This option is selected by default.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_assignment" data-step-uuid="fb1730ad-63d8-4a20-9f7e-0b0eb43d97e4">
+    <h2 id="save_assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/756/225/original/ed79a061-4970-4b28-bb51-4b1bce8f62eb.png" srcset="" alt="Save Assignment" height="98" width="663">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_487AAE00-1ED1-0135-A3E5-22000B5A851D" class="text-block-content">
+    <p>If you want to notify users about any future assignment changes, click the <strong>Notify users that this content has changed</strong> checkbox [1]. Click the <strong>Save </strong>button [2]. </p>
+<p><strong>Note:</strong> If your assignment has not yet been published, the assignment will show the <strong>Save &amp; Publish</strong> button. The Save button will create a draft of your assignment so you can publish it later.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

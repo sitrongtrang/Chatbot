@@ -1,0 +1,96 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_95D6B480-1ED3-0135-CD9C-22000AB760A3" class="text-block-content">
+    <p>Anything that appears in the Activity Stream is considered an activity. Some activities are graded (assignments) and others are not (events).</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas_assignments_vs_canvas_activities" data-step-uuid="3CB44C67-91D1-4A9B-B78B-04D965C90258">
+    <h2 id="canvas_assignments_vs_canvas_activities" class="step-title screensteps-heading">Canvas Assignments vs. Canvas Activities</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/183/449/original/ceba4f8f-5082-4959-885a-0dabe1def342.jpg" srcset="" alt="Canvas Assignments vs. Canvas Activities" height="764" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_95D6EC20-1ED3-0135-CD9E-22000AB760A3" class="text-block-content">
+    <p>Canvas makes a clear distinction between activities that students do for a grade (<strong>Canvas Assignments</strong>) and activities that students do to absorb new information, practice a new-found skill, or interact with a group to begin solving a problem (<strong>Canvas Activities</strong>).</p>
+<p>Students may be asked to engage in a number of Canvas Activities before they work on a Canvas Assignment, which will be evaluated by the instructor or their peers.</p>
+<p>When a Canvas Assignment is created, a new column is added to the gradebook (the "Not Graded" type being the only exception to this rule). Instructors and students will find that Canvas Assignments are automatically included on the Calendar, Assignments, and Syllabus pages. Also, Canvas Assignments can be evaluated with Rubrics and they can be aligned to course Outcomes.</p>
+<p>In contrast, when a new Canvas Activity is created, no new column is added to the gradebook. Students will find Activities linked on their respective pages (i.e. published Quizzes will show up on the Quizzes page), but they will NOT appear on the Assignments and Syllabus pages or the Calendar (the one exception being a Calendar event, which does show up on the Syllabus page and on the Calendar). </p>
+<p>At this time, Canvas Activities CANNOT be evaluated with Rubrics or aligned to course Outcomes.</p>
+<p>Keep in mind the following when creating any kind of <strong>Canvas Assignment</strong>:</p>
+<ul>
+<li>Instructors can set a due date for Canvas Assignments. Canvas Assignments without a due date will be categorized as "Other" in the Calendar and on the Syllabus page.</li>
+<li>Instructors can place Canvas Assignments into Assignment Groups and choose to weight final grades. Canvas will then calculate the final grade based on the percentages assigned to each Assignment Group.</li>
+<li>Points can be assigned to any Canvas Assignments except Non Graded Assignments. Non Graded Assignments will still appear on the Assignments and Syllabus pages but they will NOT appear in the Gradebook.</li>
+<li>Instructors can set an "Available from" date that will determine when students have access to a Canvas Assignment.</li>
+<li>Instructors can set an "Until" date that will determine when students can no longer submit an Assignment or take a Quiz.</li>
+<li>Canvas files have quota limits set for each user area: user (personal) files, course files, and group files. For instructors, any attachments added to an assignment description count against the course quota. For students, Files uploaded using the Rich Content Editor count toward your user storage quota. However, <a href="/t5/Student-Guide/How-do-I-upload-a-file-as-an-assignment-submission-in-Canvas/ta-p/274" target="_blank">files uploaded as an assignment submission</a> do not count toward your user quota. . Any attachments added for group assignment submissions are uploaded directly into the group files.</li>
+<li>Once a file has been uploaded as a submission, files cannot be deleted from the student's files. Additionally, file submissions cannot be deleted from the assignment. If a student needs to submit a new file, the student can re-submit the assignment.</li>
+</ul>
+<p> </p>
+<p>Additional options for <strong>Assignments</strong> and <strong>Graded Discussions</strong>:</p>
+<ul>
+<li>Assignments and Graded Discussions can be assigned to Instructor-created Groups and Self Sign-Up Groups for group work.</li>
+<li>Assignments and Graded Discussions can be Peer Reviewed. Students use the same Rubrics and SpeedGrader™ interface that Instructors do to evaluate their peers' work.</li>
+<li>Assignments, Graded Discussions, and Quizzes can be created with varied due dates.</li>
+</ul>
+<p> </p>
+<p>Additional options for <strong>Assignments </strong>only:</p>
+<ul>
+<li>Assignments can be created that have No Submission. These work well for in-class presentations, daily participation points, or other optional activities used for extra credit. </li>
+<li>Assignments can be created that have Online Submissions. Students can submit work in the form of file or image uploads, URLs, text entry, Google Docs, or audio or video recordings or uploads.</li>
+<li>Assignments can also be delivered to the instructor On Paper. On Paper Assignments are usually evaluated by hand and grades are manually entered in the gradebook.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how_do_i_include_extra_credit_activities_in_the_final_grade" data-step-uuid="E7D24B3E-7C71-4180-9943-95B78128F69C">
+    <h2 id="how_do_i_include_extra_credit_activities_in_the_final_grade" class="step-title screensteps-heading">How do I include extra credit activities in the final grade?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_95D70280-1ED3-0135-CD9F-22000AB760A3" class="text-block-content">
+    <p>Here are two ways of accounting for <a href="/t5/Instructor-Guide/How-do-I-give-extra-credit-in-a-course/ta-p/1253" target="_blank">extra credit</a>:</p>
+<ol>
+<li>If you want to add an extra credit assignment to a specific Assignment Group, create a regular Assignment for zero points. When the submission comes in, add points manually in the gradebook.</li>
+<li>Assignments with No Submission can also be used for extra credit. This works well for classroom duties, such as moderating a discussion or for in-class presentations. Enter points manually in the gradebook.</li>
+</ol>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how_can_i_turn_a_collaboration_conference_or_page_into_a_canvas_assignment" data-step-uuid="7D4CD54B-ABFE-415E-A686-754A12DD1BFD">
+    <h2 id="how_can_i_turn_a_collaboration_conference_or_page_into_a_canvas_assignment" class="step-title screensteps-heading">How can I turn a Collaboration, Conference, or Page into a Canvas Assignment?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_95D71AF0-1ED3-0135-CDA0-22000AB760A3" class="text-block-content">
+    <ul>
+<li>If one or more students are collaborating in a Google Doc to complete a project, they will be able to submit that Google Doc as an online Assignment. Instructors will be able to view the history of a Google Doc to see who has contributed to the document.</li>
+<li>If students are collaborating in Pages using the Rich Content Editor, they can submit the URL of their Page as an online Assignment. Instructors will be able to click on the <strong>Page history</strong> link to see who has contributed to the Page.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

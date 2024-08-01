@@ -1,0 +1,111 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_339BD3E0-22E3-0135-797D-22000B5A851D" class="text-block-content">
+    <p>The right side of the SpeedGrader menu bar includes the student list for the assignment. SpeedGrader gives you an overview of student submissions for an assignment.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speedgrader" data-step-uuid="acfd2d4b-0d75-4d29-9e48-361222928262">
+    <h2 id="open_speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/776/639/original/b8ea3bf9-2c46-4cd4-ae56-497ca27c6933.png" srcset="" alt="Open SpeedGrader" height="54" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_339C0C20-22E3-0135-797F-22000B5A851D" class="text-block-content">
+    <p>Open SpeedGrader from any assignment, graded discussion, or quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_student_list" data-step-uuid="13754128-9B89-44C3-ABFB-6BF50B4B939D">
+    <h2 id="open_student_list" class="step-title screensteps-heading">Open Student List</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/776/645/original/d68d0dc5-812a-46e6-baba-ed5422322d16.png" srcset="" alt="Open Student List" height="55" width="375">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_339C4270-22E3-0135-7981-22000B5A851D" class="text-block-content">
+    <p> To open the list of students, click the drop-down menu.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_list" data-step-uuid="e5964ffb-da0d-426a-a677-8b11e55ec9c1">
+    <h2 id="view_student_list" class="step-title screensteps-heading">View Student List</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/776/647/original/bb197c63-c4de-49bc-ad7c-27155d5ea811.png" srcset="" alt="View Student List" height="390" width="447">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_339C7750-22E3-0135-7983-22000B5A851D" class="text-block-content">
+    <p>SpeedGrader opens the assignment for the first student listed in the student list, arranged alphabetically by last name [1]. However, you can choose to <a href="/t5/Instructor-Guide/How-do-I-sort-the-student-list-in-SpeedGrader/ta-p/773" target="_blank">sort the student list</a> by student name, submission date, or submission status.</p>
+<p>When you view a submission, the student which student submission you are viewing in the student list compared to the total number of students [2]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_sections" data-step-uuid="cc564419-27c7-41c3-b786-69f38c436663">
+    <h3 id="view_sections" class="step-title screensteps-heading">View Sections</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/776/641/original/98281b03-2f22-4adc-ad91-7e7bb7c6863a.png" srcset="" alt="View Sections" height="390" width="447">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_339CAF40-22E3-0135-7985-22000B5A851D" class="text-block-content">
+    <p>If your course includes more than one section, students are displayed according to the section shown in the Gradebook. By default, the Gradebook shows all sections, though you can select a specific section to view. </p>
+<p>Viewing an assignment by section only displays submissions for that section and decreases the overall loading time for the assignment's data. When an assignment is opened in SpeedGrader, all values for that assignment are loaded and saved in the browser, including student submission data, any grades (including original grades for resubmitted assignments), rubrics, and comments. To improve performance, assignments in large courses should always be viewed by section.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Viewing by section is only available to instructors; admins cannot filter assignments by section.</li>
+<li>Viewing by section is only available for group assignments if you assign grades to student individually.</li>
+<li>When a section filter is applied in SpeedGrader, the same section filter also displays in the Gradebook.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_indicators" data-step-uuid="05c9ddfd-d72a-403c-bc0e-edfafaa5d238">
+    <h2 id="view_assignment_indicators" class="step-title screensteps-heading">View Assignment Indicators</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/776/649/original/6632bb10-31ad-46de-92ca-2710e4afe44c.png" srcset="" alt="View Assignment Indicators" height="389" width="362">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_339CE2A0-22E3-0135-7987-22000B5A851D" class="text-block-content">
+    <p>For easy identification, each student is identified with an assignment submission status next to his or her name:</p>
+<ol>
+<li>A green checkmark indicates the assignment has been graded</li>
+<li>An orange dot indicates the assignment has not been graded or has been re-submitted</li>
+<li>No checkmark and a grayed out name indicates the assignment has not been submitted</li>
+<li>A gray checkmark indicates the assignment is moderated and has already been graded by another grader</li>
+</ol>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,25 @@
+How do I manage external app placements for a course as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Open Apps
+Click the Apps tab.
+View App Configurations 
+To configure an app, click the View App Configurations button.
+Open Placements
+Locate the external app you want to manage. Then click the Settings button and select the Placements option.
+Note: When you click the Placements link, you may see a No Placements Enabled message. This message indicates that the app does not have any specified placements within Canvas.
+View Locked App
+Apps that were installed by your institution and cannot be edited display the Lock icon. To view placement information for a locked app, click the Information button.
+View Placements
+The App Placements window displays all placements for the external app. An active placement displays the Checkmark icon. An inactive placement displays the X icon.
+Depending on the LTI tool, the following app placement categories can be viewed in the App Placements window:
+Assignment Selection: Configure an LTI tool to be selectable as an assignment during assignment creation or editing.
+Editor Button: Configure an LTI tool to display as a button in the Rich Content Editor.
+Homework Submissions: Configure an LTI tool to display when a student is submitting content for an assignment. When a tool is configured, users will see an additional tab during assignment submission for assignments that accept online submissions.
+Link Selection: Configure an LTI tool to select LTI to launch URLs as module items.
+Navigation: Configure an LTI tool to display as a link in the navigation for a course.
+Migration Selection: Configure an LTI tool to display in the Course Imports menu of a course.
+Manage Placement
+To disable an active placement, click the Checkmark icon. To enable an inactive placement, click the X icon.
+To close the App Placements window, click the Close button.
+Note: It may take some time for placement availability to reflect any changes made from the App Placements window. You can clear your cache and refresh pages where you expect placements to change.

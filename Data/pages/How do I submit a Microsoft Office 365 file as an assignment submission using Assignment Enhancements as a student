@@ -1,0 +1,178 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_32a400e9-4c7f-4349-b480-7ecb808277fb" class="text-block-content">
+    <p>If your course has enabled Microsoft Office 365 and Assignment Enhancements, you can upload a file from your Microsoft OneDrive for an assignment.</p>
+<p>Files uploaded from Office 365 are added to your Canvas user files submissions folder.</p>
+<p>Canvas accepts Microsoft Word, Microsoft PowerPoint, Microsoft Excel, and PDF types.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If the assignment you are accessing displays differently, Assignment Enhancements may not be enabled in your course or your instructor may not have used a supported assignment type. Please view <a href="/t5/Student-Guide/How-do-I-upload-a-file-from-Microsoft-Office-365-as-an/ta-p/301" target="_blank">this guide</a> for more information.</li>
+<li>If the Microsoft Office 365 submission type does not display, your instructor has not installed the app in your course. </li>
+<li>Canvas will require you to authorize access to your OneDrive account.</li>
+<li>You can only attach one file for your submission. </li>
+<li>When Office 365 files are uploaded as a submission, changes later made to the file in OneDrive will not be updated in the submission.</li>
+<li>Assignment Enhancements does not support Cloud Assignments.</li>
+<li>Canvas does not support file uploads larger than 5 GB. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-assignments" data-step-uuid="5b1a0937-a972-4053-abe5-0ebe01d6bc08">
+    <h2 id="open-assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/364/150/original/15a49b7f-afb9-4993-8902-d684c221dab8.png" srcset="" alt="Open Assignments" height="242" width="168">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cd3b9d78-eb2e-4fb2-a8c5-4236b4355af3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link.</p>
+<p><strong>Note:</strong> You can also access your Assignments through your user or course dashboard, the Syllabus, Gradebook, Calendar, or Modules.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-course-assignments" data-step-uuid="dda825dc-3bee-4e5d-a5ad-d27ab26735b2">
+    <h2 id="view-course-assignments" class="step-title screensteps-heading">Open Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/821/326/original/acb372d3-a60c-42f4-833a-cd4c0d607106.png" srcset="" alt="Open Assignment" height="209" width="708">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_13cfb754-83b7-452e-8dd7-944b87af3bb6" class="text-block-content">
+    <p>Click the name of the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-submission-type" data-step-uuid="c94cd0e3-c728-45e6-81c3-814eaa284a6d">
+    <h2 id="select-submission-type" class="step-title screensteps-heading">Select Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/819/551/original/be8969a0-da36-48de-ab88-13dadc57d1f2.png" srcset="" alt="Select Submission Type" height="177" width="710">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a865c6d6-3ff8-44a6-a76c-f50edc071a3b" class="text-block-content">
+    <p>If your instructor allows multiple submission types for the assignment, accepted submission types display in the Choose a submission type section [1].</p>
+<p>You can add an Office 365 URL submission using the <strong>Web URL</strong> button [2]. </p>
+<p>Alternatively, if the Microsoft Office 365 LTI has been added to your course, you can upload an Office 365 file using the <strong>More</strong> button [3]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="submit-website-url" data-step-uuid="4120fa18-d8a4-475e-9648-31b7645693f9">
+    <h3 id="submit-website-url" class="step-title screensteps-heading">Submit Office 365 URL</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/819/553/original/4df9dae2-3e1c-400d-a730-5def8e054e13.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/819/553/medium/4df9dae2-3e1c-400d-a730-5def8e054e13.png" srcset="" alt="Submit Office 365 URL" height="262" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a6fd84b2-0dda-4e9f-bdb6-2c980d711ab3" class="text-block-content">
+    <p>To add an Office 365 URL as your assignment submission, click the <strong>Web URL</strong> option in the Choose a submission type section [1].</p>
+<p>Create a <a href="https://support.microsoft.com/en-us/office/share-your-documents-b8b4498b-f365-499d-b9a7-5ec65e2ab00d" target="_blank" rel="nofollow noopener noreferrer">shareable URL for your Office 365 file</a>.</p>
+<p>Then, in Canvas, add the shareable website URL to the <strong>Enter Web URL</strong> field [2]. </p>
+<p>Once added, your website URL will be saved as an assignment submission draft. </p>
+<p>To preview your URL in a new browser tab, click the <strong>View</strong> icon [3]. </p>
+<p><strong>Note:</strong> If a shareable link is not created, your instructor will not have permission to view your file. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="submit-media-recording" data-step-uuid="f4ff427e-b2cb-46b8-a178-b46cd50fd847">
+    <h3 id="submit-media-recording" class="step-title screensteps-heading">Submit Office 365 File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/819/555/original/4f08b938-fc5a-45b7-bf3a-39f77208574b.png" srcset="" alt="Submit Office 365 File" height="241" width="767">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_129a3d7d-07c2-4c77-b4b8-7af6062a889e" class="text-block-content">
+    <p>To upload a Microsoft Office 365 file as your assignment submission, click the <strong>More</strong> option in the Choose a submission type section [1].</p>
+<p>Then click the <strong>Microsoft Office 365</strong> option [2]. </p>
+<p><strong>Note: </strong>If the Microsoft Office 365 option does not display, your instructor has not installed the app in your course. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="select-file" data-step-uuid="c2c327c5-c1f8-4903-81ef-2b37a88e70c4">
+    <h4 id="select-file" class="step-title screensteps-heading">Select File</h4>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/819/557/original/f86f8689-b5be-4793-989f-88ca93475304.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/819/557/medium/f86f8689-b5be-4793-989f-88ca93475304.png" srcset="" alt="Select File" height="400" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3afa018a-2938-424b-93b0-082c6b7def7c" class="text-block-content">
+    <p>Microsoft Office 365 displays a list of allowed file types. </p>
+<p>Click the checkbox of the appropriate file [1].</p>
+<p>To save your upload as a draft, click the <strong>Attach File</strong> button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit-assignment" data-step-uuid="738b279c-9940-4637-a029-7908e3c9862d">
+    <h2 id="submit-assignment" class="step-title screensteps-heading">Submit Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/349/721/original/d279105a-fa51-40e0-878d-c59ac4d85623.png" srcset="" alt="Submit Assignment" height="89" width="341">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e15f453f-029f-451c-957d-9e093e362223" class="text-block-content">
+    <p>To submit your Office 365 file or URL as your assignment submission, click the <strong>Submit</strong> button [1]. </p>
+<p>If you are working on an additional assignment attempt, you can cancel your submission by clicking the <strong>Cancel Attempt</strong> button [2].  </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-submission" data-step-uuid="7eeadc70-8807-4fc5-b3fb-358ea08551d5">
+    <h2 id="view-submission" class="step-title screensteps-heading">View Submission</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/650/410/original/865ebac3-aeb7-4971-828d-703836a36e0b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/650/410/medium/865ebac3-aeb7-4971-828d-703836a36e0b.png" srcset="" alt="View Submission" height="609" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0090997f-d3e7-4e87-9ea7-9077b04bd1a0" class="text-block-content">
+    <p>When your submission is successfully submitted, the Progress Tracker displays a Submitted status [1] and your most recent submission displays [2].</p>
+<p>If you choose, you may resubmit another version of your assignment by clicking the <strong>New Attempt</strong> button [3].</p>
+<p>If you've submitted multiple assignment submissions, you can view previous submissions by clicking the <strong>Attempt</strong> drop-down [4].</p>
+<p>To add an assignment comment for your instructor, click the <strong>Add Comment</strong> button [5].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you're not able to resubmit work, your instructor may have limited the number of allowed submissions or the assignment may no longer be accepting submissions due to the assignment's availability dates.</li>
+<li>Once you've submitted your work, the assignment will still display in the Assignments page and the Syllabus.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

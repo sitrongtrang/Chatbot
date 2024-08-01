@@ -1,0 +1,72 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6d70e586-9466-42af-b78c-a8e8d639d6a0" class="text-block-content">
+    <p>Canvas Data Services offers two choices for data delivery, each deployed to receive the same set of Live Events from Canvas: HTTPS endpoint and AWS SQS queue. Both HTTPS and AWS SQS can be run simultaneously.</p>
+<p>This article discusses how to configure and test HTTPS delivery in Canvas Live Events. <a href="/t5/Admin-Guide/How-do-I-create-an-SQS-queue-in-Amazon-Web-Services-to-receive/ta-p/170" target="_blank">Learn more about SQS delivery</a>.</p>
+<p><strong>Note: </strong>Live events data is processed in the same region as the Canvas instance they are emitted from.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configuration-details" data-step-uuid="ffe25272-2f1c-438d-8a1e-3d6dcde4bb74">
+    <h2 id="configuration-details" class="step-title screensteps-heading">Configuration Details</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57688c23-380b-4915-93e1-3c71c7ece251" class="text-block-content">
+    <p>You can implement a Google Cloud Function to receive events from Canvas and store them in a Google Cloud Storage bucket.</p>
+<p>The following steps are needed in order to process incoming Canvas Live Event messages through the HTTPS endpoint:</p>
+<ol>
+<li>Signed JWT payloads should be set to On</li>
+<li>The event message, once received by the Google Cloud Function, should be decoded using RS256.  </li>
+<li>Once decoded, the JWT signature will contain a "kid" property. This property should be matched against one of the "kid" values retrieved from this public URL: <a href="https://8axpcl50e4.execute-api.us-east-1.amazonaws.com/main/jwks" target="_blank" rel="nofollow noopener noreferrer">https://8axpcl50e4.execute-api.us-east-1.amazonaws.com/main/jwks</a>
+</li>
+<li>Transform the payload and store the resulting event. In other words, do not store signed and encoded messages for too long, because the "kid" values will eventually become expired. AWS rotates keys once a month on the 30th. The most current "kid" is the one in the middle.</li>
+</ol>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="event-headers" data-step-uuid="9cca4013-14d5-431f-99fe-597012e18f39">
+    <h3 id="event-headers" class="step-title screensteps-heading">Event Headers</h3>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5ca23a72-7c3f-4e2b-8294-f65261e64182" class="text-block-content">
+    <p>In addition, there are three types of headers when Canvas generates an event :</p>
+<ol>
+<li>Request header when event gets triggered in Canvas (assuming the event was generated based on the request). The data from request is put into an event metadata object e.g method, request id, referrer URl, etc.</li>
+<li>AWS adds additional data to an event envelope when it passes it from one service to another (e.g timestamp when event was delivered to SQS).</li>
+<li>JWT standard header, these data gets added when we sign each event.</li>
+</ol>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="difference-between-https-and-aws-sqs" data-step-uuid="bf69ff73-2b3b-433b-b5ff-ef0aa25ca693">
+    <h2 id="difference-between-https-and-aws-sqs" class="step-title screensteps-heading">Difference between HTTPS and AWS SQS</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a922775c-05b7-430f-8754-c73dd4407f98" class="text-block-content">
+    <p>The HTTPS endpoint delivered events have a few additional properties. When AWS SQS delivered events are collected via an AWS lambda function, there is an opportunity to write the events in batches - up to 10 event messages at one time. This results in files which have up to 10 event messages, compared to the files for events delivered through the HTTPS endpoint, which will result in one file per event. In other words, for the same set of events, the folder for the HTTPS endpoint will have 10 times as many files as the folder containing data retrieved via the SQS queue.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

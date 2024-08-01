@@ -1,0 +1,229 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_56916746-d4a9-45a7-a573-a2db9798c8ec" class="text-block-content">
+    <p>Canvas has an integrated tool for math and science formulas based on LaTeX, the industry standard for academic publication. The LaTeX Equation Editor is built into the <a href="/t5/Canvas-Basics-Guide/What-is-the-Rich-Content-Editor/ta-p/12" target="_blank">Rich Content Editor</a>. Several features in Canvas support the Rich Content Editor, including Announcements, Assignments, Discussions, Pages, Quizzes, and Syllabus. </p>
+<p>You can use the Equation Editor for introductory math courses or for more advanced mathematics for higher-level math courses. </p>
+<p>To enter mathematical or chemical expressions, you can use the Equation Editor toolbar buttons, or you can enter LaTeX code directly. For more help using LaTeX, view the following resource documents:</p>
+<ul>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Equation-Editor-Tips-Advanced-View/ta-p/387058" target="_blank">Canvas Equation Editor Tips: Math Expressions Using LaTeX</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Equation-Editor-Tips-Chemistry/ta-p/387060" target="_blank">Canvas Equation Editor Tips: Chemistry Using LaTeX</a></li>
+</ul>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>To have characters #, $, &amp;, ^, and _ appear in the Rich Content Editor when your equation is inserted, you must type a backslash (\) before the character. The ~ character can be inserted by typing \~~. </li>
+<li>Equation images are stored as absolute (full website) URLs which may affect course copies.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_rich_content_editor" data-step-uuid="8d0d2cc7-d2e9-43c1-9e0c-92c4f4b8a5eb">
+    <h2 id="open_rich_content_editor" class="step-title screensteps-heading">Open Rich Content Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/393/863/original/97874299-0555-496f-91d1-13a68cab3ae3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/393/863/medium/97874299-0555-496f-91d1-13a68cab3ae3.png" srcset="" alt="Open Rich Content Editor" height="340" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7cb787f6-1cbb-4e3b-9a1e-b718466e7156" class="text-block-content">
+    <p>Open the Rich Content Editor when creating or editing an announcement, assignment, discussion, page, quiz, or syllabus.</p>
+<p><strong>Note:</strong> The Rich Content Editor supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press <strong>ALT+F8</strong> (PC keyboard) or <strong>Option+F8</strong> (Mac keyboard).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_math_editor" data-step-uuid="9fdc992d-341d-4854-8775-fd9b22d12139">
+    <h2 id="open_math_editor" class="step-title screensteps-heading">Open Equation Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/278/940/original/de70aa58-e9d4-4343-930f-af9560e73f51.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/278/940/medium/de70aa58-e9d4-4343-930f-af9560e73f51.png" srcset="" alt="Open Equation Editor" height="235" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c403242c-01a5-4c8c-9a57-78c73390ed20" class="text-block-content">
+    <p>To open the Math Editor, click the <strong>Insert Math</strong> <strong>Equation</strong> icon [1].</p>
+<p>You can also open the Math Editor from the Rich Content Editor menubar. Click the <strong>Insert</strong> link [2], then select the <strong>Equation</strong> option [3].</p>
+<p><strong>Note: </strong>To view the Insert Math Equation icon, you may need to click the <strong>Options</strong> icon [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-equation-editor" data-step-uuid="fa27cd79-07b3-4a87-80cf-42633b0a39ca">
+    <h2 id="view-equation-editor" class="step-title screensteps-heading">View Equation Editor</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/278/944/original/82cc4496-18ba-42b6-830d-c681fb9973d9.png" srcset="" alt="View Equation Editor" height="487" width="748">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1cde7b84-c5d1-496a-9fc5-3da91d148998" class="text-block-content">
+    <p>The Equation Editor provides a toolbar for inserting various operators and symbols [1].</p>
+<p>You can enter expressions in the equation field [2].</p>
+<p>You can view and edit or hide the LaTeX code behind an expression by clicking the <strong>Directly Edit LaTeX</strong> toggle [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-toolbar-tabs" data-step-uuid="286901a6-0ebd-4ca6-90b4-bef2f7c6b43e">
+    <h2 id="view-toolbar-tabs" class="step-title screensteps-heading">View Toolbar Tabs</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/278/946/original/a759e474-f05a-42c2-a28c-108b72d94716.png" srcset="" alt="View Toolbar Tabs" height="487" width="748">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_032e4a5b-50bb-4279-a1ea-5fdc99611298" class="text-block-content">
+    <p>By default, the toolbar displays the <strong>Basic</strong> tab. To access other operators and symbols, click any of the following tabs: <strong>Greek</strong>, <strong>Operators</strong>, <strong>Relationships</strong>, <strong>Arrows</strong>, <strong>Delimiters</strong>, and <strong>Misc</strong>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_basic_math_equation" data-step-uuid="185de33d-8036-46a3-a8a6-71fd82d6aa25">
+    <h2 id="create_basic_math_equation" class="step-title screensteps-heading">Create Math Expression</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/278/948/original/c05dcb2b-cdad-4fee-8c9b-52da94a8dc6a.png" srcset="" alt="Create Math Expression" height="493" width="734">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5655753f-8694-40da-8c33-ee8459c2d8f9" class="text-block-content">
+    <p>To enter expressions, press keys on your keyboard, click the toolbar buttons, or enter LaTeX code in the equation field. </p>
+<p><strong>Note: </strong>To position the cursor in the correct spot as you enter an expression, you can press the arrow keys on your keyboard.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="fill-math-toolbar-placeholders" data-step-uuid="dbdd3f38-5b16-49a5-b971-61da77352f0f">
+    <h3 id="fill-math-toolbar-placeholders" class="step-title screensteps-heading">Fill Math Toolbar Placeholders</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/278/950/original/db5ce86e-4d44-4787-874b-2d327eb754a2.png" srcset="" alt="Fill Math Toolbar Placeholders" height="496" width="717">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fa70ee2b-a7ab-4480-b655-ba24cb17db67" class="text-block-content">
+    <p>When you click a Math Editor toolbar button [1], placeholders may display [2]. </p>
+<p>To fill in a placeholder, click it and enter a value from your keyboard or click a toolbar button. The value overwrites the placeholder [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-latex-code" data-step-uuid="7fb2f9ae-a4e8-4514-95c9-bcc97df20840">
+    <h3 id="enter-latex-code" class="step-title screensteps-heading">Enter LaTeX Code</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/278/953/original/bd4eefdb-4e24-4a46-aaf5-7864c4d106ab.png" srcset="" alt="Enter LaTeX Code" height="487" width="722">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_34bb18b7-cdf4-470d-b955-6ecb4a7e106a" class="text-block-content">
+    <p>If you know the LaTeX code of an expression you want to enter, paste it or type it in the equation field. The code is automatically rendered. For example, if you enter \left(-\infty,4\right], the rendered code automatically displays.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="view-latex-code" data-step-uuid="c76858dd-3ee7-4f64-b88c-5b5413797ea2">
+    <h4 id="view-latex-code" class="step-title screensteps-heading">View LaTeX Code</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/278/955/original/e0c2b406-6ce6-4d41-b879-ab9a498304bd.png" srcset="" alt="View LaTeX Code" height="527" width="755">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59c9793f-0442-433a-b5f7-4bf2645dfa16" class="text-block-content">
+    <p>To view or edit the LaTeX code, click the <strong>Directly Edit LaTeX</strong> toggle on [1].</p>
+<p>The LaTeX code displays in the equation field [2]. </p>
+<p>Edit the code as needed. As you edit, the LaTeX rendering updates automatically [3].</p>
+<p><strong>Note: </strong>You can learn more about using <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Equation-Editor-Tips-Advanced-View/ta-p/387058" target="_blank">LaTeX code for advanced math</a> or for <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Equation-Editor-Tips-Chemistry/ta-p/387060" target="_blank">chemistry and scientific notation</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="insert_equation" data-step-uuid="ad3f09e4-786f-4f90-9aa6-88f8d30ffa4d">
+    <h2 id="insert_equation" class="step-title screensteps-heading">Insert Expression</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/278/957/original/4842559b-1d41-4f12-884a-f5e1e85f0b91.png" srcset="" alt="Insert Expression" height="496" width="722">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8a5447af-4c19-49c2-b0e9-85cdf441c14f" class="text-block-content">
+    <p>To add your mathematical expression to the Rich Content Editor, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="format" data-step-uuid="2b14f9da-e222-44fd-bacf-24623ad40a88">
+    <h2 id="format" class="step-title screensteps-heading">Format</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/278/961/original/d4f8f8e8-67a1-4d8b-9929-774abef282ce.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/278/961/medium/d4f8f8e8-67a1-4d8b-9929-774abef282ce.png" srcset="" alt="Format" height="332" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d82bb9a5-2ef5-40ac-996a-8f3c256c1820" class="text-block-content">
+    <p>You can add text around your math expressions and insert additional math equations. Format them using the options in the <a href="/t5/Canvas-Basics-Guide/What-is-the-Rich-Content-Editor/ta-p/12" target="_blank">Rich Content Editor</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_changes" data-step-uuid="3a0b119e-91f3-492e-82ce-80a1f2b6373c">
+    <h2 id="save_changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/278/965/original/2a46e64d-2d5d-4baf-8311-be4c2e116dec.png" srcset="" alt="Save Changes" height="69" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a0ba8c66-3b1e-43cf-b128-c8b3522d1187" class="text-block-content">
+    <p>To save any changes made in the Rich Content Editor, click the <strong>Save</strong> button. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The assignment, discussion, pages, and quizzes details pages display a <strong>Save &amp; Publish </strong>button.</li>
+<li>The Syllabus page displays an <strong>Update Syllabus </strong>button.</li>
+<li>Discussion and announcement replies display a <strong>Post Reply </strong>or<strong> Reply </strong>button.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_content" data-step-uuid="ba1f3875-e202-403a-9fe9-507b8d328188">
+    <h2 id="view_content" class="step-title screensteps-heading">Edit or Resize Equation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/278/967/original/8048168d-1034-4691-9a3d-0f144d86ef02.png" srcset="" alt="Edit or Resize Equation" height="226" width="660">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0d8ea356-eeda-446c-9cac-2daeeaacf59d" class="text-block-content">
+    <p>To resize or edit a math expression, click it to view the edit controls. Then, to resize the expression, hover the cursor over a resize handle [1], click, and drag to a new size. </p>
+<p>To open the Equation Editor and make edits, click the <strong>Edit Equation</strong> link [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

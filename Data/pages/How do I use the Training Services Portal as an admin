@@ -1,0 +1,119 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_88ab2e93-f1b7-44ce-ba8a-d1ceed0d50fb" class="text-block-content">
+    <p>As an admin, you can access the Training Services Portal to complete self-paced training resources on a variety of Canvas topics. If your institution has a paid training subscription, you may also have access to live trainings and webinars.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The Training Services Portal is only available to admin-, instructor-, and designer-based roles or users without an assigned role.</li>
+<li>The Training Services Portal is only available to institutions in North America. Canadian institutions should contact their Customer Success Manager for information on participation.</li>
+<li>For assistance updating your Training Services Portal, contact your Customer Success Manager. </li>
+<li>If the Training Services Portal link does not display in your Help menu, you must <a href="/t5/Admin-Guide/How-do-I-customize-the-Canvas-Help-Menu-for-an-account/ta-p/127" target="_blank">enable it in account settings</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-help-menu" data-step-uuid="97534e6e-2eda-42da-9ad8-d64c5d6a38c4">
+    <h2 id="open-help-menu" class="step-title screensteps-heading">Open Help Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/987/314/original/5d9d25bd-b635-46ca-8dc7-ec52825f36e6.png" srcset="" alt="Open Help Menu" height="678" width="94">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_46005aed-ad03-41aa-8c72-2a40bf0a7222" class="text-block-content">
+    <p>In the Canvas Global Navigation menu, click the <strong>Help </strong>link.</p>
+<p><strong>Note: </strong>Depending on your institution, the Help link name and icon may vary.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-training-services-portal" data-step-uuid="9b0678f0-e6eb-4e7c-9084-2a25dd5e69fb">
+    <h2 id="open-training-services-portal" class="step-title screensteps-heading">Open Training Services Portal</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/987/316/original/567472cc-bf6b-4356-92be-35f73faaf301.png" srcset="" alt="Open Training Services Portal" height="674" width="457">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24852c52-ff7a-46bd-a72a-a640604eefd5" class="text-block-content">
+    <p>Click the <strong>Training Services Portal</strong> link.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The Training Services Portal is only available to admin-, instructor-, and designer-based roles or users without an assigned role</li>
+<li>If the Training Services Portal link does not display in your Help menu, you must <a href="/t5/Admin-Guide/How-do-I-customize-the-Canvas-Help-Menu-for-an-account/ta-p/127" target="_blank">enable it in account settings</a>.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="authorize-account" data-step-uuid="f06ae2d4-87ac-407c-bae3-81c727bbcbf0">
+    <h2 id="authorize-account" class="step-title screensteps-heading">Authorize Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/614/541/original/8194988a-7dba-43a6-95f2-fd6db8ce4783.png" srcset="" alt="Authorize Account" height="779" width="730">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a843b6bb-c7e7-4bd7-b6cc-261c8686dc97" class="text-block-content">
+    <p>To use the Training Services Portal, you must authorize the Training Portal to access your Canvas account. </p>
+<p>Two modals display when accessing the Training Portal the first time. To authorize use of your account, click the <strong>Authorize</strong> buttons. In the future, only the Canvas Training Portal Authorization modal will display.  </p>
+<p><strong>Note:</strong> If you are not authenticated in your Canvas Instance, you will be prompted to enter your Canvas URL before accessing the Training Portal.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="training-portal-visibility" data-step-uuid="2f4423e7-9990-4ad6-b2be-41aa8b9142d4">
+    <h2 id="training-portal-visibility" class="step-title screensteps-heading">Training Portal Visibility</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/614/545/original/60632c74-83eb-4103-b0c3-3a310f3b8dcf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/614/545/medium/60632c74-83eb-4103-b0c3-3a310f3b8dcf.png" srcset="" alt="Training Portal Visibility" height="103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_44af1e18-6cfb-480b-9dd0-ddedfa71074a" class="text-block-content">
+    <p>By default, users with admin permissions view the Training Portal as an admin [1]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-use-the-Training-Services-Portal-as-an-instructor/ta-p/772" target="_blank">view the Training Portal as a learner</a>, click the <strong>User</strong> drop-down [2] and select the <strong>Learner</strong> option [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-data-amp-analytics" data-step-uuid="a8c5e9ad-0a44-4c88-a6fe-c85acac301f4">
+    <h2 id="view-data-amp-analytics" class="step-title screensteps-heading">View Completion Report</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/613/835/original/4689204a-9129-42ab-aa0e-683fd7db9f4c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/613/835/medium/4689204a-9129-42ab-aa0e-683fd7db9f4c.png" srcset="" alt="View Completion Reports" height="469" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ef23296d-7ef3-4882-ab69-22b41ca387ed" class="text-block-content">
+    <p>By default, the Data and Analytics page displays.</p>
+<p>On the Completion Report tab [1], you can view completion data such as the enrolled user [2], the offering [3], type [4], and completion status [5]. </p>
+<p>To generate a new report, click the <strong>New Report</strong> button [6]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,138 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A87694D8-E8FC-4586-B837-D432F2F42C32" class="text-block-content">
+    <p>If you use an Instructure-managed SIS integration, you can create an SIS support case from the <a href="/t5/Admin-Guide/How-do-I-log-in-to-the-Field-Cloud-Admin-Console/ta-p/237" target="_blank">Field Admin Console</a>. You can select to escalate SIS support cases to the SIS support team while creating a case. You can also <a href="/t5/Admin-Guide/How-do-I-escalate-an-SIS-case-to-SIS-Support-in-the-Field-Admin/ta-p/567739" target="_blank">escalate an existing support case to the SIS support team</a>.</p>
+<p>For non-SIS related issues, please <a href="/t5/Admin-Guide/How-do-I-create-a-case-in-the-Field-Admin-Console/ta-p/517614" target="_blank">submit a Canvas support case</a>.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Field Admin Console features vary based on account and user settings. Based on the permissions for your role, you may not be able to view or create SIS support cases.</li>
+<li>SIS escalated cases are not subject to Targeted Initial Responses or Service Level Agreements. If further attention is needed on your case, please contact your Customer Success Manager (CSM).</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-new-case" data-step-uuid="33DDC2D2-BB3A-4DA9-B534-2DE8347F7585">
+    <h2 id="create-new-case" class="step-title screensteps-heading">Create New SIS Case</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/629/351/original/0779327e-de2f-42d3-9d25-2b4076a11d2b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/629/351/medium/0779327e-de2f-42d3-9d25-2b4076a11d2b.png" srcset="" alt="Create New SIS Case" height="311" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2587EDB3-B08A-4E05-BFB9-0206FA200F63" class="text-block-content">
+    <p>In the Field Admin Console home page, click the <strong>Create Support Ticket</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-instance" data-step-uuid="dcb1bc3a-01fb-4d56-ba0e-23a4d56c97a0">
+    <h2 id="select-instance" class="step-title screensteps-heading">Select Instance</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/629/354/original/2c39643d-5e3b-417f-a5dd-a58347da977a.png" srcset="" alt="Select Instance" height="194" width="726">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c38a548e-9afd-447c-80e5-9683af5bf472" class="text-block-content">
+    <p>Select the instance in which you are creating the case using the <strong>Which Instance for this Case?</strong> dropdown [1]. Then click the <strong>Next</strong> button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="escalate-sis-case" data-step-uuid="9521ee7c-572d-4871-9417-049f6843cd7f">
+    <h2 id="escalate-sis-case" class="step-title screensteps-heading">Escalate SIS Case</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/629/356/original/65380021-3327-4d54-80e0-f35903381ac1.png" srcset="" alt="Escalate SIS Case" height="222" width="720">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_374ca7cd-b745-421a-b139-1bc38cd7f661" class="text-block-content">
+    <p>If your instance is authorized to escalate SIS cases, a SIS escalation prompt displays. </p>
+<p>Consider reviewing <a href="https://community.canvaslms.com/t5/Student-Information-Systems-SIS/ct-p/sis_guides" target="_blank">SIS guides and error codes</a> before escalating your ticket. </p>
+<p>To escalate your case to the SIS support team, click the<strong> Is this case a SIS Escalation?</strong> dropdown [1] then click the <strong>Yes</strong> option [2]. </p>
+<p>To proceed, click the <strong>Next</strong> button [3].</p>
+<p><strong>Note:</strong> If your case is not SIS-related, <a href="/t5/Admin-Guide/How-do-I-create-a-case-in-the-Field-Admin-Console/ta-p/517614" target="_blank">submit a Canvas Support case</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-case-details" data-step-uuid="6E93AB74-08BF-44A3-A3F3-6D1130FF28C7">
+    <h2 id="add-case-details" class="step-title screensteps-heading">Add Case Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/092/010/original/7ccfd4e3-65ad-415b-833a-81fe46bacd4d.png" srcset="" alt="Add Case Details" height="963" width="664">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B59156BB-7C44-4837-BD30-169689C16901" class="text-block-content">
+    <p>Answer each of the questions in the SIS case form.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-attachment" data-step-uuid="544E93A7-3CB3-4BB6-887C-2C8FBFD73616">
+    <h2 id="add-attachment" class="step-title screensteps-heading">Add Attachment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/093/320/original/f004e424-e9a2-408f-812b-220800f1d6bb.png" srcset="" alt="Add Attachment" height="84" width="255">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E8F4B90A-78EA-47ED-942A-20F8DF855D0B" class="text-block-content">
+    <p>To add an attachment to the case, drag and drop files or click the <strong>Upload Files</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit-case" data-step-uuid="726de97f-5930-41bb-bb2e-bb87c0ad8dfa">
+    <h2 id="submit-case" class="step-title screensteps-heading">Submit Case</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/629/358/original/89e28309-6e66-4c27-9804-d6212bef3421.png" srcset="" alt="Submit Case" height="58" width="102">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e841bfa0-f1be-40a3-8a88-d9299b10b8d1" class="text-block-content">
+    <p>To submit the case, click the <strong>Submit </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-case" data-step-uuid="CED57387-A183-4E15-971F-EC4738A699DE">
+    <h2 id="view-case" class="step-title screensteps-heading">View SIS Case</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/093/322/original/8c538344-8ca8-4540-9f0f-ea5dea832e53.png" srcset="" alt="View SIS Case" height="207" width="728">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5D8E4AF8-BD62-4AD3-93EA-D32D0144043E" class="text-block-content">
+    <p>View your submission confirmation. </p>
+<p>To view case details, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

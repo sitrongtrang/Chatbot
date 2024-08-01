@@ -1,0 +1,161 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_63ee81cf-07a5-4195-9b4f-5635ff18da9a" class="text-block-content">
+    <p>As an account admin, you can generate a Canvas Data 2 Client ID and Secret using <a href="https://identity.instructure.com/login" target="_blank" rel="nofollow noopener noreferrer">Identity Services</a>. Once you generate a Client ID and Secret, you can a <a href="/t5/Admin-Guide/How-do-I-manage-my-Canvas-Data-2-API-key/ta-p/560954" target="_blank">manage Canvas Data 2 API key</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Your institution must be included in the account domain lookup. Please contact your Customer Success Manager if your institution does not appear in the search list.</li>
+<li>You must be logged into Canvas to authorize access.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find-institution" data-step-uuid="42eb379c-ad5c-4332-b356-f121be2667e9">
+    <h2 id="find-institution" class="step-title screensteps-heading">Find Institution</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/900/151/original/d8bd49d2-3e1e-4348-a354-4c4d7484bdbf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/900/151/medium/d8bd49d2-3e1e-4348-a354-4c4d7484bdbf.png" srcset="" alt="Find Institution" height="535" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0c7b4378-c0ea-4e6e-bc0b-3db5eb143ba2" class="text-block-content">
+    <p>In your web browser, visit <a href="https://identity.instructure.com/login" target="_blank" rel="nofollow noopener noreferrer">identity.instructure.com</a>. In the <strong>Institution</strong> drop-down menu, search for your institution by entering its name [1]. Once it appears, click your institution's name [2].</p>
+<p><strong>Note:</strong> If your institution does not appear in the search list, please contact your Customer Success Manager about account domain lookup.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="log-into-identity-services" data-step-uuid="0d355441-6890-4270-918f-12214d795cea">
+    <h2 id="log-into-identity-services" class="step-title screensteps-heading">Log into Identity Services</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/900/154/original/ebd218c0-f09f-48bf-b086-479916f09dfc.png" srcset="" alt="Log into Identity Services" height="636" width="513">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8df76b25-997d-46ab-9849-a4519c6846ab" class="text-block-content">
+    <p>Click the <strong>Log In to Canvas</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="authorize-access" data-step-uuid="7e40064f-6d5e-4b01-bff2-aca25ef75451">
+    <h2 id="authorize-access" class="step-title screensteps-heading">Authorize Access</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/900/156/original/5b7af2fb-d93e-412b-a139-b173a373a3ed.png" srcset="" alt="Authorize Access" height="401" width="734">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4d1afc5b-1bd7-4dad-ad2d-fffe4f29d8ee" class="text-block-content">
+    <p>To authorize Identity Service to access your account, click the <strong>Authorize</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-new-key" data-step-uuid="bff0a452-6ff7-4f3d-8ff5-e8f028d64ec0">
+    <h2 id="add-new-key" class="step-title screensteps-heading">Add New Key</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/900/158/original/8b4fe15b-0155-47e1-99a9-55ac22125676.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/900/158/medium/8b4fe15b-0155-47e1-99a9-55ac22125676.png" srcset="" alt="Add New Key" height="410" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_497fdda8-6753-464e-9287-3e497e98930a" class="text-block-content">
+    <p>To add a new key, click the <strong>Add New Key</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/971/250/original/684b9a9b-56f0-433e-9f48-41247477ec36.png" srcset="" alt="Save New Key" height="798" width="498">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d2b075ef-499d-4e9d-82e1-7a53693e9bf5" class="text-block-content">
+    <p>In the <strong>Key Name</strong> field, enter a name for the key [1].</p>
+<p>In the <strong>Expiry</strong> drop-down menu, select the expiration time (1 day, 1 week, 1 month, 6 months, 1 year) [2].</p>
+<p>In the <strong>Key Type</strong> section, click the <strong>Institutional Use </strong>or<strong> Instructure Partner</strong> radio button [3]. </p>
+<p>Click the <strong>Save</strong> button [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-new-instructure-partner" data-step-uuid="13118b7b-fcf1-4388-a7a8-3c09917330d4">
+    <h3 id="add-new-instructure-partner" class="step-title screensteps-heading">Add New Instructure Partner</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/975/718/original/a0a7f7bf-c306-4328-9542-eb2bf20881af.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/975/718/medium/a0a7f7bf-c306-4328-9542-eb2bf20881af.png" srcset="" alt="" height="303" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6edc0864-df7a-40d2-9a2e-c6b8e20aeeb7" class="text-block-content">
+    <p>Click the <strong>Instructure</strong> <strong>Partner</strong> radio button [1] and click the <strong>Add New Partner</strong> button [2]. In the <strong>Select</strong> <strong>Partner</strong> drop-down menu [3], select your partner. In the email field, enter their email address [4]. Click the <strong>Submit</strong> button [5].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="copy-api-key" data-step-uuid="513e10e7-cc4b-420f-bea2-0df5bf25794b">
+    <h2 id="copy-api-key" class="step-title screensteps-heading">Copy API Key and Secret</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/971/255/original/75639064-db4b-41d1-98c3-75dd505db537.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/971/255/medium/75639064-db4b-41d1-98c3-75dd505db537.png" srcset="" alt="Copy API Key" height="1031" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_64dd7060-96b4-4ece-9639-bd19b22a5b7b" class="text-block-content">
+    <p>To reveal your Client ID and Secret, click the <strong>Reveal OAuth Credentials </strong>button [1].</p>
+<p>To copy your Client ID and Secret, click the <strong>Copy Text </strong>button next to the Client ID and Secret fields [2]. </p>
+<p>To avoid accidental closing before copying the Client ID and Secret, you need to click the<strong> Click 3 more times to close</strong> button [3].</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The Client ID and Secret window can only be opened one time. When you close it, you cannot reopen it.</li>
+<li>If you do not copy the generated Client ID and Secret and close the window, you will need to generate a new Client ID and Secret. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-generated-api-key" data-step-uuid="be9616d3-c309-466e-9bcd-c914e4d7e5db">
+    <h2 id="view-generated-api-key" class="step-title screensteps-heading">View Generated API Key</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/971/259/original/f5f0e236-493b-4a4c-95eb-1395f56284e4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/971/259/medium/f5f0e236-493b-4a4c-95eb-1395f56284e4.png" srcset="" alt="View Generated API Key" height="116" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1dbca828-5efe-4444-90eb-3b327ab79f52" class="text-block-content">
+    <p>View the generated API key name. Once the API key is generated, you can <a href="/t5/Admin-Guide/How-do-I-manage-my-Canvas-Data-2-API-key/ta-p/560954" target="_blank">manage the API key</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

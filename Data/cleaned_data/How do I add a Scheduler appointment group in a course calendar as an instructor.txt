@@ -1,0 +1,44 @@
+How do I add a Scheduler appointment group in a course calendar as an instructor
+Open Calendar
+In Global Navigation, click the Calendar link.
+Add Event
+In the Calendars list, click the checkbox for the calendar in which you want to add the appointment group. Appointment groups can be added to multiple calendars.
+Click any date on the calendar to add an event. Or, click the arrows next to the month name to navigate to a different month and select a date.
+If you don't want to manually locate the date, you can click the Add icon.
+Open Appointment Group
+Click the Appointment Group tab.
+Create Name and Location
+Type the name of the appointment in the name field. Type the location of the appointment in the location field.
+Select Calendars
+Click the Select Calendars button. To select the course(s) or section(s) where you want to show the appointment group, click the checkbox next to the course name or section name. To close the Calendar list, click the Done button.
+If you want to select certain sections from your course, click the arrow icon.
+Notes: 
+The calendar cannot be modified once the appointment group is saved. However, additional calendars can be added to the original appointment group.
+If the course or section you want to select does not display in the Select Calendars list, return to the calendar and click the checkbox for the course or section in the Calendars list.
+Allow Group Signup
+If you have created at least one group set in your course, you can have students sign up in groups by clicking the Have students sign up in groups checkbox. Then select the name of the group category you want to use for the group signup. 
+Note: The groups option is only available if you previously selected the calendar for the entire course. You cannot select a calendar for a specific section because Canvas does not currently support sections in groups.
+Allow Observer Signup
+To allow observers to sign-up for appointments, click the Allow observers to sign up checkbox.
+Set Appointment Time Range
+In the date field, enter the date of the appointment. You can also select a date by clicking the Calendar icon. 
+Set the time range for the appointment by typing in the time range field. You must include at least one time slot.
+You can split the time range into multiple time slots by entering the division time into the time field. For instance, if you want to create 15-minute meeting times from 2:00 pm until 5:00 pm, enter the number 15. 
+To create the time slots, click the Go button.
+Modify Appointment Times
+You can manually change any appointment time created by the division. If you want to remove an appointment time, click the Remove icon.
+Notes: 
+The appointment date, time range, and appointment slots cannot be modified after the appointment group is saved. However, additional dates, time ranges, and appointment slots can be added to the original appointment group. 
+You must create at least one time slot for each appointment group.
+Set Appointment Options
+You can limit how many users can sign up for a time slot by clicking the Limit each time slot checkbox and typing the number of time slots in the limit field. If you selected the option to have students sign up in groups, this field reads as Limit each time slot for x groups. 
+To make the appointment slots public to students in the course, click the Allow students to see who has signed up for time slots that are still available checkbox. Selecting this option also allows students to see comments other students add to their appointments.
+If you want to limit the number of appointments available, click the Limit participants to attend [number] appointment(s) checkbox.
+Note: When using the group signup option, only one group member needs to sign up for a time slot on behalf of their group. Each member in the group will see the appointment on their own group calendar.
+Add Appointment Details
+If you want to add details about the appointment group, type them in the details field.
+Publish Appointment Group
+Click Publish button.
+View Calendar
+View the appointment dates and times in your course calendar. Students can reserve time slots. Observers, if allowed, can also reserve time slots. Time slots that have been reserved by users will show as a solid color.
+Note: If you added an appointment group to more than one course, appointment slots only display in the calendar for the first course shown in the appointment group.

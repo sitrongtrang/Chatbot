@@ -1,0 +1,139 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0D88E930-2212-0135-D667-22000B5A851D" class="text-block-content">
+    <p>If your institution allows, you may be able to add a text or SMS communication channel to receive Multi-Factor Authentication codes (if enabled for your account) on your cell phone. Text or SMS channels appear under the <strong>Other Contacts</strong> sidebar heading. </p>
+<p>SMS notifications are currently available for cellular numbers registered in Afghanistan, Argentina, Australia, Austria, Belgium, Bolivia, Brazil, Canada, Chile, China, Colombia, Costa Rica, Denmark, Dominican Republic, El Salvador, Finland, France, Germany, Guatemala, Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Kazakhstan, Kenya, Luxembourg, Malaysia, Mexico, Netherlands, New Zealand, Norway, Oman, Pakistan, Panama, Paraguay, Philippines, Poland, Qatar, Russia, Rwanda, Saudi Arabia, Singapore, South Africa, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, Trinidad and Tobago, United Arab Emirates, United Kingdom, United States of America, Uruguay, Venezuela, and Vietnam. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Standard text message rates may apply. </li>
+<li>SMS is only used for Multi-Factor Authentication (if enabled for your account).</li>
+<li>If notifications are not enabled by your institution or are not available in your country, you can use the <a href="https://community.canvaslms.com/docs/DOC-4048" target="_blank">Canvas Student app</a> and receive push notifications.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_settings" data-step-uuid="e0442216-0a40-42a3-88d2-215fcff15ac7">
+    <h2 id="open_user_settings" class="step-title screensteps-heading">Open User Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/304/932/original/087a0df3-d31a-4727-ba4d-768c98229a9e.png" srcset="" alt="Open User Settings" height="617" width="457">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D895050-2212-0135-D669-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Account</strong> link [1], then click the <strong>Settings</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_contact_method" data-step-uuid="BB759641-867E-48F6-A3A3-816E058B509C">
+    <h2 id="add_contact_method" class="step-title screensteps-heading">Add Contact Method</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/514/145/original/78da8f98-4c01-48ba-bc62-4177c71be579.png" srcset="" alt="Add Contact Method" height="295" width="267">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D898910-2212-0135-D66B-22000B5A851D" class="text-block-content">
+    <p>In the Other Contacts section, click the <strong>Add Contact Method </strong>link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="register_sms_united_states" data-step-uuid="66DE593C-306D-4159-A61F-C705827B634F">
+    <h2 id="register_sms_united_states" class="step-title screensteps-heading">Register SMS: United States</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/579/982/original/5f6c8c63-8e24-4419-80a6-c9092360f9df.png" srcset="" alt="Register SMS: United States" height="437" width="608">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D89BD40-2212-0135-D66D-22000B5A851D" class="text-block-content">
+    <p>If you are in the United States, enter your 10-digit cell phone number [1], and select your cell phone carrier [2]. The SMS Email field [3] will auto-populate your SMS email address. </p>
+<p>Click the <strong>Register SMS </strong>button [4].</p>
+<p><strong>Note:</strong> SMS is only used for Multi-Factor Authentication (if enabled for your account).</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="register_sms_international" data-step-uuid="6742e12c-44e4-4dab-b5bd-ccc1f03d2c33">
+    <h3 id="register_sms_international" class="step-title screensteps-heading">Register SMS: International</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/579/984/original/edd6c376-908a-4575-991a-038fa652ae64.png" srcset="" alt="Register SMS: International" height="394" width="608">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D89F1B0-2212-0135-D66F-22000B5A851D" class="text-block-content">
+    <p>If you're located outside the United States, you may be able to select your country or region [1] and enter your cell number [2]. To register your number, click the <strong>Register SMS</strong> button [3].</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>International SMS must be enabled by your institution. If you cannot select a country, this feature is not available to you.</li>
+<li>SMS is only used for Multi-Factor Authentication (if enabled for your account).</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm_sms_number" data-step-uuid="D06397A8-30F7-4946-A67E-67134CB1A5B1">
+    <h2 id="confirm_sms_number" class="step-title screensteps-heading">Confirm SMS Number</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/001/original/ea18f9e8-d4d3-4d6c-84e4-f6ca7479cc88.png" srcset="" alt="Confirm SMS Number" height="283" width="353">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D8A2460-2212-0135-D671-22000B5A851D" class="text-block-content">
+    <p>Check your cell phone for a confirmation code from canvas. Enter the code into the text field [1]. To resend the confirmation again, click the <strong>Re-Send Confirmation </strong>link [2]. Click the <strong>Confirm </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete_sms" data-step-uuid="2e3390fa-cce5-4155-9d28-4a33b17883c9">
+    <h2 id="delete_sms" class="step-title screensteps-heading">Delete SMS</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/514/148/original/62aafb27-1a31-4348-8c0a-2511fece588c.png" srcset="" alt="Delete SMS" height="145" width="267">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D8A5A70-2212-0135-D673-22000B5A851D" class="text-block-content">
+    <p>To delete the contact method, click the <strong>Delete</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm_deletion" data-step-uuid="2abd99bf-5a26-4694-bf7a-0890d8e5956c">
+    <h3 id="confirm_deletion" class="step-title screensteps-heading">Confirm Deletion</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/586/554/original/ddc9df75-61ea-43e2-8a7a-0ecf070cc2f0.png" srcset="" alt="Confirm Deletion" height="148" width="247">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D8A9810-2212-0135-D675-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>OK</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

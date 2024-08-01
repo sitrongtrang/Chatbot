@@ -1,0 +1,33 @@
+How do I import SIS data to a Canvas account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open SIS Import
+In Account Navigation, click the SIS Import link.
+Select File
+Click the Choose File button and locate the SIS import file from your computer.
+Select Import Type
+In the Import Type menu, select the type of import you are uploading into Canvas. By default, the menu selects the CSV import option. 
+Set Full Batch Update
+If you want to create a full batch update, select the This is a full batch update checkbox. In the Term drop-down menu, select the term for the full batch update. With this option, any courses, sections, or enrollments with an SIS ID record in Canvas that is linked to the Term selected in the drop-down can be deleted. For enrollments, this option means the linked user and course/sections require SIS IDs. A Canvas record will be deleted if it is not included in the current import file. 
+This option will only affect data created via previous SIS imports. Manually created courses, for example, won't be deleted even if they don't appear in the new SIS import.
+Notes: Ensure you are aware of the associated risks before selecting this option.
+Override UI Changes
+If you want to override changes in the user interface (UI), select the Override UI changes checkbox. This change tells Canvas to overwrite any "sticky" data changed by users in their accounts with the data your are importing. 
+If this box is NOT checked when doing a new users import, no name changes will be overridden in the UI, but if the user removed their listed email address it will be re-added but not marked default.
+If this box IS checked when doing a new users import, the full name and sortable name will change, but the display name is not changed. The email address is added but still not marked default.
+Select UI Option
+Overriding UI changes also allows one of two additional options: process as UI changes or clear UI-changed state. You can only select one option. 
+If you want to select an options, select the checkbox next to your preference:
+Process as UI changes: overrides changes that have taken place in the UI as "sticky" data; all data acts as if the changes were actually manually updated in the UI
+Clear UI-changed state: removes the "stickiness" of all data that exists in this import; future imports with this data will not indicate any data in the UI as "sticky"
+Process Data
+Click the Process Data button.
+View Import Data
+When the import has processed, Canvas displays the results of the imported file, along with up to 50 errors and warnings. If you imported a full batch update, the results also show the number of deleted items removed from the account. Deleted items include enrollments, courses, and sections.
+After you refresh the page, this information will stay in the SIS Import page under the Last Batch heading until another import is made.
+Download Errors
+If you want to download all warnings and errors from your last import file, return to the SIS Import page. Under the Last Batch heading, click the Last Batch download icon. The icon will download a CSV file with all errors and warnings from your last import.
+You can also use the SIS Import Errors API for additional troubleshooting details, which will return the CSV line number where the error occurred.
+Note: 
+You may need to refresh the page to view the download icon.
+If the report is downloaded, the link expires after an hour. If the page is refreshed, a new URL is generated and active for one hour.

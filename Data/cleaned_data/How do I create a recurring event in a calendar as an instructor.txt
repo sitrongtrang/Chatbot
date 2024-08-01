@@ -1,0 +1,30 @@
+How do I create a recurring event in a calendar as an instructor
+Open Calendar
+In Global Navigation, click the Calendar link.
+Add Event
+Make sure the checkbox of the course in which you're making an event is selected.
+Click any date on the calendar to add an event. Or, click the arrows next to the month name to navigate to a different month and select a date.
+If you don't want to manually locate the date, you can click the Add icon.
+Add Event Details
+Enter a title for the event. 
+Depending on how you added your event, the date may be populated for you. If not, enter a date in the date field.
+The calendar times may also be populated for you in the From fields. To edit, use the dropdown or enter the start and end time for your event. To create an all-day event, leave the From fields blank so there is no start and end time for your event. 
+In the Frequency drop-down menu, you can set recurring calendar events.
+You can enter a location.
+In the Calendar drop-down menu, select the course calendar.
+Add Event Frequency
+In the Frequency drop-down menu, you can select from multiple recurring options, including no repeat, daily, weekly, monthly, annually, every weekday, or a custom frequency.
+Notes: Each frequency selection has an occurrence default:
+daily = 365 (days in a year)
+weekly = 52 (weeks in a year)
+monthly = 12 (months in a year)
+annually = 5 (The event will occur for five years)
+every weekday = 52 * 5 (weeks in a year * weekdays)
+Additionally, users can have a maximum of 400 occurrences.
+Add Event Custom Frequency
+To create a custom recurring event, select how often the event repeats, which day(s) it repeats on, and when it ends. Click the Done button.
+Submit Event
+To add additional details to your event, click the More Options button. You can use the Rich Content Editor to add a description or resource links and add an address location.
+If you only want to create the event as a placeholder and add details later, click the Submit button. You can edit your event at any time.
+View Events
+View the events in your course calendar. 

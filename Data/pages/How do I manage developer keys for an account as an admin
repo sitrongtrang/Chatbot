@@ -1,0 +1,196 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A7E96710-1D46-0135-80F2-22000AB760A3" class="text-block-content">
+    <p>As an admin, you can manage developer keys for root accounts. You can manage the status for individual developer keys and control direct access to specific API endpoints for third-party tools.</p>
+<p>Newly-created developer keys default to off in an account.</p>
+<p><strong>Notes</strong>:</p>
+<ul>
+<li>Developer Keys is an account permission. If you cannot view the Developer Keys link in Account Navigation, this permission has not been enabled for your user account.</li>
+<li>Although new keys are disabled when created, keys created prior to July 14, 2018, have been turned on by default to ensure uninterrupted access.</li>
+<li>Instructure does not review vendors prior to issuance of global developer keys, though <a href="https://canvas.instructure.com/doc/api/file.developer_keys.html" target="" rel="nofollow noopener noreferrer">specific vendor information</a> is required. You should review your list of inherited keys to ensure that only institution-approved keys are active. To determine which developer keys are being used in your account, run the <a href="/t5/Admin-Guide/How-do-I-view-reports-for-an-account/ta-p/109" target="_blank">Developer Keys Report</a>.</li>
+<li>Developer key states and tokens from a consortium parent account are not inherited in subaccounts of a standard consortium child account. Additionally, enabling or disabling developer keys in the parent account of a non-centrally managed consortium does not affect the tool installations in child accounts.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="b28ab915-2f06-4082-bdc2-35d7228b9566">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97735615-265c-4851-96d2-4d958f6e0e61" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_developer_keys" data-step-uuid="3ab14f6a-1f2c-4c53-95f0-dc7ff6a67a6a">
+    <h2 id="open_developer_keys" class="step-title screensteps-heading">Open Developer Keys</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/193/original/2b6b6966-d9ae-4559-82e5-796b2fd77889.png" srcset="" alt="Open Developer Keys" height="298" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7E99BF0-1D46-0135-80F4-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Developer Keys </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_developer_keys" data-step-uuid="0573f6ab-8c1a-47f6-81a6-fc4ef698d615">
+    <h2 id="view_developer_keys" class="step-title screensteps-heading">View Developer Keys</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/181/914/original/d957c419-aa2f-4c25-be12-0d3d2cb29cc5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/181/914/medium/d957c419-aa2f-4c25-be12-0d3d2cb29cc5.png" srcset="" alt="View Developer Keys" height="486" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7EA6A80-1D46-0135-80F6-22000AB760A3" class="text-block-content">
+    <p>The Developer Keys page defaults to the Account tab, where you can view the developer keys for your account. The account page displays the All filter [1], which displays all account developer keys. You can also select between viewing All , LTI keys, and API keys.</p>
+<p>To search for an account key, enter a name, email or ID in the <strong>Search by name, email or ID </strong>field [2].</p>
+<p> Each key shows the name [3], owner's email [4], details [5], stats [6], type [7], and state [8].</p>
+<p>If a key has been <a href="/t5/Admin-Guide/How-do-I-configure-an-LTI-key-for-an-account/ta-p/140" target="_blank">configured as an LTI key</a>, the Type column will display the <strong>External Tool</strong> icon [9].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-inherited-keys" data-step-uuid="f42f8a42-00b5-4aac-84a1-a73461b30a16">
+    <h3 id="view-inherited-keys" class="step-title screensteps-heading">View Inherited Keys</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/190/516/original/00f3ed2d-50e6-4cf1-bf8e-93fa478886ca.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/190/516/medium/00f3ed2d-50e6-4cf1-bf8e-93fa478886ca.png" srcset="" alt="View Inherited Keys" height="420" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6273f4bc-4c9f-4f5c-b94f-e5d25e4473a2" class="text-block-content">
+    <p>To view inherited keys associated with your account, click the <strong>Inherited</strong> tab [1]. </p>
+<p>By default, the inherited page displays the All filter [2], which displays all inherited developer keys. You can also select between viewing All, LTI keys, and API keys.</p>
+<p>To search for an inherited key, enter name or ID in the <strong>Search by name or ID </strong>field [3].</p>
+<p>Inherited keys are keys created and managed at a global level by Canvas. You can manage the state of inherited keys for your account. However, if a key is grayed out [4], it has been enabled globally and cannot be modified on a specific account level. </p>
+<p><strong>Note: </strong>For search results to display, you must enter at least three characters in the search field.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_developer_keys" data-step-uuid="1d8c42cb-9ba4-47fe-b6aa-a8cab51896fe">
+    <h2 id="manage_developer_keys" class="step-title screensteps-heading">Manage Developer Keys</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/181/420/original/b151aca5-2890-4ec2-a274-9c5314f1b0a4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/181/420/medium/b151aca5-2890-4ec2-a274-9c5314f1b0a4.png" srcset="" alt="Manage Developer Keys" height="284" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7EA9DA0-1D46-0135-80F8-22000AB760A3" class="text-block-content">
+    <p>To deactivate a key, click the toggle button to the <strong>Off</strong> position [1]. To edit a key, click the <strong>Edit</strong> icon [2]. To delete the key, click the <strong>Delete</strong> icon [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-confirmation-message" data-step-uuid="86c4fb8a-8e3e-4d03-b549-428469019b22">
+    <h3 id="view-confirmation-message" class="step-title screensteps-heading">View Confirmation Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/955/870/original/28d1f2a5-d698-4180-b05d-442fdb3fee30.png" srcset="" alt="View Confirmation Message " height="154" width="452">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f07d5576-1311-40cb-b8ae-1a2bf9bc9e6c" class="text-block-content">
+    <p>When changes are made to a developer key, a confirmation message displays. To confirm the changes, click the <strong>OK</strong> button [1]. To cancel the changes, click the <strong>Cancel</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_deactivated_keys" data-step-uuid="a9ee0762-49fe-436f-b84b-d0eb87062dba">
+    <h3 id="view_deactivated_keys" class="step-title screensteps-heading">View Deactivated Keys</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/181/422/original/1f102c77-424d-4bbc-b593-7174b277d74a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/181/422/medium/1f102c77-424d-4bbc-b593-7174b277d74a.png" srcset="" alt="View Deactivated Keys" height="387" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7EACFD0-1D46-0135-80FA-22000AB760A3" class="text-block-content">
+    <p>When a key is deactivated, the key is inactive. Deactivated keys are indicated by the <strong>Off</strong> toggle button [1]. To reactivate an inactive key, click the toggle button to the <strong>On </strong>position [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_developer_key" data-step-uuid="a7d9dd78-4b9a-4835-8b35-f3f7122f70d0">
+    <h2 id="add_developer_key" class="step-title screensteps-heading">Add Developer Key</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/181/425/original/aaf206f1-000a-4d51-b55a-23871cbf8fad.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/181/425/medium/aaf206f1-000a-4d51-b55a-23871cbf8fad.png" srcset="" alt="Add Developer Key" height="300" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7EB0290-1D46-0135-80FC-22000AB760A3" class="text-block-content">
+    <p>To <a href="/t5/Admin-Guide/How-do-I-add-a-developer-API-key-for-an-account/ta-p/259" target="_blank">add a developer key</a>, click the <strong>Add Developer Key </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-lti-key" data-step-uuid="9d5282b6-74be-4690-bdc5-f112450fb6c4">
+    <h2 id="edit-lti-key" class="step-title screensteps-heading">Edit LTI Key</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/181/427/original/1561d360-309f-4686-9efa-1dcfe7761649.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/181/427/medium/1561d360-309f-4686-9efa-1dcfe7761649.png" srcset="" alt="Edit LTI Key" height="304" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d8027940-cb36-44e2-870e-cddc53ce9c46" class="text-block-content">
+    <p>To edit an LTI key, click the <strong>Edit</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update-redirect-uri" data-step-uuid="1b71a6d6-0b97-4d8d-afb6-20aac5a07272">
+    <h2 id="update-redirect-uri" class="step-title screensteps-heading">Update Redirect URI</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/821/153/original/ab10bec7-b7cb-43b5-9fa0-1a9360aead55.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/821/153/medium/ab10bec7-b7cb-43b5-9fa0-1a9360aead55.png" srcset="" alt="Update Redirect URI" height="428" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_844413ec-07fa-438d-9d65-7d7dbd294f4f" class="text-block-content">
+    <p>To update the <strong>Redirect URIs</strong> field after changing the JSON for an LTI key, click the <strong>Sync URIs</strong> button. If the <strong>Redirect URIs</strong> field is empty, it auto-populates from the pasted JSON. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

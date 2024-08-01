@@ -1,0 +1,31 @@
+How do I use account settings as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Settings
+The settings portion of your account is only available to Canvas admins. 
+In Account Navigation, click the Settings link.
+View Settings
+In the Account Settings tab, you can specify settings for the entire account. This tab includes several sections that you can manage including Account Settings, IP Address Filters, Features, Global JavaScript and CSS, Custom Help Links, Enabled Web Services, and permissions for who can create new courses.
+Note: The Default Due Time feature option must be enabled to view the Default Due Time drop-down menu. 
+View Quotas
+In the Quotas tab, you can set default account quotas for courses, users, and groups. You can also set quotas by Course ID or Group ID.
+View Integrations
+If your account has enabled the Microsoft Group enrollment syncing feature option, you can view the Integration tab. From this tab, you can allow courses in your account to sync course data with Microsoft Teams.
+View Notifications
+In the Notifications tab, you can change the settings for email notifications. You can choose to keep the default Canvas setting or change the Email Notification “From” Name for Canvas notifications. This custom text can be your institution name or whatever sender information you would like to use. Using the custom text field helps student identify notification emails more easily and improves the quality of student-instructor interaction. 
+You can also warn users about notifications sent to external services; adding a non-institution based email address may result in the exposure of sensitive content.
+Note: Only root account admins can configure notification settings for an account. The Notifications tab is not available in sub-accounts.
+View Admins
+In the Admins tab, you can view and edit the admins assigned to this account. If you are working with sub-accounts, admin privileges are limited to the scope of just that sub-account and below. Learn how to add an administrative user to your account.
+View Announcements
+In the Announcements tab, you can send out global announcements to every user in that account. These announcements are used to announce events such as building closures, class cancelations, holidays, etc. Learn more about global announcements. 
+View Reports
+The Reports tab is where custom reports will appear after you design them. There are many more reports available in Canvas, they just aren't listed on this page. They are available in context. Quiz reports, for example, are available from the quiz page itself. User reports are available on the user's profile page.
+View Apps
+If your institution has enabled the Canvas App Center, in the Apps tab you can view all available external learning tools in Canvas. However, you can also configure apps manually.
+External learning tools are often developed as LTI integrations. These tools may be published along with a textbook, and access to these tools is often restricted to students in the course. Any LTI provider should be able to give you the information you need to configure the tool in Canvas. Once configured here at the account level, it is available to any course designer or instructor in the account. 
+View Feature Options
+The Feature Options tab displays new features that are available to your account on both the account and course levels. Features can be turned on for the entire account, turned off for the entire account, or allowed so instructors can decide whether or not to use the feature. Instructors can enable course-allowed features on a course-by-course basis.
+View Security
+The Security tab is where the Content Security Policy can be managed. You can enable or disable the Content Security Policy and add or remove allowed domains.
+Note: The Security tab only displays in Account Settings if the Content Security Policy feature option has been enabled.

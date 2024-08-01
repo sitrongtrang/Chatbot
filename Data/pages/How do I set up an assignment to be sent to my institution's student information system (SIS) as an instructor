@@ -1,0 +1,132 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BE19F880-099E-0135-17D2-22000B5A851D" class="text-block-content">
+    <p>If your institution is using a student information system (SIS) for grading purposes, you can set up an assignment to synct details and scores to the SIS. However, you must first specify which assignment(s) in the course should be sent to your SIS as part of the grade publishing process. Each assignment must be modified individually. <strong>However, your institution may have already enabled an option for all assignments to be configured for your SIS. </strong></p>
+<p>Once a graded assignment is set up to be sent to your SIS, you can manage the sync to SIS option using the Sync to SIS icon on the <a href="/t5/Instructor-Guide/How-do-I-use-the-Assignments-Index-Page/ta-p/777" target="_blank">Assignment </a>and <a href="/t5/Instructor-Guide/How-do-I-use-the-Quizzes-Index-Page/ta-p/1104" target="_blank">Quizzes</a> pages. Some assignment types are not supported for grade passback, including Not Graded assignment types and differentiated assignments like those assigned by MasteryPaths.</p>
+<p>Each SIS requires specific setup procedures to properly post grades for assignments. For details and troubleshooting tips, <a href="https://community.canvaslms.com/t5/Student-Information-Systems-SIS/ct-p/sis_guides" target="">view the SIS guides</a> for your institution's Canvas SIS integration.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="dbca4faf-d9a1-4bff-9f11-7b5c6012df47">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/744/606/original/e493c32b-8108-4749-9cb3-27ce3be94416.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BE1A2FF0-099E-0135-17D4-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="7b85cac3-2892-467a-bbe5-2353deff78c7">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/259/368/original/4ef26485-b066-48ff-896e-401dc5b1be58.png" srcset="" alt="Add Assignment" height="75" width="297">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BE1A6320-099E-0135-17D6-22000B5A851D" class="text-block-content">
+    <p>Click the<strong> Add Assignment </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_assignment" data-step-uuid="264be8d4-fd7a-4af6-a3dd-53ea6d9bb632">
+    <h3 id="edit_assignment" class="step-title screensteps-heading">Edit Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/181/852/original/4a859c62-eefb-43bc-bda5-4acb6de01a90.png" srcset="" alt="Edit Assignment" height="300" width="818">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BE1AA490-099E-0135-17D8-22000B5A851D" class="text-block-content">
+    <p>To set up an assignment that has already been created, click the name of the assignment [1] and click the <strong>Edit</strong> button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sync_to_sis" data-step-uuid="de7a238c-1d1b-4342-b298-925324b559a8">
+    <h2 id="sync_to_sis" class="step-title screensteps-heading">Sync to SIS</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/962/original/3d83ef49-287e-4c9b-b9fa-e5cd66e44ce5.png" srcset="" alt="Sync to SIS" height="80" width="538">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BE1ADA40-099E-0135-17DA-22000B5A851D" class="text-block-content">
+    <p>In the assignment details, check the <strong>Sync to [SIS]</strong> checkbox. The [SIS] label may display the name of your institution's SIS.</p>
+<p>The SIS option is not available for Not Graded assignment types.</p>
+<p><strong>Note:</strong> Depending on your institution's settings, this checkbox may already be selected. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_assignment" data-step-uuid="bc754628-58a4-4b84-9097-55093ea8cabb">
+    <h2 id="save_assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/955/original/c77969c4-35a7-4c19-8edf-66a7a09e255e.png" srcset="" alt="Save Assignment" height="67" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BE1B1230-099E-0135-17DC-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Note: </strong>For new assignments, you can click the <strong>Save &amp; Publish</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_assignment_errors" data-step-uuid="58d91de3-993c-4954-a838-7421783014c4">
+    <h3 id="view_assignment_errors" class="step-title screensteps-heading">View Assignment Errors</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/957/original/89f75610-d684-4d1d-b538-55c07a7a9ed5.png" srcset="" alt="View Assignment Errors" height="362" width="502">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a60f2b93-f9b9-415e-a8a7-f7beb40fcc50" class="text-block-content">
+    <p>If you cannot save your assignment and you receive an error message, your institution may limit assignment names and/or require due dates. View issues that need to be resolved before the assignment can synced to your SIS. Correct the error and save the assignment again.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-sis-sync-on-index-pages" data-step-uuid="6ffb4ebb-eed0-4c86-ae6f-3f1cee37563e">
+    <h2 id="manage-sis-sync-on-index-pages" class="step-title screensteps-heading">Manage SIS Sync on Index Pages</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/964/480/original/e8093da4-d39e-4955-8cd8-c34c8e8b0e82.png" srcset="" alt="Manage SIS Sync on Index Pages" height="354" width="677">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_869f7ff4-5683-4085-9846-8d96b1249a8e" class="text-block-content">
+    <p>You can manage SIS sync settings from the Assignments and Quizzes index pages. </p>
+<p>To manage the SIS sync option for an assignment, click the <strong>Sync to SIS</strong> icon [1].</p>
+<p>Quizzes and assignments set up to sync to SIS display a <strong>Sync to SIS enabled</strong> icon [2]. Items that are not currently set up to sync to SIS display a <strong>Sync to SIS disabled </strong>icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

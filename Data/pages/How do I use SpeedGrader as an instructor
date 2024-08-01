@@ -1,0 +1,347 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_760B8420-2224-0135-2959-22000AB760A3" class="text-block-content">
+    <p><a href="/t5/Canvas-Basics-Guide/What-is-SpeedGrader/ta-p/13" target="_blank">SpeedGrader</a> makes it easy to evaluate individual student assignments and group assignments quickly. </p>
+<p>SpeedGrader displays assignment submissions for active students in your course. However, SpeedGrader displays assignment submissions according to the current <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">Gradebook settings</a> for inactive enrollments and concluded enrollments. For instance, if the Gradebook settings show inactive enrollments, inactive student submissions also appear in SpeedGrader. </p>
+<p><strong>Accessing SpeedGrader</strong></p>
+<p>You can access SpeedGrader through: <a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-an-assignment-quiz-or-graded/ta-p/759" target="_blank">Assignments</a>, <a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-an-assignment-quiz-or-graded/ta-p/759" target="_blank">Quizzes</a>, <a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-an-assignment-quiz-or-graded/ta-p/759" target="_blank">Graded Discussions</a>, and <a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-the-Gradebook/ta-p/925" target="_blank">the Gradebook</a>. </p>
+<p><strong>SpeedGrader Performance</strong></p>
+<p>In SpeedGrader, all values for an assignment are loaded and saved in the browser, including student submission data, any grades (including original grades for resubmitted assignments), rubrics, and comments. This behavior reduces load time while using SpeedGrader, allowing instructors to grade all submissions quickly without continually refreshing the browser. Advancing from one submission to the next does not dynamically load any updated content.</p>
+<p>In large courses, SpeedGrader loading times are affected by a threshold of data points that can be loaded within a 60-second window. This threshold is based on a single submission per student. Multiple submissions by the same student increases the submission threshold. Assignments with more than 1500 submissions may result in delayed SpeedGrader loading times, and assignments with more than 2500 submissions may fail to load at all.</p>
+<p>To improve SpeedGrader performance, large courses should be separated into sections, which allows SpeedGrader to display submissions for a specific section and decrease the overall loading time for an assignment's data.</p>
+<p><strong>SpeedGrader Users</strong></p>
+<p>SpeedGrader is generally designed for one instructor role to grade submissions at a time. Because of how SpeedGrader data is loaded and stored in the browser, multiple users should not grade assignments at the same time since each grader cannot view the most recent information for a submission. Updated grades also affect the Gradebook.</p>
+<p>If your course includes multiple graders, graders added to a course can be limited to only <a href="/t5/Instructor-Guide/How-do-I-limit-a-user-to-only-interact-with-other-users-in-the/ta-p/1211" target="_blank">interact with users in a section</a> and only grade submissions in the section where they were enrolled. This enrollment option prevents assignment grading overlap so multiple instructor roles cannot grade the same assignment.</p>
+<p><strong>Moderated Grading</strong></p>
+<p>If you are grading a <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">moderated assignment</a> and the maximum number of graders has been reached, SpeedGrader will be displayed in a read-only mode to hide all student names and submission details.</p>
+<p><strong>Note: </strong>Instructors cannot delete assignment submissions. If you need to delete an inappropriate assignment submission, contact your administrator.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_speedgrader" data-step-uuid="6dcf2880-94b1-44c9-8cfb-e8f1516849e7">
+    <h2 id="view_speedgrader" class="step-title screensteps-heading">View SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/392/174/original/c6843743-6dd8-49f5-a6c4-087091c1b7ef.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/392/174/medium/c6843743-6dd8-49f5-a6c4-087091c1b7ef.png" srcset="" alt="View SpeedGrader" height="426" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_760D09A0-2224-0135-295B-22000AB760A3" class="text-block-content">
+    <p>SpeedGrader includes several areas to help you locate and view student submissions, grade submissions, and add comments to submissions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_speedgrader_menu_icons" data-step-uuid="91732301-1b15-46e2-be4c-84a0ed6cc49f">
+    <h2 id="view_speedgrader_menu_icons" class="step-title screensteps-heading">View SpeedGrader Menu Icons</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/036/188/original/d696f452-b343-4868-9ee6-9343b55eaac5.png" srcset="" alt="View SpeedGrader Menu Icons" height="211" width="323">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_760D3A70-2224-0135-295D-22000AB760A3" class="text-block-content">
+    <p>The SpeedGrader menu includes several tools and resources to assist with grading assignments. </p>
+<p>The left side of the menu includes general settings and options. </p>
+<p>To return to the Gradebook, click the <strong>Gradebook</strong> icon [1].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-hide-or-post-assignment-grades-in-SpeedGrader/ta-p/1000" target="_blank">post or hide the assignment</a>, click the <strong>Visibility </strong>icon [2].</p>
+<p>To view SpeedGrader settings, click the <strong>Settings</strong> icon [3]. SpeedGrader settings include: </p>
+<ul>
+<li>
+<strong>Options</strong> [4], which allows you to select <a href="/t5/Instructor-Guide/How-do-I-sort-the-student-list-in-SpeedGrader/ta-p/773" target="_blank">student list sorting options</a> and enable <a href="/t5/Instructor-Guide/How-do-I-hide-student-names-in-SpeedGrader/ta-p/768" target="_blank">anonymous grading</a>.</li>
+<li>
+<strong>Keyboard Shortcuts</strong> [5], which opens a list of keyboard shortcuts for SpeedGrader. You can also press the Shift+Question Mark keys simultaneously.</li>
+<li>
+<strong>Help</strong> [6], which opens the <a href="https://community.canvaslms.com/t5/Instructor-Guide/tkb-p/Instructor#SpeedGrader" target="_blank">Instructor SpeedGrader guides</a>. </li>
+</ul>
+  </div>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4dbc3a37-7d65-4579-85c4-ee3bd1c34fb9" class="text-block-content">
+    <p><strong>Note</strong>: When <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">moderated grading</a> is enabled for an assignment, final graders (moderators) will also view a Moderation Page button, which will allow them to view the Grade Summary Page for the moderated assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_details" data-step-uuid="3a9fe3bf-0c73-43f8-bbea-aad84eadd4bf">
+    <h2 id="view_assignment_details" class="step-title screensteps-heading">View Assignment Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/611/678/original/79749e2c-1236-41d4-92fa-f430cd55a79f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/611/678/medium/79749e2c-1236-41d4-92fa-f430cd55a79f.png" srcset="" alt="View Assignment Details" height="77" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_760D6E10-2224-0135-295F-22000AB760A3" class="text-block-content">
+    <p>The center of the menu bar includes assignment information and overall grading information. Assignment information includes the name of the assignment [1], assignment due date [2], and the name of the course [3]. </p>
+<p>To view the assignment details, click the name of the assignment. The assignment details page also lets you <a href="/t5/Instructor-Guide/How-do-I-download-all-student-submissions-for-an-assignment/ta-p/760" target="_blank">download all student submissions</a> for the assignment.  </p>
+<p>To return to the Course Home Page, click the name of the course.</p>
+<p>Grading information includes assignment statistics, including the number of assignments that have been graded out of the total number of students in the course [4] and the average score and percentage [5]. You can use this information to keep track of your grading progress.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_list" data-step-uuid="b835d49c-b278-4294-ae3e-7da880f5ea0d">
+    <h2 id="view_student_list" class="step-title screensteps-heading">View Student List</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/611/686/original/01832ce1-108c-4fca-a9db-308a19a5f266.png" srcset="" alt="View Student List" height="295" width="356">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_760E5380-2224-0135-2961-22000AB760A3" class="text-block-content">
+    <p>The right side of the menu bar includes the student list for the assignment. SpeedGrader opens the assignment for the first student listed in the student list, arranged alphabetically by last name. If you have activated student view, the Test Student will be shown at the end of the student list. The student list also displays the status of each student's submission. You can also <a href="/t5/Instructor-Guide/How-do-I-use-the-student-list-to-view-student-submissions-in/ta-p/770" target="_blank">use the student list to find student submissions</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_submission" data-step-uuid="46b817c2-c648-4ad1-915c-501b460a2d4a">
+    <h2 id="view_student_submission" class="step-title screensteps-heading">View Student Submission</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/392/177/original/45e41253-7ab0-4f0e-b6ab-4c483a1577fe.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/392/177/medium/45e41253-7ab0-4f0e-b6ab-4c483a1577fe.png" srcset="" alt="View Student Submission" height="420" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_760E83C0-2224-0135-2963-22000AB760A3" class="text-block-content">
+    <p>Once you have selected a student, the student's submission displays in the preview window.</p>
+<p>Depending on the assignment and submission type, the SpeedGrader preview window varies. For example, a website URL submission type will appear in the main body of SpeedGrader with the option to open the URL in a new tab. Some website URL submissions cannot be viewed in Canvas and must be viewed in a new tab. Media submissions may display as an embedded file in SpeedGrader or only display as a downloadable file.</p>
+<p>To provide comments on document submissions, you can:</p>
+<ul>
+<li>Use <a href="/t5/Instructor-Guide/How-do-I-add-annotated-comments-in-student-submissions-using/ta-p/694" target="_blank">Canvas DocViewer</a> to mark up .pdf, .doc/.docx, and .ppt/.pptx assignments directly in SpeedGrader. SpeedGrader may take up to ten minutes after an assignment is submitted to display a document that supports DocViewer.</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-view-the-details-of-a-submission-for-a-student-in/ta-p/762" target="_blank">Download</a> the submission, put feedback on the document, and re-upload the submission.</li>
+</ul>
+<p><strong>Note:</strong> When the Allow Multiple file AGS submissions count as one submission is enabled, students can select multiple files to be uploaded to a third-party assignment in Canvas. However, some third-party tools may not be built to accommodate this feature.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-uploading-submissions" data-step-uuid="fea6946f-759a-462b-9078-debb60b2cad7">
+    <h3 id="view-uploading-submissions" class="step-title screensteps-heading">View Uploading Submissions</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/392/181/original/578607f9-2f87-4274-864a-522f8d2d7b59.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/392/181/medium/578607f9-2f87-4274-864a-522f8d2d7b59.png" srcset="" alt="View Uploading Submissions" height="453" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eb566506-7707-4d59-91ba-494be8ab61e3" class="text-block-content">
+    <p>If a Google Drive or Microsoft Office 365 assignment upload is queued for submission, an <em>Uploading</em> image displays in place of the student submission [1]. An <em>Uploading</em> icon also displays next to the assignment link [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-failed-submission-uploads" data-step-uuid="0a8937a4-59a2-4094-96bf-3b48586e33d8">
+    <h3 id="view-failed-submission-uploads" class="step-title screensteps-heading">View Failed Submission Uploads</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/392/189/original/c8be23cb-3857-43c6-88c3-2836dedf4693.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/392/189/medium/c8be23cb-3857-43c6-88c3-2836dedf4693.png" srcset="" alt="View Failed Submission Uploads" height="454" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8a4cc93b-d8aa-4929-96d9-34c151f892ff" class="text-block-content">
+    <p>When a Google Drive or Microsoft Office 365 assignment submission fails to upload, or when viewing an unsupported file type in SpeedGrader, an <em>Upload Failed</em> image displays [1]. Failed submission uploads display an <em>Upload Failed</em> icon next to the assignment link [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_enrollment_notice" data-step-uuid="fdefff34-e466-4ce2-8500-c45e919849b3">
+    <h3 id="view_enrollment_notice" class="step-title screensteps-heading">View Enrollment Notice</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/776/580/original/9816b67b-387a-4174-8a02-3c18dffda8fd.png" srcset="" alt="View Inactive Student Notice" height="115" width="369">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_760EB810-2224-0135-2965-22000AB760A3" class="text-block-content">
+    <p>SpeedGrader displays assignment submissions according to the current <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">Gradebook settings</a> for inactive enrollments and concluded enrollments. If an assignment includes a submission from an inactive or concluded student, a notice appears at the top of the SpeedGrader window. </p>
+<p>For group assignments where students are graded as a group, the group displays as long as there is at least one active student in the group. If there are no active students in the group, the group displays if one group member aligns with the enrollment settings in the Gradebook. For group assignments where students are graded individually, individual student submissions display according to the enrollment settings in the Gradebook.</p>
+<p>Inactive student submissions can still be graded in SpeedGrader, but students do not receive any notifications about their assignment and cannot view course grades.</p>
+<p>Concluded student submissions are read-only; they cannot be graded or receive comments.</p>
+<p><strong>Note</strong>: If a student does not have a submission for the assignment, the student may have been deactivated or concluded before being able to submit the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_closed_grading_period" data-step-uuid="1aac156b-fb10-4cab-a1c5-9d551a7af1e6">
+    <h3 id="view_closed_grading_period" class="step-title screensteps-heading">View Closed Grading Period</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/776/566/original/4dc0c6d6-89d7-487b-96a4-39f7c72991e9.png" srcset="" alt="View Closed Grading Period" height="110" width="459">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_760EE660-2224-0135-2967-22000AB760A3" class="text-block-content">
+    <p>If your course uses <a href="/t5/Instructor-Guide/How-do-I-use-grading-periods-in-a-course/ta-p/1030" target="_blank">multiple grading periods,</a> a notice appears at the top of the SpeedGrader window if an assignment is in a closed grading period. Assignments in a closed grading period cannot be edited.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-sidebar" data-step-uuid="be863a64-8cfa-4dfb-abc2-76453c9fb235">
+    <h2 id="view-sidebar" class="step-title screensteps-heading">View Sidebar</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/392/194/original/28a66082-34e7-4154-83aa-e40cb1454a6c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/392/194/medium/28a66082-34e7-4154-83aa-e40cb1454a6c.png" srcset="" alt="View Sidebar" height="420" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09a243ef-218d-45e5-bb1b-b4da38c5f369" class="text-block-content">
+    <p>The SpeedGrader sidebar provides all the <a href="/t5/Instructor-Guide/How-do-I-view-the-details-of-a-submission-for-a-student-in/ta-p/762" target="_blank">submission details</a> for the student shown in the student list. However, submission details are not shown when an assignment is graded anonymously.</p>
+<p>In the sidebar, you can also download submission files, grade assignments, leave comments, reassign assignments, and view submission status.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_sidebar" data-step-uuid="a599351c-ce25-45df-9659-15df54f1eeba">
+    <h3 id="view_sidebar" class="step-title screensteps-heading">Download Submission Files</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/392/198/original/89293f47-fae5-49f3-b64f-a5d1ed926bc7.png" srcset="" alt="View Sidebar" height="791" width="366">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_760F19D0-2224-0135-2969-22000AB760A3" class="text-block-content">
+    <p>In the SpeedGrader sidebar, you can view the <a href="/t5/Instructor-Guide/How-do-I-view-the-details-of-a-submission-for-a-student-in/ta-p/762" target="_blank">submission details</a> [1], including the date and time of the submission; if an assignment was resubmitted, you can view previous versions of the submission. </p>
+<p>You can also download the submission file by clicking the link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="grade-assignment" data-step-uuid="49e48909-e12f-42f3-8fd1-9f59367e1196">
+    <h3 id="grade-assignment" class="step-title screensteps-heading">Grade Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/392/202/original/2cfaa3cb-e41d-4954-b776-caf9e6d351f1.png" srcset="" alt="Grade Assignment" height="791" width="366">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ec7f8a7-1f47-4b83-b15d-cb0227bbcceb" class="text-block-content">
+    <p>Complete the assessment of the submission by <a href="/t5/Instructor-Guide/How-do-I-enter-and-edit-grades-in-SpeedGrader/ta-p/938" target="_blank">entering a grade</a> in the <strong>Grade</strong> field [1] or <a href="/t5/Instructor-Guide/How-do-I-use-a-rubric-to-grade-submissions-in-SpeedGrader/ta-p/1015" target="_blank">using a rubric</a>, if available, by clicking the <strong>View Rubric</strong> button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="leave-comments" data-step-uuid="9a808ef4-6a54-40f5-978d-a3ff2150af6b">
+    <h3 id="leave-comments" class="step-title screensteps-heading">Leave Comments</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/392/503/original/67b07468-03be-48a1-b255-f28ff3c51665.png" srcset="" alt="Leave Comments" height="791" width="395">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_90336c71-db2b-4b59-8dcc-c0107b3d762b" class="text-block-content">
+    <p>In the Assignment Comments section of the SpeedGrader sidebar, you can type <a href="/t5/Instructor-Guide/How-do-I-leave-feedback-comments-for-student-submissions-in/ta-p/764" target="_blank">feedback comments</a> [1] or <a href="/t5/Instructor-Guide/How-do-I-use-the-Comment-Library-in-SpeedGrader/ta-p/469482" target="_blank">insert a comment from the Comment Library</a> [2].</p>
+<p>You can attach files to comments [3], <a href="/t5/Instructor-Guide/How-do-I-record-a-webcam-video-screen-capture-or-audio-recording/ta-p/606356" target="_blank">record</a> or upload media [4], or translate spoken comments into text using <a href="/t5/Instructor-Guide/How-do-I-use-Chrome-s-speech-recognition-feature-to-leave-a/ta-p/677" target="_blank">Chrome's speech recognition</a> feature [5].</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-download-submission-comments-as-a-PDF-in-SpeedGrader/ta-p/1117" target="_blank">download all submission comments</a> [6].</p>
+<p><strong>Note:</strong> Assignment comments also display as a new thread in <a href="/t5/Instructor-Guide/How-do-I-reply-to-submission-comments-in-the-Inbox-as-an/ta-p/594" target="_blank">Conversations</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-reassign-assignment" data-step-uuid="b9c95bca-310d-40f9-aa67-9c2f9e301f15">
+    <h3 id="view-reassign-assignment" class="step-title screensteps-heading">Reassign Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/392/210/original/bb1e37c2-2082-4016-bc28-ae42f952f324.png" srcset="" alt="View Reassign Assignment" height="473" width="366">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_56462f20-15eb-47c7-a272-75c02064e0fa" class="text-block-content">
+    <p>In the SpeedGrader sidebar, you can reassign an assignment. To <a href="/t5/Instructor-Guide/How-do-I-reassign-an-assignment-in-SpeedGrader/ta-p/469484" target="_blank">reassign the assignment to the student</a>, submit at least one comment to the student's submission [1]. Then click the <strong>Reassign Assignment</strong> button [2].</p>
+<p>To resubmit the assignment, a student can view the assignment as a To Do item in their <a href="/t5/Student-Guide/How-do-I-use-the-to-do-list-for-all-my-courses-in-the-List-View/ta-p/345" target="_blank">List View Dashboard</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="excuse_assignment" data-step-uuid="10ae443d-92f9-4d81-9683-56ed8df12d15">
+    <h3 id="excuse_assignment" class="step-title screensteps-heading">View Submission Status</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/392/213/original/f1bd3353-f16d-4d10-b028-d936c814bb3d.png" srcset="" alt="View Submission Status" height="712" width="408">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_69d79064-e546-4bb8-afeb-f30549dd9f54" class="text-block-content">
+    <p>In the SpeedGrader sidebar, you can view the student's assignment submission status [1].</p>
+<p>To edit the submission status, click the <strong>Edit</strong> button [2]. Available statuses include Late, Missing, Excused, and None.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_for_next_student" data-step-uuid="2d48029c-64a0-4cc1-b849-fe620b34fea0">
+    <h2 id="view_assignment_for_next_student" class="step-title screensteps-heading">View Assignment for Next Student</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/392/218/original/4c3b3930-196f-4ab0-bdf0-746989bb0d0a.png" srcset="" alt="View Assignment for Next Student" height="65" width="368">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76100140-2224-0135-296B-22000AB760A3" class="text-block-content">
+    <p>Once you grade the submission, the student's assignment indicator changes to a check mark, indicating the submission has been graded.</p>
+<p>You can view the next student's submission by clicking the <strong>arrow</strong> button next to the student list.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_group_assignments" data-step-uuid="7f0ad1d0-58a6-401c-92b1-4aabf1c4f339">
+    <h2 id="view_group_assignments" class="step-title screensteps-heading">View Group Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/776/564/original/d9407bdb-c2d7-434b-ba0f-2f4e11463688.png" srcset="" alt="View Group Assignments" height="155" width="332">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76103030-2224-0135-296D-22000AB760A3" class="text-block-content">
+    <p>When evaluating group assignments, the student list displays the name of each group, unless the group assignment is graded individually. Evaluating group assignments is the same process as individual students. You can mark up documents directly or download them for feedback, enter grades and view the rubric, and post and view comments. Learn more about <a href="/t5/Instructor-Guide/How-do-I-grade-group-assignments-in-SpeedGrader/ta-p/698" target="_blank">grading group assignments</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-anonymous-assignments" data-step-uuid="aa96fe90-b3fc-463d-a4a1-c57be7ac56f4">
+    <h2 id="view-anonymous-assignments" class="step-title screensteps-heading">View Anonymous Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/740/880/original/aa253f1f-23aa-4e41-a9d7-51c428ab2094.png" srcset="" alt="View Anonymous Assignments" height="293" width="340">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_02c56f2c-89f4-4133-aa87-b230ffd306d8" class="text-block-content">
+    <p>If an assignment or quiz was <a href="/t5/Instructor-Guide/How-do-I-add-an-assignment-that-includes-anonymous-grading/ta-p/769" target="_blank">set to have anonymous grading</a>, the student list displays all student names generically. The student list order does not match the order in the Gradebook and is randomized for each assignment.</p>
+<p>If an assignment is not anonymous, you can <a href="/t5/Instructor-Guide/How-do-I-hide-student-names-in-SpeedGrader/ta-p/768" target="_blank">hide student names in SpeedGrader</a> for anonymous grading at any time.</p>
+<p><strong>Note: </strong>Graded discussions cannot be anonymous.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

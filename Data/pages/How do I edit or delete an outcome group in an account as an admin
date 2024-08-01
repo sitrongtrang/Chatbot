@@ -1,0 +1,92 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2dc6a80c-5d4e-4d77-acc1-cd7f15f2d2d0" class="text-block-content">
+    <p>If you created an outcome group in your account that you need to edit or delete, you can do so as long as the outcomes in the group have not yet been used to assess a student. Once an outcome in the group has been used for scoring, you cannot delete the outcome group. You can still modify the details of the outcome group.</p>
+<p>You can delete an outcome group as long as it does not contain any outcomes that cannot be modified. </p>
+<p>This article displays how to edit or delete an outcome group in the classic Outcomes page view. If the Outcomes page in your account displays differently than the images in this article,<a href="/t5/Admin-Guide/How-do-I-edit-or-remove-an-account-outcome-group-in-Improved/ta-p/486338" target="_blank"> learn how to edit or remove an outcome group</a> in an account that has enabled the Improved Outcomes Management feature option.</p>
+<p><strong>Note:</strong> You can modify any outcomes or outcome groups where you have permission.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="d29bb1e8-b3ba-418d-a813-6142c5427200">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3574fd29-a680-41fb-b6bf-fcdb39586d10" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="8c4246ee-085f-419e-b1e1-3e5b474dd8c3">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/346/original/98822e97-4e3f-4c66-997a-622f8cf76c83.png" srcset="" alt="Open Outcomes" height="296" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f65a59b4-b242-49cb-9925-84b5fd33136b" class="text-block-content">
+    <p>In Account or Sub-Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_outcome_or_outcome_group" data-step-uuid="8d32ad28-b79a-4faf-8728-19b3caf6fe63">
+    <h2 id="select_outcome_or_outcome_group" class="step-title screensteps-heading">Select Outcome Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/669/original/dd769824-1be0-40f4-97f8-a89d65cc45ad.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/669/medium/dd769824-1be0-40f4-97f8-a89d65cc45ad.png" srcset="" alt="Select Outcome Group" height="267" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a0df064f-839f-4826-9cd3-a7e676243b87" class="text-block-content">
+    <p>Locate the outcome group you want to modify.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modify_outcome_group" data-step-uuid="6769b702-4325-4535-a804-8e3ee48bd30d">
+    <h2 id="modify_outcome_group" class="step-title screensteps-heading">Modify Outcome Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/672/original/17dab374-6935-4e57-8e40-9108fe2716f8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/672/medium/17dab374-6935-4e57-8e40-9108fe2716f8.png" srcset="" alt="Modify Outcome Group" height="261" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0ee0c8ef-fb52-4115-9d34-8b2b711da248" class="text-block-content">
+    <p>To edit an outcome group, click the <strong>Edit</strong> button [1]. Editing an outcome group lets you change the outcome name and description as set when <a href="/t5/Admin-Guide/How-do-I-create-outcome-groups-for-an-account/ta-p/129" target="_blank">creating an account outcome group</a>.</p>
+<p>To delete an outcome group, click the <strong>Delete</strong> button [2]. </p>
+<p><strong>Note:</strong> If you delete an outcome group and the outcome group generates an error, your outcome group contains an outcome that cannot be modified. Move the outcome to another outcome group, then try deleting the outcome group again.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

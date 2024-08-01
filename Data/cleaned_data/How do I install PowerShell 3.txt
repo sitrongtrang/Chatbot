@@ -1,0 +1,11 @@
+How do I install PowerShell 3
+Download and Install Windows Management Framework 3.0
+Find and download the most recent version of Windows Management Framework 3.0, which includes PowerShell version 3.
+Note: Version 3 is more compatible with restful API call.
+Download and Install PowerShell cmdlet
+If you choose to use this example powershell script, you will need to download and install a PowerShell cmdlet called "Powershell Community Extensions" Pscx-3.1.0.msi from https://pscx.codeplex.com/releases
+Execute PowerShell Scripts
+Go to http://technet.microsoft.com/en-us/library/ee176949.aspx
+Open a powershell command prompt (Start > Powershell ISE). You will need to run this as an admin (Right-click > Run as administrator)
+Type in the command below and click the Enter key; then when the dialog box pops up click the Yes button.
+Set-ExecutionPolicy RemoteSigned

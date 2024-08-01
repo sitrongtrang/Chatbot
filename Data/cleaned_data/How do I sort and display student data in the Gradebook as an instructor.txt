@@ -1,0 +1,26 @@
+How do I sort and display student data in the Gradebook as an instructor
+Open Grades
+In Course Navigation, click the Grades link.
+Open Student Name Menu
+Hover over the Student Name column header and select the Options icon.
+Sort Student Names
+To sort students by last name, select the Sort by link. By default, names are sorted alphabetically by last name from A-Z.
+To sort students by SIS ID, click the SIS ID option.
+To sort students by Integration ID, click the Integration ID option.
+To sort students by Login ID, click the Login ID option.
+To order students in ascending order, click the A-Z option.
+To order students in descending order, click the Z-A option.
+Sort Student First Names
+When the Allow gradebook users to view and export student first and last names in separate columns account setting is enabled, you can sort students by first name.
+To sort by first name, click the Student First Name option icon. Then select the Sort by link and select the Name option. By default, first names are sorted alphabetically A-Z.
+Note: Sorting students by last name continues to be available.
+Display Name Order
+To display names in a specific name order, select the Display as link. By default, names display as first name, last name. To sort in descending order, click the Last, First Name option.
+View Secondary Info
+To view secondary information for students, select the Secondary info link. You can have the Student Name column display each student's section, SIS ID, Integration ID, Login ID, or Group. You can also choose to have the column display no secondary information.
+Show Enrollments
+To view grades for inactive or concluded enrollments, view the Show section and select the Inactive enrollments or Concluded enrollments link. You can view both enrollment types at the same time in the Gradebook.
+Search Students
+By default, the Gradebook shows all active students. To search for students by name or SIS ID, enter your search query in the Search Students field. The Gradebook automatically filters results as you type.
+The Search Students field allows multiple student names to be filtered at the same time. 
+The Search Students field also respects Concluded and Inactive Enrollment options. If the Concluded Enrollment or Inactive Enrollment options are selected as filters, no Concluded or Inactive enrollments display in the Gradebook.

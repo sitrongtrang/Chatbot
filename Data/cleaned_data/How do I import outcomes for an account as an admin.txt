@@ -1,0 +1,40 @@
+How do I import outcomes for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Outcomes
+In Account Navigation, click the Outcomes link.
+Import Outcomes
+Click the Import button.
+Upload File
+Drag and drop your CSV file to the upload area, or click in the upload area to choose a file from your computer.
+Open File
+Locate the CSV file and then click the Open button.
+View Import Status
+Canvas displays a loading page while the file uploads. Large CSV files may take time to import. You can leave the Outcomes page at any time without disrupting the import process. 
+View Import Success
+When the file has been successfully imported, Canvas displays a confirmation message. You will also receive an email that the import was successful.
+View Import Errors and Warnings
+If the import was not successful, or if the import altered existing outcomes, Canvas displays an error message.
+The error message displays for outcome import errors and for outcome import warnings. 
+You will receive an email with details about the first 100 errors and warnings. Each error or warning will include the CSV row number and a description of the error or warning. 
+Import errors stop the import process entirely and need to be fixed before outcomes can be imported successfully. The following types of errors may occur in CSV files:
+Required headings are missing
+Other headings are placed after the ratings header
+Invalid headers are present
+Required fields are missing
+Import file contains no data
+Invalid UTF-8 string
+When an import warning occurs, Canvas skips the affected row and the import moves on. The following types of warnings may occur in CSV files:
+Rating tiers have missing points
+Rating tiers have invalid point values
+Rating tiers have points in wrong order
+Object type is incorrect
+Parent group refers to missing outcomes
+Parent groups are invalid
+Workflow state is invalid
+Calculation validation method not specified
+Group receives invalid fields
+Outcome edits are not within the same context
+Correct the errors in the CSV file according to the Outcomes Import Format Documentation and re-import the file.
+View Outcomes
+View the outcomes imported into your account.

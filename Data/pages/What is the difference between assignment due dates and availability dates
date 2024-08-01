@@ -1,0 +1,230 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_B1A70440-1ED3-0135-8B31-22000AB760A3" class="text-block-content">
+    <p>In addition to setting a due date for an assignment, instructors can specify a specific date range when students can submit the assignment. These dates are called availability dates. These dates are optional and can be set depending how you want to manage the assignment. </p>
+<p>In Quizzes, availability dates may affect student submissions. For more details, view the <a href="/t5/Instructor-Guide/How-do-I-make-a-quiz-available-before-or-after-the-due-date/ta-p/1241" target="_blank">Quiz availability dates lesson</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Beneath the Due Date and Availability date fields, Canvas will display the time zone date and time according to context. If you manage courses in a time zone other than your local time zone and create or edit a due date for an assignment, the course and local times will be displayed for reference.</li>
+<li>When Multiple Grading Periods are enabled in a course, only due dates are validated against closed grading periods. Availability dates do not apply.</li>
+<li>Depending on their notification settings, students will receive a notification if you publish an assignment even if the availability date has not been met.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_due_date" data-step-uuid="C0C20BE8-1A34-47E2-AC30-E52B03DEC152">
+    <h2 id="view_due_date" class="step-title screensteps-heading">View Due Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/199/original/9ac95f1a-215c-4da1-84eb-eca24fe0ef63.png" srcset="" alt="View Due Date" height="340" width="471">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A73660-1ED3-0135-8B33-22000AB760A3" class="text-block-content">
+    <p>The due date is the date and time when the assignment is due. Student assignments submitted after the due date will be marked as late in the Gradebook. Due Dates are not required in Canvas, but they are helpful in managing course workflow and deadlines.</p>
+<p>You can also set a specific time as part of the due date. When you change a due time on an assignment, the seconds value defaults to 0 unless the minutes value is set to 59, in which case, the seconds are also set to 59. For example, if you set a due date of September 19 at 4:15 pm, any student submission made at or after September 19 at 4:15:01 is marked late.</p>
+<p>If a date does not include a time, the listed date defaults to the <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">course’s default due time</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_availability_dates" data-step-uuid="BF5A1797-3667-4C83-95EE-549DBD19EA03">
+    <h2 id="view_availability_dates" class="step-title screensteps-heading">View Availability Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/195/original/bd77d588-3411-4afa-bcd6-58c8b1752126.png" srcset="" alt="View Availability Dates" height="340" width="471">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A76700-1ED3-0135-8B35-22000AB760A3" class="text-block-content">
+    <p>If you want to create a date range for students to view and submit an assignment, you can set availability dates. Availability dates can also be called lock dates.</p>
+<p><strong>Available From [1]: </strong>the date and time when the Assignments will become available to students. If a due date does not include a time, the listed date defaults to the <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">course's default due time</a>. Students cannot view assignment content until after the Available from date has passed.</p>
+<p><strong>Until [2]: </strong>the date and time when students can no longer submit the assignment. If no time is set, this time defaults to 11:59 pm for the course time zone and the assignment will close at 12:00:00 am of the following day.</p>
+<p>When the assignment is published, blank availability date fields allow the assignment to be submitted at any time throughout the entire course. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_details" data-step-uuid="89372763-80D7-4F99-BDED-2A6A22A30656">
+    <h2 id="view_assignment_details" class="step-title screensteps-heading">View Assignment Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/201/original/6bb41845-4fd6-433c-9908-9ae188b50bf0.png" srcset="" alt="View Assignment Details" height="116" width="624">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A795B0-1ED3-0135-8B37-22000AB760A3" class="text-block-content">
+    <p>After you save the assignment, you can view the details for the assignment. If there is an assignment due date, the date displays under the <strong>Due</strong> heading [1]. If there are availability dates, they display under the <strong>Available from</strong> and <strong>Until</strong> headings [2].</p>
+<p>You can also view details for all assignments on the <a href="/t5/Instructor-Guide/How-do-I-use-the-Assignments-Index-Page/ta-p/777" target="_blank">Assignments Index Page</a>.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_correct_answers_in_quizzes" data-step-uuid="5141f721-24f1-4672-b966-23db483c5b4d">
+    <h3 id="view_correct_answers_in_quizzes" class="step-title screensteps-heading">View Correct Answers in Quizzes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/205/original/936474b2-d0c0-460f-9235-500b8e6316d3.png" srcset="" alt="View Correct Answers in Quizzes" height="475" width="539">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A7C350-1ED3-0135-8B39-22000AB760A3" class="text-block-content">
+    <p>In Quizzes, the <strong>Until</strong> date does not restrict student access to view the result of their quiz. For instance, you may not want students to view the results of their quiz after the Until date. To make this change, you need to <a href="/t5/Instructor-Guide/What-options-can-I-set-in-a-quiz/ta-p/683" target="_blank">edit the quiz options</a> and restrict the quiz results.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="working_with_due_and_availability_dates" data-step-uuid="51795b6c-95cb-4e55-845a-c7ebdb48396b">
+    <h2 id="working_with_due_and_availability_dates" class="step-title screensteps-heading">Working with Due and Availability Dates</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A7DA90-1ED3-0135-8B3A-22000AB760A3" class="text-block-content">
+    <p>Due Dates and Availability Dates can be used together, depending on how you want to manage the assignment. Here are some common scenarios you can create with dates. All examples include a Due Date, though they are not required for assignments.  </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="create_open_assignment" data-step-uuid="0cdffa89-77e8-42f9-a872-26c13f05f0fa">
+    <h3 id="create_open_assignment" class="step-title screensteps-heading">Create Open Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/613/444/original/e65460cf-6180-4d67-98c1-ef687bd7e5f9.png" srcset="" alt="Create Open Assignment" height="351" width="462">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A80A00-1ED3-0135-8B3C-22000AB760A3" class="text-block-content">
+    <p>If you want to keep an assignment open throughout the entire course, do not set any availability dates. When no availability dates are set, the assignment can be submitted by all users until the course ends.</p>
+<p>For example, if you want students to be able to view and submit the assignment at any time but reward those who submit by a due date of September 19 at 11:59 pm, only set the Due Date.</p>
+<p>Canvas views and scores the assignment as follows:</p>
+<ul>
+<li>Canvas opens the assignment to all student submissions on the first day of the course (according to term date and course time zone)</li>
+<li>In the Gradebook, the assignment is marked on time if submitted by September 19 at 11:59 pm (according to course time zone)</li>
+<li>In the Gradebook, the assignment is marked late if submitted on or after September 20 at 12:00:00 am (according to course time zone)</li>
+<li>Canvas closes the assignment to all student submissions on the last day of the course (according to term date and course time zone) </li>
+</ul>
+<p><strong>Note: </strong>Due times set to 12am and 24:00 autocorrect to 11:59pm and 23:59.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="limit_submission_available_from_date" data-step-uuid="a68e40f5-f852-4155-8407-bae27108d5ba">
+    <h3 id="limit_submission_available_from_date" class="step-title screensteps-heading">Limit Submission Available From Date</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/613/448/original/8f2cbe31-78fb-46a5-ae73-9fa1731aac57.png" srcset="" alt="Limit Submission Available From Date" height="371" width="463">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A83C70-1ED3-0135-8B3E-22000AB760A3" class="text-block-content">
+    <p>If you want to keep students from viewing and submitting an assignment until a specific date, set an Available From date. Assignment content is not visible to students until after the Available from date and time passes. However, rubrics are visible to students regardless of availability dates.</p>
+<p>For example, if you set an assignment as due on September 19 at 11:59 pm, but you do not want students to submit the assignment until September 9 at 12 am, set the Available From date as September 9 at 12 am. </p>
+<p>Canvas views and scores the assignment as follows:</p>
+<ul>
+<li>Canvas opens the assignment to all student submissions on September 9 at 12:00 am (according to course time zone)</li>
+<li>In the Gradebook, the assignment is on time if submitted by September 19 at 11:59 pm (according to course time zone)</li>
+<li>In the Gradebook, the assignment is marked late if submitted on or after September 20 at 12:00:00 am (according to course time zone)</li>
+<li>Canvas closes the assignment to all student submissions on the last day of the course (according to term date and course time zone) </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="Limit-Submission-End-Date" data-step-uuid="c4b219ca-e66c-4f5e-a366-fba37fa35ae0">
+    <h3 id="Limit-Submission-End-Date" class="step-title screensteps-heading">Limit Submission Until Date</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/623/849/original/b254cba3-363d-47c9-abc6-6284fce0c867.png" srcset="" alt="Limit Submission Until Date" height="369" width="464">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A8D3D0-1ED3-0135-8B40-22000AB760A3" class="text-block-content">
+    <p>If you want to allow students to submit an assignment until a specific date, set an Until date. The date you set depends on whether you want to accept late submissions. When the Until date has passed, students can still view or download their submissions and view any submission comments.</p>
+<p><strong>No late submissions</strong>—Some instructors do not allow any late submissions by setting the Until Date as the Due Date. For example, If you want to allow students to view the assignment at any time with a due date of September 19 at 11:59 pm, but you do not want to accept any late submissions, also set the Until Date as September 19 at 11:59 pm.  </p>
+<p>Canvas views and scores the assignment as follows:</p>
+<ul>
+<li>Canvas opens the assignment to all student submissions on the first day of the course (according to term date and course time zone)</li>
+<li>In the Gradebook, the assignment is on time if submitted by September 19 at 11:59 pm (according to course time zone)</li>
+<li>Canvas closes the assignment to all student submissions on September 20 at 12:00 am (according to course time zone)</li>
+</ul>
+<p> <strong>Note: </strong>Due times set to 12am and 24:00 autocorrect to 11:59pm and 23:59.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/623/847/original/c72e7b60-fb52-4bff-8b18-ae5053a3575f.png" srcset="" alt="Allow Late Submissions" height="368" width="459">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2df86ef2-800c-4670-9f0e-2efbeb78f52b" class="text-block-content">
+    <p><strong>Allow late submissions</strong>—Some instructors allow late submissions within a specific period of time after the due date. For example, if you want to allow students to submit a late assignment up to three days after the due date, set the Until Date as September 22 at 11:59 pm. </p>
+<p>Canvas views and scores the assignment as follows:</p>
+<ul>
+<li>Canvas opens the assignment to all student submissions on the first day of the course (according to term date and course time zone)</li>
+<li>In the Gradebook, the assignment is on time if submitted by September 19 at 11:59 pm (according to course time zone)</li>
+<li> In the Gradebook, the assignment is marked late if submitted between September 20 at 12:00:00 am and September 22 at 11:59:59 pm (according to course time zone)</li>
+<li>Canvas closes the assignment to all student submissions on September 23 at 12:00:00 am (according to course time zone)</li>
+</ul>
+<p><strong>Note:</strong> In Quizzes, the autosubmit feature is tied to the Until date, which may affect student submissions. For more details, view the <a href="/t5/Instructor-Guide/How-do-I-make-a-quiz-available-before-or-after-the-due-date/ta-p/1241" target="_blank">Quiz availability dates lesson</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="limit_submission_date_range" data-step-uuid="3267299c-2520-4e82-8d11-2d7e1f20e5dc">
+    <h3 id="limit_submission_date_range" class="step-title screensteps-heading">Limit Submission Date Range</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/613/450/original/3595bc42-24e7-43ab-a255-543a674301b8.png" srcset="" alt="Limit Submission Date Range" height="375" width="465">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A93670-1ED3-0135-8B42-22000AB760A3" class="text-block-content">
+    <p>If you want to allow students to submit an assignment only in a specific date range, set both availability dates for the assignment.</p>
+<p>For example, if an assignment is due September 19 at 11:59 pm, but you only want students to be able to submit the assignment between September 9 and September 22, and you want to allow late assignments for 3 days, set the Available From date as September 9 at 12 am, and the Until date as September 22 at 11:59 pm.</p>
+<p>Canvas views and scores the assignment as follows:</p>
+<ul>
+<li>Canvas opens the assignment to all student submissions on September 9 at 12 am (according to course time zone)</li>
+<li>In the Gradebook, the assignment is on time if submitted by September 19 at 11:59 pm (according to course time zone)</li>
+<li>In the Gradebook, the assignment is marked late if submitted between September 20 at 12:00 am and September 22 at 11:59:59 pm (according to course time zone)</li>
+<li>Canvas closes the assignment to all student submissions on September 23 at 12:00:00 am (according to course time zone)</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="bulk-updating-assignment-due-and-availability-dates" data-step-uuid="6a2f1565-c34a-44c1-8458-44f48dbc4d86">
+    <h2 id="bulk-updating-assignment-due-and-availability-dates" class="step-title screensteps-heading">Bulk Update Due and Availability Dates</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/194/601/original/4e5c457d-bf1a-49e9-9ab2-1e962c3b85a8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/194/601/medium/4e5c457d-bf1a-49e9-9ab2-1e962c3b85a8.png" srcset="" alt="Bulk Update Due and Availability Dates" height="303" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_248ef0e1-3318-4b63-b3c4-83427c653aac" class="text-block-content">
+    <p>You may be able to <a href="/t5/Instructor-Guide/How-do-I-bulk-update-due-dates-and-availability-dates-as-an/ta-p/1195" target="_blank">update due dates and availability dates for multiple assignments</a> at one time.</p>
+<p>If no time is set, the due time defaults to 11:59:59 pm for the course time zone, and the assignment is marked late at 12:00:00 am. For example, if you set a due date of September 19 at 11:59 pm, the assignment is marked late if submitted at or after September 20 at 12:00:00. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

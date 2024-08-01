@@ -1,0 +1,27 @@
+How do I add temporary enrollments in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open People
+In Account Navigation, click the People link.
+Locate User
+When creating temporary enrollments, a Provider is a user whose courses are shared with another user. 
+To create a temporary enrollment pairing, locate the Provider. Then click the Temporary Enrollment icon.
+Add User Details
+A temporary enrollment recipient is a user who receives access to a user's courses. To find a recipient of temporary enrollments for a user, search for a user by Email Address, Login ID or SIS ID. Then click the Next button.
+Note: Depending on your institution's preferences, some 'Add recipient by' options may not be available.
+Confirm Recipient of Temporary Enrollments
+Click the Next button.
+Assign Temporary Enrollments
+Add the date and time the recipient should receive access to the course(s) using the Begins On and Time fields. Add the date and time the recipient's access should end using the Until and Time fields.
+To select the user's role, click the Select role drop-down menu.
+By default, when a temporary enrollment ends, the enrollment is deleted. To select a different ending enrollment state, click the Ending enrollment state drop-down menu.
+By default, active and published courses where the Provider has an Instructor-based role are selected. Click the checkbox next to each course(s) the recipient should have access to.
+Click the Submit button.
+Notes:
+The time and role fields are stored in local browser storage and display the most recent selections in new workflows until the local browser storage is cleared.
+Temporary enrollment recipients are restricted to the same course section(s) as the provider.
+Temporary enrollments are not available for concluded courses.
+When enrolling a recipient with more permissions than the provider in a course, a tooltip states that the recipient will have different permissions than the provider in the enrolled course.
+When creating a temporary enrollment pairing from a provider in a sub-account, only courses within the sub-account hierarchy are available. To pair additional courses, you must create the temporary enrollment pairing from within the sub-account or root account that contains the courses.
+View Temporary Enrollments
+Once a temporary enrollment is submitted, a banner displays showing the enrollment was successfully completed. Additionally, the Temporary Enrollment icon displays solid to represent an active pairing.

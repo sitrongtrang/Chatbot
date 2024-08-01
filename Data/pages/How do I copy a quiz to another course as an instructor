@@ -1,0 +1,153 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_69764fea-4bb7-45f0-9974-bb9fc91b4365" class="text-block-content">
+    <p>As an instructor, you can copy individual quizzes in one course directly into any active course in which you are enrolled. You can also <a href="/t5/Instructor-Guide/How-do-I-send-a-quiz-to-another-instructor/ta-p/1081" target="_blank">send quizzes to other instructors</a> at your institution. When you copy a quiz, any assets within that quiz (images, files, etc.) will be included in your quiz copy.</p>
+<p><strong>Notes:  </strong></p>
+<ul>
+<li>To share course content, you must have the Course Content - add / edit / delete permission enabled.</li>
+<li>Shared content does not count against course or user quotas.</li>
+<li>If you copy the same quiz to the same course more than once, the quiz you previously copied will be overwritten with the newly copied quiz.</li>
+<li>By default, quiz copies will not include unbookmarked question banks. To ensure your question banks are included, you must <a href="/t5/Instructor-Guide/How-do-I-bookmark-a-question-bank-in-a-course/ta-p/1231" target="_blank">bookmark your question banks</a>.</li>
+<li>Currently, this feature does not support copying quizzes with linked question banks. To copy a quiz with linked question banks, you must use the <a href="/t5/Instructor-Guide/How-do-I-copy-content-from-another-Canvas-course-using-the/ta-p/1012" target="_blank">Course Import tool</a> instead.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-quizzes" data-step-uuid="b6451897-c478-4c9f-96ac-42f72b098c22">
+    <h2 id="open-quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/036/869/original/c232b955-7519-4628-af25-5077e2cf7abf.png" srcset="" alt="Open Quizzes" height="186" width="147">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1b80145c-91fc-43e6-96a2-daeb32ff8db2" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-quiz-options" data-step-uuid="6d74d71d-c785-4261-84d3-23156ac3e9af">
+    <h2 id="open-quiz-options" class="step-title screensteps-heading">Open Quiz Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/252/713/original/0db87c26-d330-471f-aa51-15ef17660843.png" srcset="" alt="Open Quiz Options" height="327" width="675">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17a7fc73-02c6-4a0a-98de-5b3e72600e10" class="text-block-content">
+    <p>Locate the quiz you wish to copy, then click the quiz <strong>Options</strong> icon [1]. Select the <strong>Copy To...</strong> option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-course" data-step-uuid="d273d37d-29e9-4abf-91b8-8c828f9afa08">
+    <h2 id="select-course" class="step-title screensteps-heading">Select Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/162/987/original/6e79dd73-bed6-4222-86a9-33e29499f943.png" srcset="" alt="Select Course" height="316" width="352">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_db8a4a35-d5ac-4b04-ba43-26c400f0e8d8" class="text-block-content">
+    <p>Enter the name of a course or course code in the <strong>Select a Course</strong> field [1]. </p>
+<p>Search results are sorted by term, with the default term first, followed by most recent term start date. Results for each term are sorted alphabetically and display the course name [2], course code [3], and term name [4].</p>
+<p>Select the course into which you want to copy the quiz [5].</p>
+<p><strong>Note: </strong>The Select a Course drop-down menu only displays courses in which you have an active or future enrollment. Quizzes cannot be copied to a concluded course.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-content-import-warning-message" data-step-uuid="86542f32-0bee-4e22-b141-6d7068bbbebc">
+    <h3 id="view-content-import-warning-message" class="step-title screensteps-heading">View Copy To Content Warning Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/938/143/original/54a8f994-919a-4794-b10f-10cca80c8bbc.png" srcset="" alt="View Copy To Content Warning Message" height="167" width="317">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dbccdc9e-d5df-4070-af78-e805fc71fd13" class="text-block-content">
+    <p>When copying content, a message displays explaining that importing the same course content more than once overwrites any existing content in the course.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-location" data-step-uuid="568abae8-9c05-4a40-a11c-5bb8c25773af">
+    <h3 id="select-location" class="step-title screensteps-heading">Select Location</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/717/712/original/95f70044-53c6-4625-bff3-5831fdb679b0.png" srcset="" alt="Select Location" height="400" width="322">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_50a08b85-66ef-4217-a3d4-db120e38bb9a" class="text-block-content">
+    <p>If you wish, you can copy the quiz into a specific module and location within a course. </p>
+<p>Click or type a module name in the <strong>Select a Module </strong>field [1]. Then select the module for the copied quiz.</p>
+<p>To select a location within the module, click the <strong>Place </strong>drop-down menu [2]. You can select to copy the quiz to the top of the module, before or after a specific module item, or at the bottom of a module.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="copy-quiz" data-step-uuid="b60398e9-ecca-4729-bb0a-ff074fe53db9">
+    <h2 id="copy-quiz" class="step-title screensteps-heading">Copy Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/036/796/original/db164007-306c-46bb-be66-1e17cc8a5ecc.png" srcset="" alt="Copy Quiz" height="61" width="187">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1fd19d2f-81b8-4312-a24e-e374c3d14104" class="text-block-content">
+    <p>Click the <strong>Copy</strong> button. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-copy-notification" data-step-uuid="d66dd938-0161-42be-baca-240ebcaee4f4">
+    <h3 id="view-copy-notification" class="step-title screensteps-heading">View Copy Notification</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/717/714/original/880027cc-be0d-413f-a82e-ea2b19d45f69.png" srcset="" alt="View Copy Notification" height="519" width="312">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42e78d0f-8ecd-44a8-bc44-e9e9d5a6b902" class="text-block-content">
+    <p>Canvas displays a notification when a quiz copies successfully [1]. </p>
+<p>When finished, click the <strong>Close</strong> icon [2] or the <strong>Close</strong> button [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-copied-quiz" data-step-uuid="2598e387-b887-44ba-ba59-c550533ed930">
+    <h2 id="view-copied-quiz" class="step-title screensteps-heading">View Copied Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/252/715/original/9997b95a-9565-42bb-ba7f-e2818b04c839.png" srcset="" alt="View Copied Quiz" height="345" width="682">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_912c57ef-8c57-4d5f-b37b-155c24ced37c" class="text-block-content">
+    <p>Copied quizzes display on the Quizzes Index Page for the course into which it copied. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

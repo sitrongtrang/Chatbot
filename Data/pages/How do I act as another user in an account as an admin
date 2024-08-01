@@ -1,0 +1,154 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_5916E9A0-0293-0135-0B55-22000B5A851D" class="text-block-content">
+    <p>Acting as a user allows admins to log in as the user without a password. You can take any action as though you are the user. From other users' points of views, it will be as if this user performed them. However, the audit logs will show that you performed the tasks while acting as that user. Audit logs can be viewed by admins who have access to <a href="/t5/Admin-Guide/How-do-I-use-Canvas-Data-1-files/ta-p/106" target="_blank">Canvas Data files</a>. Audit logs are also available by downloading the <a href="/t5/Admin-Guide/How-do-I-view-the-page-views-for-a-user-in-an-account/ta-p/93" target="_blank">Page Views CSV file</a>. This file displays all user activity for a specific user, including actions an admin performs when they masquerade as the user.</p><p>To act as a user in an account, admins must be assigned the <em>Users - Act as </em>permission. The <em>Users - Act as</em> account permission can only be managed from the root account and cannot be enabled at the sub-account level. The <em>Users - Act as</em> permission should only be assigned to users that your institution has authorized to act as other users in your entire Canvas account. Users with this permission may be able to use the Act as feature to manage account settings, view and adjust grades, access user information, etc. This may include admins designated to a sub-account accessing settings and information outside of their sub-account.</p><p><strong>Notes:</strong></p><ul>
+<li>When acting as a user, language preferences do not apply and will always be shown in the default language.</li>
+<li>To act as another admin, you must have all the permissions enabled in your account that have been enabled for that admin.</li>
+<li>If your institution has a trust agreement with another institution, trust accounts do not grant permission for you to act as users associated with a different Canvas URL. You can only act as users who are associated with your same account.</li>
+<li>Additionally, once you are acting as a user, any user role that can view the user details page displays the Act as Users link in the user details page. This behavior takes place because of an override to your permissions and helps you quickly act as another user; <em>it does not mean</em> that the user for whom you are acting is also able to act as other users.</li>
+<li>Any Canvas feature that requires or modifies a user's <a href="/t5/Admin-Guide/How-do-I-manage-API-access-tokens-as-an-admin/ta-p/89" target="_blank">API access token</a> cannot be modified through acting as a user.</li>
+<li>When you act as another user as an admin, the Recent History link displays the recent history for the student, not the page views you create. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="6ae19d0f-0bde-41a8-873e-ddd828cf4417">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_591728F0-0293-0135-0B57-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-people" data-step-uuid="44723190-0660-4fc9-b607-9977b0c6f07d">
+    <h2 id="open-people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/403/original/59a3b177-c463-4464-9ce9-51c59096b183.png" srcset="" alt="Open People" height="298" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_82f2695d-2a0f-4654-a23d-ac953d44ddbe" class="text-block-content">
+    <p>In Account Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_user" data-step-uuid="dbd07d3d-6cf2-41fa-abca-5e9c703790bb">
+    <h2 id="find_user" class="step-title screensteps-heading">Find User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/076/220/original/find-user.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png" srcset="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png 2.0x, https://media.screensteps.com/image_assets/assets/008/076/220/medium_lowres/find-user.png" alt="Find User" height="103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b8666977-5ada-4f9c-994e-fa6df5c1940b" class="text-block-content">
+    <p>Use the filter and search options to find the user in the account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_profile" data-step-uuid="778d7879-f142-4376-9362-f1fff9262964">
+    <h2 id="open_user_profile" class="step-title screensteps-heading">Open User Profile</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/972/007/original/af7fc58a-d00e-4167-99c2-12d55ce51eaf.png" srcset="" alt="Open User Profile" height="208" width="608">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0cd5ed51-b00a-4409-910e-8dd95212a2ae" class="text-block-content">
+    <p>In the search results, click the user's name.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="become_user" data-step-uuid="ea14630c-26e2-4d7f-a3bc-fa4746160df8">
+    <h2 id="become_user" class="step-title screensteps-heading">Act as User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/013/654/original/ec9d914e-9aea-4091-91da-bfcb61a6779b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/013/654/medium/ec9d914e-9aea-4091-91da-bfcb61a6779b.png" srcset="" alt="Act as User" height="362" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59189E30-0293-0135-0B5D-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Act as User</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="masquerade_as_user" data-step-uuid="0E2DAD44-71CE-4A82-AD15-FC486DC28186">
+    <h2 id="masquerade_as_user" class="step-title screensteps-heading">Proceed as User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/127/214/original/11c266c8-c067-4e29-915a-275a7718abfd.png" srcset="" alt="Proceed as User" height="814" width="851">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5918D680-0293-0135-0B5F-22000B5A851D" class="text-block-content">
+    <p>The Act as User page confirms the user's information. If the user has multiple login credentials, all login IDs are displayed for additional user verification. Click the <strong>Proceed</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_canvas_as_user" data-step-uuid="16894C52-FB3E-438E-9906-AE094E6133BA">
+    <h2 id="view_canvas_as_user" class="step-title screensteps-heading">View Canvas as User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/910/460/original/227f1d4e-b109-4008-98dc-5f271b143b79.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/910/460/medium/227f1d4e-b109-4008-98dc-5f271b143b79.png" srcset="" alt="View Canvas as User" height="585" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59194610-0293-0135-0B61-22000B5A851D" class="text-block-content">
+    <p>While you are acting like the user you will see what the user sees, but the audit reports will show that you performed those tasks and not the actual user. You will know that you are acting as a user by the information box at the bottom of the screen that says <strong>You are currently acting as [User]</strong>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="stop_masquerading" data-step-uuid="5D16683C-96ED-4D33-AB25-B9D6615E2CCE">
+    <h2 id="stop_masquerading" class="step-title screensteps-heading">Stop Acting as User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/115/706/original/3741c8ac-0e3c-4833-8979-429dab60d174.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/115/706/medium/3741c8ac-0e3c-4833-8979-429dab60d174.png" srcset="" alt="Stop Masquerading" height="49" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5919AF20-0293-0135-0B63-22000B5A851D" class="text-block-content">
+    <p>When you are finished acting as the user, click the <strong>Stop Acting as User</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

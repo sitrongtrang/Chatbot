@@ -1,0 +1,105 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1A6D3E30-2212-0135-1DC4-22000BC102FE" class="text-block-content">
+    <p>If you want to add a page to a Mastery Path in a module, you must first allow the page in Mastery Paths. Otherwise, the page will not appear as a conditional item when you <a href="/t5/Instructor-Guide/How-do-I-add-conditional-content-to-a-Mastery-Path-source-item/ta-p/854" target="_blank">add an item to a </a>Mastery Path.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The Mastery Paths setting can be <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">managed in your course</a> if the setting has been <a href="/t5/Admin-Guide/How-do-I-set-details-for-an-account/ta-p/194" target="_blank">enabled by your institution</a>.</li>
+<li>If you allow a page in Mastery Paths, the page will not be visible to students until it is added to a Mastery Path.</li>
+<li>Course items such as links, files, and media content must be embedded in a page or assignment to be used as conditional content in Mastery Paths.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="3aeb5f72-6633-4cc4-be46-be03510eb028">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/178/original/59934c99-bfdf-41c7-aae5-fafee5641faf.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1A6EAEE0-2212-0135-1DC6-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_page" data-step-uuid="06b8f623-1f6b-498d-9293-2f110dec42c4">
+    <h2 id="open_page" class="step-title screensteps-heading">Open Page</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/151/748/original/1605cb2e-e879-4c65-b4cd-daeab629261a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/151/748/medium/1605cb2e-e879-4c65-b4cd-daeab629261a.png" srcset="" alt="Open Page" height="246" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1A6F62D0-2212-0135-1DC8-22000BC102FE" class="text-block-content">
+    <p>Click the name of the page in the module.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_page" data-step-uuid="911eacd3-9f85-455c-9937-95c9fccf5281">
+    <h2 id="edit_page" class="step-title screensteps-heading">Edit Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/168/067/original/2e180ff2-5cf6-46b6-b1e2-562e66f9aa21.png" srcset="" alt="Edit Page" height="156" width="632">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1A6F9470-2212-0135-1DCA-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Edit </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="allow_for_masterypaths" data-step-uuid="a83a4edf-6fb3-4a43-9cd1-40249ca0a494">
+    <h2 id="allow_for_masterypaths" class="step-title screensteps-heading">Allow for Mastery Paths</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/636/original/ac27dd76-260f-4313-8a1e-da465dd65d65.png" srcset="" alt="Allow for MasteryPaths" height="131" width="333">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1A6FCCB0-2212-0135-1DCC-22000BC102FE" class="text-block-content">
+    <p>At the bottom of the page, click the <strong>Allow in mastery paths </strong>checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_page" data-step-uuid="cc9e971f-b525-4113-9b1b-0ab9d0bf1ecc">
+    <h2 id="save_page" class="step-title screensteps-heading">Save Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/503/006/original/fae7fb4c-b5a8-4e4c-bec3-5870c2c3adb8.png" srcset="" alt="Save Page" height="71" width="320">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1A6FFC70-2212-0135-1DCE-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,131 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9b5832c5-223b-48a7-824b-cc62a15d35a9" class="text-block-content">
+    <p>As an admin, you can enable an Online Attendance report for courses that have enabled <a href="/t5/Canvas-Basics-Guide/What-is-New-Analytics/ta-p/73" target="_blank">New Analytics</a>. Once it is enabled, you can select attendance criteria from the Online Attendance Report settings.</p>
+<p>The Online Attendance report displays students as present or absent based on whether they have met any of the selected attendance criteria on a given day.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The Online Attendance report cannot be managed at the sub-account level.</li>
+<li>Data is refreshed in New Analytics every 24 hours. Please confirm the time data was last updated in the course, as content may be outdated compared to recent course activity and student submissions.</li>
+<li>The Online Attendance criteria can be set for a course by a teacher if the teacher role has the Manage LTI permission enabled.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="76c946b0-b5bc-40c2-bea9-f77f7f34c0ee">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/641/247/original/988dd8db-1f7d-404d-ab39-8d34f511b01e.png" srcset="" alt="Open Settings" height="263" width="147">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6dce715b-ba3b-4bf7-b6f2-dba4ae8c7563" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-apps" data-step-uuid="32a408a3-4ef9-41d1-b970-cf6b08391589">
+    <h2 id="open-apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/641/249/original/4c3c89ce-131d-4892-bfb3-cbdd064cc1de.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/641/249/medium/4c3c89ce-131d-4892-bfb3-cbdd064cc1de.png" srcset="" alt="Open Apps" height="67" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_290b8bfd-12f3-40d6-b665-db9d86149cc7" class="text-block-content">
+    <p>Click the <strong>Apps</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-app-configurations" data-step-uuid="00c258c4-af5e-4e17-bed3-baa3a2dbb694">
+    <h2 id="view-app-configurations" class="step-title screensteps-heading">View App Configurations</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/641/251/original/9c2c3c3f-3529-449e-9224-145b4895e829.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/641/251/medium/9c2c3c3f-3529-449e-9224-145b4895e829.png" srcset="" alt="View App Configurations" height="192" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a6623d0b-b6af-4161-b36a-13158157eca5" class="text-block-content">
+    <p>Click the <strong>View App Configurations</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-app-settings" data-step-uuid="0ba2d644-5c77-4d0a-b989-ff80351e92d3">
+    <h2 id="open-app-settings" class="step-title screensteps-heading">Open App Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/668/965/original/77807c75-dd0e-4766-aa23-339f372ff8fe.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/668/965/medium/77807c75-dd0e-4766-aa23-339f372ff8fe.png" srcset="" alt="Open App Settings" height="532" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7f90b999-cc2a-49d9-94b3-208b7b24da07" class="text-block-content">
+    <p>In the External Apps list, locate the <strong>New Analytics</strong> app [1]. Click the <strong>Settings</strong> button [2] and select the <strong>Configure</strong> option [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configure-attendance-report" data-step-uuid="6ffc96e8-66a7-4ea0-bea2-36eef18924dc">
+    <h2 id="configure-attendance-report" class="step-title screensteps-heading">Configure Online Attendance Report</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/941/298/original/4925d7fe-e06f-48d0-844d-93a4958e1d1f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/941/298/medium/4925d7fe-e06f-48d0-844d-93a4958e1d1f.png" srcset="" alt="Configure Attendance Report" height="955" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8951b8c5-4b75-49f3-bb35-add539c74ab4" class="text-block-content">
+    <p>The <strong>Online Attendance</strong> settings display in the page [1].</p>
+<p>To enable the Online Attendance report, click the <strong>Enable Online Attendance Dashboard</strong> button [2]. </p>
+<p>To allow instructors to set attendance criteria at the course level, click the <strong>Allow instructors to set Online Attendance Criteria at the course level </strong>button [3]. Additionally, the teacher role must have the Manage LTI permission enabled. </p>
+<p>To select the criteria that determine online attendance, click the <strong>Attendance Criteria</strong> checkboxes [4]. You can select the following criteria:</p>
+<ul>
+<li>Course Access: student views a page in a course</li>
+<li>Posts: student posts a new comment to an announcement or a discussion</li>
+<li>Assignments: student submits an assignment</li>
+<li>Collaborations: student loads a collaboration to view/edit document</li>
+<li>Conferences: student joins a web conference</li>
+<li>Pages: student creates a page</li>
+<li>Quizzes: student starts taking a quiz or submits a quiz</li>
+</ul>
+<p>If a student meets the requirements of any selected criteria, they will be marked as present for that day in the Online Attendance report.</p>
+<p>To save your Online Attendance settings, click the <strong>Save Settings</strong> button [5]. To close the settings window without saving, click the <strong>Close</strong> button [6].</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The Conferences criteria only applies to BigBlueButton conferences.</li>
+<li>The Quizzes criteria only applies to Classic Quizzes.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

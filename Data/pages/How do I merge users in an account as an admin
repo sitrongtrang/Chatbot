@@ -1,0 +1,177 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BC31C840-1D81-0135-07D3-22000BC102FE" class="text-block-content">
+    <p>You can merge two users within your account. Merging accounts combines the logins, contact methods, and enrollments for the two user accounts. Page views are not retained for the user who was merged.</p>
+<p>If the account being merged is enrolled in a course that the account it is being merged into is not enrolled in,  grade information will be transferred to the merged account. If both accounts are enrolled in the same course, grade information from the account being merged will not be transferred.</p>
+<p>After the accounts have been merged, the user can use the logins that originated from either account to view all their course enrollments within the same account.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If you cannot merge users, you may not have the appropriate permissions or merging users has been turned off in your account.</li>
+<li>If necessary, user accounts can be split using the <a href="https://canvas.instructure.com/doc/api/users.html#method.users.split" target="_blank" rel="nofollow noopener noreferrer">Canvas Users API</a> or using the <a href="/t5/Admin-Guide/How-do-I-split-merged-users-in-an-account/ta-p/425634" target="_blank">Split Merged Users</a> link within 180 days of the user merge; however, merged users cannot be fully restored to their previous state.</li>
+<li>A manual merge of user accounts in different instances is not supported.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="0f5d34fd-1dee-4493-8aff-7849b801d14f">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC31FC80-1D81-0135-07D5-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-people" data-step-uuid="606452ac-b33c-41ee-849c-ef5b952d4477">
+    <h2 id="open-people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/397/original/59a3b177-c463-4464-9ce9-51c59096b183.png" srcset="" alt="Open People" height="298" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_397d651d-66d7-4a49-a265-6dc18f7e9650" class="text-block-content">
+    <p>In Account Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find-user" data-step-uuid="5a4d03ad-3f04-4fcc-923d-c9630a75f0e8">
+    <h2 id="find-user" class="step-title screensteps-heading">Find User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/076/220/original/find-user.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png" srcset="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png 2.0x, https://media.screensteps.com/image_assets/assets/008/076/220/medium_lowres/find-user.png" alt="Find User" height="103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8b875431-6230-41e3-a878-b8e58aaeffc3" class="text-block-content">
+    <p>Use the filter and search options to find the user in the account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-user-profile" data-step-uuid="9cd111d8-d741-4333-a33c-9fb2c4f8b4c2">
+    <h2 id="open-user-profile" class="step-title screensteps-heading">Open User Profile</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/972/033/original/f68b630c-72ab-43b5-b5bf-ed1243186dee.png" srcset="" alt="Open User Profile" height="164" width="596">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e851030f-e12f-496a-ac44-f2bb7bede8e2" class="text-block-content">
+    <p>In the search results, click the user's name.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="merge_user" data-step-uuid="1A4F919C-39FB-4695-9B8D-7EEE5913A886">
+    <h2 id="merge_user" class="step-title screensteps-heading">Merge User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/013/536/original/babea444-767f-4e57-b1f2-8bce3338877a.png" srcset="" alt="Merge User" height="371" width="814">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC32C590-1D81-0135-07DD-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Merge with Another User</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_user_account" data-step-uuid="6642D45D-61CB-4E10-AF29-165C0FE5A3CF">
+    <h2 id="find_user_account" class="step-title screensteps-heading">Find User Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/765/original/f2953660-e960-4969-a666-f450bbe19211.png" srcset="" alt="Find User Account" height="294" width="619">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC32F6E0-1D81-0135-07DF-22000BC102FE" class="text-block-content">
+    <p>Locate the user account where you want to merge the user's information. You can either search for the user or enter the user's ID. </p>
+<p>If you are enrolled in multiple accounts, the User Accounts page displays an account menu [1]. In the drop-down menu, select the account where the user is located.</p>
+<p>To locate a user by name, type the user's name in the Name field [2]. Select the user when the full name appears [3]. After confirming the user, click the <strong>Select</strong> button [4].</p>
+<p>To select a user by user ID, enter the ID in the User ID field [5] and click the <strong>Go</strong> button [6]. </p>
+<p><strong>Note</strong>: The User ID is found at the end of your Canvas URL (i.e. account.instructure.com/account/XXXXXX/users/XXXXXX).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="merge_user_accounts" data-step-uuid="68B639FF-601F-4571-968C-79AC33351010">
+    <h2 id="merge_user_accounts" class="step-title screensteps-heading">Merge User Accounts</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/845/760/original/9acd0d77-feac-4bb9-9c8f-d20610dac2b5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/845/760/medium/9acd0d77-feac-4bb9-9c8f-d20610dac2b5.png" srcset="" alt="Merge User Accounts" height="449" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC332970-1D81-0135-07E1-22000BC102FE" class="text-block-content">
+    <p>After selecting the user account to merge, you will see the process and end result table.</p>
+<p>The table will show you the <strong>User</strong>, <strong>Action</strong>, <strong>Emails</strong>, <strong>Logins</strong>, and <strong>Enrollments</strong> of each user [1]. The table will tell you what will be deleted and kept.</p>
+<p>If you want to change positions of the users so one gets deleted and the other does not, click the <strong>Switch User Positions</strong> button [2].</p>
+<p>You can also click the <strong>Merge Someone Else With [User Name]</strong> [3] for either of the users if you decide to change the users.</p>
+<p>When you are ready, click the <strong>Prepare to Merge Users</strong> button [4].</p>
+<p><strong>Note: </strong>The table will not display enrollments in concluded courses or courses in an unpublished state.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm_merge" data-step-uuid="11BA2D62-5D53-4378-9542-7FFC42711AB3">
+    <h2 id="confirm_merge" class="step-title screensteps-heading">Confirm Merge</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/845/761/original/9f794c1e-8864-42bd-bb2f-f13bf52ac5a3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/845/761/medium/9f794c1e-8864-42bd-bb2f-f13bf52ac5a3.png" srcset="" alt="Confirm Merge" height="514" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC335850-1D81-0135-07E3-22000BC102FE" class="text-block-content">
+    <p>You will be prompted one more time to ask if you are sure about merging the users together. When you are ready, click the <strong>Merge User Accounts</strong> button.</p>
+<p><strong>Note</strong>: This process cannot be undone.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_confirmation" data-step-uuid="3BA29BCD-09D7-49FA-B7FF-D1FA40E01DDD">
+    <h2 id="view_confirmation" class="step-title screensteps-heading">View Confirmation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/757/original/d1a6e344-a35a-45b4-961f-9eb31ea5831f.png" srcset="" alt="View Confirmation" height="73" width="491">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BC338B10-1D81-0135-07E5-22000BC102FE" class="text-block-content">
+    <p>Confirm the merge was successful.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

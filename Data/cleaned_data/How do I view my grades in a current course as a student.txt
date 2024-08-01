@@ -1,0 +1,58 @@
+How do I view my grades in a current course as a student
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open Grades
+In Course Navigation, click the Grades link.
+View Grades
+From the grades page you can select the Course for which you want to view grades. By default, grades are sorted chronologically by assignment due date. In the Arrange by menu, you can also sort by module, assignment name, or assignment group. To see the specified grades, click the Apply button. Assignments that are not part of a module will be shown at the end of the assignments list in alphabetical order. However, if modules or assignment groups aren't used in your course, they won't be included as sorting options.
+You can view the name of the assignment, the assignment due date, the assignment submission date the assignment status, the score you earned, and the total point value of the assignment. You may also be able to view whether the assignment includes scoring details, comments, or rubrics.
+You may see various grade icons in the score column indicating the type of assignment you submitted. These assignments have not been graded by your instructor. Once the assignment is graded, the icon will be replaced by your score.
+The grades page also lets you create hypothetical or What-If grades. You can click any score field and approximate your grade for both graded assignments (if want to submit an assignment) and ungraded assignments.
+To print your grades, click the Print Grades button.
+View Grading Periods
+If grading periods are enabled in your course, you can view your grades according to grading period. By default the Grades page displays the current grading period. If an assignment does not include a due date, it will display as a part of the last grading period. To view grades for another course, click the Course drop-down menu. To see the specified grading period and course, click the Apply button.
+If your course includes weighted assignment groups, assignment groups may vary in the sidebar depending on which grading period you are viewing. An assignment group displays if the group has at least one assignment due in the selected grading period. 
+When grading periods are weighted and you select the All Grading Periods option, the sidebar displays the weights of each grading period.
+View Late Assignment
+Your instructor may enforce an automatic late policy in your course. Any assignments that are submitted after the due date are marked as late. The late policy automatically deducts a percentage of the grade from the total score. Late assignments display the Late icon in the Status column of the gradebook. To view submission details for a late assignment, click the submission name.
+View Late Submission
+The Submission Details page displays your grade, the amount deducted for the late penalty, and the final grade.
+View Grade Info
+Some assignments include a black warning icon, which alerts you that points earned from this assignment will not count toward your final grade. You should still submit this assignment unless it has been excused by your instructor.
+View Comments
+If there are comments in your assignment, the assignment displays a Comment icon. To view comments, click the Comment icon. If there are unread comments, an indicator is displayed. Once the comments are read, the indicator disappears.
+Comments are organized chronologically. 
+If there is feedback besides text comments, such as media comments, click the Feedback icon to open the submission details and view the other feedback.
+To close comments, click the Close link.
+View Scoring Details
+If you can view scoring details, click the Check Mark icon. You can view the grade distribution for the assignment and view the mean, high, low, median, upper quartile, and lower quartile scores.
+The graph's horizontal line extends from 0 to the assignment's highest possible score. The white box extends from the lowest to the highest student scores. Your score appears as a blue square on this plot.
+You will only see scoring details if more than five other students have submitted that assignment in the course. If you do not see the scoring details, then fewer than five students have submitted the assignment.
+To close scoring details, click the Close link. 
+View Rubric
+An assignment may also include a Rubric icon, which means the assignment included a rubric for grading purposes. To view your results, click the icon. View your score based on the rubric. To close the rubric, click the Close Rubric link.
+Note: The total rubric score may be restricted by your instructor.
+View Assignment Groups
+The Grades page will list the assignment groups included in your course. Assignment groups allow instructors to organize assignments, discussions, and quizzes into groups and apply specific grading rules or weights to those groups. You can view the percentage score for each group and the points you've earned versus the total points possible.
+Note: Assignment group percentages may be restricted by your instructor. 
+View Sidebar
+The grade summary shows your total grade, allows you to view any saved what-if scores, and allows you to show or hide all scoring details, comments, and rubrics shown in the Grades page.
+Depending on the grade calculation for your course, your total grade may display as a point value or as a percentage. 
+Note: Your instructor may restrict you from viewing your total grade.
+View Current and Total Grades
+The current grade is calculated by adding up the graded assignments according to their weight in the course grading scheme. This grade is calculated with the Calculate based only on graded assignments checkbox selected in the sidebar.
+The total grade is calculated by adding all the assignments according to their weight in the course grading scheme (both graded and ungraded assignments). To view the total grade, deselect the sidebar checkbox. The grade at the top of the sidebar will reflect your total grade.
+Note: If your instructor has restricted you from viewing the current and/or total grades, selecting or deselecting the sidebar checkbox still affects individual assignments. You may be able to see small changes with assignment shading indicating that a grade may be dropped from the course.
+View Percentage Grade Calculation
+The sidebar shows the information about how your grades are calculated. 
+If your assignment groups are weighted, the sidebar will show the breakdown of weighted assignment groups.
+Assignment groups will always display as a percentage. If your instructor allows you to view total grades, you can see a breakdown in the points you've earned versus the total points possible.
+Note: Your instructor may restrict you from viewing your grade totals in assignment group percentages.
+View Points Grade Calculation
+If your course does not use assignment groups, your total grade can be displayed in points or percentage. If your total grade is displayed in points, you can view your overall grade percentage. Again, your instructor may restrict you from viewing your total grade. 
+Note: Your instructor may restrict you from viewing grade totals.
+View Qualitative Grade Calculation
+If your institution restricts viewing quantitative data, your total grade is displayed using a grading scheme, usually letter grades. Again, your instructor may restrict you from viewing your total grade. 
+Change Gradebook
+If you have more than one course, you can use the course drop-down menu to view grades in other courses.
+If your Grades page shows Assignments and Learning Mastery headings, you can also view your standards-based scores in the Learning Mastery link.

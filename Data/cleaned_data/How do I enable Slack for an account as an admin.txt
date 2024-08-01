@@ -1,0 +1,41 @@
+How do I enable Slack for an account as an admin
+Open Slack Apps
+Open api.slack.com/apps in your internet browser. 
+If necessary, log in to your Slack account. 
+Create New Slack App
+Click the Create New App button. 
+Give the app a name in the App Name field. The app name will display to users in the Slack workspace. 
+Select your institution's workspace or the workspace the app should belong to in the Development Slack Workspace drop-down.
+To create the app, click the Create App button.
+Add OAuth Scope 
+Open the OAuth & Permissions page. 
+In the Scopes section, click the Add an OAuth Scope button.
+Select Scopes
+Click the Add permission by Scope or API method drop-down menu and select the following OAuth scope options:
+channels:manage: Manage public channels that your Slack app has been added to and create new ones
+chat:write: Send messages as your Slack app
+groups:write: Manage private channels that your Slack app has been added to and create new ones
+im:write: Start direct messages with people
+mpim:write: Start group direct messages with people
+users:read: View people in the workspace
+users:read.email: View email addresses of people in the workspace
+Install App 
+To save and install the app, click the Install App to Workspace button.
+Allow App Workspace Access
+A message displays requesting permission for the app to access the Slack workspace. 
+Click the Allow button. 
+Copy Slack Bot Access Token
+Once the app is created in Slack, click the Install App link. 
+Locate the Bot User OAuth Access Token and click the Copy button. 
+Add Slack API Token
+In the Account Settings page in Canvas, locate the Slack API Token section and paste the copied token in the New Slack API Key field. 
+To save, click the Update Settings button. 
+Note: If the Slack API Key heading does not display, refresh your browser window.
+Create Contact Method
+In your user settings page, click the Add Contact Method link. 
+Click the Slack Email tab, and enter the email address of your Slack account in the Slack Email field. 
+Then click the Register Slack Email button. 
+Confirm Communication Channel
+In Slack, look for a notification sent to the newly-created Slack App with a four-digit Canvas registration code. 
+In Canvas, enter the four-digit code in the Confirm Communication Channel field. Then click the Confirm button.
+Once confirmed, all users in your Slack account can add the Slack Email contact method and manage their Slack notification settings in the User Settings page. 

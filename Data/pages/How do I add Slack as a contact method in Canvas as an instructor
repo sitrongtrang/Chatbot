@@ -1,0 +1,115 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_e5827110-fac0-41d0-aff9-4c5f501bfd4d" class="text-block-content">
+    <p>If your institution allows, you may be able to add Slack as a contact method in Canvas. Notifications from Canvas are received via message in the Slack app. Slack appears under the Other Contacts sidebar heading.</p>
+<p>Once you have enabled the contact method, learn how to <a href="/t5/Instructor-Guide/How-do-I-manage-my-Canvas-notification-settings-as-an-instructor/ta-p/1222" target="_blank">set notification settings</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-user-settings" data-step-uuid="c014d19c-deaa-44f6-8e65-4b64d5dd2893">
+    <h2 id="open-user-settings" class="step-title screensteps-heading">Open User Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/300/402/original/6d281252-0643-445d-9b09-e82c436c12ee.png" srcset="" alt="Open User Settings" height="541" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5cde045e-5226-40ba-b7d9-cb19420dc795" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Account</strong> link [1]. Then click the <strong>Settings</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-contact-method" data-step-uuid="1871e899-23d5-4469-ae7e-ca707c930a14">
+    <h2 id="add-contact-method" class="step-title screensteps-heading">Add Contact Method</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/513/968/original/2691e20a-ef15-4d4c-b7ae-7a87ce612a64.png" srcset="" alt="Add Contact Method" height="365" width="267">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_138d6ea6-7aab-41e9-84cc-816bef13ff15" class="text-block-content">
+    <p>In the Other Contacts section, click the <strong>Add Contact Method</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="register-slack-email" data-step-uuid="7e2a3c7f-960f-4611-a1b1-cc28ab4ed7fb">
+    <h2 id="register-slack-email" class="step-title screensteps-heading">Register Slack Email</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/300/405/original/2b876419-4fd0-4a56-8eb8-304f19c1800c.png" srcset="" alt="Register Slack Email" height="270" width="606">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8275238f-2b21-4974-8c36-88d78f815450" class="text-block-content">
+    <p>Click the <strong>Slack Email</strong> tab [1].</p>
+<p>Enter the email address associated with your Slack account in the <strong>Slack Email</strong> field [2].</p>
+<p>Click the <strong>Register Slack Email</strong> button [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-slack-email" data-step-uuid="bee8f3b5-046c-4636-8195-d35218335394">
+    <h3 id="confirm-slack-email" class="step-title screensteps-heading">Confirm Slack Email</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/300/401/original/a13a1013-4bc1-4ddd-8454-ace476dc6187.png" srcset="" alt="Confirm Slack Email" height="321" width="358">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dbb6c9d4-b8ca-45d9-83f7-fa3f4af4d5f3" class="text-block-content">
+    <p>You will receive a Slack notification with a four-character confirmation code. Enter the code in the confirmation field [1].</p>
+<p>To confirm the communication channel, click the <strong>Confirm</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete-slack" data-step-uuid="c29eec1d-57b9-4ee1-94ab-9c5ef58c6bc8">
+    <h2 id="delete-slack" class="step-title screensteps-heading">Delete Slack</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/513/972/original/a1f74093-e1af-41ea-bc2e-acd7d79e4dd9.png" srcset="" alt="Delete Slack" height="187" width="266">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a237aa9d-0151-4db9-bd3c-99c6cf170289" class="text-block-content">
+    <p>To delete Slack as a contact method, click the <strong>Delete</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-deletion" data-step-uuid="3bf3dd2b-882a-4901-b684-2423c69b88e2">
+    <h3 id="confirm-deletion" class="step-title screensteps-heading">Confirm Deletion</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/300/403/original/633d6c03-d4d2-4f13-8d6c-32f35cd1cb34.png" srcset="" alt="Confirm Deletion" height="132" width="447">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8dc25427-4a37-4960-95a4-93e3f6496a6d" class="text-block-content">
+    <p>Click the <strong>OK</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

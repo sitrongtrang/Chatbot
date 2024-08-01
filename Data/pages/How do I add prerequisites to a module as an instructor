@@ -1,0 +1,147 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7AAE90C0-2210-0135-D49A-22000B5A851D" class="text-block-content">
+    <p>When you set a module prerequisite, the module is locked until a student completes the required items in the prerequisite module. However, if the prerequisite module does not have completion <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-requirements-to-a-module/ta-p/1131" target="_blank">requirements</a>, the module will not be locked by adding prerequisite and students will be able to access the module whenever.</p>
+<p>When selecting a prerequisite module, you can only choose from previous modules. You may need to <a href="/t5/Instructor-Guide/How-do-I-move-or-reorder-a-module/ta-p/1150" target="_blank">reorder modules</a> to correct prerequisite availability. </p>
+<p><strong>Note</strong>: You can only add prerequisites if you have added at least one module.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="B89C26A1-21FE-48FE-977D-EFA1BC55E0A0">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/329/original/d23b478c-a009-4136-bbbf-05cdcda09dd3.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7AAFBA40-2210-0135-D49C-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_module" data-step-uuid="6AFEA33A-8767-4B80-80DE-9562EB401965">
+    <h2 id="edit_module" class="step-title screensteps-heading">Edit Module</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/353/653/original/43938686-b1b2-424c-8030-41989ba84770.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/353/653/medium/43938686-b1b2-424c-8030-41989ba84770.png" srcset="" alt="Edit Module" height="378" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7AB09D90-2210-0135-D49E-22000B5A851D" class="text-block-content">
+    <p>Locate the name of the module and click the <strong>Options </strong>icon [1]. Select the <strong>Edit </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_prerequisite" data-step-uuid="AB2F8868-BDBF-48DA-8CDD-E693D9935CAF">
+    <h2 id="add_prerequisite" class="step-title screensteps-heading">Add Prerequisite</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/557/309/original/31132d8d-2955-45d1-b1d6-61e37d050fb7.png" srcset="" alt="Add Prerequisite" height="783" width="590">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7AB17250-2210-0135-D4A0-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Prerequisite</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_prerequisite" data-step-uuid="85048491-011E-4E8F-B82A-54E26F093F4B">
+    <h2 id="set_prerequisite" class="step-title screensteps-heading">Set Prerequisite</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/557/311/original/a43b9da2-fbd5-460f-b55e-ae7835bb36a2.png" srcset="" alt="Set Prerequisite" height="786" width="590">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7AB25360-2210-0135-D4A2-22000B5A851D" class="text-block-content">
+    <p>In the module drop-down menu, select the module students must complete before moving on.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_prerequisites" data-step-uuid="3332248A-B2AC-4465-B8FB-9743FD865DD8">
+    <h2 id="manage_prerequisites" class="step-title screensteps-heading">Manage Prerequisites</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/557/313/original/f6c6c9bd-6df3-407c-b64b-a43dc4036804.png" srcset="" alt="Manage Prerequisites" height="782" width="590">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7AB35780-2210-0135-D4A4-22000B5A851D" class="text-block-content">
+    <p>To add additional prerequisites, click the <strong>Add Prerequisite</strong> button [1]. If you want to ensure students complete modules in order, you should add prerequisites for all modules that come before this module.</p>
+<p>To remove a prerequisite, click the <strong>Remove</strong> icon [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_module" data-step-uuid="E1A298B3-34B6-4673-8FE4-89376A67F688">
+    <h2 id="update_module" class="step-title screensteps-heading">Update Module</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/557/315/original/454c0257-1907-4fd3-bcd0-ede629a948a9.png" srcset="" alt="Update Module" height="77" width="497">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7AB45BF0-2210-0135-D4A6-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="re_lock_module" data-step-uuid="725f232a-efe0-4b12-92b7-976ab1883c20">
+    <h3 id="re_lock_module" class="step-title screensteps-heading">Re-Lock Module</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/375/original/e9689fdc-1157-4abf-a206-f6c96116451c.png" srcset="" alt="Re-Lock Module" height="315" width="425">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72764e1f-68a9-4e40-8790-1b5ceae0e6fd" class="text-block-content">
+    <p>If you change prerequisites that students have already fulfilled, Canvas will ask if you want to let students progress through the course or re-lock the modules and require students to complete the prerequisites again.</p>
+<p>To re-lock the modules, click the<strong> Re-Lock Modules </strong>button [1]. To allow students to continue without any changes, click the <strong>Continue </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_module" data-step-uuid="1C58BF1C-7411-4B1E-B796-E937A8F77A81">
+    <h2 id="view_module" class="step-title screensteps-heading">View Module</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/353/655/original/317f12c7-1f6b-4cab-83d4-c52d3ba1497c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/353/655/medium/317f12c7-1f6b-4cab-83d4-c52d3ba1497c.png" srcset="" alt="View Module" height="111" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7AB4A4B0-2210-0135-D4A8-22000B5A851D" class="text-block-content">
+    <p>View your prerequisite(s) in the module header.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

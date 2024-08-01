@@ -1,0 +1,117 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_CEFC75A0-1CAB-0135-CA92-22000B5A851D" class="text-block-content">
+    <p>As part of Canvas authentication or third-party authentication, you can configure single sign-on (SSO) settings for your account. Changing the label also changes the login text on the password reset page. </p>
+<p>SSO links inherit settings from the Theme Editor. Links can be updated in the <a href="/t5/Admin-Guide/How-do-I-create-a-theme-for-an-account-using-the-Theme-Editor/ta-p/242" target="_blank">Theme Editor</a> Login section.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="498c158c-7157-48ae-8ecc-d2f1d1ce5f31">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEFCABF0-1CAB-0135-CA94-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_authentication" data-step-uuid="05c83c50-fb74-4764-83ff-cfac80c9bee1">
+    <h2 id="open_authentication" class="step-title screensteps-heading">Open Authentication</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/797/034/original/open-authentication.png" srcset="https://media.screensteps.com/image_assets/assets/005/797/034/original/open-authentication.png 2.0x, https://media.screensteps.com/image_assets/assets/005/797/034/original_lowres/open-authentication.png" alt="Open Authentication" height="274" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEFCDF60-1CAB-0135-CA96-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Authentication </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configure_sso_settings" data-step-uuid="1be5aad9-2c2f-4dbb-87fc-8ce0c07f7f3f">
+    <h2 id="configure_sso_settings" class="step-title screensteps-heading">Configure SSO Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/131/original/9c50999b-6cec-46d4-b19f-c9f056f46de1.png" srcset="" alt="Configure SSO Settings" height="648" width="596">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEFD1330-1CAB-0135-CA98-22000B5A851D" class="text-block-content">
+    <p>In the SSO Settings section, enter details for the appropriate fields. </p>
+<p>In the <strong>Login Label </strong>field [1], you can enter a label that displays in the login page and that students use to enter their unique identifier. If no label is set, the login field defaults to <em>Email</em>. You can enter labels such as username, student ID, etc.</p>
+<p>In the <strong>Forgot Password URL</strong> field [2], you can enter the URL for your institution's forgot password page. Leave this field blank if you want users to view the default Canvas password reset page.</p>
+<p>In the <strong>Discovery URL</strong> field [3], you can enter a URL for an authentication page, if any. If no page is set, users are sent to the first authentication provider in the authentication provider list. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set_third_party_unknown_user_url" data-step-uuid="a6ccd8ed-a954-4eba-bf81-2fc74aa1a357">
+    <h3 id="set_third_party_unknown_user_url" class="step-title screensteps-heading">Set Third-Party Unknown User URL</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/372/original/72f706cb-5515-42ca-855d-421e2f41391b.png" srcset="" alt="Set Third-Party Unknown User URL" height="117" width="527">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEFD47B0-1CAB-0135-CA9A-22000B5A851D" class="text-block-content">
+    <p>When using a third-party authentication provider, you can also enter a URL that redirects users if an authenticated user is not found in Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_sso_settings" data-step-uuid="ccb30b53-4643-424d-9e37-65614d51b6a9">
+    <h2 id="save_sso_settings" class="step-title screensteps-heading">Save SSO Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/133/original/d371f46d-15e2-4bf8-91b1-527311af3036.png" srcset="" alt="Save SSO Settings" height="69" width="91">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEFD7CF0-1CAB-0135-CA9C-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_provider_positions" data-step-uuid="ab899213-1d9e-4e9e-ba23-4cb05b35e395">
+    <h2 id="set_provider_positions" class="step-title screensteps-heading">Set Provider Positions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/103/375/original/48f11d7b-e675-47ed-81a2-02a60cba7bb7.png" srcset="" alt="Set Provider Positions" height="1776" width="772">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEFDC110-1CAB-0135-CA9E-22000B5A851D" class="text-block-content">
+    <p>When you have more than one authentication provider in your account, Canvas authentication defaults to the first position and is the default configuration for the Discovery URL.</p>
+<p>To change the position of your authentication providers, locate the provider and click the position menu [1]. Choose the placement number for the new position. Then click the <strong>Save </strong>button [2].</p>
+<p><strong>Note:</strong> Canvas authentication can only be deleted from the authentication page if another third party authentication provider has been enabled. If the only existing authentication provider is deleted, Canvas authentication will be restored as the default provider.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

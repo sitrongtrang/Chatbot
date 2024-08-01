@@ -1,0 +1,120 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3081d3ba-a05c-4dc7-ba73-47eb86950049" class="text-block-content">
+    <p>Canvas support agents can request updates to an entry in your institution's knowledge base (KB) through the Field Admin Console. Update requests display on the Admin Console home page. You can view update requests, make changes, and remove the entry from your list of updates.</p>
+<p><strong>Note:</strong> Field Admin Console features may vary based on account and user settings. Based on the permissions for your role, you may not be able to view or use the features described in this lesson.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-update-request" data-step-uuid="50b0ad64-cd63-4c51-ba3d-f28fb5fcb204">
+    <h2 id="open-update-request" class="step-title screensteps-heading">Open Update Request</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/628/870/original/b8d3e721-3e82-46e1-976d-169e2c598bd9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/628/870/medium/b8d3e721-3e82-46e1-976d-169e2c598bd9.png" srcset="" alt="Open Update Request" height="461" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ca9e22ba-6962-49e2-aa04-b848671698eb" class="text-block-content">
+    <p>KB update requests display in the <strong>KB Update Requests</strong> list [1]. To open an update request, click the name of the request [2].</p>
+<p>To view all update requests, click the <strong>View All </strong>link [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-update-request" data-step-uuid="d23d3cde-d6be-486f-b52c-42d3f17c8348">
+    <h2 id="view-update-request" class="step-title screensteps-heading">View Update Request</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/191/380/original/78d1f163-6377-458f-ba62-6ec9d95dbd4c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/191/380/medium/78d1f163-6377-458f-ba62-6ec9d95dbd4c.png" srcset="" alt="View Update Request" height="384" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_62e49055-2c98-426c-a30d-71b54dabfa63" class="text-block-content">
+    <p>KB update details display in the <strong>Update Request</strong> section [1].</p>
+<p> View the request date and time in the <strong>Update Request Date</strong> field [2]. View the KB addition suggestion from Canvas Support in the <strong>Update Request</strong> field [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-kb-entry" data-step-uuid="1670f954-774b-4561-ad77-1b589540fa21">
+    <h2 id="edit-kb-entry" class="step-title screensteps-heading">Edit KB Entry</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/191/383/original/a8fde0f6-8fc3-4923-82bc-6b176be51ce3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/191/383/medium/a8fde0f6-8fc3-4923-82bc-6b176be51ce3.png" srcset="" alt="Edit KB Entry" height="547" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8ea8a7bf-2896-4d28-830c-6176af8e8b3b" class="text-block-content">
+    <p>KB updates can be made in the <strong>Canvas Support Details</strong> section [1].</p>
+<p>To edit your KB entry, click the <strong>Edit</strong> icon for any field [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-case-handling-details" data-step-uuid="d1b9590f-296e-444d-8cbb-488889ada6ab">
+    <h3 id="enter-case-handling-details" class="step-title screensteps-heading">Enter Case Handling Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/191/385/original/aba26506-8e58-4e6d-b89d-9cd3bf43fc39.png" srcset="" alt="Enter Case Handling Details" height="968" width="849">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5847d950-a6b3-4303-85d9-8772b034e04b" class="text-block-content">
+    <p>Enter updates to your KB entry in the Default Case Handling fields:</p>
+<ul>
+<li>The <strong>Details for Canvas Support</strong> field displays any relevant information for how Canvas Support should handle related cases [1].</li>
+<li>The <strong>Key Words</strong> field displays any related terms or words that users might use when submitting a case related to the KB entry [2].</li>
+<li>The <strong>Details for your users</strong> field displays a scripted response that support agents can use when responding to related cases [3].</li>
+<li>
+</li></ul>
+<p>KB entry fields will display a highlighted border once any changes have been made. To undo edits, click the <strong>Undo</strong> icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-changes" data-step-uuid="37aeb83c-a3c9-4429-902d-def14afc2ed9">
+    <h2 id="save-changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/191/391/original/aa11f2b6-5bd8-499a-bb79-fa30e32f4574.png" srcset="" alt="Save Changes" height="651" width="841">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d031aa0c-d122-4065-be19-7128f910c695" class="text-block-content">
+    <p>To remove the KB entry from the KB Update Requests list on the home page, click the <strong>Details Updated</strong> checkbox [1].</p>
+<p>To save your changes, click the <strong>Save</strong> button [2].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Checking the Details Updated checkbox and saving your changes will also clear all content from the Update Requests fields.</li>
+<li>When viewing your KB, Canvas support agents will be able to view when the last change was made to the entry.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,111 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--alert screensteps-wrapper">
+  <div id="text-content_81b69c5a-8b9b-4654-9fe3-0b97e74f8946" class="text-block-content">
+    <p>Canvas Data 1 will be <a href="https://community.canvaslms.com/t5/The-Product-Blog/Canvas-Data-In-with-the-New-Out-with-the-Old/ba-p/590171" target="_blank">deprecated on December 31, 2023</a>. Canvas Data 1 guides will be removed from the Community end of June 2024. <a href="/t5/Admin-Guide/What-is-Canvas-Data-2/ta-p/560956" target="_blank">Learn more about accessing data using Canvas Data 2</a>.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_DE1BBCD0-1CB0-0135-FAFB-22000B5A851D" class="text-block-content">
+    <p>Canvas Data files should be used to create queried reports in ODBC analytics tools. Common tools include Tableau, SQL Workbench/J, Excel, and R. Analytics tools can also access the Redshift database.</p>
+<p>As part of the <a href="/t5/Admin-Guide/How-do-I-use-the-Canvas-Data-1-Portal-for-an-account/ta-p/261" target="_blank">Canvas Data Portal</a>, the Canvas Data Schema includes documentation that explains all the table data that is exported from Canvas. This documentation shows all the available files and the data in each file.</p>
+<p>For full Canvas Data use, data files should live in a database. Once you have downloaded your institution's flat files, table headers must be added to the files before analysis can be run through your preferred database. </p>
+<p>If your institution does not have its own data warehouse, Amazon Redshift is available as a premium option to host and run analytical data. Please contact your Customer Success Manager for more information. </p>
+<p><em>When using an IP Address Allowlist, software files should be set up from a computer that can access the allowlisted IP address. </em></p>
+<p>For help with using Canvas Data in various software platforms and sample queries, please view the <a href="https://community.canvaslms.com/community/answers/data" target="">Canvas Data Group</a> in the Canvas Community.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="tableau" data-step-uuid="a2ae5949-5eb8-4ee6-98f2-8eb9240684fa">
+    <h2 id="tableau" class="step-title screensteps-heading">Tableau</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/496/original/dde7f107-ba50-4a9d-a7c4-77d85bbc410c.png" srcset="" alt="Tableau" height="420" width="476">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE1BF000-1CB0-0135-FAFD-22000B5A851D" class="text-block-content">
+    <p><a href="http://www.tableau.com/" target="_blank" rel="nofollow noopener noreferrer">Tableau</a> is a per-user license software platform that helps people see and understand their data. For help with files in Tableau, please view the <a href="http://www.tableau.com/support/product" target="_blank" rel="nofollow noopener noreferrer">Tableau support page</a>. </p>
+<p>Canvas Data in Tableau can be viewed through Amazon Redshift and is the easiest, recommended method for accessing and analyzing data. In Tableau, select the <strong>Connect to Data </strong>link and select Amazon Redshift. To connect to the database, enter your Redshift credentials as set up in the Canvas Admin Portal.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sql_workbench_j" data-step-uuid="cf1b19c7-fa4e-4c14-9161-fd3317158d4c">
+    <h2 id="sql_workbench_j" class="step-title screensteps-heading">SQL Workbench/J</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/049/409/original/49a9d878-258a-445b-b148-bcf5be625db9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/049/409/medium/49a9d878-258a-445b-b148-bcf5be625db9.png" srcset="" alt="SQL Workbench/J" height="632" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE1C2120-1CB0-0135-FAFF-22000B5A851D" class="text-block-content">
+    <p><a href="http://www.sql-workbench.net/" target="_blank" rel="nofollow noopener noreferrer">SQL Workbench/J</a> is a free cross-platform SQL query tool that operates on Java. For more information about SQL Workbench/J, please see the <a href="http://docs.aws.amazon.com/redshift/latest/mgmt/connecting-using-workbench.html" target="_blank" rel="nofollow noopener noreferrer">Amazon SQL Workbench/J documentation</a>. </p>
+<p>Canvas Data in SQL Workbench/J can be viewed through Amazon Redshift. To connect to the database, enter your Redshift credentials as set up in the Canvas Admin Portal. </p>
+<p><a href="http://www.sql-workbench.net/EditData_png.html" target="_blank" rel="nofollow noopener noreferrer"><em>image source</em></a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="excel" data-step-uuid="7dfee59b-2b2a-4af2-a320-1374cd349169">
+    <h2 id="excel" class="step-title screensteps-heading">Excel</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/502/original/a93d7187-6202-4896-b649-ba61ca887256.png" srcset="" alt="Excel" height="405" width="684">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE1C5250-1CB0-0135-FB01-22000B5A851D" class="text-block-content">
+    <p><a href="https://products.office.com/en-us/excel" target="_blank" rel="nofollow noopener noreferrer">Excel</a> is a data analysis tool that is part of Microsoft Office. Windows users can download the <a href="http://docs.aws.amazon.com/redshift/latest/mgmt/install-odbc-driver-windows.html" target="_blank" rel="nofollow noopener noreferrer">Windows Redshift ODBC Driver,</a> and Mac OS X users can download the <a href="http://docs.aws.amazon.com/redshift/latest/mgmt/install-odbc-driver-mac.html" target="_blank" rel="nofollow noopener noreferrer">Mac Redshift ODBC Driver</a>.</p>
+<p>Canvas Data in Excel can be viewed through Amazon Redshift. Open Excel, select the Excel Data Connection Wizard, and locate the ODBC driver. To connect to the database, enter your Redshift credentials as set up in the Canvas Admin Portal. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="r" data-step-uuid="61ba445d-9542-4dd7-a093-9efb0dcaaf51">
+    <h2 id="r" class="step-title screensteps-heading">R</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/500/original/ad92860c-3b95-46aa-ac93-7a712fd800f7.png" srcset="" alt="R" height="138" width="674">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE1C8520-1CB0-0135-FB03-22000B5A851D" class="text-block-content">
+    <p><a href="https://www.r-project.org/" target="_blank" rel="nofollow noopener noreferrer">R</a> is a free software environment for statistical computing and graphics. It runs on a wide variety of platforms. For help with files in R, please view the <a href="https://cran.r-project.org/faqs.html" target="_blank" rel="nofollow noopener noreferrer">R support page</a>.</p>
+<p>Canvas Data in R can be viewed through Amazon Redshift. To connect to the database, enter your Redshift credentials as set up in the Canvas Admin Portal. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="other_odbc_tools" data-step-uuid="553a6747-0e08-47c2-8e26-968397f9af69">
+    <h2 id="other_odbc_tools" class="step-title screensteps-heading">Other ODBC Tools</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE1C9C70-1CB0-0135-FB04-22000B5A851D" class="text-block-content">
+    <p>Most other ODBC and Java database connectivity (JDBC) PostgresSQL clients should be supported by Canvas Data. However, please notes that pgAdmin is not supported. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,35 @@
+Once I publish a quiz, what kinds of quiz statistics are available
+Open Quizzes
+In Course Navigation, click the Quizzes link.
+Open Quiz
+Click the title of the quiz you want to open.
+Open Quiz Statistics
+Click the Quiz Statistics link.
+Note: Quiz Statistics will not be available until at least one student has completed the quiz.
+View Statistics
+By default, the quiz summary shows statistics for all sections including the quiz average score, high score, low score, standard deviation (how far the values are spread across the entire score range), and average time of quiz completion. 
+To view quiz statistics for a section, click the Section Filter drop-down menu. To access additional survey results, generate a Student/Item Analysis report.
+In the summary graph, the x-axis indicates the quiz scored percentages, and the y-axis indicates the number of students who received each percentage.
+If a student had multiple assignment attempts, you can view past attempts in SpeedGrader. Quiz stats will only display the kept score for the student (highest score or latest score). To view the score setting for multiple attempts, edit your quiz and view the multiple attempts settings option. If necessary, you can give your students an extra attempt. 
+View Analysis Reports
+Download CSV files to view Student Analysis or Item Analysis for each quiz question to count all student attempts in the statistics. For more detailed information about item analysis limitations and calculations, please refer to the Quiz Item Analysis resource document. 
+When you generate an analysis report, Canvas shows the last time the report was generated. If there is an error with the report, you can retry the option or cancel the analysis completely.
+The Student Analysis report includes a tabular representation of each student's answers and the grade awarded for each answer.
+Notes:
+By default, the submitted time in the Student Analysis report is shown in UTC, not your set time zone.
+The Item Analysis report only displays statistics for Multiple Choice and True/False questions.
+If you have permission to read SIS data in the course, the sis_id column is included in the CSV download.
+View Question Breakdown
+Quiz question shows the total percentage of students who answered the quiz question correctly. 
+Each question includes a breakdown with each question answer choice. Correct answer response(s) are shown in a green bar with a check mark; incorrect responses are shown in a black bar. Question types that do not have set answer choices, such as Fill-in-the-Blank questions, display entries other than the correct answer in a black striped bar. The horizontal bars are scaled according to the answer response percentage. 
+Each response also displays the number of respondents who selected the answer. To view the names of the students who selected an answer choice, click the [x respondents] link. 
+View Manually Graded Questions
+Quiz statistics also show relative grade performance for manually graded essay and file upload quiz question types. Manually graded question types are shown in the same table format as other quiz types. 
+A manually graded quiz type is marked as correct if it contains a student score greater than or equal to the question points possible. 
+Grade breakdown responses are shown as the top 27%, middle 46%, and bottom 27%. The statistics also show submissions that have not yet been graded. However, if all scores are identical, a response category may show more than the percentage number of students (e.g., all students score 100%). 
+Manually graded questions also include access to SpeedGrader for quick reference. 
+View Discrimination Index
+True/False and Multiple Choice quiz questions include an item discrimination index, which provides a measure of how well a single question can tell the difference between students who do well on an exam and those who do not. 
+It divides students into three groups based on their score on the whole quiz: the top 27%, the middle 46%, and the bottom 27%. The number of correct answers from the bottom group is subtracted from the number of correct answers in the top group, then the total is divided by the size of the group.
+Lower discrimination scores are scored +0.24 or lower; good scores are +0.25 or higher. An ideal discrimination index shows students who scored higher on the quiz getting the quiz question right, students who scored lower on the quiz getting the quiz question wrong, and students in the middle range on either side. A discrimination index of zero shows all students getting the quiz question right or wrong.
+Ideally, students who did well on the exam should get the question right. If students do well on the overall exam but not on the question, the question itself may need to be revised.

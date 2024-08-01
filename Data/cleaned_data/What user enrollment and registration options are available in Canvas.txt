@@ -1,0 +1,11 @@
+What user enrollment and registration options are available in Canvas
+Self Enrollment
+Self-enrollment is an open enrollment method that allows students to use a secret URL or code to join a course. This option requires students to have an existing Canvas account—most institutions automatically create Canvas accounts for each student through SIS import. 
+If you enable self enrollment for an account, instructors can allow self-enrollment for their course in Course Settings to generate the secret URL or code to send to students. 
+Instructors can also add a link to the course home page for students to join the course at any time. This option also works well for courses added to the Public Course Index.
+Self Registration
+Self registration is an authentication method through Canvas that allows users without an account to create an account for themselves. 
+If you enable self registration but students do not have a Canvas account, self registration allows them to create their own account to log in to Canvas and join the course. 
+Open Registration
+Open registration allows students to be added to a course, even if the students don't have a Canvas account in your institution. Students will create their account during the course enrollment process. 
+You can enable open registration in your account settings.

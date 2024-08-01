@@ -1,0 +1,25 @@
+How do I use the Canvas Data 1 Portal for an account as an admin
+Canvas Data 1 will be deprecated on December 31, 2023. Canvas Data 1 guides will be removed from the Community end of June 2024. Learn more about accessing data using Canvas Data 2.
+Open Account
+Click the Admin link, then click the name of the account.
+Open Canvas Data Portal
+In Account Navigation, click the Canvas Data Portal link.
+View Canvas Data Portal
+The Canvas Data Portal allows you to manage Canvas Data. The portal includes two sections: the Credential Portal and Documentation pages.
+View Credential Portal
+By default, the Canvas Data Portal opens to the Credential Portal, which includes all the credentials of your Canvas Data account.
+View Recent Data Exports
+Depending on your account access, the Recent Data Exports section displays downloadable files daily or monthly. The date of the file is when the data finished the export, not the actual date of the data. Most recent data is generally 24–36 hours older than the given date.
+Canvas Data Historical Data
+After Canvas Data has been enabled in your account, a series of flat files display nightly for your account. The files contain tables representing all data beginning from the time Canvas Data was enabled in the account, with the exception of page view requests that contain an incremental download from the day before. To receive historical page view requests from before Canvas Data was enabled in the account, please contact your Implementation Consultant. The historical page view table data is uploaded separately and requests are typically processed every other month.
+View Users
+The Manage Users section shows admins who have been given access to the Canvas Data Portal, along with their permissions. You cannot edit permissions for yourself. 
+Any admin who does not have access but who has tried to view the portal also appears in the list. You can choose to edit that user's settings and grant permission access at any time. Learn how to manage Canvas Data Admin users.
+View API Credentials
+If you would like to grant access to other users or third-party partners to automatically download data, you can generate API credentials and pass them to those users. To generate the credentials, click the Create Credentials button.
+Once the credentials are generated, you will need to save them and transmit them securely to the users or third-party partners that will need them. The credentials can be regenerated at any time but the old credentials will be invalidated.
+Learn more about the Canvas Data API in the Canvas Community.
+View Documentation
+To view Canvas Data documentation, click the Documentation tab menu.
+The Schema Docs explain all the table data that is exported from Canvas.
+The API Docs show all the API calls you can use for Canvas Data.

@@ -1,0 +1,93 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_45E79410-216B-0135-32EF-22000BC102FE" class="text-block-content">
+    <p>In the Card View Dashboard and the Recent Activity Dashboard, the sidebar contains a To Do list and other sections that help you know what assignments and events are coming up in all of your courses. The sidebar includes specific items for instructor and student roles. If you are enrolled in Canvas courses with more than one user role, your sidebar may show items for both roles. </p>
+<p>The sidebar is similar to the sidebar that displays in your <a href="/t5/Instructor-Guide/How-do-I-use-the-Course-Home-Page-as-an-instructor/ta-p/1250" target="_blank">Course Home Page</a>, but the course sidebar only includes items for the specific course. Depending on the setup of your Course Home Page, the sidebar in a course may contain additional sections than shown in the sidebar.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_dashboard" data-step-uuid="fb339787-702a-4301-b545-5a9a12429112">
+    <h2 id="open_dashboard" class="step-title screensteps-heading">Open Dashboard</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/836/286/original/1b235576-09da-423f-92ed-592099755bea.png" srcset="" alt="Open Dashboard" height="598" width="89">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45E7C600-216B-0135-32F1-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Dashboard </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sidebar_course_items" data-step-uuid="8c7075ca-ebb1-40be-ae2a-45150153068d">
+    <h2 id="view_sidebar_course_items" class="step-title screensteps-heading">View Sidebar Course Items</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/911/099/original/8d349c71-92eb-4343-9e56-bee2dd0eda68.png" srcset="" alt="View Sidebar Course Items" height="278" width="273">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45E847A0-216B-0135-32F3-22000BC102FE" class="text-block-content">
+    <p>The sidebar shows various action items in all your courses. Each item is associated with a specific course. All items from all your active courses display in the sidebar—not just favorited courses in the Dashboard.</p>
+<p>For course identification, each sidebar item displays the course code, or short name, for the course [1]. The course code is located directly below the full course name. </p>
+<p><a href="/t5/Instructor-Guide/How-do-I-view-my-favorite-courses-in-the-Card-View-Dashboard-as/ta-p/803" target="_blank">Course nicknames</a> can be set in place of sidebar course codes that are long or otherwise confusing to remember which courses they represent. If you have created a nickname for a course, the nickname displays in the sidebar instead of the course code [2]. However, the original course code always displays in the course card.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_instructor_sections" data-step-uuid="2bb59774-62fd-4a8a-b667-94b87e40a1d9">
+    <h2 id="view_instructor_sections" class="step-title screensteps-heading">View Instructor Sections</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/444/094/original/6246d58b-5956-4819-9c0c-496086200533.png" srcset="" alt="View Instructor Sectios" height="776" width="305">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45E8A2A0-216B-0135-32F5-22000BC102FE" class="text-block-content">
+    <p>The sidebar helps you manage grading in all of your courses. However, assignments that are not graded or do not require an online submission only display until the due date.</p>
+<p>The <strong>To Do</strong> section shows all items that require grading in Canvas, regardless of due date [1]. Each item in the To Do list displays the assignment name, the course name, the number of points, and the due date for the assignment. Some assignments may display multiple due dates. </p>
+<p>The <strong>Coming Up</strong> section shows assignments and events coming due in the next seven days [2]. Items can include ungraded quizzes and assignments that do not require a submission, though these assignment types do not display in the To Do grading list for instructors. Some items may display multiple due dates. The Coming Up section displays up to 20 items ordered according to date. </p>
+<p>If your Canvas admin has granted you permission to create courses, you may see the <strong>Start a New Course</strong> button [3], which would allow you to create a new Canvas Course.</p>
+<p>The<strong> View Grades</strong> button links to the <a href="/t5/Instructor-Guide/How-do-I-view-grades-in-the-Card-View-Dashboard-as-an-instructor/ta-p/1270" target="_blank">Dashboard Grades</a> page and displays the overall grade average for all your active courses [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage_sidebar_items" data-step-uuid="e7c2dea9-f55f-441d-aa3f-6aca80c456f4">
+    <h3 id="manage_sidebar_items" class="step-title screensteps-heading">Manage Sidebar Items</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/719/988/original/16273bbe-e219-4ee3-b7c0-216a01e94875.png" srcset="" alt="Manage Sidebar Items" height="322" width="314">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45E8D250-216B-0135-32F7-22000BC102FE" class="text-block-content">
+    <p>Each section item indicates how many items need to be graded [1]. By default, Grade Assignment links open to SpeedGrader in a new browser tab [2]. You can disable Grade Assignment links from opening in a new tab in your <a href="/t5/Instructor-Guide/What-feature-options-can-I-enable-in-my-user-account-as-an/ta-p/1140" target="_blank">User Feature Settings</a>. </p>
+<p>If a section contains more items than are listed, a link will appear under the list that you can use to view all to-do items [3].</p>
+<p>The To Do section shows up to seven items with due dates in the upcoming weeks. To view more items, you must manually remove items from the list. To remove a To Do item, click the <strong>remove</strong> icon [4].</p>
+<p><strong>Note:</strong> When an item is removed, the item can only be restored to the To Do section if a new submission is received for that assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

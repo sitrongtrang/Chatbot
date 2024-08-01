@@ -1,0 +1,26 @@
+How do I install Canvas Data Services using Live events in my account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Developer Keys
+In Account Navigation, click the Developer Keys link.
+Open Inherited Tab
+In the Developer Keys page, click the Inherited tab.
+View Canvas Data Services Key
+Find the Canvas Data Services key. If necessary, set the key to On by clicking the State button.
+Copy Client ID
+Copy the client ID found in the Details column.
+Open Account Settings
+In Account Navigation, click the Settings link.
+Open App Configurations
+Click the Apps tab. Then click the View App Configurations button.
+Add App
+Click the Add App button.
+Enter App Details
+In the Configuration Type menu, select the By Client ID option.
+Then paste the Canvas Data Services client ID in the Client ID field.
+Click the Submit button.
+Verify App Installation
+To verify that you want to install Canvas Data Services, click the Install button.
+View Canvas Data Services
+Once Data Services is installed, you can view the Data Services link in your Account Navigation.
+Clicking the Data Services link will open the Data Streaming Options page. From this page, you can create and manage data streams.

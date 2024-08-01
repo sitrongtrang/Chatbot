@@ -1,0 +1,158 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_d74885f9-3c4f-4875-9f56-dd551be6c9e3" class="text-block-content">
+    <p>Each assignment grade defaults to the point value set in the assignment. However, the <strong>Enter Grades as</strong> menu allows you to view the assignment grade to be viewed by percentage. For Letter Grade or GPA assignments, <a href="/t5/Instructor-Guide/How-do-I-add-a-grading-scheme-to-an-assignment/ta-p/1066" target="_blank">the grade can also be displayed by the grading scheme set for the assignment. </a></p>
+<p>You can change this option before grading in the Gradebook, or if you've graded an assignment from SpeedGrader, you can change the grades display after they've been assigned. The Grade Detail Tray also displays the assignment grade with the preferred Enter Grades as option. </p>
+<p>Viewing or entering grades using the <strong>Enter Grades as</strong> option is for grading convenience only and does not affect the actual grade. In the student Grades page, students will always view the point value and the default grade display set in the assignment.</p>
+<p>The following grade entry behavior is supported for each applied option in the Enter Grades menu: </p>
+<p><strong>Set to Points</strong>—enter grades as points or percentage</p>
+<ul>
+<li>Point entries display as points (e.g. entering 10 for a 10-point assignment displays as 10 points). </li>
+<li>Percentage entries are calculated as a percentage but displayed as the equivalent point value of the percentage (e.g. entering 90% for a 10-point assignment displays as 9 points).</li>
+<li>Grading scheme entries are not supported.</li>
+</ul>
+<p><strong>Set to Percentage</strong>—enter grades as percentage or grading scheme (if set in the assignment)</p>
+<ul>
+<li>Point values are not supported. Entries without a percent symbol are always calculated as a percentage (e.g. entering 20 as a point value calculates and displays as 20%).</li>
+<li>Percentage entries display as a percentage (e.g. entering 80% for a 10-point assignment displays as 80%). The percent symbol is not required.</li>
+<li>Grading scheme values calculate according to the assignment's grading scheme and display as the highest percentage for the corresponding range in the grading scheme (e.g. in a grading scheme where B ranges from 84% to 87%, entering a B displays as 87%). Course grading schemes are not supported.</li>
+</ul>
+<p><strong>Set to Grading Scheme</strong>—enter grades as points, percentage, or grading scheme</p>
+<ul>
+<li>Point entries calculate according to the equivalent grading scheme of the point value (e.g. in a grading scheme where B ranges from 84% to 87%, entering 26 for a 30-point assignment calculates as 86.67% and displays as a B).</li>
+<li>Percentage entries are calculated as percentages but displayed as the equivalent grading scheme for the percentage (e.g. in a grading scheme where A ranges from 94% to 100%, entering 94% displays as an A).</li>
+<li>Grading scheme values display as the grading scheme value according to the assignment's grading scheme (entering an A displays as an A). Course grading schemes are not supported.</li>
+</ul>
+<p> </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The Enter Grades as option is not available for complete/incomplete assignment types.</li>
+<li>When an assignment score is entered as a letter grade in the Gradebook, the percentage score for the assignment is the upper limit of the range assigned to that letter grade in the grading scheme. For example, your course grading scheme may designate a range of 86% to 89% for a B+ letter grade. Entering a B+ for an assignment assigns a percentage of 89%. To ensure students receive a specific percentage for an assignment, enter the assignment score as a percentage.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="2353be3f-d112-4cf9-b043-b600c32ae50c">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/043/original/5f08612a-0caf-43d3-aed0-cec8cbe235f1.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6564853a-75a1-434b-b205-fd3ad96652fb" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-assignment-menu" data-step-uuid="4514040e-fafe-4dbf-b7ad-dfe1a521b097">
+    <h2 id="open-assignment-menu" class="step-title screensteps-heading">Open Assignment Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/615/575/original/0b83f12c-f1f7-4269-86b9-4f97f68afc30.png" srcset="" alt="Open Assignment Menu" height="272" width="373">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f6d7d68b-104e-468b-bbc8-c22ea0aa7243" class="text-block-content">
+    <p>Hover over the assignment title and click the<strong> Options</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-grade-entry" data-step-uuid="954836d1-58c7-4dd6-a91c-edb9e6fab5d9">
+    <h2 id="select-grade-entry" class="step-title screensteps-heading">View Grade Entry</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/305/693/original/81db6f9d-9960-4ace-974b-d3477467c179.png" srcset="" alt="View Grade Entry" height="440" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3dfc34a6-db95-4ff6-8f1a-43b1794a9b20" class="text-block-content">
+    <p>Select the <strong>Enter Grades as</strong> option [1] and view the current grade display option [2]. Unless changed, the assignment defaults to the grade display set in the assignment.</p>
+<p>All assignments display the Points and Percentage options.</p>
+<p>Additionally, Letter Grade assignments display the grading scheme option.</p>
+<p><strong>Note: </strong>The Enter Grades as option is not available for complete/incomplete assignment types.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-grade-entry_1" data-step-uuid="fa72299d-d55d-4fe1-a935-c9cc680f9397">
+    <h2 id="select-grade-entry_1" class="step-title screensteps-heading">Select Grade Entry</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/305/695/original/2ba60d30-9717-497f-9025-75607ab37939.png" srcset="" alt="Select Grade Entry" height="440" width="486">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d872b022-78f2-4f0c-90c2-4c9f58795cbf" class="text-block-content">
+    <p>If you want to enter grades and have them display in the gradebook using a different grading value, select your preferred grading display as supported for the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-grades" data-step-uuid="9f7e07bb-6364-44b6-967a-910407d77d49">
+    <h2 id="view-grades" class="step-title screensteps-heading">View Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/615/566/original/b4a9b47f-b764-4704-8306-e4bd733d298b.png" srcset="" alt="Enter Grades" height="273" width="372">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f0984ad7-f44d-44e4-9862-2c57683eb0e8" class="text-block-content">
+    <p>In the assignment column, any existing grades will calculate and display according to your grade display preference.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-grades" data-step-uuid="ad6cb5b3-56b8-490f-a796-e31c642a663d">
+    <h2 id="enter-grades" class="step-title screensteps-heading">Enter Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/615/578/original/a524fd86-d310-465b-9e62-3416e9d304ad.png" srcset="" alt="Enter Grades" height="275" width="787">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dd4c1f30-4485-4375-ad40-538f3433b8d5" class="text-block-content">
+    <p>For new grades, enter a grade value according to your grading preference as supported: points, percentage, or grading scheme. </p>
+<p>The entered grade will be calculated appropriately and displayed according to the grade display option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-grade-warning" data-step-uuid="a9ef5984-a366-4970-b32f-d87d7d58d802">
+    <h2 id="view-grade-warning" class="step-title screensteps-heading">View Grade Warning</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/729/684/original/624d2d1a-b200-494b-84df-fb08919841a6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/729/684/medium/624d2d1a-b200-494b-84df-fb08919841a6.png" srcset="" alt="View Grade Warning" height="289" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d2782e25-1eba-4050-8e92-64db00b309a3" class="text-block-content">
+    <p>If you enter a grade that is not validated through the grading scheme, you will see an invalid grade warning message. A warning icon also displays in the cell with the invalid grade.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

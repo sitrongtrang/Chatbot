@@ -1,0 +1,108 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_bfd2fcf1-b499-43fd-81e8-ee5dce420efe" class="text-block-content">
+    <p>In Canvas you can add contact methods to receive notifications. Contact methods allow you to select how you want to be notified when various events occur within a course. Notifications are applied to all courses in Canvas. Canvas supports notification through email, Slack, and various web services. </p>
+<p>Once you add contact methods, you can <a href="/t5/Observer-Guide/How-do-I-manage-my-Canvas-notification-settings-as-an-observer/ta-p/558" target="_blank">set your Notification Settings</a> to select how often you want to be notified of course events. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_settings" data-step-uuid="295116c4-940b-4cc3-9613-223011c8c8af">
+    <h2 id="open_user_settings" class="step-title screensteps-heading">Open Account Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/352/345/original/7f4cd54d-268c-481a-a1ef-08eff8969edd.png" srcset="" alt="Open Account Settings" height="551" width="457">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f811bc17-12d4-4d73-8efa-defabf88f6bd" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Account</strong> link [1], then click the <strong>Settings </strong>link [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_ways_to_contact" data-step-uuid="9083e554-8375-40ca-b4c6-57a0c21e5d4b">
+    <h2 id="add_ways_to_contact" class="step-title screensteps-heading">Add Ways to Contact</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/586/471/original/1b981ca3-c8a0-47ad-af93-ea39eb65845b.png" srcset="" alt="Add Ways to Contact" height="282" width="273">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d8a55ecb-81cc-4408-9ec2-77653f9b5c47" class="text-block-content">
+    <p>The Sidebar displays the default email associated with your account [1]. You can <a href="/t5/Observer-Guide/How-do-I-change-my-default-email-address-in-my-user-account-as/ta-p/416683" target="_blank">manage your default email address</a>.</p>
+<p>To add an additional email address, click the <strong>Add Email Address</strong> link [2]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_communication_warnings" data-step-uuid="a7604b08-bfe8-4c4f-a259-88491cbcf8b5">
+    <h3 id="view_communication_warnings" class="step-title screensteps-heading">View Communication Warnings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/586/473/original/8e3b434c-6fb1-4a03-9b7c-ba54ca9d2edc.png" srcset="" alt="View Communication Warnings" height="259" width="291">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4c0fb803-d426-4040-b08b-98168fe97336" class="text-block-content">
+    <p>Canvas does not send notifications to communication channels that have bounced, which means the channel can no longer attempt to generate or send a notification. Bounces can occur from invalid addresses (caused by address typos, changed addresses, etc.) or blocked servers.</p>
+<p>Your Account Settings page may display the following icons indicating the contact method status:</p>
+<ul>
+<li>
+<strong>Warning </strong>[1]: indicates a bounced contact method. To correct the error, you can remove then re-add the contact method to your profile.</li>
+<li>
+<strong>Check Mark</strong> [2]: indicates an unconfirmed email address.</li>
+</ul>
+<p>To delete a contact method, click the <strong>Delete</strong> icon [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="link_to_web_services" data-step-uuid="cd98d9ec-da8a-4b23-a5d1-ba84617fcba4">
+    <h2 id="link_to_web_services" class="step-title screensteps-heading">Link to Web Services</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/257/736/original/d33a79ed-a968-4b76-9527-3e24ef77154d.png" srcset="" alt="Link to Web Services" height="166" width="756">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d57e1dad-cf26-482d-9bbb-aaf8174e6a1a" class="text-block-content">
+    <p>The Web Services section displays two columns. View services you have already registered, such as services verified in your contact methods or through course Collaborations, under <strong>Registered Services </strong>[1]. Other services available for registration appear under <strong>Other Services</strong> [2]. </p>
+<p>Learn how to add <a href="/t5/Observer-Guide/How-do-I-connect-to-web-services-outside-of-Canvas-as-an/ta-p/567" target="_blank">web services</a> in Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_approved_integrations" data-step-uuid="da884db5-6e31-45c9-aaca-25faabd8a749">
+    <h2 id="view_approved_integrations" class="step-title screensteps-heading">View Approved Integrations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/055/267/original/1f55274b-2102-4b14-94c4-69d187b9fe11.png" srcset="" alt="View Approved Integrations" height="217" width="698">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3f88bee5-48e4-436c-a3f1-d20ff0405ca8" class="text-block-content">
+    <p>When you allow third-party integrations to access your account, the Approved Integrations section displays the authorized integrations. Each integration shows you the name of the app, the purpose (if one is noted), the date the app was last used, the date the app expires, and a link to view further details. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

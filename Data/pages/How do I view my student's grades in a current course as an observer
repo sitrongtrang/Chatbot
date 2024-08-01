@@ -1,0 +1,266 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_445c576f-1d35-4b0a-bb45-2441939de7d0" class="text-block-content">
+    <p>The Grades page in your student's course displays all current grades for all course assignments. You can also view scoring details, comments, and rubrics. If your student's teacher is using multiple grading periods, you can also filter grades by grading period.</p>
+<p>If any of your student's courses have concluded and you are able to access their content, you can also <a href="/t5/Observer-Guide/How-do-I-view-my-student-s-grades-in-a-concluded-course-as-an/ta-p/463712" target="_blank">view concluded course grades</a>.</p>
+<p><strong>Note:</strong> Some details in the Grades page, such as scoring details and the total grade, may be restricted in your student's course.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course" data-step-uuid="d0c449f9-24bd-473d-91b7-84d9e0b09083">
+    <h2 id="open_course" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/950/594/original/open-course.png" srcset="https://media.screensteps.com/image_assets/assets/007/950/594/original/open-course.png 2.0x, https://media.screensteps.com/image_assets/assets/007/950/594/original_lowres/open-course.png" alt="Open Course" height="416" width="452">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5775b23a-721a-42c3-ad20-f4e47f24b67e" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="8a7cd690-851c-4b7e-989c-87dfd04dba47">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/321/031/original/929b2c84-72d9-403d-928b-c17f0f3a70e4.png" srcset="" alt="Open Grades" height="238" width="163">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c56fc5c0-89b0-46f2-b622-85e526729e87" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_grades" data-step-uuid="de8b652b-94bd-4b10-9287-060df5fd5657">
+    <h2 id="view_grades" class="step-title screensteps-heading">View Grades</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/049/668/original/6060f9f3-b180-4285-9051-906363fba634.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/049/668/medium/6060f9f3-b180-4285-9051-906363fba634.png" srcset="" alt="View Grades" height="382" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e171e4df-2c4a-4995-bb6a-6577734c87d8" class="text-block-content">
+    <p>From the grades page you can select the <strong>Course</strong> for which you want to view grades [1]. By default, grades are sorted chronologically by assignment due date. In the <strong>Arrange by</strong> menu [2], you can also sort by module, assignment name, or assignment group. To see the specified grades, click the <strong>Apply </strong>button [3]. Assignments that are not part of a module will be shown at the end of the assignments list in alphabetical order. However, if modules or assignment groups aren't used in your student's course, they won't be included as sorting options.</p>
+<p>You can view the name of the assignment [4], the assignment due date [5], the assignment submission date [6], the assignment status [7], the score your student earned [8], and the total point value of the assignment [9]. You may also be able to view whether the assignment includes scoring details, comments, or rubrics.</p>
+<p>You may see various <a href="/t5/Observer-Guide/How-do-I-use-the-icons-and-colors-in-the-Grades-page-as-an/ta-p/463713" target="_blank">grade icons</a> in the score column indicating the type of assignment your student submitted. These assignments have not been graded by your student's teacher. Once the assignment is graded, the icon will be replaced by your student's score.</p>
+<p>To print your student's grades, click the <strong>Print Grades </strong>button [10].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_grading_periods" data-step-uuid="09bea495-2c59-4830-9502-b2fbd0d8b3ae">
+    <h3 id="view_grading_periods" class="step-title screensteps-heading">View Grading Periods</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/321/035/original/524515a5-d0a2-44f3-88c1-1aba3ef4485b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/321/035/medium/524515a5-d0a2-44f3-88c1-1aba3ef4485b.png" srcset="" alt="View Grading Periods" height="181" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dc2378f6-2c65-480f-a90f-e5b0eeea1a3b" class="text-block-content">
+    <p>If grading periods are enabled in your student's course, you can view your student's grades according to grading period [1]. By default the Grades page displays the current grading period. If an assignment does not include a due date, it displays as a part of the last grading period. To view grades for another course, click the <strong>Course</strong> drop-down menu [2]. To see the specified grading period and course, click the <strong>Apply </strong>button [3].</p>
+<p>If your student's course includes weighted assignment groups, assignment groups may vary in the sidebar depending on which grading period you are viewing. An assignment group displays if the group has at least one assignment due in the selected grading period. </p>
+<p>When grading periods are weighted and you select the All Grading Periods option, the sidebar displays the weights of each grading period.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-late-assignment" data-step-uuid="60f49dde-432e-4970-b47e-ad65fde63b34">
+    <h2 id="view-late-assignment" class="step-title screensteps-heading">View Late Assignment</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/049/670/original/5513712d-6b70-4fca-8128-bf91fe883c1b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/049/670/medium/5513712d-6b70-4fca-8128-bf91fe883c1b.png" srcset="" alt="View Late Assignment" height="95" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1be2b03e-500b-4264-ab0b-5834a664f56f" class="text-block-content">
+    <p>Your student's teacher may enforce an automatic late policy in the course. Any assignments that are submitted after the due date are marked as late. The late policy automatically deducts a percentage of the grade from the total score. Late assignments display the Late icon in the Status column of the grades page [1]. To view submission details for a late assignment, click the submission name [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-late-submission" data-step-uuid="b8e6e2ea-424d-41e0-9c27-e01c399be171">
+    <h3 id="view-late-submission" class="step-title screensteps-heading">View Late Submission</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/049/672/original/d5c9cf8c-486a-4323-bf15-1b27f2195c98.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/049/672/medium/d5c9cf8c-486a-4323-bf15-1b27f2195c98.png" srcset="" alt="View Late Submission" height="148" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_68fe7df3-5909-4208-88d8-11767b210227" class="text-block-content">
+    <p>The Submission Details page displays your student's grade, the amount deducted for the late penalty, and the final grade.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_comments" data-step-uuid="771840c3-e15f-4323-b7ae-ff7380eb5959">
+    <h2 id="view_comments" class="step-title screensteps-heading">View Comments</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/321/042/original/5d2a7c70-95c4-40df-a21d-1800ec96a65a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/321/042/medium/5d2a7c70-95c4-40df-a21d-1800ec96a65a.png" srcset="" alt="View Comments" height="164" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1e85a8f9-32e0-49cd-b5b1-5b777e44d3aa" class="text-block-content">
+    <p>If there are comments in your assignment, the assignment displays a comment icon [1]. To view comments, click the<strong> </strong>icon. Comments will be organized chronologically [2]. To close comments, click the <strong>Close </strong>link [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_rubric" data-step-uuid="217d89b2-7091-42d1-9da6-91041ecdc13f">
+    <h2 id="view_rubric" class="step-title screensteps-heading">View Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/049/674/original/ae2a9a11-7466-4d77-a548-e2e2e4c16f96.png" srcset="" alt="View Rubric" height="835" width="825">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c1be8f7c-25be-4bcb-be0b-c80e450aa7c1" class="text-block-content">
+    <p>An assignment may also include a <strong>Rubric</strong> icon [1], which means the assignment included a rubric for grading purposes. To view your results, click the icon. View your student's score based on the rubric [2]. To close the rubric, click the <strong>Close Rubric </strong>link [3].</p>
+<p><strong>Note</strong>: The total rubric score may be restricted by your student's teacher.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_groups" data-step-uuid="e65bf7e5-01fd-4fdd-872d-dfb224b62344">
+    <h2 id="view_assignment_groups" class="step-title screensteps-heading">View Assignment Groups</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/321/047/original/e4992159-2e57-4a01-8947-2d94dbf32b2d.png" srcset="" alt="View Assignment Groups" height="328" width="776">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d44bb0cf-f810-4fd1-8255-97e3aff49d42" class="text-block-content">
+    <p>The Grades page will list the assignment groups included in your course [1]. Assignment groups allow instructors to organize assignments, discussions, and quizzes into groups and apply specific grading rules or weights to those groups. You can view the percentage score for each group [2] and the points you've earned versus the total points possible [3].</p>
+<p><strong>Note:</strong> Assignment group percentages may be restricted by your instructor. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sidebar" data-step-uuid="6ebeb4ef-cc31-49ff-9118-653e3e203e2d">
+    <h2 id="view_sidebar" class="step-title screensteps-heading">View Sidebar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/358/888/original/40d8bb54-3cec-4ea1-a605-43dd49f6c1d7.png" srcset="" alt="View Sidebar" height="576" width="307">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_12eac692-c52b-4094-81fb-e4d6ac181eea" class="text-block-content">
+    <p>The grade summary shows your student's total grade [1] and allows you to show or hide all scoring details, comments, and rubrics shown in the Grades page [2].</p>
+<p>Depending on the grade calculation for your student's course, your student's total grade may display as a point value or as a percentage. </p>
+<p><strong>Note:</strong> Your student's teacher may restrict you from viewing your student's total grade.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_current_and_total_grades" data-step-uuid="69ab9deb-73cc-4b86-b594-6c88a3260a46">
+    <h3 id="view_current_and_total_grades" class="step-title screensteps-heading">View Current and Total Grades</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/321/052/original/a766918e-2ff4-4e1d-bfab-67720d86fe3e.png" srcset="" alt="View Current and Total Grades" height="631" width="600">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_83af7a5d-df35-43c7-bacc-500ce47f10d2" class="text-block-content">
+    <p>The current grade is calculated by adding up the graded assignments according to their weight in the course grading scheme. This grade is calculated with the <strong>Calculate based only on graded assignments </strong>checkbox selected in the sidebar.</p>
+<p>The total grade is calculated by adding all the assignments according to their weight in the course grading scheme (both graded and ungraded assignments). To view the total grade, deselect the sidebar checkbox [2]. The grade at the top of the sidebar reflects your student's total grade.</p>
+<p><strong>Note:</strong> If your student's teacher has restricted you from viewing the current and/or total grades, selecting or deselecting the sidebar checkbox still affects individual assignments. You may be able to see small changes with assignment shading indicating that a grade may be dropped from the course.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_percentage_grade_calculation" data-step-uuid="c9897122-c634-4070-8fe1-676ba3f0cba5">
+    <h3 id="view_percentage_grade_calculation" class="step-title screensteps-heading">View Percentage Grade Calculation</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/049/679/original/f7df3ec5-ee4f-4b9d-8713-aaf858faf58f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/049/679/medium/f7df3ec5-ee4f-4b9d-8713-aaf858faf58f.png" srcset="" alt="View Percentage Grade Calculation" height="968" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1e0fc1c7-0855-45cf-98ca-b3ab6b71c8b6" class="text-block-content">
+    <p>The sidebar shows the information about how your student's grades are calculated. </p>
+<p>If your student's assignment groups are weighted, the sidebar will show the breakdown of weighted assignment groups [1].</p>
+<p>Assignment groups will always display as a percentage. If your student's teacher allows you to view total grades, you can see a breakdown in the points your student has earned versus the total points possible [2].</p>
+<p><strong>Note:</strong> Your student's teacher may restrict you from viewing your grade totals in assignment group percentages [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_points_grade_calculation" data-step-uuid="b0eb2bd1-d76c-4c0d-a55c-93f3fcf85c8d">
+    <h3 id="view_points_grade_calculation" class="step-title screensteps-heading">View Points Grade Calculation</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/321/060/original/e1f06f53-fecc-41da-bdcd-a58c239a2335.png" srcset="" alt="View Grade Calculations with No Assignment Groups" height="328" width="776">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f190a59e-50a4-43ee-951a-8c47fdc23417" class="text-block-content">
+    <p>If your student's course does not use assignment groups, your student's total grade can be displayed in points or percentage. If your student's total grade is displayed in points, you can view your student's overall grade percentage. Again, your student's teacher may restrict you from viewing your student's total grade.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-qualitative-grade-calculation" data-step-uuid="40ac88f1-568c-4b14-b112-4325e1466a78">
+    <h3 id="view-qualitative-grade-calculation" class="step-title screensteps-heading">View Qualitative Grade Calculation</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/797/597/original/047280a7-3ec6-43d3-8de7-e37ada67feb5.png" srcset="" alt="View Qualitative Grade Calculation" height="544" width="668">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3caa507e-9592-4092-a0d2-d30e3a0d932f" class="text-block-content">
+    <p>If your student's institution restricts viewing quantitative data, your student's total grade is displayed using a grading scheme, usually letter grades. Again, your student's instructor may restrict you from viewing your student's total grade.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="change_gradebook" data-step-uuid="edcb52cf-20f0-45e9-a429-93278838cff9">
+    <h2 id="change_gradebook" class="step-title screensteps-heading">Change Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/321/062/original/a9b68acf-7d21-4dc2-aa99-c431f9c23d3e.png" srcset="" alt="Change Gradebook" height="223" width="725">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bf95a569-d7a4-4ca2-95cb-6f9198c475a6" class="text-block-content">
+    <p>If you are observing a student in multiple courses, you can use the<strong> course drop-down menu</strong> to view grades in other courses [1].</p>
+<p>If your student's Grades page shows Assignments and Learning Mastery headings [2], you can also view your student's standards-based scores in the <a href="/t5/Observer-Guide/How-do-I-view-my-student-s-Learning-Mastery-scores-in-the-Grades/ta-p/463711" target="_blank">Learning Mastery </a>link.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

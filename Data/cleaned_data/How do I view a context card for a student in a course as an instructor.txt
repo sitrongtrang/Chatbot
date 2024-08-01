@@ -1,0 +1,31 @@
+How do I view a context card for a student in a course as an instructor
+Open People
+In Course Navigation, click the People link.
+Locate Student
+In the search field, search for the name of the student. You can also filter users by student role in the Roles drop-down menu.
+Open Context Card
+Click the name of the student.
+View Context Card
+The context card displays in a separate window within the page.
+View Student Overview
+At the top of the card, you can view overview information about the student:
+Profile picture: View the student's profile picture. A picture may not be available if the student has not added a profile picture or if your institution does not allow profile pictures. If a profile picture has not been set or is not available, the user's initials will display. You can also click the picture to access the student's user details page. 
+Student name or email: Click to access the student’s user profile page.   If you have the appropriate permissions, you may be able to access additional information including the student's access report, interactions report, outcomes report, and registered web services.
+Course name and section: View the name of the course and section. The section name is only included for courses with multiple sections. 
+Last login: View the student's last Canvas login. This field does not display if the student has never logged in. If the login was on the current date, the card only displays the time. If the login was within the current week, the card displays the day of the week. Any later logins display the full date. 
+Grades button: Click to access the student’s grades page. 
+Analytics button: Click to access the student’s analytics page. This button is only available to users with permission to view course analytics.
+Mail icon: Click to send a message directly to the student from the context card. 
+Users who have permission to act as other users can also view a Act as User link to quickly act as the student. 
+View Grading Overview
+The grading section gives an overview of the student's course grade. The student's current grade displays as shown in the Gradebook according to grading scheme. 
+For courses using Multiple Grading Periods, the context card only displaysthe grade for the current grading period. Note that the grading period view in the Gradebook does not influence the grade display; the student context card always displays the current grading period, regardless of whether you view a prior or future grading period.
+The card also shows the number of missing assignments and late assignments. Missing assignments are based on course analytics data, which generates data for online submission assignments in Canvas. For submissions not submitted online, assignment calculations may not be entirely accurate as they are attempted based on the assignment’s grade and when the assignment was graded.  Late assignments are based on assignment due date . 
+In the Last Graded Items section, you can view a maximum of the student's last 10 recently graded assignments along with the assignment’s grade, shown according to grading scheme. If the grading scheme does not fit in the window, the grades default to points. To view the name of an assignment, hover over a graded item. To view submission details for the assignment, click the graded item.
+View Activity Overview
+The activity section provides an overview of the student's participation compared to other students in the course. It is not meant to be an exact comparison and is based on the standard deviation of the student's participation and page views in the course. 
+The activity level is indicated by stars that represent no participation, low participation, moderate participation, and high participation.  Students with no page views receive zero stars. Students whose participation falls in the lowest quartile of course activity receive one star. Students whose participation falls in the middle two quartiles receive two stars. Students whose participation falls in the top quartile receive three stars. 
+Participation information may help you quickly identify at-risk students in your course. For instance, a student with both high participation and high page views is probably a high-performance student who submits coursework and participates in course discussions, assignments, and other activities. A student with no participation or page views is most likely not engaged in the course and may need some assistance or participation encouragement.
+Note: More accurate details about course activity can be viewed by accessing the student's analytics page or user details page, both of which may be available to you to access from the Student overview section of the context card.
+Close Context Card
+To close the context card, click the Close icon.

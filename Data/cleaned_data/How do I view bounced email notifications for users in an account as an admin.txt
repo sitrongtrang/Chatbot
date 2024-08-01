@@ -1,0 +1,20 @@
+How do I view bounced email notifications for users in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Admin Tools
+In Account Navigation, click the Admin Tools link.
+Open Bounced Emails
+Click the Bounced Emails tab.
+Search Bounced Emails
+To view all bounced email notifications in your account, click the Search button.
+Filter Bounced Emails
+To find specific bounced email notifications, you can apply filters to your search. You can filter by user email address and/or date.
+To filter bounced email notifications by email address, type an email address in the Address field. Wildcards are permitted for both the email username and domain name.
+To view bounced email notifications after a certain date, type or select a date in the Last bounced after field.
+To view bounced email notifications before a certain date, type or select a date in the Last bounced before field.
+To view bounced email notifications between specific dates, enter a date in both date fields.
+To view bounced email notifications with your selected filters, click the Search button.
+View Bounced Emails
+The bounced email notification results display the intended recipient's name, the email address, the most recent bounce date, and the reason the email bounced.
+To download bounced email results as a CSV file, click the Download these results as CSV link. 
+Note: If a user's information is not included in the bounced email results, the user may be listed on the Amazon Web Services (AWS) suppression list. To verify whether a particular email address is on this list and to request removal, reach out to Canvas Support. Additionally, the AWS suppression list is automatically cleared every two weeks by Amazon.

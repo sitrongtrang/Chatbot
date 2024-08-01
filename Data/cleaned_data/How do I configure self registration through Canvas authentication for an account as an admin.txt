@@ -1,0 +1,15 @@
+How do I configure self registration through Canvas authentication for an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Authentication
+In Account Navigation, click the Authentication link.
+Configure Self Registration
+By default, Self Registration is disabled. To enable Self Registration, select the radio button for the registration type for your account. 
+To allow self registration for all users, select the All Account Types option. To limit self registration to observers (including parents), select the Observer Accounts Only option.
+To require users to complete a Captcha form before completing the registation process, click the Require Captcha for Self Registration checkbox.
+Canvas enforces MFA is functionally equivalent to the legacy UIs checkbox for MFA Required being enabled. 
+To have Canvas enforce the MFA, select the Canvas enforces MFA option. 
+To have the user opt in, select User can opt in to MFA option.
+Note: If the All Account Types option is selected, it is recommended to require users to complete a Captcha form to avoid the creation of spam users.
+Save Self Registration
+Click the Save button.

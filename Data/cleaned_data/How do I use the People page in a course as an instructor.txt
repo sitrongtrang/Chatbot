@@ -1,0 +1,41 @@
+How do I use the People page in a course as an instructor
+Open People
+In Course Navigation, click the People link.
+View People
+The People page displays all information about the users in your course. The page is designed with global settings at the top of the page followed by the generated user data.
+Search and Filter Users
+Global settings include searching and filtering by user data. To search for a specific user, type the user's name in the search field. 
+To filter by role, select the Roles drop-down menu. The filter will also display the number of users in each type of role (e.g. student). 
+You can also add a user to the course. 
+Manage Student Groups
+The People page also organizes all your student groups, where you can manage student groups. You can create groups to put students together to complete projects or other activities. Students can set up their own groups, which will allow them to work collaboratively.
+Manage Users
+To manage course-level user options, click the global Options drop-down menu. You can view user groups. User groups are the same as displayed in the global settings at the top of the page.
+You can view prior enrollments in the course. Prior enrollments are students who were previously enrolled in the course and their enrollments have been concluded. 
+You can also view a summary of all student interactions in your course. Interactions are recorded when you contact the student via Conversations or when you leave a comment on an assignment. 
+You can view registered services for each user in the course. If a person has registered a social media account in Canvas, you can see that service listed and communicate with that person through any social media site they have registered.
+You can export a list of pairing codes for all students in your course. Pairing codes are used to pair a student with an observer. This option only displays if self-registration is enabled at your institution and is only available for users with permission to generate observer pairing codes.
+View Users
+The People page orders users alphabetically by last name. Search and filter results display the following data:
+The user's name
+Login ID
+SIS ID—this column requires permission to view SIS IDs
+Section—may be enrolled in more than one section
+Role—displays the name of the user role
+Last Activity—displays the date and time of a user's most recent interaction in the course. This time stamp updates when a user navigates through the course using the Course Navigation menu, replies to a discussion or submits an assignment or quiz, and when they access course files and pages. Mobile actions may not display due to local device caching.
+Total Activity—allows you to see how long students interact within a course and counts page navigation only. Total activity time is displayed in hours:minutes:seconds. If a user has not yet reached an hour of activity, total activity time is displayed as minutes:seconds. Total Activity records any time spent viewing course content that exceeds two minutes. If the time between a new activity and the last completed activity is under ten minutes, all time between these two events will also be included. Total Activity does not include group activity or page views for videos that do not include intermediate page requests, such as a half-hour recorded lecture. To view specific page views for a student, view the student's course access report.
+Note: Viewing user details, including Login IDs and user email addresses, are course permissions. Depending on your permissions, you may not be able to view all available information in the People page. 
+View User Status
+You can also view the status for pending and inactive enrollments.
+Once a course is published, users receive an invitation to the course. Users who have not yet accepted the course invitation display a pending status. To resend course invitations for pending users, click the Resend link at the top of the page. 
+Users who are inactive in the course display an inactive status. The inactive status allows you to view a user's prior activity in the course but does not allow the student to access the course. 
+Note: If a section has been inactivated via SIS, an Inactive label displays next to the section name.
+View Context Card
+To view the context card for a student, click the student's name.
+Manage Users
+To manage a user in your course, click the Options icon. If you have permission in your course, you can resend course invitations and view user details. You may also be able to edit the user's course sections, edit the user's role, deactivate the user, or remove the user from the course.
+Manage Observers
+For Observer roles, you can also link an observer to a student. 
+View Student View
+To view the people page as a student, click the View as Student button.
+Note: If the course navigation link for the page is disabled and hidden from students, the View as Student button does not display.

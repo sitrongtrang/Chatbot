@@ -1,0 +1,209 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6AE1D220-1EFD-0135-6286-22000B5A851D" class="text-block-content">
+    <p>You can copy course content such as assignments, modules, pages, and discussions from previous Canvas courses into existing courses. You can also bulk migrate quizzes from Classic Quizzes to New Quizzes. </p>
+<p>You can only copy content from courses in which you are enrolled as a user whose role has the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Course-Role-Permissions/ta-p/387080#:~:text=cannot%20be%20unpublished.-,Course%20Content%20%2D%20add,-Default%20Role%20Status" target="_blank">Manage Course Content permission of Course Content - Add </a>enabled.</p>
+<p>The Import Course Content option allows you to copy content into existing courses. You may be able to <a href="/t5/Instructor-Guide/How-do-I-copy-a-Canvas-course-into-a-new-course-shell/ta-p/712" target="_blank">copy content into a new course shell</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Course imports may not include all content. For more details, please see the <a href="/t5/Canvas-Basics-Guide/What-is-the-Course-Import-Tool/ta-p/21" target="_blank">import content section</a> in the Canvas Basics Guide.</li>
+<li>Importing a course more than once may have unintended consequences. If you import content into a new course, edit the content in the new course, and later import the previous content again, the imported content will override the existing content.</li>
+<li>If you copy all content or include course settings in selected content, the grade posting policy from the original course will override the grade posting policy in the new course. The participation dates from the original course will override the participation dates in the new course. Additionally, imported assignments will retain their assignment posting policy and participation dates from the original course.</li>
+<li>When a course is copied that includes a new quiz with an item bank, the item bank is shared with the new course automatically.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="14d6883f-3291-44eb-8c4e-f1d1fd655d12">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/769/original/9a648ba9-5383-48f8-acc3-7ca89c4ef935.png" srcset="" alt="Open Settings" height="241" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AE2CCA0-1EFD-0135-6288-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_content_into_course" data-step-uuid="804033ef-0e85-4577-84ea-14c6f2b04b7a">
+    <h2 id="import_content_into_course" class="step-title screensteps-heading">Import Content into Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/803/original/3372f2df-a2d9-4254-96b4-0f4be80c0fd6.png" srcset="" alt="Import Content into this Course button" height="439" width="273">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AE39430-1EFD-0135-628A-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Import Course Content</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_content_type" data-step-uuid="78ea3ad7-f9ea-4556-9a97-f56c50b8d074">
+    <h2 id="select_content_type" class="step-title screensteps-heading">Select Content Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/794/original/cf256da0-960b-4bb7-bd2f-89d3bce5b27e.png" srcset="" alt="Import Content from Blackboard" height="117" width="486">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AE45BB0-1EFD-0135-628C-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Content Type</strong> drop-down menu, select the <strong>Copy a Canvas Course</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search_for_a_course" data-step-uuid="e86119d5-6351-4d64-a440-5e9871675102">
+    <h2 id="search_for_a_course" class="step-title screensteps-heading">Search for a Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/662/761/original/31d78aba-6c37-4517-a3ef-f9765ed95008.png" srcset="" alt="Select Institution" height="102" width="732">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AE53930-1EFD-0135-628E-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Search for a course</strong> drop-down menu [1], select the course you would like to access. Courses are ordered alphabetically by most recent term. You can also choose to include completed courses by selecting the <strong>Include completed courses</strong> checkbox [2], which is selected by default.</p>
+<p>To search for a course by name, enter the name in the <strong>Course Name </strong>field [3]. Click the name of the course when it appears.</p>
+<p><strong>Note: </strong>If you have access to more than 100 courses, the search page only displays the <strong>Course Name </strong>field.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_migration_content" data-step-uuid="91c883d7-70b5-4334-b269-d02c74e71592">
+    <h2 id="select_migration_content" class="step-title screensteps-heading">Select Migration Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/792/original/2774120c-4913-4c16-a1be-71cb1c23f2f3.png" srcset="" alt="Select Course" height="75" width="288">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AE623C0-1EFD-0135-6290-22000B5A851D" class="text-block-content">
+    <p>To import all content from the course, select the <strong>All content </strong>radio button [1]. </p>
+<p>If you want to <a href="/t5/Instructor-Guide/How-do-I-select-specific-content-as-part-of-a-course-import/ta-p/1091" target="_blank">select specific content</a>, click the <strong>Select specific content</strong> radio button [2]. </p>
+<p><strong>Note: </strong>If you select the specific content option, you are required to select the content you want to import after you review the remaining page options. After you start importing the content, the import selection cannot be canceled.  </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="import-existing-quizzes-as-new-quizzes" data-step-uuid="8dbe7b63-d27f-4716-9bb4-9af5c842ab73">
+    <h3 id="import-existing-quizzes-as-new-quizzes" class="step-title screensteps-heading">Bulk Migrate Existing Quizzes as New Quizzes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/741/466/original/8feafd90-739f-4056-b1ca-86c4a71a3f8c.png" srcset="" alt="Bulk Migrate Existing Quizzes as New Quizzes" height="57" width="330">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b4da6ae5-3eab-407f-bef9-0e405f7526fe" class="text-block-content">
+    <p>If allowed by your institution, you can bulk migrate existing quizzes into New Quizzes by clicking the <strong>Import existing quizzes as New Quizzes</strong> checkbox. </p>
+<p>If your institution enables the quiz migration feature, question banks linked via a question group in Classic Quizzes will migrate to New Quizzes. If the quiz migration feature is not enabled by your institution, questions from question banks must be individually added before migrating to New Quizzes.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>New Quizzes does not include a survey feature. Therefore, surveys migrated from Classic Quizzes come over as standard quizzes in New Quizzes.</li>
+<li>After migration to New Quizzes, multiple dropdown questions display as matching questions.</li>
+<li>Text No Question questions migrate to New Quizzes as Stimulus questions. An instructor must add a question in order for it to display in a quiz.</li>
+<li>Question groups with manually created questions will migrate as item banks in New Quizzes.</li>
+<li>If a quiz is migrated multiple times, Canvas uses smart merging to decipher the question bank content that should be retained. This process helps ensure all content is retained, such as in cases where multiple users may be making edits to a quiz at the same time.</li>
+<li>Practice quizzes from Classic Quizzes can be migrated to New Quizzes. Once migrated, by default, the practice quizzes are displayed as zero points possible and are hidden from the Gradebook and Grades page.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="adjust_events_and_due_dates" data-step-uuid="7eeca7b9-a30c-470d-b5a3-8817f1e22046">
+    <h2 id="adjust_events_and_due_dates" class="step-title screensteps-heading">Adjust Events and Due Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/805/original/1f1ebf1e-08e7-4c02-85a5-d161dc67e278.png" srcset="" alt="Select Course" height="55" width="307">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AE6E510-1EFD-0135-6292-22000B5A851D" class="text-block-content">
+    <p>If you want to <a href="/t5/Instructor-Guide/How-do-I-adjust-events-and-due-dates-in-a-course-import/ta-p/1090" target="_blank">adjust the due dates</a> associated with the course events and assignments, click the <strong>Adjust events and due dates</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-blueprint-course-settings" data-step-uuid="4d3f3ea1-3b6d-46e2-ace3-7b218cd827c3">
+    <h2 id="import-blueprint-course-settings" class="step-title screensteps-heading">Import Blueprint Course Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/301/223/original/2a14972b-a7dc-484f-85c9-6d711dbd0ad7.png" srcset="" alt="Import Blueprint Course Settings" height="50" width="266">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_71b906f6-0f76-44f5-a246-9c370f340b61" class="text-block-content">
+    <p>You can import settings from a blueprint course into another blueprint course. Importing blueprint settings applies the same lock preferences to objects as the original blueprint course. To import settings from a blueprint course, click the <strong>Import Blueprint Course Settings</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-content-import-warning-message" data-step-uuid="2b9c88c5-0c1a-49ad-83a0-645405c9bc0b">
+    <h2 id="view-content-import-warning-message" class="step-title screensteps-heading">View Content Import Warning Message</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/938/062/original/f3d22b90-f1d3-4785-94d9-e3ddccfede5f.png" srcset="" alt="View Content Import Warning Message " height="120" width="582">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7499e0fd-cf16-4399-94e0-f6765b921c10" class="text-block-content">
+    <p>When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_course" data-step-uuid="32359441-e7ee-40dc-8a41-abaf8c0730a6">
+    <h2 id="import_course" class="step-title screensteps-heading">Import Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/801/original/262d6c2d-009e-43cb-8f2a-c99052740220.png" srcset="" alt="Import Course" height="55" width="255">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AE7C680-1EFD-0135-6294-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Import </strong>button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_current_jobs" data-step-uuid="52afcb58-c714-447a-98a1-83b0312a9006">
+    <h2 id="view_current_jobs" class="step-title screensteps-heading">View Current Jobs</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/783/796/original/ed58b28a-ad7e-4be1-a921-bc7bd45af191.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/783/796/medium/ed58b28a-ad7e-4be1-a921-bc7bd45af191.png" srcset="" alt="Course Extraction Email" height="177" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AE89280-1EFD-0135-6296-22000B5A851D" class="text-block-content">
+    <p>The Current Jobs section displays the status of your import. Running reports display a progress bar indicating the time remaining to complete the import [1].</p>
+<p>If you chose to select specific content in your course, the current job will show as Waiting for Select [2], which means you must <a href="/t5/Instructor-Guide/How-do-I-select-specific-content-as-part-of-a-course-import/ta-p/1091" target="_blank">select the content you want to import</a>.</p>
+<p>The import may also display other status indicators as part of the import process. Learn more about <a href="/t5/Instructor-Guide/How-do-I-view-the-status-of-current-and-prior-course-imports/ta-p/1077" target="_blank">course import statuses</a>.</p>
+<p>View the content from any completed imports by accessing any link in Course Navigation.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

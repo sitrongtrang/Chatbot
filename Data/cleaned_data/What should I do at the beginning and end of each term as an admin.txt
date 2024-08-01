@@ -1,0 +1,10 @@
+What should I do at the beginning and end of each term as an admin
+Create Term
+At the beginning of the term, make sure the term is built. If there is no term, the courses have no home. Instructors should have access to the course(s) they are teaching before and after the term. Once the term is built, then most of the information that goes into the term will be automatically added. This information includes the SIS file with all the student information, sections, enrollments, and cross-listings.
+If your institution uses grading periods, you can associate a term with a grading period set. 
+Add Sections
+The next step is to add sections. This usually takes place via SIS files. The SIS Importer tells Canvas how to interpret the XML file that comes from the SIS file. Those XML files may include section and/or course information. To add a section manually, in Course Navigation, click the Settings link.
+Course Sections create a course short name by adopting the section name (ie: DS-101 section 001, that will a create a course with the name DS-101-001). Enrollments are automated and flow between the software and Canvas.
+Note: Sections are mobile. They are easily created and can move from term to term or course to course. Just be wary that if there are multiple sections (cross-listing), that the instructor knows to not start building the course until the information has been processed through Canvas. For courses with cross-listings (DS-101-001, DS-101-002, DS-101-003), Canvas pulls a random section to be the main one. For example, DS-101-003 is the section that Canvas pulls to be the live course which makes it the section that needs to be built. Otherwise, the hard work of the instructor won't be there in the live course. This is done by live events or manual batch uploads.
+End Term
+If course participation dates are associated with a specific term, the course should automatically conclude at the end of the term. Course dates can be set to extend past term dates if the course needs to extend past the term. Make sure the grades published correctly and continue to prepare for the next term.

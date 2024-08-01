@@ -1,0 +1,131 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_25D31D00-1D70-0135-80DE-22000BC102FE" class="text-block-content">
+    <p>In the Quotas tab, you can set default account quotas for courses, users, and groups. You can also set quotas by Course ID or Group ID.</p>
+<p>You can view the total number of files used across the entire account in <a href="/t5/Admin-Guide/How-do-I-view-statistics-for-an-account/ta-p/174" target="_blank">account statistics</a>.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Sub-account admins cannot manage user quotas.</li>
+<li>When an instructor copies a large course into a course shell, Canvas does not duplicate the course files and instead references the original files in Canvas. However, when an instructor uses the Course Import Tool to import a course larger than their allowed course quota, the import will fail. </li>
+<li>The child account will inherit the quota setting from the parent account and will be able to change it.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="cce54975-92a0-4120-8be7-850cb149b549">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_25D386D0-1D70-0135-80E0-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="30cb7a89-bd07-43dd-a5ea-d14ae7a9392e">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/262/original/abc874cb-c602-4ab6-8079-4c65f6d75be1.png" srcset="" alt="Open Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_25D3B5A0-1D70-0135-80E2-22000BC102FE" class="text-block-content">
+    <p>The settings portion of your account is only available to Canvas admins. </p>
+<p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quotas" data-step-uuid="6e5e2f1c-3409-4263-8728-743ff600d207">
+    <h2 id="open_quotas" class="step-title screensteps-heading">Open Quotas</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/577/067/original/46541e54-5758-47d6-958d-2d83ba29c862.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/577/067/medium/46541e54-5758-47d6-958d-2d83ba29c862.png" srcset="" alt="Open Quotas" height="66" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_25D45340-1D70-0135-80E4-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Quotas </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_default_account_quotas" data-step-uuid="b9f4b103-5ca5-4702-818a-af9c9c7eee90">
+    <h2 id="view_default_account_quotas" class="step-title screensteps-heading">View Default Account Quotas</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/577/069/original/2435ee33-0695-4d94-b877-c9bc51ab87ae.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/577/069/medium/2435ee33-0695-4d94-b877-c9bc51ab87ae.png" srcset="" alt="View Default Account Quotas" height="376" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_25D52C80-1D70-0135-80E6-22000BC102FE" class="text-block-content">
+    <p>In the Default Account Quota section, you can view the default quotas assigned to each course, user, and group [1].</p>
+<p>To change quotas, type a new number in the quota fields. Changing the quota will change the quotas for courses, users, and/or groups for the entire account. </p>
+<p>Click the <strong>Update</strong> button [2].</p>
+<p><strong>Note: </strong>Sub-account admins cannot manage user quotas.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_manually_settable_quotas" data-step-uuid="bba8e0a8-9958-4c71-a690-25dbe10ae68e">
+    <h2 id="find_manually_settable_quotas" class="step-title screensteps-heading">Find Manually Settable Quotas</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/601/881/original/4805c7ca-c27b-440d-b242-02808056bed9.png" srcset="" alt="Find Manually Settable Quotas" height="172" width="655">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_25D56530-1D70-0135-80E8-22000BC102FE" class="text-block-content">
+    <p>In the Manually Settable Quotas section, you can search for a course or group with a specific quota. In the ID field [1], select Course ID or Group ID. In the text field [2], enter the ID of the course or group. Click the <strong>Find</strong> button [3]. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The course ID is located at the end of your course URL (i.e. canvas.instructure.com/courses/XXXXXX , and the group ID is located at the end of the URL (i.e. canvas.instructure.com/courses/XXXXXX/groups/XXXXX). </li>
+<li>Manually Settable Quotas at parent level only apply to its own sub-accounts/courses</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="update_quota" data-step-uuid="89cfe842-6936-4d69-8a1c-ecd446589f15">
+    <h3 id="update_quota" class="step-title screensteps-heading">Update Quota</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/301/original/f4165076-acce-455d-9feb-d7fbb20be7f4.png" srcset="" alt="Update Quota" height="284" width="651">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_25D59D40-1D70-0135-80EA-22000BC102FE" class="text-block-content">
+    <p>Canvas displays the course or group and the quota [1]. To change the quota, enter a new number in the quota field. Click the <strong>Update Quota</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

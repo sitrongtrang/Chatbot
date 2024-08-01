@@ -1,0 +1,91 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4901B240-0990-0135-B577-22000BC102FE" class="text-block-content">
+    <p>When you integrate a student information system (SIS) in Canvas, In courses, only assignments are automatically configured to send grades to the SIS; graded discussions and quizzes have to be configured on a case-by-case basis. However, at the account level, you can configure all assignment types to be sent to your SIS automatically.</p>
+<p>Even after setting all assignments to be sent to the SIS, instructors can still manage assignments in their courses and manually remove individual assignments, graded discussions, or quizzes that they do not want to send to your SIS. Assignments can be managed from the Assignments page and Quizzes page, or they can be managed when creating an SIS assignment, SIS graded discussion, or SIS quiz. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Student information systems must be configured by your Customer Success Manager. </li>
+<li>If the New SIS Integration Settings feature option has also been enabled, you must enable SIS submissions through <a href="/t5/Admin-Guide/How-do-I-manage-student-information-system-SIS-integration/ta-p/103" target="_blank">SIS Integration Settings</a>.</li>
+<li>Learn more about feature previews in the <a href="/t5/Colder-Storage/What-feature-options-are-currently-available-for-an-entire/td-p/260084" target="_blank">account features lesson</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="88ab2dad-9688-49d2-bb36-77cad4b78a14">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4901E750-0990-0135-B579-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="8fb041c9-d534-4122-9f3c-f0f794e6a388">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/344/original/895dd702-7454-4d5a-beb0-b3ae946903d1.png" srcset="" alt="Open Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49021150-0990-0135-B57B-22000BC102FE" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configure_sis_grade_export_settings" data-step-uuid="bd02b548-0289-4df0-82a7-19a6c35b3412">
+    <h2 id="configure_sis_grade_export_settings" class="step-title screensteps-heading">Configure SIS Grade Export Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/807/original/f5e05ea1-cf2a-4974-933d-4a8094bf752e.png" srcset="" alt="Configure SIS Grade Export Settings" height="162" width="757">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49023E10-0990-0135-B57D-22000BC102FE" class="text-block-content">
+    <p>In the Account Settings tab, locate the SIS Grade Export Settings section.</p>
+<p>If you want to enable all course assignments, graded discussions, and quizzes to be sent to your SIS, click the <strong>Sync Grades to SIS...</strong> checkbox [1]. You can also apply the setting to sub-accounts by clicking the <strong>Lock this setting for sub-accounts </strong>checkbox [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_settings" data-step-uuid="747bf31f-487a-497a-b40a-a7ee06b52886">
+    <h2 id="update_settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/800/original/000d228a-1326-4ebc-861b-d0868543f498.png" srcset="" alt="Update Settings" height="84" width="199">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49026A40-0990-0135-B57F-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Update Settings </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

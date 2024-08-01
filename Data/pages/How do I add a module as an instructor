@@ -1,0 +1,130 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_52868080-2206-0135-3C75-22000AB760A3" class="text-block-content">
+    <p>Modules are used to organize course content by weeks, units, or whatever organizational structure works for your course. With modules, you are essentially creating a one-directional linear flow of what you would like your students to do. Once you create modules, you can <a href="/t5/Instructor-Guide/How-do-I-add-course-content-as-module-items/ta-p/1157" target="_blank">add content items</a>, <a href="/t5/Instructor-Guide/How-do-I-add-prerequisites-to-a-module/ta-p/1123" target="_blank">set prerequisites</a>, and <a href="/t5/Instructor-Guide/How-do-I-add-requirements-to-a-module/ta-p/1131" target="_blank">add requirements</a>.</p>
+<p><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Modules/ta-p/6" target="_blank">Learn more about Modules</a>.</p>
+<p><strong>Note:</strong> If the Course Home Page is set to modules, modules can be added and managed directly from the Course Home Page.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="D7E296C2-DD4F-4095-805C-D215946B522F">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/737/original/3f2cf7c9-3d9f-4a55-b659-27bade4901b4.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5286B390-2206-0135-3C77-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_module" data-step-uuid="6D6417BE-F533-49A0-8761-47040AA8933C">
+    <h2 id="add_module" class="step-title screensteps-heading">Add Module</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/336/275/original/8c0617ed-5b07-4c9f-ad7e-3e8d9e032d24.png" srcset="" alt="Add Module" height="63" width="535">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5286E530-2206-0135-3C79-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Module</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_module_name" data-step-uuid="F83BEFAA-C8FE-4146-86EA-FA22672A7BA7">
+    <h2 id="add_module_name" class="step-title screensteps-heading">Add Module Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/377/original/7e7ad7e5-ad95-4ef7-8346-c7bbedca4fc7.png" srcset="" alt="Add Module Name" height="339" width="508">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52871D30-2206-0135-3C7B-22000AB760A3" class="text-block-content">
+    <p>Type a name in the <strong>Module Name</strong> field.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="lock_module_date" data-step-uuid="9E38E19A-1BDC-4394-93B1-AE611A156217">
+    <h2 id="lock_module_date" class="step-title screensteps-heading">Lock Module Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/167/366/original/ff0b463f-c940-469f-b885-93e7e5c1f567.png" srcset="" alt="Lock Module Date" height="406" width="606">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52875080-2206-0135-3C7D-22000AB760A3" class="text-block-content">
+    <p>If you want to restrict the module until a specific date, you can <a href="/t5/Instructor-Guide/How-do-I-lock-a-module/ta-p/1124" target="_blank">lock the module</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_module_prerequisites" data-step-uuid="FB7D9D99-5C09-4BA2-B2E0-108A4A532913">
+    <h2 id="add_module_prerequisites" class="step-title screensteps-heading">Add Module Prerequisites</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/167/364/original/4dbc2a2f-c48d-4ca5-a3dd-7c8f43898ded.png" srcset="" alt="Add Module Prerequisites" height="406" width="606">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52878260-2206-0135-3C7F-22000AB760A3" class="text-block-content">
+    <p>If you have added at least one module to your course, you can require a <a href="/t5/Instructor-Guide/How-do-I-add-prerequisites-to-a-module/ta-p/1123" target="_blank">prerequisite module</a>. A prerequisite module means students must complete the added modules before they can view the new module.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_module_1" data-step-uuid="00EF94A6-5A24-4E30-85F1-849BA92C8D2B">
+    <h2 id="add_module_1" class="step-title screensteps-heading">Add Module</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/369/original/d01c7bd3-e1d5-4de8-bd6a-64c7088c79b9.png" srcset="" alt="Add Module" height="63" width="223">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5287B7A0-2206-0135-3C81-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Module</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_module" data-step-uuid="1312FD68-899F-4D80-88D6-DD2FC0F11E90">
+    <h2 id="view_module" class="step-title screensteps-heading">View Module</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/403/535/original/1438f765-e46d-4953-a351-91237785b499.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/403/535/medium/1438f765-e46d-4953-a351-91237785b499.png" srcset="" alt="View Module" height="318" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5287E8F0-2206-0135-3C83-22000AB760A3" class="text-block-content">
+    <p><span style="color:rgb(26,26,26);">View your created module.</span></p>
+<p><span style="color:rgb(26,26,26);">To add items to your module, click the <strong>Add</strong> icon [1] or drag and drop to add files to an empty module [2].</span></p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

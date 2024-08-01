@@ -1,0 +1,290 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_AFDF22E0-1E47-0135-7F19-22000AB760A3" class="text-block-content">
+    <p>When you <a href="/t5/Instructor-Guide/How-do-I-create-an-assignment/ta-p/740" target="_blank">create an assignment</a>, you'll add details for the assignment such as the description, file submission types, and point value.</p>
+<p>If you <a href="/t5/Instructor-Guide/How-do-I-create-an-assignment-shell-in-an-assignment-group/ta-p/974" target="_blank">create an assignment shell</a>, you must edit the assignment to add the assignment details.</p>
+<p>Assignment settings are persistent to always remember and display the settings created or edited in the previous assignment in the course. Please note that this feature only applies to settings; it does not include assignment due dates.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>When <a href="/t5/Instructor-Guide/How-do-I-use-grading-periods-in-a-course/ta-p/1030" target="_blank">Multiple Grading Periods</a> are enabled in a course, assignments are also respected against closed grading periods. Some attributes may not be available to editing.</li>
+<li>You may be able to <a href="/t5/Instructor-Guide/How-do-I-bulk-update-due-dates-and-availability-dates-as-an/ta-p/1195" target="_blank">edit due and availability dates for multiple assignments</a> at one time from the Assignments Index page. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="6B437532-7AE8-434B-9F17-129FBE9C45DF">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/742/820/original/0267f2a4-841f-431f-9262-097bbe30934e.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFDF5D20-1E47-0135-7F1B-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment" data-step-uuid="26BE7FB6-9DC5-4AAD-9C99-46575D88F524">
+    <h2 id="open_assignment" class="step-title screensteps-heading">Open Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/395/099/original/18b9e75b-a084-4c28-9134-e20fc816bf1b.png" srcset="" alt="Open Assignment" height="472" width="836">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFDF8F80-1E47-0135-7F1D-22000AB760A3" class="text-block-content">
+    <p>To open an existing assignment, click the Assignment name [1].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-create-an-assignment-shell-in-an-assignment-group/ta-p/974" target="_blank">create a new assignment</a>, click the <strong>Add Assignment </strong>button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_assignment" data-step-uuid="8D57A34F-4098-4C08-A270-888D3C5B2252">
+    <h3 id="edit_assignment" class="step-title screensteps-heading">Edit Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/023/755/original/49b725a8-ecd8-4c62-b211-f14ad02a2b25.png" srcset="" alt="Edit Assignment" height="58" width="202">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE0C090-1E47-0135-7F1F-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Edit </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_assignment_details" data-step-uuid="AB7FAC14-5D52-4EB4-859A-A797E56B0219">
+    <h2 id="edit_assignment_details" class="step-title screensteps-heading">Edit Assignment Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/239/168/original/66121079-6bfd-48bb-88f9-41087433cb5c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/239/168/medium/66121079-6bfd-48bb-88f9-41087433cb5c.png" srcset="" alt="Edit Assingment Details" height="691" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE0FFE0-1E47-0135-7F21-22000AB760A3" class="text-block-content">
+    <p>Type the assignment title in the <strong>Assignment Name</strong> field [1]. If you created your assignment as an assignment shell, this field will be populated for you, but you can change it if necessary.</p>
+<p>Use the Rich Content Editor to add images, text, links, equations, or insert media [2]. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>When a document is uploaded to the New Rich Content Editor from an assignment, the file is saved to the Uploaded Media folder in Course Files and defaults to hidden status. Students can view the file when the assignment is made available to them. <a href="/t5/Instructor-Guide/How-do-I-restrict-files-and-folders-to-students-in-Canvas/ta-p/610" target="_blank">Learn more about file availability</a>.</li>
+<li>When an assignment is created with no description, the assignment description displays default text explaining no additional details were added for the assignment.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/147/original/9a953ec5-8c6c-4157-920a-5f45ac8dc798.png" srcset="" alt="Assignment Points &amp; Groups" height="132" width="420">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE13E20-1E47-0135-7F23-22000AB760A3" class="text-block-content">
+    <p>Enter the points for your assignment in the <strong>Points</strong> field [1]. Select the Assignment Group for the assignment in the <strong>Assignment Group </strong>drop-down menu [2]. </p>
+<p>If you created your assignment as an assignment shell, the points field and Assignment Group will be populated for you. You can edit these if necessary. </p>
+<p><strong>Note:</strong> Points possible must be set to a number greater than zero for assignments with percentage, points, letter grade, or GPA grading types.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="change_points_possible" data-step-uuid="97700db0-032f-497b-b75f-a4af2fe84769">
+    <h3 id="change_points_possible" class="step-title screensteps-heading">Change Points Possible</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/149/original/5da44494-495b-45a8-ba25-d508e8c6765f.png" srcset="" alt="Change Points Possible" height="154" width="471">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE17190-1E47-0135-7F25-22000AB760A3" class="text-block-content">
+    <p>If you change the points possible for an existing assignment with graded submissions, you will need to regrade the assignment. This warning message applies to any grading type with assignment submissions, including changing points from or to zero. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_grading_type" data-step-uuid="1f5ed96c-5fa9-41a0-a39c-a9d936b16b36">
+    <h2 id="select_grading_type" class="step-title screensteps-heading">Select Grading Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/153/original/ebf4a5bb-d86b-412b-92a2-72ed5367fb4c.png" srcset="" alt="Select Grading Type" height="86" width="399">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE1AC00-1E47-0135-7F27-22000AB760A3" class="text-block-content">
+    <p>In the <strong>Display Grade as</strong> drop-down menu, select the method you want to use for grading. You can grade your assignment by percentage, complete/incomplete, points, letter grade, GPA scale, or set as not graded. </p>
+<p><strong>Note:</strong> The grading type is how the assignment score will display in the Gradebook. For example, an assignment worth 10 points is set to display as a percentage. A student who receives 8/10 points on the assignment will show as 80 in the Gradebook. If using a letter grade, learn how to create a <a href="/t5/Instructor-Guide/How-do-I-add-a-grading-scheme-in-a-course/ta-p/1054" target="_blank">grading scheme</a> and <a href="/t5/Instructor-Guide/How-do-I-add-a-grading-scheme-to-an-assignment/ta-p/1066" target="_blank">apply a grading scheme</a> to your assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_submission_type" data-step-uuid="BBDDC51F-F8EA-4CD8-8024-418AA9BDA729">
+    <h2 id="select_submission_type" class="step-title screensteps-heading">Open Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/380/613/original/aec0654d-e26e-4dd7-9952-6e8f93468c5d.png" srcset="" alt="Select Submission Type" height="337" width="515">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_32ca04de-c1b2-49be-9e18-b60d74e5d5df" class="text-block-content">
+    <p>By default, the Submission Type is set to Online for <a href="/t5/Instructor-Guide/How-do-I-create-an-online-assignment/ta-p/950" target="_blank">creating online assignments</a>. </p>
+<p>To change the submission type, click the <strong>Submission Type</strong> drop-down menu.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-submission-type" data-step-uuid="3a61210b-2255-43f6-bc15-a4c0ddd9beaf">
+    <h3 id="select-submission-type" class="step-title screensteps-heading">Select Submission Type</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/395/101/original/4d290d67-01fe-4950-92ba-9786a9c00cd2.png" srcset="" alt="Change Submission Type Default" height="161" width="522">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE1E100-1E47-0135-7F29-22000AB760A3" class="text-block-content">
+    <p>Select the type of submission you want to accept for the assignment:</p>
+<ul>
+<li>
+<strong>No Submission</strong> is when you do not want students to submit an assignment in Canvas. This assignment type can be used to create extra columns in the Gradebook, or when you want to create an assignment that involves multiple scores. <em>Submission Type does not apply to Not Graded assignments.</em>
+</li>
+<li>
+<strong>Online</strong> is when you want students to submit their assignments using Canvas through an online submission option. Learn more about <a href="/t5/Instructor-Guide/How-do-I-create-an-online-assignment/ta-p/950" target="_blank">creating an online assignment</a>. </li>
+<li>
+<strong>On Paper</strong> is when you want students to submit an assignment to you but not through Canvas. This assignment type applies to traditional face-to-face courses or hybrid courses when you want the assignment turned in during class, but you still want to create a column in the Canvas Gradebook for grading purposes.</li>
+<li>
+<strong>External Tool</strong> is when you want students to submit their assignments using an external app (LTI) enabled for your course. You must enter a URL for the external tool. Learn more about <a href="/t5/Instructor-Guide/How-do-I-add-an-assignment-using-an-external-app/ta-p/656" target="_blank">adding an assignment using an external application</a>.</li>
+<li>
+<strong>Lucid</strong> is when you want students to submit documents through Lucid EDU Suite, which includes apps such as Lucidchart and Lucidspark. If this option does not display, contact your Customer Success Manager. Learn more about <a href="/t5/Instructor-Guide/How-do-I-create-a-Lucid-assignment/ta-p/606354" target="_blank">creating a Lucid assignment</a>.</li>
+</ul>
+<p>Assignment settings are persistent; they default to the options you used when creating or editing the previous assignment in the course. Based on prior assignments, one or more of these options may already be selected for you. </p>
+<p><strong>Note</strong>: No Submission and On Paper assignments still appear to students on their Assignments page. To avoid confusion, it is best to make a note in the description about the assignment so students will know whether or not a submission is required and if so, how they are supposed to submit it.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-submission-attempts" data-step-uuid="e160e405-06ff-4312-98a2-58162fdfe31e">
+    <h2 id="select-submission-attempts" class="step-title screensteps-heading">Select Submission Attempts</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/181/431/original/4a4d843a-1cad-4d47-89f5-fe02f94a43ab.png" srcset="" alt="Select Submission Attempts" height="215" width="566">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ba68589e-d17a-4b9c-a634-aeb96927cb10" class="text-block-content">
+    <p>If you have selected the Online submission type, the number of allowed attempts is unlimited by default. However, you can <a href="/t5/Instructor-Guide/How-do-I-limit-submission-attempts-for-an-assignment/ta-p/878" target="_blank">limit submission attempts for the assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_group_assignment" data-step-uuid="888e218a-81ad-4ebf-8588-1aca94ec43ed">
+    <h2 id="create_group_assignment" class="step-title screensteps-heading">Create Group Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/155/original/56f4a9ff-e005-48fe-b608-b2adcbea35be.png" srcset="" alt="Create Group Assignment" height="261" width="536">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE21230-1E47-0135-7F2B-22000AB760A3" class="text-block-content">
+    <p>As part of an assignment submission, Canvas lets you set up an assignment as a <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-a-course-group/ta-p/633" target="_blank">group assignment</a>. You can also choose to grade students individually in group assignments.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="require_peer_reviews" data-step-uuid="ee7c351f-5581-4704-a765-106e4c3f3571">
+    <h2 id="require_peer_reviews" class="step-title screensteps-heading">Require Peer Reviews</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/157/original/90f906e5-b15b-4f41-83c9-b97005f821d5.png" srcset="" alt="Require Peer Reviews" height="528" width="509">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE30E60-1E47-0135-7F2D-22000AB760A3" class="text-block-content">
+    <p>If you want to require students review each other's work, you can <a href="/t5/Instructor-Guide/How-do-I-create-a-peer-review-assignment/ta-p/641" target="_blank">create a peer review assignment</a>. When requiring peer reviews, you can select whether to manually assign peer reviews or automatically assign peer reviews. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="allow_moderated_grading" data-step-uuid="da3f7dc3-5c97-40a7-9d70-12874c93932b">
+    <h2 id="allow_moderated_grading" class="step-title screensteps-heading">Allow Anonymous and Moderated Grading</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/742/594/original/58ec0eeb-02f8-4104-9cbe-c0ecf9223171.png" srcset="" alt="Allow Moderated Grading" height="254" width="589">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE34040-1E47-0135-7F2F-22000AB760A3" class="text-block-content">
+    <p>If you want to set up an assignment with additional reviews, you may be able to enable Moderated Grading, Anonymous Grading, or both. <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">Moderated grading</a> allows multiple graders to evaluate a student's work and create provisional grades. <a href="/t5/Instructor-Guide/How-do-I-add-an-assignment-that-includes-anonymous-grading/ta-p/769" target="_blank">Anonymous grading</a> hides student names from graders when they view assignment submissions in SpeedGrader. These options can be used together or independently.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-anonymous-instructor-annotations" data-step-uuid="f2b833db-89e3-4f1c-b160-90537b345f56">
+    <h2 id="select-anonymous-instructor-annotations" class="step-title screensteps-heading">Enable Anonymous Instructor Annotations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/389/452/original/31cedc20-3bcd-498f-9a07-493f9a5989d0.png" srcset="" alt="Enable Anonymous Instructor Annotations" height="80" width="532">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_659aa1aa-e5d2-460f-a214-1c1448659c80" class="text-block-content">
+    <p>If you want to assess submissions with DocViewer and make all instructor annotations and comments in DocViewer-supported submissions anonymous, select the <a href="/t5/Instructor-Guide/How-do-I-enable-anonymous-instructor-annotations-in-student/ta-p/665" target="_blank"><strong>Anonymous Instructor Annotations</strong></a> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_due_and_availability_dates" data-step-uuid="e7f9c34e-72a1-4a4a-9b1b-72a635757a21">
+    <h2 id="edit_due_and_availability_dates" class="step-title screensteps-heading">Edit Due and Availability Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/489/034/original/08f7a1f3-e2bb-4d2b-beaa-1154f32fd6cd.png" srcset="" alt="Edit Due and Availability Dates" height="348" width="472">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE3DD80-1E47-0135-7F31-22000AB760A3" class="text-block-content">
+    <p>By default, Canvas will set your assignment dates for everyone in your course [1]. </p>
+<p>Create a due date for the assignment in the <strong>Due Date </strong>field [2]. The due date will already be populated for you if you created an assignment shell, but you can change it if necessary. You also have the option to add <a href="/t5/Instructor-Guide/What-is-the-difference-between-assignment-due-dates-and/ta-p/897" target="_blank">availability date</a> fields [3].</p>
+<p>To assign the assignment to an <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-an-individual-student/ta-p/717" target="_blank">individual student</a> or <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-a-course-section/ta-p/914" target="_blank">course section,</a> click the <strong>Add</strong> button [4].</p>
+<p><strong>Note</strong>: If a date does not include a time, the listed date defaults to the <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">course’s default due time</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_assignment" data-step-uuid="211A9549-7865-4B80-BFED-D05BB831A5D4">
+    <h2 id="save_assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/752/151/original/9154a684-d5b6-469b-a14f-df9076a59e4f.png" srcset="" alt="Save Assignment" height="97" width="753">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AFE426B0-1E47-0135-7F33-22000AB760A3" class="text-block-content">
+    <p>If you want to notify users about any future assignment changes, click the <strong>Notify users that this content has changed</strong> checkbox [1]. Click the <strong>Save </strong>button [2]. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If your assignment has not yet been published, the assignment displays the <strong>Save &amp; Publish</strong> button. The Save button creates a draft of your assignment so you can publish it later.</li>
+<li>If you click the Notify users that this content has changed checkbox, only the students assigned to the assignment are notified of changes. Additionally, only students who have the Content Change <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Notifications/ta-p/387041" target="_blank">notification setting</a> enabled are notified of content changes.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

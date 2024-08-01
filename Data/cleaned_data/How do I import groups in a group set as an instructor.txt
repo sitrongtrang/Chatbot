@@ -1,0 +1,21 @@
+How do I import groups in a group set as an instructor
+Open People
+In Course Navigation, click the People link. 
+Add Group Set
+Click the Add Group Set button. 
+Save Group Set
+Add a name for the group set. Select the create groups later option. Then click the Save button. 
+Import Groups
+To import groups, click the Add Import button. 
+Download Course Roster CSV File
+On the Import Groups page, you can download a template CSV file by clicking the Download Course Roster CSV link. 
+Edit Course Roster CSV File
+The Course Roster CSV includes information for each student in the course where applicable, including student name, canvas user ID, user ID, login ID, sections, and group name.
+To assign students to a group, enter group names in the "group_name" column. 
+When you're finished editing, save the file as a CSV. 
+Upload CSV File
+On the Import Groups page, you can upload your CSV file by clicking and dragging the file or clicking the Upload CSV File area to browse files on your computer. 
+Monitor CSV File Upload
+A progress bar displays the status of the group creation. 
+View Groups
+Created groups display in the group set. 

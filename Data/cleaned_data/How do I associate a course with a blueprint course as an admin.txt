@@ -1,0 +1,45 @@
+How do I associate a course with a blueprint course as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Courses
+In Account Navigation, click the Courses link. 
+Note: When you open an account, the account defaults to the Courses page.
+Find Course
+To find courses in the account that are blueprint courses, click the Show only blueprint courses option. 
+Open Course Settings
+In the courses list, click the course Settings icon.
+Open Associations
+In the Course Home Page, click the Blueprint sidebar tab, then click the Associations link.
+Note: You can access the Blueprint sidebar from any Course Navigation page
+Filter Courses
+The Associations page displays any courses that are associated with the blueprint course. Once a course is associated with a blueprint course, it cannot be associated with any other blueprint course.
+To filter courses by term, click the Terms drop-down menu. To filter courses by subaccount, click the Subaccount drop-down menu. 
+You can also locate a specific course in the search field. Enter the title, short name (course code), or SIS ID for a course. Course nicknames are not supported in the search field. Deleted courses do not display in search results.
+View Search Results
+Once a term or subaccount is selected, the Courses list will expand and display all results in the selected term or subaccount. If an entry is added to the search field, the list will update with any relevant search results.
+Search results display the course title, short name (course code), term, SIS ID, and any teacher (instructor) enrollments.
+Notes: 
+Search results will display up to 100 courses. If you wish to associate more than 100 courses at a time, consider creating a CSV file to upload using the SIS import tool. 
+If six or more teachers are associated to a course, the Teacher(s) column displays the number of teachers.
+Add Courses
+To associate a course with the blueprint course, click the checkbox next to the course title. You can select multiple courses at one time, or you can select all courses by clicking the Select All Courses checkbox. 
+Current associated courses and courses to be added display in the Associated Courses section. To remove a course as an association, click the Remove icon.
+To publish courses selected for association, click the Publish upon association checkbox.
+Note: The Publish upon association checkbox will only publish courses in the To be Added list and will not publish courses that were already associated.
+View Unsynced Warning
+If you have unsynced changes in your blueprint course when you are associating a course, Canvas generates a warning to let you know the the unsynced changes will be synced to all associated courses.
+Save Courses
+Click the Save button.
+Confirm Courses
+View your associated changes were saved.
+Modify Associations
+You can add and save additional associated courses, if necessary. 
+To remove a course, click the Remove icon.
+When you are finished with course associations, click the Done button.
+View Sync
+After a course is associated with a blueprint course, the blueprint course will create an initial sync that includes all course content and course setting.
+Once a sync has started, the sidebar shows the sync status as long as you are viewing the page. You can leave the page, but know that the the sync may take a while to process. 
+Notes: 
+If you immediately view an associated course and don’t see any updates, the sync may still be in process. To confirm sync completion, enable the Blueprint sync notification in User Settings.
+Sync history will show the date and time the sync was made but no details will be included related to the sync.
+Only BluePrint master course content will sync with associated courses. Content that was manually added or copied using a different format will not sync.

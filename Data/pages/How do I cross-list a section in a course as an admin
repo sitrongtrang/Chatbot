@@ -1,0 +1,191 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7CC60FA0-18A6-0135-5532-22000BC102FE" class="text-block-content">
+    <p>Cross-listing allows you to move section enrollments from individual courses and combine them into one course. This feature is helpful for instructors who teach several sections of the same course and only want to manage course data in one location. Instructors can allow students to view users in other sections or limit them to only view users in the same section. Section names do not change when they are cross-listed; the section is just moved to another course.</p>
+<p>Cross-listing should be done while courses are unpublished. Coursework is retained with the course, not with the section enrollments, so if a published course is cross-listed, all cross-listed enrollments will lose any associated assignment submissions and grades. Conversations between users that were created before a section is cross-listed will not allow replies after cross-listing.</p>
+<p>To cross-list a course, you must know the name of the course or the course ID into which you are cross-listing. However, using a course ID is a better way to confirm you are cross-listing a section into the correct course. You can find the course ID by opening the course and viewing the number at the end of the browser URL (e.g. account.instructure.com/courses/XXXXXX). </p>
+<p>Sections can only be in one course at a time. Once a section is cross-listed, you can re-cross-list the section into another course if necessary. You can also <a href="/t5/Admin-Guide/How-do-I-de-cross-list-a-section-in-a-course-as-an-admin/ta-p/206" target="_blank">de-cross-list a section</a>.</p>
+<p>This article shows how to manually cross-list a section. However, cross-listing can also be done using SIS imports. For more information on cross-listing, <a href="https://community.canvaslms.com/t5/Video-Guide/Cross-Listing-Overview-Instructors/ta-p/395208" target="_blank">view the cross-listing video</a>.</p>
+<p><strong>Notes:</strong> Before you can cross-list a section, the course must contain at least one enrollment. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="a7ad2eef-3b30-47e4-8d7f-47a48a2708e0">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_61c0b48a-c2aa-424d-bb54-1d0c8bd46f37" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-courses" data-step-uuid="eca2cef7-a452-4a8c-b1f1-7408e23c907b">
+    <h2 id="open-courses" class="step-title screensteps-heading">Open Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/875/original/06bfbd4d-fbeb-43ea-ae87-4db6d8509ba4.png" srcset="" alt="Open Courses" height="306" width="166">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8a1da1d3-25df-4447-8110-8d26a44d5449" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Courses</strong> link. </p>
+<p><strong>Note:</strong> When you open an account, the account defaults to the Courses page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter_or_find_course" data-step-uuid="ea49abea-838c-48f7-ab8d-97c130e3e525">
+    <h2 id="filter_or_find_course" class="step-title screensteps-heading">Find Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/370/829/original/f0fab0de-e47a-44cc-92bf-d984fd09c9da.png" srcset="" alt="Find Course" height="101" width="748">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3d2aa869-2b92-4116-8f2d-737f0a66d171" class="text-block-content">
+    <p>To find the course in the account, use the filter and search options.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="a4f98920-b166-4b58-bf59-9e2b86ccb0ed">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/491/095/original/9d06f1d9-a243-43a0-ac2c-047b559e0a86.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/491/095/medium/9d06f1d9-a243-43a0-ac2c-047b559e0a86.png" srcset="" alt="Open Settings" height="82" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f71958da-d81e-48a4-ad88-86894e62a8f1" class="text-block-content">
+    <p>In the courses list, click the child course's <strong>Settings</strong> icon. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_sections" data-step-uuid="7396E681-0030-49C9-A8C7-F649A3C9CCEF">
+    <h2 id="open_sections" class="step-title screensteps-heading">Open Sections</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/095/original/b6abae87-862d-4144-be8a-4d37d18fc2ab.png" srcset="" alt="Open Sections" height="74" width="519">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7CC67DF0-18A6-0135-5536-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Sections</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_section" data-step-uuid="EA804450-6D4D-45CB-B059-09E2ED75B8A7">
+    <h2 id="open_section" class="step-title screensteps-heading">Open Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/845/174/original/7608f69b-de90-4d83-be58-fd29b97e0cfc.png" srcset="" alt="Open Section" height="159" width="534">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7CC6AE00-18A6-0135-5538-22000BC102FE" class="text-block-content">
+    <p>Click the title of the section you want to cross-list.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="cross_list_section" data-step-uuid="4387DBE8-E890-4F07-908F-C3A2F2272565">
+    <h2 id="cross_list_section" class="step-title screensteps-heading">Cross-List Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/091/original/65085abd-4496-4b4e-8bd3-7e47d3f8b50e.png" srcset="" alt="Cross-List Section" height="159" width="276">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7CC6DBE0-18A6-0135-553A-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Cross-List this Section</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search_for_course" data-step-uuid="3B30D2D5-AC94-4B13-A118-AE193300F709">
+    <h2 id="search_for_course" class="step-title screensteps-heading">Search for Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/093/original/6601d11b-e203-4b65-bac8-88ee8b147dd5.png" srcset="" alt="Search for Course" height="451" width="456">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7CC709A0-18A6-0135-553C-22000BC102FE" class="text-block-content">
+    <p>In the Search for Course field [1], enter the name of the course into which you are cross-listing. Or, in the Course ID field [2], enter the ID number for the course.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="cross_list_this_section" data-step-uuid="3d405bcf-b63d-4f74-9ad6-d694b5fbdce1">
+    <h3 id="cross_list_this_section" class="step-title screensteps-heading">Cross-List this Section</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/949/980/original/bc5e2112-83d5-42fd-9faa-62c251885822.png" srcset="" alt="Cross-List this Section" height="150" width="452">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7CC738F0-18A6-0135-553E-22000BC102FE" class="text-block-content">
+    <p>Confirm you have selected the correct course [1]. Click the <strong>Cross-List This Section </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm_cross_listing" data-step-uuid="C18C1F89-E9FE-47C3-9F96-4BA55039A98E">
+    <h2 id="confirm_cross_listing" class="step-title screensteps-heading">Confirm Cross-Listing</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/789/083/original/da41ef89-6d92-42c9-ba76-55d5a547032d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/789/083/medium/da41ef89-6d92-42c9-ba76-55d5a547032d.png" srcset="" alt="Confirm Cross-Listing" height="183" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7CC76930-18A6-0135-5540-22000BC102FE" class="text-block-content">
+    <p>The cross-listed section now appears in the new course. The breadcrumbs show the new course code.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="re_cross_list_section" data-step-uuid="04e1e531-7050-4526-9047-7962dc14603e">
+    <h2 id="re_cross_list_section" class="step-title screensteps-heading">Re-Cross-List Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/097/original/3cd5eaff-7828-414d-9b66-c28dddd0c988.png" srcset="" alt="Re-Cross-List Section" height="205" width="276">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7CC79560-18A6-0135-5542-22000BC102FE" class="text-block-content">
+    <p>Sections can only be in one course at a time. If you need to cross-list the section into a different course, click the <strong>Re-Cross-List this Section</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,124 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_a6e1ac23-32f3-4131-8975-ccd75749db30" class="text-block-content">
+    <p>Once you have authenticated through Postman or your API Client, you <a href="/t5/Admin-Guide/How-do-I-set-up-Canvas-Data-2-with-an-API-client-Postman/ta-p/560959" target="_blank">can set up Canvas Data 2</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>First you need to generate a Client ID and Secret.</li>
+<li>You need to know how to use an API client. This article uses Postman.</li>
+<li>You can also use a <a href="https://api-gateway.instructure.com/doc/" target="_blank" rel="nofollow noopener noreferrer">CURL script</a> to retrieve a token.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-canvas-data-2-identity-services" data-step-uuid="b3a26348-2b22-4670-9f73-c534e12c235b">
+    <h2 id="open-canvas-data-2-identity-services" class="step-title screensteps-heading">Generate Client Credentials via Identity Services</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/971/420/original/5a5c8aad-d4ef-4568-ac80-229921bd6f04.png" srcset="" alt="Open Canvas Data 2 Identity Services" height="636" width="513">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76521a22-4d5e-45f6-b657-173151591317" class="text-block-content">
+    <p>Before using a Postman, you need to <a href="/t5/Admin-Guide/How-do-I-generate-a-Canvas-Data-2-API-key/ta-p/560955" target="_blank">generate a Client ID and Secret for Canvas Data 2</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-new-authorization" data-step-uuid="fcbad957-f577-47f8-b1a2-72f05fbf0bbe">
+    <h2 id="add-new-authorization" class="step-title screensteps-heading">Add New Authorization Request</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/971/424/original/bf593a27-11b4-4aab-8128-020056f605d6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/971/424/medium/bf593a27-11b4-4aab-8128-020056f605d6.png" srcset="" alt="Add New Authorization" height="669" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_439940b5-3af5-4af7-9ac7-1a50cc05753a" class="text-block-content">
+    <p>In Postman, to add a new request, click the <strong>Add </strong>tab [1] and then click the <strong>Authorization </strong>tab [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-oauth-2-0" data-step-uuid="240edd1e-7193-4c06-bd7e-7ab70f18ee37">
+    <h2 id="select-oauth-2-0" class="step-title screensteps-heading">Select Authorization Type</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/985/809/original/260a6cd6-0178-489d-9691-7a6cf10742bf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/985/809/medium/260a6cd6-0178-489d-9691-7a6cf10742bf.png" srcset="" alt="Select Authorization Type" height="597" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b12a248c-7a45-4b67-86bb-95ce0cffa30c" class="text-block-content">
+    <p>In the <strong>Authentication</strong> <strong>Type </strong>drop-down menu [1], select the <strong>Basic Auth </strong>option [2].</p>
+<p><strong>Note:</strong> You can also use a <a href="https://api-gateway.instructure.com/doc/" target="_blank" rel="nofollow noopener noreferrer">CURL script</a> to retrieve a token.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configure-new-token" data-step-uuid="c99634ae-4d6f-47ba-a086-fe851543f8ec">
+    <h2 id="configure-new-token" class="step-title screensteps-heading">Enter User Credentials</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/990/253/original/a95525e1-0b4f-4c32-af1e-1da84e05ff2b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/990/253/medium/a95525e1-0b4f-4c32-af1e-1da84e05ff2b.png" srcset="" alt="Configure New Token" height="727" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c16a62de-b66d-41b2-a65e-1ba7fb8ed99a" class="text-block-content">
+    <p>Enter the user credentials:</p>
+<ul>
+<li>
+<strong>Username (Client ID) [1]</strong>: enter the developer key generated in Identity Services</li>
+<li>
+<strong>Password (Client Secret) [2]</strong>: enter the secret generated in Identity Services</li>
+</ul>
+<p>Select <strong>POST</strong> method as the request type [3], and set the following URL [4]:</p>
+<p><code><a href="https://api-gateway.instructure.com/ids/auth/login" target="_blank" rel="nofollow noopener noreferrer">https://api-gateway.instructure.com/ids/auth/login</a></code></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="generate-access-token" data-step-uuid="37df1f2a-1316-4652-802f-45dbae5c8d2a">
+    <h2 id="generate-access-token" class="step-title screensteps-heading">Generate Access Token</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/990/255/original/5afa2bb2-c537-43fc-879c-0d2a3afb907a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/990/255/medium/5afa2bb2-c537-43fc-879c-0d2a3afb907a.png" srcset="" alt="Generate Access Token" height="445" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_34a8d470-194d-4d55-b974-1bca9856db52" class="text-block-content">
+    <p>In the <strong>Body</strong> tab [1], select the<strong> x-www-form-urlencoded</strong> option [2]. In the <strong>KEY</strong> field, enter “grant_type”[3] and in the <strong>VALUE</strong> field, enter “client_credentials” [4].</p>
+<p>Click the <strong>Send</strong> button [5]. </p>
+<p>In case of successful authorization, you will receive the access token in the API response. You can use this short-lived token to send request to the CD2 API.</p>
+<p>For all available requests, check the <a href="https://api-gateway.instructure.com/doc/" target="_blank" rel="nofollow noopener noreferrer">Canvas Data 2 API Documentation.</a></p>
+<p>You can also use the preconfigured requests from the Postman collection described in the <a href="/t5/Admin-Guide/How-do-I-set-up-Canvas-Data-2-with-an-API-client-Postman/ta-p/560959" target="_blank">set up Canvas Data 2 in Postman</a> document.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,87 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_975BD480-22D5-0135-AD50-22000AB760A3" class="text-block-content">
+    <p>The test environment may not be available at your institution. To find out if your institution has access to a Canvas test environment, please contact your Canvas admin. If you cannot access the test environment at your institution, consider using the <a href="/t5/Instructor-Guide/How-do-I-access-the-Canvas-beta-environment-as-an-instructor/ta-p/727" target="_blank">beta environment</a> for testing purposes.</p>
+<p>In the test environment, you can test using your real data without messing up your live production environment. Here you can add users, test course content, and/or troubleshoot issues without ruining the experience for your users. The test environment inherits new and updated features added to the production environment on Monday after the production release. You can configure your test environment with production-ready features, such as access to your institution's login authentication system.</p>
+<p>If you want to keep up on the latest production features in Canvas, visit the <a href="https://community.canvaslms.com/community/answers/releases" target="_blank">Release Notes</a> page in the Canvas Community.</p>
+<p>The test environment is separate from the beta environment, which is overwritten with data from the production environment every week. The beta environment allows you to explore new features before they reach production. Learn more about the <a href="https://community.canvaslms.com/docs/DOC-1384-what-is-the-canvas-release-schedule-for-beta-production-and-test-environments" target="_blank">different Canvas environments</a>.  </p>
+<p>Notes about the Test Environment:</p>
+<ul>
+<li>All users can access the Canvas test environment, but students cannot access course content beyond the Dashboard; if you want to allow students to view all course content, please contact your local Admin.</li>
+<li>Notifications, including course invitations and report downloads, cannot be sent in the test environment.</li>
+<li>New Quizzes is not supported in the Canvas test environment.</li>
+<li>Any changes you want to keep in the test environment must be made directly within the production environment in order to affect live data.</li>
+<li>LTI tools (External Apps) are typically not available in the outside the production environment. LTI tools may display in the test environment, but often they are only configured for the production environment. Using production-configured LTI tools in the beta environment will affect live data. If you have permission to edit LTI tools, you can confirm the configuration for a specific LTI tool in your course or account. Please contact your Customer Success Manager for specific questions.</li>
+<li>Feature option settings are never copied from production and always retain their default settings. Feature options must be managed individually in the test environment.</li>
+<li>Viewing your recent Canvas course page view history is not supported in the Canvas test environment.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="access_your_test_environment" data-step-uuid="42A250A2-86C5-43EB-A7B7-02F884365225">
+    <h2 id="access_your_test_environment" class="step-title screensteps-heading">Access Your Test Environment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/596/442/original/Access_Your_Test_Environment.png" srcset="" alt="Access Your Test Environment" height="33" width="282">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_975C06B0-22D5-0135-AD52-22000AB760A3" class="text-block-content">
+    <p>To log into your test environment, type <strong>[organization name].test.instructure.com</strong> into the URL field. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_test_installation_message" data-step-uuid="63957B70-42F3-417F-9647-D8CB1E949BB4">
+    <h2 id="view_test_installation_message" class="step-title screensteps-heading">View Test Installation Message</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/856/735/original/ae86de4b-5d2c-4eec-942a-6b77a5993287.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/856/735/medium/ae86de4b-5d2c-4eec-942a-6b77a5993287.png" srcset="" alt="View Test Installation Message" height="441" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_975C3460-22D5-0135-AD54-22000AB760A3" class="text-block-content">
+    <p>Users in the test environment will see the Test Installation bar across the bottom of the screen indicating the user is in a Canvas Test Installation. Test environments are reset every month after the production release, and any changes you make in your test environment will be reset. If you want to save any course content created in your test environment, you can export your course. </p>
+<p><strong>Note: </strong>To hide the Test Installation bar, click the close icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_canvas_features" data-step-uuid="6dc7866b-be88-4828-af26-07d375eba328">
+    <h2 id="manage_canvas_features" class="step-title screensteps-heading">Manage Canvas Features</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/991/039/original/0b46d771-6277-4d15-9cba-aa4ebf3cc47c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/991/039/medium/0b46d771-6277-4d15-9cba-aa4ebf3cc47c.png" srcset="" alt="Manage Canvas Features" height="668" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_975C65D0-22D5-0135-AD56-22000AB760A3" class="text-block-content">
+    <p>Some new features may be released as opt-in only and will not appear until you enable them in your test environment. You can view these features in the Feature Options tab within Course Settings. Learn how to manage new features for an <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">individual course</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

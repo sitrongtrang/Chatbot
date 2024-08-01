@@ -1,0 +1,244 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_11E032E0-AAE2-0135-165D-06467EE270FA" class="text-block-content">
+    <p>The Gradebook includes several icons and colors that may display in the assignment columns, assignment groups, and Total column. </p>
+<p>Icons and colors are simply gradebook indicators to assist you with course grading. All published assignments count toward a student's total grade unless they are excused assignments. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submission_type_icons" data-step-uuid="11E04900-AAE2-0135-165E-06467EE270FA">
+    <h2 id="submission_type_icons" class="step-title screensteps-heading">Submission Type Icons</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/795/745/original/55bd00ef-c06f-4825-9b67-590576f8fea4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/795/745/medium/55bd00ef-c06f-4825-9b67-590576f8fea4.png" srcset="" alt="Submission Type Icons " height="194" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11E07590-AAE2-0135-1660-06467EE270FA" class="text-block-content">
+    <p>The Gradebook displays one <strong>Assignment Icon</strong> [1], regardless of assignment type, to note a submission that needs to be graded. A submission is noted as needing to be graded in the following conditions:</p>
+<ul>
+<li>A submission has been received but has not been graded</li>
+<li>A submission was graded but the grade was removed by the instructor</li>
+<li>An assignment or quiz was resubmitted</li>
+<li>A quiz was submitted in Classic Quizzes, but is not fully graded (contains questions that must be manually graded, or an auto-submitted quiz score has been deleted and needs to be reassigned); can also display if a quiz has been edited and includes major changes that affect the quiz score, such as deleting questions or deleting quiz answers, and requires a grader to manually resolve</li>
+</ul>
+<p>An <a href="/t5/Instructor-Guide/How-do-I-hide-grades-that-were-previously-posted-in-the/ta-p/721" target="_blank">assignment with grades hidden from students</a> is indicated by the <strong>Visibility </strong>icon [2]. Additional situations apply:</p>
+<ul>
+<li>When weighted assignment groups are not enabled, the total column also includes a warning icon notifying you that the grade you see differs from the grade the students see because student grades on one or more graded assignments are hidden.</li>
+<li>If an assignment column displays the visibility icon and all cells are grayed out, the assignment is moderated. </li>
+</ul>
+<p><strong>Note: </strong>The Assignment icon does not display for resubmitted discussions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="grading_types" data-step-uuid="11E08A60-AAE2-0135-1661-06467EE270FA">
+    <h2 id="grading_types" class="step-title screensteps-heading">Grading Types</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/795/747/original/e07eeaba-3d21-4b2b-9b60-449f72fc2efd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/795/747/medium/e07eeaba-3d21-4b2b-9b60-449f72fc2efd.png" srcset="" alt="Grading Types" height="238" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11E0B830-AAE2-0135-1663-06467EE270FA" class="text-block-content">
+    <p>Each grading type shows up differently in the Gradebook. Here you can see how each grading type is represented:</p>
+<ul>
+<li>
+<strong>Dash </strong>[1]: No submission </li>
+<li>
+<strong>Number</strong> [2]:<strong> </strong>Points grade</li>
+<li>
+<strong>Check Icon </strong>[3]:<strong> </strong>Complete grade</li>
+<li>
+<strong>X Icon</strong> [4]: Incomplete grade</li>
+<li>
+<strong>Letter</strong> [5]: Letter grade</li>
+<li>
+<strong>Percentage</strong> [6]: Percentage grade</li>
+<li>
+<strong>GPA</strong> [7]:<strong> </strong>GPA scale </li>
+<li>
+<strong>Excused </strong>[8]: Excused assignment</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="warning_icons" data-step-uuid="11E11680-AAE2-0135-1667-06467EE270FA">
+    <h2 id="warning_icons" class="step-title screensteps-heading">Column Warning Icons</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/749/original/35d215c7-4fbd-45e3-9d79-d02028577183.png" srcset="" alt="Warning Icons" height="339" width="718">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11E14240-AAE2-0135-1669-06467EE270FA" class="text-block-content">
+    <p>The <strong>Black Warning Icon </strong>[1]<strong> </strong>notifies you that the final score does not include one of the assignment groups because the group has zero points possible (the warning will tell you which assignment group is affected). This icon only displays in the total column related to assignment group errors. </p>
+<p>You can correct the assignment group warnings by making sure a weighted assignment group has an assignment worth more than zero points, or, if an assignment is supposed to have zero points, adding another assignment with more than zero points to the assignment group.</p>
+<p>The <strong>Red Warning Icon </strong>[2] notifies you that the entered grade is not supported in the grading scheme. Canvas will also display an invalid grade warning message when an invalid grade is entered.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="grade-detail-tray-warning-icon" data-step-uuid="dfff3a0a-b96e-4102-a6e6-0dac20b349b1">
+    <h2 id="grade-detail-tray-warning-icon" class="step-title screensteps-heading">Grade Detail Tray Warning Icon</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/437/980/original/dfc9a6a9-b38a-4263-b168-689b339b6c92.png" srcset="" alt="Grade Detail Tray Warning Icon" height="412" width="306">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d7c17511-5aa3-4f2d-b6d7-24dc1d3a85da" class="text-block-content">
+    <p>The <strong>Grade Detail Tray Warning Icon </strong>displays a warning icon for assignments that are not calculated as part of the final grade. This icon displays if the <strong>Do not count this assignment towards the final grade</strong> option is selected, or if the assignment is in a weighted assignment group with no weighted percentage.</p>
+<p>The Grade Detail Tray also reflects if assignment grades are hidden.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="visibility-icons" data-step-uuid="47c013b7-8050-4f26-afb1-bee46acfc182">
+    <h2 id="visibility-icons" class="step-title screensteps-heading">Visibility Icons</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/795/752/original/fd87d7a1-bdd7-4d9c-8e09-cbcadcc30500.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/795/752/medium/fd87d7a1-bdd7-4d9c-8e09-cbcadcc30500.png" srcset="" alt="Visibility Icons" height="224" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a4bec318-b2a0-411f-b92a-c8c068127481" class="text-block-content">
+    <p>If you have applied a <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-a-course-in-the/ta-p/588" target="_blank">manual posting policy in a course</a> or in <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-an-assignment-in-the/ta-p/574" target="_blank">an individual assignment</a>, the Manual label will display in the Gradebook. </p>
+<p>The <strong>Manual</strong> label [1] indicates that a manual posting policy is currently in place and future grades are hidden from student view or that a manual posting policy was previously used to hide grades in an assignment. If you have selected a manual posting policy for a course, all assignments that have hidden grades will display the Visibility icon.</p>
+<p>The <strong>Visibility</strong> icon [2] indicates that there are grades within the assignment that <a href="/t5/Instructor-Guide/How-do-I-post-grades-for-an-assignment-in-the-Gradebook/ta-p/576" target="_blank">must be posted</a> before they can be viewed by students.</p>
+<p>When grades are hidden from student view, the Total column also displays the <strong>Visibility</strong> icon [3] to indicate that the total grade in the Gradebook differs from the total grade viewed by the student.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="colors" data-step-uuid="11E158C0-AAE2-0135-166A-06467EE270FA">
+    <h2 id="colors" class="step-title screensteps-heading">Colors</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/754/original/ec88dbb0-f48e-4b7e-895c-438651b524f3.png" srcset="" alt="Colors" height="341" width="592">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11E181C0-AAE2-0135-166C-06467EE270FA" class="text-block-content">
+    <p>The Gradebook includes a default set of colors that indicate various statuses for assignments:</p>
+<ul>
+<li>Blue [1]: Late submission</li>
+<li>Red [2]: Missing submission</li>
+<li>Green [3]: Resubmitted assignment or quiz</li>
+<li>Orange [4]: Dropped grade</li>
+<li>Yellow [5]: Excused assignment</li>
+</ul>
+  </div>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5dae8cce-050d-4834-9048-70014684e614" class="text-block-content">
+    <p>Status colors in your Gradebook may vary, as you can <a href="/t5/Instructor-Guide/How-do-I-change-the-color-for-a-grading-status-in-the-Gradebook/ta-p/998" target="_blank">change the status colors</a> for each status in the Gradebook. However, you cannot change the status names.</p>
+<p>Gradebook rows alternate white and gray shading, so some colors may seem darker if they display in a row with gray shading.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Depending on your institution, you may be able to apply custom gradebook statuses.</li>
+<li>The resubmitted assignment color does not apply to resubmitted discussions.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="differentiated_assignments" data-step-uuid="11E0D1E0-AAE2-0135-1664-06467EE270FA">
+    <h3 id="differentiated_assignments" class="step-title screensteps-heading">Differentiated Assignments</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/756/original/4eed23e4-eb56-4483-b2bb-ff0d1a0bd132.png" srcset="" alt="Differentiated Assignments" height="340" width="600">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11E101E0-AAE2-0135-1666-06467EE270FA" class="text-block-content">
+    <p>When using differentiated assignments, the assignment appears as a column for all students, but grade cells are grayed out for students who are not part of the assignment and do not include a dash. Grades cannot be assigned to students who are not part of the assignment; those assignments are not factored into overall grades.</p>
+<p>In the student grades page, students can only view assignments that have been assigned to them.</p>
+<p>Differentiated assignments are also used in MasteryPaths.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="closed_grading_periods" data-step-uuid="11E197C0-AAE2-0135-166D-06467EE270FA">
+    <h3 id="closed_grading_periods" class="step-title screensteps-heading">Closed Grading Periods</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/758/original/2478148d-f4e1-4696-b124-595796829cf5.png" srcset="" alt="Closed Grading Periods" height="309" width="414">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11E1C3B0-AAE2-0135-166F-06467EE270FA" class="text-block-content">
+    <p>If your course uses multiple grading periods, submission cells for an entire assignment in a closed grading period are grayed out in the Gradebook. Assignments in a closed grading period cannot be edited.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unpublished-assignments" data-step-uuid="c7a10a92-bc6c-4f1b-af1f-ed5ac7380b84">
+    <h3 id="unpublished-assignments" class="step-title screensteps-heading">Disabled Columns</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/795/760/original/79f52c83-59d5-4f20-9271-6a65906f77a9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/795/760/medium/79f52c83-59d5-4f20-9271-6a65906f77a9.png" srcset="" alt="Disabled Columns" height="263" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f0ad87ac-0f51-4981-b4f6-44f523713f20" class="text-block-content">
+    <p>Some columns are completely disabled until the status of the assignment is changed. Disabled columns do not include dashes in the Gradebook cells, which indicates that grades cannot be entered, and display a gray background. </p>
+<p>Disabled columns are labeled for unpublished assignments [1] and anonymous assignments [2]. Grades cannot be entered for unpublished assignments until the assignment is published. For anonymous assignments, grade cells do not display any content, including the Needs Grading icons, until assignment grades are unhidden.</p>
+<p><strong>Note:</strong> Assignments that are both anonymous and moderated display as anonymous, though the Grade Detail Tray displays the assignments as being hidden. Moderated hidden assignments can be updated in the Gradebook, but any entered grades will be overwritten once final grades are posted.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="turnitin_icons" data-step-uuid="11E1D8A0-AAE2-0135-1670-06467EE270FA">
+    <h2 id="turnitin_icons" class="step-title screensteps-heading">Turnitin Icons</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/764/original/0f714ed5-ae04-415c-8699-27a1754fcc0a.png" srcset="" alt="Turnitin Icons" height="202" width="590">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11E20350-AAE2-0135-1672-06467EE270FA" class="text-block-content">
+    <p>If you create a Turnitin assignment, the Gradebook displays Turnitin score icons in the Gradebook. To view details of the score, click the icon and view more details in SpeedGrader:</p>
+<ul>
+<li>
+<strong>Gray icon</strong> [1]: Similarity Report has not been generated yet</li>
+<li>
+<strong>Color icon</strong> [2]: Similarity Report has returned a score; the color is based on the Similarity Report percentage score</li>
+<li>A Clock icon indicates the Similarity Report is still being generated</li>
+<li>An Exclamation icon indicates there was an error when generating the Similarity Report</li>
+</ul>
+<p><a href="https://help.turnitin.com/feedback-studio/turnitin-website/student/the-similarity-report/interpreting-the-similarity-report.htm" target="_blank" rel="nofollow noopener noreferrer">Learn more about the Turnitin Similarity Report.</a></p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,168 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_80D8A480-0833-0135-2FD9-22000AB760A3" class="text-block-content">
+    <p>Some Canvas features are optional or new and can be turned on or off. This lesson gives an overview of how to manage feature options at the course level. On the course level, you may have the option to implement features on a course-by-course basis. Instructors have no control over user-level features. To view the specific course-level feature options available in Canvas, visit the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Feature-Option-Summary/ta-p/531316" target="_blank">Canvas Feature Option Summary resource document</a>.</p>
+<p>In order for a feature to appear for a course, the feature must be unlocked for your institution by a Canvas admin.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Feature option settings are never copied from production and always retain their default settings. Feature options must be managed individually in the <a href="/t5/Instructor-Guide/How-do-I-access-the-Canvas-test-environment-as-an-instructor/ta-p/739" target="_blank">test</a> and <a href="/t5/Instructor-Guide/How-do-I-access-the-Canvas-beta-environment-as-an-instructor/ta-p/727" target="_blank">beta</a> environments.</li>
+<li>Some feature options may not be available in Free-for-Teacher accounts. Please view the <a href="http://bit.ly/cnvs-accounts" target="_blank" rel="nofollow noopener noreferrer">Canvas Account Comparisons resource document</a>.</li>
+<li>You can also manage some course functionality by <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">setting details for a course</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_settings" data-step-uuid="147df194-83ef-48e9-90c7-b5d2f2ae839e">
+    <h2 id="open_course_settings" class="step-title screensteps-heading">Open Course Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/177/original/809530a0-a3d5-41a5-8e31-46c8d5fa2694.png" srcset="" alt="Open Course Settings" height="275" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_80DA1410-0833-0135-16BE-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_feature_options_tab" data-step-uuid="6916fd0d-6630-4b65-ac08-f4610c56937f">
+    <h2 id="open_feature_options_tab" class="step-title screensteps-heading">Open Feature Options Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/976/407/original/07d85827-4381-4aea-a579-2e8d4dee9c46.png" srcset="" alt="Open Feature Options Tab" height="82" width="744">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_80DA4AB0-0833-0135-16C0-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Feature Options </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_feature_options" data-step-uuid="b3d41436-840e-42ad-a2aa-840b03dacf83">
+    <h2 id="view_feature_options" class="step-title screensteps-heading">View Feature Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/249/195/original/47bb879d-37b4-4f2f-956e-953573c6d944.png" srcset="" alt="View Feature Options" height="374" width="757">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_80DA88B0-0833-0135-16C2-22000AB760A3" class="text-block-content">
+    <p>In the Feature Options tab, a list of available feature options displays. Features are only available if they are enabled for your institutions account by an admin.</p>
+<p>Each course feature includes a feature description. Click the arrow icon next to the feature to expand the feature box and display the description.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="filter-feature-options" data-step-uuid="f1c9b10c-5616-4349-b5ac-133215d43bfa">
+    <h3 id="filter-feature-options" class="step-title screensteps-heading">Filter Feature Options</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/249/198/original/c956ff04-7446-4eb3-92bd-524e77f1808c.png" srcset="" alt="Filter Feature Options" height="178" width="196">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_498baee3-b5ac-4142-b0ed-27e3220b7f6c" class="text-block-content">
+    <p>To filter by all features, enabled features or disabled features, click the <strong>Filter</strong> drop-down menu.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="search-feature-options" data-step-uuid="042ae66c-e77d-45f9-a182-aae694ec7673">
+    <h3 id="search-feature-options" class="step-title screensteps-heading">Search Feature Options</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/382/258/original/fcc61465-421d-4a3c-bc43-ee4dcf52c858.png" srcset="" alt="Search Feature Options" height="62" width="244">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e2d78ca2-3958-4744-ac8a-f768b7ec33e7" class="text-block-content">
+    <p>To search for a feature option, type a keyword in the <strong>Search</strong> field. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_feature_tags" data-step-uuid="4761d84a-d7b5-4461-8fa2-a36130934e71">
+    <h3 id="view_feature_tags" class="step-title screensteps-heading">View Feature Tags</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/976/411/original/61c7c987-60bc-4d97-bb4b-4276a12b7149.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/976/411/medium/61c7c987-60bc-4d97-bb4b-4276a12b7149.png" srcset="" alt="View Feature Tags" height="129" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5398804e-f9b4-4a52-8ed3-4848289106ae" class="text-block-content">
+    <p>Feature tags help identify the state of each feature. A feature with no label means the feature is stable and ready for use in your production environment [1]. </p>
+<p>Features may also include a <strong>Feature Preview</strong> tag [2], which means the feature is in active development. You can opt-in to the feature and join the Community user group to help improve the feature through direct feedback. Access to the user group is noted in the description of the feature option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_feature_access" data-step-uuid="335c5336-4174-4727-aa0f-60eb6f003fba">
+    <h2 id="view_feature_access" class="step-title screensteps-heading">View Feature States</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/976/414/original/60d3275a-dcfd-4b46-8811-95037be2b6e9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/976/414/medium/60d3275a-dcfd-4b46-8811-95037be2b6e9.png" srcset="" alt="View Feature States" height="127" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_80DAFCC0-0833-0135-16C6-22000AB760A3" class="text-block-content">
+    <p>Each feature displays a feature state as set by your admin.</p>
+<p>Enabled features display an <strong>Enabled</strong> icon [1].</p>
+<p>Disabled features display a <strong>Disabled</strong> icon [2]. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Features states that have been locked by an admin will not display in the course Feature Options list. </li>
+<li>Course features are activated on a course-by-course basis.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_allowed_feature" data-step-uuid="85d02a63-6729-4901-a95e-1a01fc6eb417">
+    <h3 id="view_allowed_feature" class="step-title screensteps-heading">Manage Feature States</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/976/416/original/dc13e315-25e7-41cb-ae73-cd90b2b40e5c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/976/416/medium/dc13e315-25e7-41cb-ae73-cd90b2b40e5c.png" srcset="" alt="Manage Feature States" height="174" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_80DB6950-0833-0135-16CA-22000AB760A3" class="text-block-content">
+    <p>To enable or disable an unlocked feature, click the feature's <strong>State</strong> icon [1].</p>
+<p>To enable the feature, click the <strong>Enabled</strong> option [2].</p>
+<p>To disable the feature, click the <strong>Disabled</strong> option [3].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Features states that have been locked by an admin will not display in the course Feature Options list.</li>
+<li>Depending on feature functionality, when you enable a feature to On, Canvas <em>may</em> display a warning message asking to confirm your option, as some course features may have unintended consequences if turned Off.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

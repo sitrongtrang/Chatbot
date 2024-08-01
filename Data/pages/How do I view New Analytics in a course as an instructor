@@ -1,0 +1,258 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--warning screensteps-wrapper">
+  <div id="text-content_42aef837-f80c-4f62-919f-eae56d23da63" class="text-block-content">
+    <p>In the beta environment only, Course Analytics data is pulled from Canvas Data 2 (CD2)/Data Access Platform (DAP). All data will be migrated to CD2/DAP on August 1, 2024. You can migrate your data to CD2/DAP before August 1, 2024 by contacting your administrator.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_f5111ab7-d982-4813-85c8-77e9c906ba5e" class="text-block-content">
+    <p>Student analytics show you how well a particular student is doing in your course. You can view analytics in both active and concluded courses. Only active and completed student enrollments are included in data for New Analytics. Deleted or inactive user enrollments will not generate data.</p>
+<p>Available analytics include course grade, weekly online activity, and communication. By default, the analytics page displays an interactive chart graph of all data. However, you can view data within a table at any time.</p>
+<p><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-New-Analytics/ta-p/73" target="_blank">Learn more about New Analytics</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If you cannot view the New Analytics link in Course Navigation, you may have to make the link visible via the Navigation tab in Course Settings. If the New Analytics link is not available in the Navigation tab, your institution has disabled this feature.</li>
+<li>Data is refreshed in New Analytics every 24 hours. Please confirm the time data was last updated in the course, as content may be outdated compared to recent course activity and student submissions.</li>
+<li>In order for New Analytics to display in Canvas, third-party cookies may need to be enabled in your browser settings.</li>
+<li>Because mobile page view data is based on device settings and network connection, it may vary from the time the page views actually occurred. Page view data should not be used to assess academic integrity.</li>
+<li>Weekly Online Activity displays in a Monday-Sunday format.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-course" data-step-uuid="aa7739eb-4097-4a56-8f53-28c4d21d1719">
+    <h2 id="open-course" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/746/original/99c83ae9-9b12-42f9-b2e9-b795da78de66.png" srcset="" alt="Open Course" height="476" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f493812b-e557-4fd5-85d7-3d4281737119" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-analytics-beta" data-step-uuid="1a81d388-b547-4e32-a60f-2f47d0c37ea9">
+    <h2 id="open-analytics-beta" class="step-title screensteps-heading">Open New Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/189/original/12f91b4f-1d3a-4405-a5d2-8e3c4ce12ecd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/189/medium/12f91b4f-1d3a-4405-a5d2-8e3c4ce12ecd.png" srcset="" alt="Open New Analytics" height="514" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2d645b0a-1576-403d-8d0b-1f982a9dced7" class="text-block-content">
+    <p>To open New Analytics, click the <strong>New Analytics</strong> link in Course Navigation [1] or click the <strong>New Analytics</strong> button in the Course Home Page [2].</p>
+<p><strong>Note</strong>: If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-data-status" data-step-uuid="5bc92f3a-a14b-43f0-8bf3-2b553a6ea2d0">
+    <h2 id="view-data-status" class="step-title screensteps-heading">View Data Status</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/191/original/54275b71-128d-4147-8f2d-4c6147edbab2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/191/medium/54275b71-128d-4147-8f2d-4c6147edbab2.png" srcset="" alt="View Data Status" height="198" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b4688ebf-1124-4b11-af77-322e1c5308b9" class="text-block-content">
+    <p>If the course has been concluded, the analytics page includes a Concluded label. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-weekly-online-activity-graph" data-step-uuid="3c864148-0835-41f9-b037-832722a99062">
+    <h2 id="view-weekly-online-activity-graph" class="step-title screensteps-heading">View Weekly Online Activity Graph</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/193/original/ce19693f-6a88-4a99-94f2-beaa8f00af55.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/193/medium/ce19693f-6a88-4a99-94f2-beaa8f00af55.png" srcset="" alt="View Weekly Online Activity Graph" height="708" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2f02eae1-3bf0-4bd1-b78f-a8f4ae382520" class="text-block-content">
+    <p>To view the student's weekly online activity, click the <strong>Weekly Online Activity</strong> tab [1]. </p>
+<p>Data is displayed as a chart with two rows: average page views [2] and average participations [3]. The following actions will generate participations:</p>
+<ul>
+<li>Announcements: posts a new comment to an announcement</li>
+<li>Assignments: submits an assignment</li>
+<li>Collaborations: loads a collaboration to view/edit a document</li>
+<li>Conferences: joins a web conference</li>
+<li>Discussions: posts a new comment to a discussion</li>
+<li>Pages: creates a page</li>
+<li>Quizzes: submits a quiz</li>
+<li>Quizzes: starts taking a quiz</li>
+</ul>
+<p>Data for the week that is currently in progress is indicated by a dotted line [4].</p>
+<p>To download a CSV of the weekly online activity data, click the <strong>Download</strong> button [5].</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The definition of participation is based on <a href="https://ifap.ed.gov/sites/default/files/attachments/2020-01/1920AppendixA.pdf" target="_blank" rel="nofollow noopener noreferrer">federal guidelines related to student attendance as applicable to online courses</a>. Please note that because communication between students and teachers often happens outside of the LMS, it is not included as a participation metric. However, as part of the Course Analytics offering, a history of inbox messages sent between students and instructors is included so that it can be viewed alongside participation metrics.</li>
+<li>Student participation data using external tools is not supported.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-weekly-online-activity-data-table" data-step-uuid="8406b508-a042-4ad1-9aba-a459c9bee843">
+    <h3 id="view-weekly-online-activity-data-table" class="step-title screensteps-heading">View Weekly Online Activity Data Table</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/197/original/444872ef-ff75-49e4-b7fa-11354cba59f3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/197/medium/444872ef-ff75-49e4-b7fa-11354cba59f3.png" srcset="" alt="View Weekly Online Activity Data Table" height="370" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6b9bdc38-e1da-40bf-b22a-81cac9690638" class="text-block-content">
+    <p>To view weekly online activity in a table, click the <strong>Options</strong> icon [1] and select the <strong>Data Table</strong> option [2]. The data table shows the week start date [3], number of page views [4], and number of participations [5].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-student-analytics" data-step-uuid="f212ab59-052c-4ac3-a225-cd9704c1e2b9">
+    <h2 id="open-student-analytics" class="step-title screensteps-heading">Open Student Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/201/original/30dc8968-79ae-411c-b877-b9413a2eb265.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/201/medium/30dc8968-79ae-411c-b877-b9413a2eb265.png" srcset="" alt="Open Student Analytics" height="560" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_180bd959-1271-4b79-9ca7-b68383369e40" class="text-block-content">
+    <p>To view analytics for all students in your course, click the <strong>Students</strong> tab [1].</p>
+<p>To view analytics for one student in your course, click the name of the student [2].</p>
+<p>To locate a student, you can sort the table by student name [3], or any other column header [4].</p>
+<p>The analytics table is paginated so you can view more students if you continue to scroll to the bottom of the page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-student-information" data-step-uuid="6e31703a-3cd9-4d64-a4e5-57648a853d08">
+    <h2 id="view-student-information" class="step-title screensteps-heading">View Student Information</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/864/822/original/630bc2b7-205a-48da-978e-705034e2f827.png" srcset="" alt="View Student Information" height="152" width="379">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_96360bb0-522b-4b91-9354-4a5b89db20cd" class="text-block-content">
+    <p>When viewing analytics for an individual student, you can view the student's name and send a message to the student [1]. </p>
+<p>To return to course analytics, click the <strong>Course Analytics</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-course-grade-chart-graph" data-step-uuid="337fac4d-96d6-4272-a4be-5e2198f8e49f">
+    <h2 id="view-course-grade-chart-graph" class="step-title screensteps-heading">View Course Grade Chart Graph</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/204/original/5fb29096-8507-4c4e-a394-5019175582cb.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/204/medium/5fb29096-8507-4c4e-a394-5019175582cb.png" srcset="" alt="View Course Grade Chart Graph" height="496" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9e339b00-0fb5-43a4-a1ad-84129ea59d0e" class="text-block-content">
+    <p>By default, the student analytics opens to the <strong>Course Grade</strong> tab [1]. The Course Grade chart graph shows the submission status and grade for all the assignments in the course. The student's current course grade is shown above the chart graph [2]. </p>
+<p>The x-axis displays an icon to indicate if the activity is an assignment, quiz, or discussion. The y-axis indicates the grade percentage.</p>
+<p>A solid dot in the chart represents a graded assignment [3] and an empty dot represents an ungraded assignment [4]. Click any dot to view more details about the assignment.</p>
+<p>To download a CSV of the course grade data, click the <strong>Download</strong> button [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-course-grade-data-table" data-step-uuid="e50c34d2-9e83-4b2d-b673-d148475bd356">
+    <h3 id="view-course-grade-data-table" class="step-title screensteps-heading">View Course Grade Data Table</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/122/624/original/8e66a37f-3e59-4bcf-9c40-29465682ac9e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/122/624/medium/8e66a37f-3e59-4bcf-9c40-29465682ac9e.png" srcset="" alt="View Course Grade Data Table" height="405" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5ca69e91-904c-4006-a6e1-a2a30bae50eb" class="text-block-content">
+    <p>To view course grade data in a table, click the <strong>Options</strong> icon [1] and select the <strong>Data Table</strong> option [2]. The data table shows the assignment name [3], due date [4], submitted date [5], status [6], and grade [7]. The table can be sorted by clicking any column heading. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-communication-graph" data-step-uuid="c4e79c91-4809-415d-8545-47e96ad47a67">
+    <h2 id="view-communication-graph" class="step-title screensteps-heading">View Communication Graph</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/875/015/original/da6e9e28-dc33-4b27-9c07-86965e6665dc.png" srcset="" alt="View Communication Graph" height="786" width="769">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7922025f-e2e1-46af-a1df-3c68363e6d92" class="text-block-content">
+    <p>To view an overview of messages, click the <strong>Communication</strong> tab [1]. The Communication graph shows the number of conversations that have taken place between the student and instructor(s) in the Canvas Inbox. The total number of messages sent by students and instructors is displayed above the graph [2]. </p>
+<p>The x-axis shows the date range and the y-axis shows the number of messages sent. Student and instructor messages are differentiated by different colors. To improve contrast in the chart, click the <strong>Chart Options</strong> icon [3] and select the <strong>Display Shapes</strong> option [4].</p>
+<p>To view the details of the bar graph, hover over the specific bar you want to view. You can view the total number of messages sent for the date range. Click the bar to view the specific days and number of messages that were sent in the range.</p>
+<p>To download a CSV of the communication data, click the <strong>Download</strong> button [5].</p>
+<p> </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-communication-data-table" data-step-uuid="bd09188f-9e96-4f84-8006-6b39edaec978">
+    <h3 id="view-communication-data-table" class="step-title screensteps-heading">View Communication Data Table</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/875/026/original/7b484683-8d46-49bc-9b68-46430af438d8.png" srcset="" alt="View Communication Data Table" height="294" width="773">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7793dfd2-6b56-4a0f-ae7b-48232e0afb00" class="text-block-content">
+    <p>To view Communication activity in a table, click the <strong>Options</strong> icon [1] and select the <strong>Data Table</strong> option [2]. The data table shows the week start date [3], number of student messages [4], and number of instructor messages [5]. The table can be sorted by clicking any column heading.</p>
+<p>To view details of a specific date range, click the date [6]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-online-attendance-report" data-step-uuid="5e4cfa2f-4778-4cf8-8543-8fc41d34d34f">
+    <h2 id="view-online-attendance-report" class="step-title screensteps-heading">View Online Attendance Report</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/207/original/380336c6-9b77-4069-8cf9-5d9a2e0cf429.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/207/medium/380336c6-9b77-4069-8cf9-5d9a2e0cf429.png" srcset="" alt="View Online Attendance Report" height="497" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7b48a626-9767-4ad0-960f-7a8f3d4b8692" class="text-block-content">
+    <p>If enabled by your institution, you can also <a href="/t5/Instructor-Guide/How-do-I-view-the-Online-Attendance-report-in-New-Analytics/ta-p/478617" target="_blank">view an Online Attendance report</a> that indicates if students have met online attendance criteria for designated class days. Online attendance criteria is managed by your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

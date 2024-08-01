@@ -1,0 +1,121 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_001B10A0-22F5-0135-A510-22000B5A851D" class="text-block-content">
+    <p>The Conferences page allows you to view all the conferences within a course. As a student, you can join conferences where you have been invited to participate. </p>
+<p>In student groups, you can create new conferences, start conferences, and manage concluded conferences.</p>
+<p><strong>Note:</strong> Creating a conference is a course permission. If you cannot create a conference, your institution has restricted this feature.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_conferences" data-step-uuid="d2155d38-049f-4289-a4a5-8ff9a1a89d2d">
+    <h2 id="open_conferences" class="step-title screensteps-heading">Open Conferences</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/957/951/original/d36148da-6fb7-4fc2-8169-94b807b095b4.png" srcset="" alt="Open Conferences" height="262" width="160">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_001B4970-22F5-0135-A512-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the link for your web conferencing tool. The link name reflects the conferencing tool used by your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_conferences" data-step-uuid="11423258-f7e3-4e02-ab72-31532b5b9b7b">
+    <h2 id="view_conferences" class="step-title screensteps-heading">View Conferences</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/280/original/7bfec5dc-6b8d-4d44-80e7-59bcc1b4a92a.png" srcset="" alt="View Conferences" height="658" width="839">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_001B8190-22F5-0135-A514-22000B5A851D" class="text-block-content">
+    <p>You can view conferences where you have been invited to participate.</p>
+<p>Conferences are grouped in two parts: New Conferences [1] and Concluded Conferences [2]. Both always display the conference name [3] and description [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_new_conferences" data-step-uuid="7c7b75cb-2b0b-4b69-a6e5-52d3580103b1">
+    <h2 id="view_new_conferences" class="step-title screensteps-heading">View In Progress Conference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/284/original/3af1c3ee-e137-4140-bf68-469703f2b401.png" srcset="" alt="View In Progress Conference" height="230" width="818">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_001BB3E0-22F5-0135-A516-22000B5A851D" class="text-block-content">
+    <p>New conferences will be listed in the index, but they cannot be accessed until the host has started the conference. When the conference is available, click the <strong>Join</strong> button [1]. Once the conference has started, the conference status shows as in progress [2]. </p>
+<p>You can join the conference for as long as the Join button is available. Some conferences only allow you to join the conference for a specific amount of time.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_concluded_conferences" data-step-uuid="0fabb2cb-7f2e-436b-b893-684db57c0329">
+    <h2 id="view_concluded_conferences" class="step-title screensteps-heading">View Concluded Conferences</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/278/original/df433405-7800-4490-9ed1-71049d5442cc.png" srcset="" alt="View Concluded Conferences" height="343" width="818">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_001BE680-22F5-0135-A518-22000B5A851D" class="text-block-content">
+    <p>Concluded conferences display in the Concluded Conferences section. Each concluded conference shows the title, date, and description of the conference.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_recorded_conference" data-step-uuid="2ca979ec-80ea-4eb6-afd6-bec5b0e57073">
+    <h2 id="view_recorded_conference" class="step-title screensteps-heading">View Recorded Conference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/276/original/f73379bd-403d-4e63-ac39-d2c0af592c56.png" srcset="" alt="View Recorded Conference" height="238" width="833">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_001C1C40-22F5-0135-A51A-22000B5A851D" class="text-block-content">
+    <p>When your conference has concluded, click the name of the recorded conference [1]. To replay the conference, click the recording format link [2]. The recording format displays as either a presentation or a video.</p>
+<p>The recording format link does not appear until the conference has been rendered for playback. The rendering process may take some time to complete. The length of the conference is indicated in hours:minutes (e.g. 0:18 is 18 minutes). </p>
+<p>If your conference included closed captioning, the playback bar for the video displays a CC button to view the available captions.</p>
+<p><strong>Note:</strong> For all basic Conference accounts, recordings are automatically deleted 7 days after the conference ends. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-statistics-and-notes" data-step-uuid="01ac8173-529e-4849-8bc5-ddd3321d6004">
+    <h3 id="view-statistics-and-notes" class="step-title screensteps-heading">View Statistics and Notes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/282/original/465731b5-5a3a-4b23-8f56-e95444eb238b.png" srcset="" alt="View Statistics and Notes" height="185" width="816">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_53f923ca-56b2-42df-991d-ece382a73467" class="text-block-content">
+    <p>If you created a conference in a group, you may be able to view statistics and notes for your conference.</p>
+<p>If your institution has upgraded to the Canvas Conferences premium tier, you can view conference statistics by clicking the <strong>Statistics</strong> link [1].</p>
+<p>If your conference included shared notes, you can view the notes by clicking the <strong>Notes</strong> link [2]. The shared notes will display in a new browser tab, where they can be viewed and copied.</p>
+<p><strong>Note: </strong>Notes are only available for recorded conferences.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,306 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_33973f7e-c931-4f47-92c2-2a735698639c" class="text-block-content">
+    <p>You can create a quiz using New Quizzes from the Quizzes page. You can create various types of content in each quiz.</p>
+<p><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-New-Quizzes/ta-p/17" target="_blank">Learn more about New Quizzes</a>.</p>
+<p><strong>Note:</strong> New Quizzes is an opt-in tool. If this tool is not available to you, please contact your Canvas admin.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-assignments" data-step-uuid="f662816b-fd9a-42c8-b8ea-2566d1a005ec">
+    <h2 id="open-assignments" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/093/190/original/33cd231e-193a-4581-8b28-b439332e95d0.png" srcset="" alt="Open Quizzes" height="277" width="155">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_78696ec8-39a9-44c6-8e5b-84801dc6a623" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link. </p>
+<p><strong>Note:</strong> You can also access quizzes from the Assignments page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-quiz" data-step-uuid="2b298155-3851-4eff-bfd4-a7008ad3f6d8">
+    <h2 id="add-quiz" class="step-title screensteps-heading">Add Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/256/662/original/94da6213-cb35-47f7-bddf-62257602b3de.png" srcset="" alt="Add Quiz" height="219" width="745">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a4d022e7-6759-4e43-a095-81ff08dc2c55" class="text-block-content">
+    <p>Click the <strong>Add Quiz</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-new-quiz-assessment" data-step-uuid="dd2dbfa6-8746-41cd-8f1e-23d48ab1a312">
+    <h2 id="create-new-quiz-assessment" class="step-title screensteps-heading">Create New Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/787/043/original/b6bade25-dd38-4627-99c2-f9f5afa45458.png" srcset="" alt="Create New Quiz Assessment" height="533" width="479">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_68cc175c-cf96-4f79-a3f0-67c1a95088c2" class="text-block-content">
+    <p>In the Choose a Quiz Engine screen, select the <strong>New Quizzes</strong> option [1]. To save your quiz engine selection for this course, check the <strong>Remember my choice for this course</strong> checkbox [2].</p>
+<p>Then click the <strong>Submit</strong> button [3]. </p>
+<p><strong>Note: </strong>You can reset your quiz engine choice from the Quiz Options menu at any time. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-quiz-details" data-step-uuid="ea08cde8-8377-43a9-a11a-1d0b09355917">
+    <h2 id="edit-quiz-details" class="step-title screensteps-heading">Edit Quiz Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/387/041/original/931aec2f-8a37-4489-8733-5a219ae263db.png" srcset="" alt="Edit Quiz Details" height="406" width="792">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_50b7427d-46ca-4249-9c2b-f3d9cada5745" class="text-block-content">
+    <p>In the <strong>Assignment Name</strong> field [1], enter the name of your quiz. To enter quiz details, enter the total points possible [2], select the assignment group [3], and choose how the grade is displayed to students [4].</p>
+<p>To remove this quiz from final grade calculations, click the <strong>Do not count this assignment towards the final grade</strong> checkbox [5].</p>
+<p>The points possible set on the assignment details page is the total points possible for the quiz. Points set per question determine points earned for correct answers. Points earned for correct answers are totaled and divided by the sum of the total question points for the quiz. That percentage is then used to calculate the final score based on the total points set on the assignment details page. For example, if you set the total points on the assignment details page to 50 and create an quiz with 10 questions each worth 1 point, the quiz has a total of 10 points but is worth 50 points when graded. If a student answers 9 questions correctly, their quiz score is 90% (9/10). However, their final score in the Gradebook will be 45/50 (90%).</p>
+<p>If your quiz is worth zero points, you can choose to not display the quiz in the Gradebook or student Grades page [6].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="anonymous-grading" data-step-uuid="7964c943-4de9-468b-b20c-c3946c90838b">
+    <h3 id="anonymous-grading" class="step-title screensteps-heading">Anonymous Grading</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/936/707/original/0a160a91-854f-42b0-bf68-d90bd28b2ae4.png" srcset="" alt="Anonymous Grading" height="144" width="559">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c0c5485b-bc67-4df4-8984-13917a5aab01" class="text-block-content">
+    <p><a href="/t5/Instructor-Guide/How-do-I-create-an-anonymously-graded-quiz-using-New-Quizzes/ta-p/587640" target="_blank">Anonymous grading</a><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-an-assignment-that-includes-anonymous-grading/ta-p/769" target="_blank"> </a>hides student names from graders when they view assignment submissions in SpeedGrader.</p>
+<p><strong>Note:</strong> Once anonymous grading is turned on for a quiz, it cannot be turned off. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="assign-quiz" data-step-uuid="3430d723-2f78-4ce4-860e-7b7feca67436">
+    <h3 id="assign-quiz" class="step-title screensteps-heading">Assign Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/889/582/original/279a28bd-0d39-4363-b238-3bc98f3bac5e.png" srcset="" alt="Assign Quiz" height="336" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_61cbabe1-0c67-414f-99ea-87f753811415" class="text-block-content">
+    <p>In the <strong>Assign To</strong> field [1], select who will be required to take the quiz. You can assign the quiz to individual students or sections.</p>
+<p>In the <strong>Due</strong> field [2], select the quiz due date.</p>
+<p>In the <strong>Available from </strong>and<strong> Until</strong> fields [3], select the availability dates for the quiz. In progress quizzes automatically submit when the Until date and time passes.</p>
+<p><strong>Note: </strong>If you have set section override dates in your course, you may need to select a course section and set due and availability dates that fall within the section override dates.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-quiz" data-step-uuid="df601b96-41ac-448b-b076-73911af8d537">
+    <h2 id="save-quiz" class="step-title screensteps-heading">Save Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/324/957/original/cadbdd14-6386-4580-81ca-545ad0c7d392.png" srcset="" alt="Save Quiz" height="91" width="381">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_581ae490-1ae5-47a6-914c-ad209fcf549a" class="text-block-content">
+    <p>To save your quiz details, click the <strong>Save</strong> button [1]. To save and publish your quiz, click the <strong>Save &amp; Publish</strong> button [2].</p>
+<p>Clicking the Save or Save &amp; Publish button returns you to the page where you opened the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-build-page" data-step-uuid="4fa90908-fc15-4e76-89e6-6036569b089f">
+    <h2 id="open-build-page" class="step-title screensteps-heading">Open Build Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/324/959/original/67a84f49-ac60-4540-915a-cd417c2f53f0.png" srcset="" alt="Open Build Page" height="69" width="381">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fc7a7a22-6d17-482d-a932-245fe5839409" class="text-block-content">
+    <p>To open the New Quizzes build page and add questions and content to your quiz, click the <strong>Build</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/090/925/original/4d07e4d6-8641-4dfa-ac74-6b6aca272a7d.png" srcset="" alt="Open Build Page" height="337" width="224">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49bd7973-df2f-465a-9b4a-264b4d049c48" class="text-block-content">
+    <p>If you clicked the Save or Save &amp; Publish button and returned to the page where you opened the quiz, you can click the <strong>Options</strong> icon [1] and then click the <strong>Build</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="build-quiz" data-step-uuid="3ddd2311-d703-4b09-99d3-a24865f10d7c">
+    <h2 id="build-quiz" class="step-title screensteps-heading">Build Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/806/401/original/62745d44-a040-4c48-b7fd-c93a62d6d51f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/806/401/medium/62745d44-a040-4c48-b7fd-c93a62d6d51f.png" srcset="" alt="Build Quiz" height="512" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d2e45000-ab7f-4069-9009-8592fac65e3c" class="text-block-content">
+    <p>In the Build page, you can edit the title and description of your quiz [1], <a href="/t5/Instructor-Guide/How-do-I-manage-item-banks-in-New-Quizzes/ta-p/1052" target="_blank">view your item banks</a> [2], <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-in-New-Quizzes/ta-p/776" target="_blank">align the quiz to outcomes</a> [3], <a href="/t5/Instructor-Guide/How-do-I-preview-a-quiz-in-New-Quizzes/ta-p/639" target="_blank">preview the quiz from the student view</a> [4], and navigate the quiz [5].</p>
+<p>You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your quiz instructions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-quiz-content" data-step-uuid="2f559d44-cad7-4a3e-b0ed-e4874937a5f7">
+    <h2 id="add-quiz-content" class="step-title screensteps-heading">Add Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/806/405/original/1c2493dd-86eb-431e-9264-87acd6b41fba.png" srcset="" alt="Add Content" height="469" width="653">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_411ec726-d9ab-40be-b1c4-8f0a18bd27fe" class="text-block-content">
+    <p>To add content to your quiz, click the <strong>Add</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/052/433/original/bd351ea0-cb72-48b4-bc97-c4f543d0b79a.png" srcset="" alt="Select Content" height="362" width="390">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8d925c7a-c99e-4f80-81ff-12e60326ef0a" class="text-block-content">
+    <p>To insert content from an item bank, click the <strong>Item Bank</strong> button [1]. To create a new question, click the button for the question type [2] or <a href="/t5/Instructor-Guide/How-do-I-insert-stimulus-content-in-New-Quizzes/ta-p/573" target="_blank">add stimulus content</a> [3]<strong>. </strong></p>
+<p>The following question types are available in New Quizzes:</p>
+<ul>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Categorization-question-in-New-Quizzes/ta-p/972" target="_blank">Categorization</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-an-Essay-question-in-New-Quizzes/ta-p/980" target="_blank">Essay</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-File-Upload-question-in-New-Quizzes/ta-p/962" target="_blank">File Upload</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Fill-in-the-Blank-question-in-New-Quizzes/ta-p/985" target="_blank">Fill in the Blank</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Formula-question-in-New-Quizzes/ta-p/956" target="_blank">Formula</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Hot-Spot-question-in-New-Quizzes/ta-p/976" target="_blank">Hot Spot</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Matching-question-in-New-Quizzes/ta-p/981" target="_blank">Matching</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Multiple-Answer-question-in-New-Quizzes/ta-p/977" target="_blank">Multiple Answer</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Multiple-Choice-question-in-New-Quizzes/ta-p/984" target="_blank">Multiple Choice</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Numeric-question-in-New-Quizzes/ta-p/986" target="_blank">Numeric</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-an-Ordering-question-in-New-Quizzes/ta-p/979" target="_blank">Ordering</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-True-or-False-question-in-New-Quizzes/ta-p/572" target="_blank">True or False</a></li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit-question" data-step-uuid="34461223-9dac-4cf9-8cc3-6ced7276cb0c">
+    <h3 id="edit-question" class="step-title screensteps-heading">Edit Question</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/721/122/original/a3251857-e8cf-4bd1-9166-709ae7457630.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/721/122/medium/a3251857-e8cf-4bd1-9166-709ae7457630.png" srcset="" alt="Edit Question" height="702" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ae1b543e-0b57-4878-b2a4-fdb2c4874c0a" class="text-block-content">
+    <p>For each question, you can enter a question title [1], question stem [2], and answers [3]. You may also select options specific to the question [4], <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome</a> [5], and <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a> [6]. </p>
+<p>In the <strong>Points</strong> field [7], adjust the point value for the question by entering a number or clicking the arrow buttons. To add general student feedback, click the <strong>Feedback</strong> icon [8].</p>
+<p>To save the question, click the <strong>Done</strong> button [9].</p>
+<p><strong>Note:</strong> Essay questions do not include an answer field and must be graded manually.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="delete-question" data-step-uuid="814fe699-5938-4e30-81ee-56378db5b7ac">
+    <h3 id="delete-question" class="step-title screensteps-heading">Delete Question</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/721/125/original/1b456a3e-ea5d-4461-92e7-4b0f4d6b6e78.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/721/125/medium/1b456a3e-ea5d-4461-92e7-4b0f4d6b6e78.png" srcset="" alt="Delete Question" height="78" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97bbc996-aaae-4ef8-8fef-bbf96c9f2dff" class="text-block-content">
+    <p>To delete a question, click the <strong>Delete</strong> icon. The page will confirm you want to remove the item.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-question-navigator" data-step-uuid="47e97920-4633-431d-8c88-659e8e6b4467">
+    <h2 id="open-question-navigator" class="step-title screensteps-heading">Open Question Navigator</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/555/624/original/5fc29665-39ed-406c-83de-d1894cc169f4.png" srcset="" alt="Open Question Navigator" height="251" width="494">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3a3609f3-1342-4625-8dd3-39dc5db8bcb7" class="text-block-content">
+    <p>To open the Question Navigator and view your quiz, click the <strong>Expand</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="navigate-quiz" data-step-uuid="13e8b33d-d720-4d28-a6c9-1079f20dc40d">
+    <h3 id="navigate-quiz" class="step-title screensteps-heading">View Question Navigator</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/555/626/original/2e780c7b-0a82-4d5e-b569-b9f3e09f72ef.png" srcset="" alt="View Question Navigator" height="348" width="364">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bd0f730d-23ad-4c63-84aa-a8aae8c51553" class="text-block-content">
+    <p>In the Question Navigator, you can view each question number [1], question type [2], point total [3], question stem [4], and total question points [5].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/565/890/original/cbc7fedc-c247-4d9a-89c7-1d116e327a15.png" srcset="" alt="Manage Asssessment" height="345" width="374">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_102327d0-d45b-4f15-8ce5-de73e134a392" class="text-block-content">
+    <p>To view a question in the quiz, click the question stem [1]. You will be taken to the question within the quiz.</p>
+<p>To manually reorder questions, click and hold the <strong>Move</strong> icon [2]. Drag the question to where you want it to display in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="return-to-quizzes-page" data-step-uuid="0c76fbc6-f8b4-44b9-ba47-d7a09a64b3fa">
+    <h2 id="return-to-quizzes-page" class="step-title screensteps-heading">Return to Quizzes Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/288/481/original/7409c544-f0ef-49d0-8c63-07cf38ec8383.png" srcset="" alt="Return to Quizzes Page" height="66" width="147">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4355c338-a80e-4931-a446-0ad94c725bca" class="text-block-content">
+    <p>To close your quiz and return to the Quizzes page, click the <strong>Return</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

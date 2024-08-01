@@ -1,0 +1,171 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_88535DD0-2228-0135-257F-22000AB760A3" class="text-block-content">
+    <p>You can create a question for students that requires a file upload and can be used for PDFs, images, audio files, video files, etc. This question type requires manual grading and accepts one file per question.</p>
+<p>You can Preview a quiz before publishing to verify what students see when taking a quiz. However, file upload quiz questions cannot be tested from the Preview screen. To test a file upload quiz question, the quiz must be published and viewed in <a href="/t5/Instructor-Guide/How-do-I-view-a-course-as-a-test-student-using-Student-View/ta-p/1122" target="_blank">Student View</a>.</p>
+<p><strong>Note: </strong>DocViewer commenting and annotations tools are not available when grading file upload submissions in SpeedGrader.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="7AB8C8D6-44D8-405F-81D5-E90988EE304E">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/665/original/1f19df88-e489-4c7c-bc00-8350e64df34d.png" srcset="" alt="Add Question" height="246" width="698">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_885391D0-2228-0135-2581-22000AB760A3" class="text-block-content">
+    <p>With the <strong>Questions</strong> tab [1] selected inside a new quiz, click the <strong>New Question </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_name_type_and_points" data-step-uuid="9bd7ef31-adca-4219-a286-813887f5c9b5">
+    <h2 id="set_name_type_and_points" class="step-title screensteps-heading">Set Name, Type, and Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/669/original/7bd9b4b2-4940-4c69-b4c4-548de4e448f8.png" srcset="" alt="Set Name, Type, and Points" height="68" width="744">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8853C5B0-2228-0135-2583-22000AB760A3" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field [1]. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+<p>Click the drop-down menu and select the File Upload question type [2].</p>
+<p>Enter number of points the question is worth (quiz totals are calculated based on combined total of questions) [3].</p>
+<p><strong>Note:</strong> Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_file_upload_question_details" data-step-uuid="5C981A17-0964-44C9-B291-8F752C6B72CD">
+    <h2 id="edit_file_upload_question_details" class="step-title screensteps-heading">Edit File Upload Question Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/049/363/original/53ee69d2-dad2-48d8-af2a-88bc0e59cb0b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/049/363/medium/53ee69d2-dad2-48d8-af2a-88bc0e59cb0b.png" srcset="" alt="Edit File Upload Question Details" height="552" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8853F910-2228-0135-2585-22000AB760A3" class="text-block-content">
+    <p>To complete the question, you will need to enter the following details:</p>
+<ol>
+<li>The question text (use the Rich Content Editor to include video, images, math equations, or flash activities)</li>
+<li>Text to provide general feedback</li>
+</ol>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter_feedback_text" data-step-uuid="6d4a5c8a-04c5-43c7-a182-2a637cb3c5dd">
+    <h3 id="enter_feedback_text" class="step-title screensteps-heading">Enter Feedback Text</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/049/365/original/4d6dc856-a153-44d4-93b2-62f725bce009.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/049/365/medium/4d6dc856-a153-44d4-93b2-62f725bce009.png" srcset="" alt="Enter Feedback Text" height="843" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88542CE0-2228-0135-2587-22000AB760A3" class="text-block-content">
+    <p>You can also create general answer comments for the quiz question as a whole. Type in the answer comment field [1]. Click the <strong>Done</strong> button [2] when you are finished.</p>
+<p><strong>Note:</strong> Any general answer comments are visible as soon as a quiz is submitted and cannot be hidden from students.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="6350C653-6985-4194-A696-57CF824B4048">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/663/original/2a230410-7a9b-427a-a5c9-045dcb0c0bcd.png" srcset="" alt="Update Question" height="52" width="214">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88545F90-2228-0135-2589-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+<p>Add additional <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">individual questions</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_of_file_upload_question" data-step-uuid="4C8AD767-4090-43BE-8F44-90C739BBA2F9">
+    <h2 id="student_view_of_file_upload_question" class="step-title screensteps-heading">Student View of File Upload Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/655/original/ce28b077-796a-41e4-a139-5157e63ef358.png" srcset="" alt="Student View of File Upload Question" height="279" width="776">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88549130-2228-0135-258B-22000AB760A3" class="text-block-content">
+    <p>This is what a student sees when they encounter a <a href="/t5/Instructor-Guide/How-do-I-create-a-File-Upload-quiz-question/ta-p/652" target="_blank">File Upload</a> question in a quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_confirmation_of_file_upload" data-step-uuid="C0D8B10D-7D88-409C-AEE0-47AFC55D52C1">
+    <h2 id="student_confirmation_of_file_upload" class="step-title screensteps-heading">Student Confirmation of File Upload</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/653/original/26420c0e-9920-4c37-9154-df48d4e79309.png" srcset="" alt="Student Confirmation of File Upload" height="291" width="776">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8854C4E0-2228-0135-258D-22000AB760A3" class="text-block-content">
+    <p>Student will receive a confirmation that their file has been uploaded [1]. They can also remove their file [2] and submit a new one.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_of_file_upload_submission" data-step-uuid="B8931308-4959-4A06-A171-53AD38FCDA1A">
+    <h2 id="student_view_of_file_upload_submission" class="step-title screensteps-heading">Student View of File Upload Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/667/original/9cf24dd7-4583-4f86-bb1a-d336a1f0ecc2.png" srcset="" alt="Student View of File Upload Submission" height="338" width="654">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8854FCC0-2228-0135-258F-22000AB760A3" class="text-block-content">
+    <p>After submitting the quiz, students will see their file submission [1].</p>
+<p>No credit will be assigned until the instructor has evaluated the file upload submission and assigned points in <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">the Gradebook</a> or the <a href="/t5/Instructor-Guide/How-do-I-use-SpeedGrader/ta-p/757" target="_blank">SpeedGrader</a> [2].</p>
+<p>Notice the answer comment reminds students that their quiz grade will be incomplete until the instructor has manually graded the file upload question [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_student_submissions" data-step-uuid="5DF882DA-B24F-44BF-97BB-84DB76928F6C">
+    <h2 id="download_student_submissions" class="step-title screensteps-heading">Download Student Submissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/659/original/938a73a4-afc2-41b3-829e-3ae198b73b23.png" srcset="" alt="Download Student Submissions" height="224" width="288">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88553570-2228-0135-2591-22000AB760A3" class="text-block-content">
+    <p>To download your students' submitted files for grading, you can click the <strong>Download All Files </strong>link [1] within the Quiz options, or you can open <strong>SpeedGrader</strong> [2] and open a link to the file directly within the quiz.</p>
+<p><strong>Note:</strong> The Download All Files link only displays if at least one file upload question in the quiz is outside of a question group.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

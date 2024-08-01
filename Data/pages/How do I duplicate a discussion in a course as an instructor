@@ -1,0 +1,83 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_be9941aa-1199-4c23-9906-f39e582824e6" class="text-block-content">
+    <p>You can duplicate a discussion in your course. When a discussion is duplicated, the word <em>Copy</em> is added to the end of the assignment name. The person who copied the discussion is shown as the author of the discussion and is immediately subscribed to the discussion, and the date the discussion was copied displays as the last posted date.</p>
+<p>Duplicating a discussion defaults the copied discussion to an unpublished status. All items in the discussion are duplicated including the name, description, and options. In graded discussions, duplication exceptions include the following situations:</p>
+<ul>
+<li>Copied peer review discussions retain the peer review settings and Assign Review date, but the number of reviews per user will be set to zero.</li>
+<li>Copied discussions are always assigned to everyone in the course; differentiated discussions are not retained for individual users, groups, or sections.<ul>
+<li>If a differentiated discussion includes an Everyone Else date, the copied discussion retains the Everyone else date, if any.</li>
+<li>If a differentiated discussion does not include an Everyone Else date, the copied discussion does not include a due date.</li>
+</ul>
+</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-discussions" data-step-uuid="66ba8228-b323-44d1-8936-efe6f53cb568">
+    <h2 id="open-discussions" class="step-title screensteps-heading">Open Discussions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/762/493/original/5bf23703-51cd-4eac-a3f7-26d23236dfa7.png" srcset="" alt="Open Discussions" height="258" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_34a18528-cb48-4203-9958-ab1641267d9c" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Discussions</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="duplicate-discussion" data-step-uuid="e459ad24-bd00-4163-b459-8e5b30858b3f">
+    <h2 id="duplicate-discussion" class="step-title screensteps-heading">Duplicate Discussion</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/144/340/original/3936501c-4f1e-4fd8-9a40-eb277563f92b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/144/340/medium/3936501c-4f1e-4fd8-9a40-eb277563f92b.png" srcset="" alt="Duplicate Discussion" height="391" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_03e96147-2f8d-48c9-bb78-dff3b50c4053" class="text-block-content">
+    <p>Locate the discussion you want to duplicate and click the <strong>Options</strong> icon [1]. Click the <strong>Duplicate</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-duplicate" data-step-uuid="4f78609c-d0b7-4a91-a92f-4fd916c1b60f">
+    <h2 id="view-duplicate" class="step-title screensteps-heading">View Duplicate</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/189/364/original/a4064082-9dbe-4b52-9373-668cb2b433cd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/189/364/medium/a4064082-9dbe-4b52-9373-668cb2b433cd.png" srcset="" alt="View Duplicate" height="220" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a1145fb7-ce86-45d8-abaf-9a7ec1220bbd" class="text-block-content">
+    <p>View the discussion duplicate in your course.</p>
+<p><strong>Note:</strong> If applicable to your course, the Discussions page displays any Blueprint Course icons after the page is refreshed.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

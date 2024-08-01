@@ -1,0 +1,103 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F4309C00-1E1C-0135-CB27-22000BC102FE" class="text-block-content">
+    <p>You can allow students to like replies in an announcement even if students are not allowed to <a href="/t5/Instructor-Guide/How-do-I-allow-or-disallow-announcement-replies-in-a-course/ta-p/707" target="_blank">reply to announcements.</a> If an announcement allows liking, users will see a Like icon within each announcement reply. By default, liking is available to all users in the course; however, you can choose to restrict the option to graders only.</p>
+<p>The Like icon is enabled on a per-announcement basis and displays once there is at least one reply to the announcement.</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-like-a-reply-in-a-course-announcement-as-an-instructor/ta-p/763" target="_blank">like announcement replies</a> as an instructor.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_announcements" data-step-uuid="dc9ba431-d592-484a-817c-ca3e0f1ee833">
+    <h2 id="open_announcements" class="step-title screensteps-heading">Open Announcements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/740/454/original/f77516df-f760-48ae-a3e9-6faba1c03082.png" srcset="" alt="Open Announcements" height="267" width="179">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F431F6C0-1E1C-0135-CB29-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Announcements</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_announcement" data-step-uuid="d25df8a8-8215-4812-b4fb-a0d57cc10337">
+    <h2 id="add_announcement" class="step-title screensteps-heading">Add Announcement</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/496/440/original/044d8280-5b53-4cdd-b55e-4e78567ae76c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/496/440/medium/044d8280-5b53-4cdd-b55e-4e78567ae76c.png" srcset="" alt="Add Announcement" height="129" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F43225F0-1E1C-0135-CB2B-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Announcement</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_announcement" data-step-uuid="a2f719d5-a1a6-41e7-b38c-b58f01aec86f">
+    <h2 id="create_announcement" class="step-title screensteps-heading">Allow Liking</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/365/727/original/b4496a25-b2e8-488b-b0ae-b7ce396ffad7.png" srcset="" alt="Allow Liking" height="147" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F4325B60-1E1C-0135-CB2D-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Allow liking </strong>checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_liking_options" data-step-uuid="ef51651a-a93a-48e7-91aa-3a5f96bdefc9">
+    <h2 id="set_liking_options" class="step-title screensteps-heading">Set Liking Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/496/442/original/1d2fd610-ea54-445e-b75e-063fb801db83.png" srcset="" alt="Set Liking Options" height="169" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F4328E50-1E1C-0135-CB2F-22000BC102FE" class="text-block-content">
+    <p>When allowing announcement likes, you can limit the users who can like to graders only.</p>
+<p>To limit the liking functionality to only graders in the course, click the <strong>Only graders can like</strong> checkbox. When this checkbox is selected, only users with the Edit Grades permission can see the Like link. However, all users will still see the total number of likes for each reply.</p>
+<p><strong>Note:</strong> Announcement replies are sorted in descending order. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_announcement" data-step-uuid="ed749173-95f5-4491-9352-35f463b61a0a">
+    <h2 id="save_announcement" class="step-title screensteps-heading">Save Announcement</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/781/659/original/6b7a896c-6cc4-4e43-a8ed-da08ce2acc4a.png" srcset="" alt="Save Announcement" height="65" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F432BD60-1E1C-0135-CB31-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

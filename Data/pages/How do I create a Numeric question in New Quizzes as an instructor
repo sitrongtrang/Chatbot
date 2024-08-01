@@ -1,0 +1,240 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3f163601-c3e6-48ad-a4e8-8438c19d2525" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can create a Numeric question in New Quizzes. Numeric questions will accept answers from students that contain numbers, text, and/or symbols. However, instructors can only use numeric entries for accepted answers. Student answers in non-numeric format will not be graded automatically. </p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate Numeric questions</a> to create a new question.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="2914fd8b-ac68-4c70-b181-59ca1553ce3b">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/890/839/original/0ac4e391-76da-4321-9d8a-9ddbf627fc5f.png" srcset="" alt="Add Question" height="415" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a429abda-eeb5-464f-b62f-d0ace6f13a10" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="57728047-1504-4013-9d5d-0d56ce95fe05">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add Numeric Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/776/104/original/cfaa6d69-87b6-4b47-8512-2ba249eae258.png" srcset="" alt="Add Numeric Question" height="429" width="408">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c53e5eac-856b-4b9d-84d1-0e4fd6a1dbf3" class="text-block-content">
+    <p>Click the <strong>Add Numeric</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-details" data-step-uuid="c0cc2d46-6f0f-40d2-a06e-0d298b21695c">
+    <h2 id="add-question-details" class="step-title screensteps-heading">Add Question Title and Stem</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/291/original/8ca6c486-84db-4e66-9af6-8915a02162c4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/291/medium/8ca6c486-84db-4e66-9af6-8915a02162c4.png" srcset="" alt="Add Question Title and Stem" height="143" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eab323a8-5b70-4ab1-a5a1-1b6dcbb6ba62" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Question Stem</strong> field [2], add the question stem. The question stem contains the question and, if necessary, additional instructions and information. You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your question stem.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-requirement" data-step-uuid="9b3f28e8-50f5-4c12-9a36-ae3df9c10668">
+    <h2 id="select-requirement" class="step-title screensteps-heading">Select Requirement</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/293/original/07bd0ef8-63d7-4db3-b2d2-256ab1bfd250.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/293/medium/07bd0ef8-63d7-4db3-b2d2-256ab1bfd250.png" srcset="" alt="Select Requirement" height="288" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b89eaadf-b1a1-4586-8ea7-2547e3e6863a" class="text-block-content">
+    <p>To select a requirement for the answer, select an option from the <strong>Requirement</strong> drop-down menu [1]. You can select Exact Response, Margin of Error, Within a Range, or Precise Response.</p>
+<p>To add additional answers, click the <strong>Add Possible Answer</strong> link [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="exact-response-requirement" data-step-uuid="98b53fc8-4bb6-43de-9634-1b7acd38f66d">
+    <h3 id="exact-response-requirement" class="step-title screensteps-heading">Select Exact Response</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/296/original/ed080c78-03a7-4c76-93da-0710d4300677.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/296/medium/ed080c78-03a7-4c76-93da-0710d4300677.png" srcset="" alt="Select Exact Response" height="82" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5be29380-00e0-4692-9ecf-eac544bda89b" class="text-block-content">
+    <p>To add an exact response answer, select the <strong>Exact Response</strong> option [1]. Enter an answer by typing the answer in the <strong>Answer</strong> field [2] or using the arrows [3]. Exact response answers can be added in scientific notation (accepted format: 1.234*10^5).</p>
+<p>Students responses will be marked correct if they match the answer exactly. </p>
+<p><strong>Note:</strong> The Range fields only accept numbers, periods, commas, asterisks, and carets. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="margin-of-error-requirement" data-step-uuid="052b6058-213e-4f93-a0b1-63d887c36d1e">
+    <h3 id="margin-of-error-requirement" class="step-title screensteps-heading">Select Margin of Error</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/298/original/b75df25e-1022-4a06-89cd-3e258b653984.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/298/medium/b75df25e-1022-4a06-89cd-3e258b653984.png" srcset="" alt="Select Margin of Error" height="81" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5a56fd71-0c0a-4178-a89b-acf960da9a2d" class="text-block-content">
+    <p>To add a margin of error answer, select the <strong>Margin of Error</strong> option [1]. Enter the answer in the <strong>Answer</strong> field [2]. Then add the margin in the <strong>Margin</strong> field [3] and select the margin type in the <strong>Margin Type</strong> drop-down menu [4]. You can select percentage or absolute margin type. Margin of error fields do not accept entries written in scientific notation. </p>
+<p>Student answers will be marked correct if they fall within the margin above or below the answer. </p>
+<p><strong>Note:</strong> The Answer and Margin fields only accept numbers, periods, and commas.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="within-a-range-requirement" data-step-uuid="ed3dfb3f-cb8c-4be4-ade7-22f9a15e3e93">
+    <h3 id="within-a-range-requirement" class="step-title screensteps-heading">Select Within a Range</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/301/original/7d6caaba-80bc-4dc3-98de-dc42bcae0079.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/301/medium/7d6caaba-80bc-4dc3-98de-dc42bcae0079.png" srcset="" alt="Select Within a Range" height="81" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_53b2a199-a868-44d5-b0b7-7a97be885827" class="text-block-content">
+    <p>To add an answer that must fall within a specific range, select the <strong>Within a Range </strong>option [1]. Then select the range start [2] and range end for the answer [3]. Range inputs can be in scientific notation (accepted format: 1.234*10^5).</p>
+<p>Student responses will be marked correct if they are greater than or equal to the range start and less than or equal to the range end.</p>
+<p><strong>Note:</strong> The Range fields only accept numbers, periods, commas, asterisks, and carets. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="precise-response-requirement" data-step-uuid="6e716db8-397a-4407-92fc-bc0b560e94fe">
+    <h3 id="precise-response-requirement" class="step-title screensteps-heading">Select Precise Response</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/304/original/c6934cc8-9bb5-45b0-985c-9512b3af3a05.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/304/medium/c6934cc8-9bb5-45b0-985c-9512b3af3a05.png" srcset="" alt="Select Precise Response" height="81" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ba028cef-2e53-4dee-8865-013facd4d71e" class="text-block-content">
+    <p>To add an answer with a precise requirement, select the <strong>Precise Response</strong> option [1]. Then select the answer [2], precision value [3], and precision type [4]. The options for precision type are significant digits and decimal places. Precise response fields do not accept entries written in scientific notation. </p>
+<p>Student responses will be marked as correct if they match the answer to the given number of significant digits or decimal places.</p>
+<p><strong>Note:</strong> The Answer field only accept numbers, periods, and commas. The Precision field only accepts whole numbers greater than 1.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-on-screen-calculator" data-step-uuid="d358535f-2ff6-4dde-9f3e-a7bd314c46c3">
+    <h2 id="enable-on-screen-calculator" class="step-title screensteps-heading">Enable On-Screen Calculator</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/303/371/original/84d1d06c-2654-401b-b8d4-b829394ac8d4.png" srcset="" alt="Enable On-Screen Calculator" height="335" width="704">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d0887d2e-d596-49ee-8e36-b4e03818a32a" class="text-block-content">
+    <p>To allow students to use an on-screen calculator for this question, click the <strong>Show on-screen calculator</strong> checkbox [1]. </p>
+<p>If you select this option, you can choose either a basic calculator [2] or scientific calculator [3]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="4cb79e19-6aa9-4514-a376-71c1f0f9e752">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/306/original/fea77a67-74c4-4d20-88f5-8100ea8d1ed4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/306/medium/fea77a67-74c4-4d20-88f5-8100ea8d1ed4.png" srcset="" alt="Align to Outcome" height="303" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_44806bf5-823b-4b0b-969e-9943b3cd6e8e" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="c5577a0b-57c7-4a45-a780-2f78496de178">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/308/original/bf8fd472-3374-4d7f-9c44-a0c17ee9ca3b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/308/medium/bf8fd472-3374-4d7f-9c44-a0c17ee9ca3b.png" srcset="" alt="Add to Item Bank" height="156" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_431a8dad-6c90-4209-8335-432f92ea6142" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note:</strong> After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="3a8d691c-d6f7-458d-943a-b71ffad42201">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value and Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/310/original/e8806ac9-67f5-427b-bdf0-6c00b6f7bc6c.png" srcset="" alt="Add Point Value and Feedback" height="234" width="749">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43203ac3-1ad3-4e75-a9bf-f8ce3f6b1b83" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-feedback-to-a-question-in-New-Quizzes/ta-p/591" target="_blank">leave feedback for students</a>, click the <strong>Feedback</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="709f0a22-09d2-4a0c-a2f2-aae53b50749c">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/312/original/ed967c7f-3724-45e4-81d7-0dacadc621ae.png" srcset="" alt="Save Question" height="67" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c678c8c4-0538-4f58-8e8c-0de93baca05e" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,232 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A384E9D0-221D-0135-1C0E-22000B5A851D" class="text-block-content">
+    <p>If you have set a time limit on your quiz, you can grant access for extra time. If the student hasn't taken the quiz, the extra time will be added to the student's initial attempt and additional attempts. Learn more about<span style="color:rgb(29,29,29);"> </span><a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-how-can-I-give-my-students-extra-attempts/ta-p/1242" target="_blank">managing extra attempts</a><span style="color:rgb(29,29,29);">.</span></p>
+<p>If a student is currently taking the quiz while you are viewing the Moderate Quiz page, you can extend the quiz time as part of their current attempt. You can choose how many minutes to extend the quiz, and whether you want to add those minutes to the current time or the current (scheduled) end time.</p>
+<p><strong>Note</strong>:</p>
+<ul>
+<li>A quiz must be published before you can moderate it. If you would like to manage the quiz moderation options before allowing students to access it, set the quiz Available from date to a future date and publish the quiz. Your students will not receive a notification for an unavailable quiz. Once you’ve made timing moderations, you can unpublish the quiz to save your moderations. You can then continue to edit the quiz prior to publishing it for your students to access.</li>
+<li>Quiz availability dates still apply when moderating a quiz. If the Until date passes when students are taking the quiz with extended time, the quiz auto-submits even if the student's time extension has not expired.</li>
+<li>The maximum time you can extend a current attempt is 1440 minutes (24 hours).</li>
+<li>If you give a student extra time during an in-process quiz with a set availability date and time, their submission time will display as occurring later than the selected availability time.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="0a81bfdf-1778-4baa-8eb6-95356c34adad">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/754/original/ee288630-b906-4afc-98ba-c5276bb47913.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A38578B0-221D-0135-1C10-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quiz" data-step-uuid="67f5dbea-1c6c-4d86-925a-cab129d11d6d">
+    <h2 id="open_quiz" class="step-title screensteps-heading">Open Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/253/242/original/a7afc95d-a3cb-4385-802d-462dc5b3db0a.png" srcset="" alt="Open Quiz" height="276" width="771">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A385AD90-221D-0135-1C12-22000B5A851D" class="text-block-content">
+    <p>Click the name of the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="moderate_this_quiz" data-step-uuid="1b365435-1488-45bf-9b06-8e70748ad642">
+    <h2 id="moderate_this_quiz" class="step-title screensteps-heading">Moderate this Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/827/original/10b6ada8-933c-4509-927b-017ae7eb5dae.png" srcset="" alt="Moderate this Quiz" height="224" width="283">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A385E2A0-221D-0135-1C14-22000B5A851D" class="text-block-content">
+    <p>Click the<strong> Moderate This Quiz</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="moderate_quiz" data-step-uuid="925be5d7-bf11-421a-a3e3-86fcd37e774c">
+    <h2 id="moderate_quiz" class="step-title screensteps-heading">Moderate Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/013/560/original/15ab8560-6a12-49d0-a81f-368bd6c5b97a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/013/560/medium/15ab8560-6a12-49d0-a81f-368bd6c5b97a.png" srcset="" alt="Moderate Quiz" height="361" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A3861710-221D-0135-1C16-22000B5A851D" class="text-block-content">
+    <p>To moderate a quiz for one student, locate the student and click the <strong>Edit</strong> icon [1]. You can also filter students in your course by using the <strong>Search People</strong> field [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="moderate_quiz_for_multiple_students" data-step-uuid="cb244fda-ca40-410a-b317-085dcff92db9">
+    <h3 id="moderate_quiz_for_multiple_students" class="step-title screensteps-heading">Moderate Quiz For Multiple Students</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/013/562/original/da70565c-2bd7-47a2-aaa6-1ab3e8478790.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/013/562/medium/da70565c-2bd7-47a2-aaa6-1ab3e8478790.png" srcset="" alt="Moderate Quiz for Multiple Students" height="519" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A3864A80-221D-0135-1C18-22000B5A851D" class="text-block-content">
+    <p>If you want to select multiple students, click the checkbox [1] next to each of their names. If you want to select all students, click the top checkbox [2]. Click <strong>Change Extensions for [#] Selected Students</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_extra_time_on_attempt" data-step-uuid="e6d0241f-b13d-4a41-8d4f-3c23bf0062c9">
+    <h2 id="add_extra_time_on_attempt" class="step-title screensteps-heading">Add Extra Time on Attempt</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/705/348/original/8d661f01-61de-48d2-b92a-089821a6ec4c.png" srcset="" alt="Add Extra Time on Attempt" height="415" width="496">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A3867F80-221D-0135-1C1A-22000B5A851D" class="text-block-content">
+    <p>Type the number of extra minutes in the <strong>Extra Time on Every Attempt </strong>field. Extra time can only be added in full-minute increments.</p>
+<p>If you are adding time for multiple students, the student extension box will apply the extra time for all selected students.</p>
+<p>If the student hasn't taken the quiz, the extra time will be added to the student's initial attempt and additional attempts. Learn more about <a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-how-can-I-give-my-students-extra-attempts/ta-p/1242" target="_blank"><span style="color:rgb(29,29,29);">managing extra attempts</span></a><span style="color:rgb(29,29,29);">.</span></p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The <strong>Extra Time on Every Attempt </strong>field only displays for quizzes with a time limit.</li>
+<li>Quiz availability dates still apply when moderating a quiz. If the Until date passes when students are taking the quiz with extended time, the quiz auto-submits even if the student's time extension has not expired.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_extra_time_on_current_attempt" data-step-uuid="a7ae58a5-b465-4e92-8298-99ed1693c2cf">
+    <h2 id="add_extra_time_on_current_attempt" class="step-title screensteps-heading">Add Extra Time on Current Attempt</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/013/558/original/144936e0-a450-454e-b592-0eea006c2d34.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/013/558/medium/144936e0-a450-454e-b592-0eea006c2d34.png" srcset="" alt="Add Extra Time on Current Attempt" height="344" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A386B430-221D-0135-1C1C-22000B5A851D" class="text-block-content">
+    <p>If a student is currently taking the quiz while you are viewing the Moderate Quiz page, you can extend the quiz time as part of their current attempt.</p>
+<p>For current attempts, the remaining time will display next to a <strong>clock icon.</strong> </p>
+<p>To extend the time on the quiz, click the clock icon.</p>
+<p><strong>Note: </strong>You can only extend the time for one current quiz attempt at a time.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="extend_quiz_time" data-step-uuid="045fb4de-8d68-4673-8089-bec6feb54440">
+    <h2 id="extend_quiz_time" class="step-title screensteps-heading">Extend Quiz Time</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/833/original/51072ff5-0b06-46d6-b4da-069f83d82027.png" srcset="" alt="Extend Quiz Time" height="346" width="496">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A386E9E0-221D-0135-1C1E-22000B5A851D" class="text-block-content">
+    <p>Canvas will show you what time the quiz began, and what time it is scheduled to end.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="40e3a3ad-fe38-4e36-a244-9862064be88c">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/839/original/57db954b-1cb3-47ad-88a2-44d814205bfa.png" srcset="" alt="Extend Quiz Time" height="346" width="496">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A3872120-221D-0135-1C20-22000B5A851D" class="text-block-content">
+    <p>In the minutes field [1], enter the number of extra minutes you want to give the student as part of their current attempt. The maximum time you can extend a current attempt is 1440 minutes (24 hours).</p>
+<p>In the time drop-down menu [2], choose whether you want to add those minutes to the current time or the current (scheduled) end time.</p>
+<p>If you want to end the quiz in relation to the current time, select the <strong>now </strong>option in the drop-down menu. </p>
+<ul>
+<li>As an example, a student started a 20-minute quiz at 11:30 am; the quiz is set to end at 11:50 am. You moderated this quiz at 11:40, meaning that 10 minutes have gone by. However, you want to have the quiz end at 11:45. Since the current time is 11:40, you need to end the quiz in 5 minutes. Enter the number 5 in the minutes field, and select the <strong>now </strong>option in the drop-down menu.</li>
+</ul>
+<p> </p>
+<p>If you want to end the quiz in relation to the current end time of the quiz, select the <strong>current end time </strong>option in the drop-down menu. </p>
+<ul>
+<li>As an example, a student started a 20-minute quiz at 11:30 am; the quiz is set to end at 11:50 am. You moderated this quiz at 11:30, meaning it was nearly the same time that the student started the quiz, and you want to extend the quiz to end at noon. If the current end time is 11:50 am and you want to extend it by 10 minutes, enter the number 10 in the minutes field, and select the <strong>current end time </strong>option in the drop-down menu.  </li>
+</ul>
+<p><strong>Note: </strong>Quiz availability dates still apply when moderating a quiz. If the Until date passes when students are taking the quiz with extended time, the quiz auto-submits even if the student's time extension has not expired.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="extend_time" data-step-uuid="3ba070d0-9261-4ce5-827e-3f55adc193df">
+    <h2 id="extend_time" class="step-title screensteps-heading">Extend Time</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/841/original/9557ba5a-fce4-4d10-afcf-45e13fc27934.png" srcset="" alt="Extend Time" height="68" width="219">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A3875880-221D-0135-1C22-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Extend Time </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="less_time_warning" data-step-uuid="14a2e0f9-7a63-47c3-a511-12554b9d5b17">
+    <h3 id="less_time_warning" class="step-title screensteps-heading">Less Time Warning</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/843/original/bb6dfdba-5ede-460d-8bab-3ee1a14840aa.png" srcset="" alt="Less Time Warning" height="96" width="504">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A3878B50-221D-0135-1C24-22000B5A851D" class="text-block-content">
+    <p>Changing the time in relation to the <strong>Now</strong> option might mean that the student will have less time than was originally on the clock. In our example, the student still had 10 minutes remaining when the instructor moderated the quiz. Changing the time to 5 minutes means the student has 5 fewer minutes to take the quiz.  </p>
+<p>If you want to change this option, click the Cancel button. Otherwise, click the <strong>OK</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="verify-extension" data-step-uuid="d8f0e28e-0d49-4192-864d-f9d50f490476">
+    <h2 id="verify-extension" class="step-title screensteps-heading">Verify Extension</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/199/403/original/22e5a625-2aa5-44ee-b726-7940a806b97c.png" srcset="" alt="Verify Extension" height="335" width="844">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c5003dd0-057f-4821-ab07-979c044ffb01" class="text-block-content">
+    <p>View student time extensions on the Moderate Quiz page.  </p>
+<p><strong>Note: </strong>Once you finish moderating a quiz, you can unpublish the quiz and all moderations will be saved. You can then continue to edit the quiz prior to publishing it for your students to access.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

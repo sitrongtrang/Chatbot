@@ -1,0 +1,247 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F789E1C0-1D6E-0135-0747-22000BC102FE" class="text-block-content">
+    <p>The Help Menu assists users in your institution by displaying a list of Canvas help resources. Depending on their role, users can view up to eight default help options. As an admin, you can reorder or hide default links in the Help menu. You can also add custom help links for your institution and choose if they should be available to all users or specific user roles. You can highlight links by adding a New label to a link or by featuring the link in the Help menu. </p>
+<p>You can also change the Help icon and text that displays throughout Canvas. </p>
+<p>This article shows how to access the Help Menu Options directly from the Global Navigation Menu. However, you can also access the Help menu options in Account Settings.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Canvas Help menu customizations are only available at the account level and automatically apply to all subaccounts. When opening the Help menu, only admins can view the customization link.</li>
+<li>Help menu customizations are not available in Free-for-Teacher accounts.</li>
+<li>The Help menu links also display when a user accesses the Help link in the Login page. However, the Ask Your Instructor a Question and Ask the Community links are never part of the Help menu in the Login page since the Login page does not associate a user by role.</li>
+<li>The Help menu includes a Show Welcome Tour link which displays a short welcome tour for Admins, Instructors, and Students. This link cannot be disabled.</li>
+<li>Release note links can be added to the Help Menu by enabling the Embedded Release Notes feature option. When the feature option is enabled, this feature cannot be customized in Account Settings.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="customize_help_menu" data-step-uuid="767aad13-f902-4d15-917f-57a639f23645">
+    <h2 id="customize_help_menu" class="step-title screensteps-heading">Customize Help Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/853/413/original/cc220f4e-47f5-4bcf-a240-69740367e43d.png" srcset="" alt="Access Account" height="965" width="440">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78A14C0-1D6E-0135-0749-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Help Menu </strong>link [1], then click the <strong>Customize this menu</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_help_menu_options" data-step-uuid="9006cad7-b807-4972-976d-8b546ab9ee2c">
+    <h2 id="view_help_menu_options" class="step-title screensteps-heading">View Help Menu Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/276/174/original/18c2ab0c-6c4e-4a8a-bc02-d6bbcb285065.png" srcset="" alt="View Help Menu Options" height="617" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78A4600-1D6E-0135-074B-22000BC102FE" class="text-block-content">
+    <p>In the Settings tab, locate the <strong>Help menu options </strong>section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="customize_name" data-step-uuid="b0162a83-dabc-4014-9255-996cc39f973f">
+    <h2 id="customize_name" class="step-title screensteps-heading">Customize Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/276/184/original/9f7ac38f-1d95-40e4-8ae3-ce30cc15e14f.png" srcset="" alt="Customize Name" height="61" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78A7680-1D6E-0135-074D-22000BC102FE" class="text-block-content">
+    <p>By default, the Canvas Help menu text displays as <em>Help</em>. To change the text, enter the new name in the text field. </p>
+<p>The name of the Help menu displays in Global Navigation, the footer of the login page, and the top menu bar in SpeedGrader. The name should be no more than 30 characters.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="customize_icon" data-step-uuid="8f8cc7ee-6c4a-4548-a90e-785a1bda4d69">
+    <h2 id="customize_icon" class="step-title screensteps-heading">Customize Icon</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/276/182/original/6bc53179-efcc-43f7-9708-51f699c84811.png" srcset="" alt="Customize Icon" height="61" width="475">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78AA670-1D6E-0135-074F-22000BC102FE" class="text-block-content">
+    <p>By default, the Help navigation icon displays as a question mark. To change the navigation icon, select another icon from the included icon set. The selected icon displays a square border.   </p>
+<p>The navigation icon currently only displays in Global Navigation. To best assist your account users, the navigation icon should compliment the name of the Help menu.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="customize_help_menu_links" data-step-uuid="b767dd07-82a2-4530-a66d-50e3ddebdf4a">
+    <h2 id="customize_help_menu_links" class="step-title screensteps-heading">Customize Help Menu Links</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/276/178/original/c72ff66f-c510-45a3-b0be-1c84c9296bdf.png" srcset="" alt="Customize Help Menu Links" height="440" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78ADE00-1D6E-0135-0751-22000BC102FE" class="text-block-content">
+    <p>You can allow your users to view up to eight default Help menu links according to their role:</p>
+<ul>
+<li>
+<strong>Conference Guides for Remote Classrooms</strong> [1]: Users can view and search <a href="https://community.canvaslms.com/docs/DOC-18572-conferences-resources" target="_blank">guides and resources for using Conferences</a> in remote classrooms and online learning</li>
+<li>
+<strong>COVID-19 Canvas Resources</strong> [2]: Users can view resources for teaching and learning online</li>
+<li>
+<strong>Ask your Instructor a Question</strong> (Students Only) [3]: Students can quickly send their instructor(s) questions about their courses; messages are copied to the Conversations Sent folder and moved to the Inbox when a reply is received</li>
+<li>
+<strong>Search the Canvas Guides</strong> [4]: Users can search the Canvas Guides for information about features inside of Canvas</li>
+<li>
+<strong>Report a Problem</strong> [5]: Users can submit problems with Canvas; tickets are either sent to Canvas or your own support team, depending on your institution's preference to <a href="/t5/Admin-Guide/How-can-I-manage-support-tickets-for-my-institution/ta-p/155" target="_blank">manage support tickets</a>
+</li>
+<li>
+<strong>Training Services Portal </strong>[6]: Users can access training resources provided by Instructure</li>
+<li>
+<strong>Ask the Community</strong> (Non-Students Only) [7]: Users can exchange ideas and solutions regarding Canvas functionality with Canvas experts and their Canvas peers</li>
+<li>
+<strong>Submit a Feature Idea</strong> [8]: Users can submit ideas about how to make Canvas better</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage_default_links" data-step-uuid="fa88615a-1990-4e55-a712-5b2614b04908">
+    <h3 id="manage_default_links" class="step-title screensteps-heading">Manage Default Links</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/276/180/original/e9b27852-d0cc-4f77-a5ef-55ec39b8ffaa.png" srcset="" alt="Manage Default Links" height="438" width="581">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78B15A0-1D6E-0135-0753-22000BC102FE" class="text-block-content">
+    <p>To move a default link up or down in the menu, click the up or down arrow [1]. To delete a default link, click the <strong>Delete</strong> icon [2]. To edit a default link, click the <strong>Edit </strong>icon [3]. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The Help menu links also display when a user accesses the Help menu from the Login page. However, even when enabled, Ask Your Instructor a Question, Ask the Community, and Training Services Portal links are never part of the Help menu in the Login page since the Login page does not associate a user by role.</li>
+<li>The Show Welcome Tour link cannot be modified or removed from the Help menu.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_default_links" data-step-uuid="0d3272b2-06e9-4148-8e6c-da28be654afe">
+    <h3 id="edit_default_links" class="step-title screensteps-heading">Edit Default Links</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/276/191/original/3ffd1f0b-b1be-4980-8069-e3fda11d3b13.png" srcset="" alt="Edit Default Links" height="644" width="601">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78B4450-1D6E-0135-0755-22000BC102FE" class="text-block-content">
+    <p>To edit the name of a default link, type in the <strong>Link name</strong> field [1]. To edit the description of a default link, type in the <strong>Link description</strong> field [2]. To select which users can view a default link, click the user role <strong>Available to </strong>checkboxes [3]. Options include Everyone, Students, Teachers, Admins, Observers, and Unenrolled. Unless otherwise changed, all user roles are selected for custom links. </p>
+<p>Use the <strong>Features</strong> checkboxes [4] if you wish to have the link display with a New label or as a featured link. To add a custom featured headline, edit the <strong>Featured headline</strong> field [5]. You may only have one featured link and one new link in the Help menu.</p>
+<p>To save your changes, click the <strong>Update link</strong> button [6].</p>
+<p><strong>Note: </strong>The Link URL cannot be changed for default links.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="restore_default_links" data-step-uuid="30ce16c1-ca0c-4f91-a18b-c35ad3c9bb8e">
+    <h3 id="restore_default_links" class="step-title screensteps-heading">Restore Default Links</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/206/059/original/480cf2cc-1317-4e51-a8d5-b6790a69a36d.png" srcset="" alt="Restore Default Links" height="481" width="417">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78B72E0-1D6E-0135-0757-22000BC102FE" class="text-block-content">
+    <p>If you want to restore a default link in the Help menu, click the <strong>Add Link </strong>button [1] and select the name of the link [2]. Faded links cannot be added as they are already in the Help menu [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_custom_link" data-step-uuid="4c31660a-0f65-434c-afd5-897d7e2e799b">
+    <h2 id="add_custom_link" class="step-title screensteps-heading">Restore Default Links</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/206/057/original/d4a53023-c1fc-45f2-8649-946128b09b32.png" srcset="" alt="Add Custom Link" height="481" width="405">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78BAA60-1D6E-0135-0759-22000BC102FE" class="text-block-content">
+    <p>If you'd like to add a custom link to the Help menu, click the <strong>Add Link </strong>button [1], then click the <strong>Add Custom Link </strong>option [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_link" data-step-uuid="df878fa8-8e7c-4f37-a1fb-56a84e989ec1">
+    <h3 id="add_link" class="step-title screensteps-heading">Add Link</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/276/176/original/69bd7def-f95f-4b92-b987-86b4c9680886.png" srcset="" alt="Add Link" height="648" width="604">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78C4DA0-1D6E-0135-075B-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Link name</strong> field [1], enter the link name.</p>
+<p>In the <strong>Link description </strong>field [2], enter a description for the link.</p>
+<p>In the <strong>Link URL</strong> field [3], enter the URL for the link. This field is required. </p>
+<p>The link URL field also supports the telephone URL and mailto schemes. </p>
+<ul>
+<li>To create a click-to-call link in the Help menu, enter tel:+ followed by the internal format of the phone number (country code, area code, and number) in this field. Additionally, users can use the telephone link to call the number through their computers. When a user clicks the link, the user receives a confirmation alert before the call is placed. (Users <em>may </em>be able to access telephone links when viewing Canvas in a mobile browser, although mobile browsers are not officially supported by Canvas.) </li>
+<li>To create a mailto scheme in the Help menu, enter mailto: followed by the email address. When a user clicks the link, the user's browser opens the email service configured in the user's browser and creates an email to the designated email address. If no browser configuration is set, the browser will try to pass the email link to a desktop email program.</li>
+</ul>
+<p>For the <strong>Available to</strong> checkboxes [4], select the user(s) who can view the link. Options include Everyone, Students, Teachers, Admins, Observers, and Unenrolled. Unless otherwise changed, custom links select checkboxes for all roles.</p>
+<p>Use the <strong>Features</strong> checkboxes [5] if you wish to have the link display with a New label or as a featured link. To add a custom featured headline, edit the <strong>Featured headline</strong> field [6]. You may only have one featured link and one new link in the Help menu.</p>
+<p>Click the <strong>Add Link </strong>button [7].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage_custom_links" data-step-uuid="a995bb56-2846-4ae6-ba45-32560877db91">
+    <h3 id="manage_custom_links" class="step-title screensteps-heading">Manage Custom Links</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/206/056/original/5bd5f111-e6dd-46d6-98da-37b9bbb3c4bc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/206/056/medium/5bd5f111-e6dd-46d6-98da-37b9bbb3c4bc.png" srcset="" alt="Manage Custom Links" height="255" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78C7AE0-1D6E-0135-075D-22000BC102FE" class="text-block-content">
+    <p>To move a custom link up or down in the menu, click the up or down arrow [1]. To edit a custom link, click the <strong>Edit </strong>icon [2]. To delete a custom link, click the <strong>Delete </strong>icon [3].</p>
+<p>To add another custom link, click the <strong>Add Link </strong>button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_settings" data-step-uuid="69b8ddef-c68f-444d-9329-4d850aaebf9f">
+    <h2 id="update_settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/437/original/4dad0c96-6b2d-4d71-ab5d-66595320ee12.png" srcset="" alt="Update Settings" height="75" width="174">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F78CD790-1D6E-0135-075F-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Update Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

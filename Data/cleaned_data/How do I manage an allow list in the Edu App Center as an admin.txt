@@ -1,0 +1,22 @@
+How do I manage an allow list in the Edu App Center as an admin
+Log in to Edu App Center
+In the browser's search bar, type eduappcenter.com and click the Login link.
+Select how you want to log in by choosing Twitter, Github, Microsoft, Google, or creating an account using an email.
+Open Organizations
+Click the Admin link. In the drop-down menu, select the Organizations link.
+Learn more about creating and managing organizations.
+Manage Allow List
+Click the Manage Allow List button.
+Manage Apps
+By default, all apps are hidden. Hidden apps do not display in the app center list. You can show or hide all apps by clicking the Allow All or Hide All buttons. 
+Show or hide individual apps by clicking the Hidden and Visible buttons next to the app. 
+When you are finished, return to your organization page by clicking the name of your organization.
+Note: Apps added to an EduAppCenter allowlist may take up to 24 hours to display in Canvas.
+Create New Token
+To create an API Token, click the Create New Token button.
+Note: When an invalid access token is inputted into the Edu App Center, no tools display.
+Share API Token
+To view your app token, click the App Center Tokens tab.
+Copy the API token to use for your allow list. 
+An API token can be used to manage allow lists directly in Canvas and display approved apps at the account, subaccount, and course levels. 
+Note: An organization can create multiple tokens, but each token directs to the same allow list. Multiple tokens can be used to create access for specific users and deleted at a later date. 

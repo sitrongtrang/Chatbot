@@ -1,0 +1,80 @@
+How do I set details for a course as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Open Course Details
+Click the Course Details tab.
+View Course Identification
+The first section of Course Details shows you an overview of your course, including the course name and course code. Depending on your institution, you may not be able to change your course name and code.
+To change your course time zone, use the Time Zone drop-down menu. 
+If you can view SIS IDs, you can view the SIS ID for the course. You can also view the assigned subaccount for the course.
+View Course Status
+If you have permission to publish or unpublish courses, you can manage your course status in the sidebar. To publish the course, click the Publish button. To unpublish your course, click the Unpublish button.
+If you do not have permission to modify your course status or if your course has been published and includes grades, you cannot modify the course's published status. 
+Learn more about publishing a course. 
+Notes:
+You must publish a course before students can access it and its contents. Students cannot see unpublished courses and content.
+Publishing a course is a course permission. If you cannot publish your course, your institution has restricted this feature.
+If you are using a Free-for-Teacher account, you cannot publish a course until you have verified your email address.
+View Course Image
+If your institution allows you to add an image to a course card in the Dashboard, you can add or replace the course image.
+View Blueprint Course
+Your Course Details tab indicates whether the course has been enabled as a blueprint course and displays Yes or No. 
+If your course is associated with a blueprint course, your Course Details tab indicates the name of the blueprint course. The course name also includes the course ID as a reference (e.g. courses/XXX). If you have been enrolled in the blueprint course as an instructor or TA, the name of the blueprint course will contain a link to access the blueprint course.
+Most commonly, your course will be associated with a blueprint course and you can only manage unlocked content in your course. If your course is a blueprint course, you can lock and sync course content to associated courses. 
+View Course Dates
+Courses may be assigned to the Default Term or a specific term. By default, your students will be able to participate in the course within the term dates. 
+If needed, you can allow students to participate within course dates and set specific course start and end dates. However, changing course dates may override term availability settings and placement in the Courses page and Dashboard. Please confirm term dates before adding course participation dates. 
+You may also be able tochange student access settings to allow or restrict students from viewing your course before the start or end date.
+Note: If a course participation end date is set to midnight, a warning message displays.
+View Quantitative Data Options
+If allowed by your admin, you can restrict the view of quantitative data. When selected, this setting limits the view of course quantitative (numeric) grading data. Students and observers only see qualitative data, which includes letter grades and comments.
+Points are converted to a letter grade and points possible are hidden. All other grading information is visible.
+Notes:
+If the course does not have a custom grading scheme, the Default Canvas Grading Scheme is used.
+When the setting is enabled, Admins, Instructors, and TAs can still see quantitative data.
+The setting is visible only if your admin enables the quantitative data restriction setting in the account.
+Default Due Time
+You can set a default due time for all assignments in your course.
+Updating the default due time does not change existing assignments with set due times.
+View Course Language
+You can set a specific language for your course. By default the language is set to Not set, English (US). Selecting a language for your course will override user language preferences and is only recommended for courses conducted in the selected language.
+View File Storage
+You can view the storage file size allowed in your course. File storage consists of all files in course files and assignment submissions. Administrators at your institution set the file storage quota for each course.Notes:
+Canvas course imports count against course quotas. If a course import fails, verify the size of the file against your course file storage quota. If necessary, contact your Canvas admin to request a larger course quota. 
+Copied Canvas courses and course items do not count against course file storage quotas. You can copy existing Canvas courses and course items from the original course into your new course without impacting your course file storage quota.
+View Large Course Setting
+You can enable the option to launch SpeedGrader filtered by student group in your course. When this setting is enabled, you must choose a student group when opening SpeedGrader. This setting is disabled by default.
+View Grading Scheme
+You can enable a grading scheme for your course. A grading scheme is a set of criteria that measures varying levels of achievement in a course. You can also view the current existing grading scheme, if any. This setting is disabled by default.
+View License
+You can view the license for your course. By default all content is considered private and copyrighted, but you can also release your content to the public domain or choose a Creative Commons license. When making your course public, you will most likely want to set a license for your course.
+View File Usage Rights
+You can view the file copyright setting for your course. If this option is enabled, usage right information must be selected for all course files before they can be published. This setting is disabled by default.
+Note: If the option to manage file usage rights cannot be changed, your institution has locked this setting.
+View Visibility
+You can view any visibility settings for your course. Each visibility option is independent of the others. You cancustomize course visibility,customize content visibility,and include the course in thepublic course index.
+View Formats
+You can set the format for your course in the Format menu. This setting specifies the intended format of the course. To change the course format, click the format drop-down menu.
+If Mastery Paths has been enabled by your institution, you can enable Mastery Paths for your course. Mastery Paths allows you to customize learning experiences for students based on performance.
+You can also allow users to download your course for offline viewing using one of two options. 
+If ePub Exporting is enabled in your course, you can view the ePub Export check box and change the ePub format.
+If your course displays an Offline Course check box, your institution has enabled course content to be viewed offline as an HTML file. By default, this check box will be selected. However, you can manage offline course access by deselecting the check box at any time.
+Note: If Mastery Paths is locked at the account level, the setting cannot be managed at the course level.
+View Description
+If your course is part of the public course index, you can include a description for your course in the description field.
+View Additional Settings
+You can grant additional course privileges for students by selecting the appropriate checkbox: 
+Allow students to self-enroll by clicking the Let students self-enroll by sharing with them a secret URL or code checkbox. Disabled by default.
+Show recent announcements on the course home page by clicking the Show recent announcements on course home page checkbox. Disabled by default.
+Allow students to attach files to discussion replies by clicking the Let students attach files to Discussions checkbox. Enabled by default.*
+Allow students to create new discussion topics by clicking the Let students create Discussion Topics checkbox. Enabled by default.*
+Allow students to edit or delete their own discussion replies  by clicking the Let students edit or delete their own discussion replies checkbox. Enabled by default.*
+Allow students to create their own student groups by clicking the Let students organize their own groups checkbox. Enabled by default.
+Hide student grade totals in the grades page by clicking the Hide totals in student grades summary checkbox. Disabled by default.
+Hide the grade distribution graphs in the grades page by clicking the Hide grade distribution graphs from students checkbox. Disabled by default.
+Disable comments on announcements by clicking the Disable comments on announcements checkbox.* (Depending on your institution's preference, this option may already be selected for you.)
+Allow students to edit course pages by default by selecting the Edit course pages drop-down menu.*
+If the Content Security Policy is enabled in an account, admins can disable the Content Security Policy for a course by clicking the Disable Content Security Policy checkbox. If the box is checked, the policy is disabled for this course.
+* These options can also be selected from the feature's index page.
+Update Course Details
+Click the Update Course Details button to save changes.

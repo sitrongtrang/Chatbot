@@ -1,0 +1,69 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_20CFB320-5734-0138-4197-0ED2891A6CD5" class="text-block-content">
+    <p>Many external apps (LTIs) can be accessed from Course Navigation. However, you may have to enable the link in your Course Settings before it displays in Course Navigation.</p>
+<p><strong>Note: </strong>Some apps are hidden from certain roles. If you are a student or TA, contact your instructor. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-title" data-step-uuid="20CFC5D0-5734-0138-4198-0ED2891A6CD5">
+    <h2 id="step-title" class="step-title screensteps-heading">Review Course Navigation Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/341/814/original/303ef359-22cb-4d7d-845c-eea77cdfe03e.png" srcset="" alt="Review Course Navigation Settings" height="932" width="710">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_20CFECE0-5734-0138-419A-0ED2891A6CD5" class="text-block-content">
+    <p>External Apps are not always enabled in Course Navigation by default. To enable a Course Navigation link, click the <strong>Settings</strong> link [1]. Then click the <strong>Navigation </strong>tab [2]. </p>
+<p>Locate the external app and <a href="/t5/Instructor-Guide/How-do-I-add-an-external-app-in-a-course/ta-p/1082" target="_blank">ensure it is enabled.</a> When finished, click the <strong>Save </strong>button [4]<strong>.</strong></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="review-current-external-apps" data-step-uuid="eda9687b-84bf-4b80-a2f1-f3d54208af2a">
+    <h2 id="review-current-external-apps" class="step-title screensteps-heading">Review Current External Apps</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/341/819/original/1581531b-1bf8-4bec-8ee0-695662a4a144.png" srcset="" alt="" height="316" width="712">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_28a0fb37-99ee-4302-abd9-ba3f8890a8c9" class="text-block-content">
+    <p>You can also verify that the External Tool is added in your course. In Course Settings, click the <strong>Apps</strong> tab [1]. Then click the <strong>View App Configuration</strong> button [2].</p>
+<p>App Configurations displays a list of all apps in your course. If the desired app is not there, <a href="https://community.canvaslms.com/t5/Troubleshooting/Using-an-external-tool-in-my-course/ta-p/849" target="_blank">you may need to add the LTI.</a> You may need to reach out to your Canvas admin for help adding an app.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="review-external-app-documentation" data-step-uuid="859d7ade-6be9-48ca-a9c2-c538ec769b7d">
+    <h2 id="review-external-app-documentation" class="step-title screensteps-heading">Review External App Documentation</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3228666f-d79b-42bd-8b9b-7c79cde682a0" class="text-block-content">
+    <p>Not all apps display a link in Course Navigation. You may only access some apps from Assignments or Modules or when using the Rich Content Editor. You can <a href="/t5/Instructor-Guide/How-do-I-manage-external-app-placements-for-a-course/ta-p/469483" target="_blank">manage external app placement </a>for a course.</p>
+<p>For more information about an app's exact availability and functionality within Canvas, review the documentation created by the application's provider or contact the app support team for further information.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

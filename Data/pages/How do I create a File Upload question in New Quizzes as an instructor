@@ -1,0 +1,175 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_f46e0e6c-2f78-4fc8-bb49-a7aebd2c2121" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can create a File Upload question in New Quizzes. You can limit the number of files and the file extensions that can be uploaded by students.</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate File Upload questions</a> to create a new question.</p>
+<p><strong>Note:</strong> DocViewer commenting and annotations tools are not available when grading file upload submissions in SpeedGrader.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="9ec9eab3-4f37-45d4-9b1e-ced79064e8b8">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/965/689/original/addb3f2c-50dd-4a9c-90d9-24c497c08215.png" srcset="" alt="Add Question" height="415" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_de2ae120-246a-4663-97fe-aac0c815a324" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="a05ab28c-c43a-45b5-a285-c88adf09146c">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add File Upload Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/775/981/original/06779777-9afb-480b-a739-5b308ab6edb8.png" srcset="" alt="Add File Upload Question" height="555" width="758">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8f1b9125-5a3d-49ae-9b07-765cc0890934" class="text-block-content">
+    <p>Click the <strong>Add File Upload</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-details" data-step-uuid="26dea64f-baee-4470-8bba-54aba8222968">
+    <h2 id="add-question-details" class="step-title screensteps-heading">Add Question Title and Stem</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/248/original/6b6c1e45-7269-492c-ab9c-7c92fab69de4.png" srcset="" alt="Add Question Title and Stem" height="183" width="722">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a5f0a5d1-df85-413f-b022-d6bd8523bbc2" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Question Stem</strong> field [2], add the question stem. The question stem contains the question and, if necessary, additional instructions and information. You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your question stem.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-on-screen-calculator" data-step-uuid="46ff08d1-54ab-42da-9d0c-500481995c96">
+    <h2 id="enable-on-screen-calculator" class="step-title screensteps-heading">Enable On-Screen Calculator</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/303/327/original/ed10233c-7901-4612-b175-f15d59c9070a.png" srcset="" alt="Enable On-Screen Calculator" height="429" width="626">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_852ffdf8-aaf7-4b00-9acf-afb7c5dfb589" class="text-block-content">
+    <p>To allow students to use an on-screen calculator for this question, click the <strong>Show on-screen calculator</strong> checkbox [1]. </p>
+<p>If you select this option, you can enable a basic calculator [2] or scientific calculator [3]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="limit-file-uploads" data-step-uuid="e682c867-07cf-4697-aa4f-df271298a458">
+    <h2 id="limit-file-uploads" class="step-title screensteps-heading">Limit File Uploads</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/574/original/45156722-8eb3-4428-8894-fd6f7c672690.png" srcset="" alt="Limit File Uploads" height="214" width="632">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6284999e-d77c-4567-b025-265ad491bf39" class="text-block-content">
+    <p>To limit the number of file uploads allowed for students, click the <strong>Limit File number </strong>checkbox [1]. Then type the file number in the <strong>Number</strong> field [2] or use the arrows to increase or decrease the value [3].</p>
+<p><strong>Note: </strong>If the Limit File number option is not selected, students are allowed unlimited uploads to a question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="restrict-file-types" data-step-uuid="2131645a-7231-4402-abec-f1d1c123fff5">
+    <h2 id="restrict-file-types" class="step-title screensteps-heading">Restrict File Types</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/564/original/f08f0843-c1cc-44a5-aa58-b91a8d6c70ce.png" srcset="" alt="Restrict File Types" height="242" width="633">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_082d682f-94cd-45f0-add4-d486709ff2e7" class="text-block-content">
+    <p>To restrict the file types that can be uploaded by students, click the <strong>Restrict File Types </strong>checkbox [1]. Then enter the file extensions separated by commas in the <strong>File Types</strong> field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="02407505-c4f7-41f9-958f-e9e29e54a3e3">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/570/original/864a0ca9-6556-41c4-a165-853ba9185207.png" srcset="" alt="Align to Outcome" height="277" width="622">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c20f5c4a-68ca-4fb5-bf8c-1e828b0f6d4f" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="b0eed01b-dd61-4ba6-bd12-f0f6703b4add">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/562/original/ccffaf26-38a6-457e-bfc9-44e804c11a74.png" srcset="" alt="Add to Item Bank" height="133" width="620">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_40231a46-7a51-41ef-b841-31365b99c447" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note:</strong> After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="9c7e6a82-6e7c-46bc-8952-ed2e0d796a35">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value and Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/572/original/ce1f6ba9-98fd-404d-81a1-c16ed0f50455.png" srcset="" alt="Add Point Value and Feedback" height="276" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e0e66a3e-916e-46b9-b8a1-fe0630d546a8" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-feedback-to-a-question-in-New-Quizzes/ta-p/591" target="_blank">leave feedback for students</a>, click the <strong>Feedback</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="8418a953-4aaf-4cc5-a8b2-781e3931be39">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/965/693/original/44ea04e8-b794-4788-ba09-3f6a594f52e4.png" srcset="" alt="Save Question" height="63" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_30894dba-d233-4321-80ed-d41ec1a19a31" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

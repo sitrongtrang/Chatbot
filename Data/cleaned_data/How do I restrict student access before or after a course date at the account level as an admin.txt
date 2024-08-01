@@ -1,0 +1,28 @@
+How do I restrict student access before or after a course date at the account level as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Account Settings
+In Account Navigation, click the Settings link.
+View Restriction Options
+In the Account Settings tab, locate the course restriction options.
+By default, student access checkboxes are not selected, meaning in all sub-accounts and courses students can view a link to any enrolled future course (after they accept their course invitation) or a concluded course. Additionally by default, the lock checkboxes are not selected, meaning sub-account admins and teachers can override this setting for a sub-account or course. 
+To retain these defaults for the entire institution, do not select any checkboxes. 
+Notes:
+The student restriction checkboxes set a preset for all new courses created in the account, as well as section override dates.
+The lock settings apply immediately to all existing courses and section override dates in the account.
+Restrict Students Before Start Date
+To set a default for the entire account so that students cannot view a link to the course before the start date, click the Restrict students from accessing courses before start date checkbox. When selected, the course is inaccessible before the course start date. If course participation dates are set to follow term dates, the course start date applies the term start date.
+If you want to lock the default setting for sub-accounts and courses and apply the change immediately, click the Lock this setting for sub-accounts and courses checkbox. 
+Allow Student Access Before Start Date
+To set a default for the entire account so that students can view a link to the course before the start date, do not select the Restrict students from accessing courses before start date checkbox, but select the Lock this setting for sub-accounts and courses checkbox. 
+Restrict Course in Enrollments List
+When you restrict students from accessing courses before the start date, you can also restrict students from viewing future courses in the Enrollments list.
+If you don't want students to see they have been enrolled in a future course, select the Restrict students from viewing future courses in enrollments list checkbox. 
+If you want to lock the default setting for sub-accounts and apply the change immediately, click the Lock this setting for sub-accounts checkbox.
+Restrict Students After End Date
+To set a default for the entire account so that students cannot access the course after the course end date, click the Restrict students from viewing courses after end date checkbox. When selected, the course is inaccessible after the course end date. If course participation dates are set to follow term dates, the course end date applies the term end date.
+If you want to lock the default setting for sub-accounts and courses and apply the change immediately, click the Lock this setting for sub-accounts and courses checkbox.
+Allow Student Access After End Date
+To set a default for the entire account so that students can access the course after the course end date, do not select the Restrict students from accessing courses after end date checkbox, but select the Lock this setting for sub-accounts and courses checkbox. 
+Update Settings
+Click the Update Settings button.

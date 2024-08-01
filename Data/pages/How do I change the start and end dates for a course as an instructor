@@ -1,0 +1,179 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_99486830-698E-0139-6544-12F2183ABDFB" class="text-block-content">
+    <p>By default, students can participate in courses within the term start and end dates set for your entire institution. However, as an instructor, you may need to change the participation start and end dates for your course. Dates can be shorter than or overlap the term dates. For more information, view the interactive <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Student-Course-Visibility-and-Participation-Flowchart/ta-p/387094" target="_blank">Student Course Visibility and Participation flowchart</a>. </p>
+<p><strong>Limit User Participation Dates</strong></p>
+<p>You can limit user participation to certain dates by setting course participation dates. Participation means that students can submit assignments, post discussions, upload files, or take part in any other action-based task within a course. If you set course participation dates, students can accept the course invitation, access the course, and look at content, but they cannot fully participate until the first day of the course. When the course is concluded, the course is placed in a read-only state.</p>
+<p><strong>Dashboard Considerations</strong></p>
+<p>The Student participation dates may also affect courses that have been marked as a favorite and display in the Dashboard. If a course includes course participation dates, students cannot participate in the course after the end date, and the course will be removed from the Dashboard. </p>
+<p>Moreover, if term dates are being used as course participation dates, the course will not be removed from the Dashboard until the course is concluded via term dates. </p>
+<p><strong>Restrict Course Access</strong></p>
+<p>If you do not want students to view any content in the course until the course start date, Course Settings also allows you to restrict students from being able to access content. You can also choose to <a href="/t5/Instructor-Guide/How-do-I-restrict-student-access-to-a-course-before-or-after-the/ta-p/1269" target="_blank">restrict all course access</a> after the course has concluded.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If you cannot change what is displayed in the Participation drop-down menu, your institution has restricted instructors from modifying course availability dates.</li>
+<li>You can only change the course end date when your enrollment is active. Course dates cannot be changed once your enrollment has concluded for the course.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="99487D80-698E-0139-6545-12F2183ABDFB">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/751/165/original/5bc59604-e33d-48c5-85f2-f87e00d0843c.png" srcset="" alt="Open Settings" height="275" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9948B940-698E-0139-6547-12F2183ABDFB" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_details" data-step-uuid="9948D140-698E-0139-6548-12F2183ABDFB">
+    <h2 id="open_course_details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/176/139/original/838f73e1-12b3-4572-9166-ec879236ee07.png" srcset="" alt="Open Course Details" height="82" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99490AE0-698E-0139-654A-12F2183ABDFB" class="text-block-content">
+    <p>Click the <strong>Course Details </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-course-participation-dates" data-step-uuid="994924A0-698E-0139-654B-12F2183ABDFB">
+    <h2 id="set-course-participation-dates" class="step-title screensteps-heading">View Term Participation Dates</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/672/793/original/23500fa9-0eb3-4738-94ad-de02e83e46f5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/672/793/medium/23500fa9-0eb3-4738-94ad-de02e83e46f5.png" srcset="" alt="View Term Participation Dates" height="526" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99496320-698E-0139-654D-12F2183ABDFB" class="text-block-content">
+    <p>Courses may be assigned to the Default Term or a specific term [1]. By default, courses are set to follow the term start and end dates set for your entire institution [2].</p>
+<p>If the Term option is selected in the Participation drop-down menu, you can view the term start and end dates [3]. Term dates can only be modified by a Canvas admin. If no dates have been created for the term (such as when the Default Term is used), the Start and End fields will display as empty.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If the course is assigned to the Default Term and participation dates are set to follow term dates, students can participate in the course indefinitely. </li>
+<li>When setting a start and end date for a course instructors can view local and course time zones set for the course [4] and the local time for the user [5].</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-course-participation-dates_1" data-step-uuid="ef229e27-c152-4bd8-89ea-c1ae09e492ae">
+    <h2 id="set-course-participation-dates_1" class="step-title screensteps-heading">Set Course Participation Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/285/167/original/391a48ba-ca10-4ec9-9ca7-65c8c574b8c4.png" srcset="" alt="Set Course Participation Dates" height="275" width="590">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4b772941-f669-4b09-a26c-cc61dbd09861" class="text-block-content">
+    <p>To set different participation start and end dates for your course, click the <strong>Participation</strong> drop-down menu [1] and select the <strong>Course</strong> option [2]. </p>
+<p>If you cannot change what is displayed in the Participation drop-down menu, your institution has restricted instructors from modifying course availability dates [3].</p>
+<p><strong>Note:</strong> Course dates are cleared when participation dates are set to Term dates.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_course_start_date" data-step-uuid="99497EC0-698E-0139-654E-12F2183ABDFB">
+    <h2 id="set_course_start_date" class="step-title screensteps-heading">Set Start Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/249/419/original/707ab120-9a76-4960-a7bb-4dff9266977e.png" srcset="" alt="Set Start Date" height="428" width="442">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9949C450-698E-0139-6550-12F2183ABDFB" class="text-block-content">
+    <p>To select the start date, click the <strong>Start </strong>calendar icon [1]. Then select a new start date for the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_end_date" data-step-uuid="9949DF80-698E-0139-6551-12F2183ABDFB">
+    <h2 id="set_end_date" class="step-title screensteps-heading">Set End Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/249/421/original/76a9afef-c675-4d72-9512-390453f25c9d.png" srcset="" alt="Set End Date" height="555" width="395">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_994A0F90-698E-0139-6553-12F2183ABDFB" class="text-block-content">
+    <p>To select the end date, click the <strong>End</strong> calendar icon [1]. Then select a new end date for the course [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/249/423/original/e11799a9-af50-4bf1-a3a3-34ebd1a09860.png" srcset="" alt="Set End Date" height="199" width="576">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_994A5520-698E-0139-6555-12F2183ABDFB" class="text-block-content">
+    <p>If your end date time is midnight, a warning message displays notifying you that the date prior to the set end date will be the last participation day in the course. For instance, if the course were set to end January 13, the last full participation date for the course would be January 12.</p>
+<p><strong>Notes</strong>:</p>
+<ul>
+<li>Students can only participate in the course between the course dates, and the course will be in a read-only state outside the course dates.</li>
+<li>Course participation dates only affect student and observer roles; all other roles default to term access dates. </li>
+<li>End dates occur at precisely the minute they are set. For example, a course with an end time at 11:59pm will end at 11:59:00.</li>
+<li>Students will not receive notifications for course announcements prior to the course start date. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="restrict-course-access" data-step-uuid="994A7730-698E-0139-6556-12F2183ABDFB">
+    <h2 id="restrict-course-access" class="step-title screensteps-heading">Restrict Course Access</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/249/425/original/fb25b4d4-9c64-4c39-b94c-a5ec504b16ba.png" srcset="" alt="Restrict Course Access" height="401" width="601">
+  </div>
+ 
+  </div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_994AB7A0-698E-0139-6558-12F2183ABDFB" class="text-block-content">
+    <p>You may also be able to <a href="/t5/Instructor-Guide/How-do-I-restrict-student-access-to-a-course-before-or-after-the/ta-p/1269" target="_blank">change student access settings</a> to allow or restrict students from viewing your course before the start or end date. When selected, the course is inaccessible outside course dates. If course dates are blank, students can participate in the course indefinitely.</p>
+<p><strong>Note:</strong> If you cannot manage the settings to restrict students from viewing course content, your institution has not enabled this feature.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_course_details" data-step-uuid="994ADB10-698E-0139-6559-12F2183ABDFB">
+    <h2 id="update_course_details" class="step-title screensteps-heading">Update Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/649/original/2fa32743-66da-41e9-8fcb-6c2ab87960a6.png" srcset="" alt="Update Course Details" height="62" width="213">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_994B11A0-698E-0139-655B-12F2183ABDFB" class="text-block-content">
+    <p>Click the <strong>Update Course Details </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

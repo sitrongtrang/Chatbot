@@ -1,0 +1,127 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_92219191-5901-436c-8673-ffb5b6e0f649" class="text-block-content">
+    <p>When creating an assignment, you can choose to set up an assignment with anonymous grading. Selecting the anonymous grading option hides student names from graders when they view assignment submissions in SpeedGrader.</p>
+<p>If anonymous grading is not enabled as a feature option in your course, you can enable <a href="/t5/Instructor-Guide/How-do-I-hide-student-names-in-SpeedGrader/ta-p/768" target="_blank">anonymous grading in SpeedGrader</a> on a per-assignment basis at any time.</p>
+<p>You can add annotations and comments in DocViewer when Anonymous Grading is enabled. If you want to use DocViewer tools and create anonymous comments in the submission, you can <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">enable Anonymous Instructor Annotations</a> in your assignment instead.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Anonymous grading is currently a course opt-in feature. To enable this feature, learn how to manage feature options in the <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">course features lesson</a>.</li>
+<li>You or an admin can enable or disable the anonymous grading option at any time. Any edits made to the assignment will be tracked. To view assignment edits as well as other grading actions, <a href="/t5/Instructor-Guide/How-do-I-audit-an-assessment-in-SpeedGrader/ta-p/660" target="_blank">audit the assessment in SpeedGrader</a>.</li>
+<li>Anonymous grading can be enabled with <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">moderated grading assignment options</a>.</li>
+<li>Anonymous assignments automatically default to a <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-an-assignment-in-the/ta-p/574" target="_blank">manual posting policy</a>. Grades for anonymous assignments, like other manual post-policy assignments, are not displayed to students until assignment grades are posted.</li>
+<li>Posting grades for an anonymous assignment will remove anonymity from the assignment.</li>
+<li>Anonymous grading is not available for graded discussions. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="760262cb-2691-41ba-9942-09d2911f2548">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/931/original/c42a302d-71be-4ab4-b363-c88d1400509b.png" srcset="" alt="Open Assignments" height="241" width="163">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cc375a99-e2e0-4497-a8f1-567b28dd18a0" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="4c4087e1-e30b-4d0b-8cc3-e76f7c5a5378">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/738/002/original/9a57ef39-edd4-4a63-946b-6b88804445a2.png" srcset="" alt="Add Assignment" height="66" width="316">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_be83d66b-ed9c-46a1-bd0e-251e18550006" class="text-block-content">
+    <p>To create an assignment with all assignment details at the same time, click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open_assignment" data-step-uuid="9b1ee812-ab86-4d79-95e0-c0d31ef212bd">
+    <h3 id="open_assignment" class="step-title screensteps-heading">Edit Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/877/original/04e995a7-3ae4-407e-9481-457b16be3b95.png" srcset="" alt="Edit Assignment" height="213" width="741">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_64a175f7-aca5-4bcb-b76b-4324ff537ed5" class="text-block-content">
+    <p>If you want to edit an existing assignment that has not yet received student submissions, click the name of the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-assignment-details" data-step-uuid="cb9790c7-a618-42f2-9d8b-96306e868160">
+    <h3 id="add-assignment-details" class="step-title screensteps-heading">Add Assignment Details</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/237/668/original/7210b2d5-6abf-43c0-a8c3-9dae6e1033b8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/237/668/medium/7210b2d5-6abf-43c0-a8c3-9dae6e1033b8.png" srcset="" alt="Add Assignment Details" height="606" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c6e3646e-7887-4a74-9f35-ee5a7f72f6cc" class="text-block-content">
+    <p>Add <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">details to the assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-anonymous-grading" data-step-uuid="222bf4aa-f758-44a4-88e2-723e3437ae3a">
+    <h2 id="select-anonymous-grading" class="step-title screensteps-heading">Select Anonymous Grading</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/737/994/original/c461b2fa-8fc2-48b7-be0a-499df82bc033.png" srcset="" alt="Select Anonymous Grading" height="96" width="543">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f0f74696-3727-42b1-81fb-48367c2cee8d" class="text-block-content">
+    <p>Click the <strong>Graders cannot view student names</strong> checkbox. </p>
+<p><strong>Note: </strong>If the <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">moderated grading assignment option</a> is also enabled, anonymous grading includes an additional option for graders to not view each other's names.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-assignment" data-step-uuid="dbf87179-fd38-4afe-b2d6-0312814731ed">
+    <h2 id="save-assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/756/399/original/2eda7988-cfdd-458f-b63e-8e050e12ff5b.png" srcset="" alt="Save Assignment" height="98" width="663">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a98acb0e-13a5-4d2d-82a1-c87d06dcaf69" class="text-block-content">
+    <p>If you want to notify users about any future assignment changes, click the <strong>Notify users that this content has changed</strong> checkbox [1]. </p>
+<p>Click the <strong>Save </strong>button [2]. </p>
+<p><strong>Note:</strong> If your assignment is not yet published, the assignment displays the <strong>Save &amp; Publish</strong> button. Clicking the Save button creates a draft of your assignment so you can publish it later.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

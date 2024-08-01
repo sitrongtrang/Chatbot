@@ -1,0 +1,147 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_B10522F0-E891-0137-8414-0E63FF21C970" class="text-block-content">
+    <p>As an admin, you can manage the file copyright settings for all course file uploads in your account. Copyright settings allow you to select whether or not usage rights information is required for course file uploads by default. You can also lock this setting for all sub-accounts and courses in your account.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="B1053670-E891-0137-8415-0E63FF21C970">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1055AE0-E891-0137-8417-0E63FF21C970" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account_settings" data-step-uuid="B1056BF0-E891-0137-8418-0E63FF21C970">
+    <h2 id="open_account_settings" class="step-title screensteps-heading">Open Account Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/375/original/81063932-7e70-4db4-9777-9fc4ba78a1a7.png" srcset="" alt="Open Account Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1059110-E891-0137-841A-0E63FF21C970" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-file-copyright-settings" data-step-uuid="90631123-cf08-4569-be2d-f6647136d711">
+    <h2 id="view-file-copyright-settings" class="step-title screensteps-heading">View File Copyright Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/577/137/original/a625405b-9016-49fe-b08a-fb7789013def.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/577/137/medium/a625405b-9016-49fe-b08a-fb7789013def.png" srcset="" alt="Account Settings" height="894" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9858111c-7a26-49db-bec1-ef3f218c2e95" class="text-block-content">
+    <p>Locate the file copyright settings in the Account Settings page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="require-file-copyright" data-step-uuid="ee6c5b88-973d-44cb-8a5d-4da1e28c3905">
+    <h2 id="require-file-copyright" class="step-title screensteps-heading">Require File Copyright</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/944/509/original/501143ba-1733-490c-ae70-9516684862ff.png" srcset="" alt="Account Settings" height="80" width="606">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b1466bed-3dcc-4857-a5ce-d9bc10e89737" class="text-block-content">
+    <p>To require copyright and license information for files before they are published, click the <strong>Copyright and license information must be provided for files before they are published </strong>checkbox [1].</p>
+<p>To lock this setting for sub-accounts and courses, click the <strong>Lock this setting for sub-accounts and courses</strong> checkbox [2]. If this option is enabled and locked, it will be enabled in all sub-accounts and courses and cannot be changed.</p>
+<p>If the Copyright and license information must be provided for files before they are published option is enabled and not locked, it will be enabled in all sub-accounts and courses by default, but can be disabled by sub-account admins or instructors, respectively.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="update-account-settings" data-step-uuid="9fe5a4bd-5a62-46cc-b5e9-1eac43c155af">
+    <h3 id="update-account-settings" class="step-title screensteps-heading">Update Account Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/944/516/original/64e5ea21-2932-4a6a-8774-7ee52821de32.png" srcset="" alt="Account Settings" height="70" width="168">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7e681bc1-ce9e-4898-a7b4-2957a2e916da" class="text-block-content">
+    <p>To update your account settings, click the <strong>Update Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-file-upload-message-course-files" data-step-uuid="96211d5c-e266-4217-a8a2-e93be5bcd1c2">
+    <h3 id="view-file-upload-message-course-files" class="step-title screensteps-heading">View File Upload Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/944/511/original/c4fbec7a-9fa8-404c-9501-033c76321041.png" srcset="" alt="View File Upload Message" height="316" width="807">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4903b417-739a-41a4-b60f-fbfd0ed88b3e" class="text-block-content">
+    <p>If copyright and license information is required at the course level, users will see an error message indicating that they must set usage rights before they can publish a file [1].</p>
+<p><a href="https://community.canvaslms.com/docs/DOC-12745-4152314032" target="_blank">Usage rights can be selected</a> in the <strong>Usage Right</strong> drop-down menu [2] and <strong>Copyright Holder</strong> field [3].</p>
+<p><strong>Note:</strong> Usage right settings do not apply to user files.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove-file-copyright-requirement" data-step-uuid="1f669849-b034-413d-9ef8-7131fc817c9b">
+    <h2 id="remove-file-copyright-requirement" class="step-title screensteps-heading">Remove File Copyright Requirement</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/944/518/original/a91f8702-2cce-426a-9273-456694a9a8f5.png" srcset="" alt="Account Settings" height="81" width="603">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94d438a9-1959-4b2c-bf82-36cc922190fb" class="text-block-content">
+    <p>To remove the requirement for copyright and license information for files before they are published, deselect the <strong>Copyright and license information must be provided for files before they are published </strong>checkbox [1]. </p>
+<p>To lock this setting for sub-accounts and courses, click the <strong>Lock this setting for sub-accounts and courses</strong> checkbox [2]. If this option is locked but not enabled, it will be disabled in all sub-accounts and courses and cannot be managed in sub-accounts or courses.</p>
+<p>If the Copyright and license information must be provided for files before they are published option is not enabled and not locked, it will be disabled in all sub-accounts and courses by default, but can be enabled by sub-account admins or instructors, respectively.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="update-account-settings_1" data-step-uuid="5e420fd2-5390-4b92-9fc3-141e865ace5b">
+    <h3 id="update-account-settings_1" class="step-title screensteps-heading">Update Account Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/944/507/original/0203f1dd-15f2-4841-a1ac-295eeb0e1b3e.png" srcset="" alt="Account Settings" height="70" width="168">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d5182ecf-7022-43e8-b9c7-7206b4322a8c" class="text-block-content">
+    <p>To update your account settings, click the <strong>Update Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

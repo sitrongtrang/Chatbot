@@ -1,0 +1,154 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9145A7E0-2223-0135-FFEB-22000AB760A3" class="text-block-content">
+    <p>The user details page shows a user's profile picture, memberships, and recent messages, as well as other data. </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If your user details page does not match the layout shown in this lesson, please reference the <a href="/t5/Instructor-Guide/How-do-I-view-a-user-s-profile-in-a-course-as-an-instructor/ta-p/1087" target="_blank">user profiles lesson</a>, which shows how to use the user details page when Profiles are enabled for your institution.</li>
+<li>Viewing user details and user email addresses are course permissions. Depending on your permissions, you may not be able to view all available information in a user's details page. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_people" data-step-uuid="2F87AD78-4D7B-4216-BC15-F19FBB7FECC1">
+    <h2 id="open_people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/236/original/b9fc289a-0799-4c53-a053-25223629f824.png" srcset="" alt="Open People" height="239" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9145EF60-2223-0135-FFED-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="locate_user" data-step-uuid="e9cf550c-ee62-44d6-9d2c-e93d87375981">
+    <h2 id="locate_user" class="step-title screensteps-heading">Locate User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/782/810/original/cf968a02-f9a4-4abd-980f-10391259373b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/782/810/medium/cf968a02-f9a4-4abd-980f-10391259373b.png" srcset="" alt="Locate User" height="72" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91462220-2223-0135-FFEF-22000AB760A3" class="text-block-content">
+    <p>In the search field [1], search for the name of the user. You can also filter users by role in the <strong>Roles</strong> drop-down menu [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_details" data-step-uuid="455edc97-96bb-4057-b202-a277e75ae650">
+    <h2 id="open_user_details" class="step-title screensteps-heading">Open User Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/250/687/original/1f94e9f8-c7b7-48a0-b4e9-53ceecd0519f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/250/687/medium/1f94e9f8-c7b7-48a0-b4e9-53ceecd0519f.png" srcset="" alt="Open User Details" height="226" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9146BC60-2223-0135-FFF1-22000AB760A3" class="text-block-content">
+    <p>Click the user's <strong>Options</strong> icon [1], then select the <strong>User Details </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_name_and_email" data-step-uuid="21604b9a-b7b9-40f5-8f76-f27dcc78e87f">
+    <h2 id="view_name_and_email" class="step-title screensteps-heading">View Name and Email</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/317/487/original/88e0a45a-b978-4f61-80e2-1b9942ff1121.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/317/487/medium/88e0a45a-b978-4f61-80e2-1b9942ff1121.png" srcset="" alt="View Name and Email" height="329" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9147E050-2223-0135-FFF3-22000AB760A3" class="text-block-content">
+    <p>The User Details page displays details about the user. </p>
+<p>In the user's Name and Email section, you can view the user's name [1], profile picture (if enabled by your institution) [2], default email [3], and time zone [4]. </p>
+<p>If the user has an inappropriate profile picture, you can remove it by clicking the <strong>Remove avatar picture</strong> link.</p>
+<p><strong>Note:</strong> Viewing user email addresses is a course permission. Depending on your permissions, you may not be able to view a user's email address.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_memberships" data-step-uuid="1F8D1CBB-6480-4CFF-BE6E-E9295EFA13DD">
+    <h3 id="view_memberships" class="step-title screensteps-heading">View Additional Details</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/317/491/original/1e58cdac-7a66-49ef-922d-65503a88a428.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/317/491/medium/1e58cdac-7a66-49ef-922d-65503a88a428.png" srcset="" alt="View Additional Details" height="671" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91482650-2223-0135-FFF5-22000AB760A3" class="text-block-content">
+    <p>To view membership details about the user, click the <strong>more user details </strong>link [1].</p>
+<p>You can view the user's course enrollment and user role [2]. If the user is assigne a custom role, currently only the base role is displayed. Depending on your course permissions, you may also be able to <a href="/t5/Instructor-Guide/How-do-I-conclude-an-enrollment-in-a-course/ta-p/744" target="_blank">conclude the enrollment</a> [3] and <a href="/t5/Instructor-Guide/How-do-I-remove-an-enrollment-from-a-course/ta-p/742" target="_blank">delete the enrollment</a> [4]. </p>
+<p>You can also view and<a href="/t5/Instructor-Guide/How-do-I-limit-a-user-to-only-interact-with-other-users-in-the/ta-p/1211" target="_blank"> manage user course section limitations</a> [5] and the <a href="/t5/Instructor-Guide/How-do-I-record-the-last-day-a-user-attended-a-course/ta-p/603" target="_blank">Last Day Attended</a> field [6].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_recent_messages" data-step-uuid="aa4453bc-a7cd-4bff-8624-5af185b899b5">
+    <h2 id="view_recent_messages" class="step-title screensteps-heading">View Recent Messages</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/782/808/original/f543611b-8e7e-40a4-aebe-ad7b7d3e4623.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/782/808/medium/f543611b-8e7e-40a4-aebe-ad7b7d3e4623.png" srcset="" alt="View Recent Messages" height="156" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_914859C0-2223-0135-FFF7-22000AB760A3" class="text-block-content">
+    <p>The Recent Messages section shows the user's recent activity in announcements and discussions, if any.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sidebar" data-step-uuid="591083FB-EE65-447F-BB07-03669D6B0A04">
+    <h2 id="view_sidebar" class="step-title screensteps-heading">View Sidebar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/799/original/68b0e484-4878-459e-b8f3-0a68bbbe5e83.png" srcset="" alt="View Sidebar" height="404" width="300">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91488F50-2223-0135-FFF9-22000AB760A3" class="text-block-content">
+    <p>If you have the appropriate permissions, the sidebar may also include links to additional information about the user:</p>
+<ul>
+<li>View a detailed grade report [1]</li>
+<li>Send a message using Conversations [2]</li>
+<li>View <a href="/t5/Instructor-Guide/How-do-I-view-my-course-interactions-with-an-individual-student/ta-p/755" target="_blank">your interactions with the student</a> using Canvas [3]</li>
+<li>View the <a href="/t5/Instructor-Guide/How-do-I-view-the-course-access-report-for-an-individual-user/ta-p/754" target="_blank">student's access report</a> [4]</li>
+<li>View the Outcomes associated with the student [5]</li>
+<li>View <a href="/t5/Instructor-Guide/How-do-I-view-analytics-for-a-student-in-a-course/ta-p/969" target="_blank">student analytics</a> [6] </li>
+<li>View any external services linked to the student's account [7]</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

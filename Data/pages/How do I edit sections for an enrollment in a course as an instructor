@@ -1,0 +1,137 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_D8017700-2220-0135-708B-22000BC102FE" class="text-block-content">
+    <p>Once <a href="/t5/Instructor-Guide/How-do-I-add-users-to-a-course/ta-p/1119" target="_blank">users have been added to your course</a>, you may be able to edit their course section from the People page. This feature allows you to make modifications to course sections without having to delete the section enrollment. </p>
+<p>If a user has not already accepted the course enrollment, editing the course section still requires the user to accept the course invitation. However, if a user has already accepted the initial course enrollment, editing a section does not require the user to accept a new course invitation.</p>
+<p>If a user was added to multiple sections in the course with the same user role, adding a section or editing a current section retains the user role given with the course enrollment. However, if the user has multiple user roles, a section edit is associated with the last user role given to the user. Learn how to <a href="/t5/Instructor-Guide/How-do-I-edit-user-roles-in-a-course/ta-p/748" target="_blank">edit user roles</a>.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Adding users to a section is a course permission. If you cannot add users to your course, your institution has restricted this feature.</li>
+<li>Sections may be added by your institution's student information system (SIS). If a user in your course includes an SIS ID, you may not have permission to edit sections.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_people" data-step-uuid="EFB2329B-4FEE-417E-B5EA-E6DF91DE037A">
+    <h2 id="open_people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/157/original/2cc102bd-0ae9-4ba6-8c73-c6787f4aaf7d.png" srcset="" alt="Open People" height="239" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D801AAD0-2220-0135-708D-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="locate_user" data-step-uuid="3cd79f8a-c490-456b-8655-e1873a600712">
+    <h2 id="locate_user" class="step-title screensteps-heading">Locate User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/782/892/original/23745098-632f-476a-8167-0b1b548e81df.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/782/892/medium/23745098-632f-476a-8167-0b1b548e81df.png" srcset="" alt="Locate User" height="67" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D801E340-2220-0135-708F-22000BC102FE" class="text-block-content">
+    <p><span style="color:rgb(49,49,49);">In the search field [1], search for the name of the user. You can also filter users by role in the </span><span style="color:rgb(49,49,49);"><strong>Roles</strong></span><span style="color:rgb(49,49,49);"> drop-down menu [2].</span></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_sections" data-step-uuid="E07BF54D-0A5D-480C-8F18-A2CAEDE99415">
+    <h2 id="edit_sections" class="step-title screensteps-heading">Edit Sections</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/250/730/original/bd12c826-4498-44f6-9dac-52ead889cb91.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/250/730/medium/bd12c826-4498-44f6-9dac-52ead889cb91.png" srcset="" alt="Edit Sections" height="231" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8021070-2220-0135-7091-22000BC102FE" class="text-block-content">
+    <p>Click the user's <strong>Options </strong>icon [1], then select the <strong>Edit Sections </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_section_enrollment" data-step-uuid="D23CDAE9-CD80-4D37-A15A-B115673BB416">
+    <h2 id="view_section_enrollment" class="step-title screensteps-heading">View Section Enrollment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/900/original/9a57966e-f349-43bc-bdc7-99fc2256a81b.png" srcset="" alt="View Section Enrollment" height="408" width="426">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8024490-2220-0135-7093-22000BC102FE" class="text-block-content">
+    <p>Canvas will show you the section(s) where the user is already enrolled.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_section" data-step-uuid="5BDC04CD-1449-4F78-AE3C-75BDB6CE4D52">
+    <h2 id="add_section" class="step-title screensteps-heading">Add Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/898/original/46a8594d-5ca6-4cee-b992-c0e8df91b21c.png" srcset="" alt="Add Section" height="404" width="428">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8027630-2220-0135-7095-22000BC102FE" class="text-block-content">
+    <p>To add a section, begin typing the name of the section in the text field [1] and click the section when it appears [2].</p>
+<p><strong>Note:</strong> Users can be in more than one section. You do not need to remove the original section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove_section_enrollment" data-step-uuid="6F8F4977-D6AF-447E-8840-1CDEE915DB09">
+    <h2 id="remove_section_enrollment" class="step-title screensteps-heading">Remove Section Enrollment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/902/original/1349e396-6a00-41e7-bc9e-f2f577a4834c.png" srcset="" alt="Remove Section Enrollment" height="453" width="425">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D802AAC0-2220-0135-7097-22000BC102FE" class="text-block-content">
+    <p>To remove a student from a section, click the <strong>Remove </strong>icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_enrollment" data-step-uuid="871e6f7f-ccc3-41c9-b52f-16bb34893ad0">
+    <h2 id="update_enrollment" class="step-title screensteps-heading">Update Enrollment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/894/original/58758d35-c8db-434b-8483-fba529f44507.png" srcset="" alt="Update Enrollment" height="70" width="179">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D802DA70-2220-0135-7099-22000BC102FE" class="text-block-content">
+    <p>To update section enrollments, click the <strong>Update</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

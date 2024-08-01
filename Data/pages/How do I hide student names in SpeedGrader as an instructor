@@ -1,0 +1,108 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_47B9B800-22D7-0135-7A2B-22000BC102FE" class="text-block-content">
+    <p>If you want to grade assignments without viewing student submission details, you can hide student names in SpeedGrader for anonymous grading. This option can be enabled on a per-user basis.</p>
+<p>When you open SpeedGrader, you can hide names for your purposes only using the SpeedGrader options. The first student displayed in the SpeedGrader is always randomly generated for every assignment.</p>
+<p>When you hide student names, no <a href="/t5/Instructor-Guide/How-do-I-view-the-details-of-a-submission-for-a-student-in/ta-p/762" target="_blank">student submission details</a> display in the SpeedGrader submission sidebar. However, student IDs still display in the SpeedGrader URL unless you <a href="/t5/Instructor-Guide/How-do-I-add-an-assignment-that-includes-anonymous-grading/ta-p/769" target="_blank">enable anonymous grading</a>. Additionally, students can still see their grades. To hide assignment grades, you may need to <a href="/t5/Instructor-Guide/How-do-I-hide-or-post-assignment-grades-in-SpeedGrader/ta-p/1000" target="_blank">hide them manually</a>.</p>
+<p><strong>Anonymous Grading</strong></p>
+<p>This feature does not require the Anonymous Grading feature option to be enabled. However, assignments that have enabled Anonymous Grading display the following SpeedGrader options: </p>
+<ul>
+<li>If the checkbox to hide student names is not visible in SpeedGrader settings, anonymous grading has been enabled for the assignment. </li>
+<li>Grades of anonymous grading assignments are automatically hidden. Anonymity can be removed from each submission by editing the assignment and changing the anonymous options to allow graders to view student names. Submission details can only be viewed <a href="/t5/Instructor-Guide/How-do-I-hide-or-post-assignment-grades-in-SpeedGrader/ta-p/1000" target="_blank">when assignment grades have been posted</a>.</li>
+<li>Posting grades for an anonymous assignment will remove anonymity from the assignment.</li>
+</ul>
+<p><strong>Note</strong>: Hiding names in SpeedGrader does not affect names in the Gradebook.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speedgrader" data-step-uuid="4ffe457a-eca5-4298-a26d-dc099874ecf8">
+    <h2 id="open_speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/338/028/original/7029f1bb-37d3-4a84-8e92-b0c8ff72092f.png" srcset="" alt="Open SpeedGrader" height="78" width="282">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47B9EA00-22D7-0135-7A2D-22000BC102FE" class="text-block-content">
+    <p>Open SpeedGrader from any assignment, graded discussion, or quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="B90E8163-030F-431A-B667-9C0341FA7816">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open SpeedGrader Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/338/030/original/a4a15fbf-d7d6-453a-87a5-faadbd2829ae.png" srcset="" alt="Open SpeedGrader Options" height="206" width="343">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47BA1BB0-22D7-0135-7A2F-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Settings</strong> icon [1]. In the settings drop-down menu, click the <strong>Options </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="hide_student_names" data-step-uuid="B370C070-4AC2-4849-9CAF-60E95151C09E">
+    <h2 id="hide_student_names" class="step-title screensteps-heading">Hide Student Names</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/338/032/original/d85b9f87-f0e7-4625-a8c9-50d61e629b7e.png" srcset="" alt="Hide Student Names" height="283" width="409">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47BA4EF0-22D7-0135-7A31-22000BC102FE" class="text-block-content">
+    <p>To hide the student names, click the <strong>Hide student names in the SpeedGrader </strong>checkbox.</p>
+<p><strong>Note: </strong>If the checkbox to hide student names is not visible in SpeedGrader settings, anonymous grading has been enabled for the assignment. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_settings" data-step-uuid="1E3E4C21-DC8A-469C-9FD1-BD05E8A4FB7D">
+    <h2 id="save_settings" class="step-title screensteps-heading">Save Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/338/034/original/a5b2cc9d-d6a7-44b4-9552-11dfa99f90d7.png" srcset="" alt="Save Settings" height="283" width="409">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47BAABB0-22D7-0135-7A35-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_names" data-step-uuid="25771093-4DAA-4107-A088-5D5A5F824F50">
+    <h2 id="view_student_names" class="step-title screensteps-heading">View Student Names</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/338/036/original/e7ed8432-ada9-402c-b290-5e625638fbfb.png" srcset="" alt="View Student Names" height="300" width="361">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47BADAD0-22D7-0135-7A37-22000BC102FE" class="text-block-content">
+    <p>View the student drop-down menu and verify that all student names are hidden. Student names display as generic names such as Student 1, Student 2, etc.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

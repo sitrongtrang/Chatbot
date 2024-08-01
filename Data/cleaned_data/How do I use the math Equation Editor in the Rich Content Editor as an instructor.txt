@@ -1,0 +1,40 @@
+How do I use the math Equation Editor in the Rich Content Editor as an instructor
+Open Rich Content Editor
+Open the Rich Content Editor when creating or editing an announcement, assignment, discussion, page, quiz, or syllabus.
+Note: The Rich Content Editor supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press ALT+F8 (PC keyboard) or Option+F8 (Mac keyboard).
+Open Equation Editor
+To open the Math Editor, click the Insert Math Equation icon.
+You can also open the Math Editor from the Rich Content Editor menubar. Click the Insert link, then select the Equation option.
+Note: To view the Insert Math Equation icon, you may need to click the Options icon. 
+View Equation Editor
+The Equation Editor provides a toolbar for inserting various operators and symbols.
+You can enter expressions in the equation field.
+You can view and edit or hide the LaTeX code behind an expression by clicking the Directly Edit LaTeX toggle.
+View Toolbar Tabs
+By default, the toolbar displays the Basic tab. To access other operators and symbols, click any of the following tabs: Greek, Operators, Relationships, Arrows, Delimiters, and Misc.
+Create Math Expression
+To enter expressions, press keys on your keyboard, click the toolbar buttons, or enter LaTeX code in the equation field. 
+Note: To position the cursor in the correct spot as you enter an expression, you can press the arrow keys on your keyboard.
+Fill Math Toolbar Placeholders
+When you click a Math Editor toolbar button, placeholders may display. 
+To fill in a placeholder, click it and enter a value from your keyboard or click a toolbar button. The value overwrites the placeholder.
+Enter LaTeX Code
+If you know the LaTeX code of an expression you want to enter, paste it or type it in the equation field. The code is automatically rendered. For example, if you enter \left(-\infty,4\right], the rendered code automatically displays.
+View LaTeX Code
+To view or edit the LaTeX code, click the Directly Edit LaTeX toggle on.
+The LaTeX code displays in the equation field. 
+Edit the code as needed. As you edit, the LaTeX rendering updates automatically.
+Note: You can learn more about using LaTeX code for advanced math or chemistry and scientific notation.
+Insert Expression
+To add your mathematical expression to the Rich Content Editor, click the Done button.
+Format
+You can add text around your math expressions and insert additional math equations. Format them using the options in the Rich Content Editor.
+Save Changes
+To save any changes made in the Rich Content Editor, click the Save button. 
+Notes:
+The assignment, discussion, pages, and quizzes details pages display a Save & Publish button.
+The Syllabus page displays an Update Syllabus button.
+Discussion and announcement replies display a Post Reply or Reply button.
+Edit or Resize Equation
+To resize or edit a math expression, click it to view the edit controls. Then, to resize the expression, hover the cursor over a resize handle, click, and drag to a new size. 
+To open the Equation Editor and make edits, click the Edit Equation link. 

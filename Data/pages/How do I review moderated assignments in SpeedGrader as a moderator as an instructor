@@ -1,0 +1,147 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_bc1fc6ab-ab48-4b2e-af2e-a4452bfb25ef" class="text-block-content">
+    <p>If you have moderator permissions, you can review <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">moderated assignments</a> that have been reviewed in SpeedGrader by graders, if needed. If an assignment includes a rubric, you can also view the rubric criterion and any feedback that have been used to grade a submission.</p>
+<p>Final grades can be selected in SpeedGrader, but grades can only be posted and unmuted from the Grade Summary page for the assignment.</p>
+<p>Moderated grading supports anonymity options for grader comments, grader names, student names, and final grader visibility. Depending on the assignment's moderated grading configurations, you may not be able to see certain grader or student identifiers in SpeedGrader.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Individual graders can review comments within each submission at any time.</li>
+<li>Students can only view comments in the submission that is selected for the final grade; they cannot view comments from any other provisional grade reviews. If you want to include any comments from additional reviewers, you will have to copy the comments manually into the submission selected for the final grade.</li>
+<li>If a reviewer uses <a href="/t5/Instructor-Guide/How-do-I-add-annotated-comments-in-student-submissions-using/ta-p/694" target="_blank">Canvas DocViewer annotations</a>, students can only view the annotations in the assessment that was selected or copied as the final grade. In copied reviews, students can view the original reviewer's annotations as well as any annotations added by the moderator.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speedgrader" data-step-uuid="36b91618-240f-4694-8bd3-ad83bfebd685">
+    <h2 id="open_speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/742/576/original/0bd8ae56-f50c-4fdf-ba86-c170dda4468d.png" srcset="" alt="Open SpeedGrader" height="54" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c0af7383-a2b3-4bdf-bf43-8ba2c98f4008" class="text-block-content">
+    <p>Open <a href="/t5/Instructor-Guide/How-do-I-use-SpeedGrader/ta-p/757" target="_blank">SpeedGrader</a> from the moderated assignment or from the <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">Gradebook</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_student_submission" data-step-uuid="1e24fea6-9bf6-4d61-b102-f3e781e3ba98">
+    <h2 id="open_student_submission" class="step-title screensteps-heading">Open Student Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/328/954/original/6215693a-badf-4a22-baef-8a0c2e94b84c.png" srcset="" alt="Open Student Submission" height="387" width="357">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7aaecc1a-a082-40dc-b3c5-7f42686f8db9" class="text-block-content">
+    <p>Use the student list to locate a student submission.</p>
+<p><strong>Note</strong>: If the moderated assignment was set to hide student names, or student names were hidden in SpeedGrader settings, the student list displays all student names as anonymous. In <a href="/t5/Instructor-Guide/How-do-I-add-an-assignment-that-includes-anonymous-grading/ta-p/769" target="_blank">anonymous grading</a>, the student list order does not match the order in the Gradebook and is randomized for each assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-submission" data-step-uuid="58b26eef-4445-416c-93fb-0c9f0cfd36c9">
+    <h2 id="view-submission" class="step-title screensteps-heading">View Submission</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/391/970/original/9721c4d8-4314-4f60-b2ed-db46d6a11258.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/391/970/medium/9721c4d8-4314-4f60-b2ed-db46d6a11258.png" srcset="" alt="View Submission" height="468" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bec3b0f6-9dd0-427e-9fea-31d27ad47305" class="text-block-content">
+    <p>View the student's submission in SpeedGrader [1] and associated comments or annotations, if any, from all graders [2].</p>
+<p>The sidebar displays the student's grade and the name of the grader [3]. If an assignment includes multiple graders, the displayed grade is the grade assigned by the most recent grader. </p>
+<p><strong>Note</strong>: Depending on the assignment configuration, grader names may be anonymous. If grader names cannot be viewed, names are replaced with <em>Grader</em>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-grade-details" data-step-uuid="060dac41-4ac9-40d7-81cf-9ccc3d2cf152">
+    <h2 id="view-grade-details" class="step-title screensteps-heading">View Grade Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/742/571/original/7d1ec157-63a9-4c0b-b244-f9703ef468b0.png" srcset="" alt="View Grade Details" height="429" width="331">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_adf7a714-3bfc-4a11-89f3-7b8b5c25d0b0" class="text-block-content">
+    <p>To view grading details, click the <strong>Show Details</strong> link [1]. The details information expands and shows how the grade has been determined.</p>
+<p>When a submission is graded by multiple graders, each grader's name or <em>Grader </em>number displays in the details along with the given grade. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-final-grade" data-step-uuid="d80497b0-89c9-44ea-a7ca-221863a5a7fb">
+    <h2 id="select-final-grade" class="step-title screensteps-heading">Select Final Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/742/568/original/03a57a4b-4603-4a14-a3fe-b4d67655fb2b.png" srcset="" alt="View Grade Details" height="298" width="552">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e3202523-6e16-4287-a9f4-63cf9b0510a8" class="text-block-content">
+    <p>If you want to keep the selected grade as the final grade [1], no action is required.</p>
+<p>If you want to assign a custom grade for the student, click the <strong>Custom</strong> button [2] and enter the new grade in the <strong>Grade </strong>text field [3].</p>
+<p>When the submission is graded by multiple graders, each grader's name and grade displays in the list. If you want to to select another grader's grade, click the button next to the grade you want to select.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Any annotations and rubrics that were not selected become inaccessible once the grade is released.</li>
+<li>Students can only view comments in the submission that is selected for the final grade; they cannot view comments from any other provisional grade reviews. If you want to include any comments from additional reviewers, you will have to copy the comments manually into the submission selected for the final grade.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-rubric" data-step-uuid="dea0ae11-e729-4da3-bcbe-02c90dbdd1e5">
+    <h2 id="select-rubric" class="step-title screensteps-heading">Select Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/899/458/original/22055e4d-2770-46b3-b96b-e3070b57749a.png" srcset="" alt="Select Rubric" height="605" width="426">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b1f3c37a-eb47-4f96-ac29-2e3329692cf1" class="text-block-content">
+    <p>If the assignment has a rubric, you can select a rubric to use for the final assessment. To view and select a rubric, click the <strong>Select Rubric</strong> drop-down menu [1] and select the name of the grader [2]. To fill out the rubric with custom ratings, select the <strong>Custom</strong> option from the drop-down menu [3].</p>
+<p>If you disabled the Final grader can view other grader names option, grader names will not be visible in the <strong>Select Rubric</strong> drop-down menu [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-moderation-page" data-step-uuid="c5f24b93-6b7e-4318-afc4-4fd4b2747a0d">
+    <h2 id="view-moderation-page" class="step-title screensteps-heading">View Moderation Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/742/578/original/bc8445c0-3c01-42f1-a35b-f33e37e9a3b0.png" srcset="" alt="View Moderation Page" height="227" width="274">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d4a1bf6d-c267-44da-8981-1d80e6f064dd" class="text-block-content">
+    <p>When you are finished reviewing student submissions in SpeedGrader, grades are not recorded in the Gradebook until they are posted from the moderation page. To view the Moderation Page, click the <strong>SpeedGrader Settings</strong> icon [1] and click the <strong>Moderation Page</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

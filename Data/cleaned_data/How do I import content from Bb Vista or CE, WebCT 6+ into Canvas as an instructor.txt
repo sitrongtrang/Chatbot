@@ -1,0 +1,29 @@
+How do I import content from Bb Vista or CE, WebCT 6+ into Canvas as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Import Content into Course
+Click the Import Course Content link.
+Select Content Type
+In the Content Type drop-down menu, select the Blackboard Vista/CE, WebCT 6+ Course option.
+Select Institution
+In the School drop-down menu, select the institution you will be migrating content from.
+Enter Login Credentials 
+Enter your institution login credentials in the User Login text field and your password in the password text field. This information will not be saved and will only be used to open the contents of your Blackboard course. Select the Get Courses button.
+Select Course
+Canvas will list all the courses you are enrolled in. You will need to select the course you wish to move content from by clicking the radio button next to the course title.
+Select Migration Content
+To import all content from the course, select the All Content radio button. 
+If you want to select specific content, click the Select specific content radio button.
+Note: If you select the specific content option, you are required to select the content you want to import after you review the remaining page options. After you start importing the content, the import selection cannot be canceled. 
+Adjust Events and Due Dates
+If you want to adjust the due dates associated with the course events and assignments, click the Adjust events and due dates checkbox. 
+View Content Import Warning Message
+When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.
+Import Course
+Click the Import button. 
+A progress indicator displays the upload status by percentage.
+View Current Jobs
+The Current Jobs section displays the status of your import. Running reports display a progress bar indicating the time remaining to complete the import. 
+If you chose to select specific content in your course, the current job will show as Waiting for Select, which means you must select the content you want to import.
+The import may also display other status indicators as part of the import process. Learn more about course import statuses.
+View the content from any completed imports by accessing any link in Course Navigation.

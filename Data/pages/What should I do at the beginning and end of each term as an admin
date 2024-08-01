@@ -1,0 +1,71 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7AFFF910-1D7F-0135-4BA8-22000AB760A3" class="text-block-content">
+    <p>This lesson includes information on creating terms, adding sections, and ending terms.</p>
+<p><strong>Note: </strong>Terms in consortium accounts are inherited from the parent account. Child consortium accounts cannot view or change terms.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_term" data-step-uuid="D8DF619D-4ABD-4F88-8676-C16E27C68C1B">
+    <h2 id="create_term" class="step-title screensteps-heading">Create Term</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/837/original/a8990339-ef30-4c17-8508-f65e1331a329.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/837/medium/a8990339-ef30-4c17-8508-f65e1331a329.png" srcset="" alt="Create Term" height="258" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B00B6C0-1D7F-0135-4BAA-22000AB760A3" class="text-block-content">
+    <p>At the beginning of the term, make sure the term is built. If there is no term, the courses have no home. Instructors should have access to the course(s) they are teaching before and after the term. Once the term is built, then most of the information that goes into the term will be automatically added. This information includes the SIS file with all the student information, sections, enrollments, and cross-listings.</p>
+<p>If your institution uses <a href="/t5/Admin-Guide/How-do-I-view-grading-periods-in-an-account/ta-p/179" target="_blank">grading periods</a>, you can associate a term with a grading period set. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_sections" data-step-uuid="D1D771FF-8073-454C-ADCC-F498E297CCCE">
+    <h2 id="add_sections" class="step-title screensteps-heading">Add Sections</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/070/original/8468beb0-3dc7-44b8-a2d2-0e21eea5cdb5.png" srcset="" alt="Add Sections" height="330" width="548">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B00F820-1D7F-0135-4BAC-22000AB760A3" class="text-block-content">
+    <p>The next step is to add sections. This usually takes place via SIS files. The SIS Importer tells Canvas how to interpret the XML file that comes from the SIS file. Those XML files may include section and/or course information. To add a section manually, in Course Navigation, click the <strong>Settings</strong> link.</p>
+<p>Course Sections create a course short name by adopting the section name (ie: DS-101 section 001, that will a create a course with the name DS-101-001). Enrollments are automated and flow between the software and Canvas.</p>
+<p><strong>Note: </strong>Sections are mobile. They are easily created and can move from term to term or course to course. Just be wary that if there are multiple sections <a href="/t5/Admin-Guide/How-do-I-use-cross-listing-in-an-account/ta-p/150" target="_blank">(cross-listing</a>), that the instructor knows to not start building the course until the information has been processed through Canvas. For courses with cross-listings (DS-101-001, DS-101-002, DS-101-003), Canvas pulls a random section to be the main one. For example, DS-101-003 is the section that Canvas pulls to be the live course which makes it the section that needs to be built. Otherwise, the hard work of the instructor won't be there in the live course. This is done by live events or manual batch uploads.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="end_term" data-step-uuid="D093B58C-AFD0-44E4-9398-CB5217D8E6C6">
+    <h2 id="end_term" class="step-title screensteps-heading">End Term</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B011140-1D7F-0135-4BAD-22000AB760A3" class="text-block-content">
+    <p>If course participation dates are associated with a specific term, the course should automatically <a href="/t5/Admin-Guide/How-do-I-conclude-a-course-at-the-end-of-a-term-as-an-admin/ta-p/226" target="_blank">conclude </a>at the end of the term. Course dates can be set to extend past term dates if the course needs to extend past the term. Make sure the grades published correctly and continue to prepare for the next term.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,71 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_C9AF9380-18A8-0135-9101-22000B5A851D" class="text-block-content">
+    <p>LTI provides a framework through which an LMS (Canvas) can send some verifiable information about a user to a third party. For LTI to work, the third party needs to provide a consumer key and shared secret that Canvas can use to generate a signature to verify the authenticity of the data sent. By default most user information is anonymized, but this can be changed when the configuration is first set up.</p>
+<p>External Apps can be configured on the account or course level. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="when_would_i_use_an_external_app" data-step-uuid="94335E05-220F-4E4F-938C-346FFB10DEF1">
+    <h2 id="when_would_i_use_an_external_app" class="step-title screensteps-heading">When would I use an External App?</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/751/original/caef303e-286c-4a5a-9d91-b3c72b6a98a4.png" srcset="" alt="When would I use an External App?" height="450" width="655">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C9B062D0-18A8-0135-9103-22000B5A851D" class="text-block-content">
+    <p>External Apps add functionality to a Canvas course. For example, an instructor may want to include a study aid (flashcards, mini-quizzes, etc.) to help students better understand the concepts being taught. </p>
+<p>Admins can add external apps for accounts and subaccounts via XML, URL, or manual configuration.</p>
+<p>If apps do not already exist for a course, instructors can add external apps in their courses to create additional learning paths for students. External apps can be added to Modules, Course Navigation, the Rich Content Editor, and Assignments.</p>
+<p>In the Rich Content Editor, external apps can be <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-select-content-from-an-external-app-in-the-New-Rich/ta-p/391282" target="_blank">accessed from the Apps icon</a> or <a href="https://community.canvaslms.com/t5/Admin-Guide/How-do-I-add-an-external-tool-to-the-New-Rich-Content-Editor/ta-p/398262" target="_blank">added to the toolbar for an account</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="when_would_i_use_the_canvas_app_center" data-step-uuid="30882474-02c8-43f0-93b8-3d51d0cb5cb7">
+    <h2 id="when_would_i_use_the_canvas_app_center" class="step-title screensteps-heading">When would I use the Canvas App Center?</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/753/original/c51c39d4-8f79-4b83-82af-0bfea7f02e01.png" srcset="" alt="When would I use the Canvas App Center?" height="569" width="847">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C9B140E0-18A8-0135-9105-22000B5A851D" class="text-block-content">
+    <p>Admins and instructors can also enable apps through the App Center, which is integrated directly in Canvas.</p>
+<p>The Canvas App Center is part of the Apps tab in both Account and Course Settings. It allows you to:</p>
+<ul>
+<li>Add new features to Canvas at the account or course level</li>
+<li>Configure apps to link to modules or assessments</li>
+<li>Install apps without the help of IT</li>
+<li>Created a customized teaching experience</li>
+<li>Open the door to more possibilities </li>
+<li>Filter apps by name</li>
+<li>View installed apps</li>
+</ul>
+<p>The App Center is part of the Apps tab in both Account and Course Settings. </p>
+<p>Admins can manage the apps that can be used in courses for accounts and subaccounts by <a href="/t5/Admin-Guide/How-do-I-manage-an-allow-list-in-the-Edu-App-Center/ta-p/203" target="_blank">creating an allow list</a> in the Edu App Center and <a href="/t5/Admin-Guide/How-do-I-link-an-Edu-App-Center-allow-list-to-Canvas/ta-p/247" target="_blank">managing the allow list</a> in Canvas. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

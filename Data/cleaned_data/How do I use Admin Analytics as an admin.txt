@@ -1,0 +1,34 @@
+How do I use Admin Analytics as an admin
+In the beta environment only, Admin Analytics and Course Analytics data is pulled from Canvas Data 2 (CD2)/Data Access Platform (DAP). All data will be migrated to CD2/DAP on August 1, 2024. You can migrate your data to CD2/DAP before August 1, 2024 by contacting your Customer Success Manager (CSM).
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Admin Analytics
+In Account Navigation, click the Admin Analytics link.
+View Admin Analytics
+In Admin Analytics, you can filter data, view data by dashboard, and view an individual dashboard's data.
+Notes: 
+By default, the Overview Dashboard displays are filtered by the active term.
+n the Admin Analytics navigation, the Intelligent Insights menu only displays for users who have opted into Intelligent Insights. 
+Apply Filters
+You can filter data using the following menus: 
+Sub-Accounts
+Term 
+Course
+Teacher
+Course Status
+Date Granularity
+Course Start Date
+Course Activity Criteria
+Student Activity Criteria
+To apply the selected filters, click the Apply Filters button.
+To search within a filter menu, enter a search term in the search field. A maximum of 500 search results are returned.
+To select all of the results, click the Select All link.
+View Dashboards
+In Admin Analytics, you can view data via the Overview, Course, and Student Dashboards.
+The Overview Dashboard displays account courses by status, student and teacher engagement data, various data over a given time, and average course grades.
+The Course Dashboard displays course grade and engagement statistics, feature use data, courses with low average grades, and courses with low student activity.
+The Student Dashboard displays student grade and engagement statistics, grade averages, submissions by status, and student details.
+Learn more about viewing and managing statistic and chart data.
+Refresh Cache and Download Analytics
+To refresh your dashboard's cache, click the Options icon, then click the Clear cache and refresh link.
+To download a summary of the dashboard you are viewing to your computer, click the Download link.

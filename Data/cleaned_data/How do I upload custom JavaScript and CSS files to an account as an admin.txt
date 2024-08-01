@@ -1,0 +1,34 @@
+How do I upload custom JavaScript and CSS files to an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Themes
+In Account Navigation, click the Themes link. 
+Note: If sub-account themes have been enabled, each sub-account also includes a Themes link. To open the Theme Editor for a sub-account, click the Sub-Accounts link to locate and open the sub-account, then click the sub-account's Themes link.
+Open Theme Template
+If you do not yet have a Canvas theme for your account, use a template to create a new theme. You can choose from the Default Canvas template, a minimalist template, and a State U. template. If your Customer Success Manager has enabled the K12-specific feature setting, the K12 Theme also appears as a template.
+To create a new theme, hover over a template and click the Open in Theme Editor button, or click the Add Theme button and select a template from the list.
+Open Saved Theme
+If you previously created and saved a theme, you can edit saved themes at any time. Saved themes display in the My Themes section. To open a saved theme, hover over the name of the theme and click the Open in Theme Editor button.
+To create a new theme based on a saved theme, click the Add Theme button and select the name of the saved theme from the list. This option helps you avoid overwriting your previously saved theme.
+Open Upload Tab
+In the Theme Editor sidebar, click the Upload tab.
+Upload Custom Files
+To upload files for the Canvas desktop application, locate the CSS file/JavaScript file headings. To upload files for user content in Canvas mobile and third-party apps, locate the Mobile app CSS file/JavaScript file headings. 
+Locate the file type you want to upload and click the Select button, then locate the file on your computer. 
+Locate additional files for upload, if required.
+Preview Theme
+To preview your theme, click the Preview Your Changes button.
+Canvas will generate the preview of the components based on your uploaded files.
+Manage Files
+To manage your files, click the Upload tab again.
+To remove and upload a new file, click the Remove icon. You can make additional changes and upload your revised file.
+To view the code for your file, click the View File link. As the file is stored directly in Canvas, use this link if you ever need to download the file. 
+Save Theme
+Once you are satisfied with your template changes, save your theme by clicking the Save Theme button. 
+Create Theme Name
+If you modified a theme from a template, the Theme Editor creates a copy of the theme. Templates cannot be edited directly. In the Theme Name field, enter a name for your theme. Click the Save Theme button.
+Note: If you edited a previously saved theme, saving the theme overwrites the previous version of the theme and uses the same theme name.
+Apply Theme
+To apply your theme to your account, click the Apply theme button. 
+To exit the theme and return to the Themes page, click the Exit button. You can open the theme and apply it to your account at any time. 
+Note: If your account allows sub-accounts to customize their own themes, any applicable changes you made will also filter down to any associated sub-accounts. Canvas shows the status of your Theme Editor updates; when the process for each sub-account is complete, the sub-account disappears from the progress window. When all sub-accounts have been updated, the Theme Editor redirects back to the Themes page.

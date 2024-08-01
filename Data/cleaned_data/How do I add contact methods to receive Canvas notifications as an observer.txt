@@ -1,0 +1,17 @@
+How do I add contact methods to receive Canvas notifications as an observer
+Open Account Settings
+In Global Navigation, click the Account link, then click the Settings link. 
+Add Ways to Contact
+The Sidebar displays the default email associated with your account. You can manage your default email address.
+To add an additional email address, click the Add Email Address link. 
+View Communication Warnings
+Canvas does not send notifications to communication channels that have bounced, which means the channel can no longer attempt to generate or send a notification. Bounces can occur from invalid addresses (caused by address typos, changed addresses, etc.) or blocked servers.
+Your Account Settings page may display the following icons indicating the contact method status:
+Warning: indicates a bounced contact method. To correct the error, you can remove then re-add the contact method to your profile.
+Check Mark: indicates an unconfirmed email address.
+To delete a contact method, click the Delete icon. 
+Link to Web Services
+The Web Services section displays two columns. View services you have already registered, such as services verified in your contact methods or through course Collaborations, under Registered Services. Other services available for registration appear under Other Services. 
+Learn how to add web services in Canvas.
+View Approved Integrations
+When you allow third-party integrations to access your account, the Approved Integrations section displays the authorized integrations. Each integration shows you the name of the app, the purpose (if one is noted), the date the app was last used, the date the app expires, and a link to view further details. 

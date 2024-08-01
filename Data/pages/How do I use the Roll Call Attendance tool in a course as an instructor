@@ -1,0 +1,128 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_C88DA040-1ED5-0135-101C-22000BC102FE" class="text-block-content">
+    <p>After the Attendance tool has been enabled for your course, you can configure the attendance tool to meet the needs of your students. However, some items cannot be configured until after your course is published and students have accepted the course invitation. </p>
+<p><strong>Note</strong>: The Attendance tool must be enabled by your Canvas admin before it can be used in your course. If you cannot see the Attendance link in Course Navigation, please contact your administrator.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_attendance" data-step-uuid="d9f2515b-6c4e-41ff-bfa9-ec95ff76c729">
+    <h2 id="open_attendance" class="step-title screensteps-heading">Open Attendance</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/967/original/c8f18f20-801f-4a0d-83de-befb9e35eab2.png" srcset="" alt="Open Attendance" height="231" width="173">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C88DDAF0-1ED5-0135-101E-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Attendance </strong>link.</p>
+<p><strong>Note: </strong>The Attendance link does not display to students, so you do not need to hide this link in the Navigation tab within Course Settings.  </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_roll_call_settings" data-step-uuid="83386230-9ea0-43d8-bcf4-8f66c4b7c70b">
+    <h2 id="edit_roll_call_settings" class="step-title screensteps-heading">Edit Roll Call Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/568/original/0e08703d-5fe7-491b-9063-1bb01c05d5c4.png" srcset="" alt="Edit Roll Call Settings" height="122" width="336">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C88E0C60-1ED5-0135-1020-22000BC102FE" class="text-block-content">
+    <p>To edit Roll Call settings, click the <strong>Settings</strong> icon [1], then click the <strong>Roll Call Settings </strong>button [2].</p>
+<p>You can exclude the Roll Call assignment from the final grade and adjust the lateness value.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="exclude-from-final-grade" data-step-uuid="bcb439b1-6540-40a7-8063-ca362166fff1">
+    <h3 id="exclude-from-final-grade" class="step-title screensteps-heading">Exclude from Final Grade</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/047/438/original/656b7cc0-7522-48ee-b2a9-927f1082aeb8.png" srcset="" alt="Exclude from Final Grade" height="196" width="523">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4d35db1d-7b29-4ade-ad8c-bc31c1d1b8b1" class="text-block-content">
+    <p>If you do not want the Roll Call Attendance assignment to count toward the final grade, select the <strong>Do not count attendance toward final grade</strong> checkbox.</p>
+<p><strong>Note: </strong>Excluding an assignment from the final grade can also be managed from the assignment settings. However, it is recommended to manage the setting in Roll Call settings. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_lateness_value" data-step-uuid="588622ca-05ab-465e-9f75-f534db4ad682">
+    <h3 id="view_lateness_value" class="step-title screensteps-heading">View Lateness Value</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/047/436/original/172b54da-6dc9-43ac-a3f9-052031f20ffc.png" srcset="" alt="Adjust Lateness Value" height="196" width="523">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C88E3E70-1ED5-0135-1022-22000BC102FE" class="text-block-content">
+    <p>To specify a lateness percentage, move the slider bar. By default, the lateness bar is set to 80%.</p>
+<p>The lateness percentage indicates the attendance score a student will receive if they are marked late. For example, a student with one presence (100%) and one lateness (80%) will have an average attendance score of 90%.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_seating_chart" data-step-uuid="563f4c40-70e6-4523-9c4a-07a4358e4f40">
+    <h2 id="create_seating_chart" class="step-title screensteps-heading">Create Seating Chart</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/564/original/a8a3c433-be96-4ede-b34c-0fe4d36840a5.png" srcset="" alt="Create Seating Chart" height="317" width="842">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C88E6E00-1ED5-0135-1024-22000BC102FE" class="text-block-content">
+    <p>When your course is published and students have accepted course invitations, you can <a href="/t5/Instructor-Guide/How-do-I-create-a-roll-call-seating-chart-using-the-Attendance/ta-p/1024" target="_blank">create a seating chart</a> in the Class view.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_badges" data-step-uuid="cdf67f1e-dd00-4174-ae8d-b8d625fa22c6">
+    <h2 id="manage_badges" class="step-title screensteps-heading">Manage Badges</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/570/566/original/fdbe8cbe-824d-4aa3-8ddd-f28b59313c15.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/570/566/medium/fdbe8cbe-824d-4aa3-8ddd-f28b59313c15.png" srcset="" alt="Manage Badges" height="576" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C88E9F30-1ED5-0135-1026-22000BC102FE" class="text-block-content">
+    <p>When your course is published and students have accepted course invitations, you can use a student to <a href="/t5/Instructor-Guide/How-do-I-use-Roll-Call-Attendance-badges-in-a-course/ta-p/993" target="_blank">manage badges</a> in your course. Any badges added at the account level will automatically display as badges in your course. You can add additional badges for your course before you begin taking roll call. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="change_attendance_value" data-step-uuid="fa813934-7de4-41e7-9651-7a2da936da55">
+    <h2 id="change_attendance_value" class="step-title screensteps-heading">Change Attendance Value</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C88EB600-1ED5-0135-1027-22000BC102FE" class="text-block-content">
+    <p>If you want to change the value of Attendance in your course, or if you want to remove Attendance from the Gradebook completely, currently you must take roll call for at least one student before you can make any changes in Roll Call. Learn more about how to <a href="/t5/Instructor-Guide/How-do-I-edit-the-Roll-Call-Attendance-assignment/ta-p/569" target="_blank">change the value of Roll Call Attendance</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

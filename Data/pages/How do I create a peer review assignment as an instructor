@@ -1,0 +1,225 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0F85FEB0-1E4B-0135-0394-22000BC102FE" class="text-block-content">
+    <p>When creating an assignment, you can require students to complete a peer review of another student's work. Learn more about <a href="/t5/Instructor-Guide/How-do-I-use-peer-review-assignments-in-a-course/ta-p/697" target="_blank">peer review assignments</a>.</p>
+<p>For peer reviews, you can <a href="/t5/Instructor-Guide/How-do-I-manually-assign-peer-reviews-for-an-assignment/ta-p/650" target="_blank">manually assign</a> peer reviews or choose to have Canvas <a href="/t5/Instructor-Guide/How-do-I-automatically-assign-peer-reviews-for-an-assignment/ta-p/899" target="_blank">automatically assign</a> peer reviews for you. You can also choose to allow students to see other students' names in peer reviews or make them anonymous. When anonymous peer reviews are enabled, instructors and TAs can still view the names of student reviewers in SpeedGrader and in the student submission page. However, if anonymous grading is enabled in SpeedGrader, the names of both students will be hidden in SpeedGrader but not in the student submission page.</p>
+<p>To complete the peer review, students are required to leave at least one comment. If you include a rubric, they are only required to complete the rubric.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>To learn how assignment and peer review due dates appear in a student's To Do list, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Peer-Review-Tips/ta-p/387092" target="_blank">Peer Review Tips resource document</a>.</li>
+<li>Peer reviews cannot be used with External Tool assignments.</li>
+<li>Students can see peer review comments if assignment grades are hidden. However, students cannot see instructor comments until after assignment grades have been posted.</li>
+<li>Instructors cannot edit or delete student peer review comments. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="1462B89D-031E-43DE-98A1-40DFE14C0ABB">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/929/original/114d246e-3ee8-4239-b22d-f078d1d93433.png" srcset="" alt="Open Assignments" height="241" width="163">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F8631E0-1E4B-0135-0396-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="3AD2474C-431A-409A-BC83-74A29B726745">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/256/original/1edc3e1f-587f-43c5-8079-24d78f0e6168.png" srcset="" alt="Add Assignment" height="74" width="301">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F8660B0-1E4B-0135-0398-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_assignment_details" data-step-uuid="2ca0797c-53f6-42d4-83e4-ee611fd100b9">
+    <h2 id="enter_assignment_details" class="step-title screensteps-heading">Add Assignment Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/242/078/original/2c51f95d-8376-4ecd-bc92-0a90680c1541.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/242/078/medium/2c51f95d-8376-4ecd-bc92-0a90680c1541.png" srcset="" alt="Add Assignment Details" height="659" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5828cd2f-174a-4af2-b840-2792eb4aac7b" class="text-block-content">
+    <p>Add <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">details to the assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_submission_type" data-step-uuid="e4530f9a-fcfe-4fbc-bd38-a1737a3b68ff">
+    <h2 id="select_submission_type" class="step-title screensteps-heading">Select Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/394/336/original/5f5aab9b-b017-4c58-ba06-0ed15e84f3da.png" srcset="" alt="Select Submission Type" height="222" width="542">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F86C0B0-1E4B-0135-039C-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Submission Type</strong> drop-down menu [1], and select your preferred<strong> </strong>submission type [2]. </p>
+<p><strong>Note: </strong>The External Tool submission type does not support peer review assignments.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_online_entry_options" data-step-uuid="06660b8c-f28b-4e84-a290-5866920aebb1">
+    <h3 id="select_online_entry_options" class="step-title screensteps-heading">Select Online Entry Options</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/496/472/original/ca6028c7-bb49-400a-968c-e978c9501379.png" srcset="" alt="Select Online Entry Options" height="338" width="518">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F86F420-1E4B-0135-039E-22000BC102FE" class="text-block-content">
+    <p>Select the checkboxes for the types of online entries allowed in the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_group_assignment" data-step-uuid="86cea20d-18aa-467b-8335-c051bcc0d168">
+    <h2 id="add_group_assignment" class="step-title screensteps-heading">Add Group Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/333/original/c0da85fe-0a7c-4336-85e5-fb0fcf85a98b.png" srcset="" alt="Add Group Assignment" height="104" width="533">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F875040-1E4B-0135-03A0-22000BC102FE" class="text-block-content">
+    <p>Peer reviews can be used with group assignments. If you want to <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-a-course-group/ta-p/633" target="_blank">create a group assignment</a>, click the <strong>This is a Group Assignment </strong>checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="require_peer_reviews" data-step-uuid="20E3D158-FAA7-4D8E-9DFB-7BAA44851754">
+    <h2 id="require_peer_reviews" class="step-title screensteps-heading">Require Peer Reviews</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/353/original/19f2910a-ef46-4ac9-b434-9d5cf93a99a2.png" srcset="" alt="Require Peer Reviews" height="211" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F878160-1E4B-0135-03A2-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Require Peer Reviews</strong> checkbox [1]. By default, peer reviews are assigned manually [2]. </p>
+<p>If you want to assign peer reviews automatically, select the Automatically Assign radio button [3]. </p>
+<p><strong>Note: </strong>Peer reviews must be manually assigned for On Paper and No Submission assignment types. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="automatically_assign_peer_reviews" data-step-uuid="FB408642-008C-4C4F-ACE9-48430273CB46">
+    <h3 id="automatically_assign_peer_reviews" class="step-title screensteps-heading">Automatically Assign Peer Reviews</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/681/887/original/f184f064-043e-4450-beb4-a20bdc529d24.png" srcset="" alt="Automatically Assign Peer Reviews" height="501" width="518">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F87B010-1E4B-0135-03A4-22000BC102FE" class="text-block-content">
+    <p>If you automatically assign peer reviews, the menu displays additional options. In the <strong>Reviews Per User </strong>field [1], enter the number of reviews each student will be required to complete. </p>
+<p>In the <strong>Assign Reviews</strong> field [2], use the calendar icon to select a date or manually enter the date for student peer reviews to be assigned. If left blank, Canvas will use the assignment due date.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="assign_group_assignment_intra_group_peer_reviews" data-step-uuid="ef965fd3-a5b4-47f1-ba98-8098835f2029">
+    <h3 id="assign_group_assignment_intra_group_peer_reviews" class="step-title screensteps-heading">Assign Group Assignment Intra-Group Peer Reviews</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/681/889/original/6e33b7ef-322c-4625-b840-d693752670e3.png" srcset="" alt="Assign Group Assignment Intra-Group Peer Reviews" height="437" width="517">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F87DFD0-1E4B-0135-03A6-22000BC102FE" class="text-block-content">
+    <p>In group assignments, you also have the option to allow intra-group peer reviews. </p>
+<p>Peer reviews require a student to review an individual submission by another student. However, group assignment submissions are made by one group member on behalf of the entire group, and all group members have the same submission.</p>
+<p>By default, the <strong>Allow intra-group peer reviews</strong> checkbox is not selected, which means Canvas will filter out members of the same group when automatically assigning the reviews.</p>
+<p>To allow Canvas to assign a peer review to a student from within the student's own group, select the <strong>Allow intra-group peer review</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_anonymous_peer_reviews" data-step-uuid="e6a49def-875a-486c-984e-c1efaf35d739">
+    <h2 id="assign_anonymous_peer_reviews" class="step-title screensteps-heading">Assign Anonymous Peer Reviews</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/355/original/e6fef3a7-948b-42b7-9962-8afa94a44c59.png" srcset="" alt="Assign Anonymous Peer Reviews" height="87" width="311">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F880DE0-1E4B-0135-03A8-22000BC102FE" class="text-block-content">
+    <p>If you want to make peer reviews anonymous, check the <strong>Peer Reviews Appear Anonymously</strong> checkbox.</p>
+<p><strong>Note: </strong>Canvas DocViewer does not support anonymous comments, so it cannot be used for annotated feedback on assignments with anonymous peer reviews.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish_assignment" data-step-uuid="7CA75980-3A34-44B9-8B39-F7C3879AB7F6">
+    <h2 id="save_and_publish_assignment" class="step-title screensteps-heading">Save and Publish Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/347/original/f191fe75-e0a4-48d8-aa16-d34dfe19a307.png" srcset="" alt="Save and Publish Assignment" height="91" width="315">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F883C60-1E4B-0135-03AA-22000BC102FE" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/023/874/original/fe08bc78-d93a-4ed1-be38-93c29298e929.png" srcset="" alt="Publish Assignmnent" height="57" width="647">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F886DE0-1E4B-0135-03AC-22000BC102FE" class="text-block-content">
+    <p>When your assignment is saved in a draft state, you can return to the page and publish it at any time by clicking the Publish button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_published_assignment" data-step-uuid="ba8c0ef9-c283-4844-afb5-53ef5f199020">
+    <h2 id="view_published_assignment" class="step-title screensteps-heading">View Published Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/023/876/original/63c02399-0b26-4f97-bf61-d404676118b6.png" srcset="" alt="View Published Assignment" height="433" width="643">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F889B20-1E4B-0135-03AE-22000BC102FE" class="text-block-content">
+    <p>View published assignment. </p>
+<p>You can also attach a rubric to the assignment for students to fill out when completing peer reviews. To <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058" target="_blank">add a rubric to the assignment,</a> click the <strong>Add Rubric</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

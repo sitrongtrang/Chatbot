@@ -1,0 +1,92 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7f5e3c06-5286-4f6a-a0b3-ba957c4daa74" class="text-block-content">
+    <p>If enabled by your institution, you can sync course data from the People page in your Canvas course to Microsoft Teams.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If the Microsoft Teams integration does not display in your Course Settings, it has not been enabled by your institution.</li>
+<li>When enrollments changes are made in a course that has enabled Microsoft Sync, it may take up to 10 minutes for those changes to sync to Microsoft Teams.</li>
+<li>For the Microsoft Teams sync to work properly, there must be a user with the Teacher, TA, and/or Designer role in Canvas matching an Owner in Teams.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="c0868227-3d3d-4c96-b766-d883ae571fb8">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/561/428/original/95d778f4-5a0d-4e00-b325-734608068907.png" srcset="" alt="Open Settings" height="244" width="160">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4aafb6af-8edf-4afc-b6f1-ed409602e59a" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-integrations" data-step-uuid="48aa6a5a-989b-42fe-b8fa-6e754d80a0e6">
+    <h2 id="open-integrations" class="step-title screensteps-heading">Open Integrations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/633/185/original/a91e1795-9edd-4ac3-8fb1-b6f039491587.png" srcset="" alt="Open Integrations" height="298" width="776">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24a81fef-92db-4460-a228-ad4b7e77a1da" class="text-block-content">
+    <p>Click the <strong>Integrations</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-integration" data-step-uuid="ddb969eb-526e-4a73-abc0-920ef54d9c71">
+    <h2 id="enable-integration" class="step-title screensteps-heading">Enable Integration</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/561/432/original/b0c40792-d48f-413d-af04-cbe4bb0dd464.png" srcset="" alt="Enable Integration" height="150" width="616">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bb368281-e5b2-4e50-a45c-935acb5e8e17" class="text-block-content">
+    <p>To enable to Microsoft Sync integration, click the <strong>State</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sync-course-data" data-step-uuid="e4f30194-0029-4930-8b5b-9f4ad414d9cb">
+    <h2 id="sync-course-data" class="step-title screensteps-heading">Sync Course Data</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/561/434/original/eb2d2d74-da97-4176-aff1-662acd4c6795.png" srcset="" alt="Sync Course Data" height="324" width="638">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_632db00f-8693-43c7-a35e-91861dc9f6e8" class="text-block-content">
+    <p>Once the integration is enabled, a sync to Microsoft Teams will be triggered automatically by any changes to course enrollments. The first time you enabled Microsoft Sync, you may want to trigger a manual sync to ensure all course data is synced with Microsoft Teams.</p>
+<p>To view Microsoft Sync details, click the <strong>Expand</strong> icon [1]. To sync course data with Microsoft Teams, click the <strong>Sync Now</strong> button [2].</p>
+<p>You can also view the sync status [3], date of last sync [4], and any sync errors [5].</p>
+<p><strong>Note: </strong>When enrollments changes are made in a course that has enabled Microsoft Sync, it may take up to 10 minutes for those changes to sync to Microsoft Teams.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

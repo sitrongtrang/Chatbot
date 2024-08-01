@@ -1,0 +1,25 @@
+How do I change the start and end dates for a course section as an instructor
+Open Course Settings
+In Course Navigation, click the Settings link.
+Open Sections
+Click the Sections tab.
+Open Section
+Click the section name link.
+Edit Section
+Click the Edit Section button.
+Set Start Date
+Click the Starts calendar icon. Select a new start date for the section. You can also enter a time.
+Click the Done button.
+Set End Date
+Click the Ends calendar icon. Select a new end date for the section. You can also enter a time.
+Click the Done button.
+Note: End dates occur at precisely the minute they are set. For example, a section with an end time at 11:59pm will end at 11:59:00pm.
+Limit Student Participation
+If you do not want to let students participate in the course section outside of the section dates, select the Students can only participate in the course between these dates checkbox. Selecting this checkbox creates a section override and overrides the course dates. Students can only participate in the course section between the section dates, and the course section will be in a read-only state outside the course section dates.
+This checkbox only affects student and observer roles; all other roles default to term access dates. 
+Notes: 
+Section override dates are only created if the Student Participation checkbox is selected. 
+If the Student Participation checkbox is not selected, students can participate in the course section before and after the start and end date, and participation will always be determined by the course dates. If a course does not include course dates, dates are determined by term dates. 
+When the Student Participation checkbox is not selected, the section dates determine the placement of the course in the Past, Current, or Future Enrollments list for students.
+Update Section
+Click the Update Section button.

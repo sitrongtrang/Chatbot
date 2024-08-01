@@ -1,0 +1,63 @@
+How do I manage alt text and display options for images embedded in the Rich Content Editor as an instructor
+00:07: How do I manage alt text and display options for images embedded in the rich content
+00:11: editor?
+00:13: Open the rich content editor when using one of the canvas features, which support the editor.
+00:19: Click the image then click the options link.
+00:22: You can manage display options for embedded images in the image options menu.
+00:28: If an image is added to the rich content editor via URL the image
+00:32: options menu includes the file URL field.
+00:35: The URL can be updated to change the image displayed in the editor.
+00:40: Enter an alternative text description or text tags in the alt text field.
+00:45: By default the alt text field displays the image file name.
+00:49: Alt text is read by screen readers and it displays when an embedded image
+00:53: cannot display. If the image is decorative and does not require, alt
+00:57: text select the decorative image option.
+01:02: By default the embed image display option is selected for embedded images.
+01:07: To display the image file link select the display text link display option
+01:11: the file link will replace the image in the rich content editor.
+01:17: Click the size drop-down menu. You can select a small medium
+01:21: large or extra-large image size or you can select to enter
+01:25: custom dimensions.
+01:28: To customize the size of your image enter the custom height or width dimension
+01:32: in one of the two Dimension fields. As you enter a value in one
+01:36: field the other fields value changes in order to retain the image aspect
+01:40: ratio.
+01:43: You can also manually adjust the image size in the rich content editor.
+01:47: When you click the image adjustment handles appear in each corner.
+01:51: Click and drag the handles to adjust the image size.
+01:55: If you select a custom image size, you can change the size selecting the pixels
+01:59: Dimension type radio button and changing one of the two Dimension type fields.
+02:05: You can also change the custom image size by selecting the percentage Dimension type
+02:09: radio button and changing the percentage field.
+02:13: Click the done button.
+02:16: View the image embedded in the rich content editor.
+02:19: This guide covered how to manage alt text and display options for images embedded
+02:23: in the rich content editor.
+Open Rich Content Editor
+Open the Rich Content Editor when creating or editing an announcement, assignment, discussion, page, quiz, or syllabus.
+Note: The Rich Content Editor supports keyboard shortcuts. To view a window with a list of keyboard navigation shortcuts, click the Keyboard icon or press Alt+F8 (on a PC keyboard) or Option+F8 (on a Mac keyboard) simultaneously on your keyboard.
+Open Image Options
+Click the image, then click the Image Options link. 
+You can manage display options for embedded images in the Image Options menu. 
+Update File URL
+If an image is added to the Rich Content Editor via URL, the Image Options menu includes the File URL field. The URL can be updated to change the image displayed in the editor.
+Add Alt Text
+Enter an alternative text description or text tags in the Alt Text field. By default, the Alt Text field displays the image file name. Alt text is read by screen readers, and it displays when an embedded image cannot display.
+If the image is decorative and does not require alt text, select the Decorative Image option. 
+Select Display Options
+By default, the Embed Image display option is selected for embedded images.
+To display the image file link, select the Display Text Link display option. The file link will replace the image in the Rich Content Editor. 
+Select Image Size
+Click the Size drop-down menu. You can select a small, medium, large, or extra large image size, or you can select to enter custom dimensions. 
+To customize the size of your image, enter the custom height or width dimension in one of the two dimension fields. As you enter a value in one field, the other field's value changes in order to retain the image aspect ratio. 
+Note: Custom image size must be at least 10x10px. 
+Manually Adjust Image Size
+You can also manually adjust the image size in the Rich Content Editor. 
+When you click the image, adjustment handles appear in each corner. Click and drag the handles to adjust the image size. 
+Select Dimension Type
+If you select a custom image size, you can change the size selecting the Pixels dimension type radio button and changing one of the two dimension type fields.
+You can also change the custom image size by selecting the Percentage dimension type radio button and changing the percentage field.
+Save Changes
+Click the Done button. 
+View Embedded Image
+View the image embedded in the Rich Content Editor.

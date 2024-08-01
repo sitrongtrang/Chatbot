@@ -1,0 +1,21 @@
+How do I add an assignment using an external app as an instructor
+Open Assignments
+In Course Navigation, click the Assignments link.
+Add Assignment
+Click the Add Assignment button.
+Select External Tool Submission Type
+In the Submission Type drop-down menu, select the External Tool option. 
+Select Submission Tool Submission Type
+In the Submission Type drop-down menu, you may be able to select an external tool directly.
+The external tool displays an icon, the name of the tool, and the tool description.
+Note: To select an external tool directly from the Submission Type drop-down menu, your institution must set Submission Type Selection as a placement option for the external tool in the Developer Keys page.
+Find External Tool
+Click the Find button or enter the External Tool URL in the URL field.
+Configure External Tool
+Click the name of the LTI tool. Depending on the tool type, you may be taken to a separate screen for further configuration.
+If you want the assignment to load in a new tab, click the Load in a new tab checkbox. Click the Select button.
+Load Tool in a New Tab
+To load the assignment in a new tab, click the Load This Tool In A New Tab checkbox.
+Note: If you enabled the Load in a new tab checkbox when configuring the external tool, the Load this Tool In A New Tab checkbox will already be selected.
+Save and Publish
+If you are ready to publish your assignment, click the Save & Publish button. If you want to create a draft of your assignment and publish it later, click the Save button.

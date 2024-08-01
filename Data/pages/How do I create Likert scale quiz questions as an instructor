@@ -1,0 +1,194 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_59DF6510-222B-0135-DA44-22000B5A851D" class="text-block-content">
+    <p>A Likert scale question is a list of statements with response points that indicate agreement. Canvas' Multiple Dropdown question type can be used for Likert-style questions in Surveys.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_survey" data-step-uuid="4D5B64B6-F610-48F4-87F0-C350A96F1F07">
+    <h2 id="create_survey" class="step-title screensteps-heading">Create Survey</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/762/019/original/19bb8cf1-5a73-4ff7-b6f4-634cb1d97402.png" srcset="" alt="Create Survey" height="69" width="334">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E0F920-222B-0135-DA46-22000B5A851D" class="text-block-content">
+    <p>After clicking the <strong>Quizzes</strong> link, either create or edit a quiz. Make sure the quiz type is set as either a Graded or Ungraded Survey.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="7C22ADAF-81C1-428D-AA41-5782FC2689B9">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/762/017/original/8a8eda68-d7f6-474f-b3c4-d1323a2465c2.png" srcset="" alt="Add Question" height="253" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E1FAE0-222B-0135-DA48-22000B5A851D" class="text-block-content">
+    <p>With the <strong>Questions</strong> tab [1] selected inside a new quiz, click the <strong>New Question </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_name_type_and_points" data-step-uuid="10cfa681-2973-495a-ad93-72db31922599">
+    <h2 id="set_name_type_and_points" class="step-title screensteps-heading">Set Name, Type, and Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/762/009/original/53d43773-58ae-4d80-b76d-aae52807032f.png" srcset="" alt="Set Name, Type, and Points" height="68" width="636">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E2D710-222B-0135-DA4A-22000B5A851D" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field [1]. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+<p>Click the drop-down menu and select the Multiple Dropdowns question type [2].</p>
+<p>Enter number of points the question is worth (quiz totals are calculated based on combined total of questions) [3].</p>
+<p><strong>Note: </strong>Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_a_table" data-step-uuid="0019A13A-9B77-4C8E-B56B-F3D308C4017D">
+    <h2 id="add_a_table" class="step-title screensteps-heading">Add a Table </h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/049/073/original/a2c75edc-0be3-4758-9c3c-404c873fb87b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/049/073/medium/a2c75edc-0be3-4758-9c3c-404c873fb87b.png" srcset="" alt="Add a Table" height="610" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E3C8F0-222B-0135-DA4C-22000B5A851D" class="text-block-content">
+    <p>After adding in any preliminary instructions, click the <strong>table</strong> icon [1] in the Rich Content Editor and choose two columns [2] and as many rows as you need (one per statement) to contain the entire Likert scale of items. In this example, there are three rows.</p>
+<p><strong>Note:</strong>To view the Table icon, you may have to click the <strong>Options </strong>icon [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_likert_items_as_statements_and_answer_choice_boxes" data-step-uuid="59DE32FD-12FB-4A7F-9D54-92794FF27084">
+    <h2 id="add_likert_items_as_statements_and_answer_choice_boxes" class="step-title screensteps-heading">Add Likert Items as Statements and Answer Choice Boxes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/049/076/original/1a139581-41b4-4620-9c87-7c2c9809996d.png" srcset="" alt="Add Likert Items as Statements" height="462" width="839">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E4A400-222B-0135-DA4E-22000B5A851D" class="text-block-content">
+    <p>Each row of the table will be a distinct Likert item, which is a statement with answer choice boxes, and users can select how strongly they agree or disagree with that statement. </p>
+<p>Create a name for the answer choice boxes, and use square brackets to frame the answer choice boxes. In this example, we made <strong>expectations</strong>, <strong>feedback</strong>, and <strong>answered questions </strong>the reference words to create answer choices for the three statements and set them up as [expectations], [feedback], and [answered-questions].</p>
+<p><strong>Note: </strong>Likert items cannot contain spaces. You can separate multiple word Likert items with hyphens. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_responses_as_possible_answers_for_each_likert_item" data-step-uuid="C0F20831-7FCC-4149-9460-CD5A6F610174">
+    <h2 id="add_responses_as_possible_answers_for_each_likert_item" class="step-title screensteps-heading">Add Responses as Possible Answers for Each Likert Item</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/049/078/original/36453c74-87f8-4a52-89e8-5f095c78ece9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/049/078/medium/36453c74-87f8-4a52-89e8-5f095c78ece9.png" srcset="" alt="Add Responses as Possible Answers" height="731" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E573A0-222B-0135-DA50-22000B5A851D" class="text-block-content">
+    <p>Each Likert item needs to have its own listing of responses as possible answers. </p>
+<p>Select each Possible Response and add as many Answers as possible, with consistent Answer Text. You will have to input the Answer Text for each answer choice box. For example, [expectations], [feedback], and [answered-questions] will all need to have each possible response added separately. </p>
+<p>Select the first reference item from the drop-down list. Then fill in the Likert responses. The standard five-point Likert responses are:</p>
+<ul>
+<li>Strongly disagree</li>
+<li>Disagree</li>
+<li>Neither agree nor disagree</li>
+<li>Agree</li>
+<li>Strongly agree</li>
+</ul>
+<p> </p>
+<p>Learn more about <a href="/t5/Instructor-Guide/How-do-I-create-a-Multiple-Dropdown-quiz-question/ta-p/916" target="_blank">multiple dropdown questions</a>. </p>
+<p>When you are finished, select the second reference item and repeat the process of filling in the Likert responses. </p>
+<p>Repeat this process until all reference items are associated with Likert response options.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_feedback_text" data-step-uuid="463b8c7d-1297-4675-9981-f5d9c3493468">
+    <h2 id="enter_feedback_text" class="step-title screensteps-heading">Enter Feedback Text</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/762/021/original/23363c31-5d13-4426-8c61-60c3a4ee470e.png" srcset="" alt="Enter Feedback Text" height="441" width="640">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E66A30-222B-0135-DA52-22000B5A851D" class="text-block-content">
+    <p>You can also create general answer comments for the survey question as a whole. All students will see the feedback in the blue comment field as soon as they submit the quiz.  </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="668FBF70-8D62-423A-ACFB-7FB5C5B2A36B">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/762/025/original/dbbefb62-b26b-4db5-be22-767967ff3448.png" srcset="" alt="Update Question" height="53" width="216">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E71CF0-222B-0135-DA54-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+<p>Add additional <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">individual questions</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_question" data-step-uuid="D9705492-451F-4D1C-A041-9DA5BF353F97">
+    <h2 id="student_view_for_question" class="step-title screensteps-heading">Student View for Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/762/023/original/c0d10ac2-11be-465b-b643-73bf0ae8b41e.png" srcset="" alt="Student View for Question" height="352" width="705">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E75440-222B-0135-DA56-22000B5A851D" class="text-block-content">
+    <p>This is what the question will look like in a quiz. Each statement will show the drop-down menu with the Likert statements. Students can select their opinion that goes along with each statement. </p>
+<p>Make sure each statement has every possible answer response added correctly.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_responses" data-step-uuid="5F7EE74F-2C1E-4066-B266-ADD504136A6B">
+    <h2 id="student_view_for_responses" class="step-title screensteps-heading">Student View for Responses</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/762/027/original/0ac92342-e5d2-4594-b995-5b6994b13c7e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/762/027/medium/0ac92342-e5d2-4594-b995-5b6994b13c7e.png" srcset="" alt="Student View for Responses" height="528" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59E80960-222B-0135-DA58-22000B5A851D" class="text-block-content">
+    <p>When you <a href="/t5/Instructor-Guide/How-do-I-view-student-results-in-a-quiz/ta-p/1114" target="_blank">view the quiz results,</a> Canvas will show you the answers each student selected. Students will also be able to see their answer choices if you allow them to see their responses.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

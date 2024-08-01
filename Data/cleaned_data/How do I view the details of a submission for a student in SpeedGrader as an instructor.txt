@@ -1,0 +1,27 @@
+How do I view the details of a submission for a student in SpeedGrader as an instructor
+Open SpeedGrader
+Open SpeedGrader from any assignment, graded discussion, or quiz.
+Open Student Submission
+Use the student list to locate a student submission.
+View Submission Details
+When you open SpeedGrader for a particular assignment, you will see each individual submission and the date and time that it was submitted. If the assignment was submitted after the due date, you will see a late label. 
+Notes: 
+When anonymous grading is enabled, submission details are hidden in the submission sidebar. Details will be visible when the assignment is either unmuted or assignment grades have been posted. 
+If a student's quiz was submitted automatically, the submission time stamp reflects a five minute grace period that begins once the time limit and/or due date have passed and may not align with the allotted time.
+Download Submission
+If an assignment can be downloaded, you can view the name of the submission and a download link.
+View Uploading and Failed Submission Details
+If a Google Drive or Microsoft Office 365 assignment upload is queued for submission, an Uploading icon displays next to the assignment link.
+When a Google Drive or Microsoft Office 365 assignment submission fails to upload, an Upload Failed icon displays next to the assignment link. 
+Verify Student Annotation Views
+If you add annotations to an assignment using Canvas DocViewer, you can view when the student viewed the annotations. SpeedGrader shows the date and time that the student opened the file and viewed your feedback. 
+Evaluate Multiple Submissions
+If a student has submitted more than one assignment, the submission view will include a drop-down menu where you can view prior submissions. 
+By default, the date of the most recent assignment will always be shown first. Canvas will warn you if you are not viewing the most recent submission.
+Notes: 
+When anonymous grading is enabled, the submission menu displays submission by number (e.g., Submission 1, Submission 2).
+When the Allow Multiple file AGS submissions count as one submission is enabled, students can select multiple files to be uploaded to a third-party assignment in Canvas. However, some third-party tools may not be built to accommodate this feature.
+See All Quiz Attempts
+If a quiz includes more than 65 total submissions, individual attempts cannot be viewed in SpeedGrader. 
+To view prior Classic Quiz attempts for a specific student, click the See all quiz attempts link. 
+To view prior New Quiz attempts for a specific student, click the Moderate button.

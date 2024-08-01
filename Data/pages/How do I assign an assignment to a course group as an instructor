@@ -1,0 +1,287 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_85EB1230-1E48-0135-B4D8-22000BC102FE" class="text-block-content">
+    <p>You can create a group assignment by using the Group Assignment checkbox. Canvas uses group sets to assign group assignments, and each group within the group set that is assigned to the assignment is required to complete the assignment. When creating or editing a group assignment, you can assign an assignment to specific groups. You can also set different due dates and availability dates for a group within an assignment that is assigned to the rest of the class.</p>
+<p>You will need to assign a <a href="/t5/Instructor-Guide/How-do-I-add-a-group-set-in-a-course/ta-p/693" target="_blank">group set</a> as part of the assignment. You can add an existing group set, or you can create a new group set as part of the assignment and add students to groups later. However, if you create a group set with <a href="/t5/Instructor-Guide/How-do-I-create-self-sign-up-groups-in-a-group-set/ta-p/691" target="_blank">self sign-up</a> or <a href="/t5/Instructor-Guide/How-do-I-manually-create-groups-in-a-group-set/ta-p/700" target="_blank">manual</a> group assignments, you will not be able to use the group set until users have been added to the subgroups. Student-created groups cannot be used for group assignments. </p>
+<p>When <a href="/t5/Instructor-Guide/How-do-I-use-grading-periods-in-a-course/ta-p/1030" target="_blank">Multiple Grading Periods</a> are enabled in a course, assignments are also respected against closed grading periods.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>In group assignments, one submission will count for the entire group. Learn more about <a href="/t5/Instructor-Guide/How-do-I-grade-group-assignments-in-SpeedGrader/ta-p/698" target="_blank">evaluating group work</a>.</li>
+<li>Group assignments cannot be used with External Tool assignments.</li>
+<li>Students should be assigned to groups before group assignments are published. Grades and submissions may be affected for students who were not in a group at the time of assignment submission but who were later added to a group or students who were removed from a group.</li>
+<li>If multiple due dates apply to a student, Canvas will assign the latest due date to the student. For example, if the group due date is November 18 and a student's individual due date is November 20, the student will be assigned a due date of November 20.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="D6CBF174-1EF6-4420-8FC5-81DFE5260A14">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/743/331/original/cd5ddad0-22e1-4b3c-9804-2c3582ef60fd.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EB8E10-1E48-0135-B4DA-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="B6070955-8D2B-4CA2-9F03-08307E7FA33A">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/141/original/5e9d42a8-bc36-4855-b5aa-316c2a8485b5.png" srcset="" alt="Add Assignment" height="72" width="311">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EBC200-1E48-0135-B4DC-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_assignment_details" data-step-uuid="bbd39dbc-0ca4-4439-b751-9fecbb581175">
+    <h2 id="enter_assignment_details" class="step-title screensteps-heading">Add Assignment Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/239/171/original/cd51fec3-c842-44ac-832e-2b85bd95bcfe.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/239/171/medium/cd51fec3-c842-44ac-832e-2b85bd95bcfe.png" srcset="" alt="Add Assignment Details" height="696" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8313bfa2-8355-4549-ba93-bf6818758de2" class="text-block-content">
+    <p>Add <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">details to the assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_group_assignment" data-step-uuid="F959F5EF-9FC0-4560-9F5C-E620F42CE0BE">
+    <h2 id="select_group_assignment" class="step-title screensteps-heading">Select Group Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/755/595/original/b984e877-b36a-4a77-bf56-3c485520108b.png" srcset="" alt="Select Group Assignment" height="100" width="542">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EC2B20-1E48-0135-B4E0-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>This is a Group Assignment </strong>checkbox.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="assign_grades_individually" data-step-uuid="1D328EE2-6924-45A0-98F7-CC502C25BFAA">
+    <h3 id="assign_grades_individually" class="step-title screensteps-heading">Assign Grades Individually</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/568/678/original/2ba6c99b-bbb2-4814-ba28-994fb19f9d4a.png" srcset="" alt="Assign Grades Individually" height="123" width="539">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EC5C90-1E48-0135-B4E2-22000BC102FE" class="text-block-content">
+    <p>You can choose to assign grades to students individually by selecting the <strong>Assign grades to each student individually</strong> checkbox. </p>
+<p>If this box is left unchecked, all the students in the group will receive the same grade.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_group_set" data-step-uuid="24232116-BAF8-400C-88A6-0DDBF2583C21">
+    <h2 id="select_group_set" class="step-title screensteps-heading">Select Group Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/755/607/original/3470e3cf-7032-4f21-8ce9-a7d92f7f3375.png" srcset="" alt="Select Group Set" height="260" width="542">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EC8ED0-1E48-0135-B4E4-22000BC102FE" class="text-block-content">
+    <p>To select an existing group set, click the <strong>Group Set</strong> drop-down menu [1]. To <a href="/t5/Instructor-Guide/How-do-I-manually-create-groups-in-a-group-set/ta-p/700" target="_blank">create a new group set</a>, click the <strong>New Group Category </strong>button [2].</p>
+<p><strong>Note: </strong>Groups created by students cannot be used for Group Assignments and do not appear in the drop-down menu. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="require_peer_reviews" data-step-uuid="554ffa17-ea82-40e5-924d-2c7c636a6997">
+    <h2 id="require_peer_reviews" class="step-title screensteps-heading">Require Peer Reviews</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/755/619/original/c9dd7a35-03ce-4fc9-9e3e-ccfcd7b3931b.png" srcset="" alt="Require Peer Reviews" height="100" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85ECC200-1E48-0135-B4E6-22000BC102FE" class="text-block-content">
+    <p>Peer reviews can be used with group assignments. If you want to <a href="/t5/Instructor-Guide/How-do-I-create-a-peer-review-assignment/ta-p/641" target="_blank">assign peer reviews</a>, click the <strong>Require Peer Reviews</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_different_dates_for_groups" data-step-uuid="a1b7492d-503e-4454-bbec-d265381f9384">
+    <h2 id="assign_different_dates_for_groups" class="step-title screensteps-heading">Assign Different Dates for Groups</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/156/original/e453577f-29a5-4075-ab99-3017dafeb9c3.png" srcset="" alt="Assign Different Dates for Groups" height="678" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85ECF8B0-1E48-0135-B4E8-22000BC102FE" class="text-block-content">
+    <p>By default, the assignment is assigned to everyone in your course. To add different due and availability dates for specific groups or users in your course, click the <strong>Add</strong> button [1]. </p>
+<p>Then start to type part of the group name in the new <strong>Assign to</strong> field [2]. Click the group's name when it appears [3]. Lists are not scrollable.</p>
+<p>You can include more than one group in the <strong>Assign to</strong> field as long as the groups are to be assigned the same due and availability dates.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="assign_to_group_only" data-step-uuid="c764963c-d797-4c4f-84f9-af4adc9b7afa">
+    <h3 id="assign_to_group_only" class="step-title screensteps-heading">Assign to Group Only</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/147/original/aa512717-3c3b-4d9c-975f-09fb2221c788.png" srcset="" alt="Assign to Group Only" height="317" width="484">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85ED2A30-1E48-0135-B4EA-22000BC102FE" class="text-block-content">
+    <p>To create an assignment that is only for a specific group in the group set, click the <strong>Remove</strong> icon next to the Everyone label [1].</p>
+<p>Start to type the name of a group in the <strong>Assign to</strong> field [2]. Click the group's name when it appears [3].</p>
+<p><strong>Note:</strong> Students can only view the assignment if they are a member of an assigned group, an assigned user, or if you assign to Everyone or to Everyone Else. Otherwise, the assignment does not appear in the student's Assignments page. You cannot grade students who have not been included in the assignment, and assignments that are not assigned to a student are not factored into overall grades. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_due_and_availability_dates" data-step-uuid="fbdebc2a-9603-467b-84b3-6a88b74fe874">
+    <h2 id="edit_due_and_availability_dates" class="step-title screensteps-heading">Edit Due and Availability Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/143/original/e5f55ab4-5fd4-4103-a8bf-37c4d82709ec.png" srcset="" alt="Edit Due and Availability Dates" height="395" width="482">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85ED5910-1E48-0135-B4EC-22000BC102FE" class="text-block-content">
+    <p>In the date fields, add your preferred date(s) with the following options:</p>
+<ul>
+<li>
+<strong>Due </strong>[1]: Set the date and time that the assignment is due. The due date will already be populated for you if you created an assignment shell, but you can change it if necessary. </li>
+<li>
+<strong>Available From </strong>[2]: Set the date and time when the assignment will become available.</li>
+<li>
+<strong>Until </strong>[3]: Set the date and time when the assignment will no longer be available.</li>
+</ul>
+<p><strong>Note</strong>: Beneath the Due Date and Availability date fields, Canvas displays the time zone date and time according to context. If you manage courses in a time zone other than your local time zone and create or edit a due date for an assignment, the course and local times are displayed for reference.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove_dates" data-step-uuid="fd40d853-ea9c-47d0-b2e3-de0c2bef2866">
+    <h2 id="remove_dates" class="step-title screensteps-heading">Remove Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/145/original/d7475301-149a-4561-8791-5132bf0dcbb5.png" srcset="" alt="Remove Dates" height="370" width="472">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85ED8AB0-1E48-0135-B4EE-22000BC102FE" class="text-block-content">
+    <p>You can also delete additional dates by clicking the remove icon next to the appropriate date.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="ACBEC720-B6A7-494A-AC29-D11C6D5D1BCC">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/755/605/original/39605507-f7d0-46f7-8713-73aafcff2889.png" srcset="" alt="Save and Publish" height="87" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EDB9C0-1E48-0135-B4F0-22000BC102FE" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_due_date_warning" data-step-uuid="bfcda1a9-0958-42ee-b8d4-adcd971740cd">
+    <h3 id="view_due_date_warning" class="step-title screensteps-heading">View Due Date Warning</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/150/original/c4f3392b-3cc0-4bea-b780-58215a2d15fa.png" srcset="" alt="View Due Date Warning" height="243" width="309">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EDEC70-1E48-0135-B4F2-22000BC102FE" class="text-block-content">
+    <p>Even when you aren't adding sections, you will see a warning message asking you if you want to add sections. </p>
+<p>You can click the <strong>Continue</strong> button [1] if you don't want to add any other sections to the assignment, or click the <strong>Go Back</strong> button [2] to go back and add sections. </p>
+<p><strong>Note</strong>: This warning message will not appear if everyone in the course<strong> </strong>or all course sections are assigned.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_date_error" data-step-uuid="89d28586-bf4b-4ab9-be7a-c0b94fad25e3">
+    <h3 id="view_date_error" class="step-title screensteps-heading">View Date Error</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/152/original/bfb762ae-0f5f-4562-98f5-1f225424744c.png" srcset="" alt="View Date Error" height="399" width="505">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EE2000-1E48-0135-B4F4-22000BC102FE" class="text-block-content">
+    <p>If you submit an invalid string of due dates and try to save the assignment, Canvas generates an error notification. Such invalid entries include not unlocking the assignment before it is due, not placing the due date inside the range of availability dates, or assigning a date that is outside the course or term dates. </p>
+<p>Correct the date and then update the assignment again. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If the course does not include specified course start and end dates, Canvas validates the assignment against the term date set for the course.</li>
+<li>If your course is using Multiple Grading Periods, the Assign field validates the due date against the closed grading period and requires the assignment date to be past the date of the closed grading period.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_dates" data-step-uuid="cc5ec9a0-0974-49c5-963b-f047117109b3">
+    <h2 id="view_assignment_dates" class="step-title screensteps-heading">View Assignment Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/159/original/8564c976-2e19-4e12-b938-83f4099cdbf3.png" srcset="" alt="View Assignment Dates" height="606" width="794">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EE5070-1E48-0135-B4F6-22000BC102FE" class="text-block-content">
+    <p>View the dates and users assigned to the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignments_page" data-step-uuid="81a1968c-3cf3-4552-84ea-5d4e575d6443">
+    <h2 id="view_assignments_page" class="step-title screensteps-heading">View Assignments Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/179/203/original/da7ba9cf-4396-403d-8a9a-0d8f07e10705.png" srcset="" alt="View Assignments Page" height="212" width="767">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85EE84C0-1E48-0135-B4F8-22000BC102FE" class="text-block-content">
+    <p>On the Assignments Index Page, the assignment displays. If there are multiple users and dates assigned to the assignment, you can hover over the text to view date availability.</p>
+<p>On their Assignments page, students can <a href="/t5/Student-Guide/How-do-I-view-Assignments-as-a-student/ta-p/451" target="_blank">view their group assignments</a> along with all other assignments. </p>
+<p>Students can learn more about <a href="/t5/Student-Guide/How-do-I-use-groups-as-a-student/ta-p/603040" target="_blank">using groups as a student</a> and <a href="/t5/Student-Guide/How-do-I-submit-an-assignment-on-behalf-of-a-group/ta-p/294" target="_blank">submitting assignments on behalf of the group</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

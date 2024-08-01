@@ -1,0 +1,209 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7B3E7520-22D7-0135-FC3D-22000AB760A3" class="text-block-content">
+    <p>In SpeedGrader, you can enter grades for student submissions. Grades are automatically displayed in the Gradebook.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>SpeedGrader is generally designed for one instructor role to enter grades at a time. Because of how SpeedGrader loads and stores data in the browser, multiple users should not grade assignments at the same time since each grader cannot view the most recent information for a submission. For more details on grading limitations, please see the lesson about <a href="/t5/Instructor-Guide/How-do-I-use-SpeedGrader/ta-p/757" target="_blank">how to use SpeedGrader</a>.</li>
+<li>When using <a href="/t5/Instructor-Guide/How-do-I-view-differentiated-assignments-with-different-due/ta-p/715" target="_blank">differentiated assignments</a>, the assignment only displays students in the student list who are part of the assignment or section.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speedgrader" data-step-uuid="47d13b8a-1274-4279-be2d-2e56c9019449">
+    <h2 id="open_speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/259/original/f633c221-8f24-460c-82ca-b24b7705928c.png" srcset="" alt="Open SpeedGrader" height="54" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B3EAB10-22D7-0135-FC3F-22000AB760A3" class="text-block-content">
+    <p>Open SpeedGrader from any assignment, graded discussion, or quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_student_submission" data-step-uuid="ae769241-9769-47bd-b370-82a674ebe729">
+    <h2 id="open_student_submission" class="step-title screensteps-heading">Open Student Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/255/original/c863863d-78f7-41c3-a987-728ce07c2ae9.png" srcset="" alt="Open Student Submission" height="387" width="357">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B3EE1E0-22D7-0135-FC41-22000AB760A3" class="text-block-content">
+    <p>Use the <a href="/t5/Instructor-Guide/How-do-I-use-the-student-list-to-view-student-submissions-in/ta-p/770" target="_blank">student list</a> to locate a student submission.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="grade_submission" data-step-uuid="97e9edb2-3083-46b8-8be5-ab6edb65d4d2">
+    <h2 id="grade_submission" class="step-title screensteps-heading">Grade Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/265/original/a88d0512-0f7b-46d3-9f7b-cade354e41d8.png" srcset="" alt="Grade Submission" height="147" width="179">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B3F67F0-22D7-0135-FC43-22000AB760A3" class="text-block-content">
+    <p>Scores are entered according to the assignment's Display Grade setting [1]. Scores can be entered as one of five options: points, complete/incomplete, letter grade, percentage, and GPA. </p>
+<p>If a rubric is attached to the assignment, you can <a href="/t5/Instructor-Guide/How-do-I-use-a-rubric-to-grade-submissions-in-SpeedGrader/ta-p/1015" target="_blank">view the rubric</a> by clicking the <strong>View Rubric</strong> button [2]. If your rubric is set up for grading, the Grade field will automatically populate with the rubric grade results. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-points-grade" data-step-uuid="aa9338b2-5b5b-4fd6-b3d5-0d442f6bb494">
+    <h3 id="enter-points-grade" class="step-title screensteps-heading">Enter Points Grade</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/916/476/original/ecf4a251-bd79-441e-8934-9dd99828901b.png" srcset="" alt="Enter Points Grade" height="102" width="202">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d3170514-be7c-41d0-b3e3-69c3f9c9ac1d" class="text-block-content">
+    <p>To enter a points grade, enter the number of points in the grade field. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-complete-or-incomplete-grade" data-step-uuid="4c07a2da-dc1f-427f-a17e-a5d8cf9aea8c">
+    <h3 id="enter-complete-or-incomplete-grade" class="step-title screensteps-heading">Enter Complete or Incomplete Grade</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/916/469/original/294d531c-be97-479a-b38d-79dcdca3c7cf.png" srcset="" alt="Enter Complete or Incomplete Grade" height="204" width="227">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0ed8c447-34fb-4cb8-aa91-1eaab9066b1c" class="text-block-content">
+    <p>To enter a complete or incomplete grade, click the Grade drop-down menu [1] and select the desired option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-letter-grade" data-step-uuid="6b629e0a-0d13-4ac1-be41-9c4d2feea571">
+    <h3 id="enter-letter-grade" class="step-title screensteps-heading">Enter Letter Grade</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/916/472/original/362e80fa-fab8-4bea-9e05-ce3791175866.png" srcset="" alt="Enter Letter Grade" height="102" width="203">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_df924461-c662-4381-ae11-f57df67e0357" class="text-block-content">
+    <p>To enter a letter grade, enter the letter in the grade field. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-percentage-grade" data-step-uuid="f0f5b2cf-073a-420d-8ef0-2d816125d2c4">
+    <h3 id="enter-percentage-grade" class="step-title screensteps-heading">Enter Percentage Grade</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/916/467/original/6d44aebe-bb05-4f7a-87a5-f208ca4da589.png" srcset="" alt="Enter Percentage Grade" height="92" width="194">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_682e1635-7ac5-4862-8441-d1be5c39fa21" class="text-block-content">
+    <p>To enter a percentage grade, enter the percent in the grade field. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-gpa-grade" data-step-uuid="87db43a7-38d8-426a-9d1e-5c337adfd5a2">
+    <h3 id="enter-gpa-grade" class="step-title screensteps-heading">Enter GPA Grade</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/916/474/original/5001fbc1-22c0-4726-aebe-c53ef40e597b.png" srcset="" alt="Enter GPA Grade" height="95" width="154">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ab568284-5092-401a-85b2-e4dce98be684" class="text-block-content">
+    <p>To enter a GPA grade, enter the number which corresponds to the GPA scale defined by the grading scheme in the grade field.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="excessive_points_alert" data-step-uuid="d3aee6cf-5150-426d-acf4-90c60e025334">
+    <h2 id="excessive_points_alert" class="step-title screensteps-heading">View Excessive Points Alert</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/392/041/original/ffa5cac0-b439-49cf-b444-68a27b0d1bcf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/392/041/medium/ffa5cac0-b439-49cf-b444-68a27b0d1bcf.png" srcset="" alt="View Excessive Points Alert" height="336" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B3FF040-22D7-0135-FC45-22000AB760A3" class="text-block-content">
+    <p>If an excessive amount of points is added to a student's grade, Canvas will generate an alert notifying that the student was awarded an unusually high grade. You can either keep or correct the point value.</p>
+<p>Excessive points can occur in the following situations:</p>
+<ul>
+<li>The amount entered is 50% above the total points possible</li>
+<li>An extra digit is entered (e.g. 500 instead of 50)</li>
+<li>Negative points are entered</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_grade" data-step-uuid="9ecc5070-773e-4079-91ac-5f38dcbf0f70">
+    <h2 id="edit_grade" class="step-title screensteps-heading">Edit Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/263/original/e82552c0-c8bd-43c7-a3c1-8db77a7ed61c.png" srcset="" alt="Edit Grade" height="141" width="203">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B402900-22D7-0135-FC47-22000AB760A3" class="text-block-content">
+    <p>To edit an existing score, click the grade field and enter the new grade.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete_grade" data-step-uuid="c2849f74-c99f-487c-a2d0-c738f3acd41f">
+    <h2 id="delete_grade" class="step-title screensteps-heading">Delete Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/261/original/b5947a11-d9f6-4dd7-b9fe-2b2194a0fa5f.png" srcset="" alt="Delete Grade" height="317" width="645">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B406270-22D7-0135-FC49-22000AB760A3" class="text-block-content">
+    <p>To manually delete a grade, click the grade field and click the delete key. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_deleted_grade" data-step-uuid="2c501999-36ef-4671-bb41-546b136490b3">
+    <h3 id="view_deleted_grade" class="step-title screensteps-heading">View Deleted Grade</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/267/original/c79bca78-b662-424f-8bb0-8df8bcd6ef3e.png" srcset="" alt="View Deleted Grade" height="311" width="658">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7B409140-22D7-0135-FC4B-22000AB760A3" class="text-block-content">
+    <p>View the deleted grade and the ungraded submission.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

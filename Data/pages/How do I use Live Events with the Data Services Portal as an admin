@@ -1,0 +1,144 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2af5fb3b-c1d8-4f3c-a6e1-5d1e5838ec24" class="text-block-content">
+    <p>If you have <a href="/t5/Admin-Guide/How-do-I-install-Canvas-Data-Services-using-Live-events-in-my/ta-p/184" target="_blank">installed Canvas Data Services in your account</a>, you can add and manage data streams in your account.</p>
+<p>For more information on Canvas Data, view the <a href="https://portal.inshosteddata.com/docs" target="" rel="nofollow noopener noreferrer">Canvas Data dictionary</a>.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Viewing Data Services is an account permission. If you cannot view the Data Services link in Account Navigation, this permission has not been enabled for your user account.</li>
+<li>Accounts must have a supported data stream service URL to receive data streams.</li>
+<li>Canvas Data streams may include personal information for Canvas users. You should only stream data to trusted services and endpoints.</li>
+<li>Canvas Data does not display child account information within a parent account.</li>
+<li>Live events data is processed in the same region as the Canvas instance they are emitted from. Please ensure you can receive events from any IP address. If Canvas encounters errors in user subscriptions, live event subscriptions may be disabled.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="7a3179b2-7741-4e58-b8c1-ad369e5bb052">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a18cf595-203f-46e4-8ce4-6d6996854a1c" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-data-services" data-step-uuid="9dade89b-e109-440b-b1ff-018c20abcf69">
+    <h2 id="open-data-services" class="step-title screensteps-heading">Open Data Services</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/868/292/original/7be83ae6-9d6c-4205-932a-65ad9e6d18d0.png" srcset="" alt="Open Data Services" height="266" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f38c6df9-3d1a-46aa-b4fc-54fc9c512dbb" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Data Services</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-data-services" data-step-uuid="4920a477-82c7-41c7-837f-aabb9ca5b68b">
+    <h2 id="view-data-services" class="step-title screensteps-heading">View Data Services</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/040/971/original/e9ae8d5f-50e3-4eb6-86ae-f40e5218b31b.png" srcset="" alt="Desktop" height="100" width="300">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6f518a3e-173b-409e-b0b0-599b6c279978" class="text-block-content">
+    <p>By default, Data Services opens to the <strong>Settings</strong> page [1]. In Data Services Settings, you can view and manage a list of all your account data streaming options. </p>
+<p>To view data services documentation, click the <strong>Documentation </strong>tab [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-data-streaming-options" data-step-uuid="5eb2da8a-69c0-47a6-ab28-ab584e480f5f">
+    <h2 id="view-data-streaming-options" class="step-title screensteps-heading">View Data Streaming Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/868/357/original/4d096294-1b76-4a28-a7bc-2aec5c0a731d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/868/357/medium/4d096294-1b76-4a28-a7bc-2aec5c0a731d.png" srcset="" alt="View Data Streaming Options" height="281" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c83ebce0-5c10-406f-a5d7-8631c23afcaf" class="text-block-content">
+    <p>View your current data streams. The Data Streaming Options table displays the name [1] and status [2] of your streams. Inactive streams display the <strong>Inactive</strong> status label [3]. Active streams do not display a label.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-data-stream" data-step-uuid="910baf13-5e33-4e19-805c-a138f4c9d716">
+    <h2 id="add-data-stream" class="step-title screensteps-heading">Add Data Stream</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/868/361/original/00dd0d2c-8e6f-4210-8615-94ba1dee0ea3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/868/361/medium/00dd0d2c-8e6f-4210-8615-94ba1dee0ea3.png" srcset="" alt="Add Data Stream" height="281" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e1ae636f-c4fe-4ad3-8777-47edfaab048b" class="text-block-content">
+    <p>To <a href="/t5/Admin-Guide/How-do-I-subscribe-to-Live-Events-using-Canvas-Data-Services/ta-p/227" target="_blank">add a new data stream</a>, click the <strong>Add</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-data-stream-options" data-step-uuid="dcc08b59-d0d7-4e4e-8c24-a7fedd5b935e">
+    <h2 id="manage-data-stream-options" class="step-title screensteps-heading">Manage Data Stream Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/868/366/original/fe49ece4-5431-4f88-a1d8-38818217fb6c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/868/366/medium/fe49ece4-5431-4f88-a1d8-38818217fb6c.png" srcset="" alt="Manage Data Stream Options" height="266" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60d55077-992f-494a-97e1-80802fd58e2e" class="text-block-content">
+    <p>To manage options for a data stream, click the stream's <strong>Options</strong> icon [1]. To edit the stream, click the <strong>Edit</strong> link [2]. To duplicate the stream, click the <strong>Duplicate</strong> link [3]. To deactivate the stream, click the <strong>Deactivate</strong> link [4].</p>
+<p><strong>Note: </strong>Inactive subscriptions are only displayed for 90 days.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="reactivate-data-stream" data-step-uuid="be778a2c-7bde-4e3f-9355-d61d87823d8b">
+    <h3 id="reactivate-data-stream" class="step-title screensteps-heading">Reactivate Data Stream</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/868/364/original/0e2cbd06-450e-433c-8def-dc34b1a621aa.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/868/364/medium/0e2cbd06-450e-433c-8def-dc34b1a621aa.png" srcset="" alt="Reactivate Data Stream" height="213" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_79dfab1c-39f5-483c-9eac-6d3390ba2802" class="text-block-content">
+    <p>To reactivate a deactivated stream, click the <strong>Reactivate</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

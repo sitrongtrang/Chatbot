@@ -1,0 +1,141 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_42D17D70-2215-0135-4A0D-22000B5A851D" class="text-block-content">
+    <p>If you cannot <a href="/t5/Instructor-Guide/How-do-I-find-an-existing-outcome-to-add-to-a-course/ta-p/866" target="_blank">find an outcome</a> to use in your course, you can create a new outcome.</p>
+<p>Outcomes can be included in <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-in-a-course/ta-p/842" target="_blank">assignment rubrics</a> as an easy way to assess mastery of learning objectives. When you create a learning outcome, you should also define a criterion that can be used when building assignment rubrics. Define as many rubric columns as you need, and specify a point threshold that will be used to define mastery of this outcome.</p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/Outcomes-Overview-Instructors/ta-p/381848" target="_blank">View a video about Outcomes</a> or <a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Outcomes/ta-p/75" target="_blank">learn more about Outcomes</a>.</p>
+<p>This lesson displays how to create outcomes in the classic Outcomes page view. If the Outcomes page in your course displays differently than the images in this lesson, learn how to <a href="/t5/Instructor-Guide/How-do-I-create-a-course-outcome-in-Improved-Outcomes-Management/ta-p/486357" target="_blank">create an outcome in a course</a> within an account that has enabled the Improved Outcomes Management feature option.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="FAB20F5C-597F-41A8-AE1A-8CEBD93709D8">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/779/619/original/22ea7306-c158-466a-94fb-2eab17bff64b.png" srcset="" alt="Open Outcomes" height="267" width="148">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42D1B640-2215-0135-4A0F-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_outcome" data-step-uuid="0DC3A286-9DCB-4C9B-B95B-F048DE245A09">
+    <h2 id="add_outcome" class="step-title screensteps-heading">Add Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/378/659/original/648a67f1-6b6a-4389-81b2-7ef936d6e485.png" srcset="" alt="Add Outcome" height="73" width="329">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42D1EF00-2215-0135-4A11-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>New Outcome</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_outcome" data-step-uuid="FFAAB0E9-5487-4391-AC9E-4DD3B7FA1186">
+    <h2 id="create_outcome" class="step-title screensteps-heading">Create Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/062/853/original/2ffb2b44-e05a-4e99-863d-2f35891b8043.png" srcset="" alt="Create Outcome" height="371" width="640">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42D22530-2215-0135-4A13-22000B5A851D" class="text-block-content">
+    <p>Enter a name for the outcome in the <strong>Name this outcome</strong> field [1]. This is the official name of the outcome that will also appear in the <a href="/t5/Instructor-Guide/How-do-I-use-the-Learning-Mastery-Gradebook-to-view-outcome/ta-p/775" target="_blank">Learning Mastery Gradebook.</a></p>
+<p>If you allow students to view Learning Mastery scores on the Grades page, they will see the name of the outcome. However, you may want to create a custom, <a href="/t5/Instructor-Guide/How-do-I-create-custom-course-outcome-names-for-students/ta-p/653" target="_blank">friendly name.</a> To create a friendly name for student view, enter a name in the <strong>Friendly name (optional)</strong> field [2].  </p>
+<p>You can also enter a description in the Rich Content Editor field [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_criterion_ratings" data-step-uuid="f1c4f6e6-b7c2-48e0-bcd8-bbcf2a806ec8">
+    <h2 id="add_criterion_ratings" class="step-title screensteps-heading">Add Criterion Ratings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/836/050/original/4c9c93bf-5cb6-4d9b-a9da-1a4074f0e7b8.png" srcset="" alt="Add Criterion Ratings" height="201" width="633">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42D262D0-2215-0135-4A15-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Edit</strong> icon [1] to edit the criterion rating. You can change the existing name (if desired) for the criterion in the <strong>Criterion Name field </strong>[2]. Set the criterion point value by typing in the <strong>Points field</strong> [3]. </p>
+<p>To save the criterion, click the <strong>OK</strong> button [4]. To remove the criterion completely, click the <strong>Delete</strong> button [5].</p>
+<p>To add additional criterion ratings, click the <strong>Insert </strong>link [6].</p>
+<p><strong>Note:</strong> If you cannot edit criteria for your outcome, your institution has enabled <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-scales-in-a-course/ta-p/429018" target="_blank">course-wide mastery scales</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_mastery_and_calculation_method" data-step-uuid="0a5107e1-dd78-4da2-b6ed-6cfa8417af4c">
+    <h2 id="set_mastery_and_calculation_method" class="step-title screensteps-heading">Set Mastery and Calculation Method</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/800/301/original/0a03c09f-d4df-4eb9-9745-4f84ea69bd99.png" srcset="" alt="Set Mastery and Calculation Method" height="530" width="656">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42D2B620-2215-0135-4A17-22000B5A851D" class="text-block-content">
+    <p>Set the mastery point value in the <strong>Mastery at </strong>field [1]. This field indicates the number of points that must be achieved for mastery according to the criterion ratings.</p>
+<p>In the <strong>Calculation Method</strong> drop-down menu [2], select the calculation method for the outcome. By default, new outcomes are set to the Weighted Average calculation method in the Canvas interface.</p>
+<p>Click the <strong>Save </strong>button [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-calculation-method" data-step-uuid="d4faa818-d8f0-415b-b0c7-d79ecbedcaba">
+    <h3 id="select-calculation-method" class="step-title screensteps-heading">Select Calculation Method</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2e811bfe-4523-4a05-ba3b-b55a091cc27b" class="text-block-content">
+    <p>You can set one of the following calculation methods: Weighted Average, Decaying Average, n Number of Times, Most Recent Score, and Highest Score.</p>
+<p><strong>Weighted Average: </strong>Select this option to average assessment item scores with a greater weight for the most recently edited assessment item.<strong> </strong>The Weighted Average calculation splits the total percentage between the most recently edited assessment item and an average of all prior assessment items. For example, you can set the most recently edited assignment to be weighted at 40% of the total and prior items to be weighted at 60% of the total.</p>
+<p>Enter a percentage between 1% and 99% for the most recent item weight. The remaining amount is used to weigh prior scores. The percentage split is set to 65/35 by default. The average is rounded to the next two decimals. If there is only one result, the single score will be displayed.</p>
+<p><strong>Decaying Average: </strong>Select this option to average assessment item scores with a greater weight for the most recently edited assessment item.<strong> </strong>The Decaying Average calculation splits the total percentage between the most recently edited assessment item and an average of all prior assessment items. For example, you can set the most recently edited assignment to be weighted at 40% of the total and prior items to be weighted at 60% of the total.</p>
+<p>Enter a percentage between 50% and 99% for the most recent item weight. The remaining amount is used to weigh prior scores. The percentage split is set to 65/35 by default. The average is rounded to the next two decimals. If there is only one result, the single score will be displayed.</p>
+<p><strong>n Number of Times:</strong> Select this option to set a number of times that a student must meet or exceed mastery on a set amount of aligned items. Any scores that do not meet mastery are not used in the calculation. You can specify between 1 and 10 items required for mastery.</p>
+<p><strong>Most Recent Score:</strong> Select this option to always selects the most recent score for all assessment items.</p>
+<p><strong>Highest Score:</strong> Select this option to always select the highest score for all assessment items.</p>
+<p><strong>Note:</strong> If you cannot edit calculation methods for your outcome, your institution has enabled <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-calculations-in-a-course/ta-p/429019" target="_blank">course-wide outcome calculation methods</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_outcome" data-step-uuid="f0b51233-65e8-4e42-bf5f-f7b734029c81">
+    <h2 id="view_outcome" class="step-title screensteps-heading">View Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/378/656/original/fffa7992-e25b-4447-b0d3-86d2058fd400.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/378/656/medium/fffa7992-e25b-4447-b0d3-86d2058fd400.png" srcset="" alt="View Outcome" height="684" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42D30BB0-2215-0135-4A19-22000B5A851D" class="text-block-content">
+    <p>View the created outcome.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,190 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_b249ad98-f03f-43f5-9d64-8bfd39a15601" class="text-block-content">
+    <p>The Late Submission policy allows you to automatically deduct points on all late submissions. A submission is labeled late when it has been submitted past the due date. Only assignments with a status of Late will be affected by the Late Submission policy. The late policy will be applied to a submission when it is graded.</p>
+<p>Late Submission policies only apply to the course in which they are configured. Late Submission policies will affect previously graded assignments, but do not affect assignments in closed grading periods or submissions for students with concluded enrollments. Disabling a Late Submission policy will not remove late penalties from previously graded assignments.</p>
+<p>The Late Submission policy allows you to define a percentage of the total points possible on an assignment that will be deducted for late submissions. Points can be deducted per day or hour the submission is late. For example, if the Deduct field is set to 10%, the interval is selected for Day, and the assignment is worth 10 points, 1 point will be deducted per day. If a submission is 2 days late, and the student is awarded full points, their final grade on the assignment would be 8 points (2 days late x 1 point deduction per day = 2 point Late Penalty).</p>
+<p>To calculate a late penalty, Canvas rounds up the day or hour to the next whole number. For example, you may set a 10% per day late submission policy. If a student submits a 10-point assignment 1.3 days late, the late penalty will round 1.3 days up to 2 days. The student's score will reflect a 20% (2 point) late submission deduction.</p>
+<p>Additionally, you can define the lowest possible grade threshold for a late policy. The lowest possible grade percentage is the lowest score a student can receive when late policy deductions are applied to grades entered above that percentage. Any grade awarded equal to or below that percentage will not receive late policy deductions. </p>
+<p>For example, if the Late Submission policy is set to deduct 10% per day for late submissions, and a student submits 8 days late to an assignment worth 10 points, the student's grade would be 2 points if they were awarded full credit on the assignment (8 days late x 1 point deducted per day = 8 point Late Penalty). However, if the Lowest grade possible is set to 60%, the student's grade will be adjusted to 6 points. Any grades awarded that are less than or equal to 6 will not have late policies applied.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Setting a Late Submission policy affects all assignments in a course, including assignments with due dates in the past. To exclude a specific assignment, mark the submission as something other than Late in the Grade Detail Tray.</li>
+<li>For the calculation of the Late Penalty, days late will be rounded up to the next whole number. For example, if a student submits 1.3 days late, the Late Penalty will treat the student as 2 days late. This behavior also applies for hour durations.</li>
+<li>Applying a deduction to late submissions will automatically affect any previously graded submissions. Therefore, the Late Submission policy should be set up when a course is created prior to creating assignments.</li>
+<li>The Late Submission policy will not affect submissions in closed grading periods or submissions for concluded enrollments.</li>
+<li>The Late Submission policy will not be automatically applied to No Submission or On Paper assignments. However, a Late label can be added in the Grade Detail tray.</li>
+<li>The Late Submission policy will not affect submissions for Complete/Incomplete assignments.</li>
+<li>The Late Submission policy may not work correctly when applied to a quiz created using the Classic Quizzes tool and when also using a Missing Submission policy. To ensure the late deduction is properly calculated for these quizzes, you must set an Until date and time that occurs after the Due date. If you do not set an Until date for the quiz, you can set the quiz fudge points to 0 in SpeedGrader when grading the quiz.</li>
+<li>The Late Submission Policy is not supported when using multiple attempts in New Quizzes.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-grades" data-step-uuid="e5cae17c-d242-4a0d-8d5e-1ce070d4d511">
+    <h2 id="open-grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/054/original/b647ce7e-02af-43b4-8249-c9656e098b9f.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7d43c24b-15d5-4a79-a769-86b32b5ed605" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-gradebook-settings" data-step-uuid="ae44bb20-b4d5-49ba-9bfe-9b93b568c02b">
+    <h2 id="open-gradebook-settings" class="step-title screensteps-heading">Open Gradebook Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/729/823/original/62fa7e40-432c-40b1-87b1-6eb675c3cfdc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/729/823/medium/62fa7e40-432c-40b1-87b1-6eb675c3cfdc.png" srcset="" alt="Open Gradebook Settings" height="60" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b33dfa47-b338-4be5-9b2b-0eb829982253" class="text-block-content">
+    <p>Click the <strong>Settings</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-late-policies" data-step-uuid="06979a0d-a694-4814-97c1-2d03d4848596">
+    <h2 id="view-late-policies" class="step-title screensteps-heading">View Late Policies</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/729/825/original/bf205849-daf5-4011-915a-7abcca35c730.png" srcset="" alt="View Late Policies" height="132" width="764">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_73914fd7-dbbd-45af-91ad-8e9a1a964bb1" class="text-block-content">
+    <p>In Gradebook Settings, view the <strong>Late Policies</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="apply-late-submission-policy" data-step-uuid="bcc5ba0a-3c1f-4630-8084-bb197cf539f9">
+    <h2 id="apply-late-submission-policy" class="step-title screensteps-heading">Apply Late Submission Policy</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/908/316/original/862b1857-f7b9-4acf-a326-053601b8958d.png" srcset="" alt="Apply Late Submission Policy" height="256" width="510">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7a8a3d53-791d-4cc4-a76b-acee4c26af6b" class="text-block-content">
+    <p>Click the <strong>Automatically apply deduction to late submissions</strong> checkbox. </p>
+<p><strong>Note:</strong> Selecting this checkbox will automatically apply the deduction you set for any late submissions in the course that have previously been graded as well as apply to future late submissions you grade.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-deduction" data-step-uuid="74c1ae30-05aa-4435-be64-f2835aa977cf">
+    <h2 id="select-deduction" class="step-title screensteps-heading">Set Deduction</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/908/318/original/f33f4f87-99bd-4fbb-b62e-8e71b39ca062.png" srcset="" alt="Set Deduction" height="269" width="527">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e6aab595-413f-430e-b56f-1f8b37f3134f" class="text-block-content">
+    <p>To set the percentage you want late submissions to be deducted, set a percentage in the <strong>Late Submission Deduction</strong> field [1]. Then set the interval for which you would like Canvas to deduct points in the <strong>Deduction Interval</strong> drop-down menu [2]. Available interval options are Day or Hour.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-lowest-possible-grade" data-step-uuid="1fedf90a-b65d-43cf-8826-dd38504b0696">
+    <h2 id="set-lowest-possible-grade" class="step-title screensteps-heading">Set Lowest Possible Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/908/320/original/0dd11457-92aa-4f7d-a161-c64873731f1a.png" srcset="" alt="Set Lowest Possible Grade" height="253" width="510">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4fdeee54-24c9-46ce-82a5-51bf872b6cc0" class="text-block-content">
+    <p>To manage the lowest possible grade threshold for the late policy, enter a percentage in the <strong>Lowest possible grade</strong> field. The lowest possible grade percentage is the lowest score a student can receive when late policy deductions are applied to grades entered above that percentage. Any grade awarded equal to or below that percentage will not receive late policy deductions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update-late-policy" data-step-uuid="eab2da9f-a70d-447e-aa95-90d6e4df6098">
+    <h2 id="update-late-policy" class="step-title screensteps-heading">Apply Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/908/322/original/00c90313-e342-4ee8-a039-334937af4818.png" srcset="" alt="Apply Settings" height="70" width="240">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_36d93d53-7917-44c5-9750-6c6db726cd34" class="text-block-content">
+    <p>Click the <strong>Apply Settings</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-grades" data-step-uuid="4d9c72a7-138d-4f84-ba8d-74a564f645f6">
+    <h2 id="view-grades" class="step-title screensteps-heading">View Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/861/original/78ef2bd5-7eee-415c-896f-7216402a910d.png" srcset="" alt="View Grades" height="346" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ca479d02-eebc-4471-983d-8194678ae6d9" class="text-block-content">
+    <p>View the affected grades in the Gradebook.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-grade-detail-tray" data-step-uuid="c40f0dc1-a5bc-46ef-b626-dc7fe81aedb4">
+    <h3 id="view-grade-detail-tray" class="step-title screensteps-heading">View Grade Detail Tray</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/245/965/original/695880e6-2639-4633-9884-cc0d27b4b759.png" srcset="" alt="View Grade Detail Tray" height="705" width="322">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cd06b068-3033-495d-9c80-09415559335d" class="text-block-content">
+    <p>In the Grade Detail Tray, you can view details about the student's grade and adjust settings on each student's individual submission. </p>
+<p>In the <strong>Grade info</strong> section [1], you can view or edit the grade you awarded the student for their submission, the late penalty deduction, and the student's final grade on the assignment.</p>
+<p>In the <strong>Status</strong> section [2], you can view how many days late the student submitted the assignment and adjust the amount of days late in the interval field. You can also manually change the submission to a status other than Late, but changing the status will remove any late penalties that had been automatically applied to the student's submission.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-late-policy-warning" data-step-uuid="96f91bdb-f281-4d6b-a0f0-3e079dd4dc51">
+    <h2 id="view-late-policy-warning" class="step-title screensteps-heading">View Late Policy Warning</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/908/324/original/62b16968-d931-41d6-8c82-a232ad9cc723.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/908/324/medium/62b16968-d931-41d6-8c82-a232ad9cc723.png" srcset="" alt="View Late Policy Warning" height="301" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1ade640c-c55e-47c6-9655-00e0112152e5" class="text-block-content">
+    <p>If you set a late policy, and then adjust any of the parameters, Canvas will display a warning to notify you that changing the late policy will affect previously graded submissions. To exclude a submission from the late penalty you will have to manually change a submission's status to something other than late in the Grade Detail Tray.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

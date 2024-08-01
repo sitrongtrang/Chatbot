@@ -1,0 +1,13 @@
+Updating users using an SIS import
+Override UI Changes
+In Global Navigation, click the Admin link and navigate to your account. Then, in Account Navigation, click the SIS Import link.
+Choose your file that has the imported CSV using the Choose File button.
+Before starting the import, click the Override UI changes checkbox. This will allow the import to modify the sticky fields.
+You may also consider clicking the Clear UI-changed state checkbox as well, this will make any fields affected by the current SIS Import modifiable in the future without using the Override UI changes checkbox.
+To start the import, click the Process Data button.
+ Prevent Users from Modifying their Name
+If you use an automated system to import data from a Student Information system, you may want to consider restricting users from modifying their name directly in Canvas.
+In Global Navigation, click the Admin link and navigate to your account. In Account Navigation, click the Settings link.
+In Account Settings, scroll to the Features section.
+Disable the Users can edit their own name feature.
+Click the Update Settings button.

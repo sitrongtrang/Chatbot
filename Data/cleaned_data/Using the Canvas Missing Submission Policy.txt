@@ -1,0 +1,20 @@
+Using the Canvas Missing Submission Policy
+Missing Submission Policy Settings
+Missing Submission policy settings are managed from the Gradebook settings.
+Open Gradebook
+In the Course Navigation menu, click the Grades link. 
+Open Gradebook Settings
+In the Gradebook, click the Settings icon.
+Enable Missing Submission Policy
+To enable the Missing Submission policy and automatically apply a grade to missing submissions, click the Automatically apply grade for missing submissions checkbox.
+If scores are being applied automatically, but they appear to be incorrect, review the Grade Percentage for missing submissions field. The percentage entered in this field represents the total grade that students will receive when they have a missing submission. 
+If you want your students to receive a 0 when they miss a submission, enter 0 (zero) in the percentage field.
+Review Assignment Due Dates and Submission Type
+If your Missing Submission policy is not correctly applying to an assignment, your submission type or due dates may be incorrect. The Missing Submission policy only applies to assignments using the Online submission type and that have a due date in the past.
+Open Assignments
+Open Assignment
+Click the title of the assignment that isn't displaying the Missing Submission policy correctly.
+Confirm Assignment Due Dates
+Confirm that the due date is correct. If not, you can edit the due date for the assignment.
+Confirm Submission Type
+Confirm that the Online submission type is selected for the assignment. This is the only submission type that works with the automatic Missing Submission policy. If the assignment submission type is not set to Online, you can edit the submission type. You must manually apply the Missing label for missing assignments with other submission types. 

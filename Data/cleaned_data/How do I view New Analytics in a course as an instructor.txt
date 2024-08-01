@@ -1,0 +1,52 @@
+How do I view New Analytics in a course as an instructor
+In the beta environment only, Course Analytics data is pulled from Canvas Data 2 (CD2)/Data Access Platform (DAP). All data will be migrated to CD2/DAP on August 1, 2024. You can migrate your data to CD2/DAP before August 1, 2024 by contacting your administrator.
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open New Analytics
+To open New Analytics, click the New Analytics link in Course Navigation or click the New Analytics button in the Course Home Page.
+Note: If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.
+View Data Status
+If the course has been concluded, the analytics page includes a Concluded label. 
+View Weekly Online Activity Graph
+To view the student's weekly online activity, click the Weekly Online Activity tab. 
+Data is displayed as a chart with two rows: average page views and average participations. The following actions will generate participations:
+Announcements: posts a new comment to an announcement
+Assignments: submits an assignment
+Collaborations: loads a collaboration to view/edit a document
+Conferences: joins a web conference
+Discussions: posts a new comment to a discussion
+Pages: creates a page
+Quizzes: submits a quiz
+Quizzes: starts taking a quiz
+Data for the week that is currently in progress is indicated by a dotted line.
+To download a CSV of the weekly online activity data, click the Download button.
+Notes: 
+The definition of participation is based on federal guidelines related to student attendance as applicable to online courses. Please note that because communication between students and teachers often happens outside of the LMS, it is not included as a participation metric. However, as part of the Course Analytics offering, a history of inbox messages sent between students and instructors is included so that it can be viewed alongside participation metrics.
+Student participation data using external tools is not supported.
+View Weekly Online Activity Data Table
+To view weekly online activity in a table, click the Options icon and select the Data Table option. The data table shows the week start date, number of page views, and number of participations.
+Open Student Analytics
+To view analytics for all students in your course, click the Students tab.
+To view analytics for one student in your course, click the name of the student.
+To locate a student, you can sort the table by student name, or any other column header.
+The analytics table is paginated so you can view more students if you continue to scroll to the bottom of the page.
+View Student Information
+When viewing analytics for an individual student, you can view the student's name and send a message to the student. 
+To return to course analytics, click the Course Analytics link.
+View Course Grade Chart Graph
+By default, the student analytics opens to the Course Grade tab. The Course Grade chart graph shows the submission status and grade for all the assignments in the course. The student's current course grade is shown above the chart graph. 
+The x-axis displays an icon to indicate if the activity is an assignment, quiz, or discussion. The y-axis indicates the grade percentage.
+A solid dot in the chart represents a graded assignment and an empty dot represents an ungraded assignment. Click any dot to view more details about the assignment.
+To download a CSV of the course grade data, click the Download button.
+View Course Grade Data Table
+To view course grade data in a table, click the Options icon and select the Data Table option. The data table shows the assignment name, due date, submitted date, status, and grade. The table can be sorted by clicking any column heading. 
+View Communication Graph
+To view an overview of messages, click the Communication tab. The Communication graph shows the number of conversations that have taken place between the student and instructor(s) in the Canvas Inbox. The total number of messages sent by students and instructors is displayed above the graph. 
+The x-axis shows the date range and the y-axis shows the number of messages sent. Student and instructor messages are differentiated by different colors. To improve contrast in the chart, click the Chart Options icon and select the Display Shapes option.
+To view the details of the bar graph, hover over the specific bar you want to view. You can view the total number of messages sent for the date range. Click the bar to view the specific days and number of messages that were sent in the range.
+To download a CSV of the communication data, click the Download button.
+View Communication Data Table
+To view Communication activity in a table, click the Options icon and select the Data Table option. The data table shows the week start date, number of student messages, and number of instructor messages. The table can be sorted by clicking any column heading.
+To view details of a specific date range, click the date. 
+View Online Attendance Report
+If enabled by your institution, you can also view an Online Attendance report that indicates if students have met online attendance criteria for designated class days. Online attendance criteria is managed by your institution.

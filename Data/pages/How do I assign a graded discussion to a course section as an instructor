@@ -1,0 +1,298 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_16E56EA0-2156-0135-8A96-22000BC102FE" class="text-block-content">
+    <p>When creating or editing a graded discussion, you can assign a graded discussion to a specific course section. <a href="/t5/Instructor-Guide/What-is-the-difference-between-assignment-due-dates-and/ta-p/897" target="_blank">Availability date</a> functionality is still available for each graded discussion.</p>
+<p>Only the section(s) specified in the discussion details can view the graded discussion.</p>
+<p>When using differentiated assignments with the <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">Gradebook</a>, the graded discussion appears as a column for all students, but grade cells are grayed out for students who have not been included in the discussion. Grades cannot be assigned for students who have not been included in the graded discussion, and graded discussions that are not assigned to a student are not factored into overall grades. </p>
+<p>When <a href="/t5/Instructor-Guide/How-do-I-use-grading-periods-in-a-course/ta-p/1030" target="_blank">Multiple Grading Periods</a> are enabled in a course, graded discussions are validated against closed grading periods.</p>
+<p><strong>Note: </strong>Graded discussions do not support anonymous grading. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_discussions" data-step-uuid="e9b3d06f-435c-4f65-bdd7-d077b9cfb94d">
+    <h2 id="open_discussions" class="step-title screensteps-heading">Open Discussions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/762/596/original/016609fd-12bf-4be8-bffe-9b905ec331e7.png" srcset="" alt="Open Discussions" height="258" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E5A320-2156-0135-8A98-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Discussions</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_discussion" data-step-uuid="e1a2971e-c3c0-4229-956a-c72f365b3c1f">
+    <h2 id="add_discussion" class="step-title screensteps-heading">Add Discussion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/207/494/original/1a9f8ef0-348b-4cc3-8708-8c0003abf48a.png" srcset="" alt="Add Discussion" height="66" width="855">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E5DB20-2156-0135-8A9A-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Discussion</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-discussion-details" data-step-uuid="53e369a7-ba60-4fe9-bf73-5c14b640fbaf">
+    <h2 id="enter-discussion-details" class="step-title screensteps-heading">Enter Discussion Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/052/122/original/16ad4574-0866-4d12-b18e-d21de02d363a.png" srcset="" alt="Enter Discussion Details" height="358" width="809">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2782d2ad-b63a-4789-8ecb-6e8ebe6f58f4" class="text-block-content">
+    <p>Enter a topic title [1] and discussion details [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-posting-preference" data-step-uuid="2af68ffc-9e6f-4371-b9da-b25e293d8950">
+    <h2 id="select-posting-preference" class="step-title screensteps-heading">Select Posting Preference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/003/357/original/2201065e-b1d9-4787-aa1e-c635a1470f12.png" srcset="" alt="Select Posting Preference" height="100" width="725">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d7a10209-2b8f-41b2-b098-326d4bb6c26f" class="text-block-content">
+    <p>Select the All Sections option in the <strong>Post to</strong> drop-down. This option allows you to set the discussion as a graded discussion and assign the discussion to course sections in the Assign To section. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_graded_discussion" data-step-uuid="c9ce7cd8-b6e3-4970-86ab-f9f1d680cd1c">
+    <h2 id="set_graded_discussion" class="step-title screensteps-heading">Set Graded Discussion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/760/203/original/f1a9ef68-9221-4c33-967c-05d21ffef206.png" srcset="" alt="Set Graded Discussion" height="151" width="363">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E64330-2156-0135-8A9E-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Graded </strong>checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_grading_details" data-step-uuid="98b1331d-2f34-4e7c-9da9-0e0cdd427d71">
+    <h2 id="enter_grading_details" class="step-title screensteps-heading">Enter Grading Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/665/329/original/0bf8b25c-cb3a-4ab2-9eaa-8896fe8f7d6c.png" srcset="" alt="Enter Grading Details" height="316" width="541">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E68550-2156-0135-8AA0-22000BC102FE" class="text-block-content">
+    <p>Enter the number of points possible [1]. Select the Grading Type [2] and Assignment Group [3], and assign Peer Reviews [4], if any. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_to_section" data-step-uuid="8a097319-5716-4543-917d-a3b7232e26bf">
+    <h2 id="assign_to_section" class="step-title screensteps-heading">Assign to Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/207/482/original/123a134b-43e0-4fb5-8b6e-7a89566ef152.png" srcset="" alt="Assign to Section" height="330" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E6CC60-2156-0135-8AA2-22000BC102FE" class="text-block-content">
+    <p>By default, Canvas will set your assignment for everyone in your course. To create the assignment for a specific section, click the <strong>Everyone</strong> remove icon [1],<strong> </strong>then start to type in the name of a section [2]. When the section name appears, click the name. <em>Lists are not scrollable.</em> </p>
+<p>You can include more than one section in the To field as long as the section is to be assigned the same due and availability dates.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_due_and_availability_dates" data-step-uuid="52d1a992-9f0c-451a-b65f-1b3f8ced3a97">
+    <h2 id="edit_due_and_availability_dates" class="step-title screensteps-heading">Edit Due and Availability Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/207/496/original/dd8ad95d-b54b-434a-b7c3-d28fdebb3e7c.png" srcset="" alt="Edit Due and Availability Dates" height="416" width="461">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E6FDD0-2156-0135-8AA4-22000BC102FE" class="text-block-content">
+    <p>In the date fields, add your preferred date(s) with the following options:</p>
+<ul>
+<li>
+<strong>Due </strong>[1]: Set the date and time that the Assignment is due. The due date will already be populated for you if you created an assignment shell, but you can change it if necessary. </li>
+<li>
+<strong>Available From </strong>[2]: Set the date and time when the Assignment will become available.</li>
+<li>
+<strong>Until </strong>[3]: Set the date and time when the Assignment will no longer be available.</li>
+</ul>
+<p> </p>
+<p><strong>Note:</strong> Beneath the Due Date and Availability date fields, Canvas will display the time zone date and time according to context. If you manage courses in a time zone other than your local time zone and create or edit a due date for an assignment, the course and local times are displayed for reference.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_additional_dates" data-step-uuid="db669d0a-fef8-4dff-93ea-cd2ae45b3e4c">
+    <h2 id="add_additional_dates" class="step-title screensteps-heading">Add Additional Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/207/492/original/0f063479-67e5-4575-b709-697f3a0e5fd3.png" srcset="" alt="Add Additional Dates" height="416" width="461">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E734E0-2156-0135-8AA6-22000BC102FE" class="text-block-content">
+    <p>To add another section with a different due date and availability dates, click the <strong>Add </strong>button. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="remove_dates" data-step-uuid="75545484-45de-4fb4-9457-efd6a14030a8">
+    <h3 id="remove_dates" class="step-title screensteps-heading">Remove Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/207/484/original/0a8ddc9e-5e81-491d-b74e-3491c0bb1b2e.png" srcset="" alt="Remove Dates" height="540" width="466">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E76940-2156-0135-8AA8-22000BC102FE" class="text-block-content">
+    <p>You can also delete additional dates by clicking the remove icon next to the appropriate date.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="038abf55-d8e0-4a48-94f2-3eea87956c4d">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/760/196/original/5e1cdf10-df41-47e4-a821-baa84128d57c.png" srcset="" alt="Save and Publish" height="84" width="311">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E79BD0-2156-0135-8AAA-22000BC102FE" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_due_date_warning" data-step-uuid="8d5514de-1d00-4305-85a9-f748632e9858">
+    <h3 id="view_due_date_warning" class="step-title screensteps-heading">View Due Date Warning</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/760/194/original/358c61e8-c483-4a1d-971e-c3ea91520a95.png" srcset="" alt="View Due Date Warning" height="243" width="305">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E85770-2156-0135-8AAC-22000BC102FE" class="text-block-content">
+    <p>If you do not add course sections to the assignment, you will see a warning message asking you if you want to add those sections. </p>
+<p>You can click the <strong>Continue</strong> button [1] if you don't want to add any sections to the assignment, or click the <strong>Go Back</strong> button [2] to go back and add additional sections. </p>
+<p><strong>Note</strong>: This warning message will not appear if <em>Everyone </em>or all course sections are assigned to the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_date_error" data-step-uuid="7cb56922-7ac9-4fe2-a55c-edd7d91206c0">
+    <h3 id="view_date_error" class="step-title screensteps-heading">View Date Error</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/207/486/original/fa326941-a39d-4529-a3a2-c70b8aa09906.png" srcset="" alt="View Date Error" height="448" width="445">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E88E30-2156-0135-8AAE-22000BC102FE" class="text-block-content">
+    <p>If you submit an invalid string of due dates and try to save the assignment, Canvas generates an error notification. Such invalid entries include not unlocking the assignment before it is due, not placing the due date inside the range of availability dates, or assigning a date that is outside the course or term dates. </p>
+<p>Correct the date and then update the assignment again. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If the course does not include specified course start and end dates, Canvas validates the graded discussion against the term date set for the course.</li>
+<li>If your course is using Multiple Grading Periods, the Assign field validates the due date against the closed grading period and requires the discussion due date to be past the date of the closed grading period.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_graded_discussion_dates" data-step-uuid="c6dd3c91-7c37-445d-822c-12801352fac7">
+    <h2 id="view_graded_discussion_dates" class="step-title screensteps-heading">View Graded Discussion Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/207/488/original/1bd0e41a-a0e7-4f32-9b9a-7fc7e0db7a2f.png" srcset="" alt="View Graded Discussion Dates" height="413" width="589">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E8C310-2156-0135-8AB0-22000BC102FE" class="text-block-content">
+    <p>To view users and due dates for the discussion, click the <strong>Show Due Dates </strong>link.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/207/480/original/95c625d1-1a32-4761-9f13-62f50d2ab524.png" srcset="" alt="View Assigned Dates" height="187" width="559">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E8F8A0-2156-0135-8AB2-22000BC102FE" class="text-block-content">
+    <p>View the dates assigned to the graded discussion.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-dates-in-discussions-redesign" data-step-uuid="f9526478-11d5-43db-b47f-82a36256e8aa">
+    <h3 id="view-dates-in-discussions-redesign" class="step-title screensteps-heading">View Dates in Discussions Redesign</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/641/332/original/4e269562-e851-4735-8913-4451c433f9fa.png" srcset="" alt="View Dates in Discussions Redesign" height="235" width="742">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d14e570e-3475-413e-948d-ae098778fc12" class="text-block-content">
+    <p>To view due dates and availability dates for a discussion in Discussions Redesign, click the <strong>Show Due Dates </strong>link.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/641/334/original/5aed5e0f-606d-409f-906d-a94e96814653.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/641/334/medium/5aed5e0f-606d-409f-906d-a94e96814653.png" srcset="" alt="View Assigned Dates" height="204" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0a50e598-af70-497d-b22e-491a7a4d731f" class="text-block-content">
+    <p>View the dates assigned to the graded discussion.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignments_page" data-step-uuid="4a7469b3-5a1d-47ec-84dd-a4a27bb12f49">
+    <h2 id="view_assignments_page" class="step-title screensteps-heading">View Assignments Page</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/207/490/original/79163a7e-a09b-4d16-90f2-7ad284b2b388.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/207/490/medium/79163a7e-a09b-4d16-90f2-7ad284b2b388.png" srcset="" alt="View Assignments Page" height="151" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_16E92C90-2156-0135-8AB4-22000BC102FE" class="text-block-content">
+    <p>On the Assignments Page, the graded discussion shows there are multiple users and dates assigned to the discussion. Hover over the text to view date availability. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

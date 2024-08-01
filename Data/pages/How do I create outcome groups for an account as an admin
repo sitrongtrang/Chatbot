@@ -1,0 +1,101 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8E712140-1D4C-0135-9137-22000BC102FE" class="text-block-content">
+    <p>Grouping learning outcomes in an account allows for organization of multiple related outcomes. </p>
+<p>This lesson displays how to create outcome groups in the classic Outcomes page view. If the Outcomes page in your account displays differently than the images in this lesson, <a href="/t5/Admin-Guide/How-do-I-create-outcome-groups-for-an-account-in-Improved/ta-p/486335" target="_blank">learn how to create outcome groups in an account</a> that has enabled the Improved Outcomes Management feature option.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="715a86f3-c9d7-490e-8db7-f3b9d2de6f13">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E715360-1D4C-0135-9139-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="319BAFF8-E834-43BE-891C-08BD01BBD401">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/373/original/a30e4999-c965-48e5-bf68-157bc53d2dc9.png" srcset="" alt="Open Outcomes" height="296" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E7184E0-1D4C-0135-913B-22000BC102FE" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_outcome_group" data-step-uuid="7c97cc22-0ad2-40d0-94b8-29154601e3f5">
+    <h2 id="add_outcome_group" class="step-title screensteps-heading">Add Outcome Group</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/144/434/original/3e2fe4d6-ba80-459c-89b3-24f4861b67f1.png" srcset="" alt="Add Outcome Group" height="52" width="419">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E71B680-1D4C-0135-913D-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>New Group</strong> button.</p>
+<p><strong>Note:</strong> If the New Outcome button does not display, your institution may be using Improved Outcomes Management.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_outcome_group" data-step-uuid="F3EB62A0-761A-4C8A-B9DE-0950B7851E00">
+    <h2 id="create_outcome_group" class="step-title screensteps-heading">Create Outcome Group</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/062/516/original/4e41017e-d60e-4a02-9332-3945a1863e23.png" srcset="" alt="Create Outcome Group" height="468" width="659">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E71ECB0-1D4C-0135-913F-22000BC102FE" class="text-block-content">
+    <p>Type a Learning Outcome group name in the <strong>Name this group</strong> field [1]. Type a description in the Rich Content Editor [2]. Click the <strong>Save</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_outcome_group" data-step-uuid="B2561979-49FD-4667-B5F0-6C3C9271A8E9">
+    <h2 id="view_outcome_group" class="step-title screensteps-heading">View Outcome Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/652/original/2589e78c-b925-4f24-bad9-3c41f8942188.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/652/medium/2589e78c-b925-4f24-bad9-3c41f8942188.png" srcset="" alt="View Outcome Group" height="213" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E722070-1D4C-0135-9141-22000BC102FE" class="text-block-content">
+    <p>View the Outcome group. You can create new outcomes within the group by <a href="/t5/Admin-Guide/How-do-I-create-an-outcome-for-an-account/ta-p/128" target="_blank">creating a new outcome</a>. You can also <a href="/t5/Admin-Guide/How-do-I-move-outcomes-and-outcome-groups-in-an-account/ta-p/191" target="_blank">move outcomes and outcome groups</a> into the new group.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,37 @@
+How do I view weekly online activity analytics in a data table in New Analytics as an instructor
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open New Analytics
+To open New Analytics, click the New Analytics link in Course Navigation or click the New Analytics button in the Course Home Page.
+Note: If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.
+View Weekly Online Activity
+Click the Weekly Online Activity tab.
+View Data Status
+If the course has been concluded, the analytics page includes a Concluded label.
+View Data Table
+Click the Chart Options icon and click the Data Table option. 
+View Filter Tabs
+The analytics page is dynamic based on filtered content. By default, all sections are displayed and cannot be removed.
+Filtered data is displayed as a chart with a single row for each filter, including the date range, average number of page views, and the average number of participations. 
+Compare Course Data
+For analytical comparisons, you can compare table data by filtering a section or student.
+View Student Table
+Below the chart, you can also view the specific students that are part of each filter.
+For each student, the table displays the following data:
+Students: the list of students in the course sorted by last name. Click the student's name to view analytics for the student.
+Page Views: the student's total number of page views in the course.
+Participations: the student's total number of participations in the course.
+View Additional Students
+By default, the students table displays twenty students at a time. If your course includes additional students, you can view additional pages in the pagination bar.
+Sort Student Data
+By default, the table sorts by last name, first name. However, you can sort the student column in ascending or descending order by clicking the heading name. The sorted column is indicated by the sort arrow.
+View Resources Tab
+You can also view the amount of page views and participations for specific resources in the course. Click the Resources tab. 
+On the Resources tab, you can view the resource name, the number of students who accessed the page, the number of views for the page, and the number of participations for the resource.
+Message Students Who
+To send a message to students who did or did not view or participate with a specific resource, click the Message icon.
+Export Table CSV
+To export analytics data as a CSV zip file, click the Download CSV button.
+CSV data is exported according to the filtered data.
+The downloaded zip file includes CSV files for chart data, student table data, and resources table data.
+CSV files may display a student's full name, sortable name, week start, filters, average and total page views, average and total participations, and the resource URL path.

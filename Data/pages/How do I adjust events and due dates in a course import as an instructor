@@ -1,0 +1,209 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_04EADD60-1EFD-0135-930B-22000BC102FE" class="text-block-content">
+    <p>As part of a course import, you can adjust the due dates associated with course events and assignments. You can also shift due dates to a different day, or remove all associated due dates.</p>
+<p>It is recommended to shift due dates of imported content before students are enrolled in the course. If students are enrolled before course content is imported with due dates, students may not be able to submit work to those imported assignments. </p>
+<p><strong>Note: </strong>If you set beginning and ending dates as part of a date adjustment in a course import, those dates will be automatically set as the course participation start date and end date. However, if course participation start and end dates have already been set for the course, course participation start and end dates will not be changed.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="3022b8d5-3a51-402d-b0a8-aaa51273992f">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/817/original/a5f59a77-27bf-4b70-ae90-4673817bd747.png" srcset="" alt="Open Settings" height="241" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04EB33A0-1EFD-0135-930D-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_content_into_course" data-step-uuid="c54bcfc7-c1c7-4d5a-84b0-a70ced963a84">
+    <h2 id="import_content_into_course" class="step-title screensteps-heading">Import Content into Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/990/original/bdc2dad9-40bd-4c40-9865-94fe24f0b172.png" srcset="" alt="Import Content into Course" height="439" width="268">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04EBA5D0-1EFD-0135-930F-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Import Course Content</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_content_type" data-step-uuid="ca5449b4-222e-4c7b-8635-5df4d0d7b7fc">
+    <h2 id="select_content_type" class="step-title screensteps-heading">Select Content Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/979/original/128a2f19-b6a1-4c54-bea0-3f0428372cd5.png" srcset="" alt="Select Content Type" height="118" width="488">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04EC01F0-1EFD-0135-9311-22000BC102FE" class="text-block-content">
+    <p>In the Content Type drop-down menu, select the<strong> </strong>content type you want to import. Complete any additional fields required for the content. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="adjust_events_and_due_dates" data-step-uuid="d460ccfa-a8a5-4f4b-8f02-61b589f04289">
+    <h2 id="adjust_events_and_due_dates" class="step-title screensteps-heading">Adjust Events and Due Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/974/original/9949ad53-37ad-4f38-898a-ad04a2b320e5.png" srcset="" alt="Adjust Events and Due Dates" height="57" width="305">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04EC4D10-1EFD-0135-9313-22000BC102FE" class="text-block-content">
+    <p>If you want to adjust the due dates associated with the course events and assignments, click the <strong>Adjust events and due dates</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="shift_dates" data-step-uuid="a4910741-4bad-427f-bd29-9031745b0999">
+    <h2 id="shift_dates" class="step-title screensteps-heading">Shift Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/966/original/89f6ece1-cf64-4a6d-847d-939ed63525ea.png" srcset="" alt="Shift Dates" height="77" width="290">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04EC9E20-1EFD-0135-9315-22000BC102FE" class="text-block-content">
+    <p>If you want to shift dates in the course, select the <strong>Shift dates</strong> radio button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set_beginning_and_end_dates" data-step-uuid="3a6ca4b2-45a4-4c4c-a21c-6992a41a31db">
+    <h3 id="set_beginning_and_end_dates" class="step-title screensteps-heading">Set Beginning and End Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/972/original/a7dbb057-ef5c-4428-a4b4-3a81869123e4.png" srcset="" alt="Set Beginning and End Dates" height="229" width="674">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04ECCF50-1EFD-0135-9317-22000BC102FE" class="text-block-content">
+    <p>In the Beginning Date field [1], enter the starting date of the course you are importing. You can also click the Calendar icon to select a date. In the Change to field [2], enter the new date when you want the course to begin, or click the Calendar icon.</p>
+<p>In the Ending Date field [3], enter the end date of the course you are importing, or click the Calendar icon to select a date. In the Change to field [4], enter the new date when you want the course to end. </p>
+<p>Canvas will take the new start and end dates for the course and distribute all assignments with due dates as evenly as possible across the course dates and keep them due on the same day of the week as the original course. If the imported course and the new course vary in course length, assignments will be assigned proportionally. Once the course is imported, you can easily confirm and adjust any assignment dates using the Calendar.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>It is recommended to shift due dates of imported content before students are enrolled in the course. If students are enrolled before course content is imported with due dates, students may not be able to submit work to those imported assignments. </li>
+<li>If the course where you are importing the content contains course override dates in Course Settings, those dates will be automatically pre-populated in the <strong>Change to </strong>fields.</li>
+<li>The course participation start and end dates will be automatically set to the dates set in the Change to fields when adjusting dates in a course import. However, if course participation start and end dates have already been set for the course, course participation start and end dates will not be changed.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="create_substitution_dates" data-step-uuid="ce4eca30-3009-493a-86f8-89d9f2374998">
+    <h3 id="create_substitution_dates" class="step-title screensteps-heading">Create Substitution Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/992/original/12e8fdff-b97e-4f80-b88e-109129d5a014.png" srcset="" alt="Create Substitution Dates" height="202" width="718">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04ECFEC0-1EFD-0135-9319-22000BC102FE" class="text-block-content">
+    <p>You can also explicitly define day substitutions to adjust for changing class schedules, such as moving all assignments on Mondays to Tuesdays. To create a date substitution, click the <strong>Substitution</strong> button [1]. </p>
+<p>In the <strong>Move from</strong> field [2], select the day of the week; in the <strong>To</strong> field [3], select the new day of the week for the substitution. </p>
+<p>To remove a substitution, click the <strong>Remove </strong>icon [4].</p>
+<p>You can create as many substitution dates as necessary. Canvas will take the date substitutions and adjust assignments with due dates appropriately across the course dates.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove_dates" data-step-uuid="cdeaa5f8-61c0-4fb1-9e87-f9baff88b9ad">
+    <h2 id="remove_dates" class="step-title screensteps-heading">Remove Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/976/original/08d8e27a-a3d8-4650-af1c-20a26ba22b8d.png" srcset="" alt="Remove Dates" height="80" width="262">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04ED2FA0-1EFD-0135-931B-22000BC102FE" class="text-block-content">
+    <p>If you want to remove all associated due dates in the course, select the <strong>Remove dates</strong> radio button. </p>
+<p>Dates will be removed from the following features:</p>
+<ul>
+<li>Assignments (due, availability, and peer-review dates)</li>
+<li>Announcements (delayed post dates)</li>
+<li>Quizzes (due, availability, and show correct answers dates)</li>
+<li>Calendar events (start and end dates)</li>
+<li>Modules (unlock dates)</li>
+<li>Files (availability dates)</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-content-import-warning-message" data-step-uuid="d61bcb18-db05-4c47-a75a-374e65a9b1aa">
+    <h2 id="view-content-import-warning-message" class="step-title screensteps-heading">View Content Import Warning Message</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/938/025/original/348e128b-dd87-4149-943f-804969c9a4c0.png" srcset="" alt="View Content Import Warning Message " height="120" width="582">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4dd6497d-3a41-43da-8c95-a6e67449fc4d" class="text-block-content">
+    <p>When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_course" data-step-uuid="1b1e28c3-3f54-4708-9d8a-c9a40fb6c63f">
+    <h2 id="import_course" class="step-title screensteps-heading">Import Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/567/639/original/1ee2481d-9d14-4991-b977-f77b89c1ae3b.png" srcset="" alt="Import Course" height="111" width="684">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04ED5D90-1EFD-0135-931D-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Import </strong>button [1]. </p>
+<p>A progress indicator displays the upload status by percentage [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_current_jobs" data-step-uuid="16cd645d-d77c-4586-b9a5-7b790d38ddfd">
+    <h2 id="view_current_jobs" class="step-title screensteps-heading">View Current Jobs</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/984/original/67219d7f-e882-4f07-88de-4105e211031e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/984/medium/67219d7f-e882-4f07-88de-4105e211031e.png" srcset="" alt="View Current Jobs" height="177" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04ED8BE0-1EFD-0135-931F-22000BC102FE" class="text-block-content">
+    <p>The Current Jobs section displays the status of your import. Running reports display a progress bar indicating the time remaining to complete the import [1].</p>
+<p>If you chose to select specific content in your course, the current job will show as Waiting for Select [2], which means you must <a href="/t5/Instructor-Guide/How-do-I-select-specific-content-as-part-of-a-course-import/ta-p/1091" target="_blank">select the content you want to import</a>.</p>
+<p>The import may also display other status indicators as part of the import process. Learn more about <a href="/t5/Instructor-Guide/How-do-I-view-the-status-of-current-and-prior-course-imports/ta-p/1077" target="_blank">course import statuses</a>.</p>
+<p>View the content from any completed imports by accessing any link in Course Navigation.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

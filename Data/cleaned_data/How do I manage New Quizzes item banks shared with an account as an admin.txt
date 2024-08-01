@@ -1,0 +1,47 @@
+How do I manage New Quizzes item banks shared with an account as an admin
+Open Item Banks
+In Account Navigation, click the Item Banks link.
+View Item Banks
+To filter by institution bank, shared with me banks or banks shared with the course, click the Filter by drop-down menu.
+To search for a specific item bank, enter a search term in the Search field.
+To search for a specific account, click the Account drop-down menu
+To change the item bank sort order from ascending to descending, click the Sort button.
+Note: When the Item Banks - Share with Sub-Accounts permission is enabled, you can filter by that sub-account.
+Add Item Bank
+To create a new item bank, click the Add Bank button. Learn more about creating an item bank as an admin.
+Edit Item Bank Items
+To manage item bank items, click the name of an item bank.
+Manage Item Bank Items
+To add a new item to the item bank, click the Add New button. Learn more about adding a new item to an item bank.
+To edit an item bank item, click the Edit icon. Learn more about editing item bank items.
+To move or copy an item bank item, click the Copy icon. Learn more about moving and copying item bank items.
+To delete an item bank item, click the Delete icon.
+To view item details, click the Expand item details icon.
+To return to all item banks, click the Item Banks link.
+Duplicate Item Bank
+To duplicate an item bank, click the Duplicate icon. 
+Confirm Duplication
+To confirm duplication, click the Duplicate button. Note: Duplicated item banks include "Copy" at the end of the bank name.
+Share Item Bank
+To manage sharing settings for an item bank, click the Share icon.
+Set Sharing Settings
+You can share an item bank with users, courses, and sub-accounts.
+To share the item bank with specific users, courses, or sub-accounts type a user, course, or sub-account name in the Share With field.
+You can set access to Can view, which allows users to view item banks in a read-only state, or Can edit, which allows users to view and edit the item bank.
+To set access settings you're sharing with, click the Access drop-down menu. You can set access to view or edit.
+To share the item bank with the specified user(s) or course(s), click the Add button.
+To save your sharing settings, click the Close button.
+Note: When the Item Banks - Share with Sub-Accounts permission is enabled, you can share to sub-accounts.
+Edit Item Bank
+To edit the name of an item bank, click the Edit icon.
+Edit Item Bank Name
+To change the name of the item bank, type a new name in the Bank Name field, then click the Save Changes button to save the new name.
+Delete Item Bank
+To delete an item bank, click the Delete icon.
+Confirm Deletion
+To confirm item bank deletion, click the Delete button.
+Deleting an item bank will cause the following to apply to items in the item bank:
+Items will no longer be accessible to others who currently have shared access.
+Items will not be removed from any assessments
+Items will lose their statistical link in reporting (if they were part of an assessment)
+Items will no longer be available to any assessments attempting a random/batch pull of items (removing the pull will resolve the issue)

@@ -1,0 +1,15 @@
+How do I link an Edu App Center allow list to Canvas as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link. 
+Open Apps
+Click the Apps tab.
+Manage App List
+Click the Manage App List button.
+Enter API Token
+In the Access Token field, enter the API Token from your Edu App Center organization.
+Click the Save button.
+View Apps
+View the list of approved apps from your allow list.
+Note: If you enter an invalid access token, no apps display.

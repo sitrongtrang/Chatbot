@@ -1,0 +1,81 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_07317E00-5779-0138-3046-0A3B69813FB9" class="text-block-content">
+    <p>When entering grades for students, you may occasionally come across an instance where students scores do not display correct calculations. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>To be calculated correctly, content must be published, and assignment columns must exist in the Gradebook.</li>
+<li>If you are seeing a different view in your Gradebook, there are <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-filter-columns-and-rows-in-the-Gradebook/ta-p/1016" target="_blank">filtering </a>or<a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-filter-columns-and-rows-in-the-Gradebook/ta-p/1016" target="_blank"> </a><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-Enhanced-Gradebook-Filters/ta-p/513582" target="_blank">sorting</a> options that are available. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-title" data-step-uuid="07318F00-5779-0138-3047-0A3B69813FB9">
+    <h2 id="step-title" class="step-title screensteps-heading">Check Assignment Points Possible</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/278/747/original/d4cd7332-c8d7-4c9d-9e46-2549f0fd5dc1.png" srcset="" alt="Check Assignment Points Possible" height="255" width="209">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0731B3B0-5779-0138-3049-0A3B69813FB9" class="text-block-content">
+    <p>If your gradebook totals are greater than 100% for some or all of your students, review the points possible for each assignment [1]. In particular, locate any assignments with zero points possible. Additionally, check the scores added in the column to make sure they are not higher than the overall score set for the assignment [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-entered-scores" data-step-uuid="11c84ee8-bd21-455a-9ff5-5b080cfd0cd6">
+    <h2 id="confirm-entered-scores" class="step-title screensteps-heading">Confirm Entered Scores</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/278/746/original/91c3b6ba-6da8-405c-800d-22909e2d7443.png" srcset="" alt="Confirm Entered Scores" height="275" width="777">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_efb38081-e733-433a-b499-5036f4de2de2" class="text-block-content">
+    <p>In the Gradebook, review the scores added to the students and make sure there are no unexpected ungraded students.</p>
+<p>If a grade displays as a percentage or a grading scheme such as a letter grade or a GPA, view the <a href="/t5/Instructor-Guide/How-do-I-enter-and-edit-grades-in-the-Gradebook/ta-p/724" target="_blank">grades entered </a>as points.</p>
+<p>If an <a href="/t5/Instructor-Guide/How-do-I-exclude-an-assignment-from-the-course-s-final-grades/ta-p/958" target="_blank">assignment does not count</a> toward the course final grade, the assignment displays in the Gradebook, but it is excluded from the total calculations.</p>
+<p>If a student received a 0 on an assignment, the assignment cell should display a 0. Cells with a dash indicate that the assignment is not graded for the student [1]. Alternatively, to exclude an assignment score from the student's total score in the course, you can <a href="https://community.canvaslms.com/docs/DOC-16566-4152813662" target="_blank">excuse</a> a student from the assignment [2]. </p>
+<p><strong>Note: </strong>Some assignments and quizzes do not display in the Gradebook. For example, ungraded discussions do not display in the Gradebook.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="check-weighted-assignment-groups" data-step-uuid="ad8febcc-44b9-4a78-9ad7-b53d3344d42b">
+    <h3 id="check-weighted-assignment-groups" class="step-title screensteps-heading">Check Weighted Assignment Groups</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/278/745/original/a20de2f1-5adb-41df-a443-f0a83e75183d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/278/745/medium/a20de2f1-5adb-41df-a443-f0a83e75183d.png" srcset="" alt="Check Weighted Assignment Groups" height="85" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a03d6800-a513-45ad-96b1-fa839b9860c3" class="text-block-content">
+    <p>If you use <a href="https://community.canvaslms.com/docs/DOC-10059-415267002" target="_blank">weighted assignment groups</a> to calculate the total grade, confirm that each assignment group contains the correct weighted percentage. You can review this in the Assignments page or in the Gradebook. </p>
+<p>Additionally, in the Assignments page, confirm each group has the correct assignment associated with it. You can <a href="https://community.canvaslms.com/docs/DOC-13342-4152807365" target="_blank">move assignments</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

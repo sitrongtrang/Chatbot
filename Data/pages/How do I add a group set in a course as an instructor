@@ -1,0 +1,99 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_FB672600-2204-0135-D91B-22000B5A851D" class="text-block-content">
+    <p>Group sets house the different groups within a course. Before creating a new group set, you may want to view the <a href="/t5/Instructor-Guide/How-do-I-view-all-groups-in-a-course-as-an-instructor/ta-p/696" target="_blank">existing group sets</a>. You can also <a href="/t5/Instructor-Guide/How-do-I-view-all-groups-in-a-course-as-an-instructor/ta-p/696" target="_blank">clone an existing group set</a>. You can also <a href="/t5/Instructor-Guide/How-do-I-edit-a-group-set-in-a-course/ta-p/978" target="_blank">edit</a> or <a href="/t5/Instructor-Guide/How-do-I-delete-a-group-set-in-a-course/ta-p/420739" target="_blank">delete</a> an existing group set. </p>
+<p>Once you have created a group set, you can <a href="/t5/Instructor-Guide/How-do-I-manually-create-groups-in-a-group-set/ta-p/700" target="_blank">manually create groups</a> in the set or <a href="/t5/Instructor-Guide/How-do-I-automatically-create-groups-in-a-group-set/ta-p/720" target="_blank">automatically create groups</a> in the set. Alternatively, you can create and assign students to groups by <a href="/t5/Instructor-Guide/How-do-I-import-groups-in-a-group-set/ta-p/417799" target="_blank">importing a CSV file</a>. </p>
+<p><strong>Note: </strong>Canvas allows you to create up to 200 groups. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_people" data-step-uuid="CA7CDF21-9D5D-4091-83B7-CE3330DD2C60">
+    <h2 id="open_people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/949/059/original/eb1454fa-32a3-49b4-898b-50c9530b663e.png" srcset="" alt="Open People" height="260" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_FB67D1E0-2204-0135-D91D-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_group_set" data-step-uuid="036D60B3-8DA6-40A2-9773-ED1861FFC28C">
+    <h2 id="add_group_set" class="step-title screensteps-heading">Add Group Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/380/974/original/d7238b4c-72d5-4dab-8160-52b99fac4463.png" srcset="" alt="Add Group Set" height="72" width="152">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_FB680650-2204-0135-D91F-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Group Set</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_group_set" data-step-uuid="395984BC-A3B2-4812-87E5-7A1C3F038990">
+    <h2 id="create_group_set" class="step-title screensteps-heading">Save Group Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/638/769/original/ead8d8d0-f31d-4724-85a6-4f39f3c36bd1.png" srcset="" alt="Create Group Set" height="764" width="557">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_FB683EC0-2204-0135-D921-22000B5A851D" class="text-block-content">
+    <p>Name the new group by typing it in the <strong>Group Set Name</strong> field [1]. </p>
+<p>You can allow <a href="/t5/Instructor-Guide/How-do-I-create-self-sign-up-groups-in-a-group-set/ta-p/691" target="_blank">self sign-ups</a> by selecting the <strong>Allow self sign-up </strong>checkbox [2]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-manually-create-groups-in-a-group-set/ta-p/700" target="_blank">manually create groups</a> or <a href="/t5/Instructor-Guide/How-do-I-import-groups-in-a-group-set/ta-p/417799" target="_blank">create groups using a CSV file</a>, click the <strong>I'll create groups later</strong> option [3].</p>
+<p>From the drop-down menu, select the <strong>Split students by number of groups </strong>option [4].</p>
+<p>You can <a href="/t5/Instructor-Guide/How-do-I-automatically-create-groups-in-a-group-set/ta-p/720" target="_blank">automatically create groups</a> by splitting the students into equal groups or selecting the number of students per group. To split the students into a number of equal groups, select the <strong>Split students by [number] groups</strong> option in the drop down menu [5]. </p>
+<p>To create groups with a certain number of students, use the arrows or type the number of students per group in the dialog box [6].</p>
+<p>Click the <strong>Save</strong> button [7].</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Except when creating groups manually, you can automatically set <a href="/t5/Instructor-Guide/How-do-I-assign-a-student-leader-to-a-group/ta-p/944" target="_blank">student group leaders.</a> </li>
+<li>The Require group members to be in the same section option is available in self sign-up and automatically created groups.</li>
+<li>The maximum number of groups that Canvas can create for an automatically assigned group set is 200. If you ask Canvas to create more than 200 groups, it will only create 200. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_group_set" data-step-uuid="8CA30C3D-D76F-419B-9394-B8868C0B745F">
+    <h2 id="view_group_set" class="step-title screensteps-heading">View Group Set</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/380/972/original/19bda3a6-6ae7-4976-86c8-896b678fbb1f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/380/972/medium/19bda3a6-6ae7-4976-86c8-896b678fbb1f.png" srcset="" alt="View Group Set" height="304" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_FB6873D0-2204-0135-D923-22000B5A851D" class="text-block-content">
+    <p>View the group set you created. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

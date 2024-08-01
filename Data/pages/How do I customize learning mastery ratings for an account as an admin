@@ -1,0 +1,173 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_43bbba0c-694a-4094-9a2b-cf626ede6324" class="text-block-content">
+    <p>As an admin, you can customize the Learning Mastery ratings for the Learning Mastery Gradebook and Student Learning Mastery Gradebook. You can customize the set level for mastery, name and point value for proficiency ratings, and the color associated with each rating. </p>
+<p>Assigned colors also display in rubric results within a student's Grades page. Even if students do not have access to the Student Learning Mastery Gradebook, the Grades page uses color to help students more easily recognize their own results within an assignment.</p>
+<p>Customized Learning Mastery ratings apply to rubric criteria, not just outcomes criteria. When a rubric is used to assess a student, the selected criterion ratings match the point value or range in an outcomes proficiency rating and display the same color results. For instance, if the Exceeds Mastery proficiency rating is set to 5 points and indicated by the color green, a course rubric criterion with a rating of 5 points awarded to a student also displays the color green.</p>
+<p><strong>Note:</strong> You can allow <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-scales-in-a-course/ta-p/429018" target="_blank">instructors to manage outcome mastery scales</a> for outcomes in their course.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="350c1854-34a1-408d-9b94-77877bac70a6">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3a756ff2-c65b-4e52-ab58-e1ed355b1015" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_rubrics" data-step-uuid="4ea236d8-422d-4d49-8453-e9bf11c6353c">
+    <h2 id="open_rubrics" class="step-title screensteps-heading">Open Rubrics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/797/309/original/59cbb0db-08ca-45ab-ba5b-7b9d0b0f5fe8.png" srcset="" alt="Open Rubrics" height="305" width="155">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1a52246a-2def-4d79-886b-4e2ef8ec9319" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Rubrics</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-learning-mastery" data-step-uuid="dc6cdf31-ff4a-4eda-8ccc-1f9616e11f88">
+    <h2 id="open-learning-mastery" class="step-title screensteps-heading">Open Learning Mastery</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/735/726/original/fdeb35b5-8d9d-432d-8f5b-baaae12121c3.png" srcset="" alt="Open Learning Mastery" height="77" width="343">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7ccd4944-e5da-46ad-ba26-f44213bc9c3a" class="text-block-content">
+    <p>Click the <strong>Learning Mastery</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="customize-learning-mastery" data-step-uuid="0eb4afe8-d3ad-4bd0-9ccf-73f4f2e3061a">
+    <h2 id="customize-learning-mastery" class="step-title screensteps-heading">View Learning Mastery</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/756/475/original/1877a986-1fa0-4b8a-9030-aa1d9cac029c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/756/475/medium/1877a986-1fa0-4b8a-9030-aa1d9cac029c.png" srcset="" alt="Customize Learning Mastery" height="378" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_95daf3c4-403f-47c1-9ac0-28a44eb90a9d" class="text-block-content">
+    <p>The Learning Mastery tab defaults to five rows, each with a learning mastery option (as noted from top to bottom):</p>
+<ul>
+<li>Proficiency Rating Identifiers: Exceeds Mastery, Mastery, Near Mastery, Below Mastery, Well Below Mastery</li>
+<li>Points: 4, 3, 2, 1, 0</li>
+<li>Colors: Dark green, light green, yellow, orange, red</li>
+</ul>
+<p>Mastery is set in the second row.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="customize-learning-mastery_1" data-step-uuid="5bc311c3-6ffc-4f81-827f-1fd610298456">
+    <h2 id="customize-learning-mastery_1" class="step-title screensteps-heading">Customize Learning Mastery</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/756/471/original/8d9391b1-89c9-4623-be31-de1817762c5c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/756/471/medium/8d9391b1-89c9-4623-be31-de1817762c5c.png" srcset="" alt="Customize Learning Mastery" height="378" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3ef029d3-5e22-46c8-ac6d-8f0ef9ee138c" class="text-block-content">
+    <p>To set the mastery level, select the desired option in the Mastery column [1]. </p>
+<p>To change the name of a proficiency rating, select the rating name field and type the new name [2]. </p>
+<p>To change the point value associated with a proficiency rating, select the Points field and type the desire point value [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="customize-proficiency-color" data-step-uuid="3a2d7d7e-f678-4ec5-8d2b-42d126e04705">
+    <h2 id="customize-proficiency-color" class="step-title screensteps-heading">Customize Rating Color</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/739/200/original/aeb65048-5ec3-4863-aedd-a762af18fc39.png" srcset="" alt="Customize Proficiency Color" height="324" width="220">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45be37aa-b6e2-4912-9531-c471e9b09a5a" class="text-block-content">
+    <p>To change the color associated with a proficiency rating, locate the rating and click the <strong>Change</strong> link. You can select a default color option [1] or enter  a hex color code [2].</p>
+<p>To save the selected color, click the <strong>Apply </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-rating" data-step-uuid="11f44f68-1b14-4873-8dad-f3aa7902e087">
+    <h2 id="add-rating" class="step-title screensteps-heading">Add Rating</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/756/476/original/55f95b70-dbd9-4df1-ad7d-5f3850c55782.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/756/476/medium/55f95b70-dbd9-4df1-ad7d-5f3850c55782.png" srcset="" alt="Add Rating" height="161" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_be86fdfc-03e1-475f-9903-6e659391567f" class="text-block-content">
+    <p>To add a proficiency rating, click the <strong>Add</strong> button [1]. </p>
+<p>A new rating row displays at the bottom of the list with 0 points [2]. Customize the ratings as necessary.</p>
+<p>You can add as many ratings as needed for your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete-rating" data-step-uuid="8b1ad1d5-fb05-48ae-98ef-e336b7440c86">
+    <h2 id="delete-rating" class="step-title screensteps-heading">Delete Rating</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/735/724/original/9d448e4e-be13-4cca-a9d7-8496f7387a64.png" srcset="" alt="Delete Rating" height="79" width="208">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8210f0c4-fd3c-4bfe-802e-76b12dcb722e" class="text-block-content">
+    <p>To delete a proficiency rating, click the <strong>Delete</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-learning-mastery" data-step-uuid="e4a5a33a-52df-4f59-bc6f-5f8a44c6a7bd">
+    <h2 id="save-learning-mastery" class="step-title screensteps-heading">Save Learning Mastery</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/756/473/original/fec95763-95ca-401c-8344-85e9673c04c4.png" srcset="" alt="Delete Rating" height="71" width="219">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_567e012d-7cf9-40f6-9db1-c7f6f8d70192" class="text-block-content">
+    <p>To save your changes, click the <strong>Save Learning Mastery</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

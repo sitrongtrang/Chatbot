@@ -1,0 +1,30 @@
+How do I create an online assignment as an instructor
+Open Assignments
+In Course Navigation, click the Assignments link.
+Add Assignment
+To create a new assignment, click the Add Assignment button.
+Add Assignment Details
+Add details to the assignment.
+Select Online Submission Type
+In the Submission Type drop-down menu, select the Online option.
+Select Online Entry Options
+Select the online entry options you want to allow for the assignment. You can select up to four options:
+Text Entry: Students can submit their assignment directly in the Rich Content Editor. DocViewer annotations are not available for text entry submissions. Additionally, text entry submissions cannot be re-uploaded to the Gradebook.
+Website URLs: Students can submit a URL that fulfills the assignment. DocViewer annotations are not available for website URL submissions. Additionally, website URL submissions cannot be re-uploaded to the Gradebook.
+Media Recordings: Students can submit an audio or video recording that fulfills the assignment. They can either record new media or upload existing media. Video and audio uploads to Canvas can be up to 500 MB. DocViewer annotations are not available for media recording submissions. Additionally, media recording submissions cannot be downloaded.
+Student Annotation: Students can annotate a file uploaded by an instructor. The annotated document is submitted as the student's assignment submission. For students who may not be able to annotate a document, it is best to use another online entry option.
+File Uploads: Students can upload a file or take a photo with their webcam to fulfill the assignment. DocViewer annotations are available for supported file types in SpeedGrader. Additionally, if your institution has enabled Google Docs, the Google Apps LTI, or the Microsoft Office 365 LTI, students can upload files from their respective Google Drive or OneDrive account directly. If only Google Docs are enabled for your institution, students must connect to Google Docs as a web service to submit an assignment as a Google Doc, Google Sheet, or Google Slide. File upload submissions can be downloaded and re-uploaded to the Gradebook. Canvas supports file uploads up to 5 GB.
+Assignment settings are persistent to always remember and display the settings created or edited in the previous assignment in the course. Based on prior assignments, one or more of these options may already be selected for you.
+Notes: 
+If you select multiple submission types for an assignment, students will only be able to use one submission type per assignment submission. 
+If your institution has enabled the Microsoft Office 365 LTI, you must select either the File Uploads option or both the Website URL and File Uploads options to use the Office 365 tab on the assignment submission page. If you only select Website URL as an entry option, the Office 365 tab will not function properly. 
+Group assignments do not support the student annotation submission type.
+Select Annotation File
+If you allow student annotation submissions, you must select or upload a file for students to annotate.
+You can select a file from course files or your user files or upload a new file from your computer.
+Files used for annotation must be able to be previewed in Canvas.
+Restrict File Types
+If you allow file uploads, you can choose to restrict submissions to specific file types. To enable this option, click the Restrict Upload File Types checkbox. In the Allowed File Extensions field, enter a list of accepted extensions. All file types need to be separated by a comma. You can include spaces, caps, and periods in assignment file names.
+Note: In the case of an odd or unusual file type, try adding it to your course to confirm the file is accepted before requesting students to submit the file type. 
+Save Assignment
+To save the assignment and publish it, click the Save & Publish button. To save the assignment as a draft, click the Save button. 

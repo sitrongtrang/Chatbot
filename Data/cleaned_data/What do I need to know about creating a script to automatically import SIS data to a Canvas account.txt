@@ -1,0 +1,21 @@
+What do I need to know about creating a script to automatically import SIS data to a Canvas account
+Script Programming Languages
+The import script can be as simple or complex as your institution requires. Additionally, a variety of programming languages can be used to write your import script/program. As long as the programming language can make HTTPS calls and upload files via HTTPS the language can be used to create an import script. 
+Due to a tremendous amount of variables that exist among each institution, Canvas does not officially support or promote the use of any specific scripting language or script that users can import data to Canvas, such as:
+Bash Shell (cURL)
+C#
+Java
+PowerShell
+Python
+Server File Folders
+On the server or computer that will run the import process (Windows/Linux/Mac), you'll need to create a folder structure to store your import applications (script, logs, active files, etc).
+Script Considerations
+A simple example of an SIS script is to create a script that runs at specific times and checks a directory in your folder scructure to see if there are files that need to be sent to Canvas. If there are files, the script could compress them into a .zip file and send them to Canvas. View the SIS script flowchart. 
+When creating a script, you should consider potential problems such as: 
+Whether the script checks for errors to see if the upload succeeded.
+Whether the script looks to see if the last import is finished. If you set your run frequency shorter than the import processing time for a run, the frequency could result in new batches queuing before an import is finished.
+Whether the script looks to see if there is a previous import—and whether or not the previous import succeeded. This verification is important regardless of whether full batch or standard imports are used as you do not want updates to run out of order.
+Sample Scripts
+The Canvas Community has provided a GitHub repository of sample scripts that address many script considerations. Even with very simple tools, these examples show how to implement a basic automated import script.
+Note: Each sample GitHub script will have its own requirements and additional components that may need to be installed for proper functionality.
+By using the tools that are presented in these tutorials, you should now be better prepared to create your own automated import tool. If you run into challenges, please visit our migration and integration community forum. You may find other people there who can help with comments and suggestions on your script.

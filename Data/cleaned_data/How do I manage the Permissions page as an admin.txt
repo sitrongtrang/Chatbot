@@ -1,0 +1,34 @@
+How do I manage the Permissions page as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Permissions
+In Account Navigation, click the Permissions link. 
+View Permissions
+By default, the permissions page displays course-level user role permissions. 
+To view account-level user role permissions, click the Account Roles tab.
+Search and Filter Permissions
+To search for a specific permission, type a permission name in the Search field. The search field uses predictive filtering. 
+You can also filter permissions by role. By default, the Permissions page displays all user roles. To filter permissions for a specific user role, type or select the name of the user role from the Permission Role Filter menu.
+You can use the search and filter options to search permissions for specific user roles. 
+View Individual Permission
+To view information about a specific permission, click the permission name. 
+View Additional Permission Details
+The permission sidebar displays the permission name. 
+View and collapse specific details about the permission by clicking the What it Does and Additional Considerations arrow icons. Please note some permissions may not include these details.
+The sidebar also displays the Assigned Roles section, which shows all enabled roles for the permission, and the Unassigned Roles section, which shows all disabled roles for the permission.
+Manage Individual Permission
+To manage user roles for the permission, click the icon next to the name of a user role. In the permission menu, the existing permission is indicated by a check mark.
+Choose the new permission status by clicking one of the permission options: Enable or Disable. After you enable or disable the permission, you can choose to lock the permission status. To lock the permission status, click the Lock option. Locked options keep the setting from being changed by subaccount admins in a lower account. The new permission status is saved automatically.
+Note:If a permission icon does not display as opaque, you cannot change the permission.
+View Grouped Permissions
+Some permissions may be grouped together to allow for greater granularity and control over permissions.
+Grouped permissions list the grouped permissions below the grouped permission name.
+To expand grouped permissions, click the Expand icon.
+Manage Grouped Permissions
+You can manage each granular permission within the group with the corresponding checkboxes. To enable or disable a granular permission, click the checkbox. A checked box indicates the permission is enabled. An unchecked box indicates the permission is disabled.
+If all permissions are enabled for a user role, the permission group displays a checkmark icon.
+If some permissions are enabled and some are disabled for a user role, the permission group displays a half-filled icon.
+If all permissions are disabled for a user role, the permission group displays an X icon.
+View and Manage Individual User Role Permissions
+To view all permissions assigned to a specific role, click the role name. You can manage permissions for account-level roles and manage permissions for course-level roles. 
+To add an account-level role or add a course-level role, view the tab for the appropriate role and click the Add Role button.

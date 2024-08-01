@@ -1,0 +1,21 @@
+How do I view all groups in a course as an instructor
+Open People
+In Course Navigation, click the People link.
+View Group Sets
+If at least one group has been created in the course, the People page defaults to the Everyone tab, which displays all users in your course. Otherwise, the page asks you to add a group set using the Add Group Set button. You can add a group set at any time.
+View User Groups
+Once you create a group set in the course, the group set displays as a linked tab for easy access to the group set information. You can click any tab to view a group set for a user group.
+You can also click the Options menu and select the View User Groups link. The page will open the first group set in the course.
+When you view a group set, the outlined tab shows the group set you are viewing. Click any tab to view another group set.
+View Groups
+As part of creating a group set, groups are also created manually, automatically, or by importing a CSV file. 
+By default, all groups are collapsed in the page. You can expand each group and see which students are assigned to each group in the group set, if any, by clicking the arrow next to the group name.
+Once students are participating in a group, you can open the group Options menu and view content and activity within a group.
+View Enrollment Notice
+If a group includes an inactive student, a label displays next to the student's name. Inactive student group submissions can still be graded in SpeedGrader, but students do not receive any notifications about their assignment and cannot view course grades. Students can view the student's name but will not know the student is inactive. To improve the group experience for all group members, inactive students should be moved to another group.
+Manage Group Set
+To manage the details of the group set, click the Options menu. 
+To edit the group set, click the Edit link. 
+To clone the group set, click the Clone Group Set link. Cloning a group set will copy the entire group set, including all groups, group leaders, and memberships. You can also create a new name to differentiate the cloned group set. If you do not change the name, the group name will remain the same but identified as a clone.
+If you want to modify a group but the group includes student submissions, you should clone the group instead of modifying the group memberships. Modifying the group may have unintended consequences for student grades. 
+To delete the group set, click the Delete link. Deleting a group set also deletes all the groups within the group set.

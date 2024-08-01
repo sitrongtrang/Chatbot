@@ -1,0 +1,32 @@
+How do I add grading periods in an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Grading
+In Account Navigation, click the Grading link.
+Open Grading Periods
+Click the Grading Periods tab. 
+Add Set of Grading Periods
+Click the Add Set of Grading Periods button.
+Create Set Name
+In the Set Name field, enter a name for the grading period set.
+Attach Terms
+If you want to attach an existing term to the grading period set, click the Attach Terms field. In the drop-down list, select the term(s) you want to associate with the grading period set. Terms are sorted by date; once a term is selected, the term is removed from the drop-down list. Terms can only be associated with one grading period set. 
+You can edit a grading period set and add a term at any time. 
+Set Grading Period Options
+You can also choose to set two options for the grading period.
+If you want to create each grading period with an individual weight, click the Weighted grading periods check box. 
+When users view the All Grading Periods option in the grading periods drop-down menu, you can allow them to view total grades and any assignment group totals in the course by clicking the Display totals for All Grading Periods option check box. If this check box is not selected, users can still view the total grade within an individual grading period.
+Create Grading Period Set
+Click the Create button.
+Add Grading Period
+Click the Add Grading Period link.
+Add Grading Period Details
+In the Grading Period Title field, create a title for the grading period. 
+In the start date field, enter a start date for the grading period. Start dates default to 12:00 AM. You can also use the calendar icon to select a date. 
+In the end date field, enter or select an end date for the grading period. End dates default to 11:59 PM.
+The close date defaults to the end date. To change the close date, enter or select a new close date.
+If you enabled weighted grading, enter the preferred weighted percentage for the grading period. Grading periods can include any percentage greater than zero, and the total sum of all grading periods does not have to equal 100%.
+Save Grading Period
+Click the Save button.
+Manage Grading Periods
+To add another grading period, click the Add Grading Period link. To edit the grading period dates, click the Edit icon. To delete a grading period, click the Delete icon.

@@ -1,0 +1,23 @@
+How do I edit the Roll Call Attendance assignment as an instructor
+Create Weighted Assignment Group
+If you are using weighted assignment groups and would rather set grade weighting for attendance, you can create a new weighted assignment group for Attendance. You can drag and drop the Roll Call Attendance assignment by clicking and grabbing the handle icon. 
+Note: You can also move the assignment by editing the assignment, locating the Assignment Group menu, selecting the name of the assignment group, and saving the assignment.
+Edit and Save Percentage Value
+In Assignment Settings, click the weight final grade checkbox. Set the group percentage value to your preferred percentage value (zero up to 100), then click the Save button. 
+Make sure the Attendance assignment is moved into the Roll Call assignment group. 
+The percentage value you set for the group will control the point value assigned to the Attendance assignment, despite the assigned point value.
+Note: If you want to set the percentage value as zero, the point value for the assignment must be higher than zero. Canvas cannot calculate weighted assignment groups with zero points possible.
+Change Point Value
+If you are not using weighted assignment groups and just want to edit the points assigned for Attendance, you can edit the point value in the assignment. However, this adjustment is only recommended if (1) you are never going to change the point value again and (2) you make the adjustment after your first roll call entry. 
+To change the point value for the assignment, edit the assignment, then in the points field, enter the new point value for attendance. At the bottom of the window, click the Save button.
+Note: The Attendance assignment will not appear until you have taken roll for at least one student. 
+Edit Roll Call
+The Gradebook doesn't currently adjust point value changes accurately after point values have been changed, and the percentage values in the SpeedGrader and the Gradebook will be incorrect. 
+Return to roll call, click the Unmark All button, and then take attendance for all students as normal. The percentage value will then adjust correctly in both SpeedGrader and the Gradebook. If you make this change immediately after the first time you take roll in your course and edit the point value, you only have to adjust your work once.
+Remove from Gradebook
+If you do not want Attendance to appear in the Gradebook as a graded assignment, you can edit the Attendance assignment and change the assignment type. Students can still view the assignment but it will not appear in their grades.
+To remove the assignment from the Gradebook, edit the attendance assignment, then in the Display Grade as menu, select the Not Graded option. At the bottom of the window, click the Save button.
+Note: Once you have changed the assignment type, you cannot change it back to a graded assignment. Please ensure you do not want to grade Attendance before changing the assignment type.  
+Exclude from Final Grade
+If you do not want the Roll Call Attendance assignment to be calculated in the final grade, you can choose to exclude the assignment from final grade calculations.
+You can manage this setting in attendance assignment settings and in Roll Call settings. However, it's recommended to manage this setting in Roll Call Settings. 

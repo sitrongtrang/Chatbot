@@ -1,0 +1,39 @@
+How do I view my course analytics as a student
+Open People
+In Course Navigation, click the People link.
+Open User Details
+Locate and click your name in the course roster.
+Open Analytics
+In the sidebar, click the Analytics button.
+View Grade Percentage
+In the analytics page, you can view your total grade percentage in the course. 
+View Analytics Graphs
+By default, analytics are shown in a graph format. These are four types of graphs: Activity by Date, Communication, Submissions, and Grades.
+View Activity by Date
+The Activity by Date graph shows all your course activity. The x-axis represents the course dates, while the y-axis represents the number of page views. Dark blue bars represent participation in the course. If a date only includes page views, the bar only displays as light blue. 
+The graph changes the bar display according to the length of time. Activity that is less than six months old displays bars as daily activity, at six months bars are displayed as weekly activity, and at approximately a year bars are displayed as monthly activity. To view the details of the bar graph, hover over the specific bar you want to view. The weekly view shows the first and last date for the week; the monthly view shows the month and the year. Browser window size, zoom level, and screen resolution may also change how the bars display.
+The following user actions will generate analytics course participation:
+Collaborations: loads a collaboration to view/edit the document
+Conferences: joins a web conference
+Discussions/Announcements: posts a new comment to a discussion or an announcement
+Quizzes: submits a quiz
+Quizzes: starts taking a quiz
+Assignments: submits an assignment
+Pages: creates a wiki page
+View Communication
+The Communication graph shows the conversations that have taken place with your instructor(s) through the Canvas Inbox. The x-axis represents the user type; orange message icons show when you sent a message to an instructor, and blue message icons show when an instructor sent a message to you. The y-axis represents the interaction date. 
+To view the details of the bar graph, hover over the specific bar you want to view. You can view the date of the communication and how many messages were sent. A message is an individual message passed from one user to the other; in message threads, each message is individually counted. In group conversations, interactions are counted as long as you were one of the recipients. Notifications are not included in analytics unless you acted on the notification and generated a new message that passes through the Canvas Inbox. Announcements are not included in communication analytics. 
+View Submissions
+The Submissions graph shows the status of each of your assignment submissions. The x-axis represents each assignment, while the y-axis represents the submission date. A green circle indicates an assignment that was submitted on time. A yellow triangle indicates an assignment that was submitted late. A red square indicates an assignment that is missing (not submitted). The diamond indicates the due date and the bar extends to the submission date. A white circle with a black outline indicates an assignment with a future due date. 
+If a submission includes a due date, the submission may include horizontal line. The line indicates when the assignment was submitted, while the shape indicates the actual due date. If a submission was submitted before the due date, the horizontal line is green; if it was submitted after the due date, the horizontal line is yellow. Submissions without a horizontal line either have no due date, or the assignment was submitted on the due date. 
+To view the details of the bar graph, hover over the specific bar you want to view. Current and past assignments include the assignment title, the due date (if any), the submission date, and the score. Future assignments include the assignment title, due date (if any), and the score.
+Note: The Submissions chart does not include information about assignments that do not require a submission (e.g., not graded, on paper assignments) or excused assignments. 
+View Grades
+The Grades graph shows the median, high, and low scores for each of your assignments. The x-axis represents each assignment, while the y-axis represents the number of points for an assignment. The vertical black line extends from the highest score to the lowest score. The gray box extends from the 75th percentile to 25th percentile. The horizontal black line shows the median score for the assignment.
+Each assignment score is indicated by the same shapes found in the Submissions graph. A green circle indicates an assignment with a score at or above the course median. A yellow triangle indicates an assignment with a score slightly below the median. A red square indicates an assignment with a score below the median or at the bottom of the score range.
+To view assignment names and details, hover your cursor over the graph.
+View Analytics Tables
+To view analytics without hovering over graph columns, you can view all data in a table format. To switch to the table format, click the Analytics icon. The icon will switch from the left side to the right, indicating the current analytics view. 
+View Table Data
+Tables apply to every graph in its respective page, and each column defines the data within its respective graph. Graphical data is displayed by column. 
+Each table is paginated to 30 entries per page; additional pages can be viewed by advancing to the next page.

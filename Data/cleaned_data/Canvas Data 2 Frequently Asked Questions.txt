@@ -1,0 +1,31 @@
+Canvas Data 2 Frequently Asked Questions
+What is Canvas Data 2?
+The goal of Canvas Data 2 (API) is to provide efficient access to data for download collected across various educational products in bulk with high fidelity and low latency.
+Canvas Data 2 is not an analytics or reporting tool but it is built to share high-fidelity source data to power schools' analytics and custom reporting initiatives.
+Data is referenced as datasets and provides more granular data than the Canvas Data star schema.
+How do I get started with Canvas Data 2?
+Canvas Data 2 datasets will be accessible via Application Programming Interface (API) and Command-line interface (CLI) or by leveraging our CLI Python Libraries. 
+To learn more, visit How do I set up Canvas Data 2 with an API client (Postman)? and How do I use the Canvas Data 2 Command Line Interface (CLI) Tool?
+How to report bugs/issues?
+Send an e-mail to: canvasdatahelp@instructure.com.
+We cannot guarantee an exact response time but we are aiming for within 48 hours.
+Is my Canvas Data 1 access suspended as I opt-in for Canvas Data 2?
+Canvas Data 1 (CD1) access won’t be immediately revoked as a customer gets onboarded to Canvas Data 2. We acknowledge that some transition time is required as your institution will need to implement data transformation and manipulation tooling because the schemas and download files for Canvas Data 1 and Canvas Data 2 are different. 
+Nevertheless, the aim has to be to fully transition to Canvas Data 2 as Canvas Data 1 will be deprecated by the end of 2023.
+When will Canvas Data 1 be deprecated?
+We are planning to maintain Canvas Data 1 for at least six but not more than twelve months from the time Canvas Data 2 is marked as Generally Available. This will be the period during which customers migrate from Canvas Data 1 to Canvas Data 2.
+Note: Data warehousing services hosted by Instructure Professional Services will be transitioned to Canvas Data 2 prior to the sunset of Canvas Data 1.
+Is all the data from Canvas Data 1 also available via Canvas Data 2?
+In terms of Canvas data yes and even more. Apache weblogs aka “requests” table are available in Canvas Data 2.
+Will Canvas Data 2 give me access to data from the Requests Table?
+Yes. Data from the weblogs are available in Canvas Data 2.
+What is the expected data freshness going to be for Canvas Data 2?
+Less than 4 hours from the time data is written to the application databases.
+How to add Canvas Data 2 easily to Postman?
+If you are using Postman client then it is good to know that if you download the OpenAPI spec, it can be directly imported into Postman (and some other API clients have similar features).
+Otherwise you can use the reference Postman collection as a quick start.
+How do I get the schema?
+Either by the schema endpoint (API or CLI) or by downloading the OpenAPI spec. The top-level object is a mapping between Canvas table names and their JSON schema.
+Additionally, you might also want to consult any or all of the resources below:
+Entity relationship diagram
+PostgreSQL schema

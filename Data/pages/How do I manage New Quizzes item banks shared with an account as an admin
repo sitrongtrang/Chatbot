@@ -1,0 +1,249 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_e001fb29-94b8-44ab-a62b-e1da46ccf32f" class="text-block-content">
+    <p>You can manage New Quizzes item banks that have been shared with your institution. You can stop sharing item banks with your institution, edit item banks, or delete item banks. You can also <a href="/t5/Admin-Guide/How-do-I-create-a-New-Quizzes-item-bank-for-an-account/ta-p/469501" target="_blank">create a new item bank</a> as an admin.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>In order to view all account item banks, users must have the Item Banks - account manage permission.</li>
+<li>To share item banks with sub-accounts, users must have the Item Banks - Share with Sub-Accounts permission.</li>
+<li>Item Banks management is unavailable at the account level if the New Quizzes feature option is disabled at the account level.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-item-banks" data-step-uuid="4bfed8b4-71fa-4fe2-98d1-f9a1cc10f0ea">
+    <h2 id="open-item-banks" class="step-title screensteps-heading">Open Item Banks</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/488/562/original/71c0aeee-c6f6-47ad-b565-4cae342f9a39.png" srcset="" alt="Open Item Banks" height="215" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6d2d6a7d-ae77-4de9-a317-5d7bfe85110c" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Item Banks</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-item-banks" data-step-uuid="491b9648-90e0-4299-979c-257f5564596e">
+    <h2 id="view-item-banks" class="step-title screensteps-heading">View Item Banks</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/396/888/original/56e07de4-3f72-458e-a24f-af0477efc84f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/396/888/medium/56e07de4-3f72-458e-a24f-af0477efc84f.png" srcset="" alt="View Item Banks" height="383" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11728e51-99b5-49c8-9336-c3378617f84d" class="text-block-content">
+    <p>To filter by institution bank, shared with me banks or banks shared with the course, click the Filter by drop-down menu [1].</p>
+<p>To search for a specific item bank, enter a search term in the <strong>Search</strong> field [2].</p>
+<p>To search for a specific account, click the Account drop-down menu [3]</p>
+<p>To change the item bank sort order from ascending to descending, click the <strong>Sort </strong>button [4].</p>
+<p><strong>Note:</strong> When the Item Banks - Share with Sub-Accounts permission is enabled, you can filter by that sub-account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-item-bank" data-step-uuid="507027a6-ae30-4bfa-a03e-295e9bde46aa">
+    <h2 id="add-item-bank" class="step-title screensteps-heading">Add Item Bank</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/488/566/original/3c769fd9-ef0b-49c5-8b14-98825b36e575.png" srcset="" alt="Add Item Bank" height="72" width="125">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9b68a05b-8de0-4264-9f5a-b77c89074764" class="text-block-content">
+    <p>To create a new item bank, click the <strong>Add Bank</strong> button. <a href="/t5/Admin-Guide/How-do-I-create-a-New-Quizzes-item-bank-for-an-account/ta-p/469501" target="_blank">Learn more about creating an item bank as an admin</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-item-bank-items" data-step-uuid="cd625047-36ee-4df7-82f8-c30554b46010">
+    <h2 id="edit-item-bank-items" class="step-title screensteps-heading">Edit Item Bank Items</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/942/649/original/6387be63-c7d4-4dc5-9815-2fb513d0fccf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/942/649/medium/6387be63-c7d4-4dc5-9815-2fb513d0fccf.png" srcset="" alt="Edit Item Bank Items" height="56" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_18dc4338-07be-4c75-8503-d6015e771e4a" class="text-block-content">
+    <p>To manage item bank items, click the name of an item bank.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage-item-bank-items" data-step-uuid="b8ce2837-504b-4b19-92f2-d48d9657d7ad">
+    <h3 id="manage-item-bank-items" class="step-title screensteps-heading">Manage Item Bank Items</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/468/104/original/09090c3e-d3fa-48e9-8645-f9e1cdd2c5f3.png" srcset="" alt="Manage Item Bank Items" height="368" width="775">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bf811ffd-ba4c-4762-95e5-b363502639d7" class="text-block-content">
+    <p>To add a new item to the item bank, click the <strong>Add New</strong> button [1]. <a href="/t5/Admin-Guide/How-do-I-create-a-New-Quizzes-item-bank-for-an-account/ta-p/469501" target="_blank">Learn more about adding a new item to an item bank</a>.</p>
+<p>To edit an item bank item, click the <strong>Edit</strong> icon [2]. <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-edit-an-item-bank-item-in-New-Quizzes/ta-p/703" target="_blank">Learn more about editing item bank items</a>.</p>
+<p>To move or copy an item bank item, click the <strong>Copy</strong> icon [3]. <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-move-or-copy-a-question-from-one-item-bank-to-another/ta-p/584" target="_blank">Learn more about moving and copying item bank items</a>.</p>
+<p>To delete an item bank item, click the <strong>Delete</strong> icon [4].</p>
+<p>To view item details, click the <strong>Expand item details</strong> icon [5].</p>
+<p>To return to all item banks, click the <strong>Item Banks</strong> link [6].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="duplicate-item-bank" data-step-uuid="e7f41eda-0d4b-40f6-9aba-c0ea094c848a">
+    <h3 id="duplicate-item-bank" class="step-title screensteps-heading">Duplicate Item Bank</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/942/651/original/e578219a-3716-4938-8b98-796145eac6c9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/942/651/medium/e578219a-3716-4938-8b98-796145eac6c9.png" srcset="" alt="Duplicate Item Bank" height="57" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_155d4658-0f1a-48c4-8dd2-bdf2499896bc" class="text-block-content">
+    <p>To duplicate an item bank, click the <strong>Duplicate</strong> icon. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-duplication" data-step-uuid="4ddc2efd-b253-4c84-a1c7-65d583c4bbd8">
+    <h3 id="confirm-duplication" class="step-title screensteps-heading">Confirm Duplication</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/945/955/original/a269a325-b47b-446f-9b67-3aee00819589.png" srcset="" alt="Confirm Duplication" height="215" width="490">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4a703f30-355a-454a-9452-46f76a3c0abf" class="text-block-content">
+    <p>To confirm duplication, click the <strong>Duplicate</strong> button. Note: Duplicated item banks include "Copy" at the end of the bank name.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="share-item-bank" data-step-uuid="7d2728ac-1197-46b8-932d-f3baf7e5062f">
+    <h2 id="share-item-bank" class="step-title screensteps-heading">Share Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/942/653/original/2335e31e-2ad2-4fdb-8ff7-5240da34a43f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/942/653/medium/2335e31e-2ad2-4fdb-8ff7-5240da34a43f.png" srcset="" alt="Share Item Bank" height="57" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_183c5ca5-f0ed-4dda-8d20-8495310c5bf5" class="text-block-content">
+    <p>To manage sharing settings for an item bank, click the <strong>Share</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set-sharing-settings" data-step-uuid="e484738b-b2d9-412b-b9da-2b0505ad3bf2">
+    <h3 id="set-sharing-settings" class="step-title screensteps-heading">Set Sharing Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/396/891/original/ed722dd3-5326-47fb-9066-391c3e0dd079.png" srcset="" alt="Set Sharing Settings" height="555" width="771">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_528e8e59-ca1c-4dcd-b595-a51340c5f116" class="text-block-content">
+    <p>You can share an item bank with users, courses, and sub-accounts [1].</p>
+<p>To share the item bank with specific users, courses, or sub-accounts type a user, course, or sub-account name in the <strong>Share With</strong> field [2].</p>
+<p>You can set access to Can view, which allows users to view item banks in a read-only state, or Can edit, which allows users to view and edit the item bank [3].</p>
+<p>To set access settings you're sharing with, click the <strong>Access</strong> drop-down menu [4]. You can set access to view or edit.</p>
+<p>To share the item bank with the specified user(s) or course(s), click the <strong>Add</strong> button [5].</p>
+<p>To save your sharing settings, click the <strong>Close</strong> button [6].</p>
+<p><strong>Note:</strong> When the Item Banks - Share with Sub-Accounts permission is enabled, you can share to sub-accounts.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-item-bank" data-step-uuid="5987eba1-d221-4309-8a16-3799600a73f4">
+    <h2 id="edit-item-bank" class="step-title screensteps-heading">Edit Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/942/655/original/cd023a40-80ba-4691-aaec-633769cfff61.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/942/655/medium/cd023a40-80ba-4691-aaec-633769cfff61.png" srcset="" alt="Edit Item Bank" height="57" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_35457670-6ac8-4ea1-873e-bbd4d36d275a" class="text-block-content">
+    <p>To edit the name of an item bank, click the <strong>Edit</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit-item-bank-name" data-step-uuid="943046ae-71bb-4d4d-b27f-4baf3c81934a">
+    <h3 id="edit-item-bank-name" class="step-title screensteps-heading">Edit Item Bank Name</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/489/560/original/4193c93f-72e1-483a-bf97-0994606036c4.png" srcset="" alt="Edit Item Bank Name" height="246" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4bb7224a-dc1d-475b-b456-510f7961dcc2" class="text-block-content">
+    <p>To change the name of the item bank, type a new name in the <strong>Bank Name</strong> field [1], then click the <strong>Save Changes</strong> button to save the new name [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete-item-bank" data-step-uuid="666edd29-1ebc-48cf-8d78-fe08abb47cdb">
+    <h2 id="delete-item-bank" class="step-title screensteps-heading">Delete Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/942/657/original/829e45e0-f063-49f6-b389-276690da175f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/942/657/medium/829e45e0-f063-49f6-b389-276690da175f.png" srcset="" alt="Delete Item Bank" height="52" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1329b0be-af87-4ce8-8678-50525f1c8331" class="text-block-content">
+    <p>To delete an item bank, click the <strong>Delete</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-deletion" data-step-uuid="825b7a44-9ef1-4611-9dd1-59c154251dc4">
+    <h3 id="confirm-deletion" class="step-title screensteps-heading">Confirm Deletion</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/488/582/original/11804a9e-18cc-463a-ae73-86b0b9ba4f23.png" srcset="" alt="Confirm Deletion" height="392" width="752">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_156120b7-0ce4-43ca-8aaa-f264ebe9efd4" class="text-block-content">
+    <p>To confirm item bank deletion, click the <strong>Delete</strong> button.</p>
+<p>Deleting an item bank will cause the following to apply to items in the item bank:</p>
+<ul>
+<li>Items will no longer be accessible to others who currently have shared access.</li>
+<li>Items will not be removed from any assessments</li>
+<li>Items will lose their statistical link in reporting (if they were part of an assessment)</li>
+<li>Items will no longer be available to any assessments attempting a random/batch pull of items (removing the pull will resolve the issue)</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

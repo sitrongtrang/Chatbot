@@ -1,0 +1,136 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F6289630-1D7D-0135-4BD5-22000BC102FE" class="text-block-content">
+    <p>Term dates, course dates, and section dates are very symbiotic. All of them flow together in all aspects of Canvas. Various dates allow different users to participate in the course.</p>
+<p>The hierarchy of dates include the following:</p>
+<ul>
+<li>Section dates can override course dates</li>
+<li>Course dates can override term dates</li>
+</ul>
+<p>Additionally, some overrides may leave the course open for participation.</p>
+<p>Term dates, course dates, and section dates can also be added through SIS imports. SIS enrollment CSV files that include start_date and end_date values override term dates, course dates, and section dates. </p>
+<p>In conjunction with this lesson, to see an example of how term dates, course dates, and section dates work together, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Terms-Courses-and-Section-Enrollments/ta-p/387096" target="_blank">Terms, Courses, and Section Enrollments resource document</a>. </p>
+<p><strong>Notes:</strong> End dates occur at precisely the minute they are set. For example, a course with an end time at 11:59pm will end at 11:59:00.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_term_details" data-step-uuid="CF22C6F3-2F12-41CD-9057-F34664C9F4A7">
+    <h2 id="view_term_details" class="step-title screensteps-heading">View Term Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/827/884/original/e8974f44-bf4b-4dce-8969-858228f2172d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/827/884/medium/e8974f44-bf4b-4dce-8969-858228f2172d.png" srcset="" alt="View Term Details" height="164" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F62942A0-1D7D-0135-4BD7-22000BC102FE" class="text-block-content">
+    <p>In the <a href="/t5/Admin-Guide/How-do-I-use-the-Terms-page-in-an-account/ta-p/159" target="_blank">Terms page</a>, administrators can view term dates. Term dates define a fixed period of time for an institution where users can participate in a course. Term dates can also be used for semesters, trimesters, or quarters. In this example, the term runs from July 2, 2018, to December 23, 2018.</p>
+<p>Administrators have control over when specific users can participate in the courses. Unless otherwise specified, Students inherit the term start and term end date, while Teachers, TAs and Designers dates inherit a <em>whenever</em> start date to the term end date. <em>Whenever</em> means that these user roles can always access a course before the term begins.</p>
+<p><strong>Note: </strong>Instructors and students cannot view the Terms page. However, instructors can view term dates in <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">Course Settings</a>. Admins should make sure instructors and students are aware of term dates for their institution publicly, such as through a course catalog, website posting, or other distribution method.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="warning_about_end_term_dates" data-step-uuid="8eafe8a3-3694-466d-9474-c9059fe32416">
+    <h3 id="warning_about_end_term_dates" class="step-title screensteps-heading">Warning about End Term Dates</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/819/194/original/1add6a47-e76a-4e32-a6ab-de052206200a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/819/194/medium/1add6a47-e76a-4e32-a6ab-de052206200a.png" srcset="" alt="Warning about End Term Dates" height="154" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F62973D0-1D7D-0135-4BD9-22000BC102FE" class="text-block-content">
+    <p>Again, in the example about access dates, the ending dates would be as follows:</p>
+<ul>
+<li>Instructors (teachers) [1] can access courses until 12:00 am on December 31, 2018 (last full day is December 30).</li>
+<li>Everyone else with a <em>term end</em> date [2] can access courses until 12:00 am on December 23, 2018 (last full day is December 22).</li>
+</ul>
+<p>When a term has concluded, associated courses are placed in a read-only (archived) state. Read-only means that a course is not available for submitting assignments, posting discussions, uploading files, grading, or any other action-based task within a course. </p>
+<p><strong>Note: </strong>Canvas currently does not generate a warning about term dates as it does for course dates.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_future_enrollments" data-step-uuid="9ac20428-1f69-43ca-9e1f-10afad411269">
+    <h2 id="view_future_enrollments" class="step-title screensteps-heading">View Future Enrollments</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/792/056/original/1460857f-0369-4df9-851c-01482b59c3ce.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/792/056/medium/1460857f-0369-4df9-851c-01482b59c3ce.png" srcset="" alt="View Future Enrollments" height="171" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F629A380-1D7D-0135-4BDB-22000BC102FE" class="text-block-content">
+    <p>Once a user is added to a course, terms set default dates for when users have access to courses assigned to that term. <em>Access</em> relates to published courses.</p>
+<p>If a course is unpublished or does not include a link [1], students cannot have access to any course content until the start date of the term. </p>
+<p>If a course is published [2], students are able to view content before the start of the term. However, they cannot fully participate in the course, such as submitting an assignment or contributing to a discussion topic. On the start date of the term, students can fully participate in the course. </p>
+<p>Some institutions may choose to publish their courses on the same day as the term start date, so prior access to course content is not an issue. However, some prefer to allow instructors to publish their own courses ahead of the term start date and restrict student access to the course completely before the course begins. Students can also be restricted from being able to view a course after it has ended.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course_dates" data-step-uuid="077DB1B5-2B2A-4B87-B04C-1040F4169541">
+    <h2 id="view_course_dates" class="step-title screensteps-heading">View Course Dates</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/222/877/original/5da8a20d-0f9d-450f-9e22-2c6ed956036b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/222/877/medium/5da8a20d-0f9d-450f-9e22-2c6ed956036b.png" srcset="" alt="View Course Dates" height="293" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F629D280-1D7D-0135-4BDD-22000BC102FE" class="text-block-content">
+    <p>Courses may be assigned to the Default Term or a specific term [1]. By default, course dates default to the term dates [2]. However, course dates can be set to override the term dates or compliment the term dates. Both admins and instructors can manage these dates.</p>
+<p>To override the term dates, select the <strong>Course</strong> option from the Participation dropdown [3]. Course participation dates can be set within the term or extend past the term [4]. Adding a course participation start or end date adds or removes the course to or from the Card View Dashboard (if the course is marked as favorite), and students can still participate in the course by accessing their Courses list until the end of the term. The course is in a read-only state for students and observers outside of the course participation dates.</p>
+<p>For example, if the term dates were August 31 to December 20, the instructor could set access to the course a week later and end the course a week earlier. By shortening the course participation start and end dates, students will only have read-only access to the course before and after those dates. The instructor can still manage course content and grades before the term end date set for instructors.</p>
+<p>Admins and instructors can also <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-restrict-student-access-to-a-course-before-or-after-the/ta-p/1269" target="_blank">change student access settings</a> to allow or restrict students from viewing the course before the start or end date [5].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If a course participation end date is set to midnight, a warning message displays [6].</li>
+<li>Course dates determine placement in a student's Courses list (past, current, or future enrollment).</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sections" data-step-uuid="747D405E-CF97-4395-9415-A302866D0759">
+    <h2 id="view_sections" class="step-title screensteps-heading">View Section Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/828/027/original/d367cd16-6302-435d-9798-e40cda0a4e1c.png" srcset="" alt="View Sections" height="143" width="353">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F62A6580-1D7D-0135-4BE1-22000BC102FE" class="text-block-content">
+    <p>The Section dates are the most mobile. Sections can be moved from term to term or course to course. If section enrollments need to be moved, such as for cross-listing a section into another course, section enrollments should be moved before students submit any coursework, as course participation cannot be transferred across sections. </p>
+<p>Section dates default to the course dates, unless you also set up section override dates. </p>
+<p>Override dates are only created if the Student Participation checkbox is selected as part of creating section start and end dates (both dates are required).</p>
+<p>Sections can have various start and end dates. For example, Section 2 could be set with a start date of September 26, 2018, and an end date of December 14, 2018. Sections within the same course can share course material and have varied due dates.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

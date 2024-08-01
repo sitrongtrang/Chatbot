@@ -1,0 +1,271 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E684CF00-22EA-0135-4C48-22000B5A851D" class="text-block-content">
+    <p>Canvas DocViewer is a tool that allows annotations on uploaded online assignment submissions in Canvas. You can use DocViewer to <a href="/t5/Student-Guide/How-do-I-view-annotation-feedback-comments-from-my-instructor/ta-p/523" target="_blank">view annotated feedback</a> in the assignment details section of the sidebar from your instructor or from other students in peer review assignments.</p>
+<p>DocViewer has a 10-hour session limit that begins when you open a submission. If you start to make an annotation but do not submit it before the session expires, the annotation will not be saved. Submitted annotations are saved and are not affected by the session limit. Canvas will display a session expiration warning at 9 hours 50 minutes, followed by a 5-minute and 1-minute warning until the 10-hour limit has been reached. You can restart a DocViewer session at any time by refreshing the submission page.</p>
+<p>If your browser includes a built-in PDF viewer, select the option to view the PDF in the system viewer.</p>
+<p><strong>Compatible DocViewer Files</strong></p>
+<p>If a submission includes a file that can be rendered in DocViewer, but the submission preview is not yet complete, Canvas will generate a message stating the document is still processing.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If you cannot annotate a document in DocViewer, your institution may have restricted this feature.</li>
+<li>Files over 100 MB and password-protected files will not be converted by DocViewer.</li>
+<li>DocViewer annotations can be viewed in the Canvas Student app.</li>
+<li>Your instructor can delete any comment or annotation at any time.</li>
+<li>If your instructor anonymously grades an assignment, annotations in DocViewer will not be available until the assignment is unmuted.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-docviewer" data-step-uuid="aa1d1591-83d5-4326-b144-62967888c5f6">
+    <h2 id="view-docviewer" class="step-title screensteps-heading">View DocViewer</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/871/737/original/fa088d1a-aa57-4013-82fa-66e94ae4dc64.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/871/737/medium/fa088d1a-aa57-4013-82fa-66e94ae4dc64.png" srcset="" alt="Desktop" height="359" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4a8567a0-07d4-460d-aace-cf8a01707d52" class="text-block-content">
+    <p>To access DocViewer, <a href="/t5/Student-Guide/How-do-I-view-annotation-feedback-comments-from-my-instructor/ta-p/523" target="_blank">view feedback from your instructor</a> or <a href="/t5/Student-Guide/Where-can-I-find-my-peers-feedback-for-peer-reviewed-assignments/ta-p/320" target="_blank">peer review feedback </a>on the assignment details page. The View Feedback link displays an indicator if annotated comments have been added to a supported assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_crocodoc_toolbar" data-step-uuid="E42BAEED-6D7F-49D2-A8BD-3576678F71F3">
+    <h2 id="view_crocodoc_toolbar" class="step-title screensteps-heading">View DocViewer Toolbar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/212/983/original/45c6aaf5-16ae-485c-ab8c-7d689061f897.png" srcset="" alt="View DocViewer Toolbar" height="377" width="848">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E6850AC0-22EA-0135-4C4A-22000B5A851D" class="text-block-content">
+    <p>The DocViewer Toolbar helps you manage the assignment submission.</p>
+<p>To download a PDF of the annotated submission, click the <strong>Download</strong> button [1].</p>
+<p>If there are multiple pages, the <strong>Page number</strong> field [2] will let you advance through the submission to find the page you want to annotate. To go to another page, enter the page number in the Page field. You can also use the arrow icons [3] to advance through the submission.</p>
+<p>To zoom in and out on the submission, use the <strong>Zoom </strong>buttons [4].</p>
+<p>To view the submission in full screen, click the <strong>Full Screen</strong> button [5].</p>
+<p>To annotate the submission, use the annotation tools [6].</p>
+<p><strong>Note:</strong> If you cannot use the annotation tools in DocViewer, your institution may have restricted this feature.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_point_comment" data-step-uuid="E974B585-4259-4422-A402-5823B84CA49E">
+    <h2 id="add_point_comment" class="step-title screensteps-heading">Add Point Annotation</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/212/986/original/24e7ce4d-599f-4875-98bf-1bc70eea2048.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/212/986/medium/24e7ce4d-599f-4875-98bf-1bc70eea2048.png" srcset="" alt="Add Point Annotaiton" height="353" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E6858B80-22EA-0135-4C4E-22000B5A851D" class="text-block-content">
+    <p>To leave a point annotation, select the <strong>Point </strong>annotation type [1].</p>
+<p>Select the color for the point annotation in the color panel [2].</p>
+<p>Click the desired area of the submission [3]. The point annotation icon will appear indicating the location of the annotation. To add a comment to the point annotation, type the comment in the <strong>Comment</strong> field [4]. To start a new line in your comment, press the <strong>Shift+Enter/Return</strong> keys. To submit your comment, press the <strong>Enter/Return</strong> key.</p>
+<p>You can reply to DocViewer comments by clicking the <strong>Reply</strong> button [5].</p>
+<p>To move the annotation, hover over the point annotation icon in the document. Click and drag the annotation to the new area.</p>
+<p>To delete a point annotation and its comments, click the annotation and then click the <strong>Delete</strong> icon [6]. DocViewer will confirm you want to delete the annotation. </p>
+<p>To delete a point annotation comment and its replies, click the comment <strong>Delete</strong> icon [7]. DocViewer will confirm you want to delete the annotation comment and its replies. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="use_highlight_tool" data-step-uuid="AB2A4FA9-5C9C-4041-AF3D-EC8C88C4ED80">
+    <h2 id="use_highlight_tool" class="step-title screensteps-heading">Add Highlight Annotation</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/212/989/original/53ab049b-b6b8-44b3-af52-5eb7df1faea0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/212/989/medium/53ab049b-b6b8-44b3-af52-5eb7df1faea0.png" srcset="" alt="Add Highlight Tool" height="304" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E68668A0-22EA-0135-4C56-22000B5A851D" class="text-block-content">
+    <p>To highlight text within the document, select the Highlight annotation type [1].  </p>
+<p>Select the color for the highlight annotation in the color panel [2].</p>
+<p>Click and drag to highlight text within the submission [3].</p>
+<p>To add a comment to the highlight annotation, click the <strong>Comment</strong> button [4]. To start a new line in your comment, press the <strong>Shift+Enter/Return</strong> keys. To submit your comment, press the <strong>Enter/Return </strong>key.</p>
+<p>To delete a highlight annotation, click the highlighted area and then click the <strong>Delete</strong> icon [5]. DocViewer will confirm you want to delete the highlight. Deleting an annotation will also delete any associated comments.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="use_text_tool" data-step-uuid="E9F15300-2BBA-4842-AC67-0A9B7775A880">
+    <h2 id="use_text_tool" class="step-title screensteps-heading">Add Text Annotation</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/212/992/original/3677f31a-c3ee-498e-88d9-97ced27053a2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/212/992/medium/3677f31a-c3ee-498e-88d9-97ced27053a2.png" srcset="" alt="Add Text Tool" height="361" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E686A620-22EA-0135-4C58-22000B5A851D" class="text-block-content">
+    <p>To add text directly in the submission, select the <strong>Free text</strong> annotation type [1]. </p>
+<p>Select the color for the text annotation in the color panel [2].</p>
+<p>Select a white or transparent background for the text annotation [3] as well as the font size for the annotation [4].</p>
+<p>Click in the desired area of the submission, then type your entry [5]. To start a new line in your comment, press the <strong>Shift+Enter/Return</strong> keys.</p>
+<p>To move the annotation, hover over the text box in the document. Click and drag the annotation to the new area.</p>
+<p>To delete the text annotation, click the text box and then click the <strong>Delete</strong> icon [6]. DocViewer will confirm you want to delete the text box.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="use_strikeout_text_tool" data-step-uuid="694B2945-964C-4BCC-8721-9A678ABCC0DD">
+    <h2 id="use_strikeout_text_tool" class="step-title screensteps-heading">Add Strikeout Text Annotation</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/212/995/original/018efe60-26b8-4c07-a079-0ea7be1e0dd2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/212/995/medium/018efe60-26b8-4c07-a079-0ea7be1e0dd2.png" srcset="" alt="Add Strikeout Text Tool" height="449" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E686E640-22EA-0135-4C5A-22000B5A851D" class="text-block-content">
+    <p>To indicate that text should be deleted, select the <strong>Strikeout</strong> annotation type [1]. </p>
+<p>Select the color for the strikeout line in the color panel [2].</p>
+<p>Click and drag to strike out within the submission. A line will appear indicating the text has been struck out [3]. </p>
+<p>To add a comment to the strikeout annotation, click the <strong>Comment</strong> button [4]. To start a new line in your comment, press the <strong>Shift+Enter/Return</strong> keys. To submit your comment, press the <strong>Enter/Return</strong> key.</p>
+<p>To delete a strikeout annotation, click the strikeout area and then click the <strong>Delete</strong> icon [5]. DocViewer will confirm you want to delete the strikeout line. Deleting an annotation will also delete any associated comments.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="use_draw_tool" data-step-uuid="4BD2F363-20F1-4CBF-8CAB-114389D28FF5">
+    <h2 id="use_draw_tool" class="step-title screensteps-heading">Add Draw Annotation</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/212/998/original/1f8df069-2eb3-4b22-82c6-a20ee84a528b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/212/998/medium/1f8df069-2eb3-4b22-82c6-a20ee84a528b.png" srcset="" alt="Add Draw Annotation" height="449" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E6863250-22EA-0135-4C54-22000B5A851D" class="text-block-content">
+    <p>To make freehand drawings and annotations, select the <strong>Free</strong> <strong>Draw</strong> annotation type [1]. </p>
+<p>Select the color for the drawn annotation in the color panel [2].</p>
+<p>Select your annotation line width from the line width panel [3].</p>
+<p>Click and drag to start a drawing. Free-form lines will appear indicating the drawing area [4]. You can add multiple strokes to a drawn annotation. </p>
+<p>To add a comment to your drawn annotation, click the <strong>Comment</strong> button [5]. To start a new line in your comment, press the <strong>Shift+Enter/Return</strong> keys. To submit your comment, press the <strong>Enter/Return </strong>key.  </p>
+<p>To accept the drawn annotation, click the <strong>Check</strong> icon [6].</p>
+<p>To move a drawing, hover over the outline of the drawing, then drag and drop the drawing to the new area of the document. </p>
+<p>To delete a drawing at any time, click the drawing and then click the <strong>Delete</strong> icon [7]. DocViewer will confirm you want to delete the drawing. Deleting an annotation also deletes any associated comments.</p>
+<p><strong>Note: </strong>Draw annotations can only have one line width per annotation. Individual annotations must be saved before creating a new line with a different width.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_area_comment" data-step-uuid="10D70EBF-C964-480B-9D07-F9915EDDBDCA">
+    <h2 id="add_area_comment" class="step-title screensteps-heading">Add Area Annotation</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/213/001/original/9bd6eb26-1f81-4729-baf3-add2fe5f6862.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/213/001/medium/9bd6eb26-1f81-4729-baf3-add2fe5f6862.png" srcset="" alt="Add Area Annotation" height="425" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E685C360-22EA-0135-4C50-22000B5A851D" class="text-block-content">
+    <p>To leave an area annotation, select the <strong>Area </strong>annotation type [1].</p>
+<p>Select the color for the area annotation in the color panel [2].</p>
+<p>Click and drag the rectangle around an area of the submission [3]. A box will appear indicating the area for the annotation.</p>
+<p>To add a comment to the area annotation, type the comment in the <strong>Comment</strong> field [4]. To start a new line in your comment, press the <strong>Shift+Enter/Return</strong> keys. To submit your comment, press the <strong>Enter/Return</strong> key.</p>
+<p>You can reply to DocViewer comments by clicking the <strong>Reply</strong> button [5].</p>
+<p>To move the annotation, hover over the border. Click and drag the annotation to the new area of the document.</p>
+<p>To delete an area annotation, click the annotation and then click the <strong>Delete</strong> icon [6]. DocViewer will confirm you want to delete the comment. Deleting an annotation will also delete any associated comments.</p>
+<p>To delete an area annotation comment and its replies, click the comment <strong>Delete</strong> icon [7]. DocViewer will confirm you want to delete the annotation comment and its replies. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-comments" data-step-uuid="e8c32122-55db-48a0-8f2a-fad53de552ec">
+    <h2 id="view-comments" class="step-title screensteps-heading">View Comments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/785/694/original/3de6af9b-c9b2-4608-8131-47a07dddea21.png" srcset="" alt="View Comments" height="675" width="737">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4377362e-5947-4eb7-9878-e3e9ba5ce6b8" class="text-block-content">
+    <p>Individual comments include an icon that displays the type and color of the annotation [1]. The annotation icon displays next to the commenter's name and only displays in the primary comment for an annotation. Replies to a comment do not include the icon.</p>
+<p>Instructors may leave additional comments or reply to your comments. When an annotated comment includes more than five content lines, the content box displays an ellipses link [2]. To expand a comment, click the ellipses link. If a comment includes multiple replies, all replies will be expanded.</p>
+<p>Comments with replies are stacked [3]. When you click on a comment, all replies are expanded in the group. The number of stacked replies is indicated below the first comment.</p>
+<p>Comments remain on the page where the annotation was made. If there are too many comments to display on a single page, the comment section becomes scrollable and some comments are hidden. An indicator shows how many comments have been hidden [4].</p>
+<p>You can delete your comments by clicking the <strong>Delete</strong> icon [5].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-anonymous-instructor-comments" data-step-uuid="b8c56fcd-823e-4afd-8359-05f215a15948">
+    <h2 id="view-anonymous-instructor-comments" class="step-title screensteps-heading">View Anonymous Instructor Comments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/741/558/original/00fc2c3c-ec94-4ead-9fb5-aca68708e9fc.png" srcset="" alt="View Anonymous Instructor Comments" height="308" width="785">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_538f3124-2203-4f68-a87f-f8048ab48a3d" class="text-block-content">
+    <p>If your instructor has enabled Anonymous Instructor Annotations, annotations and comments on your submission will not display the name of the instructor or grader.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-other-user-annotations" data-step-uuid="47f5fd29-0157-44d2-9741-6e4e29b40a44">
+    <h2 id="view-other-user-annotations" class="step-title screensteps-heading">View Other User Annotations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/608/705/original/e9016fea-9966-45df-b0e6-65f6028899e3.png" srcset="" alt="View Other User Annotations" height="165" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d7e5df33-feb6-4deb-a590-39c238637687" class="text-block-content">
+    <p>When another user adds an annotation within a document, you can view the author of the annotation by clicking the annotation [1].</p>
+<p>You can also leave a comment on any annotation created by other users [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-deleted-items" data-step-uuid="a28c8e1d-e122-4189-a208-46aefe32975e">
+    <h2 id="view-deleted-items" class="step-title screensteps-heading">View Deleted Items</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/608/703/original/aa81086a-fabc-4b84-90ee-7614b5bbb947.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/608/703/medium/aa81086a-fabc-4b84-90ee-7614b5bbb947.png" srcset="" alt="View Deleted Items" height="223" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_26d197a0-1bd0-453e-9f40-13a6fdc2a1df" class="text-block-content">
+    <p>Your instructor can delete any comment or annotation at any time. If a comment or annotation is deleted, the deleted item displays in the sidebar [1]. You can view the name of the user who made the deletion and the date of the deletion. Items can only be deleted by instructors or admins. </p>
+<p>If multiple comments or annotations are deleted, including comment replies with the same comment thread, each comment or annotation will include its own heading information about the deletion.</p>
+<p>To permanently remove the deleted item, click the <strong>Remove</strong> icon [2].</p>
+<p><strong>Note:</strong> Permanently deleted items cannot be recovered.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

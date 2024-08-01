@@ -1,0 +1,20 @@
+How do I use the Terms page in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Terms
+In Account Navigation, click the Terms link.
+Add Term
+To add a new term, click the Add New Term link.
+View Terms
+The Terms page displays all terms that have been created in your account. Terms can be created manually or via SIS Import.
+To search for a term, enter the term name in the Search by term name field and click the Search button.
+View Term Details
+For each term, you can view all the details created in that term. 
+You can view the name of the term, the term SIS ID (if applicable), the grading period set associated with the term (if applicable), and the number of courses within the term.
+You can also view the term dates and specific user role access dates.
+View Custom User Dates
+If specific user access dates have been added for the term, you can view the dates within each user role.
+Note: SIS imports cannot specify specific dates for each user group. Those dates must be changed manually.
+Manage Terms
+To edit a term, click the Edit icon. To delete a term, click the Delete icon.
+Note: You cannot delete a term that contains courses.

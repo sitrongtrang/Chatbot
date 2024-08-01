@@ -1,0 +1,98 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--alert screensteps-wrapper">
+  <div id="text-content_1fbf3105-3985-4e16-a258-66ae144e22db" class="text-block-content">
+    <p>Canvas Data 1 will be <a href="https://community.canvaslms.com/t5/The-Product-Blog/Canvas-Data-In-with-the-New-Out-with-the-Old/ba-p/590171" target="_blank">deprecated on December 31, 2023</a>.  Canvas Data 1 guides will be removed from the Community end of June 2024. <a href="/t5/Admin-Guide/What-is-Canvas-Data-2/ta-p/560956" target="_blank">Learn more about accessing data using Canvas Data 2</a>.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_C1E223D0-1CB1-0135-B368-22000AB760A3" class="text-block-content">
+    <p>Canvas Data Services provides admins with optimized access to their data for reporting and queries. Customers can combine their Canvas Data with data from other trusted institutions, as well as other key systems across campus such as a student information system (SIS). </p>
+<p>Canvas Data Admins can download flat files from Amazon S3 or, if your institution pays for Amazon Redshift, Admins can view files hosted in an Amazon Redshift data warehouse. The data will be an extracted and transformed version of an institution's Canvas activity and can be accessed using any open database connectivity (ODBC) analytics tool to generate custom data visualization and reports. </p>
+<p>‬For more information on Canvas Data, view the <a href="https://portal.inshosteddata.com/docs" target="" rel="nofollow noopener noreferrer">Canvas Data dictionary</a>.</p>
+<p><strong>Note: </strong>Instructure is no longer onboarding new customers to Canvas Data 1. <a href="/t5/Admin-Guide/What-is-Canvas-Data-2/ta-p/560956" target="_blank">Learn more about accessing data using Canvas Data 2</a>. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas-data-services" data-step-uuid="66ac8646-e5b9-486e-969d-94ff096511e4">
+    <h2 id="canvas-data-services" class="step-title screensteps-heading">Canvas Data Services</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/041/152/original/113235e7-0701-4901-9419-0b75be0038b2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/041/152/medium/113235e7-0701-4901-9419-0b75be0038b2.png" srcset="" alt="Canvas Data Services" height="241" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b7e6c2f3-b594-4c41-9f27-5b2a1ffa63e2" class="text-block-content">
+    <p>As an admin, you may choose to <a href="/t5/Admin-Guide/How-do-I-install-Canvas-Data-Services-using-Live-events-in-my/ta-p/184" target="_blank">install Canvas Data Services</a> in your account. Canvas Data services allows you to configure data streams to access <a href="/t5/Admin-Guide/How-do-I-subscribe-to-Live-Events-using-Canvas-Data-Services/ta-p/227" target="_blank">Live Events data from Canvas</a>. Data stream configuration requires an Amazon SQS or HTTPS URL.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas_data_files" data-step-uuid="b9907332-c367-441b-be64-d51ac2d55767">
+    <h2 id="canvas_data_files" class="step-title screensteps-heading">Canvas Data Files</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/557/535/original/3d65d1f9-4317-4ea9-ad72-097c19c71a56.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/557/535/medium/3d65d1f9-4317-4ea9-ad72-097c19c71a56.png" srcset="" alt="Canvas Data Files" height="666" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C1E2D650-1CB1-0135-B36E-22000AB760A3" class="text-block-content">
+    <p>Admins can use Canvas Data schemas and APIs to get insight on topics such as accreditation, improving course design, assessing student engagements, and enabling student intervention. </p>
+<p>As part of the Canvas Data Portal, the Canvas Data schema includes documentation that explains all the table data that is exported from Canvas. Relevant files can be compared and used to answer questions such as:</p>
+<ul>
+<li>‪Which departments/courses/teachers are fully adopting the LMS tool?</li>
+<li>‪What makes a successful department/course/instructor?</li>
+<li>‪Which courses are being retaken?</li>
+<li>‪How can our institution improve student retention?</li>
+<li>‪Which learning objects are actually used by students?</li>
+<li>‪How much time do successful students spend on the course?</li>
+<li>‪When should an instructor intervene with a student?</li>
+<li>‪What courses fit a student’s learning style?</li>
+<li>‪How are students doing in the course (current and historical)?</li>
+<li>How can students plan to be more effective?</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="odbc_analytics_tools" data-step-uuid="e70052cc-4a6b-4a5f-b7f5-9443c283e4e6">
+    <h2 id="odbc_analytics_tools" class="step-title screensteps-heading">ODBC Analytics Tools</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/557/538/original/8761c487-164d-4220-8548-898948e48aa0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/557/538/medium/8761c487-164d-4220-8548-898948e48aa0.png" srcset="" alt="ODBC Analytics Tools" height="359" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C1E30A70-1CB1-0135-B370-22000AB760A3" class="text-block-content">
+    <p><a href="/t5/Admin-Guide/How-do-I-use-Canvas-Data-1-files/ta-p/106" target="_blank">Canvas Data files</a> can be used to create visual analysis using queries and reports in ODBC analytics tools.</p>
+<p> Common tools include Excel (using Amazon Redshift), Tableau, R, and SQL Workbench/J. Most other ODBC and Java database connectivity (JDBC) PostgresSQL clients should support the data, but pgAdmin is not supported.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

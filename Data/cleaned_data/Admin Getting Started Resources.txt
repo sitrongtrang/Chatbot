@@ -1,0 +1,145 @@
+Admin Getting Started Resources
+Introduction
+What is Canvas?
+Canvas is a Learning Management System. With its highly integrated learning products, you can build a digital learning environment to meet the unique challenges faced by your institution. To learn more about Canvas terminology and definitions, visit How does Canvas define the terms used to describe its features and functions?
+Because Canvas is a web-based system, it doesn’t need to be installed on your computer. However, you’ll want to make sure that your computer and web browser meet the basic requirements to run Canvas.
+What is the Admin role?
+In Canvas, the Admin role is the administrator role. Users assigned the Admin role oversee and manage an institution's Canvas account or a Canvas sub-account within an institution. Admin permissions allow users to manage terms, create courses, view and moderate enrollments and content for all courses within an account, and view course and account data. Additionally, Admins can direct communication within an account and its courses. Account-level permissions vary for sub-accounts and from institution to institution. For more information about account-level permissions, view the Canvas Account Permissions resource document.
+What is a Customer Success team?
+Most Canvas accounts are assigned to a Customer Success team. Your Customer Success team will work with you to establish your account. Review with them your institution’s teaching and learning goals as well as your institution’s existing structures.
+Once your account is established and users at your institution are using Canvas, your Customer Success Manager (CSM) will be your primary point of contact when you have questions, concerns, or comments about Canvas functionality for your institution.
+Canvas for Elementary
+Canvas for Elementary is a Canvas setting that displays a simplified interface and experience designed for young learners. You need to enable Canvas for Elementary for your account to allow users to use it. For more information, visit the Canvas for Elementary Feature Comparison resource document.
+Canvas Guides
+The Canvas Admin Guide answers a question that relates to using the Canvas interface as an admin. Each article also includes Next and Previous links so you can easily navigate to related content. You can also watch videos for admins.
+Account Structure Resources
+Each institution has an organizational structure that supports its specific teaching and learning needs and goals. For example, your institution may be divided into specific schools; each school may be assigned specific grade levels or disciplines; each grade level or discipline may then be divided by department or group.
+Before configuring your institution’s Canvas account, take the time to answer the following questions about your institution and administrators. Your answers will play an essential role in organizing your Canvas account.
+What is the current organizational structure at my institution?
+How does my institution’s organizational structure support our identified teaching and learning needs and goals?
+Do I want to organize my institution’s Canvas account using my institution’s current organizational structure? If not, how do I want to organize my institution’s Canvas account?
+What administrative roles and responsibilities currently exist at my institution?
+Which of these roles need administrative access to Canvas?
+To fulfill their roles in Canvas, what access would (and wouldn’t) these individuals need?
+Your Canvas account starts with one root account. To establish your account’s structure or hierarchy, you will create sub-accounts.
+Most institutions organize sub-account structures to mirror their Student Information System (SIS) or registration system. For example, sub-accounts can be created for individual colleges within a university or schools within a district. Sub-accounts can also be created within sub-accounts, such as when a college subdivides into departments that subdivide into programs, or a school that subdivides into grade levels that subdivide into specific subjects.
+What is the hierarchical structure for Canvas accounts?
+How do I view and manage a sub-account?
+How do I manage themes for an account?
+Note: Sub-accounts can be bulk-added using the SIS Import Tool.
+Canvas Account Functionality & Integrations
+After answering questions about the organization and administration of your institution’s Canvas account, consider how Canvas will support teaching and learning at your institution.
+What are your institution’s specific teaching needs and goals?
+What role will Canvas play in achieving your institutional vision for teaching and learning?
+Canvas includes a variety of standard account integrations. In addition to these integrations, your Customer Success team can configure a variety of other integrations for your account. Learn about available Canvas account integrations. Contact your Customer Success team to enable any of these integrations in your account.
+Basic Account Settings
+As an admin, the settings you select for your Canvas account will affect how Canvas functions for your users. These settings will also trickle down to the sub-accounts you create in your account.
+Some settings, like language and time zone selection, can be modified by individual users and per course, but you’ll establish the defaults.
+How do I use account settings?
+How do I set details for an account?
+Admin User Roles
+Whenever you add a user to Canvas, you must specify their user role. User roles identify what a user can do within Canvas. A role must exist in an account before any user may be added to the role.
+By default, Canvas includes one account-level administrative user role. This role comes with unrestricted access to Canvas. However, not every administrative user needs an all-access pass to Canvas. Before adding administrators to your Canvas account, create additional account-level user roles and preselect their Canvas permissions.
+View more information about account-level permissions.
+What user roles and permissions are available in Canvas?
+How do I add an account-level role in the Permissions page?
+How do I set permissions for an account-level role?
+Account Admins
+How do I add an admin to an account?
+SIS Import Tool Overview
+The SIS Import Tool allows you to bulk-create a variety of account items using formatted comma-separated value (CSV) files.
+Notes:
+The SIS Import Tool is a feature that your CSM must enable for your account.
+All CSV file uploads should be tested in your institution’s test environment before attempting to upload them to your production environment. You can learn more about the Canvas test environment.
+This section outlines a manual process of using the SIS Import Tool. To learn more about using the Canvas API to automatically integrate with your SIS, talk with your CSM and visit the Canvas Guides, review Canvas API documentation, and visit the Canvas Developers Group in the Canvas Community.
+Using the SIS Import Tool allows account admins to upload data to their Canvas account quickly. Bulk uploads may be done at any time and in no particular order. Additionally, there are some risks associated with using this tool. For more details about these risks, please view the SIS Imports article.
+What student information system (SIS) integrations are available in Canvas?
+How do I import SIS data to a Canvas account?
+How do I format CSV text files for uploading SIS data into a Canvas account?
+How do I create an automated data integration for an account with Canvas and my SIS?
+How do I practice using the API to import SIS data to a Canvas account?
+What do I need to know about creating a script to automatically import SIS data to a Canvas account?
+Learn more about SIS Resources.
+Terms Overview
+Terms define start and end dates that apply to any course added to that term. For that reason, term dates should be set before adding courses to your account. Terms can be created manually or by using SIS imports.
+Additionally, terms are used to filter data in account analytics and account reports.
+How do I use the Terms page in an account?
+How do I add a new term in an account?
+What should I do at the beginning and end of each term as an admin?
+What should I encourage instructors to do at the beginning and end of each term?
+Notes:
+Canvas includes a default term that cannot be removed or renamed.
+Use caution when editing the Term Runs from and User can access dates fields as those fields cannot be left empty when they are edited.
+Instructors and students cannot view the Terms page, so please ensure users in your institution are aware of term dates for your institution publicly.
+Not all courses within a term conform to the term dates. Learn more about course dates and section dates. 
+Grading Periods Overview
+Grading periods specify date ranges used for student grade reporting. Student grades are calculated using course assignment scores with due dates that fall within the grading period’s start and end date range. Grading period close dates prevent grade modification after a specified date.
+Grading periods are created within grading period sets. When creating a grading period set, you can associate it with terms, and any courses within that term automatically inherit the grading periods.
+How do I view grading periods in an account?
+How do I add grading periods in an account?
+Grading Schemes Overview
+A grading scheme is a set of criteria used to measure student achievement in a course. Without a grading scheme, student scores are not measured against a specific standard.
+What are grading schemes?
+How do I view and manage grading schemes in an account?
+How do I add a grading scheme in an account?
+How do I duplicate a grading scheme in an account?
+How do I edit a grading scheme in an account?
+How do I archive a grading scheme in an account?
+Outcomes Overview
+Outcomes are statements that describe the knowledge and skills that learners will develop during a course or program. As an admin, you can create outcomes at the account level that instructors may use to measure student progress in a course in your account.
+How do I use the outcomes page in an account?
+How do I create an outcome for an account?
+How do I create outcome groups for an account?
+How do I import outcomes for an account?
+How do I use the outcomes page in an account in Improved Outcomes Management?
+How do I create an outcome for an account in Improved Outcomes Management?
+How do I create outcome groups for an account in Improved Outcomes Management?
+Rubrics Overview
+A rubric is an assessment tool for communicating expectations and measuring student mastery of a course assignment or assessment. Rubrics are typically comprised of rows and columns. Assessed criteria are defined in rows. Columns are used to define levels of performance for each criterion.
+How do I manage rubrics in an account?
+How do I add a rubric in an account?
+How do I align an outcome with a rubric in an account?
+How do I customize learning mastery ratings for an account?
+Question Bank Overview
+Question banks are quiz question repositories. When creating a quiz, users can access question bank questions, making it easier to offer the same quiz questions to students in different courses.
+How do I manage question banks in an account?
+How do I create a question bank in an account?
+Custom Branding Overview
+The Canvas Theme Editor allows you to customize the display colors for text, buttons, and links using hex codes. You can also upload custom images and watermarks to display in your Canvas instance.
+By default, the Theme Editor is only enabled in an institution’s root account and all sub-accounts adopt the root account theme. However, the tool can be enabled in sub-accounts, allowing for sub-account theme customization. Any design element not changed in a sub-account theme inherits the account-level design.
+Additionally, the Theme Editor supports custom cascading style sheets (CSS) and JavaScript (JS) uploads. Your CSM can enable this option in your account. Before using this option in your account, learn about CSS/JS restrictions in Canvas.
+How do I manage themes for an account?
+How do I create a theme for an account using the Theme Editor?
+How do I upload custom JavaScript and CSS files to an account?
+External Apps (LTI) Overview
+Canvas supports the Learning Tool Interoperability (LTI) standard for third-party tools. This means you can integrate a variety of existing teaching tools to work within Canvas via the EduApp Center. You can enable these tools in your account and they will be available for use in courses in your account.
+How do I use the Canvas App Center in an account?
+How do I manage an Edu App Center allow list in Canvas?
+How do I configure an LTI key for an account?
+How do I configure an external app for an account using a URL?
+Course-Level User Roles and Permissions Overview
+After adding admins to your account and establishing your account basics, you are ready to create course-level user roles. A user role defines what a user can do and establishes their permissions within Canvas. When you add a user to Canvas, you must specify their user role. Therefore, user roles with defined permissions must exist in an account before a user can be added.
+By default, Canvas includes five course-level user roles: student, teacher, TA, designer, and observer. Each role has preset permissions that determine its level of access to courses and course materials in Canvas. For example, students and parent observers typically do not create quizzes in a course, but teachers, TAs, and course designers likely do. Therefore, some user roles have restricted access to course permissions based on their typical role and responsibilities at an institution. Your institution may also require the need for other course-level users with varying access. You can create additional course-level user roles and preselect their Canvas permissions.
+View more information about course-level permissions. 
+Courses Overview
+The most efficient way to add users to your account is to enroll them directly in a course. You can add courses to your account using the SIS Import tool or create courses manually.
+How do I use the Courses page in an account?
+How do I add a course in an account as an admin?
+Course Enrollments
+All courses in your account are displayed on the Courses page. You can enroll (or add) new and existing users in a course. Canvas can identify new user information when you create course enrollments, and new users will automatically be added to your account when they are enrolled in a course.
+What user enrollment and registration options are available in Canvas?
+How do I use the People page in an account?
+How do I create and add users to an account?
+How do I edit a user's name, time zone, or email in an account?
+How do I manage a user's login information in an account?
+How do I act as another user in an account?
+How do I view the enrollments for a user in an account?
+How do I enable open registration in an account and allow instructors to add users to a course witho...
+How do I enable self-enrollment in an account and allow students to self-enroll in a course?
+Canvas Feature Options
+Canvas is continually creating new features to improve your experience. The majority of improvements are made available as part of the regular release cycle. However, some features may change the workflow for common activities in Canvas during your current term. You can learn about these features at your own pace and manage Canvas features from your Account Settings. Feature options allow you to choose if and when you want to enable a new feature for your institution. Most institutions pilot the feature within their institution and then enable it for the entire institution between terms.
+Additional Resources
+Best Practices for Large Courses in Canvas
+Canvas Default Account Reports
+Canvas Admin Discussion
+Canvas Admin Blog

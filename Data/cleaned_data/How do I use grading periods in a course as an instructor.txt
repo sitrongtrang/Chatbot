@@ -1,0 +1,41 @@
+How do I use grading periods in a course as an instructor
+View Assignments by Grading Periods Filter
+When multiple grading periods are enabled in a course, you can sort and filter the Assignments Index page by grading period.
+Assignments and assignment groups are validated against assignments in closed grading periods.
+View Assignments
+When you create an assignment, by default each assignment is assigned to everyone. However, the assignment can be differentiated among course sections, course groups, or individual students. 
+When grading periods are enabled, the due date of the assignment determines the grading period where the assignment appears in the Gradebook. If no due date is set, the assignment defaults to the last grading period available for the course.
+When grading periods are weighted, assignments outside of grading periods do not count toward the final grade.
+Note: The Assign field cannot be edited for anyone if the due date is in a closed grading period. However, you can add additional differentiated assignments with due dates outside the closed grading period. Assignments with due dates in open grading periods cannot be edited from an open grading period to a date in a closed grading period, but the due date can be edited to any date within an open grading period. These restrictions do not apply to availability dates, which can be set to overlap a grading period.
+View Gradebook
+To view the Grading Period filter, click the Apply Filters button. Then in the Filters section, click the Grading Periods option.
+The Grading Periods filter lists grading periods for the course. By default, the Gradebook displays the current grading period. However, you can view and filter assignments by all, previous, or future grading periods.
+Assignments are grouped in the grading period according to the published assignment due date (unpublished assignments never appear in the Gradebook). If there is no due date for the published assignment, the assignment defaults to the latest grading period. Grading periods cannot be selected within an individual assignment.
+You can only edit grades for assignments in a current or future grading period. Once the close date for a grading period has passed, you cannot edit grades for the prior grading period.
+View Differentiated Assignments
+Assignments cannot overlap grading periods except with differentiated assignments. When differentiated assignment dates overlap grading periods, the assignment appears in each appropriate grading period. 
+If a student is not part of an assignment in the specific grading period, the assignment is grayed out. 
+If a student is part of a differentiated assignment with no due date, the assignment appears in the last available grading period.
+If a student is part of multiple differentiated assignments, the grading period shows the assignment in the grading period of the latest date. 
+Display Total Grades for All Grading Periods
+When using multiple grading periods, you may be able to view total grades in the All Grading Periods view. This grades view also includes displaying assignment group totals. Viewing total grades in a course is managed by your Canvas administrator.
+By default, viewing total grades in the All Grading Periods view is disabled in a course and affects the global Grades view, courses Grades view, and the instructor Gradebook.
+View Global Grades
+Students have one of two options from the global Grades page accessed from the Dashboard. When viewing total grades is disabled, students do not have the option to view All Grading Periods. They can only view the grade for a specific grading period in the course. 
+When viewing total grades is enabled, students can select the All Grading Periods option and can view the appropriate grade.
+View Course Grades
+In the course Grades page, students may not be able to view their assignment grade totals.
+When you hide totals in student grade summaries, students cannot view the total grade calculation in either the sidebar or the bottom of the grades page. Calculations also include assignment totals for weighted assignment groups. Hiding total grades impacts calculations for student What-If Grades.
+When viewing total grades is enabled, students can still view the total grade for All Grading Periods and any assignment group calculations.
+Hide Grades in Individual Grading Periods
+When viewing total grades is disabled, students can still view total grades for an individual grading period unless you hide student totals in Course Settings. When this setting is enabled, students will not be able to view any totals in their global grades page or course grades page.
+View Closed Grading Periods
+ At the course level, Canvas validates all assignments against closed grading periods in Canvas. You cannot edit assignments in closed grading periods. If an assignment is in a closed grading period, the assignment shows that the submission is in a closed grading period. Learn how to view the date range of a course grading period.
+Students are not affected by closed grading periods in their Grades page.
+Note: For current limitations associated with the close date feature, please view the Close Dates for Grading Periods document.
+Export Gradebook
+When you download scores from the Gradebook, you can export assignment scores and total grades for all grading periods or specific grading periods.
+To export Gradebook scores for assignments associated with a specific grading period, click the Apply Filters button and select the grading period from the Grading Periods section. Then click the Exportdrop-down menu and select the Export Current Gradebook View option. 
+Notes:
+The CSV includes any selected grading period information; however, assignment group totals in the CSV are calculated based on all grading periods.
+The CSV file displays a total grade for the specific grading period being viewed. However, if the instructor exports the All Grading Periods Gradebook view, the CSV honors whether or not total grades can be viewed.

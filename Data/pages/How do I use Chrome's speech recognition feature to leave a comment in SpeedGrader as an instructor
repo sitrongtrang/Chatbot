@@ -1,0 +1,111 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_41AA4AC0-22E2-0135-78CC-22000B5A851D" class="text-block-content">
+    <p>If you use the Google Chrome web browser to access Canvas, you can use Chrome's speech recognition feature to leave text comments on student assignments in the SpeedGrader. Chrome's speech recognition feature turns your spoken comments into text comments.</p>
+<p>Chrome speech recognition will default to the preferred language set in your Chrome settings. To change your setting to a different language, <a href="https://support.google.com/chrome/answer/173424?hl=en" target="_blank" rel="nofollow noopener noreferrer">view your language settings in Chrome</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speedgrader" data-step-uuid="44b4b903-b2c3-4117-9058-16d1b9b264b4">
+    <h2 id="open_speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/398/original/0bb31b71-aba8-4538-9360-e711621119f3.png" srcset="" alt="Open SpeedGrader" height="54" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AA8600-22E2-0135-78CE-22000B5A851D" class="text-block-content">
+    <p><a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-an-assignment-quiz-or-graded/ta-p/759" target="_blank">Open SpeedGrader</a> from any assignment, graded discussion, or quiz. You can also open SpeedGrader <a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-the-Gradebook/ta-p/925" target="_blank">from the Gradebook</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_student_submission" data-step-uuid="6653ee30-d42b-403c-b32e-e811577456ec">
+    <h2 id="open_student_submission" class="step-title screensteps-heading">Open Student Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/390/483/original/9caefbe1-1db3-4319-8727-30d772715da6.png" srcset="" alt="Open Student Submission" height="387" width="357">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AABB60-22E2-0135-78D0-22000B5A851D" class="text-block-content">
+    <p>Use the <a href="/t5/Instructor-Guide/How-do-I-use-the-student-list-to-view-student-submissions-in/ta-p/770" target="_blank">student list</a> to locate a student submission.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speech_recognition" data-step-uuid="B965BEA8-07F9-4EBD-B0A0-86EC44DEC02A">
+    <h2 id="open_speech_recognition" class="step-title screensteps-heading">Open Speech Recognition</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/390/486/original/12d587c7-ec58-483c-9a8a-450561e2c672.png" srcset="" alt="Open Speech Recognition" height="287" width="365">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AAEF20-22E2-0135-78D2-22000B5A851D" class="text-block-content">
+    <p>In the Assignment Comments area, click the <strong>Speech Recognition </strong>comment icon.</p>
+<p><strong>Note:</strong> If the assignment is supported by Assignment Enhancements, the Assignment Comments section may display as Comments for this Attempt.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="record_comment" data-step-uuid="E27AACB0-6035-4BEA-B68D-6BB9A7B4339A">
+    <h2 id="record_comment" class="step-title screensteps-heading">Record Comment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/405/original/8eb7e062-6344-40fd-a432-15f2ea8cc7d1.png" srcset="" alt="Record Comment" height="295" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AB2290-22E2-0135-78D4-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Record </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/777/402/original/76bc6891-bdfa-4c6b-9eed-868405b9e3ec.png" srcset="" alt="View Speech-to-Text Dialog Box" height="297" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AB59B0-22E2-0135-78D6-22000B5A851D" class="text-block-content">
+    <p>The dialog box indicates that the feature is recording your comments, and text box will convert your speech to text in real time [1]. </p>
+<p>If you want to re-record the converted text, click the <strong>Cancel</strong> button [2]. Otherwise, apply the recorded text in SpeedGrader by clicking the <strong>Stop </strong>button [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit_comment" data-step-uuid="8ED1D087-8B38-48D4-A0C7-376B0575236B">
+    <h2 id="submit_comment" class="step-title screensteps-heading">Submit Comment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/390/491/original/1cc0652d-9c7d-4f4a-82b4-17da3502027c.png" srcset="" alt="Submit Comment" height="276" width="372">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AB9050-22E2-0135-78D8-22000B5A851D" class="text-block-content">
+    <p>If necessary, modify your text in the comment box. Then click the <strong>Submit </strong>button.</p>
+<p>Learn more about <a href="/t5/Instructor-Guide/How-do-I-leave-feedback-comments-for-student-submissions-in/ta-p/764" target="_blank">leaving feedback comments in SpeedGrader</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

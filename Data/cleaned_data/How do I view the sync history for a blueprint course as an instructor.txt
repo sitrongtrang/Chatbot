@@ -1,0 +1,19 @@
+How do I view the sync history for a blueprint course as an instructor
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open Sync History
+In the Course Home Page, click the Blueprint sidebar tab, then click the Sync History link.
+Note: You can access the Blueprint sidebar from any Course Navigation page.
+View Sync History
+The Sync History page shows information about the last five syncs to the blueprint course. The page displays the date and time of the sync, the number of changes, and the name of the user who synced the changes. 
+If a message was included as part of the notification, the message is displayed above the list of synced changes.
+For a course association made by an admin, sync history will show the date and time the sync was made but no details will be included related to the sync.
+View Sync Details
+The Sync History page shows the specific content that has been synced. Each content object shows the synced status of the object (locked or unlocked), the name of the content item, the content object type, the content change, and whether or not the sync was applied. 
+Content changes can be created, updated, or deleted. Updated changes indicate any change to existing content.
+View Sync Exceptions
+The Sync History page may show items with a sync exception. Exceptions occur when content is not synced because the content was modified in an associated course before the blueprint course was synced.
+An exception is noted by the Exception indicator, which includes the number of exceptions.
+To view which course(s) had an exception, click the arrow icon next to the name of the content item. The expanded details show the term and the name of the course.
+Close Sync History
+When you are finished viewing the Sync History page, click the Done button.

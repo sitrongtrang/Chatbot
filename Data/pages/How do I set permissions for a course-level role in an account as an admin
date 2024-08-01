@@ -1,0 +1,181 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3B5B3070-1D61-0135-4558-22000B5A851D" class="text-block-content">
+    <p>After you have <a href="/t5/Admin-Guide/How-do-I-add-a-course-level-role-in-the-Permissions-page/ta-p/178" target="_blank">created a course-level role</a>, you can review the default permissions set by each course-level role. Permissions grant or deny access to specific features within a course and are applied to any user granted a specific course-level role. Users are added to a course role when they are manually enrolled in the course or via SIS import.</p>
+<p>Depending on the role, you may want to override the defaults to create custom permissions.</p>
+<p>To learn more about course permissions, view the <a href="http://bit.ly/cnvs-course-permissions" target="_blank" rel="nofollow noopener noreferrer">Course Permissions resource document</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>When you change a permission, it can sometimes take 30 minutes or longer for that permission to take effect. If the expected changes do not appear immediately, try again after some time has passed.</li>
+<li>Child consortium accounts inherit roles and permissions from the parent account. Child accounts can edit any unlocked roles and permissions.  </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="785c0990-baa9-42cb-bcaf-ff314e262c65">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B5C4DE0-1D61-0135-455A-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_permissions" data-step-uuid="03642BFE-7329-440A-9687-376C973F90D2">
+    <h2 id="open_permissions" class="step-title screensteps-heading">Open Permissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/528/original/3490fe5a-0ab9-48e3-af66-3e5b43ba8c87.png" srcset="" alt="Open Permissions" height="300" width="180">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B5CA330-1D61-0135-455C-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Permissions </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_permissions" data-step-uuid="B4FB489F-41E8-4FE9-A747-A5163AA74A41">
+    <h2 id="set_permissions" class="step-title screensteps-heading">Manage Permissions</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/514/693/original/7d93c147-fc79-4c14-ab6f-78ae95546cbc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/514/693/medium/7d93c147-fc79-4c14-ab6f-78ae95546cbc.png" srcset="" alt="Manage Permissions" height="453" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B5D1050-1D61-0135-4560-22000B5A851D" class="text-block-content">
+    <p>In the Course Roles tab, locate the name of the user role [1]. Click the icon next to the name of a permission [2]. In the permission menu [3], the existing permission is indicated by a check mark.</p>
+<p>Choose the new permission status by clicking one of the permission options: Enable or Disable. After you enable or disable the permission, you can choose to lock the permission status. To lock the permission status, click the <strong>Lock</strong> option [4]. Locked options keep the setting from being changed by subaccount admins in a lower account. The new permission status is saved automatically.</p>
+<p><strong>Note</strong>: If a permission icon does not display as opaque, you cannot change the permission [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-grouped-permissions" data-step-uuid="12c71045-56c7-4707-8169-0294cd008ce7">
+    <h3 id="view-grouped-permissions" class="step-title screensteps-heading">View Grouped Permissions</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/946/690/original/a4fa61e7-ec75-4454-83b4-c358451b46f1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/946/690/medium/a4fa61e7-ec75-4454-83b4-c358451b46f1.png" srcset="" alt="View Grouped Permissions" height="203" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_71264e36-7d8d-446b-b0a6-be9632094a28" class="text-block-content">
+    <p>Some permissions may be grouped together to allow for greater granularity and control over permissions.</p>
+<p>Grouped permissions list the grouped permissions below the grouped permission name [1].</p>
+<p>To expand grouped permissions, click the expand icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage-grouped-permissions" data-step-uuid="f3312ab5-01ac-48b7-9ef6-774003ff3632">
+    <h3 id="manage-grouped-permissions" class="step-title screensteps-heading">Manage Grouped Permissions</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/481/289/original/c787f707-8b7e-4e90-a2ce-9a776c397353.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/481/289/medium/c787f707-8b7e-4e90-a2ce-9a776c397353.png" srcset="" alt="Manage Grouped Permissions" height="265" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2e745b5d-aa79-46f9-a806-e5e5f0d3c1dc" class="text-block-content">
+    <p>You can manage each granular permission within the group with the corresponding checkboxes. To enable or disable a granular permission, click the checkbox [1]. A checked box indicates the permission is enabled [2]. An unchecked box indicates the permission is disabled [3].</p>
+<p>If all permissions are enabled for a user role, the permission group displays a checkmark icon [4].</p>
+<p>If some permissions are enabled and some are disabled for a user role, the permission group displays a half-filled icon [5].</p>
+<p>If all permissions are disabled for a user role, the permission group displays an X icon [6].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-individual-user-role-permissions" data-step-uuid="6ff104ac-ce98-4543-92c7-cc829a2ef320">
+    <h2 id="view-individual-user-role-permissions" class="step-title screensteps-heading">View User Role Permissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/514/696/original/29322c81-6142-4e02-8f6e-567a773a85a5.png" srcset="" alt="View User Role Permissions" height="708" width="559">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9796bc6d-a92f-4501-b162-7a77b152f9e1" class="text-block-content">
+    <p>To view permissions for an individual user role, click the role name [1]. </p>
+<p>In the sidebar, you can view the role name [2]. If the user role is a custom role, you can also view the base role.</p>
+<p>The sidebar also displays the time or date that permissions for the user role were last changed [3], and the user's assigned and unassigned permissions [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage-individual-user-role-permissions" data-step-uuid="f42ea177-e994-4800-a461-b54877cfae31">
+    <h3 id="manage-individual-user-role-permissions" class="step-title screensteps-heading">Manage User Role Permissions</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/481/293/original/8f840d46-9059-4e8c-9cc0-4c3fcc7b9717.png" srcset="" alt="Manage User Role Permissions" height="568" width="332">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fc279990-072d-4f9e-aa56-985b339157ca" class="text-block-content">
+    <p>To manage user permissions from the sidebar, Click the icon next to the name of a permission [1]. In the permission menu [2], the existing permission is indicated by a check mark.</p>
+<p>Choose the new permission by clicking one of the permission options: Enable, Enable and Lock, Disable, Disable and Lock, and Use Default. Locked options keep the setting from being changed by subaccount admins in a lower account. The new permission status is saved automatically.</p>
+<p><strong>Note:</strong> If a permission icon does not display as opaque, you cannot change the permission.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit-user-role" data-step-uuid="b10e9fa6-550f-4403-9ef0-7ddd19a65f86">
+    <h3 id="edit-user-role" class="step-title screensteps-heading">Edit User Role</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/481/295/original/0461e3b0-7fa3-468a-88fa-1f51408ef555.png" srcset="" alt="Edit User Role" height="341" width="304">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5c134b4f-6373-48f9-a922-f573f9bdf655" class="text-block-content">
+    <p>If you have created a custom user role, you can edit the name of the user role if needed by clicking the <strong>Edit</strong> icon [1]. Edit the name of the user role [2], then click the <strong>Back </strong>arrow [3]. </p>
+<p><strong>Note:</strong> Base roles cannot be edited.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="delete-user-role" data-step-uuid="8faf413c-e6de-4bfc-af0b-60bd65fc2821">
+    <h3 id="delete-user-role" class="step-title screensteps-heading">Delete User Role</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/481/298/original/512b5e79-ffac-491a-9edc-75a2255805a1.png" srcset="" alt="Edit User Role" height="446" width="305">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9976b7a2-6e28-44ff-a92f-ee37ae585d6c" class="text-block-content">
+    <p>If you have created a custom role, you can delete the user role by clicking the <strong>Delete</strong> icon [1]. Review the warning about user roles—any users with the role you are deleting will keep the current permissions, but no new users can be created with the user role.</p>
+<p>Deleting a user role cannot be undone.</p>
+<p>To confirm deletion of the user role, click the <strong>Ok </strong>button [2].</p>
+<p><strong>Note:</strong> Base roles cannot be deleted.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

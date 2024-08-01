@@ -1,0 +1,35 @@
+What are the limited-support guidelines for mobile browsers on tablet devices
+What is Limited Browser Support?
+Canvas engineering will reactively address critical issues with core features that affect the most recent version of the native browser on iOS and Android tablet devices in landscape mode.
+Key Terms
+Native browsers: Safari (iOS) and Chrome (Android)
+Reactive: Quality assurance teams test against each fully-supported browser before every Canvas release. For mobile browsers, Canvas responds to problems reported by Canvas users.
+Critical issue: An issue that makes an important feature or function unusable.
+Core feature: A feature needed for a key teaching and learning interaction.
+Most recent version: If theres a more recent version of the mobile browser and updating solves the problem, that solution will be suggested as the solution.
+Tablet devices: Devices with 7.9" or larger screens.
+Landscape mode: The device is held so the display is wider than its height.
+How quickly will qualifying mobile-browser issues be fixed?
+Canvas treats qualifying mobile browser issues as bugs. Engineering teams triage these bugs by severity and resolve them on the following schedule:
+Severity
+Description
+Resolution Time
+Level 1
+Users can’t access Canvas
+Resources will be assigned immediately and will work uninterrupted until the problem is solved.
+Level 2
+Users can’t use a core feature; no workaround exists
+Resources will be assigned within two hours and will work uninterrupted until the problem is solved.
+Level 3
+Users can’t use a core feature, but a workaround exists
+Resources will be assigned within two business days and will develop and deploy a fix within two full release cycles.
+Level 4
+All other issues affecting only mobile browsers
+Resources will review the problem within five business days, assessing impact, resource availability, and development priorities. A given problem may not be fixed when the impact is minor, when the affected workflow is seldom used, or when a workaround exists.
+Caveats—
+Screen size and orientation
+The Canvas web application is not fully responsive yet. Engineers are basing all new development on responsive-design best practices. This initiative will take some time to touch all parts of Canvas. In the meantime, Canvas will generally work better when viewed on a larger screen. Canvas teams may not choose to address issues that affect only devices with smaller screens or that affect larger-screen devices only when in portrait mode, even if they meet other criteria described above.
+Big Blue Button conferencing
+Screen-sharing in Canvas Conferences currently requires the Java plugin for desktop browsers. However, Big Blue Button (whose software powers Canvas Conferences) has created a mobile-friendly HTML5 version of their application for participants (primarily students). Other adjustments for additional user roles and features may be announced in future releases.
+Partners and third-party tools
+Many customers use third-party tools in Canvas, including LTI apps. Partner networks are encouraged to build tools that work well in mobile browsers, and any reported problems will be reported back to them. Some third-party tools will work better than others on mobile, and some may not work at all.

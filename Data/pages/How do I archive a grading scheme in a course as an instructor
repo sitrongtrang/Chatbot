@@ -1,0 +1,129 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2b1b0aba-470c-45c6-9e05-2bcfb613b60a" class="text-block-content">
+    <p>You can archive and unarchive and restore grading schemes. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Archived grading schemes can still be used wherever they are currently in use, but they cannot be selected for new courses or assignments.</li>
+<li>An archived grading scheme cannot be leveraged in the future by a course or assignment unless the scheme is restored.</li>
+<li>You cannot archive the Default Canvas Grading Scheme.</li>
+<li>When copying or exporting a course, archived default grading schemes are not copied or exported.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="4ee6e9fc-cfa5-4f43-b78b-b383cd84b76b">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/776/original/4397eab6-464e-4b53-9ac1-8528d54868d4.png" srcset="" alt="Open Settings" height="240" width="148">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_82499803-282e-4a1a-a4ba-bc2f8732e670" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_details" data-step-uuid="5a37aac9-cd85-4724-8710-d2d3d4594dd6">
+    <h2 id="open_course_details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/176/139/original/838f73e1-12b3-4572-9166-ec879236ee07.png" srcset="" alt="Open Course Details" height="82" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ed6d8a40-e9e4-4121-9564-6401562d9807" class="text-block-content">
+    <p>Click the <strong>Course Details</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable_grading_scheme" data-step-uuid="8b85f76f-218b-4341-9518-a05b386a2f7a">
+    <h2 id="enable_grading_scheme" class="step-title screensteps-heading">Enable Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/778/original/d0268e13-30e0-4b40-9694-e5dfa0cdc1e2.png" srcset="" alt="Enable Grading Scheme" height="165" width="579">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9dbe505e-6d48-4d0c-9fd2-40d8b544ef29" class="text-block-content">
+    <p>If the checkbox has not been selected, click the <strong>Enable course grading scheme</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_grading_schemes" data-step-uuid="965f8869-3eb1-4569-a8bc-287a5329ad6f">
+    <h2 id="manage_grading_schemes" class="step-title screensteps-heading">Manage All Grading Schemes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/780/original/3cd5868b-ffd3-469b-949f-34da166888d8.png" srcset="" alt="Manage Grading Schemes" height="174" width="416">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8be1a2c2-f2d9-479d-990e-fc0517f009ea" class="text-block-content">
+    <p>To manage the grading schemes, click the <strong>Manage All Grading Schemes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modify_grading_scheme" data-step-uuid="FAA72035-9EC7-4A14-96BF-F3E4C8C11DF5">
+    <h2 id="modify_grading_scheme" class="step-title screensteps-heading">Archive Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/260/782/original/72fb78f3-fd26-4f2b-bf2d-a7f89c40eb3d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/260/782/medium/72fb78f3-fd26-4f2b-bf2d-a7f89c40eb3d.png" srcset="" alt="Edit Grading Scheme" height="180" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A9EF862C-E899-4337-A90A-2BD829266E65" class="text-block-content">
+    <p>Click the <strong>Archive</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-archived-grading-scheme" data-step-uuid="117C6F34-3D32-47B8-86F3-86A3156AAA20">
+    <h2 id="view-archived-grading-scheme" class="step-title screensteps-heading">View Archived Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/272/613/original/2f683d05-0040-414b-89d0-e69cd27b0e5d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/272/613/medium/2f683d05-0040-414b-89d0-e69cd27b0e5d.png" srcset="" alt="View Archived Grading Scheme" height="304" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6F2F76FD-1A08-46A9-A3E0-CAE2F192A550" class="text-block-content">
+    <p>View the archived grading scheme [1]. To unarchive the grading scheme, click the <strong>Unarchived</strong> icon [2].</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Archived grading schemes can still be used wherever they are currently in use, but they cannot be selected for new courses or assignments.</li>
+<li>An archived grading scheme cannot be leveraged in the future by a course or assignment unless the scheme is restored.</li>
+<li>You cannot archive the Default Canvas Grading Scheme.</li>
+<li>When copying or exporting a course, archived default grading schemes are not copied or exported.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,23 @@
+How do I view statistics for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Statistics
+In Account Navigation, click the Statistics link.
+View General Numbers
+In the Statistics page, you can view general information about your account. 
+Generated shows when the data was last generated for your account. Data cannot be generated manually. 
+Courses indicates the number of courses that are published in the account. 
+Teachers indicates how many unique teachers have had activity within Canvas in the last 30 days. If one user is a teacher in five courses, the statistic will only count one teacher. 
+Students indicates the same statistics as teachers, but relates to students. 
+Users includes the total number of teachers, students, observers, designers, and TAs who have logged in during the last 30 days. This number does not include test students generated through Student View. 
+Uploaded File Storage indicates the amount of files stored and the number of files in all courses for the entire account. Deleted files are not included. To learn about specific file quota details, view the Course Files Quota resource document. The file storage limit is calculated with the number of full-time enrollments (FTE) in your institution (default is 500 MB/FTE). To calculate the amount of file storage used in your account, convert the Uploaded file storage number shown to MB (e.g. 1.88 GB is 1880 MB). Then take the number of full-time enrollments and multiply the MB per enrollment (e.g. 3,000 FTE x 500 MB). If the converted number is lower than the multiplied number, your institution is within your file storage limit. If the number is higher, contact your Customer Success Manager for additional storage options. You can also change the quota for all course or specific courses. 
+Media File Storage indicates the amount of media objects uploaded to active courses, such as video, audio, and music files. Media created in the Rich Content Editor are not part of media file storage.
+General numbers show the current statistics in the course; to view how a statistic has evolved over time, click the over time link. 
+View Statistics Over Time
+The statistics over time graphs show how specific data has evolved since your account was created. You can move your cursor over the data graph to view data for a specific date. You can also download the data by clicking the Download CSV link.
+View Course Statistics
+You can view recently started courses and recently ended courses in your account. To view a course, click the name of the course.
+View Users
+You can also view a list of users who have recently logged in to your account. To view details about a user, click the name of the user.
+View Account Analytics
+To view account analytics, click the View Analytics button.

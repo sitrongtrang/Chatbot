@@ -1,0 +1,36 @@
+How do I view the course access report for an individual user as an instructor
+Open People
+In Course Navigation, click the People link.
+Locate User
+In the search field, search for the name of the user. You can also filter users by role in the Roles drop-down menu.
+Open User Details
+Click the user's Options icon, then select the User Details link.
+If the user's Option icon does not display, click the user's Name.
+In the User Details Sidebar, click the user's name to open the User Details page.
+Open Access Report
+Locate the user details sidebar. Depending on the page display, click the Access Report link or button.
+View Access Report
+The access report will show you:
+The content the user has viewed.
+The number of times the user viewed the content. A view is counted each time a user navigates to the URL where the content resides or downloads an attachment.
+The number of times the user participated (if applicable, such as posting to a discussion or submitting an assignment).
+The last time the user viewed the content.
+To return to the User Details page, click the Back to User Page button.
+Note: The access report is part of a course permission. If you cannot see some of these columns in the report, you do not have access to view them.
+View Course Navigation Content Icons
+When the user clicks on links directly in Course Navigation and views an index page, icons display for the following links: 
+Course Home
+Grades
+Syllabus
+Outcomes
+Modules
+People—also displays a student name when the user views information for another student in the course 
+View Course Participation Content Icons
+When a user navigates to course content areas from Course Navigation or views named course content, the following icons display in the access report: 
+Assignments: displays next to graded and ungraded assignments. Participation is counted if the user submits an assignment.
+Discussions: displays next to discussions and announcements. Participation is counted if a user posts a reply. If the user accesses content from an announcement, such as an assignment, the Access Report displays a Discussion icon. 
+Quizzes: displays next to quizzes. Participation is counted if a user starts a quiz, even if they do not submit any answers.
+External Link: displays next to external links (LTI) such as Microsoft365 and Conferences. Participation is counted for external links such as Collaborations and Conferences, but is not counted when a user participates in Chat.
+Pages: displays next to content added as a page in the course. Participation is not recorded if a user views pages. 
+Files: displays next to views or previews of course files.Participation is not recorded if a user views files. 
+Note: The Access Report does not display a specific icon for groups. If a user accesses content from a group, such as a discussion or an assignment, the action is labeled with the appropriate content icon. 

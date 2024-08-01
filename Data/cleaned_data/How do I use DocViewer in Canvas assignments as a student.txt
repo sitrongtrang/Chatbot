@@ -1,0 +1,73 @@
+How do I use DocViewer in Canvas assignments as a student
+View DocViewer
+To access DocViewer, view feedback from your instructor or peer review feedback on the assignment details page. The View Feedback link displays an indicator if annotated comments have been added to a supported assignment.
+View DocViewer Toolbar
+The DocViewer Toolbar helps you manage the assignment submission.
+To download a PDF of the annotated submission, click the Download button.
+If there are multiple pages, the Page number field will let you advance through the submission to find the page you want to annotate. To go to another page, enter the page number in the Page field. You can also use the arrow icons to advance through the submission.
+To zoom in and out on the submission, use the Zoom buttons.
+To view the submission in full screen, click the Full Screen button.
+To annotate the submission, use the annotation tools.
+Note: If you cannot use the annotation tools in DocViewer, your institution may have restricted this feature.
+Add Point Annotation
+To leave a point annotation, select the Pointannotation type.
+Select the color for the point annotation in the color panel.
+Click the desired area of the submission. The point annotation icon will appear indicating the location of the annotation. To add a comment to the point annotation, type the comment in the Comment field. To start a new line in your comment, press the Shift+Enter/Return keys. To submit your comment, press the Enter/Return key.
+You can reply to DocViewer comments by clicking the Reply button.
+To move the annotation, hover over the point annotation icon in the document. Click and drag the annotation to the new area.
+To delete a point annotation and its comments, click the annotation and then click the Delete icon. DocViewer will confirm you want to delete the annotation. 
+To delete a point annotation comment and its replies, click the comment Delete icon. DocViewer will confirm you want to delete the annotation comment and its replies. 
+Add Highlight Annotation
+To highlight text within the document, select the Highlight annotation type. 
+Select the color for the highlight annotation in the color panel.
+Click and drag to highlight text within the submission.
+To add a comment to the highlight annotation, click the Comment button. To start a new line in your comment, press the Shift+Enter/Return keys. To submit your comment, press the Enter/Return key.
+To delete a highlight annotation, click the highlighted area and then click the Delete icon. DocViewer will confirm you want to delete the highlight. Deleting an annotation will also delete any associated comments.
+Add Text Annotation
+To add text directly in the submission, select the Free text annotation type. 
+Select the color for the text annotation in the color panel.
+Select a white or transparent background for the text annotation as well as the font size for the annotation.
+Click in the desired area of the submission, then type your entry. To start a new line in your comment, press the Shift+Enter/Return keys.
+To move the annotation, hover over the text box in the document. Click and drag the annotation to the new area.
+To delete the text annotation, click the text box and then click the Delete icon. DocViewer will confirm you want to delete the text box.
+Add Strikeout Text Annotation
+To indicate that text should be deleted, select the Strikeout annotation type. 
+Select the color for the strikeout line in the color panel.
+Click and drag to strike out within the submission. A line will appear indicating the text has been struck out. 
+To add a comment to the strikeout annotation, click the Comment button. To start a new line in your comment, press the Shift+Enter/Return keys. To submit your comment, press the Enter/Return key.
+To delete a strikeout annotation, click the strikeout area and then click the Delete icon. DocViewer will confirm you want to delete the strikeout line. Deleting an annotation will also delete any associated comments.
+Add Draw Annotation
+To make freehand drawings and annotations, select the Free Draw annotation type. 
+Select the color for the drawn annotation in the color panel.
+Select your annotation line width from the line width panel.
+Click and drag to start a drawing. Free-form lines will appear indicating the drawing area. You can add multiple strokes to a drawn annotation. 
+To add a comment to your drawn annotation, click the Comment button. To start a new line in your comment, press the Shift+Enter/Return keys. To submit your comment, press the Enter/Return key. 
+To accept the drawn annotation, click the Check icon.
+To move a drawing, hover over the outline of the drawing, then drag and drop the drawing to the new area of the document. 
+To delete a drawing at any time, click the drawing and then click the Delete icon. DocViewer will confirm you want to delete the drawing. Deleting an annotation also deletes any associated comments.
+Note: Draw annotations can only have one line width per annotation. Individual annotations must be saved before creating a new line with a different width.
+Add Area Annotation
+To leave an area annotation, select the Areaannotation type.
+Select the color for the area annotation in the color panel.
+Click and drag the rectangle around an area of the submission. A box will appear indicating the area for the annotation.
+To add a comment to the area annotation, type the comment in the Comment field. To start a new line in your comment, press the Shift+Enter/Return keys. To submit your comment, press the Enter/Return key.
+You can reply to DocViewer comments by clicking the Reply button.
+To move the annotation, hover over the border. Click and drag the annotation to the new area of the document.
+To delete an area annotation, click the annotation and then click the Delete icon. DocViewer will confirm you want to delete the comment. Deleting an annotation will also delete any associated comments.
+To delete an area annotation comment and its replies, click the comment Delete icon. DocViewer will confirm you want to delete the annotation comment and its replies. 
+View Comments
+Individual comments include an icon that displays the type and color of the annotation. The annotation icon displays next to the commenter's name and only displays in the primary comment for an annotation. Replies to a comment do not include the icon.
+Instructors may leave additional comments or reply to your comments. When an annotated comment includes more than five content lines, the content box displays an ellipses link. To expand a comment, click the ellipses link. If a comment includes multiple replies, all replies will be expanded.
+Comments with replies are stacked. When you click on a comment, all replies are expanded in the group. The number of stacked replies is indicated below the first comment.
+Comments remain on the page where the annotation was made. If there are too many comments to display on a single page, the comment section becomes scrollable and some comments are hidden. An indicator shows how many comments have been hidden.
+You can delete your comments by clicking the Delete icon.
+View Anonymous Instructor Comments
+If your instructor has enabled Anonymous Instructor Annotations, annotations and comments on your submission will not display the name of the instructor or grader.
+View Other User Annotations
+When another user adds an annotation within a document, you can view the author of the annotation by clicking the annotation.
+You can also leave a comment on any annotation created by other users.
+View Deleted Items
+Your instructor can delete any comment or annotation at any time. If a comment or annotation is deleted, the deleted item displays in the sidebar. You can view the name of the user who made the deletion and the date of the deletion. Items can only be deleted by instructors or admins. 
+If multiple comments or annotations are deleted, including comment replies with the same comment thread, each comment or annotation will include its own heading information about the deletion.
+To permanently remove the deleted item, click the Remove icon.
+Note: Permanently deleted items cannot be recovered.

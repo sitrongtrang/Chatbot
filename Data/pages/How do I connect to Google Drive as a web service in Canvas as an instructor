@@ -1,0 +1,114 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_CEBCB250-22E3-0135-9F5B-22000AB760A3" class="text-block-content">
+    <p>The Google Drive web service allows you to integrate Canvas with your Google Drive account. All users can authorize their Google Drive accounts for access to Google collaborations. </p>
+<p>If you need to create a new Google Drive account, please note that you may experience a delay with the Google integration in Canvas until Google has fully completed the account process.</p>
+<p><strong>Note</strong>: For any of your courses, if the Course Navigation Menu includes a Google Drive link, your institution has enabled a global Google Drive integration. You do not need to enable Google Drive as a web service. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_settings" data-step-uuid="5a0783e0-c8f8-47c6-8c64-dcdc85785e9f">
+    <h2 id="open_user_settings" class="step-title screensteps-heading">Open User Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/376/660/original/5d9b87b1-1b09-42a2-8d3d-eea636f5773e.png" srcset="" alt="Open User Settings" height="607" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEBCEBF0-22E3-0135-9F5D-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Account</strong> link [1], then click the <strong>Settings</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="register_google_drive" data-step-uuid="65E50C09-D25D-48AD-9D25-E4515A396F67">
+    <h2 id="register_google_drive" class="step-title screensteps-heading">Register Google Drive</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/035/793/original/6dadecc9-a9bf-426d-8df9-f575aa3b3510.png" srcset="" alt="Register Google Drive" height="200" width="286">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEBD1D40-22E3-0135-9F5F-22000AB760A3" class="text-block-content">
+    <p>In Web Services, click the <strong>Google Drive </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="authorize_google_drive" data-step-uuid="A3C97DE1-1385-4CD8-97BB-E560647422B2">
+    <h2 id="authorize_google_drive" class="step-title screensteps-heading">Authorize Google Drive</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/035/795/original/91f60a24-c81f-414c-8394-dd0d90fba61d.png" srcset="" alt="Authorize Google Drive" height="240" width="357">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEBD4C70-22E3-0135-9F61-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Authorize Google Drive Access</strong> button. You will be re-directed to Google to verify the authorization.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose-account" data-step-uuid="7a1ef8ca-1310-4110-b310-d0c899b88c78">
+    <h2 id="choose-account" class="step-title screensteps-heading">Choose Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/035/982/original/2767d16b-dd2c-4c4b-a4f7-ec6514eb8fc1.png" srcset="" alt="Choose Account" height="531" width="478">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b011cd7d-04c4-4694-89e7-e856097105fb" class="text-block-content">
+    <p>Click the account you want to authorize.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="allow_authorization" data-step-uuid="438FFDB4-E29D-45AC-9066-A0C609EA6035">
+    <h2 id="allow_authorization" class="step-title screensteps-heading">Allow Authorization</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/035/798/original/917f84b4-4519-441d-ad83-bd98ad1f8dad.png" srcset="" alt="Allow Authorization" height="731" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEBD8000-22E3-0135-9F63-22000AB760A3" class="text-block-content">
+    <p>Canvas will ask permission to view and manage the files in your Google Drive account. Click the <strong>Allow </strong>button.</p>
+<p><strong>Note:</strong> You may be asked to log in to your Google account before viewing this page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_registered_services" data-step-uuid="f244e1ac-9fac-4336-b17e-01567b71ac89">
+    <h2 id="view_registered_services" class="step-title screensteps-heading">View Registered Services</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/035/802/original/40c6f7f9-e138-4e90-b293-24a022802855.png" srcset="" alt="View Registered Services" height="156" width="744">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEBDB1A0-22E3-0135-9F65-22000AB760A3" class="text-block-content">
+    <p>View Google Drive as a registered service in your Canvas account. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

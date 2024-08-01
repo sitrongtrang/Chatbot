@@ -1,0 +1,140 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1BC99150-09A2-0135-1540-22000AB760A3" class="text-block-content">
+    <p>If your institution is using a student information system (SIS) for grading purposes, you can set up a quiz to be sent back to the SIS. However, you must first specify which quiz(zes) in the course should be sent to your SIS as part of the grade publishing process. Each quiz must be modified individually. However, your institution may have already enabled an option for all quizzes to be configured for your SIS.</p>
+<p>Quizzes configured to sync to your SIS display a Sync to SIS icon in the <a href="/t5/Instructor-Guide/How-do-I-use-the-Assignments-Index-Page/ta-p/777" target="_blank">Assignments Index Page</a> and <a href="/t5/Instructor-Guide/How-do-I-use-the-Quizzes-Index-Page/ta-p/1104" target="_blank">Quizzes Index Page</a>. You can click the icon to turn SIS sync on or off for an individual quiz. </p>
+<p>Each SIS requires specific setup procedures to properly post grades for quizzes. Depending on how quizzes are assigned to students, <strong>some</strong> <strong>quizzes may not be supported</strong>.</p>
+<p><strong>Note: </strong>If your institution has configured an integration between Canvas and your SIS, you may be able to find guides specific to your SIS in the <a href="https://community.canvaslms.com/t5/Student-Information-Systems-SIS/ct-p/sis_guides" target="_blank">Instructure Community SIS Guides</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="ec2bf090-da7c-4e4a-b1d6-964bf8cc07da">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/821/original/a7bd1909-d4b8-4ff8-aa97-c5df6522a433.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1BC9CB30-09A2-0135-1542-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_quiz" data-step-uuid="1b3680af-eb6c-4cb8-8f25-02e81094bbcf">
+    <h2 id="add_quiz" class="step-title screensteps-heading">Add Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/248/175/original/96970267-4feb-4c22-b507-6b07dc8ab299.png" srcset="" alt="Add Quiz" height="74" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1BC9FFA0-09A2-0135-1544-22000AB760A3" class="text-block-content">
+    <p>To add a new quiz, click the <strong>Add Quiz</strong> button. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-classic-quiz" data-step-uuid="761130fd-3890-408f-86ed-5a4e7a01cd54">
+    <h3 id="add-classic-quiz" class="step-title screensteps-heading">Select Quiz Engine</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/787/659/original/3d036bd0-b715-4af6-8a24-ff4531e7ce2a.png" srcset="" alt="Select Quiz Engine" height="531" width="477">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_296705d1-c71f-4712-bc32-85562cd587d4" class="text-block-content">
+    <p>If your course has New Quizzes enabled, you must select a quiz engine.</p>
+<p>To create a quiz with New Quizzes, click the <strong>New Quizzes</strong> option [1].</p>
+<p>To create a classic quiz, click the <strong>Classic Quizzes</strong> option [2].</p>
+<p>Then click the <strong>Submit</strong> button [3].</p>
+<p><strong>Note:</strong> Learn more about <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz using New Quizzes</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_quiz" data-step-uuid="6dc5ddb1-4d10-4e46-bac4-e7d7a119251f">
+    <h2 id="edit_quiz" class="step-title screensteps-heading">Edit Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/253/516/original/158d1f20-6f3a-4445-9e97-69f1c4da1f37.png" srcset="" alt="Edit Quiz" height="264" width="777">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1BCA3260-09A2-0135-1546-22000AB760A3" class="text-block-content">
+    <p>To set up a quiz that has already been created, locate the quiz [1], click the <strong>Options </strong>icon [2] and select the <strong>Edit </strong>option [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sync_to_sis" data-step-uuid="10d4a27b-6ea8-4d35-87ab-0751b81319c2">
+    <h2 id="sync_to_sis" class="step-title screensteps-heading">Sync to SIS</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/661/original/7a06acde-7313-401b-aa11-8e0d960813f7.png" srcset="" alt="Sync to SIS" height="178" width="378">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1BCA6D90-09A2-0135-1548-22000AB760A3" class="text-block-content">
+    <p>In the quiz options, click the <strong>Sync to [SIS] </strong>checkbox. </p>
+<p>The [SIS] label may display the name of your institution's SIS.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_quiz" data-step-uuid="929ce539-ffef-4caa-9d89-100f91f33e83">
+    <h2 id="save_quiz" class="step-title screensteps-heading">Save Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/655/original/6f603269-9e04-4fac-94a1-11c060c299ec.png" srcset="" alt="Save Quiz" height="75" width="189">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1BCA9F80-09A2-0135-154A-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+<p><strong>Note</strong>: For new quizzes, you can click the <strong>Save &amp; Publish</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_quiz_errors" data-step-uuid="6a5f1e74-1b3e-4601-b86e-fba8114270da">
+    <h2 id="view_quiz_errors" class="step-title screensteps-heading">View Quiz Errors</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/810/original/24e23752-4d77-4e3e-9950-cbc7099ed2af.png" srcset="" alt="View Quiz Errors" height="362" width="488">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_aa43e4c7-3863-4c47-ae10-e7649de5ded8" class="text-block-content">
+    <p>How do I set up a quiz to be sent to my institution's student information system (SIS)?</p>
+  </div>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0b610148-804f-4bf5-b414-d467fc6fd58b" class="text-block-content">
+    <p>If you cannot save your quiz and you receive an error message, your institution may limit assignment names and/or require due dates. The error will show which requirement needs to be resolved before the quiz can be enabled to be synced to your SIS. Correct the error then save the quiz again.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

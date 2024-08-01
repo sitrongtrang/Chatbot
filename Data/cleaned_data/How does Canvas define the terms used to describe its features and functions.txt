@@ -1,0 +1,184 @@
+How does Canvas define the terms used to describe its features and functions
+Account
+An Account represents an administrative organization unit within Canvas. Every instance of Canvas has the potential to contain a hierarchy of accounts but begins with just one account (referred to as the root account). An account can also contain a subaccount. Canvas admins can manage all accounts and subaccounts for their institutions.
+Account also refers to a user account, which houses a user's profile, notifications, files, settings, and ePortfolios.
+Act as User
+Act as User refers to viewing Canvas as another user. Unless granted specific permission, only admins can act as other Canvas users.
+Activity Stream
+An Activity Stream displays all recent activity in Canvas. There are two types of Activity Streams in Canvas: Global and Course. The Global Activity Stream is part of the Dashboard and shows recent activity for all courses. The Course Activity Stream is part of a Course Home Page and shows recent activity for a specific course. 
+Analytics
+Analytics is a tool that can be used to evaluate individual components of a course as well as student performance. Canvas currently offers two options for Analytics: Classic Analytics and New Analytics.
+Learn more about New Analytics and Classic Analytics.
+Announcements
+Announcements is a communication tool that allows instructors to post announcements for all users in a course. Announcements can be created in courses and groups. Canvas admins can also make announcements for an entire Canvas account. Instructors can allow students to reply to announcements. 
+Learn more about Announcements.
+Assignments
+An assignment is any activity assessment that is created by the instructor. Assignments can include Assignments, Discussions, and Quizzes. Some assignments are submitted for no grade. Other assignments may be submitted offline but tracked in the Canvas Gradebook or be submitted online. 
+Assignments is a link in Course Navigation. The Assignments page lists all assignment types in a course.
+Learn more about Assignments.
+Beta
+Beta means a version of a product that is used for testing. Each Canvas account has a beta environment to use for exploring new features before they are released in the production environment. Canvas does not require customers to test products but feedback is always welcome.
+Blueprint Course
+A Blueprint Course is a course that serves as a template for other courses. A course is set as a Blueprint Course in Course Settings. Courses that are linked to the Blueprint Course are called associated courses. When a Blueprint Course is synced, Blueprint Course content is copied to associated courses to match the Blueprint Course content. A Blueprint Course can include admin and instructor enrollments but not student enrollments. A course can only be associated with one Blueprint Course at a time.
+Breadcrumbs
+Breadcrumbs are the trail at the top of a page window that helps users see what page they are viewing in the course hierarchy.
+Calendar
+The Calendar is a communication tool that shows users all events and assignments in their courses and groups. 
+The Calendar is a link in Global Navigation. Learn more about the Calendar.
+Canvas Community 
+The Canvas Community is an external resource provided by Canvas for all Canvas customers. The Canvas Community includes the Canvas Guides, which provides all Canvas documentation and videos, idea conversations, community groups, and more. 
+Celebrations
+Celebrations are animations that display in the Canvas interface to congratulate a user for completing a task. Once they are enabled at the account level, celebration animations can be managed by individual users from the User Settings page.
+Students can view celebration animations in the assignment submissions page for on-time submissions. Instructors can view celebration animations when they run the link validator and no invalid links are found.
+Chat
+The Chat tool provides synchronous video, audio, and text communication between students enrolled in a course. 
+When added to a course, Chat is a link in Course Navigation. 
+Collaborations
+Collaborations is a tool that allows students and instructors to create and edit documents that can be edited by the entire course or any subset of the course roster.
+Collaborations is a link in Course Navigation.
+Conferences
+Conferences allow instructors to create virtual classrooms and interact with their students in real time using audio, video, desktop sharing, and presentation tools. Students can also create conferences in groups. 
+Conferences is a link in Course Navigation. Learn more about Conferences.
+Course Code
+The course code is a short name for a course. The course code is displayed at the top of the Course Navigation Menu and as part of course cards in the dashboard.
+The course code is also known as the reference code or the short name.
+Courses
+Courses are units of instruction in one subject that typically last one term. Courses can be created by Canvas admins or instructors.
+Course Home Page
+The Course Home Page is the first page that students see in a course. The Course Home Page can be customized to display content based on an instructor's preference.
+The Home Page is a link in Course Navigation. 
+Course Import Tool
+The Course Import Tool allows content to be imported from existing Canvas courses and content packages from other LMS and textbook publishers. The Course Import Tool is located in Course Settings. 
+Learn more about the Course Import Tool.
+Course Navigation
+Course Navigation is a menu on the left side of a Canvas course. Course Navigation consists of navigation links directed to all the feature areas within a course. Instructors can customize Course Navigation for each course.
+Course Setup Checklist
+The Course Setup Checklist is a tool for instructors who are new to Canvas and need help setting up a Canvas course. The Course Setup Checklist is located on the Course Home Page.
+Some accounts may be configured to use the New User Tutorial instead of the Course Setup Checklist.
+Course Statistics
+Course Statistics are an instructor tool that summarizes overall student participation in the course. 
+Course Status
+Course Status refers to the state of a Canvas course. All new Canvas courses begin in an unpublished state, where admins can manage course enrollments and instructors can prepare content and assignments for students. A published state means the course is available to students. A concluded state means the course has ended and users can access content in a read-only format.
+CSV File
+A comma separated value (CSV) file is a file type designed for importing and exporting content. Instructors can create a CSV file from Excel or Google Docs.
+Dashboard
+The Dashboard is a panel of content that acts as the Canvas default landing page and provides an overview of all Canvas activity for a user. The Dashboard shows all courses and groups, recent activity, to-do items, upcoming assignments, and recent feedback.
+Direct Share
+Direct Share is a Canvas feature that allows instructors to copy content to another course or share content with another user. Direct Share can be used in Assignments, Discussions, Modules, Pages, Quizzes, and New Quizzes.
+Discussions
+Discussions is a forum designed to facilitiate informal communication between students in a course. Discussions can also be created as assignments for grading purposes. Students can also respond to informal and graded discussions in the context of a group. All Discussions content is public, and all course students can view and reply to a discussion. 
+Discussions is a link in Course Navigation. Learn more about Discussions.
+DocViewer
+Canvas DocViewer is a document preview tool that displays file previews for supported file types. Some file types may need to be downloaded for viewing if they cannot be previewed through DocViewer.
+DocViewer also allows annotations in online assignment submissions in Canvas. This tool can be used by both students and instructors. Students can access DocViewer for annotations and comments in the assignment details page, and instructors can access DocViewer in SpeedGrader. 
+ePortfolios
+ePortfolios allow students to showcase their best work to colleagues and prospective employers. They also make it possible for students to create light-weight websites or presentations.
+ePortfolios is a link in User Navigation. 
+Equations
+Equations are an expression of mathematical functions that can be entered and viewed in various areas of the Canvas interface. Equations can be added using the Math Editor in the New Rich Content Editor or MathQuil in New Quizzes. Equations are also accepted in other Canvas text fields, including assignment titles and calendar events.
+Files
+Canvas provides a file repository for each user, group, and course. Files can be public or private.
+Files is a link in User Navigation or Course Navigation. Learn more about Files.
+Free for Teacher
+Free for Teacher is a free Canvas account that provides essential functionality of the learning management platform.
+Learn more about Free-for-Teacher accounts.
+Global Navigation
+Global Navigation is the menu that appears on every Canvas page. Global Navigation consists of navigation links that direct users to frequently-used features in Canvas. 
+In the New Canvas User Interface (UI), Global Navigation is located on the left of every Canvas page.
+Gradebook
+The Gradebook stores information about student progress in Canvas. Canvas includes two types of gradebooks: a standard gradebook that provides a collection of numerical or letter-grade assessments, and a Learning Mastery Gradebook that compiles assessments based on learning standards and outcomes. 
+The Gradebook is a link in Course Navigation for instructors. Learn more about the Gradebook.
+Grades
+Grades are a measurement of student performance. Students can calculate hypothetical grades on this page. Instructors can quickly edit grades for any course or section in the Gradebook.
+Grades is a link in Course Navigation for students. 
+Groups
+Groups is a tool that helps instructors separate students into smaller course units. Groups can be created for students or by students to enable efficient collaboration.
+Groups is a link in the Global Navigation Menu. Learn more about Groups.
+Help
+The Help feature is part of Global Navigation and helps users get help in Canvas at any time. The Help link can be customized by a Canvas admin for the institution and may display as a different name.
+Inbox
+The Inbox is a messaging tool used in Canvas to communicate with a course, a group, an individual student, or a group of students. Messages created in the Inbox can be sent to one user or multiple users.
+Inbox is a link in Course Navigation. Learn more about the Inbox.
+Learning Mastery
+Learning Mastery maintains that students must achieve a level of mastery (e.g. 90% on a knowledge test) in prerequisite knowledge before moving forward to learn subsequent information. Learning mastery is commonly measured through outcomes.
+The Learning Mastery Gradebook helps instructors and admins assess the outcome standards being used in Canvas courses. This gradebook helps institutions measure student learning for accreditation and better assess the needs of their students. Individual student scores within each outcome are based on outcome values.
+MasteryPaths
+MasteryPaths is a feature enabled through Modules that supports learning mastery. If students do not achieve mastery for an assignment, they are given additional support in learning and reviewing the information, then tested again. This cycle will continue until learners accomplishes mastery and may move to the next stage.
+Math Editor
+The Math Editor is a Latex-compatible toolbar in the Rich Content Editor that makes it easy for instructors to write math expressions and equations. Instructors and students can use the Math Editor when creating and taking quizzes.
+Moderated Grading
+Moderated Grading allows multiple reviewers to grade student submissions and create draft or provisional grades. For instance, an instructor may want two TAs to grade all assignments before the instructor determines the final grade.
+Modules
+Modules is a tool that can unify all course content into structural components. Module content can be grouped by week, topic, or day. Modules can be set up to require students to complete materials in a sequential fashion.
+Modules is a link in Course Navigation. Learn more about Modules.
+New User Tutorial
+The New User Tutorial shows new instructors using Canvas for the first time how to become familiar with Canvas using sidebars built into each Canvas feature area. 
+Some accounts may be configured to use the Course Setup Checklist instead of the New User Tutorial.
+Notifications
+Notifications allow users to determine where and when they will be notified about activity in Canvas. Each Canvas user can adjust the Notification Settings in their Profile to contact them via email on a schedule that fits their individual needs. Some users will want to be notified of course events on a more regular basis than others. Notifications are set for an entire user's account, not on an individual course basis. 
+Outcomes
+Outcomes are statements that describe skills, understandings, and attitudes that learners will develop during a course or program. Instructors can specify learning outcomes for their courses and track student progress based on measured standards rather than letter grades.
+Outcomes is a link in Course Navigation. Learn more about Outcomes.
+Pages
+Pages comprises all pages created in a course. A page allows instructors to create content for a Canvas course. Students can also create and edit pages in Groups. 
+Pages is a link in Course Navigation. Learn more about Pages.
+Pages Front Page
+In Pages, instructors can select a page to display as the Front Page. A Front Page is the first page that displays when users navigate to Pages in Course Navigation. When set, a Front Page can also be used as the Course Home Page.
+Pairing Codes
+Pairing codes are six-digit alphanumeric codes used to link an observer to a student. Students can generate pairing codes from their User Settings page, or instructors can generate them from a student's User Details page. Once the code is generated, observers can enter the pairing code to link to the student from their User Settings page or in the Canvas Parent app.
+People
+People displays all users enrolled in a course. Instructors can click a student's name to view a summary of their activity in a course.
+People is a link in Course Navigation.
+Posting Policies
+Posting policies is a setting in the Gradebook that designates whether newly-entered grades are visible or hidden to students by default. When grades are hidden, instructors can manually post grades at a later time. Policies can be set at the course level or assignment level.
+Learn more about posting policies.
+Production
+Production is the Canvas environment that contains all live data and where users interact with their Canvas courses. New and updated Canvas features are released into the production environment every three weeks. 
+Profile
+A profile is a description that provides information about a person. Admins can choose to enable the Profile feature, which allows users to create biographies and link to social networks as part of their user account. 
+Quizzes
+Quizzes displays all quiz assessment types in a course. Canvas currently offers to quiz engines, Classic Quizzes and New Quizzes. Classic Quizzes is the legacy quizzing tool which provides security from third-party tools, Speedgrader, or CSV exports for student response analysis. New Quizzes is an upgraded quizzing tool with an improved interface, additional question types, and advanced features for moderation and accommodation.
+Quizzes is a link in Course Navigation. Learn more about New Quizzes and Classic Quizzes.
+Rich Content Editor
+The Rich Content Editor (RCE) is a word processor that supports creation and formatting of content in Announcements, Assignments, Discussions, Pages, Syllabus, Quizzes.
+Learn more about the Rich Content Editor.
+Role
+A role describes the permissions granted to a given user in a given context (course, account, and subaccount). Canvas includes both course-level and account-level roles; the base role types are Student, Teacher Assistant (TA), Teacher, Designer, Observer, and Admin. (In Canvas terminology, teachers are also referred to as instructors.) Customized versions of any of these roles can also be created by an admin.
+RSS Feed
+Really Simple Syndicate (RSS) is a computer document format that allows electronic content distribution. Audio RSS feeds are also referred to as podcasts. RSS Feeds can be imported into a Canvas course via Announcements.
+Rubrics
+A Rubric is an assessment tool for communicating expectations of quality. Rubrics are typically comprised of rows and columns. Rows are used to define the various criteria being used to assess an assignment. Columns are used to define levels of performance for each criterion.
+Learn more about Rubrics.
+Sandbox
+A Canvas sandbox is a course without student enrollments where instructors can create, modify, and preview course content and structure without student interference. They can then share or import sandbox content into live courses. Instructors may be able to start a new course as a sandbox course from their Canvas dashboard. 
+A Canvas sandbox may also refer to an institution's beta environment where admins and instructors can enable and use upcoming Canvas features. Admins may use the Canvas beta environment to review how feature options impact users and courses in their account. Instructors may use the Canvas beta environment to test features and build course content.
+Scheduler
+Scheduler is a Calendar tool that creates appointment groups within a course or group.
+Sections
+Sections are divisions of students within a course. All course sections view the same course content.
+Settings
+Settings allow admins and instructors to customize the Account or Course Navigation, add users, import content, and link to external tools.  
+Settings is a link in Account and Course Navigation. 
+SIS ID
+A SIS ID is a unique identifier for an object in Canvas. SIS IDs can be assigned to accounts, courses, terms, sections, users, and groups for a student information system.
+SIS Imports
+SIS Imports allows admins to upload and integrate data from various Student Information Systems (SIS), complex databases, and even simple spreadsheets. Imports can be done manually via the SIS Imports link in Account Navigation or automatically via the API.
+These integrations also allow institutions to post grades from the Canvas Gradebook into the institution's SIS.
+SpeedGrader
+SpeedGrader is a grading tool that helps instructors evaluate student work. Instructors can use rubrics for fast assessment and leave text, video, and audio comments for their students. SpeedGrader is also available as a Canvas mobile app on iOS and Android devices.
+Learn more about SpeedGrader.
+Student View
+Student View is a tool used by instructors to see how their course appears to students. Activating Student View generates a Test Student that appears in a canvas course and can be used to submit assignments, reply to discussions, and upload files as a test method in the course.
+Service Cloud
+Service Cloud is the Canvas Support system. A support case is a formal request from a Canvas admin to receive help or direction from Canvas Support. Support Cases can be accessed by institutions using Service Cloud. 
+Syllabus
+The Syllabus is a piece of content that outlines activities in a course. 
+The Syllabus is a link in Course Navigation.
+Term
+A term is a period of time assigned to academic instruction. In Canvas, course dates generally align with term dates, though course dates can extend beyond or be shorter than default term dates.
+Test
+Test is the environment used for testing real data in Canvas without affecting the production environment. The test environment is overwritten with data from the production environment every third Saturday of the month.
+Web Services
+Web Services are a collection of third-party services that users can use for notifications. Web Services currently support integrations with Google Drive, Skype, Twitter, Delicious, and Diigo.
+Welcome Tour
+The Welcome tour is a series of tutorials that display in the Canvas interface for new users and provide an overview of Canvas functionality for students, instructors, and administrators.

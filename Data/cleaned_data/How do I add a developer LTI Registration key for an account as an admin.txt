@@ -1,0 +1,18 @@
+How do I add a developer LTI Registration key for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Developer Keys
+In Account Navigation, click the Developer Keys link.
+Add Registration Key
+Click the Add Developer Key button. Then click the LTI Registration option.
+Enter Registration URL
+Enter the URL in the Dynamic Registration URL field, and then click the Continue button.
+Sign in to Registration URL
+Sign into the tool and install the external tool.
+Note: This page may differ depending on the external tool being used.
+Register App
+In the LTI App Settings, admins have the ability to manage the external tool's permissions and placements. By default, all permissions and placements are activated. 
+Click the checkbox next to the permission to change permissions and click the toggle to hide a placement. 
+Click Enable & Close button to add to your account.
+View App
+View the LTI Registration key for your account.

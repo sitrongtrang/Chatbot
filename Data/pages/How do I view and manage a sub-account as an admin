@@ -1,0 +1,137 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2e79e601-c1dc-46ff-8b73-4438c3431ee4" class="text-block-content">
+    <p>As an admin, you can view and manage sub-accounts in Canvas. Sub-accounts help establish your account's hierarchical structure and house courses and enrollments. </p>
+<p>All of your institution’s sub-accounts are located within the root account. However, sub-accounts can include additional nested sub-accounts, and sub-account admins can view a list of all the sub-accounts in their account.</p>
+<p>Sub-accounts can be created and managed manually or <a href="/t5/Admin-Guide/How-do-I-import-SIS-data-to-a-Canvas-account/ta-p/98" target="_blank">via SIS</a> upload. Additionally, sub-accounts created via API or SIS upload retain the identifiers given in the original source. You can edit sub-account names to make them easier to find within Canvas.</p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/Account-Structure-Admins/ta-p/383798" target="_blank">View a video about Sub-Accounts</a>.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Sub-accounts that contain courses cannot be deleted.</li>
+<li>Each root account automatically includes a sub-account called Manually-Created Courses that manages multiple backend processes for Canvas and cannot be deleted.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="f57754e8-675f-4e70-86b3-c43cda912317">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3139d9f8-a448-43d9-b6a3-4b35e04169be" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_sub_accounts" data-step-uuid="9ba4969d-b6dc-403f-a004-ff795392b2bb">
+    <h2 id="open_sub_accounts" class="step-title screensteps-heading">Open Sub-Accounts</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/794/245/original/5be0d8af-135a-45f9-8cac-5ced76692e36.png" srcset="" alt="Open Sub-Accounts" height="299" width="167">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38f761bd-941f-4635-9d93-e5dc6386b16d" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Sub-Accounts</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sub_accounts" data-step-uuid="0f28aa88-d9ad-461e-9446-11011f896578">
+    <h2 id="view_sub_accounts" class="step-title screensteps-heading">View Sub-Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/552/749/original/c87d9d29-92f5-48df-b998-268c13718946.png" srcset="" alt="View Sub-Account" height="357" width="676">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b033d4e4-edfa-4483-86be-dbd015303b5d" class="text-block-content">
+    <p>Sub-accounts are listed in alphabetical order. To view a sub-account, click the sub-account name.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="collapse-sub-account-list" data-step-uuid="2cfc8319-2d92-4255-963f-48e34960d2cb">
+    <h3 id="collapse-sub-account-list" class="step-title screensteps-heading">Collapse and Expand Sub-Account List</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/552/753/original/e948f95c-53dc-4802-bc5a-a66caa3a9dbf.png" srcset="" alt="Collapse and Expand Sub-Account LIst" height="478" width="690">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e4fda30b-d81f-4698-9ba8-a0a94a804d8c" class="text-block-content">
+    <p>Many Canvas accounts contain multiple sub-accounts with nested sub-accounts. To more easily navigate within sub-accounts, you can collapse sub-account lists, hiding them from view. </p>
+<p>To collapse a list of sub-accounts, click the <strong>Up Arrow</strong> icon [1].</p>
+<p>To expand a list of sub-accounts that have been collapsed, click the <strong>Down Arrow</strong> icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-sub-account" data-step-uuid="29973180-8da0-40f9-806b-0d2e75d78672">
+    <h2 id="add-sub-account" class="step-title screensteps-heading">Add Sub-Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/552/747/original/d4a1a081-99b6-4351-a34a-1c454e7767ce.png" srcset="" alt="Add Sub-Account" height="364" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_703748a8-4b44-4720-9824-cab853c5db92" class="text-block-content">
+    <p>To <a href="/t5/Admin-Guide/How-do-I-create-a-sub-account/ta-p/94" target="_blank">create a sub-account</a>, click the <strong>Add </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_sub_account_name" data-step-uuid="7d99d9fa-288d-4f6a-9acd-3c82ffcdd294">
+    <h2 id="edit_sub_account_name" class="step-title screensteps-heading">Manage Sub-Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/552/741/original/063e2478-49e7-4bbb-8b8c-68f346bb5247.png" srcset="" alt="Edit Sub-Account" height="249" width="518">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_93fe9edc-2413-47a6-99e3-65cf40890e1c" class="text-block-content">
+    <p>To edit the name of a sub-account, click the Edit icon [1]. Edit the name of the sub-account by typing in the name field. To save your changes, press the Return key (on a Mac) or Enter key (on a PC) on your keyboard.</p>
+<p>To delete a sub-account, click the Delete icon [2].</p>
+<p><strong>Note: </strong>Sub-accounts that contain courses cannot be deleted.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm_deletion" data-step-uuid="00e84a61-d877-4766-ab1c-06e6bc916d52">
+    <h3 id="confirm_deletion" class="step-title screensteps-heading">Confirm Sub-Account Deletion</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/846/997/original/e82663de-3e98-49bf-8dc2-90a97d226389.png" srcset="" alt="Confirm Deletion" height="107" width="501">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24005089-3a6e-46ce-9283-786ca037fa85" class="text-block-content">
+    <p>When you delete a sub-account, a pop-up window will appear in your browser. Click the <strong>OK</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

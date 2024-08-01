@@ -1,0 +1,230 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_096AC140-AAE2-0135-1583-06467EE270FA" class="text-block-content">
+    <p>You can use the Gradebook to send messages to your students. This lesson describes how to message students using the Message Students Who option. </p>
+<p>You can also message students individually from the Gradebook by using the <a href="/t5/Instructor-Guide/How-do-I-view-a-context-card-for-a-student-in-a-course/ta-p/608" target="_blank">student context card</a>.</p>
+<p>Message recipients are filtered based on specific assignment categories:</p>
+<ul>
+<li>
+<strong>Have submitted</strong>—students who have submitted the assignment, even if they have a grade or not.</li>
+<li>
+<strong>Have not yet submitted</strong>—students who haven't submitted the assignment, even if they have been manually awarded a grade. </li>
+<li>
+<strong>Have not been graded</strong>—students whose assignments have not yet been graded (submitted or unsubmitted).</li>
+<li>
+<strong>Scored less than [point value]</strong>—students who earned a grade on their assignment less than X number of points. </li>
+<li>
+<strong>Scored more than [point value]</strong>—students who earned a grade on their assignment more than X number of points.  </li>
+<li>
+<strong>Reassigned</strong>—students who have submitted an assignment and <a href="/t5/Instructor-Guide/How-do-I-reassign-an-assignment-in-SpeedGrader/ta-p/469484" target="_blank">you have reassigned it</a> to them.</li>
+</ul>
+<p>Although one message most likely will be sent to multiple students at the same time, each student will receive an individual message. </p>
+<p><strong>Note:</strong> You can also <a href="/t5/Instructor-Guide/How-do-I-use-the-Total-column-in-the-Gradebook/ta-p/788" target="_blank">message students through the total column</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_gradebook" data-step-uuid="096AD5B0-AAE2-0135-1584-06467EE270FA">
+    <h2 id="open_gradebook" class="step-title screensteps-heading">Open Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/032/original/ed196fa5-faf6-4380-a78a-fb84a5af537e.png" srcset="" alt="Open Gradebook" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_096AFD00-AAE2-0135-1586-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment" data-step-uuid="5bd02f8f-89b1-433c-986e-3c555182387b">
+    <h2 id="open_assignment" class="step-title screensteps-heading">Open Assignment Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/615/371/original/76201463-7563-44e8-af8f-70d3f4711757.png" srcset="" alt="Open Assignment" height="270" width="260">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cdaa6abc-a120-4242-962d-a0f296c0d937" class="text-block-content">
+    <p>Hover the cursor over the assignment or assignment group column header and click the<strong> Options</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="message_students" data-step-uuid="096B1050-AAE2-0135-1587-06467EE270FA">
+    <h2 id="message_students" class="step-title screensteps-heading">Message Students</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/305/698/original/379b229c-cf19-4f9f-8bc7-10988154bcdb.png" srcset="" alt="Message Students" height="404" width="490">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_096B38F0-AAE2-0135-1589-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Message Students Who</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_message_category" data-step-uuid="096B4BA0-AAE2-0135-158A-06467EE270FA">
+    <h2 id="select_message_category" class="step-title screensteps-heading">View Compose Message</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/490/914/original/e6657da0-86f2-4b18-9af4-2a64bfc1263f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/490/914/medium/e6657da0-86f2-4b18-9af4-2a64bfc1263f.png" srcset="" alt="View Compose Message" height="570" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c7f552c6-b9c9-4e1f-8a76-e68180c1b171" class="text-block-content">
+    <p>In the Compose Message window, you can select a category of students to message [1], manage the recipients by role or individually [2], enter a message title [3], and compose a message [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-message-category" data-step-uuid="78f5ec04-d547-42a3-bd97-743bdce878d7">
+    <h2 id="select-message-category" class="step-title screensteps-heading">Select Message Category</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/490/916/original/0163b895-6e96-4b77-9b08-56802ba325a6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/490/916/medium/0163b895-6e96-4b77-9b08-56802ba325a6.png" srcset="" alt="Select Message Category" height="353" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_096B77B0-AAE2-0135-158C-06467EE270FA" class="text-block-content">
+    <p>Choose a category of students to message in the <strong>For students who</strong> drop-down menu. By default, the <strong>Have submitted </strong>message category is selected [1]. To message students who have submitted, click one of the following radio buttons:</p>
+<ul>
+<li>
+<strong>All submissions</strong> [1]: Message students who have any submissions.</li>
+<li>
+<strong>Graded submissions</strong> [2]: Message students who have graded submissions.</li>
+<li>
+<strong>Not graded submissions </strong>[3]: Message students who have ungraded submissions.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/490/918/original/afd4d41d-4735-4928-af05-06bb941305ec.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/490/918/medium/afd4d41d-4735-4928-af05-06bb941305ec.png" srcset="" alt="Select Different Message Category" height="323" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7528889e-4461-4a67-9fee-475bc7b1a465" class="text-block-content">
+    <p>To message a different category of students, click the <strong>For students who... </strong>drop-down menu [1]. Then select one of the other available categories for assignments [2]:</p>
+<ul>
+<li>
+<strong>Have not yet submitted</strong>: Students who haven't submitted the assignment, even if they have been manually awarded a grade. You have the option to skip excused students.</li>
+<li>
+<strong>Have not been graded</strong>: Students whose assignments have not yet been graded (submitted or unsubmitted).</li>
+<li>
+<strong>Scored less than [point value]</strong>: Students who earned a grade on their assignment less than a cutoff value.</li>
+<li>
+<strong>Scored more than [point value]</strong>: Students who earned a grade on their assignment more than a cutoff value.  </li>
+<li>
+<strong>Reassigned</strong>: Students who have submitted an assignment and <a href="/t5/Instructor-Guide/How-do-I-reassign-an-assignment-in-SpeedGrader/ta-p/469484" target="_blank">you have reassigned it</a> to them.</li>
+</ul>
+<p>To message students based on an assignment group or the <a href="/t5/Instructor-Guide/How-do-I-use-the-Total-column-in-the-Gradebook/ta-p/788" target="_blank">Total column</a>, select one of the following categories:</p>
+<ul>
+<li>
+<strong>Total grade higher than [percent value]</strong>: Students whose total grade is more than a cutoff value.  </li>
+<li>
+<strong>Total grade lower than [percent value]</strong>: Students whose total grade is more than a cutoff value.  </li>
+</ul>
+<p><strong>Note: </strong>Available categories options vary based on the assignment type or group.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-cutoff-value" data-step-uuid="d4713328-90be-4db8-9f27-1493c9846786">
+    <h3 id="enter-cutoff-value" class="step-title screensteps-heading">Enter Cutoff Value</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/490/920/original/7cc056e5-1112-4137-9970-b64336ef8020.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/490/920/medium/7cc056e5-1112-4137-9970-b64336ef8020.png" srcset="" alt="Enter Cutoff Value" height="275" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_670a3e98-1e30-4152-b98a-341434b7f7a0" class="text-block-content">
+    <p>If you are messaging students who scored more than or less than a value or whose total score is higher than or lower than a value [1], enter a number of points in the <strong>Cutoff Value</strong> field [2].</p>
+<p><strong>Note: </strong>The cutoff value is based on values in the open gradebook, and those values may be different than the values students see in their Grades.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-recipients" data-step-uuid="cd243391-660b-4442-9e6c-5aaa0d04fb9b">
+    <h2 id="manage-recipients" class="step-title screensteps-heading">Manage Recipients</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/490/922/original/6b3cba77-aa9b-451c-9b67-ac56542ac92f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/490/922/medium/6b3cba77-aa9b-451c-9b67-ac56542ac92f.png" srcset="" alt="Manage Recipients" height="652" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b507ec93-2276-40a4-bf4a-fe26444e87de" class="text-block-content">
+    <p>To select or deselect users with a given role, click the checkboxes in the <strong>Send Message To</strong> field [1]. </p>
+<p>To view, add, or remove specific users, click the <strong>Show all recipients </strong>link<strong> </strong>[2]. </p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/749/941/original/22efebf5-05a6-4eaa-944e-0294052f976a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/749/941/medium/22efebf5-05a6-4eaa-944e-0294052f976a.png" srcset="" alt="Manage Recipients" height="292" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d4189884-1115-4699-806d-d1bb14dbf005" class="text-block-content">
+    <p>When you show all recipients, you can manage individual recipients included in a message. To remove a user, click the <strong>Remove</strong> icon [1]. To add a user, click the <strong>Add</strong> icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-message-content" data-step-uuid="edb4d1d3-5352-456f-8525-5466edb71769">
+    <h2 id="enter-message-content" class="step-title screensteps-heading">Enter Message Content</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/490/924/original/5684dda4-6be5-46ca-a4dc-bb14a7f35752.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/490/924/medium/5684dda4-6be5-46ca-a4dc-bb14a7f35752.png" srcset="" alt="Enter Message Details" height="667" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_02cef039-621e-4fd0-9a01-56ee264844f2" class="text-block-content">
+    <p>By default, the subject is a message based on your selections. To edit the subject, enter a different subject in the <strong>Subject</strong> field [1].</p>
+<p>Type a message to the students in the <strong>Message</strong> field [2]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-attach-a-file-to-a-message-as-an-instructor/ta-p/599" target="_blank">attach a file to the message</a>, click the <strong>Attach</strong> button [3]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-attach-a-media-comment-to-a-message-as-an-instructor/ta-p/598" target="_blank">create a media recording or upload a media file</a>, click the <strong>Media</strong> icon [4]. </p>
+<p>To send the message, click the <strong>Send </strong>button [5].</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Although one message most likely will be sent to multiple students at the same time, each student receives an individual message.</li>
+<li>You can also <a href="/t5/Instructor-Guide/How-do-I-send-a-message-to-students-from-the-Gradebook/ta-p/741" target="_blank">message students by gradebook assignments</a>.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

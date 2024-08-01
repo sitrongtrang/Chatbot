@@ -1,0 +1,142 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7509BEB0-2214-0135-16F9-22000AB760A3" class="text-block-content">
+    <p>Once students complete a Mastery Paths source item, you can view the breakdown of the mastery path ranges in the item. Each range includes a link that shows the number of students who scored in each range. You can view a specific student’s score for the Mastery Path source item, view the student's submission, view the student's conditional content assignments, and send a message to the student.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The Mastery Paths setting can be <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">managed in your course</a> if the setting has been <a href="/t5/Admin-Guide/How-do-I-set-details-for-an-account/ta-p/194" target="_blank">enabled by your institution</a>.</li>
+<li>Files, External URLs, and External Tool module items cannot be used as conditional items in Mastery Paths.</li>
+<li>If your course has a large number of students and/or if a Mastery Path has a large number of associated conditional items, students may experience a delay before they are assigned a path.</li>
+<li>You cannot access mastery paths breakdown results from New Quizzes.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="fc90c320-df31-4b2b-bcb6-1a71028ee444">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/184/original/916149f1-8b6f-44d2-b4fc-0567bb26580b.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_750B3140-2214-0135-16FB-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment" data-step-uuid="12c20282-3178-4b0f-9e60-4dd8eaa61199">
+    <h2 id="open_assignment" class="step-title screensteps-heading">Open Assignment</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/398/436/original/b813ede4-3039-4ea9-b8e8-e2b473f1bafd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/398/436/medium/b813ede4-3039-4ea9-b8e8-e2b473f1bafd.png" srcset="" alt="Open Assignment" height="125" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_750B7620-2214-0135-16FD-22000AB760A3" class="text-block-content">
+    <p>Click the name of the Mastery Paths assignment.</p>
+<p><strong>Note: </strong>You cannot access mastery paths breakdown results from New Quizzes. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_breakdown_ranges" data-step-uuid="7c21ace8-25d4-43d0-a05e-08e397135645">
+    <h2 id="view_breakdown_ranges" class="step-title screensteps-heading">View Breakdown Ranges</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/919/372/original/7bac307d-df90-43aa-a561-8dca6efd2d70.png" srcset="" alt="View Breakdown Ranges" height="235" width="305">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_750BA620-2214-0135-16FF-22000AB760A3" class="text-block-content">
+    <p>In the sidebar, view the Mastery Paths Breakdown section.</p>
+<p>The section displays each of the three ranges and the number of students who scored in each range. The colored bar shows the percentage of students in that range [1].</p>
+<p>To view details for a range, click the link with the student results [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_names" data-step-uuid="63792a70-5011-4d5c-b825-894a13ba7fc6">
+    <h2 id="view_student_names" class="step-title screensteps-heading">View Student Names</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/919/369/original/5fd73b6c-9caf-4d43-8a98-08b5898fb08c.png" srcset="" alt="View Student Names" height="285" width="357">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_750BD8A0-2214-0135-1701-22000AB760A3" class="text-block-content">
+    <p>The breakdown window displays the names of students in your selected range. If you want to view student names in another range, click the range heading [1]. The current range will collapse and the selected range will expand.</p>
+<p>To view results for a specific student in a range, click the name of the student [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_results" data-step-uuid="fc499991-2454-489d-a9a8-8c9c16a61bff">
+    <h2 id="view_student_results" class="step-title screensteps-heading">View Student Results</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/714/original/c6ae56bc-4ed6-407e-92de-10a2585b30c3.png" srcset="" alt="View Student Results" height="572" width="385">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_750C0E10-2214-0135-1703-22000AB760A3" class="text-block-content">
+    <p>When viewing a specific student, you can see the details about that student. Below the student's name, you can click the <strong>Send Message</strong> link [1], which opens a new browser tab in Conversations. </p>
+<p>You can view the student's Mastery Path source item score [2] and the date of the submission [3]. If you want to view the student's submission, click the <strong>View Submission</strong> link [4], which opens the student's submission details page in a new browser tab. </p>
+<p>You can also view the conditional items in the Mastery Path that have been assigned to the student [5]. Each item includes the points possible for the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_conditional_item_results" data-step-uuid="475fb775-d3d4-47f0-bc6e-3f675da07e30">
+    <h2 id="view_conditional_item_results" class="step-title screensteps-heading">View Conditional Item Results</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/708/original/66d34d5d-be98-4f7f-b407-6ea402fb60c0.png" srcset="" alt="View Conditional Item Results" height="273" width="371">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4c1203e6-97de-4f21-b8b8-5b0fcc192dc2" class="text-block-content">
+    <p>If the conditional items include graded assignments, Canvas displays an icon indicating the student's score compared to the original assignment score. The comparison uses percentage scores from the source item and conditional item. For example, if a student scored 80% on the source item and 85% on the conditional item, a green arrow displays. A <strong>green arrow</strong> indicates a student scored higher [1], a <strong>red arrow</strong> indicates a student scored lower [2], and a <strong>gray bar</strong> indicates the score was equal [3]. Student grades are visible in the Gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_another_student" data-step-uuid="2c170efc-7fc3-47ca-8a0b-3f721b43c9c3">
+    <h2 id="view_another_student" class="step-title screensteps-heading">View Another Student</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/706/original/8fa860c6-a6d4-475a-a4d2-64d67d58371f.png" srcset="" alt="View Another Student" height="231" width="367">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_750C42C0-2214-0135-1705-22000AB760A3" class="text-block-content">
+    <p>To view another student in the same scoring range, click the <strong>Next </strong>or <strong>Previous</strong> arrow [1].</p>
+<p>To return to the list of student names and ranges, click the <strong>Back </strong>link [2].</p>
+<p>To close the breakdown window, click the <strong>Close </strong>icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

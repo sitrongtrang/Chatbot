@@ -1,0 +1,63 @@
+How do I create a quiz using New Quizzes as an instructor
+Open Quizzes
+In Course Navigation, click the Quizzes link. 
+Note: You can also access quizzes from the Assignments page.
+Add Quiz
+Click the Add Quiz button.
+Create New Quiz
+In the Choose a Quiz Engine screen, select the New Quizzes option. To save your quiz engine selection for this course, check the Remember my choice for this course checkbox.
+Then click the Submit button. 
+Note: You can reset your quiz engine choice from the Quiz Options menu at any time. 
+Edit Quiz Details
+In the Assignment Name field, enter the name of your quiz. To enter quiz details, enter the total points possible, select the assignment group, and choose how the grade is displayed to students.
+To remove this quiz from final grade calculations, click the Do not count this assignment towards the final grade checkbox.
+The points possible set on the assignment details page is the total points possible for the quiz. Points set per question determine points earned for correct answers. Points earned for correct answers are totaled and divided by the sum of the total question points for the quiz. That percentage is then used to calculate the final score based on the total points set on the assignment details page. For example, if you set the total points on the assignment details page to 50 and create an quiz with 10 questions each worth 1 point, the quiz has a total of 10 points but is worth 50 points when graded. If a student answers 9 questions correctly, their quiz score is 90% (9/10). However, their final score in the Gradebook will be 45/50 (90%).
+If your quiz is worth zero points, you can choose to not display the quiz in the Gradebook or student Grades page.
+Anonymous Grading
+Anonymous grading hides student names from graders when they view assignment submissions in SpeedGrader.
+Note: Once anonymous grading is turned on for a quiz, it cannot be turned off. 
+Assign Quiz
+In the Assign To field, select who will be required to take the quiz. You can assign the quiz to individual students or sections.
+In the Due field, select the quiz due date.
+In the Available fromandUntil fields, select the availability dates for the quiz. In progress quizzes automatically submit when the Until date and time passes.
+Note: If you have set section override dates in your course, you may need to select a course section and set due and availability dates that fall within the section override dates.
+Save Quiz
+To save your quiz details, click the Save button. To save and publish your quiz, click the Save & Publish button.
+Clicking the Save or Save & Publish button returns you to the page where you opened the quiz.
+Open Build Page
+To open the New Quizzes build page and add questions and content to your quiz, click the Build button.
+If you clicked the Save or Save & Publish button and returned to the page where you opened the quiz, you can click the Options icon and then click the Build link.
+Build Quiz
+In the Build page, you can edit the title and description of your quiz, view your item banks, align the quiz to outcomes, preview the quiz from the student view, and navigate the quiz.
+You can use the Rich Content Editor to format and add content to your quiz instructions.
+Add Content
+To add content to your quiz, click the Add button.
+To insert content from an item bank, click the Item Bank button. To create a new question, click the button for the question type or add stimulus content.
+The following question types are available in New Quizzes:
+Categorization
+Essay
+File Upload
+Fill in the Blank
+Formula
+Hot Spot
+Matching
+Multiple Answer
+Multiple Choice
+Numeric
+Ordering
+True or False
+Edit Question
+For each question, you can enter a question title, question stem, and answers. You may also select options specific to the question, align the question to an outcome, and add the question to an item bank. 
+In the Points field, adjust the point value for the question by entering a number or clicking the arrow buttons. To add general student feedback, click the Feedback icon.
+To save the question, click the Done button.
+Note: Essay questions do not include an answer field and must be graded manually.
+Delete Question
+To delete a question, click the Delete icon. The page will confirm you want to remove the item.
+Open Question Navigator
+To open the Question Navigator and view your quiz, click the Expand icon.
+View Question Navigator
+In the Question Navigator, you can view each question number, question type, point total, question stem, and total question points.
+To view a question in the quiz, click the question stem. You will be taken to the question within the quiz.
+To manually reorder questions, click and hold the Move icon. Drag the question to where you want it to display in the quiz.
+Return to Quizzes Page
+To close your quiz and return to the Quizzes page, click the Return button.

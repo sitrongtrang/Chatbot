@@ -1,0 +1,77 @@
+How do I insert a table using the Rich Content Editor as a student
+Open Rich Content Editor
+Open the Rich Content Editor when using one of the Canvas features which support the Editor.
+Note: The Rich Content Editor supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press ALT+F8 (PC keyboard) or Option+F8 (Mac keyboard).
+Open Table Editor
+To use the table editor, click the Table icon.
+Note: To view the Table icon, you may have to click the Options icon. 
+Insert Table
+To expand the table creator, hover over the Table option in the drop-down menu. Then, to specify the table dimensions, drag your cursor over the grid. 
+Note: The largest table you can create using the table creator is 10x10. However, additional columns and rows can be added manually. 
+View Table Layout Tools
+When you click on the table in the Rich Content Editor, the Table Context Menu displays.
+You can edit the table properties, delete the table, add or delete rows, and add or delete columns.
+Open Table Properties
+In the Table Context Menu, click the Table Properties icon. 
+You can also click the toolbar Table icon, and select the Table Properties option. 
+Edit General Table Properties
+By default, the table properties editor displays the General tab. Type in the appropriate fields to edit these general table properties. 
+Width and Height: enter the width and height of your table (in pixels or percent, e.g. 500px, 50%). 
+Cell Spacing: enter the space between individual cells as well as cells and table borders (in pixels, e.g. 3px).
+Cell Padding: enter the space between the cell border and its content (in pixels, e.g. 5px). 
+Border: enter the thickness of the table border (in pixels, e.g. 5px).
+Caption: select to display a caption above the table. 
+Alignment: select the alignment of your table in the Rich Content Editor.
+To apply edits, click the Save button.
+Manually Edit Table Size
+You can also manually adjust the width and height of your table in the Rich Content Editor. 
+When you click the table, adjustment handles appear in each corner. Click and drag the handles to adjust the size. 
+Edit Advanced Table Properties
+To view additional customization options, click the Advanced tab.
+Edit Border Style
+To edit the border line style, click the Border Style drop-down menu. 
+Select a border line style from the displayed options. For your table to display without lines, select the None option. You can also select to hide table lines.
+To apply the border style, click the Save button. 
+Edit Border and Background Colors
+You can edit the table colors using the Border Color and Background Color options. 
+Enter a color name or HEX code (in #nnnnnn format) in the color field. 
+You can also click the Color Swatch button and select a color from the color drop-down menu. View the color name by hovering your mouse over the color tile. To remove color formatting, click the Remove Color icon. To select a custom color, click the Custom Color icon. 
+To apply the colors, click the Save button.
+View Cell Format Options
+With one or more cells selected within the table, click the Table icon, then hover over the Cell option. 
+To edit the cell properties, click the Cell properties option. 
+To merge cells, click the Merge cells option. 
+To split merged cells, click the Split cell option. 
+Edit General Cell Properties
+By default, the Cell properties editor displays the General tab. You can edit the following general cell properties:
+Width and Height: adjust the width and height of your cell or cells (in pixels or percent, e.g. 500px, 50%). 
+Cell Type: select from header cell or general cell options.
+Scope: select whether the cell or cells is a header for a column, row, or group of columns or rows. 
+H Align: select the horizontal alignment for text in the cell or cells
+V Align: select the vertical alignment for text in the cell or cells
+To apply edits, click the Save button.
+Edit Advanced Cell Properties
+To view additional customization options, click the Advanced tab. Edit cells using the following options:
+Border style: select a border line style, or hide or remove cell border lines. 
+Border color: enter a color name or HEX code (in #nnnnnn format), or use the Color swatch to select a border color for the cell or cells. 
+Background color: enter a color name or HEX code (in #nnnnnn format), or use the Color swatch to select a cell background color. 
+To apply edits, click the Save button. 
+Edit Row Options
+With the table selected or with a specific row selected, use the Table Context Menu row options to add or remove a row. 
+To view more row options, click the Table icon, then hover over the Row option. Edit rows by clicking the appropriate option.
+Insert row: select to enter a row before (above) or after (below) the selected row
+Delete row: delete the row and its content
+Row properties: view options for row type, alignment, height, and colors.
+Cut row: cut the row and place it in the clipboard, ready to be pasted.
+Copy row: copy the row and place it in the clipboard, ready to be pasted.
+Paste row: After cutting or copying a row, select to enter the row before (above) or after (below) the selected row. 
+Edit Column Options
+With the table selected or with a specific column selected, use the Table Context Menu column options to add or remove a column. 
+Alternatively, you can click the Table icon, then hover over the Column option. Edit columns by clicking the appropriate option.
+Insert column: select to enter a column before (left) or after (right) the selected column
+Delete column: delete the column and its content
+Delete Table
+With the table selected, click the Table Context Menu Delete icon. You can also click the toolbar Table icon, and then click the Delete table option.
+Save Changes
+Click the Save button.
+Note: When using the Rich Content Editor in Discussions, the Save button may appear as the Post Reply button.

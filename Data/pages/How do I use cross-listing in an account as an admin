@@ -1,0 +1,78 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4285E700-1CB4-0135-5B80-22000B5A851D" class="text-block-content">
+    <p>Cross-listing allows you to create a section in one account or sub-account and then move it to a different course within the same account or sub-account, or to a course on a different account or sub-account. </p>
+<p>Cross-listing is usually an admin permission only. However, some institutions allow their instructors to cross-list their own sections. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="courses_versus_sections" data-step-uuid="E1A7DE9B-2F17-4E36-8976-30469A8196BC">
+    <h2 id="courses_versus_sections" class="step-title screensteps-heading">Courses versus Sections</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/017/original/4a7768ea-50cc-4d69-9acc-7a327306c87b.png" srcset="" alt="Courses versus Sections" height="81" width="527">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4286B8D0-1CB4-0135-5B82-22000B5A851D" class="text-block-content">
+    <p><strong>Courses</strong> are the virtual classroom where all the content resides, the place where students can learn and interact with the instructor and each other. <strong>Sections</strong> are a group of students that have been organized for administrative purposes. Students are enrolled in sections and sections are listed in courses. It is possible to place more than one section in course, but not possible to put sections within sections. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="cross_listing_sections" data-step-uuid="b427ef72-be31-42ae-afe0-093af0f03430">
+    <h2 id="cross_listing_sections" class="step-title screensteps-heading">Cross-Listing Sections</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/845/151/original/0f6b9bf7-554d-43e0-aee0-5307654262ae.png" srcset="" alt="Cross-Listing Sections" height="224" width="538">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4287C2A0-1CB4-0135-5B84-22000B5A851D" class="text-block-content">
+    <p>Cross-listing allows you to move section enrollments from individual courses and combine them into one course. This feature is helpful for instructors who teach several sections of the same course and only want to manage course data in one location. Section names do not change when they are cross-listed; the section is just moved to another course. Sections can only be in one course at a time. Once a section is cross-listed, you can re-cross-list the section into another course if necessary. Learn how to <a href="/t5/Admin-Guide/How-do-I-cross-list-a-section-in-a-course-as-an-admin/ta-p/207" target="_blank">cross-list a section</a>.</p>
+<p><strong>Course Status</strong></p>
+<p>Coursework is retained with the course, not with the section enrollments. Therefore, <strong>cross-listing should only be done in unpublished courses</strong>. If there are student submissions in the course when the section is cross-listed, the submissions and grades will not transfer to the new section. </p>
+<p>If you need to restore the enrollments, you can <a href="/t5/Admin-Guide/How-do-I-de-cross-list-a-section-in-a-course-as-an-admin/ta-p/206" target="_blank">de-cross-list a section</a> back to the course. If you need to retain student grades in the original course, you should export the Gradebook and import it into the original course before de-cross-listing the section.</p>
+<p><strong>Instructor Enrollments</strong></p>
+<p>Instructors are included as a part of the cross-listed section. Cross-listing removes the instructor's access to the original course and moves the instructor into the new course with the other users in the section. If you want an instructor to have access to the original course, you must add the instructor's enrollment to a separate section in the original course. </p>
+<p>If you allow instructors to cross-list their own sections, they can only de-cross-list a section back to the original course if they still have an enrollment in the original course. Otherwise they will have to contact you for assistance.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="cross_listing_examples" data-step-uuid="cad08460-bbec-41c3-aac3-f47e80c1560c">
+    <h2 id="cross_listing_examples" class="step-title screensteps-heading">Cross-Listing Examples</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/653/original/25e5a831-c5bd-4e18-8fee-df8833141795.png" srcset="" alt="Cross-Listing Examples" height="298" width="448">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4288B2B0-1CB4-0135-5B86-22000B5A851D" class="text-block-content">
+    <p>In K12 institutions, cross-listing can be used for instructors who are teaching the same subject in more than one class. For instance, an instructor is teaching Algebra during 1st, 3rd, and 7th period. These periods can be set up in Canvas as three separate courses, and students are enrolled in the course according to which period they are taking. Rather than enter and manage course content three different times, two of the courses can have a section (or multiple sections) cross-listed into the third course before the course is published. So if the sections created in the courses for the 3rd and 7th periods were cross-listed into the course created for 1st period, the instructor only has to update the first course, which now includes all three periods as individual sections. </p>
+<p>In higher education, the same concept applies. Many times one course taught by one teacher is shown for course credit across multiple departments. If an English 1010 course is spread across four different departments with different names, institutions can create separate courses for each department's enrollments (e.g., English, Business, Psychology, and Education), then open those courses and cross-list their sections into one master course.</p>
+<p>Managing one course with multiple sections provides flexibility for instructors all while managing content in one location. Instructors can use sections to create differentiated assignments and section-specific due dates, create self sign-up groups where students must all be in the same section, and specify that enrollments can only interact with other users in their section.  </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

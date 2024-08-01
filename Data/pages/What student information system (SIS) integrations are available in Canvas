@@ -1,0 +1,80 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_94E9C4B0-0992-0135-56D2-22000B5A851D" class="text-block-content">
+    <p>Instructure supports integrations with several student information systems (SIS). These integrations may require an SFTP configuration, or they may use APIs made available from LIS, SIF 2.0, and OneRoster 1.1 to share information between the SIS and Canvas. Learn more about <a href="https://community.canvaslms.com/t5/Student-Information-Systems-SIS/ct-p/sis_guides" target="_blank">Canvas SIS integrations</a>. </p>
+<p>Most Canvas SIS integrations work bi-directionally: </p>
+<ul>
+<li>
+<strong>SIS to Canvas Provisioning: </strong>SIS rostering changes (updates to users, courses, enrollments, etc.) sync to Canvas via one-way data transfer from the SIS to Canvas. Rostering sync schedules are configured upon implementation and can be managed by admins.</li>
+<li>
+<strong>Canvas to SIS Grade Passback (GPB): </strong>Canvas assignment and gradebook updates sync to SIS gradebooks via one-way data transfer from Canvas to the SIS. Instructors can manually sync grades from Canvas to the SIS. Institutions can also configure automated grade sync schedules upon implementation. </li>
+</ul>
+<p>For more information about SIS integrations, view the <a href="https://community.canvaslms.com/t5/Student-Information-Systems-SIS/ct-p/sis_guides" target="_blank">Canvas Student Information Systems guides</a>. You can also visit the <a href="https://community.canvaslms.com/groups/admins" target="_blank">Canvas Community Admin Group</a>.</p>
+<p><strong>Note:</strong> If your institution's SIS is not included in the list of Instructure-supported integrations, you may be able to configure a Canvas SIS integration. For more information about configuring a Canvas-SIS integration, contact your SIS provider. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas" data-step-uuid="60e27cc8-37aa-41cb-a4ed-abe1b84e8fae">
+    <h2 id="canvas" class="step-title screensteps-heading">Instructure Supported SIS Integrations </h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94EC38C0-0992-0135-56D3-22000B5A851D" class="text-block-content">
+    <p>Instructure supports Canvas integrations with the following Student Information Systems: </p>
+<ul>
+<li><a href="https://community.canvaslms.com/t5/Aeries-and-Canvas/tkb-p/aeries_canvas_guides" target="_blank">Aeries</a></li>
+<li><a href="https://community.canvaslms.com/t5/Aspen-and-Canvas/tkb-p/aspen_canvas_guides" target="_blank">Aspen</a></li>
+<li><a href="https://community.canvaslms.com/t5/Aspire-and-Canvas/tkb-p/aspire_canvas_guides" target="_blank">Aspire</a></li>
+<li><a href="https://community.canvaslms.com/t5/Blackbaud-and-Canvas/tkb-p/blackbaud_and_canvas" target="_blank">Blackbaud</a></li>
+<li>
+<a href="https://community.canvaslms.com/t5/Classlink-and-Canvas/tkb-p/classlink_canvas_guides" target="_blank">Classlink</a> *</li>
+<li><a href="https://community.canvaslms.com/t5/Focus-and-Canvas/tkb-p/focus_canvas_guides" target="_blank">Focus</a></li>
+<li><a href="https://community.canvaslms.com/t5/Infinite-Campus-and-Canvas/tkb-p/infinitecampus_canvas_guides" target="_blank">Infinite Campus</a></li>
+<li><a href="https://community.canvaslms.com/t5/PeopleSoft-and-Canvas/tkb-p/peoplesoft_canvas_guides" target="_blank">PeopleSoft (Oracle)</a></li>
+<li><a href="https://community.canvaslms.com/t5/Pinnacle-and-Canvas/tkb-p/pinnacle_and_canvas" target="_blank">Pinnacle (Wazzle)</a></li>
+<li><a href="https://community.canvaslms.com/t5/PowerSchool-and-Canvas/tkb-p/powerschool_canvas_guides" target="_blank">PowerSchool</a></li>
+<li><a href="https://community.canvaslms.com/t5/ProgressBook-and-Canvas/tkb-p/progressbook_canvas_guides" target="_blank">ProgressBook (DASL) </a></li>
+<li><a href="https://community.canvaslms.com/t5/Q-and-Canvas/tkb-p/Q_canvas_guides" target="_blank">Q (Mistar/Aequitas)</a></li>
+<li><a href="https://community.canvaslms.com/t5/Qmlativ-and-Canvas/tkb-p/qmlativ_canvas_guides" target="_blank">Qmlativ (Skyward)</a></li>
+<li><a href="https://community.canvaslms.com/t5/Sapphire-and-Canvas/tkb-p/sapphire_canvas_guides" target="_blank">Sapphire</a></li>
+<li><a href="https://community.canvaslms.com/t5/SchoolTool-and-Canvas/tkb-p/schooltool_canvas_guides" target="_blank">SchoolTool</a></li>
+<li><a href="https://community.canvaslms.com/t5/Skyward-and-Canvas/tkb-p/skyward_canvas_guides" target="_blank">Skyward (SMS)</a></li>
+<li>
+<a href="https://community.canvaslms.com/t5/Sunet-and-Canvas/tkb-p/sunet_canvas_guides" target="_blank">Sunet LMS</a> *</li>
+<li><a href="https://community.canvaslms.com/t5/Synergy-and-Canvas/tkb-p/synergy_canvas_guides" target="_blank">Synergy</a></li>
+</ul>
+<p><em>* This integration does not currently support grade passback (GPB). </em></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="other_integrations" data-step-uuid="156F8B78-E76A-446E-850A-85B0B5F5867D">
+    <h2 id="other_integrations" class="step-title screensteps-heading">Other SIS Integrations</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94ED4840-0992-0135-56D6-22000B5A851D" class="text-block-content">
+    <p>If your institution's SIS provider is not listed above as an Instructure Supported integration, your SIS provider may support an integration with Canvas. For more information, please contact your SIS provider. </p>
+<p>Alternatively, you can utilize the <a href="/t5/Admin-Guide/How-do-I-import-SIS-data-to-a-Canvas-account/ta-p/98" target="_blank">SIS Import Tool</a> to bulk-upload your institution's SIS data to Canvas. Learn more about <a href="https://canvas.instructure.com/doc/api/sis_csv.html" target="_blank" rel="nofollow noopener noreferrer">Canvas SIS Import Format Documentation</a> and <a href="https://canvas.instructure.com/doc/api/index.html" target="_blank" rel="nofollow noopener noreferrer">Canvas API documentation</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

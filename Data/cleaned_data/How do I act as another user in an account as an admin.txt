@@ -1,0 +1,17 @@
+How do I act as another user in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open People
+In Account Navigation, click the People link.
+Find User
+Use the filter and search options to find the user in the account.
+Open User Profile
+In the search results, click the user's name.
+Act as User
+Click the Act as User link.
+Proceed as User
+The Act as User page confirms the user's information. If the user has multiple login credentials, all login IDs are displayed for additional user verification. Click the Proceed button.
+View Canvas as User
+While you are acting like the user you will see what the user sees, but the audit reports will show that you performed those tasks and not the actual user. You will know that you are acting as a user by the information box at the bottom of the screen that says You are currently acting as [User].
+Stop Acting as User
+When you are finished acting as the user, click the Stop Acting as User button. 

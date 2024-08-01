@@ -1,0 +1,131 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F8FED5D0-D246-0137-7D83-0E63FF21C970" class="text-block-content">
+    <p>You can embed HTML in the Rich Content Editor. When creating custom HTML coding in Canvas, you may discover that certain HTML codes do not work upon saving. This is because Canvas will only support certain HTML elements for security reasons. This also applies to content copied and pasted from an external source. Below is a link to a list of HTML tags that are permissible in Canvas. HTML tags that are not on this list may be stripped out of the Rich Content Editor when you save your work. For more information, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-HTML-Editor-Allowlist/ta-p/387066" target="_blank">Canvas HTML Editor Allowlist resource document</a>.</p>
+<p>The HTML Editor in the Rich Content Editor can display HTML in either a pretty HTML editor with numbered lines and syntax highlighting or a raw HTML editor that displays HTML as raw text.</p>
+<p>Several features in Canvas support the Rich Content Editor, including Announcements, Assignments, Discussions, Pages, and Quizzes.</p>
+<p><strong>Note: </strong>The Rich Content Editor saves the last used HTML editor state (raw or pretty). This persists across browser tabs and windows.</p>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I use the HTML view in the Rich Content Editor (RCE)?" src="https://community.instructuremedia.com/embed/6f7658bd-8088-48a4-8eb5-28f83897e0a2" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_rich_content_editor" data-step-uuid="F8FEE7E0-D246-0137-7D84-0E63FF21C970">
+    <h2 id="open_rich_content_editor" class="step-title screensteps-heading">Open Rich Content Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/393/863/original/97874299-0555-496f-91d1-13a68cab3ae3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/393/863/medium/97874299-0555-496f-91d1-13a68cab3ae3.png" srcset="" alt="Open Rich Content Editor" height="340" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F8FF0BA0-D246-0137-7D86-0E63FF21C970" class="text-block-content">
+    <p>Open the Rich Content Editor when using one of the Canvas features which support the Editor.</p>
+<p><strong>Note:</strong> The Rich Content Editor supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press <strong>ALT+F8</strong> (PC keyboard) or <strong>Option+F8</strong> (Mac keyboard).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_html_editor" data-step-uuid="F8FF1F30-D246-0137-7D87-0E63FF21C970">
+    <h2 id="open_html_editor" class="step-title screensteps-heading">Open HTML Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/852/848/original/5a8bb2ee-960c-44ea-9e51-5228618a9a72.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/852/848/medium/5a8bb2ee-960c-44ea-9e51-5228618a9a72.png" srcset="" alt="Open HTML Editor" height="414" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F8FF41E0-D246-0137-7D89-0E63FF21C970" class="text-block-content">
+    <p>Click the <strong>HTML Editor</strong> icon.</p>
+<p><strong>Note: </strong>When in HTML view, you can click the HTML Editor icon to return to the Rich Content Editor.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-html-content" data-step-uuid="0df804cb-2181-476a-97d8-90a3b63362d6">
+    <h2 id="edit-html-content" class="step-title screensteps-heading">Edit HTML Content</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/764/312/original/7031154d-0d3a-4f6f-a933-ef9e8dabff86.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/764/312/medium/7031154d-0d3a-4f6f-a933-ef9e8dabff86.png" srcset="" alt="Edit HTML Content" height="369" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c55332f5-215f-48bb-b70d-1c6dc5877b13" class="text-block-content">
+    <p>The HTML editor displays the pretty HTML editor by default. The pretty HTML editor displays line numbers and syntax highlighting.</p>
+<p>Enter content in the HTML editor or edit existing content using HTML.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-raw-html-editor" data-step-uuid="65219ad6-9bff-41cd-8dff-2a28f2e6f485">
+    <h2 id="view-raw-html-editor" class="step-title screensteps-heading">View Raw HTML Editor</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/764/316/original/32abe64f-9f1f-4885-95fd-7725ae4d57af.png" srcset="" alt="View Raw HTML Editor" height="121" width="250">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1f546f89-eb25-41d6-a55d-d70e436d4ff7" class="text-block-content">
+    <p>To switch to the Raw HTML Editor and edit your HTML in plain text, click the <strong>Switch to raw HTML Editor</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-raw-html" data-step-uuid="9e965eac-884e-4d3a-8d27-3ec7a9c59d2f">
+    <h2 id="edit-raw-html" class="step-title screensteps-heading">Edit Raw HTML</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/764/318/original/9763655b-c14b-4c14-8110-dc64bd85bb29.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/764/318/medium/9763655b-c14b-4c14-8110-dc64bd85bb29.png" srcset="" alt="Edit Raw HTML" height="369" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ee16148c-a113-4ee5-a9f2-ba68f52ecb24" class="text-block-content">
+    <p>Edit your HTML in plain text without line numbers or syntax highlighting. To switch back to the Pretty HTML Editor, click the <strong>Switch to pretty HTML Editor</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-changes" data-step-uuid="F8FF8560-D246-0137-7D8D-0E63FF21C970">
+    <h2 id="save-changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/878/554/original/93d6f880-cb40-4034-9840-0e3865c9a090.png" srcset="" alt="Save Changes" height="68" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F8FFB110-D246-0137-7D8F-0E63FF21C970" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Note:</strong> When using the Rich Content Editor in Discussions, the Save button may appear as the Post Reply button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

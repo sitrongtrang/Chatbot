@@ -1,0 +1,107 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_61a78f0a-dd86-451c-956b-66b101ee7413" class="text-block-content">
+    <p>In Canvas, the Teacher role is used to enroll users responsible for course creation, instruction, and management. Teachers are also referred to as instructors in Canvas. In general, users with the Teacher role have permissions that allow them to moderate a course, view course data, and direct daily course communications. However, these permissions may vary among institutions. </p>
+<p>Other course-level user roles with varying course-level access exist in Canvas. <a href="/t5/Canvas-Basics-Guide/What-is-the-Designer-role/ta-p/14" target="_blank">Designers</a> may work with Teachers (who oversee <a href="/t5/Canvas-Basics-Guide/What-is-the-Teacher-Assistant-role/ta-p/84" target="_blank">Teacher Assistants</a>) and together they create course content with which <a href="/t5/Canvas-Basics-Guide/What-is-the-Student-role/ta-p/71" target="_blank">Students</a> and <a href="/t5/Canvas-Basics-Guide/What-is-the-Observer-role/ta-p/4" target="_blank">Observers</a> engage. For more information about course-level user permissions, view the <a href="http://bit.ly/cnvs-course-permissions" target="_blank" rel="nofollow noopener noreferrer">Canvas Course Permissions PDF</a>.</p>
+<p>Teachers may also use the Canvas Teacher app to view some course content including announcements, assignments, discussions, and quizzes. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="teacher-role-use" data-step-uuid="6b58712d-50ac-44d4-a972-dbc0c886793a">
+    <h2 id="teacher-role-use" class="step-title screensteps-heading">Teacher Role Use</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09f330cd-e19c-4a7c-b40b-5ef3a799f433" class="text-block-content">
+    <p>Teachers may create course materials, view course data, and access and manage all areas of a Canvas course. For example, an instructor may be added to a course with the Teacher role to lead a course. </p>
+<p>The main uses of the Teacher role are to allow a user to: </p>
+<ul>
+<li>Create and modify course content</li>
+<li>Moderate and submit grades</li>
+<li>Manually invite others to the course</li>
+<li>Communicate with course participants</li>
+<li>Access course analytics and student data</li>
+<li>Monitor and moderate the participation and interactions of all enrolled users in a course</li>
+</ul>
+<p>When a user manually creates a course, Canvas automatically enrolls that user as a Teacher in the course. A teacher may also be enrolled in a course manually by an administrator or automatically by SIS import.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="teacher-access-in-canvas" data-step-uuid="ee398547-d8e7-42b8-aa73-083a1ac22d56">
+    <h2 id="teacher-access-in-canvas" class="step-title screensteps-heading">Teacher Access in Canvas</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bb6fba45-a5b6-4356-91aa-c617629b3841" class="text-block-content">
+    <p>By default, instructors with the Teacher role may access all areas of a Canvas course. However, these permissions may vary among institutions. To learn more about Teacher participation in Canvas, visit the Canvas Instructor Guide. </p>
+<p><strong>A Teacher can: </strong></p>
+<ul>
+<li>Add and delete external applications (LTI) for a course</li>
+<li>Add, edit, and delete assignments, quizzes, course files and pages, and all other course content</li>
+<li>Add, edit, and delete items in a course calendar, including Scheduler appointments</li>
+<li>Add, edit, and delete learning outcomes associated with course content</li>
+<li>Create, view, and post to course announcements and discussions</li>
+<li>Create and edit rubrics</li>
+<li>Create conferences and student collaborations </li>
+<li>Create, edit, and delete course sections and student groups</li>
+<li>Delete and lock discussions and edit others’ discussion posts</li>
+<li>Generate observer pairing codes for students</li>
+<li>Publish, conclude, and delete courses</li>
+<li>Read SIS data</li>
+<li>Send messages to other course users and to all members of a course</li>
+<li>View all student group pages for a course </li>
+<li>View and comment on student submissions</li>
+<li>View and link to question banks</li>
+<li>View and manage course enrollments, including the enrollment of other teachers, course designers, teacher assistants, and students</li>
+<li>View course analytics</li>
+<li>View grade audit trail</li>
+<li>View, moderate, and edit all grades</li>
+<li>View usage reports for a course</li>
+</ul>
+<p><strong>A Teacher cannot: </strong></p>
+<ul>
+<li>Create a Blueprint course</li>
+<li>Change the associated course term</li>
+<li>Masquerade as another user in a course</li>
+<li>Set up third party authentication for a course</li>
+<li>Unconclude a course</li>
+<li>Upload student enrollments via SIS imports</li>
+<li>View course change logs</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="teacher-role-limitations" data-step-uuid="cf19b1b9-760f-4d9a-9ef5-88a0d07111a3">
+    <h2 id="teacher-role-limitations" class="step-title screensteps-heading">Teacher Role Limitations</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3d1eee36-eb30-438c-93bf-ac3e7bbf944a" class="text-block-content">
+    <ul>
+<li>Teachers cannot modify availability of any of the above permissions. Only administrators can modify access to these functions.  </li>
+<li>Teachers can only create, modify, and moderate content for a course in which they are enrolled. </li>
+<li>Only users with administrative permissions may import SIS data. Teachers cannot import SIS data. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

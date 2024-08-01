@@ -1,0 +1,76 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0F1E68F0-6C85-0138-C79B-0ED2891A6CD5" class="text-block-content">
+    <p>Certain fields will become sticky when information is modified by a user or administrator. Stickiness prevents automatic changes via an SIS Import. If you do not wish to modify the name, or other fields, manually, you can override the changes. </p>
+<p>You can see a full list of fields that may become sticky on <a href="https://canvas.instructure.com/doc/api/file.sis_csv.html" target="_blank" rel="nofollow noopener noreferrer">the SIS Import API page</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-title" data-step-uuid="0F1E7D60-6C85-0138-C79C-0ED2891A6CD5">
+    <h2 id="step-title" class="step-title screensteps-heading">Override UI Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/360/567/original/2dd9d9db-c431-48f2-890a-7c5136957698.png" srcset="" alt="Override UI Changes" height="297" width="454">
+  </div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/360/569/original/8671b110-fa4c-4a25-9e9a-c6083cec8853.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/360/569/medium/8671b110-fa4c-4a25-9e9a-c6083cec8853.png" srcset="" alt="SIS Import" height="470" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0F1EA180-6C85-0138-C79E-0ED2891A6CD5" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1] and navigate to your account [2]. Then, in Account Navigation, click the <strong>SIS Import</strong> link [3].</p>
+<p>Choose your file that has the imported CSV using the <strong>Choose File</strong> button [4]. </p>
+<p>Before starting the import, click the<strong> Override UI changes</strong> checkbox [5]. This will allow the import to modify the sticky fields.</p>
+<p>You may also consider clicking the <strong>Clear UI-changed state</strong> checkbox as well [6], this will make any fields affected by the current SIS Import modifiable in the future without using the Override UI changes checkbox.</p>
+<p>To start the import, click the <strong>Process Data</strong> button [7].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="prevent-users-from-modifying-their-name-in-canvas" data-step-uuid="fbae10fb-8f95-4394-827b-7f589590602e">
+    <h2 id="prevent-users-from-modifying-their-name-in-canvas" class="step-title screensteps-heading"> Prevent Users from Modifying their Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/360/571/original/5c18708f-2e5e-4b17-aad2-16bfea10f3fb.png" srcset="" alt="Override UI Changes" height="297" width="454">
+  </div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/360/577/original/dc0bf746-fc72-4c51-94dc-7874377c3262.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/360/577/medium/dc0bf746-fc72-4c51-94dc-7874377c3262.png" srcset="" alt="SIS Import" height="435" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cdaacd60-4dc4-4afa-9280-67c85aa9016c" class="text-block-content">
+    <p>If you use an automated system to import data from a Student Information system, you may want to consider restricting users from modifying their name directly in Canvas.</p>
+<p>In Global Navigation, click the <strong>Admin</strong> link [1] and navigate to your account [2]. In Account Navigation, click the <strong>Settings</strong> link [3].</p>
+<p>In Account Settings, scroll to the <strong>Features</strong> section. </p>
+<p>Disable the <strong>Users can edit their own name</strong> feature [4].</p>
+<p>Click the <strong>Update Settings</strong> button [5].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,170 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_b736c334-4968-41ee-b119-c53d91025d57" class="text-block-content">
+    <p>If an assignment includes moderated or anonymous grading, you may be able to view an audit log in SpeedGrader. The audit log displays all changes that affect an assignment submission. </p>
+<p>The audit log only displays when <a href="/t5/Instructor-Guide/How-do-I-hide-or-post-assignment-grades-in-SpeedGrader/ta-p/1000" target="_blank">assignment grades have been posted</a>. </p>
+<p>You can use the assessment audit log to verify any grading-related actions. The assessment audit log also includes information about Submission comment events, DocViewer comment events, and edits made to the assignment's settings.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Auditing an assessment is an account permission. If you do not have permission to view the Assessment Audit link, your institution has not allowed you to view this feature.</li>
+<li>Assessment auditing requires an assignment to include <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">moderated grading</a> or <a href="/t5/Instructor-Guide/How-do-I-add-an-assignment-that-includes-anonymous-grading/ta-p/769" target="_blank">anonymous grading</a>, which are course opt-in features, and may not apply to every assignment.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-speedgrader" data-step-uuid="e6b74f59-5b95-470c-b2e0-87ab30831a23">
+    <h2 id="open-speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/104/625/original/fb48658b-49fd-45ef-9074-81c435b60c21.png" srcset="" alt="Open SpeedGrader" height="55" width="161">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ba83959b-3be8-48a3-87ba-2472d3f4ce89" class="text-block-content">
+    <p>Open Speedgrader from the assignment or from the Gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-student-submission" data-step-uuid="d83518df-5561-4c49-966a-fa0ddddb48cb">
+    <h2 id="open-student-submission" class="step-title screensteps-heading">Open Student Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/104/620/original/7f9f6831-b4bd-46f6-aeb7-41defd7d9bfe.png" srcset="" alt="Open Student Submission" height="333" width="371">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47cd7461-a4f9-4540-89a1-257a73f290b9" class="text-block-content">
+    <p>Use the student list to locate a student submission.</p>
+<p><strong>Note:</strong> If the assignment was set to hide student names, or student names were hidden in SpeedGrader settings, the student list displays all student names as anonymous. In anonymous grading, the student list order does not match the order in the Gradebook and is randomized for each assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-assessment-audit" data-step-uuid="2526c78c-291c-46bb-bb75-8a847da4c9fd">
+    <h2 id="view-assessment-audit" class="step-title screensteps-heading">View Assessment Audit</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/392/045/original/5f1ea014-92a6-47a0-81d7-d4da43a368d3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/392/045/medium/5f1ea014-92a6-47a0-81d7-d4da43a368d3.png" srcset="" alt="View Assessment Audit" height="549" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88e6dff0-ab96-4992-bc6a-b37348d45172" class="text-block-content">
+    <p>SpeedGrader toolbar icons will appear differently depending on the version of the Gradebook you are using.</p>
+<p>Confirm that the assignment grades have been posted [1]. Then click the <strong>Assessment audit</strong> link [2].</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>The <strong>Assessment Audit</strong> link only displays once assignment grades have been posted.</li>
+<li>Moderated assignments cannot post grades to the New Gradebook until <a href="/t5/Instructor-Guide/How-do-I-publish-final-grades-for-a-moderated-assignment/ta-p/681" target="_blank">final grades have been posted</a>.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-submission-details" data-step-uuid="7885e5f3-ff71-4343-a11e-c798e0324027">
+    <h2 id="view-submission-details" class="step-title screensteps-heading">View Submission Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/104/622/original/ddc0fe98-045d-45fb-95f4-a7cfefcf1f73.png" srcset="" alt="View Submission Details" height="321" width="630">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2c56f90d-554f-4843-b685-db2c6290ec05" class="text-block-content">
+    <p>The Assessment Audit tray displays details about the submission, including the final grade [1] and a timestamp of when the submission was graded [2].</p>
+<p>The tray displays a timestamp showing when grades for a non-moderated assignment were posted to the Gradebook [3]. If an assignment is moderated, the tray displays the time the grade was posted to the student [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-anonymity-status" data-step-uuid="d622b4d3-ae77-486c-9583-d8df1aa566bb">
+    <h2 id="view-anonymity-status" class="step-title screensteps-heading">View Anonymity Status</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/112/499/original/8d08deca-9ebf-49e2-ba91-9cfccc19b11f.png" srcset="" alt="View Anonymity Status" height="321" width="617">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bba7ca44-ed4f-4015-8cb9-d6d8fa4b4c5c" class="text-block-content">
+    <p>The sidebar also displays the anonymity status of the assignment. </p>
+<p>If the entire assignment was graded anonymously, the sidebar displays the Anonymous On status [1]. </p>
+<p>If the assignment was only moderated and was not graded anonymously, the sidebar displays the Anonymous Off status [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-partially-anonymous-assignment" data-step-uuid="907aa43d-c7bc-4ffc-bd81-5e4489771e58">
+    <h3 id="view-partially-anonymous-assignment" class="step-title screensteps-heading">View Partially Anonymous Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/104/630/original/d0aa6408-6a41-484f-92ab-f2a108f53681.png" srcset="" alt="View Partially Anonymous Assignment" height="739" width="337">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b860a674-cd0c-48b2-9751-b9f22ca79f3b" class="text-block-content">
+    <p>If anonymity was turned off during the grading process, the anonymity status displays as Partially Anonymous [1]. Partially anonymous means that anonymity was turned off and back on for any of the three levels of anonymity during the grading process—student anonymity, grader-to-grader anonymity, or grader-to-final grader anonymity.</p>
+<p>Additionally, if a grader updated the assignment at any time, the name of the grader displays an alert icon [2], and the audit trail displays the modified actions [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-grader-details" data-step-uuid="907e5e8d-faf9-4a72-8415-88cdc6e0d19c">
+    <h2 id="view-grader-details" class="step-title screensteps-heading">View Grader Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/104/633/original/8f87ed26-d049-4090-a2fe-289dd9ee5e01.png" srcset="" alt="View Grader Details" height="396" width="319">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e6ff4058-ef0c-4b2b-9cce-12cee8796867" class="text-block-content">
+    <p>If there is more than one grader for the assignment, each grader will display in the sidebar. </p>
+<p>To view the audit trail for a user, click the arrow icon next to the user's name. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-event-list" data-step-uuid="e8513523-a279-4510-872b-eafd61c96580">
+    <h2 id="view-event-list" class="step-title screensteps-heading">View Event List</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/109/628/original/431e68c6-149e-4f4c-80cd-eb14d75cb4f7.png" srcset="" alt="View Event List" height="665" width="360">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1211ec96-715d-4d51-9572-0d6ff0cabaea" class="text-block-content">
+    <p>The event list displays the start date and time of the audit trail [1] and a list of events the user took while interacting with the submission [2]. </p>
+<p>The event list may include events related to the following:</p>
+<ul>
+<li>Assignment created or updated</li>
+<li>Submission created or updated</li>
+<li>Anonymity status changed</li>
+<li>Grades posted or hidden</li>
+<li>Muted status changed</li>
+<li>DocViewer annotations and comments created</li>
+<li>Submission comments created</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

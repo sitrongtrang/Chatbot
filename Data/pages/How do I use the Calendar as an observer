@@ -1,0 +1,205 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_CC617850-22E5-0135-D29F-22000BC102FE" class="text-block-content">
+    <p>The Calendar is a great way to view everything a linked student has to do for all their courses in one place. You can view calendar events by day, week, month, or agenda list. The calendar also includes access to the Scheduler, which is an optional scheduling tool in Canvas. However, observers cannot reserve appointments on behalf of a student.</p>
+<p>Observers cannot view events in a student's personal calendar or appointments reserved through the Scheduler. Please note that an observer can view a student's reserved appointment(s) in the Canvas Parent App.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_calendar" data-step-uuid="1A13B2B3-F377-430A-8C13-8D4324881AFC">
+    <h2 id="open_calendar" class="step-title screensteps-heading">Open Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/832/793/original/1e3ecdb1-6c22-43ab-8d61-ca68f74d77f2.png" srcset="" alt="Open Calendar" height="549" width="95">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC61AEF0-22E5-0135-D2A1-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Calendar</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_calendar" data-step-uuid="13B05DD6-20E2-4CFD-B01B-3FF9327F7411">
+    <h2 id="view_calendar" class="step-title screensteps-heading">View Calendar</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/882/207/original/d9b97aaf-c1d2-416f-904d-c3d059110da7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/882/207/medium/d9b97aaf-c1d2-416f-904d-c3d059110da7.png" srcset="" alt="View Calendar" height="359" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC61E280-22E5-0135-D2A3-22000BC102FE" class="text-block-content">
+    <p>The Calendar displays everything you are enrolled in since the Calendar spans across all courses. In the navigation bar, you can choose to view the calendar in Week, Month, or Agenda view [1]. The view you choose dictates the style of the calendar window [2]. By default, the calendar appears in <strong>Month </strong>view.</p>
+<p>The sidebar [3] shows a quick-view calendar, your list of courses and groups, and undated items for your courses and groups. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_calendar_items" data-step-uuid="71a1884c-9503-48db-9591-5ba3c91f4ac9">
+    <h3 id="add_calendar_items" class="step-title screensteps-heading">Add Calendar Items</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/881/865/original/0aec20c3-3d6e-4a48-b5b6-df324ef523b1.png" srcset="" alt="Add Calendar Items" height="72" width="304">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC6213B0-22E5-0135-D2A5-22000BC102FE" class="text-block-content">
+    <p>Each calendar view shows any assignments or events that have been added to the calendar. You can add personal events, including <a href="/t5/Observer-Guide/How-do-I-create-a-recurring-event-in-my-Canvas-calendar-as-an/ta-p/435785" target="_blank">recurring calendar events</a>, at any time in the navigation bar by clicking the <strong>Add</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_calendar_list" data-step-uuid="a3af77df-fbcc-4169-a4d8-6966482dd847">
+    <h3 id="view_calendar_list" class="step-title screensteps-heading">View Calendar List</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/881/867/original/241efe23-1dc6-4e53-b036-7ed6e1fada51.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/881/867/medium/241efe23-1dc6-4e53-b036-7ed6e1fada51.png" srcset="" alt="View Calendar List" height="510" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC6242C0-22E5-0135-D2A7-22000BC102FE" class="text-block-content">
+    <p>Each personal, course, and group calendar is identified by a separate color that populates the calendar view. Associated assignments for each course or group will appear within the calendar view for each calendar [1]. For instance, in the above example, assignments and events from the US History course will appear as purple in the calendar view.</p>
+<p>By default, the first 10 course and group calendars will be selected and appear in the calendar view. To hide a calendar, click the box next to the name of the calendar [2]. Calendars that are not active within the calendar view display as faded text [3]. </p>
+<p><strong>Note: </strong>Canvas will assign an arbitrary color for each calendar unless a custom color is chosen. Each calendar contains 15 default colors, but you can insert a Hex code to create any color of your choice. Colors set in Dashboard course cards also update in the calendar. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_undated_events_list" data-step-uuid="069bece3-dda8-4a2e-818e-7bf927d3ab4c">
+    <h3 id="view_undated_events_list" class="step-title screensteps-heading">View Undated Events List</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/838/original/a146f2b0-cb68-4ab3-9602-121a6a91ad2c.png" srcset="" alt="View Undated Events List" height="351" width="293">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC627310-22E5-0135-D2A9-22000BC102FE" class="text-block-content">
+    <p>Expanding the <strong>Undated items</strong> link will show you a list of events and assignments that are not dated. The assignments and events will be differentiated by icons and by the personal, course, or group calendar color.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_calendar_by_month" data-step-uuid="5d58238c-f053-456f-8852-74af3a222467">
+    <h2 id="view_calendar_by_month" class="step-title screensteps-heading">View Calendar by Month</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/881/871/original/a156f995-138f-441b-aed6-982ad5a42061.png" srcset="" alt="View Calendar by Month" height="376" width="419">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC62A2B0-22E5-0135-D2AB-22000BC102FE" class="text-block-content">
+    <p>In the Month view, click the arrow buttons [1] to move from month to month. To view events for the current date, click the <strong>Today</strong> button [2].</p>
+<p>To view a specific date, click the month link [3] and type a date in the date field [4] or select a date from the calendar [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_assignments_and_events" data-step-uuid="e07c8f20-ae91-441b-8c39-9cb5f6df4995">
+    <h3 id="view_assignments_and_events" class="step-title screensteps-heading">View Assignments and Events</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/772/825/original/3bc8ebfb-22cf-4ef5-9eb1-b974c848e7de.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/772/825/medium/3bc8ebfb-22cf-4ef5-9eb1-b974c848e7de.png" srcset="" alt="View Assignments and Events" height="593" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC62D250-22E5-0135-D2AD-22000BC102FE" class="text-block-content">
+    <p>Assignments are shown with an icon next to the assignment title. The icon reflects the assignment type: Discussion [1], Assignment [2], Quiz [3], or Events [4].</p>
+<p>Each item on the calendar is color-coded to match the courses or calendars in the sidebar.</p>
+<p>To view full details for an assignment or event, hover over the item [5]. </p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_all_day_events" data-step-uuid="9ab06f4d-0e7b-4220-b8ec-cecf8dc5776f">
+    <h3 id="view_all_day_events" class="step-title screensteps-heading">View All-Day Events</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/772/836/original/a4ff7f62-ac0d-4d0f-bc3d-d934d80fff97.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/772/836/medium/a4ff7f62-ac0d-4d0f-bc3d-d934d80fff97.png" srcset="" alt="View All-Day Events" height="238" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC630860-22E5-0135-D2AF-22000BC102FE" class="text-block-content">
+    <p>All-day events display the Events icon and do not include a specific event time.</p>
+<p>If you want to extend an all-day event across multiple days, hover over the edge of the event until you see a black arrow. Drag your event across all required dates in the current month.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_calendar_by_week" data-step-uuid="ab8af1e3-ceda-4ea2-9022-3f5ffcd86cb8">
+    <h2 id="view_calendar_by_week" class="step-title screensteps-heading">View Calendar by Week</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/881/874/original/0d47b6e7-7de9-447e-bd96-4f0752449b55.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/881/874/medium/0d47b6e7-7de9-447e-bd96-4f0752449b55.png" srcset="" alt="View Calendar by Week" height="683" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC63A4B0-22E5-0135-D2B3-22000BC102FE" class="text-block-content">
+    <p>To view the calendar by week, click the <strong>Week</strong> button. The Week view shows all calendar items by date and time. Note that some assignments may be due at 11:59 pm, which appear at the bottom of the calendar view.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_all_day_events_1" data-step-uuid="c0d69dcf-97ac-4837-bc3f-f157669b2a0d">
+    <h3 id="view_all_day_events_1" class="step-title screensteps-heading">View All-day Events</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/772/828/original/a6d452a7-9bc7-4ce7-8684-a27e0cfa1405.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/772/828/medium/a6d452a7-9bc7-4ce7-8684-a27e0cfa1405.png" srcset="" alt="View All-day Events" height="126" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC63DB10-22E5-0135-D2B5-22000BC102FE" class="text-block-content">
+    <p>All-day events appear at the top of the calendar week. These events do not include a specific event time.</p>
+<p>Like in the Month view, if you want to extend an all-day event across multiple days, hover over the edge of the event until you see a black arrow. Drag your event across all required dates. In Week view, you can only drag your event to the end of the week that you are viewing.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_calendar_agenda" data-step-uuid="dd01b707-fea5-4f6d-9f2b-b5871f953dac">
+    <h2 id="view_calendar_agenda" class="step-title screensteps-heading">View Calendar Agenda</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/881/877/original/1d6a4d6b-fb44-4552-b667-0c30db66932e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/881/877/medium/1d6a4d6b-fb44-4552-b667-0c30db66932e.png" srcset="" alt="View Calendar Agenda" height="477" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CC640960-22E5-0135-D2B7-22000BC102FE" class="text-block-content">
+    <p>To view all your calendar items in an agenda format, click the <strong>Agenda</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

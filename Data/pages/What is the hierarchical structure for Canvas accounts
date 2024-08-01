@@ -1,0 +1,112 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9A51B160-1CA0-0135-12AF-22000BC102FE" class="text-block-content">
+    <p>The terms account and sub-account are organizational units within Canvas. Every instance of Canvas has the potential to contain a hierarchy of accounts and sub-accounts but starts out with just one account (referred to as the root account). Accounts include subaccounts, courses, and sections, all of which can be added manually in Canvas, via the API, or via SIS imports.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_hierarchy" data-step-uuid="81EE7BED-29BF-4FD6-8BC1-4629A0EB0CD7">
+    <h2 id="view_hierarchy" class="step-title screensteps-heading">View Hierarchy</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/381/796/original/e6db8477-898f-4521-81d4-bf2a91e48c6f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/381/796/medium/e6db8477-898f-4521-81d4-bf2a91e48c6f.png" srcset="" alt="View Hirearchy" height="230" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9A51E120-1CA0-0135-12B1-22000BC102FE" class="text-block-content">
+    <p>Institutions can create a hierarchical structure to best fit the needs of their institution. Users with an admin role can be assigned to specific sub-accounts with specific account-level permissions. </p>
+<p>Account-level permissions are initially set by the root account admin and trickle down through the hierarchy but not up. Admins for sub-accounts can modify account-level permissions for their sub-account. Admins in one account have administrative permissions within that account as well as in any sub-accounts of that account. Additionally, an admin can move a course within its sub-account, but they cannot move a course between sub-accounts unless they are also the admin of the parent account of each sub-account. </p>
+<p>With the exception of Terms, SIS imports, Authentication, and a few account settings, most admin account settings can be modified or, in the case of permissions, overridden in a sub-account. For more information about account-level permissions, view the <a href="https://s3.amazonaws.com/tr-learncanvas/docs/Canvas_Permissions_Account.pdf" target="" rel="nofollow noopener noreferrer">Canvas Account Level Permissions PDF</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_subaccounts" data-step-uuid="de045673-3b99-403c-bd6e-4f6a9c79a477">
+    <h2 id="view_subaccounts" class="step-title screensteps-heading">View Subaccounts</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9A51FA10-1CA0-0135-12B2-22000BC102FE" class="text-block-content">
+    <p>Sub-accounts are often used to manage permissions and organizational hierarchy within an institution. Many institutions set up sub-account organizational structures that mirror their SIS or registration systems. For example, sub-accounts can be created for individual colleges within a university, or for schools within a district. Sub-accounts can also be created within sub-accounts, such as when a college subdivides into departments that subdivide into programs, or a school that subdivides into grade levels that subdivide into specific subjects. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="dcfb301b-581f-426c-834f-4261e3f1db9b">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/264/original/74c89271-512f-4c64-841f-055d8558c012.png" srcset="" alt="View Sub-Accounts" height="369" width="538">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9A5228E0-1CA0-0135-12B4-22000BC102FE" class="text-block-content">
+    <p>Admins, other Canvas users, and courses can be assigned to sub-accounts. A user can hold different roles in each sub-account. For example, a college dean who also teaches courses at their institution can be assigned as an admin in their college account and assigned a teacher role in a sub-account.</p>
+<p>Sub-accounts can also be used to create and access question banks, outcomes, rubrics, grading schemes, reports, and analytics. </p>
+<p>Although terms cannot be created in sub-accounts, many institutions create terms at the root account that can be used by specific sub-accounts so each can have different access dates.</p>
+<p>Organize accounts based on:</p>
+<ul>
+<li>Departments then Term Dates. For example: Science Department; Fall 2012/Spring 2013/Summer 2013</li>
+<li>Departments then Sub-Departments. For example: Science Department; Physics/Biology/Chemistry</li>
+<li>Departments then Sub-Departments then Course Type. For example: Science Department; Biology; Face to Face/Blended/Fully Online</li>
+<li>School then Grade-level. For example: K12 School; First Grade</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_courses_and_sections" data-step-uuid="5051f9b5-9073-41bc-ab84-1b04195ff853">
+    <h2 id="view_courses_and_sections" class="step-title screensteps-heading">View Courses and Sections</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/589/842/original/8d5a58d2-d334-4e6c-8e48-41dc9af5b997.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/589/842/medium/8d5a58d2-d334-4e6c-8e48-41dc9af5b997.png" srcset="" alt="View Courses and Sections" height="318" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9A5255C0-1CA0-0135-12B6-22000BC102FE" class="text-block-content">
+    <p><strong>Courses</strong><em> </em>are added to an account or subaccount [1]. Courses are the virtual classroom where all the content resides and where student users can learn and interact with instructors and peers. </p>
+<p><strong>Sections</strong> are a group of students that have been organized for administrative purposes [2]. When users are enrolled in a course, they are actually enrolled in one of the sections of that course. It is possible to place more than one section in course, but it is not possible to put sections within sections. All sections of a course share the same content. </p>
+<p>If a course is taught by one or more instructors, sections can remain under one course if each instructor is added to their respective section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="section_options" data-step-uuid="a486bbff-d13a-430b-a64a-9e97e673f6a2">
+    <h2 id="section_options" class="step-title screensteps-heading">Section Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/262/original/6918af8f-7bf3-4455-8a8c-d59f758cd2d1.png" srcset="" alt="Section Options" height="321" width="569">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9A52B610-1CA0-0135-12B8-22000BC102FE" class="text-block-content">
+    <p>Each section can have its own varied due dates for assignments, quizzes, and discussions. For example, a course may have sections that meet on different days of the week or in different formats (online vs. face-to-face). </p>
+<p>Sections are also beneficial when Teacher Assistants are assigned to help manage courses and oversee grading for a portion of a course enrollment. As part of SIS or manual enrollments, you can limit students to only see students in their section. Instructors can also limit students if you allow them to manually enroll users in their own courses.</p>
+<p><strong>Note: </strong>Admins and instructors cannot restrict sections from accessing course navigation (i.e, Assignments, Discussions, Quizzes, etc.). If you want to assign specific assignments to individual sections, this can be done from the <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-a-course-section/ta-p/914" target="_blank">Assign To field</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

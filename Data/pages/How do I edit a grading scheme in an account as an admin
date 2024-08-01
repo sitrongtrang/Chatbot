@@ -1,0 +1,140 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8d34b58a-bb96-489f-9a01-9dc5795cbcc5" class="text-block-content">
+    <p>As an admin, you can edit grading schemes for all accounts associated with your account. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Editing the name and description of grading schemes currently in use does not allow edits to percentages or points in the grading scheme.</li>
+<li>If a grading scheme is in use, you can only edit its name and description, not percentages or points..</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="b2c1cb6d-37b7-4878-950b-ed50e4f8f84a">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dd5f0df9-be72-44f1-b996-6e1398a5fcc7" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grading" data-step-uuid="24f9b6fe-bb02-46a9-9537-7634363c889d">
+    <h2 id="open_grading" class="step-title screensteps-heading">Open Grading</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/797/274/original/open-grading-.png" srcset="https://media.screensteps.com/image_assets/assets/005/797/274/original/open-grading-.png 2.0x, https://media.screensteps.com/image_assets/assets/005/797/274/original_lowres/open-grading-.png" alt="Open Grading" height="312" width="161">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e14fac80-5074-453a-8d05-1b890207117a" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Grading</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grading_schemes" data-step-uuid="b35ef1af-5bf1-4430-933c-163b92435c7f">
+    <h2 id="open_grading_schemes" class="step-title screensteps-heading">Open Grading Schemes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/261/907/original/d044ae31-1963-4b9e-b930-f4da2bc889f8.png" srcset="" alt="Open Grading Schemes" height="190" width="461">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_970f1da5-fe4e-45cc-bb37-74e670e6ec69" class="text-block-content">
+    <p>Click the<strong> Grading Schemes</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modify_grading_scheme" data-step-uuid="f646491f-7b94-4f57-a69f-ca90365ec8ff">
+    <h2 id="modify_grading_scheme" class="step-title screensteps-heading">Edit Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/260/205/original/f65a85ec-3172-46b2-9dc3-ebecb149dc4b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/260/205/medium/f65a85ec-3172-46b2-9dc3-ebecb149dc4b.png" srcset="" alt="Edit Grading Scheme" height="252" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72fd256f-0843-41d0-9950-725c16ca646b" class="text-block-content">
+    <p>Clicking the <strong>Edit</strong> icon.</p>
+<p><strong>Note: </strong>If a grading scheme has been used for grading, you can only edit its name and description.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_grading_scheme" data-step-uuid="37033e2d-20b4-4bd1-9dcd-bc04d8ac66f3">
+    <h3 id="edit_grading_scheme" class="step-title screensteps-heading">Edit Grading Scheme Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/207/original/b7114c74-b60d-440c-84e4-8c2fb3b2f502.png" srcset="" alt="Edit Grading Scheme Details" height="667" width="495">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_af930095-3de2-4f75-97f1-9712ba6ef7a7" class="text-block-content">
+    <p>Edit the title in the <strong>Grading Scheme Name</strong> field [1]. </p>
+<p>You can choose to have the grading scheme by percentage or points [2]. </p>
+<p>For each line item, edit the grading scheme name in the <strong>Letter Grade</strong> field [3]. </p>
+<p>Edit the minimum end of each individual range in the To [Number] % field [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_range" data-step-uuid="f34a90eb-387a-4930-a751-316cfe010858">
+    <h3 id="add_range" class="step-title screensteps-heading">Add Range</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/209/original/a5ea67c7-91a9-4107-9fbf-8f35a7ee588c.png" srcset="" alt="Add Range" height="667" width="482">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_29dccbf2-2e4c-48b6-8b65-422c28dda5e4" class="text-block-content">
+    <p>If you need to add ranges, click the <strong>Add</strong> button [1]. </p>
+<p>You can remove individual ranges by clicking the <strong>Delete</strong> button [2]. </p>
+<p>When you are finished editing your grading scheme, click the <strong>Save </strong>button [3].  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-grading-scheme" data-step-uuid="6bf1ad03-6e14-4b52-ba6d-8f485aa47d66">
+    <h2 id="view-grading-scheme" class="step-title screensteps-heading">View Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/260/211/original/5a8b5660-7c2b-4a3e-b991-9db5452967be.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/260/211/medium/5a8b5660-7c2b-4a3e-b991-9db5452967be.png" srcset="" alt="View Grading Scheme" height="229" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_37d3d2e5-cf9c-4299-9d77-dbbea97d8051" class="text-block-content">
+    <p>View the edited grading scheme.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

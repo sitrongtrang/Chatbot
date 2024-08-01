@@ -1,0 +1,176 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_d60d63e5-cb54-4dff-9700-34fdc41a370a" class="text-block-content">
+    <p>When creating a calendar event, if you want to create the same event multiple times for a course, you can create a duplicate event. Duplicating events creates multiple copies of the event every day, week, or month. For example, you may create a duplicate course event for student study groups every week. You will not grade students on whether or not they have participated in the study group, but you are providing a resource activity on a specific day to help them organize their time and prepare for your course more efficiently.</p>
+<p><em>Once created in a course calendar, duplicate events are not linked together and are independent events. </em>Therefore, if users need to modify an event, each event has to be modified individually. Additionally, duplicate events can only be created when creating a new event; editing an existing event does not display the duplicate option.</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-create-a-recurring-event-in-a-calendar-as-an-instructor/ta-p/695" target="_blank">create recurring calendar events</a>.</p>
+<p>Tips for duplicate events:</p>
+<ul>
+<li>Weekly events are duplicated on the day of the week of the first event. For instance, if an event is created on a Monday and repeats weekly, the next instance of the event will appear on the following Monday, regardless of the actual date.‬</li>
+<li>‪Monthly events are duplicated on the day of the month of the first event. For instance, if an event is created on July 6 and repeats monthly, the next instance of the event will appear on August 6. ‬</li>
+</ul>
+<p><strong>Note: </strong>Events that include a conferencing link in the description or location field display a Join button on students' List View Dashboard.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_calendar" data-step-uuid="2da118be-26fa-4345-aa28-f6871a13cd84">
+    <h2 id="open_calendar" class="step-title screensteps-heading">Open Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/351/655/original/c9e40d0b-13c0-49a6-a133-cf3bd377fb1f.png" srcset="" alt="Open Calendar" height="612" width="96">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_782c4190-70e6-44b1-b132-8e4066b4a6e9" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Calendar</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-event" data-step-uuid="73bf5792-6b11-494a-a638-739fe9098645">
+    <h2 id="add-event" class="step-title screensteps-heading">Add Event</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/973/061/original/5f9d5d35-d125-4ebb-9c8d-d24ada338694.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/973/061/medium/5f9d5d35-d125-4ebb-9c8d-d24ada338694.png" srcset="" alt="Add Event" height="272" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57a396b9-a2f5-4653-9534-16eb411a615a" class="text-block-content">
+    <p>Make sure the checkbox of the course in which you're making an event is selected [1].</p>
+<p>Click any date on the calendar to add an event [2]. Or, click the arrows next to the month name to navigate to a different month [3] and select a date.</p>
+<p>If you don't want to manually locate the date, you can click the <strong>Add </strong>icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_more_options" data-step-uuid="1ce3121d-edec-4d81-9c47-79ddcca88087">
+    <h2 id="view_more_options" class="step-title screensteps-heading">View More Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/973/063/original/24635555-c596-4f60-aa0d-ced7f94ffd11.png" srcset="" alt="View More Options" height="690" width="475">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_15125c09-242c-4666-b408-7c491bb03852" class="text-block-content">
+    <p>Add a title [1] and location for the event [2]. The date and time fields are automatically populated based on the current date but do not need to be removed. </p>
+<p>In the <strong>Calendar</strong> drop-down menu [3], select the course calendar for the event. </p>
+<p>To add different dates for each section, click the <strong>More Options </strong>button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="use_a_different_date" data-step-uuid="e8b545c2-a402-4e19-a1a1-e9acd3ca1150">
+    <h2 id="use_a_different_date" class="step-title screensteps-heading">Use a Different Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/973/066/original/88a7ebf5-f059-4022-8f84-1b6143f16ffd.png" srcset="" alt="Use a Different Date" height="377" width="547">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e179f190-1aef-4f24-9162-e60ca5e73b1a" class="text-block-content">
+    <p>Click the <strong>Use a different date for each section </strong>checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_section_dates" data-step-uuid="d105f5f2-6b16-4056-9252-3528a2da73d0">
+    <h2 id="set_section_dates" class="step-title screensteps-heading">Set Section Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/973/068/original/a48604c7-f7a9-4a9e-ab2d-c09293b4e5ca.png" srcset="" alt="Set Section Dates" height="479" width="505">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f1c7f357-eda5-4ff8-91e7-1ae4a508d5ef" class="text-block-content">
+    <p>The default date is removed and replaced with all the sections in your course. </p>
+<p>For each section, type in a date, or select a date by clicking the <strong>Calendar</strong> icon [1], and specify the start and end time [2]. If you don't want one section to see the event, leave the date and time fields blank.</p>
+<p><strong>Note: </strong>When the Use a different date for each section checkbox is selected, the Frequency drop-down menu is removed.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="duplicate-event" data-step-uuid="333d3586-1cd7-4e66-a494-e46037aec2a5">
+    <h2 id="duplicate-event" class="step-title screensteps-heading">Duplicate Event</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/973/070/original/01e38d29-055c-4f55-afc1-4f2587538a18.png" srcset="" alt="Duplicate Event" height="598" width="496">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ef6815fe-1270-4531-84da-4dc0159eca4a" class="text-block-content">
+    <p>Click the <strong>Duplicate </strong>checkbox.</p>
+<p><strong>Note: </strong>If you cannot see the checkbox, you selected the wrong course calendar when creating the new event.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-duplicate-details" data-step-uuid="7a864e1c-f98b-4089-be8d-059de3132f48">
+    <h2 id="add-duplicate-details" class="step-title screensteps-heading">Add Duplicate Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/973/072/original/d5ba448f-b676-4827-8414-c959a909408d.png" srcset="" alt="Add Duplicate Details" height="196" width="401">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76f9605a-6e2a-40f3-bedb-c3575ecadd20" class="text-block-content">
+    <p>By default, events are set to repeat every week [1].</p>
+<p>If you want to change the repeating event to daily or monthly, click the <strong>Week(s) </strong>drop-down menu and select your preferred time range. You may also have to change the number that precedes the time period.</p>
+<p>By default, events are set to create one occurrence [2], meaning it will create the initial event plus one additional (two total events). If you want to change the number of additional occurrences, enter the number in the text field. The calendar event supports up to 200 additional occurrences.</p>
+<p>If you want to automatically add a number to the end of each event title (such as Event 1, Event 2, etc.), click the <strong>Count </strong>checkbox [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-event" data-step-uuid="a8d378cd-bd98-4db9-aabf-bbb2833344d0">
+    <h2 id="create-event" class="step-title screensteps-heading">Create Event</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/973/074/original/e4a5c1ef-44a7-4029-8de5-b0f6785a1cee.png" srcset="" alt="Create Event" height="73" width="241">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52489a39-2166-4278-8472-2f357d18093c" class="text-block-content">
+    <p>Click the <strong>Create Event </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-events" data-step-uuid="b0be78a9-3dfc-4e36-8535-c83465b390a7">
+    <h2 id="view-events" class="step-title screensteps-heading">View Events</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/973/076/original/608bec12-917e-4cd3-9540-4cf5943fca8e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/973/076/medium/608bec12-917e-4cd3-9540-4cf5943fca8e.png" srcset="" alt="View Events" height="517" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_32033acd-1072-47c8-877a-7cb6c743d152" class="text-block-content">
+    <p>View the events in your course calendar.</p>
+<p>Remember, once created, duplicate events are not linked together and are independent events. Therefore, if you need to modify an event, each event has to be <a href="https://canvas.screenstepslive.com/admin/v2/internal_links/54672?type=article&amp;site_id=2204" target="_blank" rel="nofollow noopener noreferrer">edited individually</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

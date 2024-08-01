@@ -1,0 +1,90 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BABC2640-222B-0135-DAEB-22000B5A851D" class="text-block-content">
+    <p>If you need to export content from Classic Quizzes, you can export quiz content as a QTI ZIP file. Classic quizzes are exported as QTI 1.2 files.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>An exported quiz with questions linked to a question bank will not include an export of the question bank. The QTI file will only include questions from the question bank that have been added to the quiz. If you want to import the classic quiz into another course along with question banks, you may prefer to <a href="/t5/Instructor-Guide/How-do-I-export-a-Canvas-course/ta-p/785" target="_blank">export your Canvas course</a> and select quizzes and question banks in the <a href="/t5/Instructor-Guide/How-do-I-copy-content-from-another-Canvas-course-using-the/ta-p/1012" target="_blank">course import</a>.</li>
+<li>You can use the QTI zip file to import quiz content between Canvas courses. If you unzip the QTI file, the files are in XML format.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="8980F50E-7054-44AD-9766-A6011773D499">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/704/original/3f6e23ab-a8aa-4f84-9a35-6a47637d0e31.png" srcset="" alt="Open Settings" height="247" width="155">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BABE8FA0-222B-0135-DAED-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export_course_content" data-step-uuid="86909C0E-1C7E-45D5-BD8C-C08EA6055DFD">
+    <h2 id="export_course_content" class="step-title screensteps-heading">Export Course Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/743/653/original/e9c2fa5c-11b8-4619-8ef2-5fb939ece838.png" srcset="" alt="Export Course Content" height="438" width="281">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BABF92F0-222B-0135-DAEF-22000B5A851D" class="text-block-content">
+    <p>In the sidebar, click the <strong>Export Course Content</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_export_type" data-step-uuid="B2C29FC7-EAC2-4F07-ADA3-F82F0C0DC0F0">
+    <h2 id="choose_export_type" class="step-title screensteps-heading">Choose Export Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/743/657/original/daec364a-bd48-48a0-8d19-879520ba47cc.png" srcset="" alt="Choose Export Type" height="703" width="469">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BAC04360-222B-0135-DAF1-22000B5A851D" class="text-block-content">
+    <p>Click the radio button for <strong>Quiz Export</strong> [1]. Choose the Quizzes you want to export [2]. Click the<strong> Create Export</strong> button [3].</p>
+<p><strong>Note:</strong> When you create an export, Canvas will create an export archive [4] where you can download prior export files. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_quiz_export" data-step-uuid="38A367A6-4FD0-441B-B88B-86864E22286A">
+    <h2 id="view_quiz_export" class="step-title screensteps-heading">View Quiz Export</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/805/807/original/88fa3da4-4c27-440f-b4b2-d3cc1cbda962.png" srcset="" alt="View Quiz Export" height="256" width="456">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BAC11820-222B-0135-DAF3-22000B5A851D" class="text-block-content">
+    <p>When the export is complete, click the <strong>New Export</strong> link.</p>
+<p><strong>Note</strong>: Content exports expire after 30 days and can no longer be downloaded.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

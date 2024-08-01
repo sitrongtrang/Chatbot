@@ -1,0 +1,176 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_47dfd4ab-3266-4af6-9eab-7e12ec7989a8" class="text-block-content">
+    <p>If you are enrolled in a blueprint course as an instructor, you can sync blueprint content changes to associated courses. </p>
+<p><strong>Content Sync</strong></p>
+<p>After a change is made to an object or attribute, the blueprint course sidebar displays a sync option indicating that unsynced changes have been made in the course. Content can be synced at any time.</p>
+<p>All course content will be included in a blueprint sync, regardless of whether content is locked. Changed content will always overwrite the existing content in the associated courses for all locked objects. Content that can be managed by an instructor or new content created in an associated course by the instructor is not affected.</p>
+<p>Notifications within associated courses can only be sent if the notification trigger has not yet occurred. Features such as announcements in a blueprint course may need to be created as a delayed post so the announcement displays in the associated course after syncing course content.</p>
+<p><strong>Content State</strong></p>
+<p>The sync will include the state of each object as it exists in the blueprint course. For instance, if an assignment is unpublished in the blueprint course, it will also be unpublished in the associated course. However, once the state is changed in the associated course, the state within the blueprint course will no longer apply.</p>
+<p><strong>Modules Exceptions</strong></p>
+<p>If a blueprint course includes Modules, changes to the modules structure are triggered as part of a course sync. Modules cannot be locked, but course state applies to all individual module items. </p>
+<p>The following sync exceptions apply for Modules content:</p>
+<ul>
+<li>Associated courses match the modules structure initially created in the blueprint course. Any additional modules and their content added to the blueprint course and synced to associated courses will always be added to the bottom of the Modules page in the associated courses.</li>
+<li>If modules or module items are rearranged in an associated course, the module order will be updated to match the blueprint course structure in the next sync. If a module item in an associated course is moved to another module, the module item will exist in both modules.</li>
+<li>Modules created from a blueprint course and deleted from an associated course will not be restored in additional course syncs.</li>
+<li>Manually created module items in an associated course will remain in the module but will display above all blueprint synced module items. Imported module items in associated courses will be removed during blueprint sync.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8fae00b7-a192-4935-a30a-3431153b5794" class="text-block-content">
+    <p><strong>Notes:</strong></p>
+<ul>
+<li>Changes within Course Settings do not trigger unsynced changes. The course only recognizes unsynced changes when a change is made to course content.</li>
+<li>Associated courses display the <a href="/t5/Instructor-Guide/How-do-I-view-the-blueprint-sync-information-for-a-course/ta-p/1218" target="_blank">latest blueprint sync information</a> in Course Settings.</li>
+<li>Blueprint courses do not sync certain course settings to associated courses, including timezone, term, and course format.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course" data-step-uuid="8b834665-effd-4ca7-a0df-75e084504217">
+    <h2 id="open_course" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/743/original/3541bd4b-1a81-42d7-94ca-f7d76ab6f3a8.png" srcset="" alt="Open Course" height="541" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_75ead7ff-ea0f-44b9-a96f-2427220cc381" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_blueprint_sidebar" data-step-uuid="db63419c-3cd4-42b2-905f-2c9fd9716443">
+    <h2 id="open_blueprint_sidebar" class="step-title screensteps-heading">Open Blueprint Sidebar</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/259/815/original/1a3669f6-951f-45de-8924-5ff0d0917dca.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/259/815/medium/1a3669f6-951f-45de-8924-5ff0d0917dca.png" srcset="" alt="Open Home Page Blueprint Sidebar" height="381" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e115afda-faa6-4bd7-b580-049137f61071" class="text-block-content">
+    <p>In the Course Home Page, click the Blueprint sidebar tab.</p>
+<p><strong>Note:</strong> You can also access the Blueprint sidebar from any Course Navigation page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sidebar" data-step-uuid="8c065b5e-06fb-4e4b-a604-02172aa196d4">
+    <h2 id="view_sidebar" class="step-title screensteps-heading">View Sidebar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/826/original/d81337ff-04a7-40f2-8fb5-94478ae5b1af.png" srcset="" alt="View Blueprint Sidebar" height="285" width="348">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ddec3cf9-aa5d-4c41-b468-0bdf2e03156f" class="text-block-content">
+    <p>The Blueprint sidebar provides quick access to blueprint sync information.  </p>
+<p>If any changes have been made in the course, the sidebar displays the number of unsynced changes in the course [1]. All course content is copied in the sync regardless of whether or not objects are locked. The only exception is Course Settings, which must be selected on a per-sync basis as part of the sync options [2]. You can also create a notification about the sync from the sidebar [3].</p>
+<p>If you know what content is being synced and you are ready to sync your content, you can sync updates directly from the sidebar [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_unsynced_changes" data-step-uuid="29d43cfd-83bb-4bc0-8777-9bb6cb0db7ff">
+    <h2 id="view_unsynced_changes" class="step-title screensteps-heading">View Unsynced Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/821/original/1e966ce5-f289-4fce-9234-3c0182abf45c.png" srcset="" alt="View Unsynced Changes" height="285" width="317">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e5c42d25-d800-462f-b08b-259893d000ae" class="text-block-content">
+    <p>If you are not sure what content is being synced, or if you just want to confirm existing changes in the course, you can view specific details about the unsynced changes by clicking the <strong>Unsynced Changes</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/259/813/original/0db3ff38-e86f-45ea-b5ca-21b9becf4513.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/259/813/medium/0db3ff38-e86f-45ea-b5ca-21b9becf4513.png" srcset="" alt="View Unsynced Changes Page" height="205" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fbbdca97-54b1-4ff9-9ee7-12dbba229b91" class="text-block-content">
+    <p>The Unsynced Changes page shows the specific content that has been updated. Each content object shows the current status of the object (locked or unlocked) [1], the name of the content item [2], the content change [3], and the content object type [4]. </p>
+<p>Content changes can be created, updated, or deleted. <em>Updated</em> changes indicate any change to existing content.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_sync_options" data-step-uuid="d32b261c-4db2-4e9f-aa36-a6449f3c827e">
+    <h2 id="select_sync_options" class="step-title screensteps-heading">Select Sync Options</h2>
+  </div>
+
+      <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/817/original/c11f5f9d-90fd-4834-ace2-a7b3cba21247.png" srcset="" alt="Select Sync Options" height="186" width="263">
+  </div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8fde8051-051f-49d7-8e20-10c8ba807b3f" class="text-block-content">
+    <p>Course Settings include all settings options in the course, including Course Navigation. To sync Course Settings to associated courses, select the <strong>Include Course Settings</strong> checkbox [1]. </p>
+<p>If you want to send a notification about the blueprint sync, click the <strong>Send Notification</strong> checkbox [2]. Admins and other instructors can set the Blueprint sync notification and receive updates when a sync is complete.</p>
+<p>To add a message as part of the notification, click the <strong>Add a Message</strong> checkbox [3]. The message can be added as a reference to note what changes were made in the sync and displays in the Sync History page.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sync_changes" data-step-uuid="9b4b2095-9013-4b66-be7b-515973b86480">
+    <h2 id="sync_changes" class="step-title screensteps-heading">Sync Changes</h2>
+  </div>
+
+      <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/893/original/e25085a5-ce66-49d7-9049-ee49ce02fb85.png" srcset="" alt="Sync Changes" height="64" width="202">
+  </div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eb88ea96-ff70-48e1-aa81-bf651418becd" class="text-block-content">
+    <p>Click the <strong>Sync</strong> button.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sync" data-step-uuid="887908a0-a62e-49d2-88e4-375f8619af18">
+    <h2 id="view_sync" class="step-title screensteps-heading">View Sync</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/823/original/5c776ac9-10ad-4fb6-82cd-9d51e01d834c.png" srcset="" alt="View Associations Sync" height="374" width="313">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7af20d43-25a6-42a3-904e-fd609e425704" class="text-block-content">
+    <p>Once a sync has started, the sidebar shows the sync status as long as you are viewing the page. You can leave the page, but know that the sync may take a while to process. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you immediately view an associated course and don’t see any updates, the sync may still be in process. To confirm sync completion, enable the Blueprint sync notification in User Settings.</li>
+<li>Only BluePrint master course content will sync with associated courses. Content that was manually added or copied using a different format will not sync.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

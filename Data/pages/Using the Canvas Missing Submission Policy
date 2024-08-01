@@ -1,0 +1,145 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_553bcadc-d144-40c7-8cd0-80a2e19028d4" class="text-block-content">
+    <p>The Missing Submission policy automatically applies a predefined score if the due date passes without a submission.</p>
+<p>When a missing label is manually applied, the missing label is removed by a new submission or manual removal. Entering a score does not remove a manually-applied missing label.</p>
+<p><strong>Note:</strong> Removing the policy or changing the due date after it has applied will not remove the scores entered.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="missing-submission-policy-settings" data-step-uuid="5d0b28da-3398-4948-8549-2015bcb23985">
+    <h2 id="missing-submission-policy-settings" class="step-title screensteps-heading">Missing Submission Policy Settings</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c74d371f-754c-4484-ab88-b33750e0f949" class="text-block-content">
+    <p>Missing Submission policy settings are managed from the Gradebook settings.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-gradebook" data-step-uuid="2cb02db1-8e2f-47a2-9b0d-16c137637cc7">
+    <h3 id="open-gradebook" class="step-title screensteps-heading">Open Gradebook</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/272/329/original/ef20a1af-83f3-4c04-a721-5e905d9327e0.png" srcset="" alt="Open Gradebook" height="303" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_15e87fdd-974a-4cd8-9837-c0e2259c2406" class="text-block-content">
+    <p>In the Course Navigation menu, click the <strong>Grades</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-gradebook-settings" data-step-uuid="961c4d6a-6512-4f8f-87a9-ad0fb61f12da">
+    <h3 id="open-gradebook-settings" class="step-title screensteps-heading">Open Gradebook Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/278/671/original/273ece8d-c7f0-48f9-b1e5-2e13b97e47a3.png" srcset="" alt="Open Gradebook Settings" height="221" width="579">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_27a09b3d-5e6b-496f-a3a8-d529452223cb" class="text-block-content">
+    <p>In the Gradebook, click the <strong>Settings</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enable-missing-submission-policy" data-step-uuid="7e0ae8a8-df41-4aaf-b2a1-22baefd9eeca">
+    <h3 id="enable-missing-submission-policy" class="step-title screensteps-heading">Enable Missing Submission Policy</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/272/323/original/4a300703-3762-4683-90c6-08b6eaac430d.png" srcset="" alt="Enable Missing Submission Policy" height="214" width="433">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6140c85b-03ae-44b8-96db-5463f88bf1ac" class="text-block-content">
+    <p>To enable the Missing Submission policy and automatically apply a grade to missing submissions, click the <strong>Automatically apply grade for missing submissions </strong>checkbox.</p>
+<p>If scores are being applied automatically, but they appear to be incorrect, review the <strong>Grade Percentage for missing submissions </strong>field. The percentage entered in this field represents the total grade that students will receive when they have a missing submission. </p>
+<p>If you want your students to receive a 0 when they miss a submission, enter 0 (zero) in the percentage field.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="review-assignment-due-dates-and-submission-type" data-step-uuid="91be8cb4-cf78-4b44-bed3-e306def446b2">
+    <h2 id="review-assignment-due-dates-and-submission-type" class="step-title screensteps-heading">Review Assignment Due Dates and Submission Type</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9e345b41-1080-4dfe-8ef3-a14f86db10bf" class="text-block-content">
+    <p>If your Missing Submission policy is not correctly applying to an assignment, your submission type or due dates may be incorrect. The Missing Submission policy only applies to assignments using the Online submission type and that have a due date in the past.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-assignments" data-step-uuid="44c48299-d119-4bb7-88c0-7c70f56da777">
+    <h3 id="open-assignments" class="step-title screensteps-heading">Open Assignments</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/272/319/original/44c73d83-3fed-4dcb-a1df-acd585a0dc96.png" srcset="" alt="Open Assignments" height="337" width="176">
+  </div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-assignment" data-step-uuid="95f0849f-b0a0-4a1a-b14e-b0520ae40e9f">
+    <h3 id="open-assignment" class="step-title screensteps-heading">Open Assignment</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/272/325/original/45fd8a23-edd9-4684-88f7-46315711c426.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/272/325/medium/45fd8a23-edd9-4684-88f7-46315711c426.png" srcset="" alt="Open Assignment" height="143" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88b031a8-06ed-415b-8e24-561d154ea876" class="text-block-content">
+    <p>Click the title of the assignment that isn't displaying the Missing Submission policy correctly.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-assignment-due-dates" data-step-uuid="2dcb66fa-960b-40bf-a6b8-da8b81d82049">
+    <h3 id="confirm-assignment-due-dates" class="step-title screensteps-heading">Confirm Assignment Due Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/272/327/original/b5f9c4a6-75fb-4f4c-a9b4-4a9a03f25289.png" srcset="" alt="Confirm Assignment Due Dates" height="384" width="636">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0c97a0d4-02af-4173-aa86-38eb46425af1" class="text-block-content">
+    <p>Confirm that the due date is correct. If not, you can <a href="https://community.canvaslms.com/docs/DOC-10113-415241285" target="_blank">edit the due date for the assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-submission-type" data-step-uuid="9a62ef31-1174-48bf-8c93-bd55617cbc7c">
+    <h3 id="confirm-submission-type" class="step-title screensteps-heading">Confirm Submission Type</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/272/317/original/a548cef1-9f96-423b-89a3-ffcda14781ce.png" srcset="" alt="Confirm Submission Type" height="346" width="532">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bb826bd4-3487-4637-8bd1-98c88de482a7" class="text-block-content">
+    <p>Confirm that the Online submission type is selected for the assignment. This is the only submission type that works with the automatic Missing Submission policy. If the assignment submission type is not set to Online, you can <a href="https://community.canvaslms.com/docs/DOC-10113-415241285" target="_blank">edit the submission type</a>. You must manually apply the Missing label for missing assignments with other submission types. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

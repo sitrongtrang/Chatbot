@@ -1,0 +1,158 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0E056B20-AAE2-0135-1605-06467EE270FA" class="text-block-content">
+    <p>You can export scores from the Gradebook and download them to your computer as a CSV file. The Gradebook CSV assignment columns display in the same order as shown in the Gradebook for an individual user.</p>
+<p><strong>Notes about CSV files</strong>:</p>
+<ul>
+<li>Some columns that appear in the CSV file are read-only columns calculated by rules or percentages set in Canvas. Any changes made to these columns will be ignored when you re-upload the file to your course.</li>
+<li>When a grading period filter is applied in the Gradebook, the export displays the filtered grading period results. However, assignment group total columns will display across all grading periods.</li>
+<li>For assignment group columns, changes made to assignment scores will automatically be included in the assignment group calculation in the Gradebook.</li>
+<li>The Total column in the Gradebook displays a running total of all graded assignments in the course, including assignments with hidden grades. The CSV download includes read-only columns for current and final scores. Current score reflects the total while ignoring unsubmitted assignments, and the final score counts unsubmitted assignments as zero. Assignments with hidden scores are unposted grades and shown in separate columns for unposted current score and unposted final score, respectively.</li>
+<li>If a student has submitted an assignment multiple times, the CSV file only accounts for the most recent submission.</li>
+<li>Concluded and inactive enrollments are not included in the CSV file unless their respective option, <a href="/t5/Instructor-Guide/How-do-I-view-grades-for-inactive-or-concluded-student/ta-p/753" target="_blank">Show Concluded Enrollments or Show Inactive Enrollments</a>, is enabled in the Gradebook Settings menu.</li>
+<li>Complete/incomplete assignments are shown as full or no credit (e.g. for a 10-point assignment, 10 or 0).</li>
+<li>If you have the Final Grade Override option enabled in your course, the Gradebook export will include the override grade. Changes to the Final Grade Override display in the import confirmation page.</li>
+<li>Gradebook export files automatically save to your user files in an <em>Unfiled</em> folder.</li>
+<li>If you have set manual grade posting policies for specific assignments, those assignments will display the posting policy in the CSV file. However, the grade posting policy cannot be modified via the CSV file.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="700px" height="400px" src="https://embed.app.guidde.com/playbooks/iJmRsCoB1tX7YZqGhMTQkk" title="How do I export grades in the Gradebook?" frameborder="0" referrerpolicy="unsafe-url" allowfullscreen="true" allow="clipboard-write" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-forms allow-same-origin allow-presentation"></iframe>
+<p style="display: none">
+00:00:How do I export grades in the Gradebook?
+00:03:In Course Navigation, click the Grades link.
+00:07:Click the Export button.
+00:10:Click the Export Current Gradebook View link.
+00:13:If you are using grading periods and want all grading periods included in your CSV file, click the Export Entire Gradebook link.
+00:21:If you navigate away from the page during the export, the CSV file will appear as a previous download in the Export menu so it can be downloaded again. The Gradebook allows you to view a previous export. If you made changes to the Gradebook after exporting a file and want to export a new file, click the Export link again.
+00:42:Edit the scores in Microsoft Excel. Make sure to save the file as a CSV file type. Once you have made changes, you can upload it to your course.
+00:53:This guide covered how to export grades in the Gradebook.
+</p>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="0E058050-AAE2-0135-1606-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/979/original/d9ce0627-5cfc-425c-bb50-6bdf539db5e1.png" srcset="" alt="Open Grades" height="233" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E05A7D0-AAE2-0135-1608-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export_scores" data-step-uuid="0E05BA10-AAE2-0135-1609-06467EE270FA">
+    <h2 id="export_scores" class="step-title screensteps-heading">Export Scores</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/730/064/original/5cb10f07-22f5-40a4-a0a9-9b6c9a7f5157.png" srcset="" alt="Export Scores" height="235" width="369">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E05E040-AAE2-0135-160B-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Export</strong> button [1], then click the <strong>Export Current Gradebook View</strong> link [2].</p>
+<p>If you are using grading periods and want all grading periods included in your CSV file, click the <strong>Export Entire Gradebook </strong>link [3].</p>
+<p>When the export is completed, Canvas downloads the CSV file automatically to your computer. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-exported-scores" data-step-uuid="1de089d4-ebc5-4336-ac4c-6aa6b8e64792">
+    <h2 id="view-exported-scores" class="step-title screensteps-heading">View Exported Scores</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/730/066/original/3d98e6bd-8774-498a-9d64-a7855a101dfa.png" srcset="" alt="Export current scores" height="213" width="325">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E062B80-AAE2-0135-160E-06467EE270FA" class="text-block-content">
+    <p>If you navigate away from the page during the export, the CSV file will appear as a previous download in the Export menu so it can be downloaded again. The Gradebook allows you to view a previous export.</p>
+<p>If you made changes to the Gradebook after exporting a file and want to export a new file, click the Export link again.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Gradebook export files include the date and time of the download to differentiate between multiple exports. The export filename format is YYYY-MM-DDTHHMM, followed by the course name.</li>
+<li>Gradebook export files automatically save to your user files in an <em>Unfiled</em> folder.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_scores" data-step-uuid="0E063C90-AAE2-0135-160F-06467EE270FA">
+    <h2 id="edit_scores" class="step-title screensteps-heading">Edit Scores</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/581/246/original/9c3d4bf2-f23c-4402-a4de-ebfd1a9c4080.png" srcset="" alt="Edit Scores" height="148" width="690">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E065F80-AAE2-0135-1611-06467EE270FA" class="text-block-content">
+    <p>Edit the scores in Microsoft Excel. Make sure to save the file as a CSV file type.</p>
+<p>Once you have made changes, you can <a href="/t5/Instructor-Guide/How-do-I-import-grades-in-the-Gradebook/ta-p/807" target="_blank">upload it to your course</a>. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-read-only-columns" data-step-uuid="d8ef8884-ec33-4fa4-ace4-002e94eaefb6">
+    <h3 id="view-read-only-columns" class="step-title screensteps-heading">View Read-Only Columns</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/000/717/original/122735d1-2b98-4033-b9ba-3df9dfa50e82.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/000/717/medium/122735d1-2b98-4033-b9ba-3df9dfa50e82.png" srcset="" alt="View Read-Only Columns" height="119" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_046ac182-57cc-4a34-9be0-2f7781d58fac" class="text-block-content">
+    <p>The CSV download includes read-only columns displaying current and final scores. These columns display for each assignment group in a course and for final course grades. </p>
+<ul>
+<li>
+<strong>Current Points [1]: </strong>Reflects points for graded assignments</li>
+<li>
+<strong>Final Points [2]: </strong>Reflects points for all assignments</li>
+<li>
+<strong>Current Score [3]:</strong> Reflects scores for graded, posted assignments</li>
+<li>
+<strong>Unposted Current Score [4]:</strong> Reflects scores for graded assignments and includes hidden assignments</li>
+<li>
+<strong>Final Score [5]:</strong> Reflects overall score including unsubmitted assignments as zero but excluding hidden assignments</li>
+<li>
+<strong>Unposted Final Score [6]:</strong> Reflects total score, including unsubmitted assignments as zero and hidden assignments</li>
+<li>
+<strong>Current Grade [7]:</strong> Reflects course grade based on graded, posted assignments</li>
+<li>
+<strong>Unposted Current Grade [8]: </strong>Reflects<strong> </strong>course<strong> </strong>grade based on graded assignments, including hidden assignments but excluding unsubmitted assignments</li>
+<li>
+<strong>Final Grade [9]:</strong> Reflects overall course grade including unsubmitted assignments as zero but excluding hidden assignments</li>
+<li>
+<strong>Unposted Final Grade [10]: </strong>Reflects overall course grade, including unsubmitted assignments as zero and hidden assignments</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

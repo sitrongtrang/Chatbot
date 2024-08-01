@@ -1,0 +1,17 @@
+How do I create and add users to an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open People
+In Account Navigation, click the People link.
+Add User
+Click the Add People button.
+Add User Details
+Complete the following fields:
+Full Name is used for grading, SIS imports, and other administrative items.
+Display Name is the what other users will see in discussions, announcements, etc. The user can set his or her own display name if the setting is enabled.
+Sortable Name is the user's last name, first name default. This name appears in sorted lists and admins can search for it.
+Email is used as the user's default email address in Canvas. Emails are used to send course notifications.
+SIS ID is the SIS ID of the user. This field is only used for institutions using SIS imports and only displays to you if you have the correct account-level SIS permissions. 
+Email the user about this account creation is an option to send the user an email about his or her new account. This option is selected by default. If you do not want the user to be notified about the account, deselect this checkbox.
+Add User
+Click the Add User button.

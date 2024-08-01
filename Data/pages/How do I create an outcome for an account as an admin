@@ -1,0 +1,138 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E2C52170-1D4A-0135-114A-22000B5A851D" class="text-block-content">
+    <p>If you cannot <a href="/t5/Admin-Guide/How-do-I-find-an-existing-outcome-to-add-to-an-account/ta-p/254" target="_blank">find an outcome</a> to use in your account, you can create a new outcome for the account. Outcomes can be created from the account, sub-account, or course level. </p>
+<p>Outcomes can be included in <a href="/t5/Admin-Guide/How-do-I-add-a-rubric-in-an-account/ta-p/172" target="_blank">assignment rubrics</a> as an easy way to assess mastery of outcomes aligned to specific assignments. When you define a learning outcome, you should also define a criterion that can be used when building assignment rubrics. Define as many rubric columns as you need, and specify a point threshold that will be used to define mastery of this outcome.</p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/Outcomes-Overview-Admins/ta-p/384046" target="_blank">View a video about Outcomes</a>.</p>
+<p>This article displays how to create outcomes in the classic Outcomes page view. If the Outcomes page in your account displays differently than the images in this article, <a href="/t5/Admin-Guide/How-do-I-create-an-outcome-for-an-account-in-Improved-Outcomes/ta-p/486334" target="_blank">learn how to create outcomes in an account</a> that has enabled the Improved Outcomes Management feature option.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="2fb10c60-33ea-4fb0-808a-7222546e39a5">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E2C5FD70-1D4A-0135-114C-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="EBDFFE9F-A3F6-48C2-8665-6EF36A7B194D">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/364/original/6c7fec6f-d9bb-4785-8a4c-8960d5498a47.png" srcset="" alt="Open Outcomes" height="296" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E2C71670-1D4A-0135-114E-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_outcome" data-step-uuid="4fc3fc57-d76d-43ab-abbd-b1dd93a4f9a7">
+    <h2 id="add_outcome" class="step-title screensteps-heading">Add Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/380/592/original/71191822-7d08-48b4-b096-4b6ee1c24a81.png" srcset="" alt="Add Outcome" height="73" width="329">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E2C7F1B0-1D4A-0135-1150-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>New Outcome</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_outcome" data-step-uuid="90d95852-59de-4e26-a772-97c53f6539fe">
+    <h2 id="create_outcome" class="step-title screensteps-heading">Create Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/062/510/original/2a9e4b7a-83ef-4820-a2fb-547fbdaa42f8.png" srcset="" alt="Create Outcome" height="497" width="662">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E2C8F300-1D4A-0135-1152-22000B5A851D" class="text-block-content">
+    <p>Enter a name for the outcome in the <strong>Name this outcome</strong> field [1]. </p>
+<p>When instructors allow students to view Learning Mastery scores on the Grades page, students will see the name of the outcome. However, you may want to create a custom, <a href="/t5/Admin-Guide/How-do-I-create-custom-account-outcome-names-for-students/ta-p/245" target="_blank">friendly name</a>. To create a friendly name for student view, enter a name in the <strong>Friendly name (optional)</strong> field [2].  </p>
+<p>You can also enter a description in the Rich Content Editor field [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_criterion_ratings" data-step-uuid="417FA098-E93C-4A90-A925-056FBB94F70F">
+    <h2 id="add_criterion_ratings" class="step-title screensteps-heading">Add Criterion Ratings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/835/525/original/ef9f1d8a-587f-4e72-a302-298337c146d1.png" srcset="" alt="Add Criterion Ratings" height="213" width="634">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E2C9BDC0-1D4A-0135-1154-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Edit</strong> icon [1] to edit the criterion rating. You can change the existing name (if desired) for the criterion in the <strong>Criterion Name </strong>field [2]. Set the criterion point value by typing in the <strong>Points </strong>field [3]. </p>
+<p>To save the criterion, click the <strong>OK</strong> button [4]. To remove the criterion completely, click the <strong>Delete</strong> button [5].</p>
+<p>To add additional criterion ratings, click the <strong>Insert </strong>link [6].</p>
+<p><strong>Note:</strong> If you cannot edit criteria for your outcome, your institution has enabled <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-scales-in-an-account/ta-p/429017" target="_blank">account-wide mastery scales</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_mastery_and_calculation_method" data-step-uuid="e728f1ef-eb2a-4d70-bb38-f5f2725e2649">
+    <h2 id="set_mastery_and_calculation_method" class="step-title screensteps-heading">Set Mastery and Calculation Method</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/800/220/original/ce9e967a-12cf-4adc-9213-2ae0c675c02d.png" srcset="" alt="Set Mastery and Calculation Method" height="530" width="656">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E2C9F690-1D4A-0135-1156-22000B5A851D" class="text-block-content">
+    <p>Set the mastery point value in the <strong>Mastery at </strong>field [1]. This field indicates the number of points that must be achieved for mastery according to the criterion ratings.</p>
+<p>In the <strong>Calculation Method</strong> drop-down menu [2], select the calculation method for the outcome. By default, new outcomes are set to the Weighted Average calculation method in the Canvas interface.</p>
+<p>Click the <strong>Save </strong>button [3].</p>
+<p><strong>Note:</strong> If you cannot edit calculation methods for your outcome, your institution has enabled <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-calculations-in-an-account/ta-p/429016" target="_blank">account-wide outcome calculation methods</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_outcome" data-step-uuid="651822A1-B5AE-41DC-8E18-5CE9F30FB477">
+    <h2 id="view_outcome" class="step-title screensteps-heading">View Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/594/original/3509ea7d-9dc2-42de-bd55-8d61b633c41a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/594/medium/3509ea7d-9dc2-42de-bd55-8d61b633c41a.png" srcset="" alt="View Outcome" height="633" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E2CA2EB0-1D4A-0135-1158-22000B5A851D" class="text-block-content">
+    <p>View the created outcome.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,27 @@
+How do I manage outcome mastery scales in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Outcomes
+In Account Navigation, click the Outcomes link.
+Open Mastery
+To view and manage the mastery scale for the account, click the Mastery tab.
+Note: If the Mastery tab does not display in the Outcomes page, account-level outcome mastery scales have not been enabled by your institution.
+Manage Mastery Scale
+The Mastery page displays the mastery scale used as the default for all courses in your account. By default, the account mastery scale includes five levels: Exceeds Mastery, Mastery, Near Mastery, Below Mastery, and No Evidence.
+For each mastery level, you can view a description for the level, level points, and level color.
+To modify a level description, enter a description in the Description field.
+To modify the point value associated with level achievement, enter a value in the Points field.
+To specify the level that indicates student mastery, locate the level in the list and click the Mastery radio button.
+Change Color
+Each mastery level is assigned a color that displays when viewing outcome scores in the Learning Mastery Gradebook. To change the level's color, click the Change link. Then click the icon for the color you want to use or enter the color's hex code in the text field. If the hex code is not valid, the field displays a warning icon. Any variation of white is not accepted as a color.
+To save your color selection, click the Apply button.
+Add Mastery Level
+To add a new mastery level, click the Add Mastery Level button. The new level displays at the bottom of the list and cannot be moved. However, the mastery levels will be sorted numerically after your changes are saved.
+Delete Mastery Level
+To delete a mastery level, click the Delete icon.
+Confirm Deletion
+To confirm you want to delete the mastery level, click the Confirm button.
+Save Mastery Scale
+To save changes to the mastery scale, click the Save Mastery Scale button.
+Confirm Changes
+Saving your mastery scale changes will update all rubrics aligned to outcomes that have not been assessed in your account. To confirm your changes, click the Save button.

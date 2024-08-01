@@ -1,0 +1,17 @@
+How do I publish or unpublish a module as an instructor
+Open Modules
+In Course Navigation, click the Modules link.
+View Status of All Modules
+On the Index page, you can view the state of each module. Green icons indicate the module is published. Gray icons indicate unpublished modules. You can change the status of a module by using the module's publishing drop-down menu.
+Publish a Module
+To publish a module, click the module's publishing drop-down menu. To bulk publish the entire module and all its items, click the Publish module and all items option. To only publish the module and not the module items, click the Publish module only option.
+Note: Bulk publishing files in a module is only available when File Copyright is enabled and usage rights are set or disabled in a course.
+Unpublish a Module
+To unpublish a module and all its items, click the module's publishing drop-down menu and click the Unpublish module and all items option. To only unpublish the module and not the module items, click the Unpublish module only option.
+Note: Bulk unpublish is not available for any files within a module.
+Change Status of Module Content Items
+You can view and change the status of individual module content items as well. Although publishing a module will also publish all module items, you can manually unpublish individual module items later. Students cannot view unpublished module items as part of a published module. Learn more about managing assignments, quizzes, discussions, pages, and files. 
+If you add a restricted file as a module content item, restricted files appear with a lock icon. Restricted files act as published files and can be viewed by students (depending on the restriction setting). Learn more about restricting files in Canvas.
+Note: Please be aware that an unpublished module overrides the state of individual module items. If an item is published within an unpublished module, students cannot view the item on the Modules page but they can still view the published items in other areas of Canvas. However, they will not be able to interact with the item until the module is published.
+Modules Student View
+Students cannot see any of the actions involved with published status, such as published and unpublished icons and setting icons. Students will only see published modules and available module content items, which are displayed in gray text.

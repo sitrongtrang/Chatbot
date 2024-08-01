@@ -1,0 +1,10 @@
+Importing SIS CSV files
+Review Error Messages
+If you find a file has failed, review any error messages that are available to you on the SIS Imports page. You may find that the file itself had an error message, or that particular lines in the file failed, under the Last Batch section.
+Note: Certain error messages require you to contact support to review.
+Review CSV Header Formatting
+The CSV requires specific formatting to upload properly. In particular, you will want to review the CSV headers.
+For more information about formatting CSV files, visit the Canvas Guides.
+Confirm CSV is UTF-8 Encoded
+SIS Imports CSVs are required to be encoded in UTF-8 without byte order mark. Most applications will automatically encode for UTF-8, though some programs, such as Microsoft Excel, will change to an alternate encoding.
+If your software is capable of encoding files out of UTF-8, you should be able to specifically select UTF-8 as an option when saving. The exact steps of this process will depend on the application. 

@@ -1,0 +1,140 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E73F1EE0-CC1D-0137-0095-0E63FF21C970" class="text-block-content">
+    <p>You can embed HTML in the Rich Content Editor. When creating custom HTML coding in Canvas, you may discover that certain HTML codes do not work upon saving. This is because Canvas will only support certain HTML elements for security reasons. This also applies to content copied and pasted from an external source. Below is a link to a list of HTML tags that are permissible in Canvas. HTML tags that are not on this list may be stripped out of the Rich Content Editor when you save your work. For more information, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-HTML-Editor-Allowlist/ta-p/387066" target="_blank">Canvas HTML Editor Allowlist resource document</a>.</p>
+<p>The HTML Editor in the Rich Content Editor can display HTML in either a pretty HTML editor with numbered lines and syntax highlighting or a raw HTML editor that displays HTML as raw text.</p>
+<p>Several features in Canvas support the Rich Content Editor, including Announcements, Assignments, Discussions, Pages, Quizzes, and Syllabus.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The Rich Content Editor saves the last used HTML editor state (raw or pretty). This persists across browser tabs and windows.</li>
+<li>Images, including equation images, are stored as absolute (full website) URLs which may affect course copies.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I use the HTML view in the Rich Content Editor (RCE)?" src="https://community.instructuremedia.com/embed/6f7658bd-8088-48a4-8eb5-28f83897e0a2" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_rich_content_editor" data-step-uuid="576fbce8-0c04-4a9c-93ee-6e97954d0902">
+    <h2 id="open_rich_content_editor" class="step-title screensteps-heading">Open Rich Content Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/393/863/original/97874299-0555-496f-91d1-13a68cab3ae3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/393/863/medium/97874299-0555-496f-91d1-13a68cab3ae3.png" srcset="" alt="Open Rich Content Editor" height="340" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8206c012-176d-44f4-b391-7300c711a8af" class="text-block-content">
+    <p>Open the Rich Content Editor when creating or editing an announcement, assignment, discussion, page, quiz, or syllabus.</p>
+<p><strong>Note:</strong> The Rich Content Editor supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press <strong>ALT+F8</strong> (PC keyboard) or <strong>Option+F8</strong> (Mac keyboard).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_html_editor" data-step-uuid="E73F7340-CC1D-0137-0099-0E63FF21C970">
+    <h2 id="open_html_editor" class="step-title screensteps-heading">Open HTML Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/853/041/original/1b391c9a-1f84-4e4d-8501-4b1799f70b20.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/853/041/medium/1b391c9a-1f84-4e4d-8501-4b1799f70b20.png" srcset="" alt="Open HTML Editor" height="414" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E73F96C0-CC1D-0137-009B-0E63FF21C970" class="text-block-content">
+    <p>Click the <strong>HTML editor</strong> icon.</p>
+<p><strong>Note: </strong>When in HTML view, you can click the same icon to return to the Rich Content Editor.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_content" data-step-uuid="E73FAB40-CC1D-0137-009C-0E63FF21C970">
+    <h2 id="enter_content" class="step-title screensteps-heading">Edit HTML Content</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/764/306/original/1459c000-eb95-425c-840e-fb60403a909c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/764/306/medium/1459c000-eb95-425c-840e-fb60403a909c.png" srcset="" alt="Edit HTML Content" height="369" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E73FD4E0-CC1D-0137-009E-0E63FF21C970" class="text-block-content">
+    <p>The HTML editor displays the pretty HTML editor by default. The pretty HTML editor displays line numbers and syntax highlighting.</p>
+<p>Enter content in the HTML editor or edit existing content using HTML.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-raw-html-editor" data-step-uuid="a4fbaca4-06e9-4a69-b327-381e813020fa">
+    <h2 id="view-raw-html-editor" class="step-title screensteps-heading">View Raw HTML Editor</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/764/308/original/00117457-4717-412f-80f0-8a556dbeba86.png" srcset="" alt="View Raw HTML Editor" height="121" width="250">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6853ec67-1275-475f-9463-a5bc81fa6090" class="text-block-content">
+    <p>To switch to the Raw HTML Editor and edit your HTML in plain text, click the <strong>Switch to raw HTML Editor</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-raw-html" data-step-uuid="04ad8115-17d8-465e-b3c1-1f26125fc114">
+    <h2 id="edit-raw-html" class="step-title screensteps-heading">Edit Raw HTML</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/764/310/original/80e09957-a2c8-4e1d-bcf9-dd8b7494f1a6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/764/310/medium/80e09957-a2c8-4e1d-bcf9-dd8b7494f1a6.png" srcset="" alt="Edit Raw HTML" height="369" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5c4f8600-6348-4057-a7e6-79fc44687d2a" class="text-block-content">
+    <p>Edit your HTML in plain text without line numbers or syntax highlighting. To switch back to the Pretty HTML Editor, click the <strong>Switch to pretty HTML Editor</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-changes" data-step-uuid="cd484062-797f-48a2-9604-e8adef452478">
+    <h2 id="save-changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/878/554/original/93d6f880-cb40-4034-9840-0e3865c9a090.png" srcset="" alt="Save Changes" height="68" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_40eb9056-7025-4a7a-a111-cd51c111d19e" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The assignment, discussion, pages, and quizzes details pages display a <strong>Save &amp; Publish</strong> button. </li>
+<li>The Syllabus page displays an <strong>Update Syllabus</strong> button. </li>
+<li>Discussion replies display a <strong>Post Reply</strong> button.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

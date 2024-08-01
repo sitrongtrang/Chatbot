@@ -1,0 +1,182 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_11791A50-222A-0135-7616-22000BC102FE" class="text-block-content">
+    <p>You can create a quiz by finding questions from question banks.</p>
+<p>You can add questions from <a href="/t5/Instructor-Guide/How-do-I-create-a-question-bank-in-a-course/ta-p/1228" target="_blank">all of the question banks</a> that you have built in other courses where you are the Instructor, question banks that have been added by your administrator to your sub-account, and question banks you have <a href="/t5/Instructor-Guide/How-do-I-bookmark-a-question-bank-in-a-course/ta-p/1231" target="_blank">bookmarked in other courses</a>. If an outcome is aligned to a question bank, referencing the question bank in a quiz will also import the associated outcome to the course.</p>
+<p>Canvas will reference the questions you choose as each student takes the quiz. These questions will stay in sequential order and stay in order each time the quiz is taken or previewed. If you want to randomize quiz questions, you can add them to a <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-a-question-group-to-randomize-quiz/ta-p/1032" target="_blank">question group</a>.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>When you Find Questions in a question bank, changes made to questions in the question bank will not update in the quiz. Changes will update in the quiz only if the questions are <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-a-question-group-linked-to-a/ta-p/1033" target="_blank">linked to a question bank</a>. </li>
+<li>When the Disable Classic Quiz Creation feature option is enabled, you cannot create new Classic Quizzes. However, existing Classic Quizzes can continue to be edited, imported, and migrated to New Quizzes..</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="FAA44138-A960-420B-A77F-131F4BABA381">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/575/original/20b03ed7-9dbd-489b-901c-30ea4f5e638c.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11794AF0-222A-0135-7618-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_quiz" data-step-uuid="97A65DA2-A9AE-4B1F-A304-A50FBD17885B">
+    <h2 id="add_quiz" class="step-title screensteps-heading">Add Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/505/original/0eb84bc0-be75-4719-9aec-849af2bce41d.png" srcset="" alt="Add Quiz" height="70" width="149">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11797C20-222A-0135-761A-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Quiz</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-classic-quiz" data-step-uuid="6c355b35-ae73-43b2-bca0-2bbdcaab01f0">
+    <h3 id="add-classic-quiz" class="step-title screensteps-heading">Select Quiz Engine</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/787/105/original/013bc7c7-5495-46ac-81c8-c9f5c54625f4.png" srcset="" alt="Select Quiz Engine" height="531" width="476">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7dc6ee28-c3fe-44ab-b89c-8d4530abb353" class="text-block-content">
+    <p>If your course has New Quizzes enabled, you must select a quiz engine.</p>
+<p>Question banks can only be used in Classic Quizzes. To create a classic quiz, click the <strong>Classic Quizzes</strong> option [1].</p>
+<p>To save your quiz engine selection for this course, click the <strong>Remember my choice for this course</strong> checkbox [2].</p>
+<p>Then click the <strong>Submit</strong> button [3].</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Learn more about <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz using New Quizzes</a>.</li>
+<li>You can reset your quiz engine choice from the Quiz Options menu at any time.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_quiz_details" data-step-uuid="2C894E1F-5BE4-4D3F-B753-70B3387306A4">
+    <h2 id="edit_quiz_details" class="step-title screensteps-heading">Edit Quiz Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/047/992/original/2620c0a5-d93f-4421-bbd0-6a8fe89ff5db.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/047/992/medium/2620c0a5-d93f-4421-bbd0-6a8fe89ff5db.png" srcset="" alt="Edit Quiz Details" height="1425" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1179AAB0-222A-0135-761C-22000BC102FE" class="text-block-content">
+    <p>In the Details tab, enter the name of your quiz [1]. In the Rich Content Editor [2], introduce your quiz with formatted text, images, video, or sample math equations. You can even use the media commenting tool to record an introduction to the quiz. </p>
+<p>Complete the rest of the quiz details [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_questions" data-step-uuid="4A0E9700-79B7-4509-A2EE-93FA5092D419">
+    <h2 id="find_questions" class="step-title screensteps-heading">Find Questions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/767/032/original/c58c3f32-7c7d-4baa-af94-094dc1e26d90.png" srcset="" alt="Find Questions" height="257" width="697">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1179D990-222A-0135-761E-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Questions </strong>tab [1]. Click the<strong> Find Questions</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_quiz_question" data-step-uuid="785E4583-B9EC-4405-A248-51FD437456F8">
+    <h2 id="find_quiz_question" class="step-title screensteps-heading">Find Quiz Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/767/037/original/17fe8fb6-23c5-44f8-acef-245635559cf5.png" srcset="" alt="Find Quiz Question" height="409" width="608">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_117A0E90-222A-0135-7620-22000BC102FE" class="text-block-content">
+    <p>Select the question bank where you want to select questions.</p>
+<p><strong>Note</strong>: When you find questions in a question bank, changes made to questions in the question bank will not update in the quiz. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_questions" data-step-uuid="DD4EAFF1-54AE-446D-9975-CE875A2EAEFB">
+    <h2 id="add_questions" class="step-title screensteps-heading">Add Questions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/767/041/original/8b36fc86-44fa-4721-9ecf-bfc1512630e7.png" srcset="" alt="Add Questions" height="401" width="611">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_117A4130-222A-0135-7622-22000BC102FE" class="text-block-content">
+    <p>Check the boxes next to the questions you want to add to your quiz [1]. If you want to select all the questions, click the <strong>Select All </strong>link [2]. </p>
+<p>If you want to add the selected questions to a question group, select the question group drop-down list [3]. You can create a new group or add to an existing group.</p>
+<p>When you've selected all the questions you want to use, click the <strong>Add Questions</strong> button [4].</p>
+<p><span style="color:rgb(29,29,29);">Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</span></p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>When you click the Select All link, Canvas selects only the questions that currently appear in the window. If you have more than 50 questions in your question bank, click the <strong>More questions</strong> button until all the questions you want to select appear in the window.</li>
+<li>If you set a question group to randomly select questions from a question bank, the questions will not be included in quiz exports. The QTI file will download quiz details, but no questions will be included.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_quiz" data-step-uuid="4ab5a0b2-1b49-47bd-ac23-29b70e986333">
+    <h2 id="save_quiz" class="step-title screensteps-heading">Save Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/767/039/original/326dbe46-deec-4e70-9451-49b1073a82fb.png" srcset="" alt="Save Quiz" height="66" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_117A7370-222A-0135-7624-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save</strong> button to save your work and preview the quiz.</p>
+<p><strong>Note</strong>: You should not publish your quiz until it is your final product. If you are ready to publish your quiz and make it available to students, click the <strong>Save &amp; Publish</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="preview_and_publish_quiz" data-step-uuid="172920e0-eebd-4214-9cc9-e458d6dd992c">
+    <h3 id="preview_and_publish_quiz" class="step-title screensteps-heading">Preview and Publish Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/522/original/96046313-b61e-4a3b-a79a-00e5462dfd6a.png" srcset="" alt="Preview and Publish Quiz" height="176" width="637">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_117AA3E0-222A-0135-7626-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Preview</strong> button [1] to see what students will see when they take the quiz. If the preview shows the quiz the way you want it, click the <strong>Publish </strong>button [2].</p>
+<p><strong>Note</strong>: Although you can make changes to the quiz after it is published, students who have already opened or completed the quiz will not see any of the changes, which may affect their grades. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

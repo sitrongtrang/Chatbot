@@ -1,0 +1,199 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_c0b0e3e5-9aa8-490c-bcfa-7cd24334ed5d" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can create a Matching question in New Quizzes. In a Matching question, students are required to match answers from a drop-down menu with a list of questions.</p>
+<p>You can choose to award partial credit or require an exact match for Matching questions. The partial credit option awards points for each correct answer selected. Exact match awards full credit only if all correct answers are selected and no incorrect answers are selected.</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate Matching questions</a> to create a new question.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="68b6e282-7cb6-41be-a868-99d6bff3aeff">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/890/080/original/74a1ea08-4a9b-41e8-ab16-3f5923b27999.png" srcset="" alt="Add Question" height="415" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fce176a9-9f65-45fa-b62f-46d09d7c9137" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="fc09da1c-037c-4f40-878c-7cfdc2a2614d">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add Matching Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/776/087/original/eff3b2ae-ef94-4814-9dc7-59f96a50ce95.png" srcset="" alt="Add Matching Question" height="465" width="476">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d5bd05ed-670e-4969-af17-c03458da7e88" class="text-block-content">
+    <p>Click the <strong>Add Matching</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-details" data-step-uuid="a4b64610-e066-434d-b236-565a667fbc65">
+    <h2 id="add-question-details" class="step-title screensteps-heading">Add Question Title and Stem</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/120/original/4b13a863-3a00-40cc-ae5d-ce81464840cd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/120/medium/4b13a863-3a00-40cc-ae5d-ce81464840cd.png" srcset="" alt="Add Question Title and Stem" height="108" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_df8df120-063b-4f92-85ae-65cab362742a" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Question Stem</strong> field [2], add the question stem. The question stem contains the question and, if necessary, additional instructions and information. You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your question stem.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-answer-pairs" data-step-uuid="1db63dec-9155-4e2e-af1b-aa01d9f6a800">
+    <h2 id="add-question-answer-pairs" class="step-title screensteps-heading">Add Question/Answer Pairs</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/855/original/6de03ea0-abb2-4da0-ac1e-335797bb4d26.png" srcset="" alt="Add Question/Answer Pairs" height="348" width="784">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_15fb77ad-81f6-4619-852a-f96d17950a22" class="text-block-content">
+    <p>To add a question and answer pair, type the question in the <strong>Question</strong> field [1] and its matching answer in the <strong>Answer</strong> field [2]. To add additional Question/Answer pairs, click the <strong>Add Question/Answer Pair</strong> link [3]. To delete a Question/Answer pair, click the <strong>Delete</strong> icon [4].</p>
+<p>To shuffle questions, click the <strong>Shuffle Questions</strong> checkbox [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-distractors" data-step-uuid="376cd5a1-6321-49a2-8b05-b025b42f046e">
+    <h3 id="add-distractors" class="step-title screensteps-heading">Add Additional Distractors</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/122/original/38afba2b-0bab-4c51-a2c1-1092fc114b0d.png" srcset="" alt="Add Additional Distractors" height="165" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dbf962ba-472e-430b-901a-798f7e7b550c" class="text-block-content">
+    <p>You can also add additional distractors to the question. Distractors will appear in the drop-down menu with the answers added in the Answer fields. To add a distractor, click the <strong>Add Distractor</strong> button [1] and type the distractor name in the <strong>Additional Distractors</strong> field [2].</p>
+<p>To delete a distractor, click the <strong>Delete</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-on-screen-calculator" data-step-uuid="2cdcba3a-e561-49db-89b9-94e3eea4d5d3">
+    <h2 id="enable-on-screen-calculator" class="step-title screensteps-heading">Enable On-Screen Calculator</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/303/363/original/822b39f5-e6a6-4ac6-ace3-c841f4438f66.png" srcset="" alt="Enable On-Screen Calculator" height="334" width="767">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7f35ec6e-3280-4567-9893-848bc4451b6e" class="text-block-content">
+    <p>To allow students to use an on-screen calculator for this question, click the <strong>Show on-screen calculator</strong> checkbox [1]. </p>
+<p>If you select this option, you can choose either a basic calculator [2] or scientific calculator [3]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-grading-option" data-step-uuid="9b800c63-154d-4761-b9f5-c6c92b57133d">
+    <h2 id="select-grading-option" class="step-title screensteps-heading">Select Grading Option</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/977/917/original/26d641b4-3d81-4613-8f40-0d558a3b3ff6.png" srcset="" alt="Select Grading Option" height="266" width="642">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_29bc2f12-916f-4ba5-8708-19ffbfc5e7bb" class="text-block-content">
+    <p>You can select a grading option for the question. To award partial credit for the question, click the <strong>Partial credit </strong>option [1]. The Partial credit option awards points for each correct answer selected.</p>
+<p>Partial credit is calculated by dividing the total points possible by the number of correct answers for the question. This amount is awarded for each correct answer selected. No points are awarded for answers that are not selected. Zero is the lowest possible score. For example, if a question is worth 4 points and there are 2 correct answers, Canvas divides 4 by 2 and awards 2 points for correct answers selected.</p>
+<p>To award points only for an exact match, click the <strong>Exact Match</strong> option [2]. The Exact Match option only awards points if all correct answers are selected and no incorrect answers are selected.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="c48cae4b-b45c-475e-a323-e5b1bf74611a">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/124/original/cf3c541a-778a-407f-a452-c5fadec24178.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/124/medium/cf3c541a-778a-407f-a452-c5fadec24178.png" srcset="" alt="Align to Outcome" height="303" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_80b04753-a478-4851-bae9-eb9ed9dd28fc" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="7a5c534e-86f7-4e69-9539-2dab9d2cf829">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/126/original/058f9e8b-7786-4d5f-a692-ac6e9bd4017d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/126/medium/058f9e8b-7786-4d5f-a692-ac6e9bd4017d.png" srcset="" alt="Add to Item Bank" height="156" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bbe4d65e-fa4f-4925-9b24-77d4b3ea5f39" class="text-block-content">
+    <p>If you want to save a question to use in other quizzes, you can add it to an item bank.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note: </strong>After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="30cd8f2a-19ca-4d13-8889-b7a316e906d7">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value and Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/128/original/bbc5b70f-9add-4f3e-ae1d-81ceee1c1512.png" srcset="" alt="Add Point Value and Feedback" height="234" width="749">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7ea031a6-99ae-4ffc-be05-e0f52ac32ef1" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-feedback-to-a-question-in-New-Quizzes/ta-p/591" target="_blank">leave feedback for students</a>, click the <strong>Feedback</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="b7133e29-5ca9-4451-9796-6911baa2a51d">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/130/original/dfe73624-76e6-4fd3-af5a-dada3b83b1b2.png" srcset="" alt="Save Question" height="67" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7e6e69fa-6735-4ad8-99ef-242cc6ad1022" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

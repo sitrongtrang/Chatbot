@@ -1,0 +1,197 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_DE3E0D90-1D7E-0135-230C-22000BC102FE" class="text-block-content">
+    <p>Term dates should be set before adding any courses to your account. Terms are associated with and used to filter data in <a href="/t5/Admin-Guide/How-do-I-view-grading-periods-in-an-account/ta-p/179" target="_blank">account grading periods</a>, <a href="/t5/Admin-Guide/How-do-I-view-account-analytics/ta-p/165" target="_blank">account analytics</a>, and <a href="/t5/Admin-Guide/How-do-I-view-reports-for-an-account/ta-p/109" target="_blank">account reports</a>.</p>
+<p>Canvas always includes a default term, which cannot be removed or renamed. However, you can add new terms with specific start and end dates.</p>
+<p>Within each term, you can also set participation dates for specific user roles. Retaining the default term settings seem to be preferred by the majority of Canvas institutions, as they allow Teachers, TAs, and Designers to ensure course content will be ready by the course start date. Default settings include the following access for each user role:</p>
+<ul>
+<li>Students inherit the term start and term end date.</li>
+<li>Teachers, TAs, and Designers dates inherit a <em>whenever</em> start date to the term end date. <em>Whenever</em> means that these user roles can always access a course before the term begins.</li>
+</ul>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Terms can also be created using SIS Imports. However, SIS imports cannot specify specific dates for each user group and must be changed manually.</li>
+<li>Terms reside at the main account level and cannot be created for sub-accounts.</li>
+<li>Only admins can view the Terms page in Canvas. Instructors and students cannot view the Terms page, so please ensure users in your institution are aware of term dates for your institution publicly.</li>
+<li>Terms in consortium accounts are inherited from the parent account. Child consortium accounts cannot view or change terms.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="847d20f2-6770-4068-a4fe-3aaa9f65397d">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3ed942a1-1569-4c16-876b-7a50d6428c46" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_terms" data-step-uuid="1587F72C-61D1-40C2-BF7C-B950C5D616BE">
+    <h2 id="open_terms" class="step-title screensteps-heading">Open Terms</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/798/035/original/6b0db6b8-2925-47df-bd84-ad3b22340668.png" srcset="" alt="Open Terms" height="281" width="166">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE3E4010-1D7E-0135-230E-22000BC102FE" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Terms </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_new_term" data-step-uuid="CB8152B7-55E6-4163-8416-9A7F30DFDDA8">
+    <h2 id="add_new_term" class="step-title screensteps-heading">Add New Term</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/839/original/c4c0545a-a95f-4edd-bbc7-e2d612e6defd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/839/medium/c4c0545a-a95f-4edd-bbc7-e2d612e6defd.png" srcset="" alt="Add New Term" height="259" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE3E6ED0-1D7E-0135-2310-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add New Term </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_term_details" data-step-uuid="74524959-d23d-4953-8e59-d32e0d0ee13e">
+    <h2 id="add_term_details" class="step-title screensteps-heading">Add Term Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/841/original/d12068b5-df70-4936-bf11-c8df8546d2b9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/841/medium/d12068b5-df70-4936-bf11-c8df8546d2b9.png" srcset="" alt="Add Term Details" height="267" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE3E9EB0-1D7E-0135-2312-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Term Name</strong> field [1], enter a name for the term. This name will be displayed as part of any course added to the term.</p>
+<p>If your institution is using SIS IDs, you can enter an SIS ID for the term in the <strong>SIS ID</strong> field [2]. In SIS CSV files, the SIS ID is called the course ID.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_term_dates" data-step-uuid="F7A2F34E-4B88-422D-9C14-643AA6134349">
+    <h2 id="add_term_dates" class="step-title screensteps-heading">Add Term Dates</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/843/original/fbed64a7-d6af-46ee-bcd9-7628cfa6eaaf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/843/medium/fbed64a7-d6af-46ee-bcd9-7628cfa6eaaf.png" srcset="" alt="Add Term Dates" height="323" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE3ECF40-1D7E-0135-2314-22000BC102FE" class="text-block-content">
+    <p>In the<strong> Term Runs from</strong> line, use the calendar icons to set a term start date [1] and term end date [2]. </p>
+<p>By default, the student dates to view courses inherit the Term Runs from [start date] to [end date], and Teachers, TAs, and Designers dates inherit a whenever start date to [term end date]. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>By default, term access is cut off at 12 AM on your indicated end date, meaning the previous day is the last full day that users have access to the term. For instance, setting an end date of December 16 means December 15 is the last full day users can access the course. However, you can set a specific time as part of the term dates.</li>
+<li>End dates occur at precisely the minute they are set. For example, a term with an end time at 11:59pm will end at 11:59:00.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_user_dates" data-step-uuid="8acb3e49-a0a7-4efd-9ed2-fbdfa18f0c1d">
+    <h2 id="add_user_dates" class="step-title screensteps-heading">Add User Dates</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/845/original/76812cb7-ef75-48cf-850a-38324f51d008.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/845/medium/76812cb7-ef75-48cf-850a-38324f51d008.png" srcset="" alt="View User Dates" height="299" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE3EFF70-1D7E-0135-2316-22000BC102FE" class="text-block-content">
+    <p>Each term allows you to set specific participation dates for each user role. </p>
+<p>If you want each user role to inherit the default term dates, <em>you do not need to enter any dates</em>. Once you save the term and add it to your account, the user roles will display the following defaults:</p>
+<ul>
+<li>Students inherit the term start and term end date (identified in the Terms page as <em>term start</em> and <em>term end</em>).</li>
+<li>Teachers, TAs, and Designers dates inherit a <em>whenever</em> start date to the term end date (identified in the Terms page as <em>term end</em>). <em>Whenever</em> means that there is no start date, and these user roles can always access a course before the term begins.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="modify-user-dates" data-step-uuid="bf535cba-f595-4f3d-9c1d-94db77a77673">
+    <h3 id="modify-user-dates" class="step-title screensteps-heading">Modify User Dates</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/847/original/4c5002de-2cd3-4ea4-bbef-8458032de1e5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/847/medium/4c5002de-2cd3-4ea4-bbef-8458032de1e5.png" srcset="" alt="Modify User Dates" height="309" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b107ad73-6dbc-404f-9299-14cad4babc1a" class="text-block-content">
+    <p>If you want to set start and end dates for a specific user role, locate the role and set dates for that role.</p>
+<p>For example, if you want teachers to only be able to access unpublished courses two months before the term start date, and TAs only one week before the term start date, you can set a new start date for each of their respective roles. Date changes to a base role affect all users with the role, including custom roles. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Use caution when editing a <em>whenever</em> date, as the <em>whenever</em> entry is no longer available after it is edited. </li>
+<li>Changing the Teachers, TAs, and Designers start dates affects their ability to access unpublished courses in the term.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_term" data-step-uuid="cf0c19a7-2e41-4520-99f7-1efd5def28a5">
+    <h2 id="add_term" class="step-title screensteps-heading">Add Term</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/680/849/original/c7c1f30e-d356-4f7a-bcad-aa266cf1dfe7.png" srcset="" alt="Add Term" height="61" width="216">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE3F3420-1D7E-0135-2318-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Term </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_term" data-step-uuid="01E7FA14-1592-4F04-B6F5-2C15DA76F36B">
+    <h2 id="manage_term" class="step-title screensteps-heading">Manage Term</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/851/original/2ec63e68-f079-4b2f-87d7-becc6191ca85.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/851/medium/2ec63e68-f079-4b2f-87d7-becc6191ca85.png" srcset="" alt="Manage Term" height="97" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DE3F6220-1D7E-0135-231A-22000BC102FE" class="text-block-content">
+    <p>To edit the term details, click the <strong>Edit </strong>icon [1]. To delete the term, click the<strong> Delete</strong> icon [2]. </p>
+<p><strong>Note</strong>: Terms cannot be deleted if they contain courses.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

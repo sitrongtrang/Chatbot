@@ -1,0 +1,109 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_39165bad-5f07-4d31-8c32-76df1d5f5794" class="text-block-content">
+    <p>As a field admin, you can edit an entry in your <a href="/t5/Admin-Guide/How-do-I-view-my-customer-KB-in-the-Field-Admin-Console/ta-p/228" target="_blank">customer knowledge base</a> (KB). Customer KBs allow institutions to share institution-specific information with agents that accept support cases from their users.</p>
+<p><strong>Note:</strong> Field Admin Console features may vary based on account and user settings. Based on the permissions for your role, you may not be able to view or use the features described in this lesson.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-customer-kb" data-step-uuid="f526391e-4333-4b45-9b25-27dcf6d877c1">
+    <h2 id="open-customer-kb" class="step-title screensteps-heading">Open Customer KB</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/628/867/original/b2e5831a-7897-47e6-991d-219b3083ce81.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/628/867/medium/b2e5831a-7897-47e6-991d-219b3083ce81.png" srcset="" alt="Open Customer KB" height="114" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_26ab7431-3e22-4b0c-aa03-ada52a2bbfb8" class="text-block-content">
+    <p>Click the <strong>Customer KB</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="b73eaffa-19ef-4f09-ad44-723c87637d0f">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account KB</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/978/161/original/fe1006e8-4fc9-4540-953f-61c21b4f2dd0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/978/161/medium/fe1006e8-4fc9-4540-953f-61c21b4f2dd0.png" srcset="" alt="Open Account" height="133" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fa77e5f2-462d-4517-996a-04c6db094b35" class="text-block-content">
+    <p>Click the name of the account you want to view.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-new-entry" data-step-uuid="6672b173-10f2-4955-ae77-c3fe4e49a398">
+    <h2 id="create-new-entry" class="step-title screensteps-heading">Open Entry</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/759/146/original/4a097e33-879d-4bdb-b691-3ccb9d3200c8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/759/146/medium/4a097e33-879d-4bdb-b691-3ccb9d3200c8.png" srcset="" alt="Open Entry" height="285" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1d5c24d2-1a93-4853-bfa4-57d8347729c7" class="text-block-content">
+    <p>To edit an existing KB entry, click the entry's <strong>Options</strong> icon [1], then click the <strong>Edit</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-entry-details" data-step-uuid="cee3e3cc-e81d-466f-99a6-695f2f777664">
+    <h2 id="enter-entry-details" class="step-title screensteps-heading">Edit Entry Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/978/165/original/180b2a7a-7775-4a23-b1e3-63cb706ca2d1.png" srcset="" alt="Enter Entry Details" height="1389" width="834">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_afd0544c-29cf-455b-8718-1fc4480dca93" class="text-block-content">
+    <p>A modal displays in which you can edit the KB entry.</p>
+<p>You can edit the Customer KB in which the entry is located [1], roles affected by the entry [2], the entry name [3], and the entry's priority [4]. </p>
+<p>You can also manage information included in the entry such as details for Canvas Support [5], key words [6], the title for your users [7], and details for your users [8]. </p>
+<p>Lastly, you can <a href="/t5/Admin-Guide/How-do-I-manage-KB-update-requests-in-the-Field-Admin-Console/ta-p/135" target="_blank">view and manage any update requests added by Canvas Support</a> for the entry [9]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-entry" data-step-uuid="0dd8d93f-2714-48c8-969e-686e43eb1cc3">
+    <h2 id="save-entry" class="step-title screensteps-heading">Save Entry</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/978/169/original/bdccfea8-69d3-4063-a7fa-6850593b2185.png" srcset="" alt="Save Entry" height="83" width="280">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c470961d-304c-455f-a926-73c197b9909d" class="text-block-content">
+    <p>To save your changes to the KB entry, click the <strong>Save</strong> button [1]. </p>
+<p>To save this KB entry and create a new KB entry, click the <strong>Save &amp; New</strong> button [2].</p>
+<p>To exit the modal without saving changes, click the <strong>Cancel</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

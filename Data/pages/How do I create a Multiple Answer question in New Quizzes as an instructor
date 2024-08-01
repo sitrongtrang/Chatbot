@@ -1,0 +1,202 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_69ebdd26-0bc2-47e7-bf66-be4bd4473d53" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can create a Multiple Answer question in New Quizzes. Multiple Answer questions are formatted like <a href="/t5/Instructor-Guide/How-do-I-create-a-Multiple-Choice-question-in-New-Quizzes/ta-p/984" target="_blank">Multiple Choice questions</a>, but there are multiple correct answers.</p>
+<p>You can choose to award partial credit with penalty or require an exact match for Multiple Answer questions. The partial credit with penalty option awards points for each correct answer selected and deducts points for each incorrect answer selected. Exact match awards full credit only if all correct answers are selected and no incorrect answers are selected.</p>
+<p>Partial credit is calculated by dividing the total points possible by the number of correct answers for the question. This amount is awarded for each correct answer selected and deducted for each incorrect answer selected. No points are awarded or deducted for answers that are not selected. Zero is the lowest possible score. For example, if a question is worth 4 points and there are 2 correct answers, Canvas divides 4 by 2 and awards 2 points for correct answers selected and deducts 2 points for incorrect answers. If a student selects 2 correct answers and 1 incorrect answer, the student will receive 2 points total (4 points awarded for correct answers and 2 points deducted for incorrect answers).</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate Multiple Answer questions</a> to create a new question.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="df138c64-ec1d-458f-a7d1-f08481e1105f">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/890/797/original/bf6bb94b-c0dd-4e5f-b36b-fd5adae07f65.png" srcset="" alt="Add Question" height="415" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_aa3288b6-b165-4826-8bcc-75dacbdc0394" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="42b6b8e0-0611-44f6-b043-f24f63f01762">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add Multiple Answer Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/776/095/original/08b529dd-ae5e-440c-be67-b6f3d38349e9.png" srcset="" alt="Add Multiple Answer Question" height="465" width="476">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6c1b25e2-4d5e-4526-9b58-63ae6a27d583" class="text-block-content">
+    <p>Click the <strong>Add Multiple Answer</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-details" data-step-uuid="8625f2a2-6077-41b1-bdef-ffaf5ca8069b">
+    <h2 id="add-question-details" class="step-title screensteps-heading">Add Question Title and Stem</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/211/original/a10d6218-9586-4e85-8f65-f82b1cd5a0fa.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/211/medium/a10d6218-9586-4e85-8f65-f82b1cd5a0fa.png" srcset="" alt="Add Question Title and Stem" height="112" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fe10a8c5-0bab-4eee-bc5f-aee05e6aa60d" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Question Stem</strong> field [2], add the question stem. The question stem contains the question itself and, if necessary, additional instructions and information. You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your question stem.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-answers" data-step-uuid="1819bd61-dc24-4401-8bd1-eb8b787ed149">
+    <h2 id="add-answers" class="step-title screensteps-heading">Add Answers</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/213/original/7a8f731a-858b-437e-970f-214b18ed047f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/213/medium/7a8f731a-858b-437e-970f-214b18ed047f.png" srcset="" alt="Add Answers" height="198" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3f765fa6-e100-4fbf-9635-4d35bf1d4f3e" class="text-block-content">
+    <p>To add answers to the Multiple Answer question, type the answers in the <strong>Answer</strong> fields [1]. To select the correct answers, click the checkbox next to the answers [2]. </p>
+<p>To add an additional answer choice, click the <strong>Add Answer</strong> link [3]. To delete an answer, click the <strong>Delete</strong> icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="shuffle-answers" data-step-uuid="ee3b856e-19e5-4a84-a145-e95e3b957372">
+    <h2 id="shuffle-answers" class="step-title screensteps-heading">Shuffle Choices</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/215/original/bee2a79f-cca2-46be-ae2b-c6291f266f4b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/215/medium/bee2a79f-cca2-46be-ae2b-c6291f266f4b.png" srcset="" alt="Shuffle Choices" height="484" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f55e179b-ba99-45d1-90e3-90a1c8227d4f" class="text-block-content">
+    <p>To shuffle answer choices, click the <strong>Shuffle Choices</strong> checkbox [1]. By default all answer choices are shuffled and display as unlocked. To lock an answer in its location, click the <strong>Lock</strong> icon [2]. To unlock a locked question, click the <strong>Unlock</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-on-screen-calculator" data-step-uuid="f6c03f5f-f3de-4bb6-a603-c6d257204236">
+    <h2 id="enable-on-screen-calculator" class="step-title screensteps-heading">Enable On-Screen Calculator</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/303/367/original/6c2de56a-396a-4c64-bc69-d77021d2b6a8.png" srcset="" alt="Enable On-Screen Calculator" height="376" width="757">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b06b4cb0-d3d2-4079-957c-8555023526b0" class="text-block-content">
+    <p>To allow students to use an on-screen calculator for this question, click the <strong>Show on-screen calculator</strong> checkbox [1]. </p>
+<p>If you select this option, you can choose either a basic calculator [2] or scientific calculator [3]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-grading-option" data-step-uuid="f22e440a-5dea-415b-86a9-ae8f3452c875">
+    <h2 id="select-grading-option" class="step-title screensteps-heading">Select Grading Option</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/320/624/original/6db3e923-141a-4b6e-a51f-f49d15640727.png" srcset="" alt="Select Grading Option" height="261" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1bfdb970-991d-4607-97bc-df024dc64624" class="text-block-content">
+    <p>You can select a grading option for the question. To award partial credit with a penalty for the question, click the <strong>Partial credit with penalty</strong> option [1]. The Partial credit with penalty option awards points for each correct answer selected and deducts points for each incorrect answer selected.</p>
+<p>Partial credit is calculated by dividing the total points possible by the number of correct answers for the question. This amount is awarded for each correct answer selected and deducted for each incorrect answer selected. No points are awarded or deducted for answers that are not selected. Zero is the lowest possible score. For example, if a question is worth 4 points and there are 2 correct answers, Canvas divides 4 by 2 and awards 2 points for correct answers selected and deducts 2 points for incorrect answers. If a student selects 2 correct answers and 1 incorrect answer, the student will receive 2 points total (4 points awarded for correct answers and 2 points deducted for incorrect answers).</p>
+<p>To award points only for an exact match, click the <strong>Exact Match</strong> option [2]. The Exact Match option only awards points if all correct answers are selected and no incorrect answers are selected.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="8d9f2eb0-f796-47c9-a49e-95313f1933d1">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/217/original/9573c05d-66fa-48cb-95fc-03be9b0decc6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/217/medium/9573c05d-66fa-48cb-95fc-03be9b0decc6.png" srcset="" alt="Align to Outcome" height="303" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3d1788f3-85b3-4b05-a2f6-924f27c261a9" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="1268f4c3-ceb7-4a97-9f89-ae559d85de6f">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/219/original/a038e314-b2c9-4708-ab5b-2aa5a84c8b4a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/219/medium/a038e314-b2c9-4708-ab5b-2aa5a84c8b4a.png" srcset="" alt="Add to Item Bank" height="156" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e04cdac1-3c25-4c3c-8f2a-d110c18f51d5" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note:</strong> After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="2b596418-ff80-4252-8ae3-c65c8151d8b0">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value and Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/221/original/d950c2f0-144c-4a1b-9368-d73cbe631936.png" srcset="" alt="Add Point Value and Feedback" height="234" width="749">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b6c1ef42-f23b-4159-a366-7cb28fa3af86" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-feedback-to-a-question-in-New-Quizzes/ta-p/591" target="_blank">leave feedback for students</a>, click the <strong>Feedback</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="0b092d61-b510-4755-935d-9766007c3ae6">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/223/original/5f379b85-e605-4c22-b6fc-e3295fcdda05.png" srcset="" alt="Save Question" height="67" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bd503455-f3b1-4cbb-88d9-a25fa2e71faa" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

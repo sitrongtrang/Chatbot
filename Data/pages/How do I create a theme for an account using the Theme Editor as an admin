@@ -1,0 +1,282 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BCBA39B0-1899-0135-8662-22000AB760A3" class="text-block-content">
+    <p>As an admin, you can use the Theme Editor to create custom themes for your institution. Themes are created from existing Canvas templates. Any theme applied to the account also applies to all subaccounts, though the Theme Editor can also be used to create themes for individual subaccounts. Once you have created and saved a theme, you can apply the theme to your account at any time. You can also create new themes based on previous themes. Learn how to <a href="/t5/Admin-Guide/How-do-I-manage-themes-for-an-account/ta-p/154" target="_blank">manage saved themes</a>. </p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/Theme-Editor-Admin/ta-p/383021" target="_blank">View a video about the Theme Editor</a>.</p>
+<p><strong>Theme Inheritance</strong></p>
+<p>Custom branding is hosted at the account level, and by default, sub-accounts and their associated courses inherit account branding. However, you can <a href="/t5/Admin-Guide/How-do-I-set-details-for-an-account/ta-p/194" target="_blank">enable sub-accounts to use the Theme Editor</a>; any elements that are not specifically changed will still be inherited by the account level. </p>
+<p>User enrollments are associated at the account level and course enrollments are associated at the sub-account level. An enrollment is created when a user and a course are joined together. If a user is not enrolled in any courses, the Dashboard displays branding for the account. This algorithm also relates to pages not associated with a course including user account and settings, Calendar, and Conversations. User data is always hosted at the account level, which is why they cannot inherit sub-account branding.</p>
+<p>If a user is enrolled in a course in the account, the Dashboard displays the branding for the account. If a user is enrolled in a course within a sub-account, the Dashboard displays the branding for the sub-account. If a user is enrolled in courses within multiple sub-accounts, or if one of the courses is in the account, the Dashboard displays the branding for the account.</p>
+<p><strong>Theme Editor Components</strong></p>
+<p>For details about the Theme Editor components, including components that display on Canvas apps, please view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Theme-Editor-Components/ta-p/387083" target="_blank">Canvas Theme Editor Components resource document</a>. For help with image templates, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Theme-Editor-Image-Templates/ta-p/387084" target="_blank">Canvas Theme Editor Image Templates resource document</a>. Logos, images, and watermarks are not visible for users who enable the High Contrast Styles feature option in user settings.</p>
+<p><strong>CSS/JS Files</strong></p>
+<p>Custom cascading style sheets (CSS) or JavaScript (JS) files are not required, but override files are also supported in the Theme Editor. CSS/JS file functionality must be enabled by your Customer Success Manager. Before uploading custom CSS or JS files, please be aware of the associated risks, as custom files may cause accessibility issues or conflicts with future Canvas updates. Learn more about <a href="/t5/Admin-Guide/How-do-I-upload-custom-JavaScript-and-CSS-files-to-an-account/ta-p/253" target="_blank">custom CSS/JS restrictions</a>.</p>
+<p> </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The Theme Editor is not available for Free-For-Teacher accounts.</li>
+<li>If you are a subaccount admin and the Themes link is not visible in Account Navigation, Themes has not been enabled for sub-accounts. If the CSS/JS Upload tab is not visible, file uploads have not been enabled for sub-accounts.</li>
+<li>To preview Theme Editor branding, you need to turn off High Contrast UI.</li>
+<li>By default, consortium child accounts inherit the theme applied in the parent account. However, a consortium child account can create a new theme for the child account.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="e18bacc8-768e-4374-a5de-97ea15902eeb">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBA6CE0-1899-0135-8664-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_themes" data-step-uuid="b81dcb88-204c-4827-83c8-e20272ea6987">
+    <h2 id="open_themes" class="step-title screensteps-heading">Open Themes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/794/291/original/71581afa-fb27-4af5-abdc-e679132f8c6a.png" srcset="" alt="Open Theme Editor " height="302" width="179">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBA9D00-1899-0135-8666-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Themes </strong>link. </p>
+<p><strong>Note: </strong>If sub-account themes have been enabled, each sub-account also includes a <strong>Themes</strong> link. To open the Theme Editor for a sub-account, click the <strong>Sub-Accounts </strong>link to locate and open the sub-account, then click the sub-account's <strong>Themes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_theme_template" data-step-uuid="14be7b6c-b4a9-4a1b-8918-285d87636c0a">
+    <h2 id="open_theme_template" class="step-title screensteps-heading">Open Theme Template</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/086/892/original/aab256aa-2a77-430c-a706-ce19b52e6b3c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/086/892/medium/aab256aa-2a77-430c-a706-ce19b52e6b3c.png" srcset="" alt="Open Theme Template" height="354" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBAD350-1899-0135-8668-22000AB760A3" class="text-block-content">
+    <p>If you do not yet have a Canvas theme for your account, use a template to create a new theme. You can choose from the Default Canvas template, a minimalist template, and a State U. template. If your Customer Success Manager has enabled the K12-specific feature option, the K12 Theme also appears as a template.</p>
+<p>To create a new theme, hover over a template and click the <strong>Open in Theme Editor</strong> button [1], or click the <strong>Add Theme </strong>button [2] and select a template from the list.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open_saved_theme" data-step-uuid="6aec392e-1e52-4c8c-bc85-2fa7492115da">
+    <h3 id="open_saved_theme" class="step-title screensteps-heading">Open Saved Theme</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/086/894/original/018decea-e244-4988-b81d-6130fe2ed28f.png" srcset="" alt="Open Saved Theme" height="799" width="711">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBB0010-1899-0135-866A-22000AB760A3" class="text-block-content">
+    <p>If you previously created and saved a theme, you can edit saved themes at any time. Saved themes display in the My Themes section. To open a saved theme, hover over the name of the theme and click the <strong>Open in Theme Editor</strong> button [1].</p>
+<p>To create a new theme based on a saved theme, click the <strong>Add Theme</strong> button [2] and select the name of the saved theme from the list [3]. This option helps you avoid overwriting your previously saved theme.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_theme_editor" data-step-uuid="732e4a1c-26cb-41ef-8f49-3f6378b05f91">
+    <h2 id="view_theme_editor" class="step-title screensteps-heading">View Theme Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/983/801/original/b81d26ea-86ac-4818-85f2-cf39b8a94d07.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/983/801/medium/b81d26ea-86ac-4818-85f2-cf39b8a94d07.png" srcset="" alt="View Theme Editor" height="480" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBB2D60-1899-0135-866C-22000AB760A3" class="text-block-content">
+    <p>The Theme Editor displays a sample page to preview your custom branding. These components will change with the colors and branding that you add using the Theme Editor. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_css_js_upload_tab" data-step-uuid="336a228b-5786-4b58-a237-075287e37196">
+    <h3 id="view_css_js_upload_tab" class="step-title screensteps-heading">View CSS/JS Upload Tab</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/983/803/original/484c05b5-43c6-4e52-ab6f-0ffa7628f25b.png" srcset="" alt="View CSS/JS Upload Tab" height="642" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBB5FF0-1899-0135-866E-22000AB760A3" class="text-block-content">
+    <p>If custom cascading style sheets (CSS) or JavaScript (JS) override files have been enabled for your account, the Theme Editor sidebar displays an <strong>Edit</strong> tab [1] and an <strong>Upload</strong> tab [2]. The Theme Editor defaults to the Edit tab and shows all the Theme Editor components. The Upload tab allows you to upload custom files.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="locate_components" data-step-uuid="6752a9ef-56d9-421a-84ea-2352d06074ce">
+    <h2 id="locate_components" class="step-title screensteps-heading">Locate Components</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/983/805/original/d6bd2911-e767-4954-a8bf-9c8751d4e792.png" srcset="" alt="Locate Components" height="576" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBB9570-1899-0135-8670-22000AB760A3" class="text-block-content">
+    <p>The Theme Editor has four component groups: Global Branding, Global Navigation, Watermarks &amp; Other Images, and Login Screen. By default, the Theme Editor sidebar displays the Global Branding group.</p>
+<p>Locate the component you want to customize. You can expand and collapse groups by clicking the arrow icon next to the group heading.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_color_via_css" data-step-uuid="0c0e6cea-fcd3-47a5-90c2-73a620f70226">
+    <h2 id="select_color_via_css" class="step-title screensteps-heading">Select Color via CSS</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/983/807/original/094be83d-16eb-4f52-85f0-9cef0218e509.png" srcset="" alt="Select Color via CSS" height="449" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBBCB00-1899-0135-8672-22000AB760A3" class="text-block-content">
+    <p>The default value for each component is faded in the text field.</p>
+<p>To specify a color component, locate the component text field and enter a new CSS color. You can enter colors via hex code, RGB value, or valid color name. </p>
+<p><strong>Note: </strong>Entered colors will convert and display as hex codes. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_color_via_color_selector" data-step-uuid="17fe4875-06e3-461d-a65e-67215afddcb8">
+    <h2 id="select_color_via_color_selector" class="step-title screensteps-heading">Select Color via Color Selector</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/983/809/original/f15dd5e6-a622-410d-875a-ecd7f081cf70.png" srcset="" alt="Select Color via Color Selector" height="556" width="306">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBBFB80-1899-0135-8674-22000AB760A3" class="text-block-content">
+    <p>In browsers that support <a href="http://caniuse.com/#search=color" target="_blank" rel="nofollow noopener noreferrer"><span style="color:rgb(16,60,192);">native color inputs</span></a>, the color selector can be used to choose a value. Locate the component and click the color box. The color selector will appear in a new window.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-color" data-step-uuid="2ce1f59b-9bb6-4f0c-8038-b461d9862ea6">
+    <h3 id="select-color" class="step-title screensteps-heading">Select Color</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/983/811/original/1d3be6d3-8d98-4621-b0b8-0bb883304be2.png" srcset="" alt="Select Color" height="671" width="518">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBC29E0-1899-0135-8676-22000AB760A3" class="text-block-content">
+    <p>Select a color in the color selector window [1]. Once a color is selected, the component displays the new color in the box [2]. The component's hex color also updates with the new color value.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_images" data-step-uuid="7b0263ff-40b5-4d56-8203-e8aa07d86637">
+    <h2 id="add_images" class="step-title screensteps-heading">Add Images</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/086/798/original/d2d45db4-2b3d-4d44-9f24-11a62628a08b.png" srcset="" alt="Add Images" height="315" width="307">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBC56F0-1899-0135-8678-22000AB760A3" class="text-block-content">
+    <p>For components that require images, locate the component and click the <strong>Select Image </strong>link. The image description will include supported file types. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="preview_theme" data-step-uuid="b358fea6-7a44-4b87-8fd5-411fe03a69cc">
+    <h2 id="preview_theme" class="step-title screensteps-heading">Preview Theme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/983/813/original/3d51f290-e101-4b5a-88ef-a3f2a07ef71b.png" srcset="" alt="Preview Theme" height="109" width="307">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBC8470-1899-0135-867A-22000AB760A3" class="text-block-content">
+    <p>To preview your theme, click the <strong>Preview Your Changes </strong>button.</p>
+<p>Canvas will generate the preview of the components based on your template changes. If necessary, make additional changes and preview your theme again.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_theme" data-step-uuid="c13451c5-1148-4ec0-bf10-7c2239c0d8bb">
+    <h2 id="save_theme" class="step-title screensteps-heading">Save Theme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/983/815/original/e9b4308c-b6fe-4ff6-b8fc-285ba1608f99.png" srcset="" alt="Save Theme" height="79" width="677">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBCAFD0-1899-0135-867C-22000AB760A3" class="text-block-content">
+    <p>Once you are satisfied with your template changes, save your theme by clicking the <strong>Save Theme </strong>button. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="create_theme_name" data-step-uuid="2073aea3-51ff-46a2-8e34-8bf55bae325e">
+    <h3 id="create_theme_name" class="step-title screensteps-heading">Create Theme Name</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/086/792/original/026b3ed7-9b90-4676-a47f-86af54dfd260.png" srcset="" alt="Create Theme Name" height="273" width="484">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBCDD50-1899-0135-867E-22000AB760A3" class="text-block-content">
+    <p>If you modified a theme from a template, the Theme Editor creates a copy of the theme. Templates cannot be edited directly. In the Theme Name field [1], enter a name for your theme. Click the <strong>Save Theme </strong>button [2].</p>
+<p><strong>Note:</strong> If you edited a previously saved theme, saving the theme overwrites the previous version of the theme and uses the same theme name.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="apply_theme" data-step-uuid="bdf79c58-8331-48c7-bc84-ab7f421f8533">
+    <h2 id="apply_theme" class="step-title screensteps-heading">Apply Theme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/365/original/f12c4fb3-69ce-43c3-86f7-920bcfb0f4ed.png" srcset="" alt="Apply Theme" height="94" width="852">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBD0F80-1899-0135-8680-22000AB760A3" class="text-block-content">
+    <p>To apply your theme to your account, click the <strong>Apply theme </strong>button [1]. </p>
+<p>To exit the theme and return to the Themes page, click the <strong>Exit </strong>button [2]. You can open the theme and apply it to your account at any time. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="2b419a57-d65b-4bf9-9b63-cdd81950a162">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/373/original/f1e52936-6087-44f4-964e-41607b605064.png" srcset="" alt="Verify Theme Application" height="156" width="506">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCBD3FF0-1899-0135-8682-22000AB760A3" class="text-block-content">
+    <p>To apply the theme to your entire account, click the <strong>OK </strong>button [1]. To return to the Theme Editor, click the <strong>Cancel </strong>button [2].</p>
+<p><strong>Note:</strong> If your account allows subaccounts to customize their own themes, any applicable changes you made will also filter down to any associated sub-accounts. Canvas shows the status of your Theme Editor updates; when the process for each subaccount is complete, the subaccount disappears from the progress window. When all subaccounts have been updated, the Theme Editor redirects back to the Themes page.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,239 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E5E26430-CC1D-0137-0032-0E63FF21C970" class="text-block-content">
+    <p>Using the Rich Content Editor, you can upload and embed media files from your computer. Several features in Canvas support the Rich Content Editor, including Announcements, Assignments, Discussions, Pages, Quizzes, and Syllabus.</p>
+<p>Canvas allows you to upload <a href="/t5/Instructor-Guide/What-types-of-media-files-can-I-upload-in-Canvas-as-an/ta-p/1142" target="_blank">supported media types</a>.</p>
+<p>Canvas converts files up to 500 MB. If a file exceeds the 500 MB limit, you can host the file through an external source such as YouTube and embed it using the Rich Content Editor. To learn more about available options for using media files in Canvas, view the <a href="http://bit.ly/cnvs-media-comp" target="_blank" rel="nofollow noopener noreferrer">Canvas Media Comparison PDF</a>.</p>
+<p>Canvas videos also support caption files. Once you upload a video, learn how to <a href="/t5/Instructor-Guide/How-do-I-add-captions-to-new-or-uploaded-videos-in-the-Rich/ta-p/1276" target="_blank">add captions to a video</a>.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you are using Usage Rights, you must <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/796" target="_blank">set the file usage rights</a> before the file will be accessible to students. </li>
+<li>Students cannot view media files uploaded to the Rich Content Editor which have an unpublished restriction setting or are outside of the file's visibility dates. <a href="/t5/Instructor-Guide/How-do-I-restrict-files-and-folders-to-students-in-Canvas/ta-p/610" target="_blank">View file restriction settings</a>.</li>
+<li>Media uploaded in the Rich Content Editor is saved in the Uploaded Media folder in your Course Files or Group Files.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_rich_content_editor" data-step-uuid="8a185a13-d87b-44e8-88d5-fb5697de697a">
+    <h2 id="open_rich_content_editor" class="step-title screensteps-heading">Open Rich Content Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/393/863/original/97874299-0555-496f-91d1-13a68cab3ae3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/393/863/medium/97874299-0555-496f-91d1-13a68cab3ae3.png" srcset="" alt="Open Rich Content Editor" height="340" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d2283721-9b84-42ba-a1da-4ad91765b82a" class="text-block-content">
+    <p>Open the Rich Content Editor when creating or editing an announcement, assignment, discussion, page, quiz, or syllabus.</p>
+<p><strong>Note:</strong> The Rich Content Editor supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press <strong>ALT+F8</strong> (PC keyboard) or <strong>Option+F8</strong> (Mac keyboard).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-image-upload-tool" data-step-uuid="068a0634-9c69-450d-8fa7-83d7ae25f003">
+    <h2 id="open-image-upload-tool" class="step-title screensteps-heading">Open Media Upload Tool from Toolbar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/328/023/original/0b594b6d-56f2-4480-973f-930828f0489b.png" srcset="" alt="Open Media Upload Tool" height="353" width="741">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b0eea096-3822-4b8b-86e3-ee3cf37430fe" class="text-block-content">
+    <p>To upload media from the toolbar, click the <strong>Media </strong>icon [1]. Then select the <strong>Upload/Record Media </strong>option [2].</p>
+<p>To view the Media icon, you may have to click the <strong>Options </strong>icon [3].</p>
+<p><strong>Note: </strong>If the Media icon does not display in the toolbar, media uploads have been disabled by your institution.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-media-upload-tool-from-menubar" data-step-uuid="2d8ce14c-79a8-459d-88aa-2f076ef680d3">
+    <h3 id="open-media-upload-tool-from-menubar" class="step-title screensteps-heading">Open Media Upload Tool from Menubar</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/853/495/original/54d97aa1-95cd-4f26-bc41-f6ed01736e23.png" srcset="" alt="Open Media Upload Tool from Menubar" height="351" width="423">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ae445bc9-9b9f-4cfc-8bad-22ba432e37e7" class="text-block-content">
+    <p>You can also upload media using the menubar in the Rich Content Editor. The menubar displays the title of Rich Content Editor tools and may be preferable for those using keyboard navigation.</p>
+<p>To upload media using the menubar, click the <strong>Insert</strong> menu [1], select the <strong>Media</strong> option [2], and select the <strong>Upload/Record Media</strong> option [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="upload-image-by-drag-and-drop" data-step-uuid="ce87b1ae-d73d-4bc2-939b-1a4253b4df2e">
+    <h4 id="upload-image-by-drag-and-drop" class="step-title screensteps-heading">Upload Media by Drag and Drop</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/767/772/original/3e2cc671-ded8-4b8d-aeb2-ce324579bc39.png" srcset="" alt="Upload Media by Drag and Drop" height="437" width="788">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d99078ae-e244-467a-8da7-555a4ffb47e9" class="text-block-content">
+    <p>You can upload and embed media by dragging and dropping a media file saved to your computer.</p>
+<p><strong>Note:</strong> You can upload and embed multiple media files by dragging and dropping the files saved to your computer.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="upload-image-by-copy-and-paste" data-step-uuid="e7c90e04-78a6-4412-b523-9de95e1cd16e">
+    <h4 id="upload-image-by-copy-and-paste" class="step-title screensteps-heading">Upload Media by Copy and Paste</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/767/774/original/fd8605ba-9093-410c-a6f7-853f6e06b9cb.png" srcset="" alt="Upload Media by Copy and Paste" height="395" width="591">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2c58724d-947a-4931-9e7a-4450c1820702" class="text-block-content">
+    <p>You can upload and embed a media file by copying and pasting a file saved to your computer. To copy a file to your clipboard, right-click the file and select Copy or click the file and use the keyboard shortcut CTRL+C on a PC or Command+C on a Mac.  You can paste the file by right-clicking into the Rich Text Editor and selecting Paste or using the keyboard shortcut CTRL+V on a PC or Command+V on a Mac.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload-image-from-computer" data-step-uuid="233dbda0-930c-4e55-857e-92561951cc36">
+    <h2 id="upload-image-from-computer" class="step-title screensteps-heading">Upload Media from Computer</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/853/731/original/199502d6-2ede-490d-bd13-ea290c0f436c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/853/731/medium/199502d6-2ede-490d-bd13-ea290c0f436c.png" srcset="" alt="Upload Media from Computer" height="501" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_46916767-2949-4c16-9e77-ad18fc5becb4" class="text-block-content">
+    <p>By default, the Media Upload Tool displays the <strong>Computer</strong> tab [1]. Click or drag and drop a media file to media uploader to upload a file from your computer [2]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-file" data-step-uuid="a02ef59d-f0e0-40c1-9fcd-8fbe869af699">
+    <h3 id="select-file" class="step-title screensteps-heading">Select File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/527/353/original/a293a8fb-fa4e-4067-a53a-f2eb8adc088c.png" srcset="" alt="Select File" height="449" width="575">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8524b344-8607-41c8-8fd8-936da5ade53c" class="text-block-content">
+    <p>Select the media file [1] and click the <strong>Open</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-selected-file" data-step-uuid="854c0dcc-c3e3-466a-ac81-8b0c370c3b54">
+    <h3 id="view-selected-file" class="step-title screensteps-heading">View Selected File</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/527/355/original/cef277d1-7554-4062-8955-432ddbc121c5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/527/355/medium/cef277d1-7554-4062-8955-432ddbc121c5.png" srcset="" alt="View Selected File" height="637" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6ac94b8e-6e52-418f-a72e-93375571087e" class="text-block-content">
+    <p>The uploader displays a file preview [1]. </p>
+<p>The uploader also displays the media file name [2]. To change the file name, type a new file name in the media file name field. The name of the file also acts as the alt text for the media file.</p>
+<p>To remove the file, click the <strong>Delete</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-captions-or-subtitles" data-step-uuid="3084c04b-1066-4ef0-b189-69f091787f19">
+    <h3 id="add-captions-or-subtitles" class="step-title screensteps-heading">Add Captions or Subtitles</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/663/992/original/c210da6b-5897-48be-8629-baa7ebf451fc.png" srcset="" alt="Desktop" height="171" width="564">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_883f1cd8-5610-4029-852b-2d4af059dc0d" class="text-block-content">
+    <p>To add captions or subtitles to your video, select the <strong>Add CC/Subtitles</strong> checkbox [1].</p>
+<p>Select a language from the <strong>Select Language</strong> drop-down menu [2], then click the <strong>Choose caption file</strong> button [3] to find and upload your caption file. Supported caption file types include SRT and WebVTT.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit-upload" data-step-uuid="ab3151f2-c7af-4d93-b256-1126214dcc57">
+    <h2 id="submit-upload" class="step-title screensteps-heading">Embed Media File Upload</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/878/429/original/1b05ab72-2ba6-4e40-bdc7-c925290b5688.png" srcset="" alt="Submit Upload" height="70" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6897402a-d093-45c8-a309-d3bac279e97a" class="text-block-content">
+    <p>To embed your selected media file, click the <strong>Submit</strong> button.</p>
+<p><strong>Note: </strong>The file will flash before it embeds in the Rich Content Editor. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-embedded-image" data-step-uuid="c9fb486a-5996-4b4b-a9f0-06b74017563f">
+    <h2 id="view-embedded-image" class="step-title screensteps-heading">View Embedded Media</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/853/497/original/2b1f580e-f707-4b5c-9e90-97ac22eba8b4.png" srcset="" alt="View Embedded Media" height="437" width="742">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a75d04d1-2313-4d97-aa1e-25a38e82d12d" class="text-block-content">
+    <p>View your uploaded media file in the Rich Content Editor.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_changes" data-step-uuid="b257426e-5d6f-4205-838c-0b4743bbc293">
+    <h2 id="save_changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/878/428/original/c1e433c9-3228-4177-bf73-9751a8fbe095.png" srcset="" alt="Save Changes" height="68" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_054b93eb-de72-4fce-99a5-1666a5ceaf2c" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The assignment, discussion, pages, and quizzes details pages display a <strong>Save &amp; Publish</strong> button. </li>
+<li>The Syllabus page displays an <strong>Update Syllabus</strong> button. </li>
+<li>Discussion replies display a <strong>Post Reply</strong> button.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-content" data-step-uuid="f0bcf4f5-686f-4a99-845f-4e0f65bae0d3">
+    <h2 id="view-content" class="step-title screensteps-heading">View Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/663/996/original/c44a73de-d1b5-4f57-8381-536846be01c9.png" srcset="" alt="View Content" height="349" width="703">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2a533339-10f2-4c0c-8821-63982b1d14dd" class="text-block-content">
+    <p>View the content created in the Rich Content Editor.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

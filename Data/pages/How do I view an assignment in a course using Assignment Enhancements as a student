@@ -1,0 +1,251 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_083ef684-3455-4af4-83a5-802bcc7ad811" class="text-block-content">
+    <p>You can view all your course assignments on the Assignments Index page.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Your instructor may choose to hide the Assignments link in Course Navigation. If the Assignments link is not available, you can still access assignments through your user or course dashboard, the Syllabus, Gradebook, Calendar, or Modules.</li>
+<li>Observers can view all content from submitted assignments. However, observers cannot view assignment drafts.</li>
+<li>Assignment Enhancements does not support Cloud Assignments.</li>
+<li>If the assignment you are accessing displays differently, Assignment Enhancements may not be enabled in your course or your instructor may not have used a supported assignment type. Please view <a href="/t5/Student-Guide/How-do-I-view-Assignments-as-a-student/ta-p/451" target="_blank">this guide</a> for more information.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-assignments" data-step-uuid="f18cca99-6bad-41f4-9511-002fc0f2cb3c">
+    <h2 id="open-assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/075/571/original/187f8adf-a99b-4930-96bb-e374df821e5a.png" srcset="" alt="Open Assignments" height="231" width="171">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1cfed2cd-f2f6-4482-9e5a-f9852a79eff4" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-assignments" data-step-uuid="02df7129-0605-4d30-8999-751816bc1420">
+    <h2 id="view-assignments" class="step-title screensteps-heading">View Assignments Index Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/817/823/original/ce218447-0f11-42e4-a0c0-797ee05ab236.png" srcset="" alt="View Assignments Index Page" height="941" width="760">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5db11d71-dba3-48d9-9479-4e793ffc7627" class="text-block-content">
+    <p>In the Assignments Index page, you can view all the assignments in your course.</p>
+<p>By default, assignments are grouped by overdue assignments, upcoming assignments, undated assignments, and past assignments.</p>
+<ul>
+<li>
+<strong>Overdue Assignments</strong> [1]: assignments and discussions that are past the due date, are still available, have not been submitted, and have not been graded.</li>
+<li>
+<strong>Upcoming Assignments </strong>[2]: assignments, discussions, and quizzes that have an upcoming due date.</li>
+<li>
+<strong>Undated Assignments </strong>[3]: assignments, discussions, and quizzes that do not have a due date.</li>
+<li>
+<strong>Past Assignments </strong>[4]: assignments and discussions that are past the due date and either are not available, have been submitted, or have received a grade; quizzes that are past the due date.</li>
+</ul>
+<p>Each assignment also includes an icon with the assignment type: assignment [5], discussion [6], or quiz [7].</p>
+<p><strong>Note: </strong>The Assignments Index page supports keyboard shortcuts. To view a list of keyboard shortcuts, press the Shift+Question Mark keys simultaneously on your keyboard.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-assignment-summary" data-step-uuid="ab5d052c-21fe-45f4-8d42-45822743f27a">
+    <h3 id="view-assignment-summary" class="step-title screensteps-heading">View Assignment Summary</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/817/827/original/bc184db8-d2f5-427b-8e44-5a2012969e32.png" srcset="" alt="View Assignment Summary" height="110" width="708">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_83949a5f-4acf-42cd-bf30-720fa3d70053" class="text-block-content">
+    <p>Each assignment displays the assignment name [1], availability dates (if any) [2], due date (if any) [3], and points possible [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-availability-dates" data-step-uuid="0aef665d-1988-401d-abd6-bda6e5e65017">
+    <h3 id="view-availability-dates" class="step-title screensteps-heading">View Availability Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/817/830/original/8253c347-dc34-4e77-a706-af1c2cc2d53c.png" srcset="" alt="View Availability Dates" height="448" width="754">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e50a5747-053e-4e45-b02f-b2949415360d" class="text-block-content">
+    <p>The first dates you may see are called availability dates. Sometimes your instructor only wants you to submit an assignment during a specified date range, so the available dates are the range of time that the assignment is accessible to you. </p>
+<ul>
+<li>If the assignment does not have a date listed [1], the assignment is open; you can submit the assignment at any time during your course.  </li>
+<li>If the assignment says <strong>Available until </strong>[date] [2], you can submit the assignment until the specified date. </li>
+<li>If the assignment says <strong>Not Available Until</strong> [date] [3], the assignment is locked until the specified date.</li>
+<li>If the assignment says <strong>Closed </strong>[4], the assignment cannot accept submissions.  </li>
+</ul>
+<p><strong>Note:</strong> If the listed date is set to 12 am the last day for the assignment to be submitted is the full day before the listed date. For instance, if an assignment is Available until December 15, you can access the assignment until December 14 at 11:59 pm. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-due-dates" data-step-uuid="5b04ed83-2c58-454e-8a6b-e597fbbc7a62">
+    <h3 id="view-due-dates" class="step-title screensteps-heading">View Due Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/817/834/original/929c88d7-1395-44a6-b19b-d6a4e6405350.png" srcset="" alt="View Due Dates" height="252" width="708">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8f5f43fe-beef-4048-86e4-4cf08a7f2503" class="text-block-content">
+    <p>An assignment may display a second date, which is the <strong>Due date</strong> [1]. Any assignments submitted after the due date are marked as late; some instructors may deduct points for late submissions. Again, not all assignments may include a Due date. </p>
+<p>Due dates also include a time [2]. If your instructor does not set a due time, the listed date displays the course's default due time.</p>
+<p>You can still submit late assignments before the <strong>Available until</strong> date [3].</p>
+<p><em>Please be aware that the Due date may be <strong>before or on</strong> the Available date. </em></p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-assignments" data-step-uuid="19b4f93b-8cea-4d0a-913b-a808dfe1dc50">
+    <h2 id="filter-assignments" class="step-title screensteps-heading">Filter Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/081/750/original/f3deb3ab-9230-42dc-ac30-48212ecfef8b.png" srcset="" alt="Filter Assignments" height="93" width="664">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b4391c0a-e052-4e99-918e-fe1a93265ecf" class="text-block-content">
+    <p><span style="color:rgb(38,38,38);">If your course includes Multiple Grading Periods, you can view assignments by grading period [1]. You can search for an assignment by typing an assignment title or a keyword in the <strong>Search for assignment</strong> field [2]. </span>By default, assignments on the Assignments Index page display by due date. To view assignments by type (assignment, discussion, quiz), click the <strong>Type</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-assignment" data-step-uuid="614e79cf-05b0-4914-85f9-a3fc23d52dbc">
+    <h2 id="open-assignment" class="step-title screensteps-heading">Open Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/811/907/original/f3c57a68-9c62-4375-bd84-98d47e174515.png" srcset="" alt="Open Assignment" height="88" width="727">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6f76ff1f-6098-4737-ac76-98f12073ccf4" class="text-block-content">
+    <p>To view the details of an assignment, click the name of the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-open-assignment" data-step-uuid="c662f4e5-a1d6-44a2-82fb-2e7ed40f59a7">
+    <h2 id="view-open-assignment" class="step-title screensteps-heading">View Assignment</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/655/171/original/cb84bdca-bae4-4ce6-8853-9f1c2e165e3b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/655/171/medium/cb84bdca-bae4-4ce6-8853-9f1c2e165e3b.png" srcset="" alt="View Assignment" height="1100" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f81baa8f-016d-480c-aef8-fa1676647981" class="text-block-content">
+    <p>The <strong>Assignment Summary</strong> header displays the assignment title, due date, and points possible [1]. Not all assignments may have a due date.</p>
+<p>The <strong>Attempt</strong> drop-down allows you to view your submission attempts for the assignment [2]. By default, the Attempt drop-down displays your most recent submission attempt. </p>
+<p>The <strong>Progress Tracker</strong> displays the assignment submission and grading status [3]. </p>
+<p>To <a href="/t5/Student-Guide/How-do-I-view-assignment-feedback-from-my-instructor-using/ta-p/474046" target="_blank">add an assignment comment for your instructor</a>, click the <strong>Add Comment</strong> button [4]. </p>
+<p>View the number of allowed attempts [5] and availability dates [6]. </p>
+<p>If your instructor added assignment instructions, they display in the <strong>Details</strong> section [7]. </p>
+<p>If a rubric has been added to the assignment, the <strong>View Rubric</strong> section automatically expands to display the assignment rubric [8].  </p>
+<p>If the assignment is accepting submissions, you can select a permitted submission type from the <strong>Choose a submission type</strong> section [9].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If your assignment is part of a module, you can view the previous module item by clicking the <strong>Previous </strong>button [10] and the next module item by clicking the <strong>Next </strong>button [11].</li>
+<li>Assignment instructions can only be downloaded if your instructor has included a link to download them. You can also print the screen or copy and paste the directions into a word processing program. You can also view the assignment in the Canvas mobile app.</li>
+<li>If the assignment allows multiple attempts and is within its set availability dates, you can resubmit the assignment.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-assignment-availability-dates" data-step-uuid="e44b2ec3-7dc8-444e-b5f4-ca8e9b390c9d">
+    <h3 id="view-assignment-availability-dates" class="step-title screensteps-heading">View Assignment with Availability Dates</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/655/177/original/16f3fe51-095a-4ac4-9174-5ad82f9c38f3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/655/177/medium/16f3fe51-095a-4ac4-9174-5ad82f9c38f3.png" srcset="" alt="View Assignment with Availability Dates" height="208" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_deff635a-0a7e-4a99-8428-b0eb55d16410" class="text-block-content">
+    <p>When you access an assignment during its set availability dates, you can view all available assignment information. Availability dates may include a first available date (open date), last available date (locked or closed), or both dates to create an overall date range. The Due date may be <strong>before or on</strong> the last available date (if one is set).</p>
+<p>If you were to miss the assignment submission due date [1], you could still submit the assignment until the last available date [2]. Once the last available date passes, you can no longer submit the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-assignment-with-limited-attempts" data-step-uuid="13da4126-ae58-46e5-b5dc-5de941ec6436">
+    <h3 id="view-assignment-with-limited-attempts" class="step-title screensteps-heading">View Assignment with Limited Attempts</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/655/760/original/ef5240db-fdbc-40e8-8742-16f8cb0580e8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/655/760/medium/ef5240db-fdbc-40e8-8742-16f8cb0580e8.png" srcset="" alt="View Assignment with Limited Attempts" height="499" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ff85cf26-1868-449a-ad1d-bc22fdf5f048" class="text-block-content">
+    <p>Your instructor may limit the number of submission attempts you are allotted for an assignment. If your assignment has a limited number of submissions, you can view your submission attempts [1] and the number of allowed submissions for the assignment [2]. </p>
+<p>Once you have used all your submission attempts, the <strong>New Attempt</strong> button will disappear [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-locked-assignment" data-step-uuid="08839e0f-f33b-450c-93d4-d4c3ba1579e1">
+    <h3 id="view-locked-assignment" class="step-title screensteps-heading">View Locked Assignment</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/759/276/original/58493a6a-c049-4fb9-abff-b0db0f18bcee.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/759/276/medium/58493a6a-c049-4fb9-abff-b0db0f18bcee.png" srcset="" alt="View Locked Assignment" height="489" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_78e750ac-0bdc-402a-b7c8-a20e0b5fd11b" class="text-block-content">
+    <p>If an assignment is not within its set availability dates, you cannot view assignment details nor submit or resubmit work.</p>
+<p>Locked assignments display locked icon and message [1]. If your assignment is locked due to module prerequisites, you can view course modules by click the <strong>modules page</strong> link [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-assignment-score" data-step-uuid="22323488-ef29-4b61-9065-bb87ca06efe5">
+    <h2 id="view-assignment-score" class="step-title screensteps-heading">View Assignment Score</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/647/424/original/764a8317-1b7e-48ff-bd9e-5156239d2a2f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/647/424/medium/764a8317-1b7e-48ff-bd9e-5156239d2a2f.png" srcset="" alt="View Assignment Score" height="267" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b7dfe587-6d3f-4c21-afa5-1e05de3bca6d" class="text-block-content">
+    <p>If your assignment has been graded by your instructor, you can view the score for each attempt [1]. If your assignment has been graded without a submission, you can view your offline score [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

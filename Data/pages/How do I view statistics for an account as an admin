@@ -1,0 +1,144 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_B779E370-1D52-0135-77EA-22000BC102FE" class="text-block-content">
+    <p>The statistics page shows a snapshot view of activity in the current account. Statistics provide current information about your account but you can also view information over time. Statistics work in conjunction with Account Analytics, which can also be viewed from the Statistics page.</p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/Statistics-amp-Analytics-Admins/ta-p/384018" target="_blank">View a video about Analytics and Statistics</a>.</p>
+<p><strong>Note:</strong> If your analytics looks different than what is displayed in this lesson, you may have the Admin Analytics feature preview enabled in your account. <a href="/t5/Admin-Guide/How-do-I-use-Admin-Analytics/ta-p/562116" target="_blank">Learn how to use Admin Analytics in your account</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="9b7e67b9-c9af-4113-80a4-bcb52396f7e5">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B77A1820-1D52-0135-77EC-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_statistics" data-step-uuid="50B5CD98-7A58-4A19-B51F-525D501395D8">
+    <h2 id="open_statistics" class="step-title screensteps-heading">Open Statistics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/448/original/613b3719-c608-47cf-bb2c-99034471c660.png" srcset="" alt="Open Statistics" height="268" width="178">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B77A48B0-1D52-0135-77EE-22000BC102FE" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Statistics</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_general_numbers" data-step-uuid="47676AF2-DB15-4D7E-908A-77F2477B3A2A">
+    <h2 id="view_general_numbers" class="step-title screensteps-heading">View General Numbers</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/410/original/ac692995-1d76-498d-a6cf-ebc833a887cb.png" srcset="" alt="View General Numbers" height="334" width="438">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B77A7540-1D52-0135-77F0-22000BC102FE" class="text-block-content">
+    <p>In the Statistics page, you can view general information about your account. </p>
+<ul>
+<li>
+<strong>Generated</strong> shows when the data was last generated for your account. Data cannot be generated manually. </li>
+<li>
+<strong>Courses</strong> indicates the number of courses that are published in the account. </li>
+<li>
+<strong>Teachers</strong> indicates how many unique teachers have had activity within Canvas in the last 30 days. If one user is a teacher in five courses, the statistic will only count one teacher. </li>
+<li>
+<strong>Students </strong>indicates the same statistics as teachers, but relates to students. </li>
+<li>
+<strong>Users </strong>includes the total number of teachers, students, observers, designers, and TAs who have logged in during the last 30 days. This number does not include test students generated through Student View. </li>
+<li>
+<strong>Uploaded File Storage</strong> indicates the amount of files stored and the number of files in all courses for the entire account. Deleted files are not included. <em>To learn about specific file quota details, view the </em><a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-File-Quotas/ta-p/387061" target="_blank"><em>Course Files Quota resource document</em></a><em>. </em>The file storage limit is calculated with the number of full-time enrollments (FTE) in your institution (default is 500 MB/FTE). To calculate the amount of file storage used in your account, convert the Uploaded file storage number shown to MB (e.g. 1.88 GB is 1880 MB). Then take the number of full-time enrollments and multiply the MB per enrollment (e.g. 3,000 FTE x 500 MB). If the converted number is lower than the multiplied number, your institution is within your file storage limit. If the number is higher, contact your Customer Success Manager for additional storage options. You can also <a href="/t5/Admin-Guide/How-do-I-set-storage-quotas-for-an-account/ta-p/97" target="_blank">change the quota</a> for all course or specific courses. </li>
+<li>
+<strong>Media File Storage </strong>indicates the amount of media objects uploaded to active courses, such as video, audio, and music files. Media created in the Rich Content Editor are not part of media file storage.</li>
+</ul>
+<p>General numbers show the current statistics in the course; to view how a statistic has evolved over time, click the <strong>over time</strong> link. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_statistics_over_time" data-step-uuid="4ab5e572-2e0d-482f-8668-82634667a472">
+    <h3 id="view_statistics_over_time" class="step-title screensteps-heading">View Statistics Over Time</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/402/original/b8c00f39-e10f-4a53-aa02-834b491e7bab.png" srcset="" alt="View Statistics Over Time" height="348" width="633">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B77AA310-1D52-0135-77F2-22000BC102FE" class="text-block-content">
+    <p>The statistics over time graphs show how specific data has evolved since your account was created. You can move your cursor over the data graph to view data for a specific date [1]. You can also download the data by clicking the <strong>Download CSV</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course_statistics" data-step-uuid="fcde00bb-da1e-4552-b2cb-7f45539f8ea3">
+    <h2 id="view_course_statistics" class="step-title screensteps-heading">View Course Statistics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/404/original/6c4b7d66-7623-4bf9-965e-a99e58802768.png" srcset="" alt="View Course Statistics" height="387" width="821">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B77AD000-1D52-0135-77F4-22000BC102FE" class="text-block-content">
+    <p>You can view recently started courses [1] and recently ended courses [2] in your account. To view a course, click the name of the course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_users" data-step-uuid="5e5bf353-4755-4968-a38a-dea4aa666710">
+    <h2 id="view_users" class="step-title screensteps-heading">View Users</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/412/original/0c61ac90-c63e-4b25-a46c-653702c22fa9.png" srcset="" alt="View Users" height="224" width="394">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B77AFDF0-1D52-0135-77F6-22000BC102FE" class="text-block-content">
+    <p>You can also view a list of users who have recently logged in to your account. To view details about a user, click the name of the user.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_account_analytics" data-step-uuid="9a52a718-cf24-4011-9be3-7b4543aaa09e">
+    <h2 id="view_account_analytics" class="step-title screensteps-heading">View Account Analytics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/408/original/866d313d-dad3-4e1f-b1a3-7a6ae6aeccb5.png" srcset="" alt="View Account Analytics" height="75" width="274">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B77B3430-1D52-0135-77F8-22000BC102FE" class="text-block-content">
+    <p>To view <a href="/t5/Admin-Guide/How-do-I-view-account-analytics/ta-p/165" target="_blank">account analytics</a>, click the <strong>View</strong> <strong>Analytics </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

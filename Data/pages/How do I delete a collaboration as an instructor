@@ -1,0 +1,97 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A500E2C0-1EE1-0135-72FA-22000B5A851D" class="text-block-content">
+    <p>If you are the course instructor or the creator of a collaboration, you can delete the collaboration from Canvas. Deleting the collaboration only removes access to the collaboration in Canvas. Users can still view the collaboration in their online account for the collaboration type (OneDrive or Google Drive, respectively).</p>
+<p>Once a term ends or a course is concluded, the collaboration document will still be available from Canvas and the collaboration's source drive. if the document settings remain unchanged, users can still access the collaboration file, but any updates are not reflected in course notifications.</p>
+<p>If you want to retain the collaboration document as part of the course or for your records, you may consider changing the sharing settings so the document is only available for viewing (and possibly disabling options to download, print, and copy). You can also change the sharing settings so that the document is no longer available to any users.</p>
+<p><strong>Google Drive, Google Assignments, and OneDrive</strong></p>
+<p>When deleting a Google Drive, Google Assignments, or OneDrive collaboration, the collaboration is immediately removed from the course. However, users can still access the file in their online account for the collaboration type.</p>
+<p><strong>Google Doc</strong></p>
+<p>If you are deleting a Google Doc, you can choose to delete the collaboration only from the course, or you can delete it from the course as well as Google Docs. However, deleting the document from Google Docs immediately deletes the collaboration and cannot be recovered.</p>
+<p><strong>Note</strong>: Depending on your institution's preference, your Collaborations page may not match the images shown in this lesson. However, functionality of the page remains the same.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_collaborations" data-step-uuid="2C26E021-BEB7-40F5-AA7C-F53E49FC753D">
+    <h2 id="open_collaborations" class="step-title screensteps-heading">Open Collaborations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/504/original/68b01ce5-4ceb-46ac-b415-9343e00e5e95.png" srcset="" alt="Open Collaborations" height="232" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A5011B90-1EE1-0135-72FC-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Collaborations</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete_collaboration" data-step-uuid="6223C79F-93F9-421A-928F-B327197A0DEE">
+    <h2 id="delete_collaboration" class="step-title screensteps-heading">Delete Collaboration</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/935/529/original/818608af-8929-4511-b2e8-0415470d853c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/935/529/medium/818608af-8929-4511-b2e8-0415470d853c.png" srcset="" alt="Delete Collaboration" height="79" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A5014F00-1EE1-0135-72FE-22000B5A851D" class="text-block-content">
+    <p>Locate the collaboration and click the <strong>Delete</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove-collaboration" data-step-uuid="655ba61a-e0c3-4693-9d78-7897c431ee98">
+    <h2 id="remove-collaboration" class="step-title screensteps-heading">Remove Collaboration</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/935/531/original/e719e6bc-521c-417d-95fc-6646bac3e61a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/935/531/medium/e719e6bc-521c-417d-95fc-6646bac3e61a.png" srcset="" alt="Remove Collaboration" height="79" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e12e0495-646a-4a35-9d2f-bc9b8f7dee14" class="text-block-content">
+    <p>To remove a Google Assignments collaboration, click the <strong>Yes, remove</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete_google_doc" data-step-uuid="B2228E41-8D83-43CA-8D69-8920ED2327CD">
+    <h2 id="delete_google_doc" class="step-title screensteps-heading">Delete Google Doc</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/832/321/original/f1f9fabe-cdc3-4e77-8c71-f504dd21d1fd.png" srcset="" alt="Delete Google Doc" height="219" width="354">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A501B650-1EE1-0135-7302-22000B5A851D" class="text-block-content">
+    <p>If you are deleting a Google Doc, Canvas will ask you if you want to delete the collaboration from Canvas or also delete from Google Docs.</p>
+<p>If you only want to delete the Google Doc link from Canvas, click the <strong>Just Delete from Canvas</strong> button [1]. This option removes the Google Doc link from Canvas, but users can still access the document in their Google account. </p>
+<p>If you want to remove the document from Google Docs as well, click the <strong>Also Delete From Google Docs</strong> button [2]. </p>
+<p><strong>Note: </strong>The Also Delete From Google Docs option immediately deletes the document from Google Docs, and the document cannot be recovered. If you want to retain the document for your records, open the Google Doc and change the sharing and owner settings, or create a copy of the document before deleting.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

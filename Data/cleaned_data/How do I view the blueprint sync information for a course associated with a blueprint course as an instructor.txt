@@ -1,0 +1,17 @@
+How do I view the blueprint sync information for a course associated with a blueprint course as an instructor
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open Settings
+In Course Navigation, click the Settings link.
+Open Blueprint Information
+In the sidebar, click the Blueprint Information link.
+View Sync Information
+The Blueprint Information page shows information from the last blueprint sync. The page displays the name and course ID of the blueprint course and the name and course ID of your associated course. 
+You can also view the date and time of the sync and the number of changes.
+If a message was included as part of the notification, the message is displayed above the list of synced changes.
+For a course association made by an admin, sync information will also show the date and time the sync was made, but no details will be included related to the sync.
+View Sync Details
+The Blueprint Information page shows the specific content that has been synced. Each content object shows the synced status of the object (locked or unlocked) and the name of the object, the object type, the change applied, and whether or not the sync was applied.
+Content changes can be created, updated, or deleted. Updated changes indicate any change to existing content.
+Close Blueprint Information
+When you are finished with the Blueprint Information page, click the Done button.

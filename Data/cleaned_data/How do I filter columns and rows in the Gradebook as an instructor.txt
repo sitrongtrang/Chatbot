@@ -1,0 +1,35 @@
+How do I filter columns and rows in the Gradebook as an instructor
+Open Grades
+In Course Navigation, click the Grades link.
+Search Students
+By default, the Gradebook shows all active students. To search for students by name or SIS ID, enter your search query in the Search Students field. 
+The Search Students field allows multiple student names to be filtered at the same time. Selecting a student filters the Gradebook to display only that student's row. If multiple students are selected, rows display for all selected students. Likewise, deselecting a student removes the student's row from the Gradebook view.
+The Search Students field also respects Concluded and Inactive Enrollment options. If the Concluded Enrollment or Inactive Enrollment options are selected as filters, no Concluded or Inactive enrollments display in the Gradebook.
+Note: Student name search results displays secondary information if more than one student has the same name in the course.
+Search Assignments
+By default, the Gradebook shows all assignments. To search for assignments, enter an assignment name in the Search Assignments field. 
+The Search Assignments field allows multiple assignment names to be filtered at the same time. 
+Selecting an assignment displays the assignment in a column closest to the student name. If multiple assignments are selected, the assignment columns display in the reverse order they are selected.
+Filter Gradebook
+Click the Apply Filters button. Then you can either create and manage filter presets or use the gradebook filters. More than one filter can be applied at any time.
+View Modules
+To filter by modules, click the Modules option. Then select the module you want to display.
+View Grading Periods
+When Multiple Grading Periods are enabled in a course, you can filter the Gradebook by grading period. To filter by grading period, click the Grading Periods option. Then select the grading period you want to display.
+View Assignment Groups
+To filter by assignment group, click the Assignment Groups option. Then select the assignment group you want to display.
+View Sections
+To filter by section, click the Sections option. Then select the section you want to display. Course sections are displayed alphabetically.Note: When a section filter is applied in the Gradebook, SpeedGrader also displays assignment submissions for the same section.
+View Student Groups
+To filter by student groups, click the Student Groups option. Then select the student group you want to display.Note: If your course does not include student groups, the Student Groups option is not displayed.
+View Status
+To filter by status, click the Status option. Then select the status you want to display.
+View Submissions
+To filter by submissions, click the Submissions option. Then select the type of submissionsyou want to display.
+View Start and End Date
+To filter by start and end date, click the Start & End Date option. Then click in the Start Date and/or End Date fields and select dates. Click the Apply button. The Gradebook displays only assignments that have a due date at or beyond the start date and/or at or before the end date.
+View Filters
+View the selected filters.
+You can manage selections directly from the filter option by clicking the filter option drop-down menu.
+Remove Filters
+To remove a filter, click the filter option drop-down menu and click the Remove Filter option.

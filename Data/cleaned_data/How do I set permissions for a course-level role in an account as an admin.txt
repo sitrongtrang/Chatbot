@@ -1,0 +1,34 @@
+How do I set permissions for a course-level role in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Permissions
+In Account Navigation, click the Permissions link.
+Manage Permissions
+In the Course Roles tab, locate the name of the user role. Click the icon next to the name of a permission. In the permission menu, the existing permission is indicated by a check mark.
+Choose the new permission status by clicking one of the permission options: Enable or Disable. After you enable or disable the permission, you can choose to lock the permission status. To lock the permission status, click the Lock option. Locked options keep the setting from being changed by subaccount admins in a lower account. The new permission status is saved automatically.
+Note: If a permission icon does not display as opaque, you cannot change the permission.
+View Grouped Permissions
+Some permissions may be grouped together to allow for greater granularity and control over permissions.
+Grouped permissions list the grouped permissions below the grouped permission name.
+To expand grouped permissions, click the expand icon.
+Manage Grouped Permissions
+You can manage each granular permission within the group with the corresponding checkboxes. To enable or disable a granular permission, click the checkbox. A checked box indicates the permission is enabled. An unchecked box indicates the permission is disabled.
+If all permissions are enabled for a user role, the permission group displays a checkmark icon.
+If some permissions are enabled and some are disabled for a user role, the permission group displays a half-filled icon.
+If all permissions are disabled for a user role, the permission group displays an X icon.
+View User Role Permissions
+To view permissions for an individual user role, click the role name. 
+In the sidebar, you can view the role name. If the user role is a custom role, you can also view the base role.
+The sidebar also displays the time or date that permissions for the user role were last changed, and the user's assigned and unassigned permissions.
+Manage User Role Permissions
+To manage user permissions from the sidebar, Click the icon next to the name of a permission. In the permission menu, the existing permission is indicated by a check mark.
+Choose the new permission by clicking one of the permission options: Enable, Enable and Lock, Disable, Disable and Lock, and Use Default. Locked options keep the setting from being changed by subaccount admins in a lower account. The new permission status is saved automatically.
+Note: If a permission icon does not display as opaque, you cannot change the permission.
+Edit User Role
+If you have created a custom user role, you can edit the name of the user role if needed by clicking the Edit icon. Edit the name of the user role, then click the Back arrow. 
+Note: Base roles cannot be edited.
+Delete User Role
+If you have created a custom role, you can delete the user role by clicking the Delete icon. Review the warning about user roles—any users with the role you are deleting will keep the current permissions, but no new users can be created with the user role.
+Deleting a user role cannot be undone.
+To confirm deletion of the user role, click the Okbutton.
+Note: Base roles cannot be deleted.

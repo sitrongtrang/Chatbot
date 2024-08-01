@@ -1,0 +1,32 @@
+How do I lock course objects in a blueprint course as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Courses
+In Account Navigation, click the Courses link. 
+Note: When you open an account, the account defaults to the Courses page.
+Find Course
+To find the course in the account, use the filter and search options.
+To include only blueprint courses in your search results, click the Show only blueprint courses option. 
+Open Course Settings
+In the courses list, click the course Settings icon.
+Open Assignments
+In Course Navigation, click the Assignments link.
+Note: Objects can also be managed in the Files, Modules, Pages, and Quizzes pages.
+View Icon Status
+In any Index page, you can view the status of each object. White squares indicate the object is unlocked. Blue squares with a lock icon indicate the object is locked. 
+By default, objects are unlocked. You can change the status of an object by toggling the lock and unlocked icons.
+Lock Object
+To lock an object, click the object’s unlocked icon. The hover text will confirm you want to lock the object. 
+Unlock Object
+To unlock an object, click the object’s lock icon. The hover text will confirm you want to unlock the object. 
+View Status in Individual Object
+Except within Files, blueprint status can be modified within individual objects.
+Files can only be locked or unlocked in the Files Index Page.
+Lock Object
+To lock an unlocked object, click the Blueprint button. The button will change from gray to blue and indicate the object is locked.
+Unlock Object
+Individual objects show the attributes that have been locked.
+To unlock a locked object, click the Locked button. The button will change from blue to gray and indicate the object is unlocked. The locked attributes banner will also be removed from the page. 
+View Instructor Access
+Instructors can view locked and unlocked icons in the Index page. However, they cannot manage the existing status of an object.
+For locked objects, the individual page displays the locked attributes selected in Course Settings, if any. Instructors cannot modify locked objects, so any attributes that are locked cannot be edited.

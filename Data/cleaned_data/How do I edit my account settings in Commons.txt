@@ -1,0 +1,32 @@
+How do I edit my account settings in Commons
+Open Admin Settings
+In Commons Navigation, click the Admin link. 
+Open Account Settings
+Click the Account Settings tab.
+Edit Approved Content
+You can allow approved content for your Commons account. Approved content is indicated in search results by a customizable banner and image.
+To allow approved content, enable the Allow Approved Contentoption.
+To select a custom background color, click the Select background color button.
+To upload a custom image, click the Select image link. To reset the custom image back to the default (a white checkmark icon), click the Reset to default link.
+To prioritize approved content in search results, click the Prioritize approved content in search results checkbox.
+You can allow other users to manage approved content. Type the name of a user in the field and press Enter (PC) or Return (Mac) to give them permission to curate approved content.
+Note:Custom images must be 50x50 pixels in size and the file format must be either JPEG, PNG, or SVG.
+Edit Public Content
+By default, users will be able to share and view public content.
+To disable public sharing, disable the Allow users to share to public account option. This will remove the Public option when finding a resource in Commons and the Share with public (All Canvas users)option when sharing a resource to Commons.
+To prevent users in your account from viewing or importing publicly shared content, disable the Allow users to view publicly shared contentoption. This option will hide all publicly shared resources from your Commons account. Users will also not be able to import any publicly shared resources. However, disabling this option does not affect publicly available featured content.
+Notes:
+Authors of publicly shared resources will always be able to view their resource.
+If the Allow users to view publicly shared content option is disabled, admins will not be able to view public resources and discovering users will not be able to view updates to previously imported public resources.
+Edit Featured Content
+Featured content is enabled by default. When this option is enabled, featured content displays to users at the top of the Commons search page. 
+To disable featured content from displaying at the top of the Commons search page, disable the Allow featured content option. Featured content curated by the Commons team will still display in search results even if this option is disabled.
+Edit Default Search Filters
+You can configure default search filters in Commons. Default search filters are automatically applied to all search results in Commons. However, users can modify filters for individual searches.
+To turn on default search filters, enable the Configure default search filters option.
+To only display approved content in search results, enable the Only Account Approved Resources option.
+To filter content based on grade/level, click the checkbox next to the desired grade/level.
+To filter content based on sharing and publicity settings, select an option from the list.
+Edit Standards & Outcomes 
+By default, Standards & Outcomes settings are enabled.
+To disable users from tagging federal or state standards to shared resources in Commons, click the Show Common Core Standards or Show State Standards button to turn off the option.

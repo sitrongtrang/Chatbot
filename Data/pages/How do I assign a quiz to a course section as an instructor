@@ -1,0 +1,252 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_D8F69710-2227-0135-5A9A-22000BC102FE" class="text-block-content">
+    <p>When creating or editing a quiz, you can assign a quiz to a specific course section. <a href="/t5/Instructor-Guide/What-is-the-difference-between-assignment-due-dates-and/ta-p/897" target="_blank">Availability date</a> functionality is still available for each quiz.</p>
+<p>Only the section(s) specified in the discussion details can view the quiz.</p>
+<p>When using differentiated assignments with the <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">Gradebook</a>, the quiz appears as a column for all students, but grade cells are grayed out for students who have not been included in the quiz. Grades cannot be assigned for students who have not been included in the quiz, and quizzes that are not assigned to a student are not factored into overall grades.</p>
+<p>When <a href="/t5/Instructor-Guide/How-do-I-use-grading-periods-in-a-course/ta-p/1030" target="_blank">Multiple Grading Periods</a> are enabled in a course, quizzes are also respected against closed grading periods.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="e2838df5-67c5-4479-bc23-7d6f247ae843">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/698/original/6ce90c7b-9f0d-4a5a-8374-571a332b6803.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8F771B0-2227-0135-5A9C-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_quiz" data-step-uuid="a1870d19-d887-4608-a678-ab95b334f05f">
+    <h2 id="add_quiz" class="step-title screensteps-heading">Add Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/788/original/ec4efe37-42f2-4ff3-80b3-0fd6cc516ca8.png" srcset="" alt="Add Quiz" height="74" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8F825C0-2227-0135-5A9E-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Quiz </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-classic-quiz" data-step-uuid="0b795472-65c6-477c-9584-73a971a51a49">
+    <h3 id="add-classic-quiz" class="step-title screensteps-heading">Select Quiz Engine</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/787/657/original/fd41e764-7b58-4a7d-96f9-28fcb25094a0.png" srcset="" alt="Select Quiz Engine" height="531" width="484">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_576fb879-e173-4fad-b7df-ec80fa8939fb" class="text-block-content">
+    <p>If your course has New Quizzes enabled, you must select a quiz engine.</p>
+<p>To select New Quizzes, click the <strong>New Quizzes</strong> option [1].</p>
+<p>To create a classic quiz, click the <strong>Classic Quizzes</strong> option [2].</p>
+<p>Then click the <strong>Submit</strong> button [3].</p>
+<p><strong>Note:</strong> Learn more about <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz using New Quizzes</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_quiz_details" data-step-uuid="8687ed54-ff00-485b-9505-f5d7c06bbc9a">
+    <h2 id="enter_quiz_details" class="step-title screensteps-heading">Enter Quiz Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/052/112/original/e876a9e3-aa45-483c-a3f1-4718fa9c6e34.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/052/112/medium/e876a9e3-aa45-483c-a3f1-4718fa9c6e34.png" srcset="" alt="Enter Quiz Details" height="623" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8F8C4E0-2227-0135-5AA0-22000BC102FE" class="text-block-content">
+    <p>Enter a name [1] and description [2] for your quiz, as well as any other <a href="/t5/Instructor-Guide/What-options-can-I-set-in-a-quiz/ta-p/683" target="_blank">quiz options</a> [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_to_section" data-step-uuid="3e5fc394-49c3-43cd-ba9d-01617826e860">
+    <h2 id="assign_to_section" class="step-title screensteps-heading">Assign to Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/278/original/c61c3fff-cf67-4bf3-85d8-91900aad6c6a.png" srcset="" alt="Assign to Section" height="500" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8F8F9E0-2227-0135-5AA2-22000BC102FE" class="text-block-content">
+    <p>By default, Canvas will set your assignment for everyone in your course. To create the assignment for a specific section, click the <strong>Everyone</strong> remove icon [1],<strong> </strong>then start to type in the name of a section [2]. When the section name appears, click the name. <em>Lists are not scrollable.</em> </p>
+<p>You can include more than one section in the To field as long as the section is to be assigned the same due and availability dates.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_due_and_availability_dates" data-step-uuid="e9c8ca39-b394-46f7-a150-eeabc15d0db6">
+    <h2 id="edit_due_and_availability_dates" class="step-title screensteps-heading">Edit Due and Availability Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/013/108/original/47dc13c5-5c23-4f7b-be3e-c7bf0194e5e9.png" srcset="" alt="Edit Due and Availability Dates" height="383" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8F92B00-2227-0135-5AA4-22000BC102FE" class="text-block-content">
+    <p>In the date fields, add your preferred date(s) with the following options:</p>
+<ul>
+<li>
+<strong>Due </strong>[1]: Set the date and time that the Quiz is due. The due date will already be populated for you if you created an assignment shell, but you can change it if necessary. </li>
+<li>
+<strong>Available From </strong>[2]: Set the date and time when the Quiz will become available.</li>
+<li>
+<strong>Until </strong>[3]: Set the date and time when the Quiz will no longer be available.</li>
+</ul>
+<p> </p>
+<p><strong>Note</strong>: Beneath the Due Date and Availability date fields, Canvas will display the time zone date and time according to context. If you manage courses in a time zone other than your local time zone and create or edit a due date for an assignment, the course and local times are displayed for reference.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_additional_dates" data-step-uuid="9b616f5d-a8c3-41a0-8e8b-a1dbd3310fc1">
+    <h2 id="add_additional_dates" class="step-title screensteps-heading">Add Additional Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/013/112/original/8e940df6-0ada-4780-a6bf-745cbf175d24.png" srcset="" alt="Add Additional Dates" height="383" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8F95E80-2227-0135-5AA6-22000BC102FE" class="text-block-content">
+    <p>To add another section with a different due date and availability dates, click the <strong>Add </strong>button. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="remove_dates" data-step-uuid="eea52aa8-8ea8-402e-887d-2c33e8ae56c4">
+    <h3 id="remove_dates" class="step-title screensteps-heading">Remove Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/013/116/original/20dd749f-e017-47a7-b6ca-1acc38c32b11.png" srcset="" alt="Remove Dates" height="484" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8F99630-2227-0135-5AA8-22000BC102FE" class="text-block-content">
+    <p>You can also delete additional dates by clicking the remove icon next to the appropriate date.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="64d16249-8d14-4af3-9718-e82d1c18820c">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/287/original/3154593c-a99c-420f-8c82-ef6e75a21d09.png" srcset="" alt="Save and Publish" height="85" width="315">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8F9C8A0-2227-0135-5AAA-22000BC102FE" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_due_date_warning" data-step-uuid="074f78d7-6797-4a7a-bbe9-cb6b2d2cbcc0">
+    <h3 id="view_due_date_warning" class="step-title screensteps-heading">View Due Date Warning</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/299/original/e925ae81-1a4b-4aba-93ee-14234e3a081b.png" srcset="" alt="View Due Date Warning" height="241" width="307">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8F9F800-2227-0135-5AAC-22000BC102FE" class="text-block-content">
+    <p>If you do not add course sections to the assignment, you will see a warning message asking you if you want to add those sections. </p>
+<p>You can click the <strong>Continue</strong> button [1] if you don't want to add any sections to the assignment, or click the <strong>Go Back</strong> button [2] to go back and add additional sections. </p>
+<p><strong>Note</strong>: This warning message will not appear if <em>Everyone </em>or all course sections are assigned to the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_date_error" data-step-uuid="77c0de42-02de-4779-86b1-834f586b6c40">
+    <h3 id="view_date_error" class="step-title screensteps-heading">View Date Error</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/013/114/original/13a20a34-8092-42c1-b916-c439b834a71d.png" srcset="" alt="View Date Error" height="342" width="514">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8FA26E0-2227-0135-5AAE-22000BC102FE" class="text-block-content">
+    <p>If you submit an invalid string of due dates and try to save the assignment, Canvas generates an error notification. Such invalid entries include not unlocking the assignment before it is due, not placing the due date inside the range of availability dates, or assigning a date that is outside the course or term dates. </p>
+<p>Correct the date and then update the assignment again. </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If the course does not include specified course start and end dates, Canvas validates the quiz against the term date set for the course.</li>
+<li>If your course is using Multiple Grading Periods, the Assign field validates the due date against the closed grading period and requires the quiz date to be past the date of the closed grading period.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="preview_and_publish_quiz" data-step-uuid="cf2ed319-2ef2-4e45-a4a4-420b5e508e51">
+    <h3 id="preview_and_publish_quiz" class="step-title screensteps-heading">Preview and Publish Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/790/original/28d13292-e731-4af2-b262-091e3f0ef393.png" srcset="" alt="Preview and Publish Quiz" height="166" width="620">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8FA5C90-2227-0135-5AB0-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Preview</strong> button [1] to see what students will see when they take the quiz. If the preview shows the quiz the way you want it, click the <strong>Publish </strong>button [2].</p>
+<p><strong>Note</strong>: Although you can make changes to the quiz after it is published, students who have already opened or completed the quiz will not see any of the changes, which may affect their grades. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_quiz_dates" data-step-uuid="46dad7a5-027a-4769-9822-8ae3d15f038d">
+    <h2 id="view_quiz_dates" class="step-title screensteps-heading">View Quiz Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/254/022/original/ae8b7697-06d3-4100-8eb1-663b31f112e2.png" srcset="" alt="View Quiz Dates" height="723" width="570">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8FA8C00-2227-0135-5AB2-22000BC102FE" class="text-block-content">
+    <p>View the dates and users assigned to the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_quizzes_page" data-step-uuid="b5977f2b-7677-41a3-8613-808efd5df56c">
+    <h2 id="view_quizzes_page" class="step-title screensteps-heading">View Quizzes Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/254/020/original/d86be52d-26cf-4e15-9ba2-4abaf7464a82.png" srcset="" alt="View Quizzes Page" height="173" width="547">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D8FAC160-2227-0135-5AB4-22000BC102FE" class="text-block-content">
+    <p>On the Quizzes Index Page, the quiz shows there are multiple users and dates assigned to the quiz. Hover over the text to view date availability.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,215 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_b4754a9a-1496-4fd4-86bf-47c2fac5d58d" class="text-block-content">
+    <p>After <a href="/t5/Admin-Guide/How-do-I-generate-a-Canvas-Data-2-API-key/ta-p/560955" target="_blank">generating a Canvas Data 2 (CD2) ClientID and secret</a>, you can set up Canvas Data 2 via the <a href="https://api-gateway.instructure.com/doc/" target="_blank" rel="nofollow noopener noreferrer">API Gateway</a>.</p>
+<p>This article references the API client, Postman, however, you can use any API client of your choice.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="use-canvas-data-2-api" data-step-uuid="8723a340-7b7d-4104-b7c6-d7724b578eb6">
+    <h2 id="use-canvas-data-2-api" class="step-title screensteps-heading">Use Canvas Data 2 API Resources</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b5bbf87b-7fb6-44a9-adf9-15329e405567" class="text-block-content">
+    <ul>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Data-2-API-Usage-Workflow/ta-p/559737" target="_blank">View Canvas Data 2 Usage Workflow resource document</a></li>
+<li><a href="https://apigw-doc.s3.amazonaws.com/index.html" target="_blank" rel="nofollow noopener noreferrer">API specification and schema</a></li>
+<li><a href="https://drive.google.com/file/d/1A3aKKA3clKZp2gua4qDDeGo2MTd5YQnL/view?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">Step by step video with Postman</a></li>
+<li>Example with Postman using a Client ID and Client Secret pair for authorization: <a href="https://drive.google.com/file/d/1Ynj02o5AXroZnox0eDI3x1kdvV2ewZpj/view?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">collection</a> and <a href="https://drive.google.com/file/d/1zENOJk2b7KAvFt4zdkkdQr1E029AyC5X/view?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">environment file</a>
+</li>
+</ul>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>The Postman reference solutions are examples<strong> </strong>and were created to demonstrate and make it easier to quick start and try out the API flow. We are not committing to maintain it for this community. You can use any API client of your choice.</li>
+<li>If you are using Postman client then it is good to know that if you download the OpenAPI spec, it can be directly <a href="https://learning.postman.com/docs/integrations/available-integrations/working-with-openAPI/" target="_blank" rel="nofollow noopener noreferrer">imported </a>into Postman (and most probably other API clients have similar features).</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="generate-api-key-and-secret" data-step-uuid="85d6768a-ee93-48ed-a186-fe1aebebf1db">
+    <h2 id="generate-api-key-and-secret" class="step-title screensteps-heading">Generate Client ID and Secret</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/971/404/original/ae8ed658-00fe-4447-95f0-8269014c82fe.png" srcset="" alt="Generate API Key and Secret" height="636" width="513">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_13f5aa8c-f821-4695-a143-a8e2bb9486a9" class="text-block-content">
+    <p>Before using Postman, you need to <a href="/t5/Admin-Guide/How-do-I-generate-a-Canvas-Data-2-API-key/ta-p/560955" target="_blank">generate a Client ID and Secret for Canvas Data 2</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-collection-file" data-step-uuid="2ece20dd-bd72-4354-b125-cc65090f3294">
+    <h2 id="import-collection-file" class="step-title screensteps-heading">Import Collection File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/971/406/original/3765a5a5-efe5-464b-9b40-480e424fb590.png" srcset="" alt="Import Collection File" height="659" width="390">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7b16f8b1-f4b6-4dc6-83ab-74aeab52f147" class="text-block-content">
+    <p>In Postman, click the <strong>Collections </strong>link [1] and then click the <strong>Import</strong> button [2]. </p>
+<p>Download and import the <a href="https://drive.google.com/file/d/1Ynj02o5AXroZnox0eDI3x1kdvV2ewZpj/view?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">Postman Collection file</a>.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="upload-collection-file" data-step-uuid="9dd6493f-3da5-4b21-86a5-9fd09249666f">
+    <h3 id="upload-collection-file" class="step-title screensteps-heading">Upload Collection File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/975/679/original/d1b8d2d1-2390-4a43-beec-7a832608cc86.png" srcset="" alt="Upload Files" height="591" width="846">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2828ca17-d557-478e-b262-3969e8895bcd" class="text-block-content">
+    <p>Click the <strong>Upload Files</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/975/681/original/28aadf7b-4d51-475f-91fc-ade691d9c6f3.png" srcset="" alt="Open Collection File" height="449" width="798">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0615d375-a9a9-4438-82ca-ef5ae6073b5f" class="text-block-content">
+    <p>Locate the collection file and click the <strong>Open</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="import-postman-collection-file" data-step-uuid="66ae0dad-57a6-4761-8872-d553c1db3c26">
+    <h3 id="import-postman-collection-file" class="step-title screensteps-heading">Import Postman Collection File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/975/683/original/e92d3c34-e051-4ce0-8e30-d7754512a890.png" srcset="" alt="Import File" height="601" width="851">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0bd9c474-fa03-47ee-bd99-ae6175916f31" class="text-block-content">
+    <p>Click the <strong>Import</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-collection" data-step-uuid="c0a2a2c8-af39-4bfe-97ea-ef67a6114bed">
+    <h3 id="view-collection" class="step-title screensteps-heading">View Collection</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e96168a0-aa2d-4f6e-9229-6a546f62a896" class="text-block-content">
+    <p>View the collection file.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/971/414/original/83bf43b8-b9de-4a96-b8b8-c71ccff7c777.png" srcset="" alt="View Collection " height="435" width="387">
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-environment-file" data-step-uuid="cbfed45e-1bf9-4e63-98c6-03bbbf741de7">
+    <h2 id="import-environment-file" class="step-title screensteps-heading">Import Environment File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/975/685/original/5de6987f-6a77-4b78-8212-8a021ebd29fe.png" srcset="" alt="Overview - My Workspace" height="435" width="387">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bfd211a9-1c0f-4cdf-962f-75154e514494" class="text-block-content">
+    <p>In Postman, click the <strong>Environments </strong>link [1] and then click the <strong>Import</strong> button [2]. </p>
+<p>Download and import the <a href="https://drive.google.com/file/d/1zENOJk2b7KAvFt4zdkkdQr1E029AyC5X/view?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">Postman Environment file</a>.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="upload-files" data-step-uuid="67a33013-b85a-4404-8959-3ee7fc50711c">
+    <h3 id="upload-files" class="step-title screensteps-heading">Upload Files</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/975/687/original/dd36c83c-6d9f-4f98-8f8e-9562e982971e.png" srcset="" alt="Upload Files" height="601" width="851">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_58f93386-2fef-4b45-83a0-89333ce92757" class="text-block-content">
+    <p>Click the <strong>Upload Files</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/975/689/original/0f94c9e6-d06a-4265-98ae-caf0479945dc.png" srcset="" alt="Open" height="449" width="798">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_96ff9928-a94f-4700-885e-f13a23f2ece4" class="text-block-content">
+    <p>Locate the collection file and click the <strong>Open</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="import-postman-environment-file" data-step-uuid="10af457e-90f1-4612-8abf-2d667ff195e2">
+    <h3 id="import-postman-environment-file" class="step-title screensteps-heading">Import Postman Environment File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/975/691/original/01d05710-fa27-40ac-8f42-02334a5a56fb.png" srcset="" alt="Import" height="601" width="851">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_89d74361-1049-4418-be07-e942e1fd4922" class="text-block-content">
+    <p>Click the <strong>Import</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-environment" data-step-uuid="bc080589-a40d-4e70-92b4-8b37338093d8">
+    <h3 id="view-environment" class="step-title screensteps-heading">View Environment</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/990/448/original/5a16fec8-7019-4657-868b-563be5623bec.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/990/448/medium/5a16fec8-7019-4657-868b-563be5623bec.png" srcset="" alt="Instructure CD2 - My Workspace" height="289" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_555bd2e7-c939-4e50-aa4d-09dd3a179462" class="text-block-content">
+    <p>View the environment.</p>
+<p>In the <strong>CLIENT_ID</strong> field [1] and <strong>CLIENT_SECRET</strong> field [2], add the Client ID and Secret generated in Identity Services. </p>
+<p>To save the collection, click the <strong>Save</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-additional-resources" data-step-uuid="80f18059-116d-4638-bbce-560b013c2ae1">
+    <h2 id="view-additional-resources" class="step-title screensteps-heading">View Additional Resources</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38d7ffd4-9a36-415c-a281-e79f735b9724" class="text-block-content">
+    <ul>
+<li><a href="https://data-access-platform-api.s3.eu-central-1.amazonaws.com/erd/index.html" target="_blank" rel="nofollow noopener noreferrer">Entity relationship visualiser</a></li>
+<li>
+<a href="https://data-access-platform-api.s3.amazonaws.com/sql/postgresql.sql" target="_blank" rel="nofollow noopener noreferrer">PostgSQL schema</a> or <a href="https://data-access-platform-api.s3.amazonaws.com/sql/mysql.sql" target="_blank" rel="nofollow noopener noreferrer">MySQL schema</a>: meant to capture the database structure of data queried with DAP API. One can populate this structure by feeding TSV or CSV data with <a href="https://www.postgresql.org/docs/current/sql-copy.html" target="_blank" rel="nofollow noopener noreferrer">COPY</a>, good for inserting both snapshots and incremental updates.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

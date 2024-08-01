@@ -1,0 +1,43 @@
+How do I adjust events and due dates in a course import as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Import Content into Course
+Click the Import Course Content link.
+Select Content Type
+In the Content Type drop-down menu, select the content type you want to import. Complete any additional fields required for the content. 
+Adjust Events and Due Dates
+If you want to adjust the due dates associated with the course events and assignments, click the Adjust events and due dates checkbox.
+Shift Dates
+If you want to shift dates in the course, select the Shift dates radio button.
+Set Beginning and End Dates
+In the Beginning Date field, enter the starting date of the course you are importing. You can also click the Calendar icon to select a date. In the Change to field, enter the new date when you want the course to begin, or click the Calendar icon.
+In the Ending Date field, enter the end date of the course you are importing, or click the Calendar icon to select a date. In the Change to field, enter the new date when you want the course to end. 
+Canvas will take the new start and end dates for the course and distribute all assignments with due dates as evenly as possible across the course dates and keep them due on the same day of the week as the original course. If the imported course and the new course vary in course length, assignments will be assigned proportionally. Once the course is imported, you can easily confirm and adjust any assignment dates using the Calendar.
+Notes: 
+It is recommended to shift due dates of imported content before students are enrolled in the course. If students are enrolled before course content is imported with due dates, students may not be able to submit work to those imported assignments. 
+If the course where you are importing the content contains course override dates in Course Settings, those dates will be automatically pre-populated in the Change to fields.
+The course participation start and end dates will be automatically set to the dates set in the Change to fields when adjusting dates in a course import. However, if course participation start and end dates have already been set for the course, course participation start and end dates will not be changed.
+Create Substitution Dates
+You can also explicitly define day substitutions to adjust for changing class schedules, such as moving all assignments on Mondays to Tuesdays. To create a date substitution, click the Substitution button. 
+In the Move from field, select the day of the week; in the To field, select the new day of the week for the substitution. 
+To remove a substitution, click the Remove icon.
+You can create as many substitution dates as necessary. Canvas will take the date substitutions and adjust assignments with due dates appropriately across the course dates.
+Remove Dates
+If you want to remove all associated due dates in the course, select the Remove dates radio button. 
+Dates will be removed from the following features:
+Assignments (due, availability, and peer-review dates)
+Announcements (delayed post dates)
+Quizzes (due, availability, and show correct answers dates)
+Calendar events (start and end dates)
+Modules (unlock dates)
+Files (availability dates)
+View Content Import Warning Message
+When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.
+Import Course
+Click the Import button. 
+A progress indicator displays the upload status by percentage.
+View Current Jobs
+The Current Jobs section displays the status of your import. Running reports display a progress bar indicating the time remaining to complete the import.
+If you chose to select specific content in your course, the current job will show as Waiting for Select, which means you must select the content you want to import.
+The import may also display other status indicators as part of the import process. Learn more about course import statuses.
+View the content from any completed imports by accessing any link in Course Navigation.

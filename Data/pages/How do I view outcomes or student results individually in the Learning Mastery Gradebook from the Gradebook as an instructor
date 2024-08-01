@@ -1,0 +1,158 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_ACED5370-AD1D-0135-0309-06467EE270FA" class="text-block-content">
+    <p>The Learning Mastery Gradebook Individual View allows instructors to assess one student and one outcome at a time. Fully accessible to screen readers, this Gradebook view allows instructors to sort by section and outcome and contains all the same settings that are available in the <a href="/t5/Instructor-Guide/How-do-I-use-the-Learning-Mastery-Gradebook-to-view-outcome/ta-p/774" target="_blank">Learning Mastery Gradebook Default View</a> (the view that shows all students in a course). </p>
+<p>If you are not familiar with the settings and other options in the Learning Mastery Gradebook, click the feature links throughout this lesson to learn more about how the feature works in Default View.</p>
+<p>Like all Gradebook tabs, Individual View is persistent. Therefore, once you switch the Gradebook to Individual View, the Gradebook will always display in Individual View until it is switched back to Default View. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_gradebook" data-step-uuid="ACED6A40-AD1D-0135-030A-06467EE270FA">
+    <h2 id="open_gradebook" class="step-title screensteps-heading">Open Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/115/original/449cce81-464e-4865-baf9-d75a32808525.png" srcset="" alt="Open Gradebook" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ACED90C0-AD1D-0135-030C-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="switch_to_individual_view" data-step-uuid="ACEDA3D0-AD1D-0135-030D-06467EE270FA">
+    <h2 id="switch_to_individual_view" class="step-title screensteps-heading">Switch to Individual Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/677/095/original/70352cd3-8013-420b-a7d5-f3e2f6bd8051.png" srcset="" alt="Switch to Individual View" height="596" width="799">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ACEDCB50-AD1D-0135-030F-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Learning Mastery Gradebook</strong> menu [1] and then click the <strong>Individual Gradebook</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_a_section" data-step-uuid="ACEDDF50-AD1D-0135-0310-06467EE270FA">
+    <h2 id="select_a_section" class="step-title screensteps-heading">Select a Section</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/370/original/a4b2382a-a725-459b-b551-fd7fe78fe1dd.png" srcset="" alt="Select a Section" height="254" width="333">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ACEE0720-AD1D-0135-0312-06467EE270FA" class="text-block-content">
+    <p>In the section drop-down menu, select the section you want to view.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="hide_student_names" data-step-uuid="ACEE1B10-AD1D-0135-0313-06467EE270FA">
+    <h2 id="hide_student_names" class="step-title screensteps-heading">Hide Student Names</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/364/original/34da8095-8c8c-4c86-bba8-ea85070a5e7e.png" srcset="" alt="Hide Student Names" height="264" width="280">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ACEE4360-AD1D-0135-0315-06467EE270FA" class="text-block-content">
+    <p>To hide student names in the Gradebook Individual View, select the <strong>Hide Student Names </strong>checkbox [1]. To download scores in a CSV file, click the <strong>Download Results </strong>button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_student" data-step-uuid="ACEE5580-AD1D-0135-0316-06467EE270FA">
+    <h2 id="select_student" class="step-title screensteps-heading">Select Student</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/362/original/9df0f364-d487-4126-83ba-e948cd9c8cef.png" srcset="" alt="Select Student" height="345" width="541">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ACEE7CB0-AD1D-0135-0318-06467EE270FA" class="text-block-content">
+    <p>In the Student drop-down menu [1], select the name of the student whose information you want to view. If you want to view all students beginning with the first student in your course or section, click the <strong>Next Student</strong> button [2].</p>
+<p>Remember, student names will be sorted by last name and displayed according to your section preference in the Global Settings drop-down menu.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_outcome" data-step-uuid="ACEE8FF0-AD1D-0135-0319-06467EE270FA">
+    <h2 id="select_outcome" class="step-title screensteps-heading">Select Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/366/original/8dcdb9b7-183a-4c59-a157-682b6d708635.png" srcset="" alt="Select Outcome" height="345" width="541">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ACF0FA10-AD1D-0135-031B-06467EE270FA" class="text-block-content">
+    <p>In the Assignment drop-down menu [1], select the outcome you want to view. If you want to view the first outcome in your course, click the <strong>Next Outcome</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_gradebook_information" data-step-uuid="ACF11050-AD1D-0135-031C-06467EE270FA">
+    <h2 id="view_gradebook_information" class="step-title screensteps-heading">View Gradebook Information</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/368/original/3228b41e-730c-4969-b70b-1c386dcc7e85.png" srcset="" alt="View Gradebook Information" height="830" width="668">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ACF14340-AD1D-0135-031E-06467EE270FA" class="text-block-content">
+    <p>Once you select a student and an outcome, the Result, Student Information, and Outcome Information will display all corresponding content. Scroll down the page to view each of these sections. You can revisit the Gradebook settings at any time to hide and show settings. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_next_student_or_outcome" data-step-uuid="ACF15BF0-AD1D-0135-031F-06467EE270FA">
+    <h2 id="view_next_student_or_outcome" class="step-title screensteps-heading">View Next Student or Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/358/original/49bdb435-7fe4-437f-bb01-2f8ee95f2f4e.png" srcset="" alt="View Next Student or Outcome" height="333" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ACF18800-AD1D-0135-0321-06467EE270FA" class="text-block-content">
+    <p><span style="color:rgb(38,38,38);">To view the next student, click the <strong>Next Student </strong>button [1]. </span></p>
+<p><span style="color:rgb(38,38,38);">To view the next outcome, click the <strong>Next Outcome</strong> button [2].</span></p>
+<p><span style="color:rgb(38,38,38);">You can always select individual students and/or outcomes by clicking each respective drop-down menu.</span></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="switch_gradebooks" data-step-uuid="ACF19EE0-AD1D-0135-0322-06467EE270FA">
+    <h2 id="switch_gradebooks" class="step-title screensteps-heading">Switch Gradebooks</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/677/099/original/536f3809-3b44-4b66-8c64-3300b990be96.png" srcset="" alt="Switch Gradebooks" height="284" width="709">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ACF1C580-AD1D-0135-0324-06467EE270FA" class="text-block-content">
+    <p>To switch to the Default Learning Mastery Gradebook, click the <strong>Gradebook</strong> drop-down menu [1] and then click the <strong>Learning Mastery Gradebook</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

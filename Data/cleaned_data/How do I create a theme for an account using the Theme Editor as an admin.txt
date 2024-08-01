@@ -1,0 +1,42 @@
+How do I create a theme for an account using the Theme Editor as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Themes
+In Account Navigation, click the Themes link. 
+Note: If sub-account themes have been enabled, each sub-account also includes a Themes link. To open the Theme Editor for a sub-account, click the Sub-Accounts link to locate and open the sub-account, then click the sub-account's Themes link.
+Open Theme Template
+If you do not yet have a Canvas theme for your account, use a template to create a new theme. You can choose from the Default Canvas template, a minimalist template, and a State U. template. If your Customer Success Manager has enabled the K12-specific feature option, the K12 Theme also appears as a template.
+To create a new theme, hover over a template and click the Open in Theme Editor button, or click the Add Theme button and select a template from the list.
+Open Saved Theme
+If you previously created and saved a theme, you can edit saved themes at any time. Saved themes display in the My Themes section. To open a saved theme, hover over the name of the theme and click the Open in Theme Editor button.
+To create a new theme based on a saved theme, click the Add Theme button and select the name of the saved theme from the list. This option helps you avoid overwriting your previously saved theme.
+View Theme Editor
+The Theme Editor displays a sample page to preview your custom branding. These components will change with the colors and branding that you add using the Theme Editor. 
+View CSS/JS Upload Tab
+If custom cascading style sheets (CSS) or JavaScript (JS) override files have been enabled for your account, the Theme Editor sidebar displays an Edit tab and an Upload tab. The Theme Editor defaults to the Edit tab and shows all the Theme Editor components. The Upload tab allows you to upload custom files.
+Locate Components
+The Theme Editor has four component groups: Global Branding, Global Navigation, Watermarks & Other Images, and Login Screen. By default, the Theme Editor sidebar displays the Global Branding group.
+Locate the component you want to customize. You can expand and collapse groups by clicking the arrow icon next to the group heading.
+Select Color via CSS
+The default value for each component is faded in the text field.
+To specify a color component, locate the component text field and enter a new CSS color. You can enter colors via hex code, RGB value, or valid color name. 
+Note: Entered colors will convert and display as hex codes. 
+Select Color via Color Selector
+In browsers that support native color inputs, the color selector can be used to choose a value. Locate the component and click the color box. The color selector will appear in a new window.
+Select Color
+Select a color in the color selector window. Once a color is selected, the component displays the new color in the box. The component's hex color also updates with the new color value.
+Add Images
+For components that require images, locate the component and click the Select Image link. The image description will include supported file types. 
+Preview Theme
+To preview your theme, click the Preview Your Changes button.
+Canvas will generate the preview of the components based on your template changes. If necessary, make additional changes and preview your theme again.
+Save Theme
+Once you are satisfied with your template changes, save your theme by clicking the Save Theme button. 
+Create Theme Name
+If you modified a theme from a template, the Theme Editor creates a copy of the theme. Templates cannot be edited directly. In the Theme Name field, enter a name for your theme. Click the Save Theme button.
+Note: If you edited a previously saved theme, saving the theme overwrites the previous version of the theme and uses the same theme name.
+Apply Theme
+To apply your theme to your account, click the Apply theme button. 
+To exit the theme and return to the Themes page, click the Exit button. You can open the theme and apply it to your account at any time. 
+To apply the theme to your entire account, click the OK button. To return to the Theme Editor, click the Cancel button.
+Note: If your account allows subaccounts to customize their own themes, any applicable changes you made will also filter down to any associated sub-accounts. Canvas shows the status of your Theme Editor updates; when the process for each subaccount is complete, the subaccount disappears from the progress window. When all subaccounts have been updated, the Theme Editor redirects back to the Themes page.

@@ -1,0 +1,192 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8f706ab7-fb87-4e10-9a14-69537fdef1dc" class="text-block-content">
+    <p>You can view and download reports for published courses as CSV files in New Analytics. You can download reports for missing assignments, late assignments, excused assignments,  class roster, and course activity. Reports can be filtered depending on the report type. </p>
+<p>Report data may be delayed by 24 hours; however, Course Activity Report data may be delayed by 40 hours. </p>
+<p>New Analytics report data begins on the date that New Analytics was enabled in a published course. For example, if a course enabled New Analytics on October 1 and downloaded a report on October 15, the report would only include data between October 1-15.</p>
+<p><strong>Note:</strong> In order for New Analytics to display in Canvas, third-party cookies may need to be enabled in your browser settings.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-courses" data-step-uuid="348e15d3-8e3c-47e2-ab10-12425995a251">
+    <h2 id="open-courses" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/746/original/99c83ae9-9b12-42f9-b2e9-b795da78de66.png" srcset="" alt="Open Course" height="476" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_70d19765-771a-4f01-b001-866f8d91eb2c" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-new-analytics" data-step-uuid="7e73859f-63f3-4a16-b5ae-c7baaa6dad81">
+    <h2 id="open-new-analytics" class="step-title screensteps-heading">Open New Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/778/360/original/5b1eeafc-cc2a-4754-8bbc-8ba3cdb1c7db.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/778/360/medium/5b1eeafc-cc2a-4754-8bbc-8ba3cdb1c7db.png" srcset="" alt="Open New Analytics" height="432" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_882f473c-6016-455a-b384-1fa6879b6121" class="text-block-content">
+    <p>To open New Analytics, click the <strong>New Analytics</strong> link in Course Navigation [1] or click the <strong>New Analytics</strong> button in the Course Home Page [2].</p>
+<p><strong>Note:</strong> If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-reports" data-step-uuid="c675cd16-d623-4472-8603-244378e1f0f1">
+    <h2 id="view-reports" class="step-title screensteps-heading">Open Reports</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/117/901/original/3a8f9d11-4c5d-485a-b30e-5e331f990c97.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/117/901/medium/3a8f9d11-4c5d-485a-b30e-5e331f990c97.png" srcset="" alt="Open Reports" height="152" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3a5e5865-e369-4585-9e65-2a3180793723" class="text-block-content">
+    <p>Click the <strong>Reports</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-reports_1" data-step-uuid="71072438-d2bc-4d7d-a8b6-bd0ad8313f76">
+    <h2 id="view-reports_1" class="step-title screensteps-heading">View Reports</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/690/433/original/4596fb6c-6807-4457-9a46-81faa0168120.png" srcset="" alt="View Reports" height="438" width="843">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_562dd41f-295a-4607-89c2-e2462dde0504" class="text-block-content">
+    <p>View the New Analytics reports. The following reports are available:</p>
+<ul>
+<li>
+<strong>Missing Assignments</strong> [1]: a list of assignments that have not been submitted yet</li>
+<li>
+<strong>Late Assignments</strong> [2]: a list of assignments that have been submitted late</li>
+<li>
+<strong>Excused Assignments</strong> [3]: a list of assignments that are excused</li>
+<li>
+<strong>Class Roster</strong> [4]: a list of students enrolled in the course or section with student contact information such as email and SIS ID</li>
+<li>
+<strong>Course Activity</strong> [5]: a list of daily user views and participations </li>
+</ul>
+<p><strong>Note:</strong> The Course Activity Report only includes course activity data for the past 14 days.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="run-reports" data-step-uuid="b778488e-4ddf-454a-82f7-4800158bcac1">
+    <h2 id="run-reports" class="step-title screensteps-heading">Run Reports</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/690/435/original/57a5f34c-6a45-41aa-86e7-bb6c677333bc.png" srcset="" alt="Run Reports" height="439" width="808">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a229cae1-ffa1-485a-aafa-57b340b6b308" class="text-block-content">
+    <p>To view more information about the report, click the <strong>Information</strong> icon [1].</p>
+<p>To open and configure a report, click the <strong>Run Report</strong> button for the corresponding report [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-report" data-step-uuid="7ef1030b-6c43-4b00-8c2d-b6cb1a41599b">
+    <h2 id="filter-report" class="step-title screensteps-heading">Filter Report</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/785/889/original/428012f4-ceb5-4f4d-a433-65c3970191e8.png" srcset="" alt="Desktop" height="408" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59704d6f-1ac0-4af6-a62a-d10b966d5b03" class="text-block-content">
+    <p>To add a filter for the report, click the <strong>Add Filter</strong> button [1].</p>
+<p>Click the <strong>Filter by</strong> drop-down menu and select filters for the report [2].</p>
+<p>To remove a filter, click the <strong>Delete</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="run-report" data-step-uuid="2a3de952-111a-4cf5-b367-31caacd19c3d">
+    <h2 id="run-report" class="step-title screensteps-heading">Run Report</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/778/369/original/d6c9d0c0-ee4d-4c03-9325-748a1e0d58e5.png" srcset="" alt="Desktop" height="408" width="478">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_40e29384-3a20-416e-8485-212b3e2702e4" class="text-block-content">
+    <p>To run the report and download the CSV file, click the <strong>Run Report</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-report" data-step-uuid="51b7f79d-7244-4cdb-bffb-a310c123f1e0">
+    <h2 id="open-report" class="step-title screensteps-heading">Open Report</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/773/409/original/93b39b05-97d6-4786-af24-b1989d6ef26b.png" srcset="" alt="Desktop" height="129" width="569">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_44cc8b83-12f8-4924-920b-46c8abeb51a4" class="text-block-content">
+    <p>Locate the CSV file for the report to open and view the report.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-report" data-step-uuid="96d64d45-a4a8-45a9-8df0-f77aac30d131">
+    <h2 id="view-report" class="step-title screensteps-heading">View Report</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/773/411/original/298cc8f7-bdb7-400b-9678-698374b116a1.png" srcset="" alt="Desktop" height="416" width="854">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_71ccbb55-5512-4116-8584-90e38447bb56" class="text-block-content">
+    <p>View the report.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-online-attendance-report" data-step-uuid="b86155b3-c995-4c9a-811f-e55b1c90c2d2">
+    <h2 id="view-online-attendance-report" class="step-title screensteps-heading">View Online Attendance Report</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/690/437/original/c1ad6edf-c0a9-4f10-a008-56ef45644783.png" srcset="" alt="View Online Attendance Report" height="122" width="808">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e118b244-7af5-4813-8c2e-cc552b4a881a" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-view-the-Online-Attendance-report-in-New-Analytics/ta-p/478617" target="_blank">view the Online Attendance report</a>, click the <strong>Online Attendance</strong> tab.</p>
+<p><strong>Note:</strong> If the Online Attendance tab does not display in your course, it has not been enabled by your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

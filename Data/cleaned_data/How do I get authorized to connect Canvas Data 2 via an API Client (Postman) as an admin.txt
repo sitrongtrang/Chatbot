@@ -1,0 +1,20 @@
+How do I get authorized to connect Canvas Data 2 via an API Client (Postman) as an admin
+Generate Client Credentials via Identity Services
+Before using a Postman, you need to generate a Client ID and Secret for Canvas Data 2.
+Add New Authorization Request
+In Postman, to add a new request, click the Add tab and then click the Authorization tab.
+Select Authorization Type
+In the Authentication Type drop-down menu, select the Basic Auth option.
+Note: You can also use a CURL script to retrieve a token.
+Enter User Credentials
+Enter the user credentials:
+Username (Client ID): enter the developer key generated in Identity Services
+Password (Client Secret): enter the secret generated in Identity Services
+Select POST method as the request type, and set the following URL:
+https://api-gateway.instructure.com/ids/auth/login
+Generate Access Token
+In the Body tab, select the x-www-form-urlencoded option. In the KEY field, enter “grant_type” and in the VALUE field, enter “client_credentials”.
+Click the Send button. 
+In case of successful authorization, you will receive the access token in the API response. You can use this short-lived token to send request to the CD2 API.
+For all available requests, check the Canvas Data 2 API Documentation.
+You can also use the preconfigured requests from the Postman collection described in the set up Canvas Data 2 in Postman document.

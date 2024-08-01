@@ -1,0 +1,101 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0FED1450-2214-0135-4952-22000B5A851D" class="text-block-content">
+    <p>Within Modules, you can view the progress of your students and see how they are progressing through the course. </p>
+<p>Module progress is determined by the students completing required elements in the module. If you don't set up any requirements, you won't be able to track your students' progress within each module. Required elements may include requiring the students viewing a page, submitting an assignment, or earning a minimum score on an assignment or quiz. For more information please see the lessons about <a href="/t5/Instructor-Guide/How-do-I-add-prerequisites-to-a-module/ta-p/1123" target="_blank">setting up prerequisites</a> and <a href="/t5/Instructor-Guide/How-do-I-add-requirements-to-a-module/ta-p/1131" target="_blank">adding requirements</a>. </p>
+<p><strong>Note:</strong> Numerous module items may affect performance. Modules supports up to 100 module items in the student progress page.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="24563c37-f719-42c0-9c57-96ac581ab963">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/188/original/8453cc89-a6f6-4546-b916-6d5eee535aa6.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0FED4FA0-2214-0135-4954-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_progress" data-step-uuid="993CF7FD-03A6-489D-A550-77790C868825">
+    <h2 id="view_student_progress" class="step-title screensteps-heading">View Student Progress</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/388/222/original/7bcac3eb-1155-40df-8465-baa8c6994648.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/388/222/medium/7bcac3eb-1155-40df-8465-baa8c6994648.png" srcset="" alt="View Student Progress" height="389" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0FED84F0-2214-0135-4956-22000B5A851D" class="text-block-content">
+    <p>Modules displays an overview of each module and the content within each module. Any completion requirements are listed next to the module content item [1]. Prerequisite requirements are posted at the top of the module [2].</p>
+<p>To view student progress in your course, click the <strong>View Progress</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_student" data-step-uuid="d592dea9-f731-44c1-bf6a-1b037559fdd9">
+    <h2 id="select_student" class="step-title screensteps-heading">Select Student</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/724/original/d5f1ad0e-cf5f-45c8-b9cb-65089782b83e.png" srcset="" alt="Select Student" height="327" width="264">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0FEDB8B0-2214-0135-4958-22000B5A851D" class="text-block-content">
+    <p>When opening the View Progress window, Canvas will always default to show the first student in your course (listed alphabetically by last name).</p>
+<p>To view progress for another student, click the student's name in the Student Progress list. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_module_progress" data-step-uuid="E61EA89C-6A7C-4B74-BEFD-FA27DF861E92">
+    <h2 id="view_module_progress" class="step-title screensteps-heading">View Module Progress</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/219/691/original/612613cc-6269-4bf1-bf88-63ad7324b270.png" srcset="" alt="View Module Progress" height="407" width="708">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0FEDEA20-2214-0135-495A-22000B5A851D" class="text-block-content">
+    <p>The Module Progress window shows the progress of each student in your course. Modules can be completed, in progress, locked, or unlocked. </p>
+<ul>
+<li>
+<strong>In Progress</strong> [1]: the student has started but not finished the module</li>
+<li>
+<strong>Locked</strong> [2]: the module cannot yet be accessed by the student because of completion or prerequisite requirements</li>
+<li>
+<strong>Completed</strong> [3]: the student has completed the module, or the module has no completion requirements</li>
+<li>
+<strong>Unlocked</strong> [4]: the student can access but has not yet started the module</li>
+</ul>
+<p> </p>
+<p>To learn more about what a student is accessing, visit the <a href="/t5/Instructor-Guide/How-do-I-view-the-course-access-report-for-an-individual-user/ta-p/754" target="_blank">access report lesson</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

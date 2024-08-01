@@ -1,0 +1,31 @@
+How do I create a Multiple Answers quiz question as an instructor
+Add Question
+With the Questions tab selected inside a new quiz, click the New Question button.
+Set Name, Type, and Points
+Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).
+Click the drop-down menu and select the Multiple Answers question type.
+Enter number of points the question is worth (quiz totals are calculated based on combined total of questions).
+Note: Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.
+Edit Multiple Answers Question Details
+To build a Multiple Answers question, you will need to enter the following details:
+The question text (use the Rich Content Editor to include video, images, math equations, or flash activities)
+Question response text 
+Text for the answer comments under each correct answer and/or at the end of the question
+Create Answers with Rich Content Editor 
+To create your answer with the Rich Content Editor, hover over the response and click the Edit icon. This switch will allow you to post video, audio, math equations, and more in the answer response. To close the editor, click the Done button.
+Add or Delete Answers
+Click the Add Another Answer link to create as many correct answers and distractors as you like. If you want to delete a response, hover over the response and click the Delete icon. 
+Select Correct Answers
+Multiple Answers questions can have more than one correct answer. Hover your cursor to the left of any answer to reveal a green "ghost" arrow. Click the green arrow to the left of the correct answers. You will know which answers are marked as correct responses because both the arrow and the feedback bubble below the answer field will turn green. In this example, the second and third answers are marked as correct. Students are required to select all correct answers to get full credit.
+Enter Feedback Text
+You can choose to give students feedback in the answer comments fields. To leave feedback for a specific answer, click the comment field beneath the answer.
+You can also create general answer comments for the quiz question as a whole. Students who select the correct answer will see the feedback in the green comment field. Students who select any incorrect answer will see the feedback in the red comment field. All students will see the feedback in the blue comment field.
+Note: Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students. 
+Each text box can be expanded in size by clicking and dragging the handle at the bottom-right of the text box.
+Update Question
+Click the Update Question button.
+Add additional individual questions as needed. 
+Student View for Multiple Answers Question
+This is what students see when they encounter a Multiple Answers question in a quiz.
+Student View for Multiple Answers Feedback
+If you allow students to see the correct answers, correct responses are marked with a green flag. Incorrect responses will be marked with a red flag and any correct answers not indicated by the student are marked with a gray flag.

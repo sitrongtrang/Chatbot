@@ -1,0 +1,26 @@
+How do I add a moderated assignment to be graded by multiple reviewers as an instructor
+Open Assignments
+In Course Navigation, click the Assignments link.
+Add Assignment
+To create an assignment with all assignment details at the same time, click the Add Assignment button.
+Edit Assignment
+If you want to edit an existing assignment that has not yet received student submissions, click the name of the assignment.
+Add Assignment Details
+Add details to the assignment.
+Select Moderated Grading
+Click the Moderated Grading checkbox.
+Select Number of Graders
+In the Number of Graders text box, enter the number of graders who should grade the submission. If the number of graders is changed to a higher number, the page displays a message that there are not enough course users with grading permissions to fulfill the desired number of graders. 
+Canvas allows for a maximum of 10 graders. If you enter a number larger than 10, the page displays a message that only 10 graders are available in the course.
+A moderator does not have to specify which specific graders in the course can grade submissions. If a course includes a surplus of graders higher than the desired number of graders, any grader can assess an assignment submission until the specified number of grades has been achieved. When an assignment has reached the specified number of graders, remaining graders will not be able to access the assignment anywhere in Canvas.
+The moderator is never included in the number of available graders since the moderator does not traditionally grade individual submissions. However, the moderator may choose to provide a custom grade instead of selecting a grade from one of the graders.
+Select Grader Visibility
+If you want to allow graders to view each other's comments, select the Graders can view each other's comments checkbox. This option is selected by default.
+Note: If anonymous grading is also enabled for your course, selecting this option displays the Graders cannot view each other's names checkbox in the anonymous grading assignment options. 
+This option allows graders to view comments from other graders but not view the name associated with each comment.
+Select Final Grader
+In the Select Grader menu, select the name of the moderator, or the grader who determines the final grade. The Select Grader menu displays the names of course graders who have been given permission to determine the final grade. This permission is assigned to one or more roles at the account level. If you have permission, you can select your own name as the final grader.
+To allow the final grader to view other graders' names, click the Final grader can view other grader names checkbox. This option is selected by default.
+Save Assignment
+If you want to notify users about any future assignment changes, click the Notify users that this content has changed checkbox. Click the Save button. 
+Note: If your assignment has not yet been published, the assignment will show the Save & Publish button. The Save button will create a draft of your assignment so you can publish it later.

@@ -1,0 +1,140 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_C8512E40-1E13-0135-AA18-22000B5A851D" class="text-block-content">
+    <p>The SIS Imports feature allows you to upload and integrate data from various Student Information Systems (SIS), complex databases, and even simple spreadsheets as comma separated value (CSV) files. Admins can use this feature to create users, accounts, courses, enrollments, logins, and more.</p>
+<p>Only admins with the correct permissions can import and manage SIS data. For more information please see the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Account-Role-Permissions/ta-p/387078" target="_blank">Canvas Account Permissions resource document</a>.</p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/SIS-Import-Overview-Admins/ta-p/383726" target="_blank">View a video about SIS Imports</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="when_would_i_use_sis_imports" data-step-uuid="9d5ab2e3-2216-49c7-b186-6514ef6c77f4">
+    <h2 id="when_would_i_use_sis_imports" class="step-title screensteps-heading">When would I use SIS imports?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C8514A30-1E13-0135-AA19-22000B5A851D" class="text-block-content">
+    <p>With SIS imports, you can:</p>
+<ul>
+<li>Import SIS data with CSV files or automatically import via the Canvas API</li>
+<li>Import SIS data with IMS Enterprise Specification XML zip files</li>
+<li>Import SIS data with Banner Grade Exchange Results XML</li>
+<li>Create an automated data integration with Canvas</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_types" data-step-uuid="ae1cc172-4c59-45b8-abef-fc8b46550496">
+    <h2 id="import_types" class="step-title screensteps-heading">Import Types</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/961/original/4e0b6b0d-f731-477d-a6a8-19d1a1e92929.png" srcset="" alt="Import Types" height="285" width="648">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C8518000-1E13-0135-AA1B-22000B5A851D" class="text-block-content">
+    <p>The SIS Import page supports a few formats for standard imports to Canvas: Instructure formatted CSV or zipfile of CSVs, IMS Enterprise Specification XML zip, or Banner Grade Exchange Results XML. </p>
+<p>A standard import only processes changes that are specifically listed in the upload file and is an efficient way to upload a few records. For example, if a student enrollment was listed as active in a prior import but not present in the current enrollment, no change will take place to the student enrollment. The enrollment will remain active until marked as deleted or completed in a standard import (or is marked as not present in a Full Batch update for the term where the course is listed). During the beginning of a term, course enrollments change regularly; submitting a standard import frequently helps keep enrollments current in an account. </p>
+<p>When uploading SIS data with CSV files, you may import an individual CSV text file or you may compress multiple files into a single ZIP file to bulk import data. If you are using the Instructure format for importing files, the files should be in the following order: users, accounts, terms, courses, sections, enrollments, and logins.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="full_batch_updates" data-step-uuid="5caa52c8-c2e3-452e-8629-3b2c3af39743">
+    <h2 id="full_batch_updates" class="step-title screensteps-heading">Full Batch Updates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/957/original/acaa823f-58c9-41e5-92b2-1794dcbb7de1.png" srcset="" alt="Full Batch Updates" height="210" width="648">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C851D3F0-1E13-0135-AA1D-22000B5A851D" class="text-block-content">
+    <p>Canvas supports full batch updates for each import type. This option will only affect data that has been involved in a previous SIS job – either created by a previous import, or referenced by a SIS job after a SIS ID was manually added. Manually created courses with no SIS ID, for example, won't be deleted even if they don't appear in the new SIS import.</p>
+<p>For enrollments, this option means the linked user and course/sections require SIS IDs. A Canvas record will be deleted if it is not included in the current import file. </p>
+<p><strong>This option can delete large data sets without any prompt or warning for confirmation and affects data created in previous SIS imports.</strong></p>
+<p>Full batch updates are useful if:</p>
+<ul>
+<li>Your source SIS software doesn't have a way to send delete records as part of an import, and you need to remove a fair portion of the imported data</li>
+<li>You want to be sure your current enrollment and data set are consistent with your SIS enrollment and course data</li>
+<li>Your SIS doesn't track changes to course state or enrollments for students and/or teachers</li>
+<li>You want to delete courses that you have migrated to Canvas from another LMS</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="multi-term-batch-mode" data-step-uuid="0ee3a74e-afb7-4fb3-a6f7-5afc776282d3">
+    <h3 id="multi-term-batch-mode" class="step-title screensteps-heading">Multi Term Batch Mode</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c69c5526-92ef-44d9-82b2-9311d9b192c6" class="text-block-content">
+    <p>If you want to run a batch against all terms in the same import, you can enable multi term batch mode. This mode can only be enabled in the API and requires a change threshold as noted in the <a href="https://canvas.instructure.com/doc/api/file.sis_csv.html" target="_blank" rel="nofollow noopener noreferrer">SIS Import Format Documentation</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="ui_overrides" data-step-uuid="73fd14bc-4a2b-4e5a-9668-30b4a5af9aa1">
+    <h2 id="ui_overrides" class="step-title screensteps-heading">UI Overrides</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/950/original/a5f8b6a7-5417-4758-b190-8b76fd453508.png" srcset="" alt="UI Overrides" height="169" width="678">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C85216F0-1E13-0135-AA1F-22000B5A851D" class="text-block-content">
+    <p>Canvas supports user interface (UI) overrides through SIS imports. When a user makes changes to certain data fields in Canvas (e.g., a user's name), this change is "sticky" and is set as the new default. Selecting the Override UI option allows Canvas to overwrite any "sticky" data updated in the Canvas UI. Otherwise, attempting an import with conflicting data would be disregarded and the existing user data would not be changed. To view the full list of "sticky" data fields, see the <a href="https://canvas.instructure.com/doc/api/file.sis_csv.html" target="_blank" rel="nofollow noopener noreferrer">SIS Imported Format Documentation</a>.</p>
+<p>This option may be useful if:</p>
+<ul>
+<li>You forgot to restrict user options in account settings, such as allowing users to change their names, delete their institution-assigned email address, etc., and you want to run an update to be sure they are in sync. Note that this will NOT impact the user's display name if they changed it. Only the full name and sortable name would be changed.</li>
+<li>You allowed them to change their names (above example) on purpose, but want to periodically sync with your current data.</li>
+<li>You want to maintain control over the names of users and courses, or if you know a name change occurred for a user or course.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="809d5b07-6abe-439a-b751-38efce199f53">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/789/953/original/22ba5534-b7cb-4e49-945f-f38a8b04c325.png" srcset="" alt="Override UI Options" height="391" width="678">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C8524F70-1E13-0135-AA21-22000B5A851D" class="text-block-content">
+    <p><sup>Overriding UI changes also allows one of two additional options: process as UI changes or clear UI-changed state.</sup></p>
+<p><strong>Process as UI changes. </strong>This option<strong> </strong>overrides changes that have taken place in the UI as "sticky" data; all data acts as if the changes were actually manually updated in the UI.</p>
+<p>This option may be useful if:</p>
+<ul>
+<li>You don't want subsequent imports to overwrite the data you are currently importing.</li>
+</ul>
+<p> </p>
+<p><strong>Clear UI-changed state. </strong>This option removes the "stickiness" of all data that exists in this import; future imports with this data will not indicate any data in the UI as "sticky".</p>
+<p>This option may be useful if:</p>
+<ul>
+<li>You accidentally checked the "Process as UI changes" option and you need to fix the affected data.</li>
+<li>You forgot to remove the ability for users to rename themselves, course names, or remove the institutional email and you want to clear the stickiness of the UI changes that have occurred.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

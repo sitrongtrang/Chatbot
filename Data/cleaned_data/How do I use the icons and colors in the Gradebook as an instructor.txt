@@ -1,0 +1,62 @@
+How do I use the icons and colors in the Gradebook as an instructor
+Submission Type Icons
+The Gradebook displays one Assignment Icon, regardless of assignment type, to note a submission that needs to be graded. A submission is noted as needing to be graded in the following conditions:
+A submission has been received but has not been graded
+A submission was graded but the grade was removed by the instructor
+An assignment or quiz was resubmitted
+A quiz was submitted in Classic Quizzes, but is not fully graded (contains questions that must be manually graded, or an auto-submitted quiz score has been deleted and needs to be reassigned); can also display if a quiz has been edited and includes major changes that affect the quiz score, such as deleting questions or deleting quiz answers, and requires a grader to manually resolve
+An assignment with grades hidden from students is indicated by the Visibility icon. Additional situations apply:
+When weighted assignment groups are not enabled, the total column also includes a warning icon notifying you that the grade you see differs from the grade the students see because student grades on one or more graded assignments are hidden.
+If an assignment column displays the visibility icon and all cells are grayed out, the assignment is moderated. 
+Note: The Assignment icon does not display for resubmitted discussions.
+Grading Types
+Each grading type shows up differently in the Gradebook. Here you can see how each grading type is represented:
+Dash: No submission 
+Number: Points grade
+Check Icon: Complete grade
+X Icon: Incomplete grade
+Letter: Letter grade
+Percentage: Percentage grade
+GPA: GPA scale 
+Excused: Excused assignment
+Column Warning Icons
+The Black Warning Icon notifies you that the final score does not include one of the assignment groups because the group has zero points possible (the warning will tell you which assignment group is affected). This icon only displays in the total column related to assignment group errors.
+You can correct the assignment group warnings by making sure a weighted assignment group has an assignment worth more than zero points, or, if an assignment is supposed to have zero points, adding another assignment with more than zero points to the assignment group.
+The Red Warning Icon notifies you that the entered grade is not supported in the grading scheme. Canvas will also display an invalid grade warning message when an invalid grade is entered.
+Grade Detail Tray Warning Icon
+The Grade Detail Tray Warning Icon displays a warning icon for assignments that are not calculated as part of the final grade. This icon displays if the Do not count this assignment towards the final grade option is selected, or if the assignment is in a weighted assignment group with no weighted percentage.
+The Grade Detail Tray also reflects if assignment grades are hidden.
+Visibility Icons
+If you have applied a manual posting policy in a course or in an individual assignment, the Manual label will display in the Gradebook. 
+The Manual label indicates that a manual posting policy is currently in place and future grades are hidden from student view or that a manual posting policy was previously used to hide grades in an assignment. If you have selected a manual posting policy for a course, all assignments that have hidden grades will display the Visibility icon.
+The Visibility icon indicates that there are grades within the assignment that must be posted before they can be viewed by students.
+When grades are hidden from student view, the Total column also displays the Visibility icon to indicate that the total grade in the Gradebook differs from the total grade viewed by the student.
+Colors
+The Gradebook includes a default set of colors that indicate various statuses for assignments:
+Blue: Late submission
+Red: Missing submission
+Green: Resubmitted assignment or quiz
+Orange: Dropped grade
+Yellow: Excused assignment
+Status colors in your Gradebook may vary, as you can change the status colors for each status in the Gradebook. However, you cannot change the status names.
+Gradebook rows alternate white and gray shading, so some colors may seem darker if they display in a row with gray shading.
+Notes: 
+Depending on your institution, you may be able to apply custom gradebook statuses.
+The resubmitted assignment color does not apply to resubmitted discussions.
+Differentiated Assignments
+When using differentiated assignments, the assignment appears as a column for all students, but grade cells are grayed out for students who are not part of the assignment and do not include a dash. Grades cannot be assigned to students who are not part of the assignment; those assignments are not factored into overall grades.
+In the student grades page, students can only view assignments that have been assigned to them.
+Differentiated assignments are also used in MasteryPaths.
+Closed Grading Periods
+If your course uses multiple grading periods, submission cells for an entire assignment in a closed grading period are grayed out in the Gradebook. Assignments in a closed grading period cannot be edited.
+Disabled Columns
+Some columns are completely disabled until the status of the assignment is changed. Disabled columns do not include dashes in the Gradebook cells, which indicates that grades cannot be entered, and display a gray background. 
+Disabled columns are labeled for unpublished assignments and anonymous assignments. Grades cannot be entered for unpublished assignments until the assignment is published. For anonymous assignments, grade cells do not display any content, including the Needs Grading icons, until assignment grades are unhidden.
+Note: Assignments that are both anonymous and moderated display as anonymous, though the Grade Detail Tray displays the assignments as being hidden. Moderated hidden assignments can be updated in the Gradebook, but any entered grades will be overwritten once final grades are posted.
+Turnitin Icons
+If you create a Turnitin assignment, the Gradebook displays Turnitin score icons in the Gradebook. To view details of the score, click the icon and view more details in SpeedGrader:
+Gray icon: Similarity Report has not been generated yet
+Color icon: Similarity Report has returned a score; the color is based on the Similarity Report percentage score
+A Clock icon indicates the Similarity Report is still being generated
+An Exclamation icon indicates there was an error when generating the Similarity Report
+Learn more about the Turnitin Similarity Report.

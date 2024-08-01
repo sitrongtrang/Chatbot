@@ -1,0 +1,15 @@
+How do I run Roll Call Attendance reports for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Attendance
+In Account Navigation, click the Attendance link.
+Specify Report Data
+In the Generate Report tab, you can specify criteria for your report. If you leave the fields blank, the report will be generated for the entire account.
+You can choose a date range for the report. You can also optionally filter by SIS course ID or SIS student ID. 
+By default, the email field will be populated with your email address to send the report. Confirm your email in the field or enter a new email address. 
+Run Report
+Click the Run Report button.
+View Notification
+A notification should appear if your request was successfully submitted.
+View Email
+You will receive an email with the subject Roll Call AttendanceReport. The email contains a link where you can access your attendance report for the next 24 hours. When you click the link, you can choose to view or download the report results. 

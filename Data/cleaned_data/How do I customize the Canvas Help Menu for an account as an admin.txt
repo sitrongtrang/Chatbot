@@ -1,0 +1,50 @@
+How do I customize the Canvas Help Menu for an account as an admin
+Customize Help Menu
+In Global Navigation, click the Help Menu link, then click the Customize this menu link.
+View Help Menu Options
+In the Settings tab, locate the Help menu options section.
+Customize Name
+By default, the Canvas Help menu text displays as Help. To change the text, enter the new name in the text field. 
+The name of the Help menu displays in Global Navigation, the footer of the login page, and the top menu bar in SpeedGrader. The name should be no more than 30 characters.
+Customize Icon
+By default, the Help navigation icon displays as a question mark. To change the navigation icon, select another icon from the included icon set. The selected icon displays a square border.  
+The navigation icon currently only displays in Global Navigation. To best assist your account users, the navigation icon should compliment the name of the Help menu.
+Customize Help Menu Links
+You can allow your users to view up to eight default Help menu links according to their role:
+Conference Guides for Remote Classrooms: Users can view and search guides and resources for using Conferences in remote classrooms and online learning
+COVID-19 Canvas Resources: Users can view resources for teaching and learning online
+Ask your Instructor a Question (Students Only): Students can quickly send their instructor(s) questions about their courses; messages are copied to the Conversations Sent folder and moved to the Inbox when a reply is received
+Search the Canvas Guides: Users can search the Canvas Guides for information about features inside of Canvas
+Report a Problem: Users can submit problems with Canvas; tickets are either sent to Canvas or your own support team, depending on your institution's preference to manage support tickets
+Training Services Portal: Users can access training resources provided by Instructure
+Ask the Community (Non-Students Only): Users can exchange ideas and solutions regarding Canvas functionality with Canvas experts and their Canvas peers
+Submit a Feature Idea: Users can submit ideas about how to make Canvas better
+Manage Default Links
+To move a default link up or down in the menu, click the up or down arrow. To delete a default link, click the Delete icon. To edit a default link, click the Edit icon. 
+Notes: 
+The Help menu links also display when a user accesses the Help menu from the Login page. However, even when enabled, Ask Your Instructor a Question, Ask the Community, and Training Services Portal links are never part of the Help menu in the Login page since the Login page does not associate a user by role.
+The Show Welcome Tour link cannot be modified or removed from the Help menu.
+Edit Default Links
+To edit the name of a default link, type in the Link name field. To edit the description of a default link, type in the Link description field. To select which users can view a default link, click the user role Available to checkboxes. Options include Everyone, Students, Teachers, Admins, Observers, and Unenrolled. Unless otherwise changed, all user roles are selected for custom links. 
+Use the Features checkboxes if you wish to have the link display with a New label or as a featured link. To add a custom featured headline, edit the Featured headline field. You may only have one featured link and one new link in the Help menu.
+To save your changes, click the Update link button.
+Note: The Link URL cannot be changed for default links.
+Restore Default Links
+If you want to restore a default link in the Help menu, click the Add Link button and select the name of the link. Faded links cannot be added as they are already in the Help menu. 
+Restore Default Links
+If you'd like to add a custom link to the Help menu, click the Add Link button, then click the Add Custom Link option.
+Add Link
+In the Link name field, enter the link name.
+In the Link description field, enter a description for the link.
+In the Link URL field, enter the URL for the link. This field is required. 
+The link URL field also supports the telephone URL and mailto schemes. 
+To create a click-to-call link in the Help menu, enter tel:+ followed by the internal format of the phone number (country code, area code, and number) in this field. Additionally, users can use the telephone link to call the number through their computers. When a user clicks the link, the user receives a confirmation alert before the call is placed. (Users may be able to access telephone links when viewing Canvas in a mobile browser, although mobile browsers are not officially supported by Canvas.) 
+To create a mailto scheme in the Help menu, enter mailto: followed by the email address. When a user clicks the link, the user's browser opens the email service configured in the user's browser and creates an email to the designated email address. If no browser configuration is set, the browser will try to pass the email link to a desktop email program.
+For the Available to checkboxes, select the user(s) who can view the link. Options include Everyone, Students, Teachers, Admins, Observers, and Unenrolled. Unless otherwise changed, custom links select checkboxes for all roles.
+Use the Features checkboxes if you wish to have the link display with a New label or as a featured link. To add a custom featured headline, edit the Featured headline field. You may only have one featured link and one new link in the Help menu.
+Click the Add Link button.
+Manage Custom Links
+To move a custom link up or down in the menu, click the up or down arrow. To edit a custom link, click the Edit icon. To delete a custom link, click the Delete icon.
+To add another custom link, click the Add Link button.
+Update Settings
+Click the Update Settings button.

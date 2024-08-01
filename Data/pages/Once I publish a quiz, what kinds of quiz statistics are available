@@ -1,0 +1,170 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_106207B0-221E-0135-83BF-22000BC102FE" class="text-block-content">
+    <p>You can view quiz statistics for quizzes that have been published and have at least one submission. You can also download comma separate value (CSV) files to view Student Analysis or Item Analysis for each quiz question. For more detailed information about item analysis limitations and calculations, please refer to the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Quiz-Item-Analysis/ta-p/387082" target="_blank">Item Analysis resource document</a>. </p>
+<p>For optimum course performance in the Canvas interface, quiz statistics will only generate for quizzes with 100 or fewer unique questions or 1000 total attempts. For instance, a quiz with 200 questions will not generate quiz statistics. However, a quiz with 75 questions will generate quiz statistics until the quiz has reached 1000 attempts. Results greater than these maximum values can be viewed by downloading the Student Analysis report and viewing the CSV file.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Editing a quiz with student submissions may affect quiz statistics. If the Question Breakdown charts no longer correctly display the information you expect after you edit a quiz, the Student Analysis report can provide the correct data.</li>
+<li>Media items do not display in quiz statistics.</li>
+<li>Answers that were edited or created in the Rich Content Editor for a Multiple Answers quiz question do not display in quiz statistics. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="3ACACC48-0AEF-4182-A269-F922CEFA00C7">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/724/original/b66ff3ea-71d5-4d45-97d8-16e062e57c46.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_10624B30-221E-0135-83C1-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quiz" data-step-uuid="8A61BABA-D81C-44D0-B481-D17EECD1B0B5">
+    <h2 id="open_quiz" class="step-title screensteps-heading">Open Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/253/229/original/4520e7c9-3555-4660-b26b-3b1e2685eb71.png" srcset="" alt="Open Quiz" height="276" width="771">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_10627AE0-221E-0135-83C3-22000BC102FE" class="text-block-content">
+    <p>Click the title of the quiz you want to open.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quiz_statistics" data-step-uuid="A8347635-1FD6-490D-853D-7874E8D658AE">
+    <h2 id="open_quiz_statistics" class="step-title screensteps-heading">Open Quiz Statistics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/881/original/202b1074-a769-41f0-b48d-df55a6c404e1.png" srcset="" alt="Open Quiz Statistics" height="224" width="283">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1062A700-221E-0135-83C5-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Quiz Statistics</strong> link.</p>
+<p><strong>Note:</strong> Quiz Statistics will not be available until at least one student has completed the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_statistics" data-step-uuid="B48C877A-AD22-4CAB-B467-8A8442D22981">
+    <h2 id="view_statistics" class="step-title screensteps-heading">View Statistics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/765/895/original/e71c47a7-dadb-4092-a9db-07e923773c84.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/765/895/medium/e71c47a7-dadb-4092-a9db-07e923773c84.png" srcset="" alt="View Statistics" height="493" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1062D8A0-221E-0135-83C7-22000BC102FE" class="text-block-content">
+    <p>By default, the quiz summary shows statistics for all sections including the quiz average score, high score, low score, standard deviation (how far the values are spread across the entire score range), and average time of quiz completion [1]. </p>
+<p>To view quiz statistics for a section, click the <strong>Section Filter </strong>drop-down menu [2]. To access additional survey results, generate a Student/Item Analysis report [3].</p>
+<p>In the summary graph, the x-axis indicates the quiz scored percentages [4], and the y-axis indicates the number of students who received each percentage [5].</p>
+<p>If a student had multiple assignment attempts, you can <a href="/t5/Instructor-Guide/How-do-I-view-the-details-of-a-submission-for-a-student-in/ta-p/762" target="_blank">view past attempts</a> in SpeedGrader. Quiz stats will only display the kept score for the student (highest score or latest score). To view the score setting for multiple attempts, edit your quiz and view the multiple attempts settings option. If necessary, you can give your students an <a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-how-can-I-give-my-students-extra-attempts/ta-p/1242" target="_blank">extra attempt</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_analysis_reports" data-step-uuid="7a157bf8-bd40-4f0a-aac7-136866dc2907">
+    <h2 id="view_analysis_reports" class="step-title screensteps-heading">View Analysis Reports</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/889/original/8176b361-12f4-4304-bb01-3e2a838f2fa4.png" srcset="" alt="View Analysis Reports" height="114" width="498">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_10630750-221E-0135-83C9-22000BC102FE" class="text-block-content">
+    <p>Download CSV files to view Student Analysis or Item Analysis for each quiz question to count all student attempts in the statistics. For more detailed information about item analysis limitations and calculations, please refer to the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Quiz-Item-Analysis/ta-p/387082" target="_blank">Quiz Item Analysis resource document</a>. </p>
+<p>When you generate an analysis report, Canvas shows the last time the report was generated. If there is an error with the report, you can retry the option or cancel the analysis completely.</p>
+<p>The Student Analysis report includes a tabular representation of each student's answers and the grade awarded for each answer.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>By default, the submitted time in the Student Analysis report is shown in UTC, not your set time zone.</li>
+<li>The Item Analysis report only displays statistics for Multiple Choice and True/False questions.</li>
+<li>If you have permission to read SIS data in the course, the sis_id column is included in the CSV download.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_question_breakdown" data-step-uuid="00f00823-4f2a-4f13-9f84-6fc1662b1ce9">
+    <h2 id="view_question_breakdown" class="step-title screensteps-heading">View Question Breakdown</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/136/138/original/9122249b-eeb4-42c2-ab9b-ece6b887243a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/136/138/medium/9122249b-eeb4-42c2-ab9b-ece6b887243a.png" srcset="" alt="View Question Breakdown" height="498" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_10633720-221E-0135-83CB-22000BC102FE" class="text-block-content">
+    <p>Quiz question shows the total percentage of students who answered the quiz question correctly [1]. </p>
+<p>Each question includes a breakdown with each question answer choice. Correct answer response(s) are shown in a green bar with a check mark [2]; incorrect responses are shown in a black bar [3]. Question types that do not have set answer choices, such as Fill-in-the-Blank questions, display entries other than the correct answer in a black striped bar [4]. The horizontal bars are scaled according to the answer response percentage [5]. </p>
+<p>Each response also displays the number of respondents who selected the answer [6]. To view the names of the students who selected an answer choice, click the <strong>[x</strong> <strong>respondents] </strong>link. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_manually_graded_questions" data-step-uuid="6d75f862-109f-4458-8d68-7388411b08a5">
+    <h3 id="view_manually_graded_questions" class="step-title screensteps-heading">View Manually Graded Questions</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/893/original/b4bc2eb5-3591-4016-afd6-7b65bf0474c3.png" srcset="" alt="View Manually Graded Questions" height="468" width="577">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_10636890-221E-0135-83CD-22000BC102FE" class="text-block-content">
+    <p>Quiz statistics also show relative grade performance for manually graded essay and file upload quiz question types. Manually graded question types are shown in the same table format as other quiz types. </p>
+<p>A manually graded quiz type is marked as correct if it contains a student score greater than or equal to the question points possible. </p>
+<p>Grade breakdown responses are shown as the top 27% [1], middle 46% [2], and bottom 27% [3]. The statistics also show submissions that have not yet been graded [4]. However, if all scores are identical, a response category may show more than the percentage number of students (e.g., all students score 100%). </p>
+<p>Manually graded questions also include access to SpeedGrader for quick reference [5]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_discrimination_index" data-step-uuid="e18035f7-d6a3-464b-bc7a-9710516e7398">
+    <h2 id="view_discrimination_index" class="step-title screensteps-heading">View Discrimination Index</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/136/136/original/81ef4ee2-5f5b-496a-9f5c-3a01d788ba8f.png" srcset="" alt="View Discrimination Index" height="287" width="816">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_106396A0-221E-0135-83CF-22000BC102FE" class="text-block-content">
+    <p>True/False and Multiple Choice quiz questions include an item discrimination index, which provides a measure of how well a single question can tell the difference between students who do well on an exam and those who do not. </p>
+<p>It divides students into three groups based on their score on the whole quiz: the top 27%, the middle 46%, and the bottom 27%. The number of correct answers from the bottom group is subtracted from the number of correct answers in the top group, then the total is divided by the size of the group.</p>
+<p>Lower discrimination scores are scored +0.24 or lower; good scores are +0.25 or higher. An ideal discrimination index shows students who scored higher on the quiz getting the quiz question right, students who scored lower on the quiz getting the quiz question wrong, and students in the middle range on either side. A discrimination index of zero shows all students getting the quiz question right or wrong.</p>
+<p>Ideally, students who did well on the exam should get the question right. If students do well on the overall exam but not on the question, the question itself may need to be revised.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

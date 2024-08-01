@@ -1,0 +1,13 @@
+How do I view all aligned items and artifacts within an outcome as an instructor
+Open Outcomes
+In Course Navigation, click the Outcomes link.
+Open Outcome
+Click the outcome you want to view. To view all aligned items, click the name of the outcome.
+View Aligned Items
+View the assessments and activities aligned to the Outcome. Aligned Items are identified with an icon displaying the item type: rubric or assignment. This change helps identify the item for easier management within outcomes and clarify items that have similar titles. 
+Aligned items also show whether the item can be removed from the outcome. 
+Alignments displaying a rubric type display a blue remove icon. Clicking the rubric name will open the rubric, where you can edit the rubric or delete the rubric.
+Alignments displaying an assignment type display a gray lock icon. Gray icons mean that the aligned item cannot be removed because it is associated with a rubric. To remove the aligned item, you would have to open the rubric and remove the row that is associated with the outcome. 
+View Outcome Artifacts
+Under Outcome Artifacts, you can view the progress of individual students on each artifact (the aligned assessment or activity). You can view the student response details by clicking the name of the assignment. The Check Mark icon signifies the student has received a high enough score to satisfy the outcome threshold value. If you want to view all outcome results for a specific student, click the all outcome results for this student link.
+Note: Outcome results are tied to level of outcome access. Account outcomes display on the account report, while the sub-account outcomes display on the sub-account report. The only time outcomes would be displayed on both reports is if they are stored in both accounts, such as copying an account outcome to the sub-account level. Outcomes created at the course-level display on the course-level and will not appear on account or sub-account level outcome reports.

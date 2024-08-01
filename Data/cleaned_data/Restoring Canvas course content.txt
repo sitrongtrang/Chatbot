@@ -1,0 +1,27 @@
+Restoring Canvas course content
+Confirm Content was not Deleted
+If all the content is missing in the course, being directly deleted is unlikely. However, you will want to confirm with the instructor that the course content was not deleted by them, any co-instructors, or TAs.
+Check Course Activity in Admin Tools
+In Global Navigation, click the Admin link, and then the main account for the school.
+In Account Navigation, click the Admin Tools link. Then click the Logging tab.
+In the Logging tab, use the Course Activity search to locate the logs for the instructor’s current course.
+Once you have located the course activity, confirm if the course was reset.
+If the course was not reset, you will want to confirm if the course was recently created.
+Restore Reset Course
+If the course was reset, click the View Details link to get more information.
+In the details dialog, click the course listed in the Reset From field. This will correctly take you to a page error, as the course is deleted.
+Then in the browser address bar, copy or note the Canvas course ID. This is the number after /courses in the URL, e.g. https://canvas.instructure.com/courses/#COURSEID.
+Once you have the course ID, you can restore the original course using Restore Course Tab in the Admin Tools.
+After you’ve restored the original course, you will need to re-add the enrollments. To do this, you will cross-list the section(s) with the enrollments back to the original course.
+Then, confirm all course content and grades have been restored.
+Use the Beta/Test Environment to Locate Course
+If the course was not reset, most likely the course had a change in SIS ID that created a new course and moved any sections and enrollments into that new course.
+In this case, if you do not know the original SIS ID, we will need to locate the original course.
+The first option is to go to the user’s account in the beta or test environments. In the test environment, you will locate the course, and confirm if there is course content or grades.
+From there, you can get the original course ID from the address bar, and cross-list the sections back into that ..., which should restore the course content and grades.
+Be aware of beta and test reset schedules, so there is a chance that the original course will not be available.
+Use the Instructor’s Page Views
+If the beta or test environments do not have the original course and course content, you have the option of using the instructor’s page views to attempt to locate the course.
+Navigate to the instructor’s account user page, then locate the page views at the bottom.
+Scroll through the page views and search courses the instructor has accessed recently. You will need to manually check each course to confirm if it is the course that has the missing content. You want to locate the course that has the same, or similar, name. Then, check for course content, and if the enrollments are missing.
+Once you locate the original course, you can get the original course ID from the address bar, and cross-list the sections back into that ....

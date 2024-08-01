@@ -1,0 +1,102 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6a4ea120-5d0d-4f5f-bf8f-371c7fa2dc06" class="text-block-content">
+    <p>Canvas accounts can be configured as a part of a consortium, a trust, or both.  </p>
+<p>A Canvas consortium includes a parent (or root) account with associated child (or subaccount) accounts. A parent account has access to <a href="https://community.canvaslms.com/t5/Admin-Guide/How-do-I-view-and-manage-a-sub-account/ta-p/260" target="_blank">view and manage child account content</a> and <a href="https://community.canvaslms.com/t5/Admin-Guide/How-do-I-use-account-settings/ta-p/152" target="_blank">child account settings.</a></p>
+<p>A trust relationship allows one Canvas account to trust another Canvas account and allows users to be enrolled in both accounts. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas-consortium-and-trust-accounts" data-step-uuid="fa4e0c5c-5358-4222-8c0e-833cec84738c">
+    <h2 id="canvas-consortium-and-trust-accounts" class="step-title screensteps-heading">Canvas Consortium and Trust Accounts</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e3966ca0-75cb-48a0-b588-c1f7d80d2f47" class="text-block-content">
+    <p>When a consortium is created, a one-way trust is put in place. The child instances trust the users of the parent instance, so any users in the parent instance are able to be enrolled in courses in the child instances. When configuring a new consortium, two optional settings can be enabled. These are <em>disabled </em>by default:</p>
+<ul>
+<li>Automatically create a web of trust when creating new account</li>
+<li>Automatically have the parent instance trust new child instances </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="different-types-of-canvas-consortia" data-step-uuid="a41e5104-dbe7-462e-87b0-d7488f6137a8">
+    <h2 id="different-types-of-canvas-consortia" class="step-title screensteps-heading">Canvas Consortiums Types</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_28482c51-5c04-430f-bad5-2ab8dcbece6a" class="text-block-content">
+    <ul>
+<li>
+<strong>Single Account Consortium: </strong>A parent account can view and manage child accounts. Single instance consortium examples:<ul>
+<li>A large school district that oversees a group of schools, but does not manage data (separate authentication domains, possible even separate SIS databases).</li>
+<li>A content provider which allows customers to opt-in to use their Canvas account. They provide the learning environment, but each customer is a separate organization.</li>
+</ul>
+</li>
+<li>
+<strong>Basic Consortium</strong>: The child accounts have a default trust relationship with the parent account (one-way trust). The parent does not trust the child accounts. The child accounts can set up trust relationships with one another, but it is not required. This type of consortium is common among statewide or countywide organizations.</li>
+<li>
+<strong>Mixed Consortium</strong>: There is a web of trusts between multiple child accounts, the child accounts also trust the parent account. This type of consortium is common among statewide or countywide organizations.</li>
+<li>
+<strong>Auto-Merge Consortium</strong>: This could be a basic or mixed consortium with an added setting that will auto-merge similar users. This setting utilizes the integration_id identifier value in Canvas. This type of consortium is more common among institutions that have separate instances because of their size.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="trusts" data-step-uuid="ab9d5205-abdf-4d28-80f3-d30b824ae6dd">
+    <h2 id="trusts" class="step-title screensteps-heading">Trust Account Relationships</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47c9e3cf-d5e0-4632-a23f-a99348136538" class="text-block-content">
+    <p>A trust account relationship allows one Canvas account to trust another Canvas account and allows users to be enrolled in both places. Instead of creating two separate accounts and merging them together, a trust relationship allows separate Canvas accounts to share user identities, so a user can log in to one account and access courses from both accounts.</p>
+<p><strong>Note: </strong>Trust account settings are established during implementation. Trust account relationships can be established between multiple accounts.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="trust-behaviors" data-step-uuid="5563f762-0bbe-4c08-aeea-14e0b185f833">
+    <h2 id="trust-behaviors" class="step-title screensteps-heading">Trust Behaviors </h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_27388266-7e3f-49c3-a646-813abc549264" class="text-block-content">
+    <ul>
+<li>Trusts do not show information in the user interface indicating an account is in a trust relationship with another school or that the course a user is enrolled in is at another school.</li>
+<li>Trusts do not provide data on which users are in a trust enrollment at another school.</li>
+<li>The Canvas interface does not show provided trust data. The trust relationship is simply an invisible link that exists between two or more sites.</li>
+<li>User lists from one school cannot be browsed from another school. Admins from both schools need to work out a business process to send enrollments from one school to the other.</li>
+<li>Trust accounts do not provide any automation for trust enrollments. Users are enrolled via CSV uploads or via the API.</li>
+<li>Users enrolled in courses at other schools are only able to see the name of the course they are enrolled in. They cannot view any information in the interface that shows the course is located at another school.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="trust-account-definitions" data-step-uuid="046341d9-f6c9-41cf-99cc-cfa7a7ad1575">
+    <h2 id="trust-account-definitions" class="step-title screensteps-heading">Trust Account Definitions </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/298/890/original/4a890a2a-4179-40bb-acd4-fce511854e96.png" srcset="" alt="Trust account definitions " height="617" width="779">
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

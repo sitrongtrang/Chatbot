@@ -1,0 +1,34 @@
+How do I configure third-party authentication providers for a Canvas account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Authentication
+In Account Navigation, click the Authentication link. 
+Choose Provider
+In the Authentication drop-down menu, select an authentication service.
+Note: If your account is part of an established trust account, you can select Trusted Canvas instance from the Identity Provider drop-down menu. Learn more about configuring trusted Canvas instance authentication.
+Save Provider Data
+Enter the data required by the service. Some providers require custom components for configuration. 
+To enable Just in Time Provisioning, click the Just in Time Provisioning checkbox.
+Set Federated Attributes
+To use a federated attribute, select a Canvas provider attribute in the drop-down menu. This is the attribute that you want to use in Canvas. Available attributes include admin roles, display name, email, given name, integration ID, locale, name, sis user ID, sortable name, surname, and time zone. 
+Click the Add Attribute button.
+In the Provider Attribute drop-down menu, choose the attribute value that will match the selected Canvas attribute. Available values include email, family name, given name, locale, name, and sub (subject identifier—a user ID commonly used with Open ID Connect, Google, and Microsoft specifications). 
+Note that not all values will exactly match the Canvas attribute. For instance, if you set email as an attribute in Canvas, the provider attribute value options also include email, meaning that the email address from the provider will also be updated for the email address in Canvas. However, some Canvas attributes may not align with the available provider attribute values.
+Require Multi-Factor Authentication
+Canvas enforces MFA is functionally equivalent to the legacy UIs checkbox for MFA Required being enabled; any accounts that previously had the legacy MFA Required checkbox enabled have this option selected.
+To have Canvas enforce the MFA, select the Canvas enforces MFA option. To have SMS carriers send one-time passcodes, click the Send one-time passcodes via SMS (US carriers only) checkbox.
+To have the provider enforce the MFA, select Provider enforces MFA option.
+To have the user opt in, select User can opt in to MFA option.
+Note: Your institutions Customer Success Manager can set MFA to the following: Disabled, Optional, Required for Admins, and Required.
+Save Data
+Click the Save button.
+Manage Provider
+To change the position of your authentication providers, click the position menu and choose the placement number for the new position. Positions affect the Discovery URL when an account has configured SSO Settings.
+To delete the provider, click the Delete button.
+Manage SAML Authentication
+If you are using SAML authentication, you can manual refresh SAML metadata by clicking the Refresh Metadata button.
+Remove Authentication
+To remove all previously configured authentication providers, click the Remove Authentication button. 
+Note: The remove button does not affect SSO Settings or Canvas authentication.
+Confirm Removal
+Removing all authentication methods may affect your students' ability to log in to Canvas. To confirm, click the OK button.

@@ -1,0 +1,183 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E7185580-222D-0135-5E98-22000BC102FE" class="text-block-content">
+    <p>If you accidentally published a quiz with an existing true/false question that needs to be corrected, you can use quiz regrade to edit the question and update student grades. Learn more about <a href="/t5/Instructor-Guide/What-options-can-I-use-to-regrade-a-quiz-in-a-course/ta-p/1093" target="_blank">quiz regrade options</a>. </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Quiz regrade only applies to students who have already taken the quiz. </li>
+<li>Adding or removing a question as well as changing the point value for the multiple choice question does not trigger the quiz regrade feature. </li>
+<li>Adding or deleting answers from a true/false question with submissions disables the option to regrade that question.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="14c1d7a8-e878-4617-9056-099eb18b5040">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/805/original/c5a86c15-3315-417d-9121-1825e5f044d3.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E7188870-222D-0135-5E9A-22000BC102FE" class="text-block-content">
+    <p>To regrade a quiz, in Course Navigation, click the <strong>Quizzes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_quiz" data-step-uuid="eb36663d-4b49-4a08-b9e7-7b61774ed568">
+    <h2 id="edit_quiz" class="step-title screensteps-heading">Edit Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/253/356/original/86e44cfe-2cae-43b7-bceb-a6499bc3e6bf.png" srcset="" alt="Edit Quiz" height="331" width="777">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E718B6E0-222D-0135-5E9C-22000BC102FE" class="text-block-content">
+    <p>Find the quiz you want to regrade and click the <strong>Options</strong> icon [1], then click the <strong>Edit</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_questions_tab" data-step-uuid="0a1677a6-206c-4094-af0b-dbc613450ae3">
+    <h2 id="open_questions_tab" class="step-title screensteps-heading">Open Questions Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/887/original/0d8dd86f-30a5-4364-8286-0e52d794400b.png" srcset="" alt="Open Questions Tab" height="124" width="662">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E718E720-222D-0135-5E9E-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Questions </strong>tab.</p>
+<p>You can regrade:</p>
+<ul>
+<li>Multiple Choice Questions</li>
+<li>True/False Questions</li>
+<li>Multiple Answers Questions</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_true_false_question" data-step-uuid="3f549b86-5d30-4d85-9844-0a7247db5e24">
+    <h2 id="edit_true_false_question" class="step-title screensteps-heading">Edit True/False Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/305/original/8c575f71-c3d4-4359-ac6c-058d462e0307.png" srcset="" alt="Edit True/False Question" height="154" width="761">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E71915D0-222D-0135-5EA0-22000BC102FE" class="text-block-content">
+    <p>Locate the true/false question in the quiz. Hover over the question until the edit icon appears. Click the <strong>Edit </strong>icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_new_correct_answer" data-step-uuid="f071aab1-2d5c-4683-b9ae-c340e249937d">
+    <h2 id="select_new_correct_answer" class="step-title screensteps-heading">Select New Correct Answer</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/052/120/original/6b7dc47a-3d8c-4cb7-8d23-6e2891271957.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/052/120/medium/6b7dc47a-3d8c-4cb7-8d23-6e2891271957.png" srcset="" alt="Select New Correct Answer" height="642" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E71945D0-222D-0135-5EA2-22000BC102FE" class="text-block-content">
+    <p>Hover over the answer you want to select as the new correct answer until a green ghost arrow appears. Click the green arrow to select the new answer as the correct answer.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_regrade_option" data-step-uuid="1a4a2f43-bc61-4ea4-a58a-bd866705e43f">
+    <h2 id="select_regrade_option" class="step-title screensteps-heading">Select Regrade Option</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/283/676/original/6f3c04eb-9770-4301-8df0-e5f8b6f84ee6.png" srcset="" alt="Select Regrade Option" height="379" width="605">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E7197710-222D-0135-5EA4-22000BC102FE" class="text-block-content">
+    <p>Canvas recognizes you have changed the correct answer for this question. In the regrade options dialog box, select a regrade option by clicking the radio button next to the option you want to apply to this quiz question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="8a8f94ab-9295-41ec-8fb0-52eff84b16a2">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/293/original/9118d517-15b5-4904-9cec-a1c81af023b0.png" srcset="" alt="Update Question" height="55" width="218">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E719B050-222D-0135-5EA6-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_quiz" data-step-uuid="0dd4d378-06f5-4d84-b7f6-2f4040560f08">
+    <h2 id="save_quiz" class="step-title screensteps-heading">Save Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/297/original/aeeef7d1-9ee3-4f66-b988-f1536b43c5a1.png" srcset="" alt="Save Quiz" height="68" width="779">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E719DFE0-222D-0135-5EA8-22000BC102FE" class="text-block-content">
+    <p>When you've finished editing your quiz, click the <strong>Save </strong>button. </p>
+<p><strong>Note: </strong>Regrade options will not apply until you have re-saved the quiz. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="save_it_now" data-step-uuid="22657375-6a8d-4229-913c-0f5ca64cfcbf">
+    <h3 id="save_it_now" class="step-title screensteps-heading">Save It Now</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/880/original/192d8e25-36b2-480a-86a8-91aec883ec9f.png" srcset="" alt="Save It Now" height="154" width="767">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E71A0E30-222D-0135-5EAA-22000BC102FE" class="text-block-content">
+    <p>If you exit the quiz without saving, Canvas asks you to save your changes when you return to the quiz. To update your changes, click the <strong>Save It Now</strong> button. </p>
+<p>For help viewing or reverting grade changes in the Gradebook, visit the <a href="/t5/Instructor-Guide/How-do-I-view-the-history-of-all-grading-changes-in-the/ta-p/783" target="_blank">grading history lesson</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view" data-step-uuid="7b8a2569-8f3b-4ac3-9696-a8a333fdac97">
+    <h2 id="student_view" class="step-title screensteps-heading">Student View</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/283/678/original/529bf8af-84b6-478a-a9b9-cc13e1b633c3.png" srcset="" alt="Student View" height="546" width="725">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E71A7BF0-222D-0135-5EAC-22000BC102FE" class="text-block-content">
+    <p>When students view their quiz results, they see a notification if their quiz has been affected. The attempt history also reflects the regraded score. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

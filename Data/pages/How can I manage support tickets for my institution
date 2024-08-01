@@ -1,0 +1,64 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_91740980-1D7B-0135-2DC9-22000BC102FE" class="text-block-content">
+    <p>You can choose from three possible destinations for where the tickets your users create through the <a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/How-do-I-contact-Canvas-Support/ta-p/389767" target="_blank">Canvas Help Menu </a>will go, which helps you streamline your internal support team's workflow.</p>
+<p>You can choose to route your users' tickets to:</p>
+<ul>
+<li>Our ticketing system (Salesforce Service Cloud)</li>
+<li>Your own instance of Zendesk or Service Cloud using a custom API connector</li>
+<li>Almost any other ticketing system by email or web post</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="send_tickets_to_our_ticketing_system" data-step-uuid="6074def9-6ab2-4467-b581-f260bf804231">
+    <h2 id="send_tickets_to_our_ticketing_system" class="step-title screensteps-heading">Send Tickets to Our Ticketing System</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91745220-1D7B-0135-2DCA-22000BC102FE" class="text-block-content">
+    <p><strong>Sending tickets to the Canvas Support system (Service Cloud) is the default destination.</strong></p>
+<p>If working in the same ticket system as Canvas Support works for you, then you're welcome to use this option. <a href="/t5/Admin-Guide/How-do-I-log-in-to-the-Field-Cloud-Admin-Console/ta-p/237" target="_blank">Learn how to log in to Service Cloud</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="the_zendesk_and_service_cloud_connectors" data-step-uuid="00e31061-c5bb-498f-97a7-4f5608017ad5">
+    <h2 id="the_zendesk_and_service_cloud_connectors" class="step-title screensteps-heading">The Zendesk and Service Cloud Connectors</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91746990-1D7B-0135-2DCB-22000BC102FE" class="text-block-content">
+    <p>You can use your own instance of Zendesk or Service Cloud with custom built API-based connectors for Canvas. This option allows use of the metadata from Canvas with every ticket. You can also take advantage of the analytic features.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="the_email_and_web_post_connectors" data-step-uuid="27ea1d9b-266b-4534-b6ee-16180783fc0c">
+    <h2 id="the_email_and_web_post_connectors" class="step-title screensteps-heading">The Email and Web Post Connectors</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91747F80-1D7B-0135-2DCC-22000BC102FE" class="text-block-content">
+    <p>You can convert email or web post connectors to tickets to your own ticketing system, even if you are not using Zendesk or Service Cloud.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

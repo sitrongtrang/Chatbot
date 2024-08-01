@@ -1,0 +1,85 @@
+How do I use the Gradebook as an instructor
+Open Grades
+In Course Navigation, click the Grades link.
+View Gradebook
+The Gradebook includes global sorting options and settings you can use to organize your gradebook, student data and assignment data. 
+The Gradebook supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press the Shift+Question Mark keys simultaneously. 
+Change Gradebook View
+You can switch between gradebook view options, if they are available. To select a different gradebook view, click the current gradebook view. Then, in the Change Gradebook view menu, select one of the following options:
+Traditional Gradebook: Displays all students, assignments, and grades. This gradebook is the most common default and is also known as just Gradebook.
+Learning Mastery Gradebook: Displays the Learning Mastery Gradebook, which assesses outcome standards being used in Canvas courses. This gradebook is a course-level feature option.
+Individual Gradebook: Allows you to assess one student and one assignment at a time and is fully accessible for screen readers. Individual View currently does not support settings and options from the Gradebook. 
+Gradebook History: Displays the Gradebook History page, which logs recent grade changes in the course according to student, grader, assignment, and date.
+You can switch between gradebooks at any time.
+Search Students
+By default, the Gradebook shows all active students. To search for students by name or SIS ID, enter your search query in the Search Students field. The Gradebook automatically filters results as you type.
+The Search Students field allows multiple student names to be filtered at the same time. 
+The Search Students field also respects Concluded and Inactive Enrollment options. If the Concluded Enrollment or Inactive Enrollment options are selected as filters, no Concluded or Inactive enrollments display in the Gradebook.
+Note: Student name search results displays secondary information if more than one student has the same name in the course. 
+Search Assignments
+By default, the Gradebook shows all assignments. To search for assignments, enter an assignment name in the Search Assignments field. The Gradebook automatically filters results as you type.
+The Search Assignments field allows multiple assignment names to be filtered at the same time. 
+Selecting an assignment displays the assignment in a column closest to the student name. If multiple assignments are selected, the assignment columns display in the reverse order they are selected.
+View Gradebook Settings
+The Gradebook Settings allow you to apply Late Policies, a Grade Posting Policy, a Final Grade Override, and View Options in your course gradebook.
+View Late Policies
+The Late Policies tab allows you to apply late policies in your course.
+The Missing Submission policy allows you to automatically apply a grade for submissions labeled as Missing. A submission is labeled Missing when the due date has passed and the assignment has not been submitted.
+The Late Submission policy allows you to automatically apply a defined penalty to submissions with a status of Late. A submission is labeled Late when it is submitted past the due date. Additionally, you can define a threshold under which a student will not be scored, regardless of how late the submission is when submitted. 
+View Grade Posting Policy
+The Grade Posting Policy tab allows you to change grade posting policies for your course.
+To automatically post grades and make them visible to students as soon as they are entered, select the Automatically Post Grades option. The posting policy is set to Automatically Post Grades by default.
+To hide grades by default and manually choose when to post grades and make them visible to students, select the Manually Post Grades option.
+Note: Grades for anonymous or moderated assignments must be manually posted. Moderated assignments grades cannot be unhidden until final grades have been posted.
+View Advanced Settings
+The Advanced tab allows you to apply a Final Grade Override in your course. If enabled, you can enter an override grade for a student that is different from the grade automatically calculated by Canvas.
+View Gradebook View Options
+The View Options tab allows you to filter and sort the Gradebook according to several viewing options:
+Arrange By: arrange columns by default, assignment name, due date, points, or module.
+Show: show or hide the notes column, the unpublished assignments column, the split student names column, hide assignment group totals, and hide total and override columns.
+View Ungraded as Zero: temporarily change the Gradebook view so that grades display as if all ungraded assignments were given a score of zero. This setting is a visual change only and does not affect grades for students or other users of the Gradebook.
+Status Color: view and change the color for a grading status (late, missing, resubmitted, dropped, and excused).
+Notes: 
+If the View Ungraded as 0 and Split Student Names options do not display in your Gradebook, these options have not been enabled by your institution.
+When the Final Grade Override feature option is enabled for the course, the text in the Show section displays Hide Total Column and Override Columns. If the Final Grade Override feature option is disabled, the text in the Show section displays Hide Total Column. 
+To restrict students from viewing total scores, learn about hiding totals in student grade summaries. 
+View Gradebook Filters
+In the Apply Filters menu, you can create and manage filter presets or filter columns by type (assignment group, section, modules, student groups, and grading period, if applicable).
+View Import and Export Options
+To bulk manage student grades in the Gradebook, you can also import grades and export grades.
+View Student Name Column
+The Student Name column displays each student's name and may also include a student's secondary ID, if enabled. You can hover over the column header and view the Student Name menu, which allows the following options: 
+Sort and display student data
+Show inactive and concluded enrollments 
+To view a student's Grades page, click the student's name.
+View Test Student
+If you have viewed a course as a test student, the Test Student displays at the end of the Gradebook and is automatically added to every section in your course. Test Student data does not factor into course analytics. 
+If you want to remove the test student completely, you must remove the test student from your section enrollments in Course Settings.
+View Assignment Column
+Each column in the Gradebook represents a published assignment in the Assignments page. Each column displays the assignment title, total points, and each student's grade. 
+To view the assignment, click the name of the assignment.
+To manage an assignment, hover over the column header and click the Options icon. Then perform any of the following:
+Sort assignments by grade or status (missing or late)
+Open SpeedGrader
+Message students who fit within specific assignment criteria
+Curve grades 
+Set default grade
+Hide or post grades for the assignment
+Enter grades as a specific value: points, percentage, or grading scheme (this option is only for grading convenience and does not affect the actual grade; not available for complete/incomplete assignment types)
+Download submissions and re-upload submissions (supported in file uploads only)
+Select a grade posting policy for an assignment
+Icons and colors represent assignments and submission statuses within Canvas, including differentiated assignments, grading periods, and Mastery Paths.
+Add Columns
+Assignment columns are automatically added every time you create and publish assignments, graded discussions, and graded quizzes and surveys. A column is also automatically added for the Attendance tool. 
+You can manually add a column as part of importing grades to the Gradebook. However, assignments imported in the CSV file are automatically published.
+If you need to create a column in the Gradebook to use for manual grading, you can create a No Submission or On Paper assignment.
+Enter Grades
+When you are entering grades, the Gradebook displays crosshairs and highlighting across the row and column for improved orientation.
+To enter grades, type the grade as supported by assignment type directly in the Gradebook cell.
+You can also enter grades and change the submission status by clicking the Grade Detail Tray icon.
+View Grade Detail Tray
+The Grade Detail Tray allows you to enter or edit grades, change the status of a submission, and leave comments for the student.
+View Assignment Groups and Total Column
+The assignment groups shown in the Gradebook match the assignment groups created in the Assignments page. 
+If your assignment groups are weighted, the weighted grade displays below the group title. Assignment group weights are reflected in the total grade. The assignment grade earned by the students is multiplied by the assignment group weight.
+Grade totals from assignment groups are calculated in the Total column of the Gradebook. You can hover over the column header to view the Total column menu, which allows you to sort by grade and move the total column to the front of the Gradebook. Additionally, if your assignment groups are not weighted, you can view the totals as a point value instead of a percentage.

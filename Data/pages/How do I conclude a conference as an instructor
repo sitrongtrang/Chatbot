@@ -1,0 +1,92 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F5873E80-1EE3-0135-FC5F-22000AB760A3" class="text-block-content">
+    <p>Depending on how you created your conference, your conference may conclude by itself, or you may have to conclude it manually. </p>
+<p><strong>Note: </strong>A conference can be concluded directly from the logout menu in the conferences interface. However, the Conferences page does not currently update the status and still show as In Progress. If a new user joins the conference, a new meeting with the same name are created. To prevent new users from joining the conference, always return to the Conferences page and click the conference End button.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_time_limit_conferences" data-step-uuid="3d407b42-3e38-4a2b-9483-98fd27e8e48f">
+    <h2 id="view_time_limit_conferences" class="step-title screensteps-heading">View Time-Limit Conferences</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/699/033/original/65abd96a-6716-4a71-9429-29374547e785.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/699/033/medium/65abd96a-6716-4a71-9429-29374547e785.png" srcset="" alt="View Time-Limit Conferences" height="525" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F5877040-1EE3-0135-FC61-22000AB760A3" class="text-block-content">
+    <p>Conferences created with a time limit remain active for the duration of the conference. </p>
+<p>Once the conference duration has expired, the conference are automatically conclude once the last member of the conference has left the room. You can also manually conclude (end) the conference at any point during the allotted time. </p>
+<p>When a conference concludes, all files and chats are removed from the conference room. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_long_running_conferences" data-step-uuid="41cce1a5-fbeb-46b4-b64d-0f4344b477e3">
+    <h2 id="view_long_running_conferences" class="step-title screensteps-heading">View Long-Running Conferences</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/699/035/original/6caed4f8-e7af-45a9-b950-ccd5a97ad419.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/699/035/medium/6caed4f8-e7af-45a9-b950-ccd5a97ad419.png" srcset="" alt="View Long-Running Conferences" height="525" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F5879E10-1EE3-0135-FC63-22000AB760A3" class="text-block-content">
+    <p>Conferences created without a time limit remain active as long as you (or another conference organizer) keeps the conference running. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="end_conference_manually" data-step-uuid="0640c5eb-877f-474f-a783-e4643eac0c94">
+    <h2 id="end_conference_manually" class="step-title screensteps-heading">End Conference Manually</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/168/365/original/21ed9e29-a037-4700-bb0e-cd196a2ca645.png" srcset="" alt="End Conference Manually" height="128" width="808">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F587CD60-1EE3-0135-FC65-22000AB760A3" class="text-block-content">
+    <p>To end a conference, return to the Conferences page. Next to the name of the conference, click the <strong>End</strong> button. </p>
+<p>When a conference concludes, all files and chats are removed from the conference room. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_concluded_conference" data-step-uuid="c8804168-d3fc-45e3-a331-69876317c109">
+    <h2 id="view_concluded_conference" class="step-title screensteps-heading">View Concluded Conference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/168/363/original/533cc252-3199-4b31-9c9e-663aabc69c1f.png" srcset="" alt="View Concluded Conference" height="173" width="809">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F587FB70-1EE3-0135-FC67-22000AB760A3" class="text-block-content">
+    <p>Once the conference has concluded, the conference appears in the Concluded Conferences section on the Conferences page. Updating the status of the conference may take a few minutes. </p>
+<p><strong>Note: </strong>If the conference has not changed status after a significant amount of time, the time limit has passed, and there are no members left in the conference room, <a href="/t5/Instructor-Guide/How-do-I-edit-a-conference/ta-p/1078" target="_blank">edit the conference</a> and update the settings to manually refresh the Conferences page.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

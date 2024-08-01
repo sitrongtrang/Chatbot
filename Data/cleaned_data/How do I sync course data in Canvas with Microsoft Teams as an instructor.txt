@@ -1,0 +1,12 @@
+How do I sync course data in Canvas with Microsoft Teams as an instructor
+Open Settings
+In Course Navigation, click the Settings link.
+Open Integrations
+Click the Integrations tab.
+Enable Integration
+To enable to Microsoft Sync integration, click the State button.
+Sync Course Data
+Once the integration is enabled, a sync to Microsoft Teams will be triggered automatically by any changes to course enrollments. The first time you enabled Microsoft Sync, you may want to trigger a manual sync to ensure all course data is synced with Microsoft Teams.
+To view Microsoft Sync details, click the Expand icon. To sync course data with Microsoft Teams, click the Sync Now button.
+You can also view the sync status, date of last sync, and any sync errors.
+Note: When enrollments changes are made in a course that has enabled Microsoft Sync, it may take up to 10 minutes for those changes to sync to Microsoft Teams.

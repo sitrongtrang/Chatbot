@@ -1,0 +1,169 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E85759E0-CC1D-0137-00C5-0E63FF21C970" class="text-block-content">
+    <p>If your course has enabled Google Apps, you can create a document, slide presentation, or spreadsheet using Google Drive and then embed that document anywhere you can use the Rich Content Editor in Canvas. Several features in Canvas support the Rich Content Editor, including Announcements, Assignments, Discussions, Pages, Quizzes, and Syllabus. When embedded, Google slide presentations default to presentation mode.</p>
+<p>In Google, you can embed files. Any time you edit the Google file, the edits also display in Canvas.</p>
+<p><strong>Note: </strong>If you cannot view the Google Drive option in the Rich Content Editor LTI Tools menu, you can still include your file by <a href="/t5/Instructor-Guide/How-do-I-create-hyperlinks-to-external-URLs-in-the-Rich-Content/ta-p/872" target="_blank">creating a hyperlink</a> or publishing your Google content to the web and pasting the embed code in the <a href="/t5/Instructor-Guide/How-do-I-use-the-HTML-view-in-the-Rich-Content-Editor-as-an/ta-p/876" target="_blank">HTML editor</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_rich_content_editor" data-step-uuid="fdae2d24-b6f5-448f-a676-8c3e3df1468e">
+    <h2 id="open_rich_content_editor" class="step-title screensteps-heading">Open Rich Content Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/393/875/original/14bf7f93-dbdf-4cbb-b509-d6ba8c76ed62.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/393/875/medium/14bf7f93-dbdf-4cbb-b509-d6ba8c76ed62.png" srcset="" alt="Open RCE" height="340" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_05deca52-b4cd-477f-af7b-e945c89c01b0" class="text-block-content">
+    <p>Open the Rich Content Editor when using one of the Canvas features which support the Editor.</p>
+<p><strong>Note:</strong> The Rich Content Editor supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press <strong>ALT+F8</strong> (PC keyboard) or <strong>Option+F8</strong> (Mac keyboard).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-apps" data-step-uuid="3f5f4117-16f1-4738-9e7e-d92f0d8a7344">
+    <h2 id="open-apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/853/091/original/c1e1aa39-caf6-4e04-897a-e2ce2f68bd0f.png" srcset="" alt="Open Apps" height="162" width="800">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0514a88b-a40e-4f86-bd9c-748f9530b180" class="text-block-content">
+    <p>You can view a list of external tools from the menubar. Click the <strong>Tools </strong>link [1]. Navigate to the <strong>Apps</strong> option [2], then select the <strong>View All </strong>option [3].</p>
+<p>Alternatively, you can view your apps from the toolbar. In the toolbar, click the <strong>App</strong> icon [4].</p>
+<p><strong>Note: </strong>To view the App icon, you may have to click the <strong>Options</strong> icon [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-recently-used-apps" data-step-uuid="66e7fc74-629a-45d5-88b5-de9e2fc32529">
+    <h3 id="view-recently-used-apps" class="step-title screensteps-heading">View Recently Used Apps</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/931/854/original/8517a908-885c-407b-b742-7b501347510a.png" srcset="" alt="View Recently Used Apps" height="144" width="359">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_07dbb693-3a1a-4828-a5ad-5262686b538e" class="text-block-content">
+    <p>If you have previously used an external app from the Rich Content Editor, you can quickly open recently used apps.</p>
+<p>To view recently used apps, click the <strong>App</strong> icon [1]. Then select the app you want to open [2].</p>
+<p>To view all apps, click the <strong>View All</strong> link [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_google_drive" data-step-uuid="E857A930-CC1D-0137-00C9-0E63FF21C970">
+    <h2 id="open_google_drive" class="step-title screensteps-heading">Open Google</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/931/856/original/ce761ed4-08a7-4236-89d4-7578c41727ad.png" srcset="" alt="Open Google" height="420" width="674">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E857D040-CC1D-0137-00CB-0E63FF21C970" class="text-block-content">
+    <p>If the Google LTI tool does not display in your recently used applications, you will need to select it from the list of all applications.</p>
+<p>Click the<strong> Google Drive (LTI 1.3) </strong>link [1]. </p>
+<p>You can also filter menu options using the <strong>Search</strong> field [2]. </p>
+<p><strong>Note:</strong> If the Google link does not display, the LTI may not be enabled in your course. You can still include your file by <a href="/t5/Instructor-Guide/How-do-I-create-hyperlinks-to-external-URLs-in-the-Rich-Content/ta-p/872" target="_blank">creating a hyperlink</a> or publishing your Google content to the web and pasting the embed code in the <a href="/t5/Instructor-Guide/How-do-I-use-the-HTML-view-in-the-Rich-Content-Editor-as-an/ta-p/876" target="_blank">HTML editor</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="locate_file" data-step-uuid="E857E460-CC1D-0137-00CC-0E63FF21C970">
+    <h2 id="locate_file" class="step-title screensteps-heading">Select File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/946/635/original/accaa7eb-d6c8-4759-8b99-40614b2a9d27.png" srcset="" alt="Select File" height="614" width="693">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d1723dab-dfc6-43f3-b785-2227854ec521" class="text-block-content">
+    <p>Click the <strong>Select</strong> <strong>file</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/931/860/original/5ebf38c2-72bb-4305-8ba6-94040b531fdc.png" srcset="" alt="Add File" height="597" width="749">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E8580C00-CC1D-0137-00CE-0E63FF21C970" class="text-block-content">
+    <p>Locate and select the file you want to embed [2]. Click the <strong>Add </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="embed_or_link_file" data-step-uuid="E8581F20-CC1D-0137-00CF-0E63FF21C970">
+    <h2 id="embed_or_link_file" class="step-title screensteps-heading">Attach File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/931/862/original/a356f306-739b-4f57-bfc2-bb57e00058c1.png" srcset="" alt="Attach File" height="161" width="390">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E8584560-CC1D-0137-00D1-0E63FF21C970" class="text-block-content">
+    <p>To embed the file, click the <strong>Attach </strong>button. The Rich Content Editor will display a placeholder image for the file.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-embedded-file" data-step-uuid="14e60b86-9701-4872-b4ae-e8b34ec423f5">
+    <h3 id="view-embedded-file" class="step-title screensteps-heading">View Embedded File</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/931/866/original/bbf7b81c-912b-4af0-b445-cf53942c7963.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/931/866/medium/bbf7b81c-912b-4af0-b445-cf53942c7963.png" srcset="" alt="View Embedded File" height="424" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8ad1a8a7-bf2d-450d-8fd6-5795a6af26a6" class="text-block-content">
+    <p>View the embedded Google file in the Rich Content Editor.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_changes" data-step-uuid="E8585770-CC1D-0137-00D2-0E63FF21C970">
+    <h2 id="save_changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/931/869/original/12752b95-5222-4585-9985-b4851362e4c0.png" srcset="" alt="Save Changes" height="65" width="311">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E85881F0-CC1D-0137-00D4-0E63FF21C970" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The assignment, discussion, pages, and quizzes details pages display a <strong>Save &amp; Publish</strong> button.</li>
+<li>The Syllabus page displays an <strong>Update Syllabus</strong> button.</li>
+<li>Discussion replies display a <strong>Post Reply</strong> button.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,95 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_d560e89c-35f2-46f7-873c-06f337a91c88" class="text-block-content">
+    <p>In Canvas, the Admin role is the administrator role. Users assigned the Admin role oversee and manage an institution's Canvas account or a Canvas sub-account within an institution. Admin permissions allow users to manage terms, create courses, view and moderate enrollments and content for all courses within an account, and view course and account data data. Additionally, Admins can direct communication within an account and its courses. Account-level permissions vary for sub-accounts and from institution to institution. For more information about account-level permissions, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Account-Role-Permissions/ta-p/387078" target="_blank">Canvas Account Permissions resource document</a>.</p>
+<p>Only Admins may manage account-level permissions. Other Canvas user roles exist, each with varying levels of Canvas access. <a href="/t5/Canvas-Basics-Guide/What-is-the-Teacher-role/ta-p/86" target="_blank">Teachers</a> oversee <a href="/t5/Canvas-Basics-Guide/What-is-the-Teacher-Assistant-role/ta-p/84" target="_blank">Teacher Assistants</a>, and together they create course content with which <a href="/t5/Canvas-Basics-Guide/What-is-the-Student-role/ta-p/71" target="_blank">Students</a> and <a href="/t5/Canvas-Basics-Guide/What-is-the-Observer-role/ta-p/4" target="_blank">Observers</a> engage. For more information about course-level user permissions, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Course-Role-Permissions/ta-p/387080" target="_blank">Canvas Course Permissions resource document</a>.</p>
+<p>Currently Canvas does not support a specific mobile app for the Admin role. However, an administrator may log in to any of the Canvas mobile apps and act as any user in the account. Admins with teacher or student roles can also view courses through the appropriate mobile app.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="administrator-role-use" data-step-uuid="c714ee97-60c7-4bb4-8fdf-bae9c5abdaa0">
+    <h2 id="administrator-role-use" class="step-title screensteps-heading">Admin Role Use</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8c29bb11-77f5-4a9b-a1c9-19296fc46094" class="text-block-content">
+    <p>The main uses of the Admin role are to allow a user to create and moderate terms, upload and manage SIS data, manage account- and course-level features, and manage course-level user roles and permissions. Depending upon the institution, Admins may also access and manage Canvas courses with permissions similar to those of the Teacher role.</p>
+<p>Administrators may be added to an account or to a subaccount with specific account-level permissions configured to best fit their roles. For example, an academic advisor may be added to a Canvas subaccount with access to view SIS, account, and course data and with restricted access to courses and course content. </p>
+<p>In general, Admin permissions and account configurations reflect an institution’s structure. Administrative user roles and permissions may be configured to meet the needs of an institution’s administrative needs. A user can only be added as an Admin to an account by another administrator. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="administrator-access-in-canvas" data-step-uuid="9c6a150e-b500-4eed-9d7b-944ccd662971">
+    <h2 id="administrator-access-in-canvas" class="step-title screensteps-heading">Admin Access in Canvas</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_73164534-7ac1-4dd9-9b7a-4fbc942d916a" class="text-block-content">
+    <p>An institution may modify admin permissions based on user roles. To learn more about Admin participation in Canvas, view the Canvas Administrator Guide. </p>
+<p><strong>Admins can:</strong></p>
+<ul>
+<li>Act as users</li>
+<li>Add and remove other other administrators for the account</li>
+<li>Add and remove course designers, observers, students, teachers, and teacher assistants to courses</li>
+<li>Add, edit, and delete events on the course calendar</li>
+<li>Create and manage course templates</li>
+<li>Create student collaborations and web conferences</li>
+<li>Generate observer pairing codes for students</li>
+<li>Import, manage, and read SIS data</li>
+<li>Manage account-level settings and features, developer keys, external applications (LTIs) permissions, storage quotas, and webhooks</li>
+<li>Manage courses (including Blueprint courses), course sections, global announcements, and student groups</li>
+<li>Manage learning outcomes and rubrics and view and link to question banks</li>
+<li>Modify login details for users</li>
+<li>Send messages to individual course members and to all members in a course</li>
+<li>View account- and course-level statistics, account and course analytics pages, and usage reports for courses</li>
+<li>View and comment on student submissions and moderate and post to discussions</li>
+<li>View and manage alerts, assignments, notifications, quizzes, and all other course content</li>
+<li>View course and grade change logs</li>
+<li>View the list of courses, change course states, and undelete courses</li>
+<li>View the answer matrix in Quiz Submission Logs</li>
+<li>View the list of users in a course and view the group pages of all student groups</li>
+<li>View, moderate, and edit grades</li>
+</ul>
+<p><strong>The following permissions never apply to subaccounts:</strong></p>
+<ul>
+<li>Act as users</li>
+<li>Manage Blueprint courses</li>
+<li>Manage developer keys and SIS data</li>
+<li>Access View Notification tab in Admin Tools</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="administrator-role-limitations" data-step-uuid="9dc7bbea-f207-4946-88bd-779ce9908dd6">
+    <h2 id="administrator-role-limitations" class="step-title screensteps-heading">Admin Role Limitations</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_df117e80-66cf-4b81-9080-eb5c55f1a131" class="text-block-content">
+    <ul>
+<li>Some account-level permissions are locked by default and cannot be changed by anyone. Other permissions may be locked by administrators within an institution.</li>
+<li>Administrators who are given any course level role such as student or teacher in a course may still be able to view admin features and options. To avoid permission conflicts, admins should create a separate account.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

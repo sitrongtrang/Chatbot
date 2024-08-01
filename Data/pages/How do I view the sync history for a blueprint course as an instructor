@@ -1,0 +1,136 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_73072b44-66a1-472d-8d7a-51f72a53f69e" class="text-block-content">
+    <p>If you are enrolled in a blueprint course as an instructor, you can sync blueprint content changes to associated courses. Once a sync has been made in a blueprint course to associated courses, the sync is recorded in the Sync History page. You can view Sync History to view prior syncs and details about the sync.</p>
+<p>The Sync History page records the last five syncs to the blueprint course.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_e2e059dc-0174-4458-9597-400b2d448b1f" class="text-block-content">
+    <p><strong>Notes:</strong></p>
+<ul>
+<li>Associated courses display the <a href="/t5/Instructor-Guide/How-do-I-view-the-blueprint-sync-information-for-a-course/ta-p/1218" target="_blank">latest blueprint sync information</a> in Course Settings.</li>
+<li>If sync history shows no sync details, the blueprint course was being synced to an associated course by an admin. The sync history for association syncs show the date and time the sync was made but no additional details are included.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course" data-step-uuid="aed6235d-0824-41d0-9cad-8ded6bb3f4f8">
+    <h2 id="open_course" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/743/original/3541bd4b-1a81-42d7-94ca-f7d76ab6f3a8.png" srcset="" alt="Open Course" height="541" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7b1ce1af-34b4-4539-82b2-f6304b0850b9" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_sync_history" data-step-uuid="d4759651-bbff-4c70-b71b-4fc81f6a72cb">
+    <h2 id="open_sync_history" class="step-title screensteps-heading">Open Sync History</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/259/838/original/5c621aee-fbef-4f05-9937-95b91aefe013.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/259/838/medium/5c621aee-fbef-4f05-9937-95b91aefe013.png" srcset="" alt="Open Home Page Blueprint Sidebar" height="252" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cdc7f494-35db-47df-9fe8-d57b1d615717" class="text-block-content">
+    <p>In the Course Home Page, click the Blueprint sidebar tab [1], then click the <strong>Sync History</strong> link [2].</p>
+<p><strong>Note:</strong> You can access the Blueprint sidebar from any Course Navigation page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sync_history" data-step-uuid="eaef1cbd-b83e-4985-a40d-516b845c2e63">
+    <h2 id="view_sync_history" class="step-title screensteps-heading">View Sync History</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/868/272/original/9317633f-4eb6-443e-909c-7d4bd9208d92.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/868/272/medium/9317633f-4eb6-443e-909c-7d4bd9208d92.png" srcset="" alt="View Sync History" height="480" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bd584255-9696-4ec0-98c6-50307fd8893e" class="text-block-content">
+    <p>The Sync History page shows information about the last five syncs to the blueprint course. The page displays the date and time of the sync [1], the number of changes [2], and the name of the user who synced the changes [3]. </p>
+<p>If a message was included as part of the notification, the message is displayed above the list of synced changes [4].</p>
+<p>For a course association made by an admin, sync history will show the date and time the sync was made but no details will be included related to the sync.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_sync_details" data-step-uuid="e00baaaa-4f6b-4507-a2ca-b8dbc68f4032">
+    <h3 id="view_sync_details" class="step-title screensteps-heading">View Sync Details</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/868/270/original/44f2b312-4680-4069-b27c-eaced6652dd5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/868/270/medium/44f2b312-4680-4069-b27c-eaced6652dd5.png" srcset="" alt="View Sync Details" height="316" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a6e6ed1b-e28b-4387-86ec-745889dfe2dd" class="text-block-content">
+    <p>The Sync History page shows the specific content that has been synced. Each content object shows the synced status of the object (locked or unlocked) [1], the name of the content item [2], the content object type [3], the content change [4], and whether or not the sync was applied [5]. </p>
+<p>Content changes can be created, updated, or deleted. <em>Updated</em> changes indicate any change to existing content.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-sync-exceptions" data-step-uuid="d9a56bc8-3e1d-4328-993f-c2316d05c9f4">
+    <h3 id="view-sync-exceptions" class="step-title screensteps-heading">View Sync Exceptions</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/312/112/original/702b7691-a31a-450c-a3ba-2a007a0f2085.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/312/112/medium/702b7691-a31a-450c-a3ba-2a007a0f2085.png" srcset="" alt="View Sync Exceptions" height="172" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5722bfbd-be81-4b2d-b562-5b4052a90b7b" class="text-block-content">
+    <p>The Sync History page may show items with a sync exception. Exceptions occur when content is not synced because the content was modified in an associated course before the blueprint course was synced.</p>
+<p>An exception is noted by the Exception indicator [1], which includes the number of exceptions.</p>
+<p>To view which course(s) had an exception, click the arrow icon next to the name of the content item [2]. The expanded details show the term and the name of the course.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="close-sync-history" data-step-uuid="148a5591-1467-43c7-8eae-9a43c19f4bd0">
+    <h3 id="close-sync-history" class="step-title screensteps-heading">Close Sync History</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/845/original/5772ca90-ef3d-4f65-9473-213e1a88675b.png" srcset="" alt="Close Sync History" height="65" width="91">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e0a8d927-74bc-46fd-bdef-5c65f434865d" class="text-block-content">
+    <p>When you are finished viewing the Sync History page, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

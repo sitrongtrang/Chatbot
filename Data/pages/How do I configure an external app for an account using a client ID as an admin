@@ -1,0 +1,181 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_22e16d14-355e-4170-a206-d1ab2f7dce46" class="text-block-content">
+    <p>External apps that support LTI 1.3 and LTI Advantage require configuration using a client ID. The client ID can be found by <a href="/t5/Admin-Guide/How-do-I-configure-an-LTI-key-for-an-account/ta-p/140" target="_blank">configuring an LTI key</a> from the Developer Keys page.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Manually configuring an external app is an account permission. If you cannot configure an external app, this permission has not been enabled for your user role.</li>
+<li>Disabling or deleting the LTI key removes the application installs.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="d49e8942-6ba5-4966-b345-2a6cffa5b186">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9c808c41-a5a9-44f4-b6c6-a8402c55c196" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="8473b9f8-9e66-423a-a47b-cb5c89d0223f">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/748/624/original/2eaffa29-a595-456d-a6c6-7bbd61b737e6.png" srcset="" alt="Open Settings" height="232" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e0045cbc-0db8-4942-a782-4fb012942e93" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_apps" data-step-uuid="56964ff6-6966-497c-b77c-498fc15844ab">
+    <h2 id="open_apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/556/024/original/a381d07f-3eda-472a-8d3c-1f5a219199ba.png" srcset="" alt="Open Apps" height="79" width="843">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6952fcaa-d7c8-4590-a365-cdcdc4d2bc22" class="text-block-content">
+    <p>Click the <strong>Apps </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_app_configurations" data-step-uuid="8dc948c9-d323-42a4-be37-bd15eeed1692">
+    <h2 id="view_app_configurations" class="step-title screensteps-heading">View App Configurations </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/556/033/original/0d53e00e-4285-4176-8bc8-8d56a0d2deb3.png" srcset="" alt="View App Configurations " height="244" width="852">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_788a5439-fd36-4af1-894b-59db4a68845c" class="text-block-content">
+    <p>To configure an app, click the <strong>View App Configurations</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_new_app" data-step-uuid="e78660f4-c1bd-44bc-98d0-ee4563be96e9">
+    <h2 id="add_new_app" class="step-title screensteps-heading">Add New App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/556/031/original/10b08cc7-6a78-4027-8d28-bcc7be9a38a2.png" srcset="" alt="Add New App" height="179" width="838">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ebb6795-106c-411d-b7d5-eab547d1b1c8" class="text-block-content">
+    <p>Click the <strong>Add App </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_configuration_type" data-step-uuid="b55abae3-649a-464c-ad3c-5f618a0747f2">
+    <h2 id="set_configuration_type" class="step-title screensteps-heading">Set Configuration Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/556/022/original/d583714c-1454-453a-81f0-75cb0614bac6.png" srcset="" alt="Set Configuration Type" height="169" width="768">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9a8fbfd3-06ac-40f3-b5e8-0b6675ccbc5b" class="text-block-content">
+    <p>Select the Configuration Type drop-down menu and set the configuration type to <strong>By Client ID</strong>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-client-id" data-step-uuid="75d4fc8c-64a0-41c4-8746-9ced74821f5b">
+    <h2 id="enter-client-id" class="step-title screensteps-heading">Enter Client ID</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/556/020/original/cd3d67eb-abaa-400b-94a7-a0ae0a794ff7.png" srcset="" alt="Enter Client ID" height="332" width="780">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_83dfb7cd-833e-480e-99ca-4bfe18bc2892" class="text-block-content">
+    <p>Enter the client ID in the <strong>Client ID</strong> field [1].</p>
+<p>Then click the <strong>Submit</strong> button [2].</p>
+<p><strong>Note: </strong>If you do not have a client ID, you must first <a href="/t5/Admin-Guide/How-do-I-configure-an-LTI-key-for-an-account/ta-p/140" target="_blank">configure an LTI key</a>.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-error-message" data-step-uuid="4805b275-2299-4656-96ce-84dc310bf6c7">
+    <h3 id="view-error-message" class="step-title screensteps-heading">View Error Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/556/035/original/6d506d0c-0696-427d-b196-5d99956e3df3.png" srcset="" alt="View Error Message" height="86" width="501">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_06615328-de26-44ab-8ce7-d7506628dc08" class="text-block-content">
+    <p>If the submitted client ID is not found in your account's developer keys, Canvas will display an error message.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="install-app" data-step-uuid="17e13083-66f9-462b-85ea-10559f6f740f">
+    <h2 id="install-app" class="step-title screensteps-heading">Install App</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/556/016/original/e41719cf-8e89-41d6-8053-d206730336d1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/556/016/medium/e41719cf-8e89-41d6-8053-d206730336d1.png" srcset="" alt="Install App" height="204" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bed89f9b-2956-494e-8162-cf1e446a6c2b" class="text-block-content">
+    <p>To install the app, click the <strong>Install</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-app" data-step-uuid="505169dd-5093-46bb-86bd-5f01b7595e12">
+    <h2 id="view-app" class="step-title screensteps-heading">View App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/621/992/original/01e33428-cd4f-4dc1-b0d8-3044dd862988.png" srcset="" alt="View App" height="782" width="849">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6a2e65c8-5be4-4d0f-a4f0-a373381da7da" class="text-block-content">
+    <p>View your app on the External Apps page [1].</p>
+<p>To manage your app, click the <strong>Settings</strong> icon [2].</p>
+<p>To edit the app, click the <strong>Edit </strong>link [3]. To <a href="/t5/Admin-Guide/How-do-I-manage-external-app-placements-for-an-account/ta-p/417797" target="_blank">manage app placements</a>, click the <strong>Placements </strong>link [4]. </p>
+<p>If the app supports LTI Advantage, the Settings menu may also display a Deployment ID link. </p>
+<p>To view the Deployment ID for the app, click the <strong>Deployment ID</strong> link [5]. App providers who utilize LTI Advantage may require this Deployment ID for app functionality.</p>
+<p>To delete the app, click the <strong>Delete </strong>link [6].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

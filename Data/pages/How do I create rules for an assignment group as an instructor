@@ -1,0 +1,165 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_EFC99DB0-1ECF-0135-93E9-22000AB760A3" class="text-block-content">
+    <p>Once you have added assignments to your assignment group, you can create rules for the entire assignment group. Assignment group rules determine how Canvas handles any exceptions you want to create for grade calculations. Assignment groups can be weighted or unweighted.</p>
+<p>When using the lowest or highest score rule, an assignment group must include at least one score, plus the number of dropped scores and the number of assignments that should not be dropped. For instance, if you have a rule for dropping three scores and one Never Drop assignment, you would need five student scores in the assignment group to have all three lowest or highest scores dropped. </p>
+<p>Canvas considers how the rule most negatively or positively affects the student's overall score. A rule to drop the lowest score will remove the assignment score(s) from a student's group percentage calculation that will result in the best possible score for that group. A rule to drop the highest score will remove the assignment score(s) from a student's group percentage calculation that will result in the lowest possible score for that group. Dropping both the lowest and the highest score(s) removes any outlying scores and calculates a student’s grade based upon the remaining middle scores. </p>
+<p>Dropping scores is based on the impact to the total points for that assignment group. In some cases, the point value may be considered more important than percentage score when determining which assignment to drop. For example, if a student earns 100% on a 50-point assignment, 65% on a 100-point assignment, and 50% on a 24-point assignment, the student’s total score is 127 out of 174 points, or 73% for the assignment group. If an instructor sets a rule to drop the assignment with the lowest score in the assignment group, Canvas will drop the score that gives the student a better total score for the group. Even though the 50% score is the lowest percentage, the assignment with the 65% score will be dropped, giving the student a score of 62 out of 74 points, or an 84%, for the assignment group. </p>
+<p><strong>Multiple Grading Periods</strong></p>
+<p>If your course includes Multiple Grading Periods, you cannot change assignment group rules once an assignment group has assignments in a closed grading period. </p>
+<p>Additionally, if an assignment group contains assignments that fall into multiple grading periods, grades may have unintended consequences when calculating assignment group rules.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="a745f967-94f6-4ff0-bd5d-7bbb85c79902">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/742/781/original/d8d8c3e1-3c5f-4739-a57f-71cd1d8883b4.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFC9D6A0-1ECF-0135-93EB-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_assignment_group" data-step-uuid="e0edc8a5-d63a-4adf-9897-6bd33683d203">
+    <h2 id="edit_assignment_group" class="step-title screensteps-heading">Edit Assignment Group</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/780/original/786664e9-30bf-41b1-a0a0-8c948b958ec9.png" srcset="" alt="Edit Assignment Group" height="247" width="772">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFCA0480-1ECF-0135-93ED-22000AB760A3" class="text-block-content">
+    <p>Click the Assignment Group <strong>Options</strong> drop-down menu [1]. Click the <strong>Edit</strong> link [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_rules" data-step-uuid="4e5830d2-0933-4c36-ae84-ff47564e1b4d">
+    <h2 id="create_rules" class="step-title screensteps-heading">Create Rules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/946/original/64adf450-1e6c-4f0b-b0bc-83c2b7f586e8.png" srcset="" alt="Create Rules" height="513" width="610">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFCA3880-1ECF-0135-93EF-22000AB760A3" class="text-block-content">
+    <p><span style="color:rgb(38,38,38);">For each Assignment Group, you can create one of three grading rules:</span></p>
+<ul>
+<li>Drop (ignore) the lowest x scores for each student [1].</li>
+<li>Drop (ignore) the highest x scores for each student [2].</li>
+<li>Never drop a specific assignment [3].</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="drop_lowest_score" data-step-uuid="aa9788e3-5115-4ed0-ab3d-f658e9c5469a">
+    <h2 id="drop_lowest_score" class="step-title screensteps-heading">Drop Lowest Score</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/952/original/151ff85e-0536-437c-a2d2-f457720873b7.png" srcset="" alt="Drop Lowest Score" height="513" width="610">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFCA6940-1ECF-0135-93F1-22000AB760A3" class="text-block-content">
+    <p>To drop a certain number of lowest scores, enter the number in the <strong>Lowest Scores </strong>field. You can use the arrows to adjust the number. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="drop_highest_score" data-step-uuid="33149b83-5e28-41da-a05c-2cdd47e90a68">
+    <h2 id="drop_highest_score" class="step-title screensteps-heading">Drop Highest Score</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/944/original/9a587202-d7c3-42c1-b132-4ea20695bac9.png" srcset="" alt="Drop Highest Score" height="513" width="610">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFCA9D80-1ECF-0135-93F3-22000AB760A3" class="text-block-content">
+    <p>To drop a certain number of highest scores, enter the number in the <strong>Highest Scores </strong>field. You can use the arrows to adjust the number. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="never_drop_assignment" data-step-uuid="000e71a2-71dc-466b-8203-5c3037b21eaf">
+    <h2 id="never_drop_assignment" class="step-title screensteps-heading">Never Drop Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/940/original/d63548ed-2b36-4b2b-8f30-f4df426464f4.png" srcset="" alt="Never Drop Assignment" height="513" width="610">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFCACE80-1ECF-0135-93F5-22000AB760A3" class="text-block-content">
+    <p>To tell Canvas to never drop a certain assignment, click the <strong>Add an assignment </strong>link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_assignment" data-step-uuid="329b0514-f628-4fb8-8e86-ef2a03112199">
+    <h3 id="select_assignment" class="step-title screensteps-heading">Select Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/776/original/be990098-9282-4b03-90d2-17c08c2c4c0b.png" srcset="" alt="Select Assignment" height="570" width="563">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFCAFE60-1ECF-0135-93F7-22000AB760A3" class="text-block-content">
+    <p>In the Assignment drop-down menu [1], select the name of the assignment in the Assignment Group that should never be dropped.</p>
+<p>To select another assignment, click the <strong>Add another assignment </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_rules" data-step-uuid="02febf08-4367-44a1-b0dd-c6aedd3b7874">
+    <h2 id="save_rules" class="step-title screensteps-heading">Save Rules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/778/original/36af739e-30ca-47a8-9281-063d8ab2b3f4.png" srcset="" alt="Save Rules" height="608" width="565">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFCB3220-1ECF-0135-93F9-22000AB760A3" class="text-block-content">
+    <p>When you are finished adding rules, click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_group_rules" data-step-uuid="22d28047-17b0-48f0-a4c5-7b6dd82df0eb">
+    <h2 id="view_assignment_group_rules" class="step-title screensteps-heading">View Assignment Group Rules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/782/original/27e84a04-a180-475f-9645-2166e9154da0.png" srcset="" alt="View Assignment Group Rules" height="158" width="297">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EFCB6530-1ECF-0135-93FB-22000AB760A3" class="text-block-content">
+    <p><span style="color:rgb(38,38,38);">In the Assignment Group toolbar, Canvas will show the number of rules assigned to the group [1]. Hover over the link to view the rules [2].</span></p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

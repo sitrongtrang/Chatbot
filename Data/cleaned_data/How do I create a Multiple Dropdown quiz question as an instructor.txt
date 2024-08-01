@@ -1,0 +1,32 @@
+How do I create a Multiple Dropdown quiz question as an instructor
+Add Question
+With the Questions tab selected inside a new quiz, click the New Question button.
+Set Name, Type, and Points
+Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).
+Click the drop-down menu and select the Multiple Dropdowns question type.
+Enter number of points the question is worth (quiz totals are calculated based on combined total of questions).
+Note: Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.
+Enter Question Details
+Type your question into the Rich Content Editor. You can also use the Rich Content Editor to include video, images, math equations, or flash activities. 
+Create Reference Words
+Now replace the words you want students to enter in the question with reference words. Reference words should be surrounded by brackets and cannot contain spaces, periods, or other non-alphanumeric characters. Once you place a word in brackets, the word will populate in the Show Possible Answers for drop-down menu.
+For example, red has been replaced with [color1], and blue has been replaced with [color2]. 
+Enter Answer Responses for First Reference Word
+For each item in the drop-down menu, enter one correct answer and all of the other distractors. Type the correct answer and the distractors in the Possible Answer fields. Click the Add Another Answer link to add additional distractors. 
+Note: The drop-down menu displays a maximum of 100 characters to students taking a quiz.
+Choose Correct Answer
+Hover your cursor to the left of any answer to reveal a green "ghost" arrow. Click the green arrow to the left of the correct answer. You will know which answer is the correct answer because both the arrow and the answer comment around that answer will turn green. In this example, the first answer is the correct answer.
+Enter Answer Responses for Additional Reference Words
+Select the second item in the drop-down menu and create the associated answers. Repeat this process for as many reference words as are in your question.
+Enter Feedback Text
+You can choose to give students feedback in the answer comments fields. To leave feedback for a specific answer, click the comment field beneath the answer.
+You can also create general answer comments for the quiz question as a whole. Students who select the correct answer will see the feedback in the green comment field. Students who select any incorrect answer will see the feedback in the red comment field. All students will see the feedback in the blue comment field.
+Note: Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.
+Each text box can be expanded in size by clicking and dragging the handle at the bottom-right of the text box.
+Update Question
+Click the Update Question button.
+Add additional individual questions as needed. 
+Student View for Multiple Dropdowns Question
+This is what students see when they encounter a Multiple Dropdowns question in a quiz.
+Student View for Multiple Dropdowns Feedback
+If you allow students to see the correct answers, correct responses are marked with a green flag. Incorrect responses will be marked with a red flag and any correct answers not indicated by the student are marked with a gray flag. Partial credit will be assigned if some of the blanks are completed correctly. 

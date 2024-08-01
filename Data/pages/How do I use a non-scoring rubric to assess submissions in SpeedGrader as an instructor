@@ -1,0 +1,129 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8e9e887b-94e6-426a-af61-967c9853f1ab" class="text-block-content">
+    <p>If you have added a non-scoring rubric to an assignment, you can assess the rubric in SpeedGrader. Non-scoring rubrics contain rating criterions without point values. Unlike regular rubrics, non-scoring rubrics are not used for grading.</p>
+<p>Be sure you have selected the <strong>Remove points from rubric</strong> option when <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058" target="_blank">adding a rubric to an assignment</a>. <em>Be sure this checkbox is selected before you begin grading submissions</em>.</p>
+<p><strong>Note</strong>: If your rubric does not contain any predetermined rubric criteria, you should grade the rubric using <a href="/t5/Instructor-Guide/How-do-I-use-free-form-comments-instead-of-ratings-in-a-rubric/ta-p/1011" target="_blank">free-form comments</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-speedgrader" data-step-uuid="989f2c75-7d45-4ea8-831e-2b2abd8fc49e">
+    <h2 id="open-speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/735/625/original/618aad0e-f6db-4075-9746-26d2c38b8af8.png" srcset="" alt="Open SpeedGrader" height="54" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b196ab14-2a5d-4214-951e-7409e70f1f1e" class="text-block-content">
+    <p>Open SpeedGrader from any assignment, graded discussion, or quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-student-submission" data-step-uuid="fd874bee-6d92-4d7d-a8e6-109addcbcf66">
+    <h2 id="open-student-submission" class="step-title screensteps-heading">Open Student Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/735/629/original/56c82edb-302c-4466-aee8-e600f7950d2a.png" srcset="" alt="Open Student Submission" height="327" width="367">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b6037842-feea-4000-bd16-f916ec981072" class="text-block-content">
+    <p>Use the <a href="/t5/Instructor-Guide/How-do-I-use-the-student-list-to-view-student-submissions-in/ta-p/770" target="_blank">student list</a> to locate a student submission.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-rubric" data-step-uuid="426237d7-db11-4247-955d-e75ebd41c703">
+    <h2 id="view-rubric" class="step-title screensteps-heading">View Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/735/633/original/de9cfebb-f8d5-4d65-a2c5-d33b8087f3df.png" srcset="" alt="View Rubric" height="188" width="163">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d0d61f45-f558-4c57-ad77-823cb46a1b31" class="text-block-content">
+    <p>Click the <strong>View Rubric</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="resize-rubric" data-step-uuid="6a38f509-2a32-4d83-900c-67b5370424e1">
+    <h3 id="resize-rubric" class="step-title screensteps-heading">Resize Rubric</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/098/685/original/adbada38-0a98-4202-a1f3-da35fb58f86c.png" srcset="" alt="Resize Rubric" height="451" width="781">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1ff8a019-6571-4fb2-a3f2-a6f61a13d749" class="text-block-content">
+    <p>To view the entire rubric window, you may need to scroll both vertically and horizontally. To resize the rubric window, click and drag the sizing column horizontally.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="complete-rubric" data-step-uuid="6063d594-13a2-490c-9409-db3b3ffa4b4e">
+    <h2 id="complete-rubric" class="step-title screensteps-heading">Complete Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/433/660/original/5a1ea6a7-f51d-483c-bd38-14b3281f0584.png" srcset="" alt="Complete Rubric" height="408" width="748">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cd3ffc08-2559-44d1-b1c0-4b024aa57208" class="text-block-content">
+    <p>For each criterion, click the rating that applies to the student's submission [1].</p>
+<p>You can also add a comment for each rubric criterion by clicking the <strong>Comment</strong> icon [2].</p>
+<p><strong>Note:</strong> To deselect a rating, click the rating assigned [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-rubric" data-step-uuid="8a53e0fc-2c42-468e-9696-7bf71d9f3c62">
+    <h2 id="save-rubric" class="step-title screensteps-heading">Save Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/735/635/original/928853ab-c33c-4cb4-b45d-3ca84e4f3612.png" srcset="" alt="Save Rubric" height="63" width="176">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bf482c23-fd01-4f6b-8643-fb92813bf4b2" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-rubric-ratings" data-step-uuid="f0042604-60db-4035-accd-d2996409fa6b">
+    <h2 id="view-rubric-ratings" class="step-title screensteps-heading">View Rubric Ratings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/189/319/original/93276173-3287-4a29-a58b-a21257573d8d.png" srcset="" alt="View Rubric Ratings" height="337" width="734">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b84bea9f-1ff7-4012-9928-41080ffddf89" class="text-block-content">
+    <p>View the rubric ratings.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

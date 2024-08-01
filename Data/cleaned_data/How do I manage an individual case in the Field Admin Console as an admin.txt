@@ -1,0 +1,83 @@
+How do I manage an individual case in the Field Admin Console as an admin
+Open Case
+To view all cases, click the Cases tab. 
+To filter cases by Instructure product, status, cases created today, cases assigned to you, recently viewed cases, or triaged cases, click the Filter menu. 
+To search for a case, enter the case number or details in the Search field.
+The click the case number link for the case you want to view.
+View Case
+Each case displays important details at a glance, including case number, owner name, date/time opened, highest escalation level, and contact name. 
+You can also view the TIR status in the TIR Met field. If the TIR was met, the field will display a Green flag icon. If the TIR was missed, the field will display a Red flag icon.
+To follow a case, click the Follow button. To edit case details, click the Edit button. 
+View Case Details
+The Case Details fields allow you to view and edit information about the case, including:
+user to whom the case will be transferred
+case status
+name of the person who submitted the case 
+email address of the person who submitted the case
+case subject 
+case description
+Canvas URL where the case was submitted
+Canvas components
+View Chatter Tab
+To view the case activity feed and comments, click the Chatter tab.
+To add a comment to the case, enter your comment in the Share an update field and click the Share button. Comments entered through the Post option sends an email to the address listed in the Web email field for the case.
+To attach a comment to feed item, click the Comment link for the item. To like a feed item, click the Like link.
+Change Case Status
+To change the case status, click the Change Status tab. Then select the new status from the Status drop-down menu. To save the status, click the Save button.
+Note: When sending a message to Canvas Support, change the case status to Open. Otherwise, the support team may not receive your update. 
+Transfer Case
+To transfer the case, click the Transfer tab. Then click the search field to located the field admin who will receive the case.
+To save, click the Save button.
+View Details Tab
+To view case details, click the Details tab. From the Details tab, you can view and edit information about a case.
+To edit a field in the Case Details tab, click the Edit icon.
+The Case Number field displays the case number. The Subject field displays what the end-user typed in the subject line. The Description field displays what the end-user typed in the case.
+The Case Owner field displays the user currently assigned to the case. To change the case owner, click the Case Owner icon.
+View Canvas Details
+The Canvas Details section displays Canvas-specific information about the case:
+Status: displays the case status. Status can be set to open, new, pending, on hold, solved, or closed as duplicate.
+Become User URL: displays the page where the user submitted the ticket. This URL also allows you to see what the end user sees in Canvas.
+Canvas URL: displays Canvas instance from which case was submitted.
+Contact Name: displays the name of the individual who facilitates communication with the Requester.
+Canvas Component Section: describes whether the case relates to an entire account, a specific course, a Canvas user, an LTI or integration, or a non-Canvas issue.
+Canvas Component Affected: describes the feature in Canvas where the bug or issue comes from.
+Canvas Component Action: describes the action that led to the case creation.
+Canvas Component Issue: describes the purpose behind the case creation.
+Disability/Accessibility Related: designates if the case relates to disability or accessibility concerns.
+To learn more about options available for the Canvas Components fields, view the Canvas Component resource document.
+Add Email Copies
+The Add CC field contains any email address that will receive notifications for case updates.
+View Additional Information
+The Additional Information section displays additional information that relates to the case:
+Case Origin: displays where the case originated, such as email, phone, or online submission.
+Priority: describes the urgency with which the case should be addressed.
+Transfer: allows users to transfer case to another field admin.
+Account Name: displays the name of the account
+Web Email: displays the requester's email address.
+Requester Name: displays the name of the user who created the case.
+User ID: displays the requester's user ID.
+Requester Role: displays the requester's role(s). To add or remove a role, click the role title and click the Arrow keys.
+To disable notifications on the case, click the Disable Notifications checkbox.
+Add Comment
+To add a comment to the case, enter the comment in the Public Comment field.
+The Owner Name field displays the name of the case owner.
+View Web Information
+The HTTP Environment field indicates the end user's operating system, browser version, and IP address. To interpret this string, visit the user agent string website and paste the text in the window for analysis.
+The Stacktrace field contains the engineering error message. This field will be filled out if the ticket was submitted from a Page Error report. This message is usually only decipherable by the engineer who wrote the code but may contain some information that will lead you on the right path toward resolution.
+View Files Tab
+To view files, click the Files tab. 
+Each attached file displays the title, type, date of last modification, and user who attached the file.
+To view a preview of the file, click the file title. To attach a new file, click the Upload Files button.
+View Macro Tab
+To apply a macro to the case, click the Macro tab. You can apply a classic macro object or new object.
+To apply a new macro, click the Select Macro drop-down menu in the Apply Custom Macro Lighting menu. Then click the Next button.
+To apply a classic macro, click the Macro drop-down menu and click the Apply button.
+Note: Old macros were deprecated on June 1, 2021.
+View Escalate Tab
+To escalate the case to Canvas Support, click the Escalate tab and click the Escalate button.
+View SIS Escalation Tab
+To escalate the case to the SIS support team, click the SIS Escalation tab and submit the SIS Case Form. 
+View Recording/Transcript Tab
+To view phone recordings or chat transcripts from the case, click the Recording/Transcript tab.
+To view the full transcript for a chat, click the chat transcript date link.
+To listen to a call recording, click the call recording date link and click the Open Call Recording button.

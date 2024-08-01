@@ -1,0 +1,30 @@
+How do I create an outcome for a course as an instructor
+Open Outcomes
+In Course Navigation, click the Outcomes link.
+Add Outcome
+Click the New Outcome button.
+Create Outcome
+Enter a name for the outcome in the Name this outcome field. This is the official name of the outcome that will also appear in the Learning Mastery Gradebook.
+If you allow students to view Learning Mastery scores on the Grades page, they will see the name of the outcome. However, you may want to create a custom, friendly name. To create a friendly name for student view, enter a name in the Friendly name (optional) field. 
+You can also enter a description in the Rich Content Editor field.
+Add Criterion Ratings
+Click the Edit icon to edit the criterion rating. You can change the existing name (if desired) for the criterion in the Criterion Name field. Set the criterion point value by typing in the Points field. 
+To save the criterion, click the OK button. To remove the criterion completely, click the Delete button.
+To add additional criterion ratings, click the Insert link.
+Note: If you cannot edit criteria for your outcome, your institution has enabled course-wide mastery scales.
+Set Mastery and Calculation Method
+Set the mastery point value in the Mastery at field. This field indicates the number of points that must be achieved for mastery according to the criterion ratings.
+In the Calculation Method drop-down menu, select the calculation method for the outcome. By default, new outcomes are set to the Weighted Average calculation method in the Canvas interface.
+Click the Save button.
+Select Calculation Method
+You can set one of the following calculation methods: Weighted Average, Decaying Average, n Number of Times, Most Recent Score, and Highest Score.
+Weighted Average: Select this option to average assessment item scores with a greater weight for the most recently edited assessment item. The Weighted Average calculation splits the total percentage between the most recently edited assessment item and an average of all prior assessment items. For example, you can set the most recently edited assignment to be weighted at 40% of the total and prior items to be weighted at 60% of the total.
+Enter a percentage between 1% and 99% for the most recent item weight. The remaining amount is used to weigh prior scores. The percentage split is set to 65/35 by default. The average is rounded to the next two decimals. If there is only one result, the single score will be displayed.
+Decaying Average: Select this option to average assessment item scores with a greater weight for the most recently edited assessment item. The Decaying Average calculation splits the total percentage between the most recently edited assessment item and an average of all prior assessment items. For example, you can set the most recently edited assignment to be weighted at 40% of the total and prior items to be weighted at 60% of the total.
+Enter a percentage between 50% and 99% for the most recent item weight. The remaining amount is used to weigh prior scores. The percentage split is set to 65/35 by default. The average is rounded to the next two decimals. If there is only one result, the single score will be displayed.
+n Number of Times: Select this option to set a number of times that a student must meet or exceed mastery on a set amount of aligned items. Any scores that do not meet mastery are not used in the calculation. You can specify between 1 and 10 items required for mastery.
+Most Recent Score: Select this option to always selects the most recent score for all assessment items.
+Highest Score: Select this option to always select the highest score for all assessment items.
+Note: If you cannot edit calculation methods for your outcome, your institution has enabled course-wide outcome calculation methods.
+View Outcome
+View the created outcome.

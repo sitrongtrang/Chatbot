@@ -1,0 +1,214 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_52BF0370-18A5-0135-51B8-22000BC102FE" class="text-block-content">
+    <p>Canvas supports authentication with a variety of third-party identity providers, which can be configured in the Canvas interface. Each provider requires the admin to set an attribute to be associated with the account, such as a user ID, email, or login. Currently supported integrations include Apple, Facebook, Github, LinkedIn, Twitter, Google Apps, Microsoft (Office 365), Clever, CAS, LDAP, OpenID, and SAML. Some providers require custom components for configuration. All providers support <a href="/t5/Admin-Guide/How-do-I-configure-SSO-settings-for-my-authentication-provider/ta-p/217" target="_blank">Single Sign On (SSO) authentication</a>. </p>
+<p>Third-party authentication providers can be used in addition to <a href="/t5/Admin-Guide/How-do-I-configure-self-registration-through-Canvas/ta-p/257" target="_blank">Canvas authentication</a>.</p>
+<p><strong>User Credentials</strong></p>
+<p>Once a provider has been saved in Canvas, the provider’s authentication login credentials must be added to each Canvas user’s account through <a href="https://canvas.instructure.com/doc/api/file.sis_csv.html" target="_blank" rel="nofollow noopener noreferrer">SIS CSV files</a> or the <a href="https://canvas.instructure.com/doc/api/authentication_providers.html" target="_blank" rel="nofollow noopener noreferrer">Authentication Providers API.</a> (Currently there is no support for adding user credentials through the Canvas interface.) Each authentication provider supports specifically recognized parameters; some providers may recognize additional parameters. Unrecognized parameters are not supported.</p>
+<p>For additional help with authentication systems, including Single Sign On (SSO) support, view the <a href="https://community.canvaslms.com/t5/Integration-Documents/tkb-p/Integration" target="_blank">integration documents</a> in the Canvas Community.</p>
+<p><strong>Just In Time Provisioning</strong></p>
+<p>As part of the authentication process, admins can apply Just in Time Provisioning, which tells Canvas to automatically create a user's accounts if one does not already exist. Currently when a user logs in to Canvas using a third-party authentication system, Canvas searches users in the account looking for a matching user parameter for that service. If a matching parameter is not found, Canvas returns the user to the authentication provider portal with a message the user could not be found. When Just in Time Provisioning (JIT) is enabled, Canvas automatically creates the user using an ID that matches the username used with the authentication provider. </p>
+<p>JIT provisioning must be configured via API for the specific authentication provider (see the <a href="https://canvas.instructure.com/doc/api/authentication_providers.html" target="_blank" rel="nofollow noopener noreferrer">Authentication Providers API</a>). It does not need to be configured for individual users via API or SIS. </p>
+<p><strong>Federated Attributes</strong></p>
+<p>As a complement to JIT provisioning, all authentication providers support federated attributes. When users log into Canvas, more information beyond just ID is passed to Canvas, and that information is associated with their existing user accounts. More information can be found in the <a href="https://canvas.beta.instructure.com/doc/api/authentication_providers.html" target="_blank" rel="nofollow noopener noreferrer"><span style="color:rgb(13,109,191);">Authentication Providers API</span></a><span style="color:rgb(70,71,73);">.</span></p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="21d02c57-a73e-4ebb-a476-12943cf5e289">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52BF32C0-18A5-0135-51BA-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_authentication" data-step-uuid="aafa83d9-4753-432d-89eb-6659d9576082">
+    <h2 id="open_authentication" class="step-title screensteps-heading">Open Authentication</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/797/034/original/open-authentication.png" srcset="https://media.screensteps.com/image_assets/assets/005/797/034/original/open-authentication.png 2.0x, https://media.screensteps.com/image_assets/assets/005/797/034/original_lowres/open-authentication.png" alt="Open Authentication" height="274" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52BF5EF0-18A5-0135-51BC-22000BC102FE" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Authentication </strong>link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_provider" data-step-uuid="3de023a8-831d-4313-b36d-586c0d71b982">
+    <h2 id="choose_provider" class="step-title screensteps-heading">Choose Provider</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/496/157/original/6072098b-ffdf-4e4d-b9d4-03e4123f01e9.png" srcset="" alt="Choose Provider" height="362" width="293">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52BF8D30-18A5-0135-51BE-22000BC102FE" class="text-block-content">
+    <p>In the Authentication drop-down menu, select an authentication service.</p>
+<p><strong>Note:</strong> If your account is part of an established trust account, you can select Trusted Canvas instance from the Identity Provider drop-down menu. Learn more about <a href="https://community.canvaslms.com/t5/Canvas-Admin-Blog/Configure-Trusted-Canvas-Instance-Authentication-in-Canvas/ba-p/242622" target="">configuring trusted Canvas instance authentication</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_provider_data" data-step-uuid="c0fc2b90-966d-4f57-ac21-4b4149b0ad0a">
+    <h2 id="save_provider_data" class="step-title screensteps-heading">Save Provider Data</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/123/original/839a0c52-2484-429c-b648-b7c4e8a82d47.png" srcset="" alt="Save Provider Data" height="270" width="721">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52BFBA00-18A5-0135-51C0-22000BC102FE" class="text-block-content">
+    <p>Enter the data required by the service [1]. Some providers require custom components for configuration. </p>
+<p>To enable Just in Time Provisioning, click the <strong>Just in Time Provisioning </strong>checkbox [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set_federated_attributes" data-step-uuid="f7bcf1fc-41d7-49aa-b222-ea5552043d5b">
+    <h3 id="set_federated_attributes" class="step-title screensteps-heading">Set Federated Attributes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/894/943/original/f72b3da1-46e9-406f-a586-68f66aaa4b67.png" srcset="" alt="Set Federated Attributes" height="178" width="732">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52BFE5E0-18A5-0135-51C2-22000BC102FE" class="text-block-content">
+    <p>To use a federated attribute, select a Canvas provider attribute in the drop-down menu [1]. This is the attribute that you want to use in Canvas. Available attributes include admin roles, display name, email, given name, integration ID, locale, name, sis user ID, sortable name, surname, and time zone. </p>
+<p>Click the <strong>Add Attribute</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="a9c51110-db20-4569-9644-8dfa81f5de53">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/109/original/b9944e33-00d9-41af-b6a5-25f6b4390cfb.png" srcset="" alt="Select Provider Attribute" height="121" width="725">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52C00FB0-18A5-0135-51C4-22000BC102FE" class="text-block-content">
+    <p>In the Provider Attribute drop-down menu, choose the attribute value that will match the selected Canvas attribute. Available values include email, family name, given name, locale, name, and sub (subject identifier—a user ID commonly used with Open ID Connect, Google, and Microsoft specifications). </p>
+<p>Note that not all values will exactly match the Canvas attribute. For instance, if you set email as an attribute in Canvas, the provider attribute value options also include email, meaning that the email address from the provider will also be updated for the email address in Canvas. However, some Canvas attributes may not align with the available provider attribute values.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="require-multi-factor-authentication" data-step-uuid="14836a94-f1bb-4e1d-8f80-1013b347da3d">
+    <h2 id="require-multi-factor-authentication" class="step-title screensteps-heading">Require Multi-Factor Authentication</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/103/323/original/97ce45cb-421d-4db4-8a17-bbef1f65114d.png" srcset="" alt="Require Multi-Factor Authentication" height="272" width="603">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_56706f28-6def-4cb6-8d5a-98e875d4f2b0" class="text-block-content">
+    <p>Canvas enforces MFA is functionally equivalent to the legacy UIs checkbox for MFA Required being enabled; any accounts that previously had the legacy MFA Required checkbox enabled have this option selected.</p>
+<p>To have Canvas enforce the MFA, select the<strong> Canvas enforces MFA </strong>option [1]. To have SMS carriers send one-time passcodes, click the <strong>Send one-time passcodes via SMS (US carriers only)</strong> checkbox [2].</p>
+<p>To have the provider enforce the MFA, select <strong>Provider enforces MFA </strong>option [3].</p>
+<p>To have the user opt in, select <strong>User can opt in to MFA </strong>option [4].</p>
+<p><strong>Note: </strong>Your institutions Customer Success Manager can set MFA to the following: Disabled, Optional, Required for Admins, and Required.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_data" data-step-uuid="eb4de1ea-e9b2-4ae0-be30-d81c9bc8a8ca">
+    <h2 id="save_data" class="step-title screensteps-heading">Save Data</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/113/original/3c79a980-077b-4f97-9abe-97e233837b58.png" srcset="" alt="Save Data" height="71" width="98">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52C03DB0-18A5-0135-51C6-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_provider" data-step-uuid="9c31a7cb-ade7-4a1e-81e1-d03102971257">
+    <h2 id="manage_provider" class="step-title screensteps-heading">Manage Provider</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/451/807/original/d3cdeffc-b04b-45c1-ad59-33223cd2e83b.png" srcset="" alt="Manage Provider" height="1004" width="733">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52C06B00-18A5-0135-51C8-22000BC102FE" class="text-block-content">
+    <p>To change the position of your authentication providers, click the position menu [1] and choose the placement number for the new position. Positions affect the Discovery URL when an account has configured SSO Settings.</p>
+<p>To delete the provider, click the <strong>Delete </strong>button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage-saml-authentication" data-step-uuid="e858f443-6a67-4485-8162-8d8d606798f2">
+    <h3 id="manage-saml-authentication" class="step-title screensteps-heading">Manage SAML Authentication</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/069/968/original/8888defd-f28a-42b2-9517-9b57cc7add94.png" srcset="" alt="" height="169" width="783">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ca8e4dc7-7e6e-4952-89bb-f271c7fd32ca" class="text-block-content">
+    <p>If you are using SAML authentication, you can manual refresh SAML metadata by clicking the <strong>Refresh Metadata </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove_all_authentication" data-step-uuid="460327ac-79d5-4aac-abff-358285952813">
+    <h2 id="remove_all_authentication" class="step-title screensteps-heading">Remove Authentication</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/863/759/original/df678870-83f8-4921-9584-95932224f748.png" srcset="" alt="Remove All Authentication" height="185" width="273">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52C09750-18A5-0135-51CA-22000BC102FE" class="text-block-content">
+    <p>To remove all previously configured authentication providers, click the <strong>Remove Authentication </strong>button. </p>
+<p><strong>Note:</strong> The remove button does not affect SSO Settings or Canvas authentication.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm_removal" data-step-uuid="e0b90fdb-a6a6-4dd2-a0c5-92e1bd8b0fbd">
+    <h3 id="confirm_removal" class="step-title screensteps-heading">Confirm Removal</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/107/original/d24d3e12-123b-46f5-a2ec-7e75898ee3c3.png" srcset="" alt="Confirm Removal" height="106" width="497">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52C0C530-18A5-0135-51CC-22000BC102FE" class="text-block-content">
+    <p>Removing all authentication methods may affect your students' ability to log in to Canvas. To confirm, click the <strong>OK</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,51 @@
+How do I view account analytics as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Account Analytics
+In Account Navigation, click the Analytics link. 
+View Term Overview
+Account analytics shows you how many Courses, Teachers, Students, Assignments, Submissions, Discussion Topics, Files Uploaded, and Media Recordings there are for a selected term. By default, the account shows analytics for the Default Term. Terms are ordered alphabetically.
+To view analytics for a different term, click the next or previous buttons in the term menu, or locate the term in the drop-down menu. 
+For each term, Analytics includes the following overview:
+Courses indicates the number of courses that are published in the account. This number does not count unpublished courses or deleted courses.
+Teachers indicates how many unique teachers have had activity within the selected term. If one user is a teacher in 5 courses, the statistic will count as 1 teacher.
+Students indicates the same statistics as teachers but relates to students.
+Assignments indicates the number of assignments submitted to active courses.
+Discussion Topics indicates the number of discussion topics posted to active courses.
+Files Uploaded indicates the number of files uploaded to the account. Deleted files do not count here. 
+Media Recordings indicate the number of media objects uploaded to active courses, such as video, audio, and music files.
+View Analytics Graphs
+By default, analytics are shown in a graph format. There are three types of graphs: Activity by Date, Activity by Category, and Grade Distribution.
+View Activity by Date
+The Activity by Date graph shows all account activity for all users enrolled in a course for the term. The x-axis represents the term dates, while the y-axis represents the number of page views. Dark blue bars represent participation in the account. If a date only includes page views, the bar displays as light blue. 
+The graph changes the bar display according to the length of time. Activity that is less than six months old displays bars as daily activity, at six months bars are displayed as weekly activity, and at approximately a year bars are displayed as monthly activity. The weekly view shows the first and last date for the week; the monthly view shows the month and the year. To view the details of the bar graph, hover over the specific bar you want to view. Browser window size, zoom level, and screen resolution may also change how the bars display.
+The following user actions will generate analytics participation:
+Announcements: posts a new comment to an announcement
+Announcements: posts an announcement (instructor)
+Assignments: updates an assignment's settings or description (instructor)
+Assignments: submits an assignment (student)
+Calendar: updates a calendar event's settings or description (both instructor courses and student calendar events)
+Collaborations: loads a collaboration to view/edit a document
+Conferences: joins a web conference
+Discussions: posts a new comment to a discussion
+Files: uploads or views files or folders
+Grades: views or updates the gradebook or grades page, uploads files to the gradebook, creates a grading standard 
+Groups: views content within groups
+Modules: views or creates content in modules 
+Pages: creates a wiki page
+Quizzes: submits a quiz (student)
+Quizzes: starts taking a quiz (student)
+If you need to view page views for a specific user on a more granular level, learn how to view page views for users in your account.
+View Activity by Category
+The View Activity by Category graph shows all activity in the account by feature category. The x-axis represents activity by category, while the y-axis represents the number of page views. The General category refers to the top level page views of the course that are not counted in the more specific categories, which include the Course Home Page, the course roster (People page), Course Settings, and the Syllabus. 
+The Other category refers to all the other page views that were not recognized.
+To view the details of the bar graph, hover over the specific bar you want to view. 
+View Grade Distribution
+The Grade Distribution graph shows the distribution of current course grades for all enrolled students. The x-axis represents the percentage of grades, while the y-axis represents the percentage of active and concluded enrollments. If the course has been concluded, the x-axis represents the running-total grade.
+The graph bars are shown as peaks representing the grades for the majority of students on the continuum. A peak on the left end of the chart could mean students are struggling in a course. A peak on the right end of the chart could mean students are responding to course material and are participating in the courses. 
+To view the details of the bar graph, hover over the specific bar you want to view. 
+View Analytics Tables
+To view analytics without hovering over graph columns, you can view all data in a table format. To switch to the table format, click the Analytics icon. The icon will switch from the left side to the right, indicating the current analytics view. 
+View Table Data
+Tables apply to every graph in its respective page, and each column defines the data within its respective graph. Graphical data is displayed by column. 
+Each table is paginated to 30 entries per page; additional pages can be viewed by advancing to the next page.

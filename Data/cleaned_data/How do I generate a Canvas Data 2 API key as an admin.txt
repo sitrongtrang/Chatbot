@@ -1,0 +1,25 @@
+How do I generate a Canvas Data 2 API key as an admin
+Find Institution
+In your web browser, visit identity.instructure.com. In the Institution drop-down menu, search for your institution by entering its name. Once it appears, click your institution's name.
+Note: If your institution does not appear in the search list, please contact your Customer Success Manager about account domain lookup.
+Log into Identity Services
+Click the Log In to Canvas button.
+Authorize Access
+To authorize Identity Service to access your account, click the Authorize button.
+Add New Key
+To add a new key, click the Add New Key button.
+In the Key Name field, enter a name for the key.
+In the Expiry drop-down menu, select the expiration time (1 day, 1 week, 1 month, 6 months, 1 year).
+In the Key Type section, click the Institutional Use or Instructure Partner radio button. 
+Click the Save button.
+Add New Instructure Partner
+Click the Instructure Partner radio button and click the Add New Partner button. In the Select Partner drop-down menu, select your partner. In the email field, enter their email address. Click the Submit button.
+Copy API Key and Secret
+To reveal your Client ID and Secret, click the Reveal OAuth Credentials button.
+To copy your Client ID and Secret, click the Copy Text button next to the Client ID and Secret fields. 
+To avoid accidental closing before copying the Client ID and Secret, you need to click the Click 3 more times to close button.
+Notes: 
+The Client ID and Secret window can only be opened one time. When you close it, you cannot reopen it.
+If you do not copy the generated Client ID and Secret and close the window, you will need to generate a new Client ID and Secret. 
+View Generated API Key
+View the generated API key name. Once the API key is generated, you can manage the API key.

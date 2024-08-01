@@ -1,0 +1,172 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1E1AA2C0-2206-0135-3E36-22000BC102FE" class="text-block-content">
+    <p>You can assign a student group leader to help manage a group within your course. You can assign group leaders automatically or manually. When students are assigned to be a group leader, they can manage members of the group and edit the group name. However, they cannot change the number of members allowed in the group. </p>
+<p>Students do not receive any notification that they have been added as a group leader, but they can access groups directly from the Groups link in Global Navigation or through the People page in the course. </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If an assigned group leader drops out of the course, you will have to select a new group leader only if the group leader was assigned manually. If you automatically assigned a group leader as part of creating a group set, Canvas will automatically assign another leader to the group.</li>
+<li>Students should be assigned to groups before group assignments are published. Grades and submissions may be affected for students who were not in a group at the time of assignment submission but who were later added to a group or students who were removed from a group.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_people" data-step-uuid="d5f91da1-6dd8-4d0b-be35-5855ae5ebb8a">
+    <h2 id="open_people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/949/059/original/eb1454fa-32a3-49b4-898b-50c9530b663e.png" srcset="" alt="Open People" height="260" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1E1C34E0-2206-0135-3E38-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_in_group_set" data-step-uuid="0c173f09-1eab-4e9d-8498-ba6a0af38901">
+    <h2 id="assign_in_group_set" class="step-title screensteps-heading">Open Group Set</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/381/478/original/753961ed-ae0a-4544-ade1-c6603f5e7bc8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/381/478/medium/753961ed-ae0a-4544-ade1-c6603f5e7bc8.png" srcset="" alt="Assign in Group Set" height="192" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1E1C64A0-2206-0135-3E3A-22000BC102FE" class="text-block-content">
+    <p>You can add a group leader as part of a group set. </p>
+<p>To create a new group set, click the <strong>Add Group Set</strong> button [1].</p>
+<p><strong>Note: </strong>You can also <a href="/t5/Instructor-Guide/How-do-I-edit-a-group-set-in-a-course/ta-p/978" target="_blank">edit existing group sets</a> [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="automatically_assign_leader" data-step-uuid="619d5797-51e5-4a5a-86d7-6afff0e52b24">
+    <h3 id="automatically_assign_leader" class="step-title screensteps-heading">Create Group Set</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/916/537/original/f18b8b84-43f5-4b39-b516-9acc50910281.png" srcset="" alt="Create Group Set" height="532" width="610">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1E1C99C0-2206-0135-3E3C-22000BC102FE" class="text-block-content">
+    <p>You can automatically assign group leaders when creating a new group set when: </p>
+<ul>
+<li>Allowing <a href="/t5/Instructor-Guide/How-do-I-create-self-sign-up-groups-in-a-group-set/ta-p/691" target="_blank">Self Sign-up</a> groups [1]</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-automatically-create-groups-in-a-group-set/ta-p/720" target="_blank">Automatically creating groups</a> for student distribution [2]  </li>
+</ul>
+<p><strong>Note:</strong> If you want to create groups manually, you also have to set a student leader manually.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="automatically-assign-leader" data-step-uuid="d31fcd17-dce0-48fc-ac8b-13d388182485">
+    <h3 id="automatically-assign-leader" class="step-title screensteps-heading">Automatically Assign Leader</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/786/274/original/40584ce0-1f15-4a9e-920c-320c41b71eec.png" srcset="" alt="Automatically Assign Leader" height="118" width="446">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1E1CCCB0-2206-0135-3E3E-22000BC102FE" class="text-block-content">
+    <p>In the Leadership section, click the <strong>Automatically assign a student group leader</strong> checkbox [1]. Then select the radio button for your assignment preference [2]:</p>
+<ul>
+<li>
+<em>Set first student to join as group leader. </em>This option tells Canvas to assign the first student who joins the group as the group leader.</li>
+<li>
+<em>Set a random student as group leader. </em>This option tells Canvas to choose a student randomly.</li>
+</ul>
+<p> </p>
+<p><strong>Note: </strong>If you choose to have Canvas split your students into an equal number of groups automatically, you can select either radio button for the leadership option. If you select the first radio button, the first student who joins each group as part of the automatic group distribution process will be the group leader.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_in_individual_group" data-step-uuid="429188ef-dfb5-45cb-a00e-405ea9c134c7">
+    <h2 id="assign_in_individual_group" class="step-title screensteps-heading">Assign in Individual Group</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/381/480/original/736b1274-880a-4286-89ab-583b0b7a3ce6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/381/480/medium/736b1274-880a-4286-89ab-583b0b7a3ce6.png" srcset="" alt="Assign in Individual Group" height="204" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1E1CFA10-2206-0135-3E40-22000BC102FE" class="text-block-content">
+    <p>To add a leader in an individual group, click the name of a group set.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manually_assign_leader" data-step-uuid="1db2844d-a65a-417c-b781-32bb4d3ec4cf">
+    <h3 id="manually_assign_leader" class="step-title screensteps-heading">Manually Assign Leader</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/381/474/original/0f6fb738-1d8f-4c6f-ba0a-36878f266e8d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/381/474/medium/0f6fb738-1d8f-4c6f-ba0a-36878f266e8d.png" srcset="" alt="Manually Assign Leader" height="434" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1E1DD270-2206-0135-3E42-22000BC102FE" class="text-block-content">
+    <p>Expand the group where you want to add a group leader [1]. Locate the student name and click the user <strong>Options</strong> icon [2]. Select the <strong>Set as Leader</strong> link [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-student-leader" data-step-uuid="4db7f130-c137-4ddb-8717-3c30ef88ead5">
+    <h3 id="view-student-leader" class="step-title screensteps-heading">View Student Leader</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/381/476/original/0b1bd089-e145-4b18-a444-a437a61f6cd6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/381/476/medium/0b1bd089-e145-4b18-a444-a437a61f6cd6.png" srcset="" alt="View Student Leader" height="247" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1E1E0650-2206-0135-3E44-22000BC102FE" class="text-block-content">
+    <p>View the student name next to the name of the group [1], which indicates the student is the leader for that group. </p>
+<p>When viewing the list of group members, you can also quickly identify the group leader as the student name will display a People icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove_student_leader" data-step-uuid="bf150920-c666-4f58-ba97-3ec595456ea9">
+    <h2 id="remove_student_leader" class="step-title screensteps-heading">Remove Student Leader</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/381/472/original/92eaa2f9-630b-45b5-a469-4c2135d57033.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/381/472/medium/92eaa2f9-630b-45b5-a469-4c2135d57033.png" srcset="" alt="Remove Student Leader" height="307" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1E1E38B0-2206-0135-3E46-22000BC102FE" class="text-block-content">
+    <p>You can manually remove a group leader at any time. To remove a student group leader, expand the group to view all students [1]. Locate the student group leader and click the user <strong>Options</strong> menu [2]. Then select the <strong>Remove as Leader</strong> link [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

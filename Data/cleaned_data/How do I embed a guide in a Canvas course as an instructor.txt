@@ -1,0 +1,26 @@
+How do I embed a guide in a Canvas course as an instructor
+Copy Embed Code in Community
+In the community, at the end of the guide, click the Embed this Guide button.
+To copy the embed code, click the Copy Code button.
+Note: You can only embed guides in Canvas courses. Embedding on other sites is not supported.
+Open Pages
+In Course Navigation, click the Pages link.
+View Pages
+Pages is designed to open to the front page for the course, if there is a front page selected. To select a page from the Pages Index, click the View All Pages button.
+Add Page
+Click the Add Page button.
+Enter Page Title
+Enter the name of the new page. You may decide to copy and paste the exact title of the Canvas guide.
+Switch Views
+Click the HTML Editor icon.
+Enter Embed Code
+Paste the previously copied embed code into the Rich Content Editor.
+Example of embed code:
+<div style="overflow: hidden;"><iframe style="width: 100%; height: 800px; margin-top: -260px;" src="CanvasGuideURL"></iframe></div>
+Save and Publish
+If you are ready to publish your page, click the Save & Publish button. If you want to create a draft of your page, click the Save button.
+Note: If you try to navigate away from a page without saving, you will generate a pop-up warning.
+Publish Page
+When your page is saved in a draft state, you can return to the page and publish it at any time by clicking the Publish button. The button changes from gray to green.
+View Embedded Guide
+When you open the page in Canvas, it may take a moment to load the content.

@@ -1,0 +1,120 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9dc6a00f-e917-4a3a-9a99-d9f4d80a52ad" class="text-block-content">
+    <p>A centralized consortium allows child accounts to inherit settings and permissions from the parent account.</p>
+<p><strong>Note:</strong> Decentralized consortiums do not have the same connections as a centralized consortium.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="roles-and-permissions" data-step-uuid="c7278cf5-8ce5-4288-b617-20460768511b">
+    <h2 id="roles-and-permissions" class="step-title screensteps-heading">Roles and Permissions </h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2643d219-2121-49f4-b9a9-5057af53f21b" class="text-block-content">
+    <p>Roles and permissions are inherited from the parent account to the child account in centrally managed consortiums.</p>
+<p>- Permission overrides are available in the child account unless they are locked.</p>
+<p>- Permissions can be locked at the parent account level and the child account can view but not override the permission.</p>
+<p><strong>Note: </strong>Child accounts can override unlocked permissions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="account-settings-inheritance" data-step-uuid="329d49a8-c2a1-4a22-8936-4322ca6245a1">
+    <h2 id="account-settings-inheritance" class="step-title screensteps-heading">Account Settings Inheritance </h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_20d2f05f-56c3-419c-8d7e-0d9323f2cb01" class="text-block-content">
+    <p>The following are how child accounts inherit parent account settings.</p>
+<p>- Child accounts inherit parent account settings.</p>
+<p>- Child accounts inherit certain parent account settings, however, the child account does not have visibility or control to change the settings.</p>
+<p>- Child accounts can view locked settings but cannot change the locked settings.</p>
+<p>- Child accounts can view and modify unlocked settings.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="intergrations" data-step-uuid="9a36de48-087e-43ca-aefd-e648972b7b10">
+    <h3 id="intergrations" class="step-title screensteps-heading">Intergrations </h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_648af9ea-2b60-4dbc-a468-716944cbf340" class="text-block-content">
+    <p>In Child Account Settings, the Integrations tab is not displayed. The Integrations tab is only displayed in the parent account settings and all settings are inherited.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="notifications" data-step-uuid="08303a7f-a4bc-4b2f-8a41-50ad54965997">
+    <h3 id="notifications" class="step-title screensteps-heading">Notifications </h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ae4953ec-833f-4e7e-9382-9ebde77289a3" class="text-block-content">
+    <p>Notifications do not display in child accounts. All notification settings are inherited from the parent account.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="themes-inheritance" data-step-uuid="61fe79d8-600c-49f1-a2eb-2995e2659a44">
+    <h2 id="themes-inheritance" class="step-title screensteps-heading">Themes Inheritance</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_719e37d2-73b0-4019-a3a8-d7389df0d10a" class="text-block-content">
+    <p>The following are how child accounts inherit parent account themes.</p>
+<p>- Child accounts inherit theme settings and configurations.</p>
+<p>- Parent accounts can lock child accounts from editing themes.</p>
+<p>- Child accounts settings are inherited from the parent account but are not visible. </p>
+<p>- Child accounts can use the parent account theme by clicking the Default Theme option.</p>
+<p>- Child accounts can create a new theme based on the parent account theme configuration.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="developer-keys" data-step-uuid="84be4bec-3dd8-4d27-bc03-d4f7fe66a431">
+    <h2 id="developer-keys" class="step-title screensteps-heading">Developer Keys</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_36a46015-a96c-4d8b-84b3-c82b01006c6e" class="text-block-content">
+    <p>Edits to developer keys in parent accounts automatically sync in child accounts for centrally managed Consortium accounts.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="current-limitations-of-centralized-consortiums" data-step-uuid="fbe64f69-164f-49fe-9beb-ebb4104cb93c">
+    <h2 id="current-limitations-of-centralized-consortiums" class="step-title screensteps-heading">Current Limitations of Centralized Consortiums</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_39a57c1b-e2ca-467d-b716-18ee169aef5c" class="text-block-content">
+    <p>The following features are not inherited by child accounts.</p>
+<p>- EduApp tokens</p>
+<p>- Grading periods</p>
+<p>- Grading schemes</p>
+<p>- LTI tool configurations</p>
+<p>- Outcomes</p>
+<p>- Quiz item banks</p>
+<p>- Quiz questions</p>
+<p>- Quotas</p>
+<p>- Rubrics</p>
+<p>- Terms</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,355 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1ccc6a46-9555-45d4-9cce-3d02216df28c" class="text-block-content">
+    <p>Below are some general questions and answers about Canvas, the Admin role, and links to resources to help you become comfortable with Canvas. Visit the <a href="https://community.canvaslms.com/t5/Canvas-Admin/ct-p/canvas_admin" target="_blank">Admin Guides</a> to learn more.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="introduction" data-step-uuid="192cfbd9-9cc2-47ed-976f-e8ab424477cd">
+    <h2 id="introduction" class="step-title screensteps-heading">Introduction</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ec5fe7e3-bc80-4cb0-94da-da153abbbb7e" class="text-block-content">
+    <p><strong>What is Canvas?</strong></p>
+<p>Canvas is a Learning Management System. With its highly integrated learning products, you can build a digital learning environment to meet the unique challenges faced by your institution. To learn more about Canvas terminology and definitions, visit <a href="/t5/Canvas-Basics-Guide/How-does-Canvas-define-the-terms-used-to-describe-its-features/ta-p/51" target="_blank">How does Canvas define the terms used to describe its features and functions? </a></p>
+<p>Because Canvas is a web-based system, it doesn’t need to be installed on your computer. However, you’ll want to make sure that your <a href="/t5/Canvas-Basics-Guide/What-are-the-browser-and-computer-requirements-for-Instructure/ta-p/66" target="_blank">computer and web browser meet the basic requirements to run Canvas</a>. </p>
+<p><strong>What is the Admin role?</strong></p>
+<p>In Canvas, the Admin role is the administrator role. Users assigned the Admin role oversee and manage an institution's Canvas account or a Canvas sub-account within an institution. Admin permissions allow users to manage terms, create courses, view and moderate enrollments and content for all courses within an account, and view course and account data. Additionally, Admins can direct communication within an account and its courses. Account-level permissions vary for sub-accounts and from institution to institution. For more information about account-level permissions, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Account-Role-Permissions/ta-p/387078" target="_blank">Canvas Account Permissions resource document</a>.</p>
+<p><strong>What is a Customer Success team?</strong></p>
+<p>Most Canvas accounts are assigned to a Customer Success team. Your Customer Success team will work with you to establish your account. Review with them your institution’s teaching and learning goals as well as your institution’s existing structures.</p>
+<p>Once your account is established and users at your institution are using Canvas, your Customer Success Manager (CSM) will be your primary point of contact when you have questions, concerns, or comments about Canvas functionality for your institution. </p>
+<p><strong>Canvas for Elementary</strong></p>
+<p><a href="/t5/Canvas-for-Elementary-Basics/What-is-Canvas-for-Elementary/ta-p/496844" target="_blank">Canvas for Elementary</a> is a Canvas setting that displays a simplified interface and experience designed for young learners. You need to enable Canvas for Elementary for your account to allow users to use it. For more information, visit the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-for-Elementary-Feature-Comparison/ta-p/476895" target="_blank">Canvas for Elementary Feature Comparison</a> resource document.</p>
+<p><strong>Canvas Guides</strong></p>
+<p>The <a href="https://community.canvaslms.com/t5/Admin-Guide/tkb-p/admin" target="_blank">Canvas Admin Guide</a> answers a question that relates to using the Canvas interface as an admin. Each article also includes Next and Previous links so you can easily navigate to related content. You can also watch <a href="https://community.canvaslms.com/t5/Video-Guide/tkb-p/videos#admin-videos" target="_blank">videos for admins</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="account-structure-resources" data-step-uuid="2d1486b1-4879-4b5c-a3ed-c30c595927d6">
+    <h2 id="account-structure-resources" class="step-title screensteps-heading">Account Structure Resources</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_538d0b63-9a4c-49ee-a20c-dbbc45a5a2d5" class="text-block-content">
+    <p>Each institution has an organizational structure that supports its specific teaching and learning needs and goals. For example, your institution may be divided into specific schools; each school may be assigned specific grade levels or disciplines; each grade level or discipline may then be divided by department or group. </p>
+<p>Before configuring your institution’s Canvas account, take the time to answer the following questions about your institution and administrators. Your answers will play an essential role in organizing your Canvas account.</p>
+<ul>
+<li>What is the current organizational structure at my institution? </li>
+<li>How does my institution’s organizational structure support our identified teaching and learning needs and goals? </li>
+<li>Do I want to organize my institution’s Canvas account using my institution’s current organizational structure? If not, how do I want to organize my institution’s Canvas account? </li>
+<li>What administrative roles and responsibilities currently exist at my institution? </li>
+<li>Which of these roles need administrative access to Canvas?</li>
+<li>To fulfill their roles in Canvas, what access would (and wouldn’t) these individuals need?</li>
+</ul>
+<p>Your Canvas account starts with one root account. To establish your account’s structure or hierarchy, you will create sub-accounts. </p>
+<p>Most institutions organize sub-account structures to mirror their Student Information System (SIS) or registration system. For example, sub-accounts can be created for individual colleges within a university or schools within a district. Sub-accounts can also be created within sub-accounts, such as when a college subdivides into departments that subdivide into programs, or a school that subdivides into grade levels that subdivide into specific subjects.</p>
+<ul>
+<li><a href="/t5/Admin-Guide/What-is-the-hierarchical-structure-for-Canvas-accounts/ta-p/153" target="_blank">What is the hierarchical structure for Canvas accounts?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-view-and-manage-a-sub-account/ta-p/260" target="_blank">How do I view and manage a sub-account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-manage-themes-for-an-account/ta-p/154" target="_blank">How do I manage themes for an account?</a></li>
+</ul>
+<p><strong>Note:</strong> Sub-accounts can be bulk-added using the <a href="/t5/Canvas-Basics-Guide/What-are-SIS-Imports/ta-p/47" target="_blank">SIS Import Tool</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas-account-functionality-amp-integrations" data-step-uuid="6181fc60-d74e-479f-a09f-3bee6374828b">
+    <h2 id="canvas-account-functionality-amp-integrations" class="step-title screensteps-heading">Canvas Account Functionality &amp; Integrations</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_262e0c55-e3f4-41f0-a278-b58aacd290ff" class="text-block-content">
+    <p>After answering questions about the organization and administration of your institution’s Canvas account, consider how Canvas will support teaching and learning at your institution. </p>
+<ul>
+<li>What are your institution’s specific teaching needs and goals?</li>
+<li>What role will Canvas play in achieving your institutional vision for teaching and learning?</li>
+</ul>
+<p>Canvas includes a variety of standard account integrations. In addition to these integrations, your Customer Success team can configure a variety of other integrations for your account. Learn about available <a href="https://community.canvaslms.com/t5/Partners/ct-p/partners" target="_blank">Canvas account integrations</a>. Contact your Customer Success team to enable any of these integrations in your account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="basic-account-settings" data-step-uuid="539f3ed8-8135-409f-a093-7d9a62d80959">
+    <h2 id="basic-account-settings" class="step-title screensteps-heading">Basic Account Settings</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fecfe7f0-d22a-472f-a4ab-a38a7568d028" class="text-block-content">
+    <p>As an admin, the settings you select for your Canvas account will affect how Canvas functions for your users. These settings will also trickle down to the sub-accounts you create in your account.  </p>
+<p>Some settings, like language and time zone selection, can be modified by individual users and per course, but you’ll establish the defaults.</p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-use-account-settings/ta-p/152" target="_blank">How do I use account settings?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-set-details-for-an-account/ta-p/194" target="_blank">How do I set details for an account?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="admin-user-roles" data-step-uuid="73b7496f-2f39-4beb-b150-ec1327c92b68">
+    <h2 id="admin-user-roles" class="step-title screensteps-heading">Admin User Roles</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_de57194b-d55a-4c50-b918-19d773952539" class="text-block-content">
+    <p>Whenever you add a user to Canvas, you must specify their user role. User roles identify what a user can do within Canvas. A role must exist in an account before any user may be added to the role. </p>
+<p>By default, Canvas includes one account-level administrative user role. This role comes with unrestricted access to Canvas. However, not every administrative user needs an all-access pass to Canvas. Before adding administrators to your Canvas account, create additional account-level user roles and preselect their Canvas permissions. </p>
+<p>View more information about <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Account-Role-Permissions/ta-p/387078" target="_blank">account-level permissions</a>. </p>
+<ul>
+<li><a href="/t5/Admin-Guide/What-user-roles-and-permissions-are-available-in-Canvas/ta-p/102" target="_blank">What user roles and permissions are available in Canvas?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-add-an-account-level-role-in-the-Permissions-page/ta-p/99" target="_blank">How do I add an account-level role in the Permissions page?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-set-permissions-for-an-account-level-role/ta-p/213" target="_blank">How do I set permissions for an account-level role?</a></li>
+</ul>
+<p><strong>Account Admins</strong></p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-add-an-admin-to-an-account/ta-p/212" target="_blank">How do I add an admin to an account?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sis-import-tool-overview" data-step-uuid="aa9a4a75-9778-4c84-bc15-3c24e84616bf">
+    <h2 id="sis-import-tool-overview" class="step-title screensteps-heading">SIS Import Tool Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8ea95f02-4524-4b43-a5cb-8362cc5a1b26" class="text-block-content">
+    <p>The SIS Import Tool allows you to bulk-create a variety of account items using formatted comma-separated value (CSV) files. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The SIS Import Tool is a feature that your CSM must enable for your account. </li>
+<li>All CSV file uploads should be tested in your institution’s <a href="/t5/Admin-Guide/How-do-I-access-the-Canvas-test-environment-as-an-admin/ta-p/180" target="_blank">test environment</a> before attempting to upload them to your production environment. You can learn more about the Canvas test environment. </li>
+<li>This section outlines a manual process of using the SIS Import Tool. To learn more about using the Canvas API to automatically integrate with your SIS, talk with your CSM and visit the Canvas Guides, review <a href="https://canvas.instructure.com/doc/api/sis_imports.html" target="_blank" rel="nofollow noopener noreferrer">Canvas API documentation</a>, and visit the <a href="https://community.canvaslms.com/t5/Canvas-Developers-Group/gh-p/developers" target="_blank">Canvas Developers Group</a> in the Canvas Community.</li>
+</ul>
+<p>Using the SIS Import Tool allows account admins to upload data to their Canvas account quickly. Bulk uploads may be done at any time and in no particular order. Additionally, there are some risks associated with using this tool. For more details about these risks, please view the <a href="/t5/Canvas-Basics-Guide/What-are-SIS-Imports/ta-p/47" target="_blank">SIS Imports article</a>.</p>
+<ul>
+<li><a href="/t5/Admin-Guide/What-student-information-system-SIS-integrations-are-available/ta-p/197" target="_blank">What student information system (SIS) integrations are available in Canvas?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-import-SIS-data-to-a-Canvas-account/ta-p/98" target="_blank">How do I import SIS data to a Canvas account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-format-CSV-text-files-for-uploading-SIS-data-into-a/ta-p/216" target="_blank">How do I format CSV text files for uploading SIS data into a Canvas account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-create-an-automated-data-integration-for-an-account/ta-p/255" target="_blank">How do I create an automated data integration for an account with Canvas and my SIS?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-practice-using-the-API-to-import-SIS-data-to-a-Canvas/ta-p/100" target="_blank">How do I practice using the API to import SIS data to a Canvas account?</a></li>
+<li><a href="/t5/Admin-Guide/What-do-I-need-to-know-about-creating-a-script-to-automatically/ta-p/268" target="_blank">What do I need to know about creating a script to automatically import SIS data to a Canvas account?</a></li>
+</ul>
+<p>Learn more about <a href="https://community.canvaslms.com/t5/Student-Information-Systems-SIS/ct-p/sis_guides" target="_blank">SIS Resources</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="terms-overview" data-step-uuid="81c822c7-b835-4049-9008-0f18d49d3bdc">
+    <h2 id="terms-overview" class="step-title screensteps-heading">Terms Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7c3e3970-77b7-48ab-939b-bc0018da5ec7" class="text-block-content">
+    <p>Terms define start and end dates that apply to any course added to that term. For that reason, term dates should be set before adding courses to your account. Terms can be created manually or by using SIS imports<strong>.</strong></p>
+<p>Additionally, terms are used to filter data in <a href="/t5/Admin-Guide/How-do-I-view-account-analytics/ta-p/165" target="_blank">account analytics</a> and <a href="/t5/Admin-Guide/How-do-I-view-reports-for-an-account/ta-p/109" target="_blank">account reports</a>. </p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-use-the-Terms-page-in-an-account/ta-p/159" target="_blank">How do I use the Terms page in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-add-a-new-term-in-an-account/ta-p/222" target="_blank">How do I add a new term in an account?</a></li>
+<li><a href="/t5/Admin-Guide/What-should-I-do-at-the-beginning-and-end-of-each-term-as-an/ta-p/124" target="_blank">What should I do at the beginning and end of each term as an admin?</a></li>
+<li><a href="/t5/Admin-Guide/What-should-I-encourage-instructors-to-do-at-the-beginning-and/ta-p/123" target="_blank">What should I encourage instructors to do at the beginning and end of each term?</a></li>
+</ul>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Canvas includes a default term that cannot be removed or renamed. </li>
+<li>Use caution when editing the Term Runs from and User can access dates fields as those fields cannot be left empty when they are edited.</li>
+<li>Instructors and students cannot view the Terms page, so please ensure users in your institution are aware of term dates for your institution publicly.</li>
+</ul>
+<p><a href="/t5/Canvas-Basics-Guide/How-do-term-dates-course-dates-and-section-dates-work-in-Canvas/ta-p/37" target="_blank">Not all courses within a term conform to the term dates</a>. Learn more about <a href="/t5/Admin-Guide/How-do-I-restrict-student-access-before-or-after-a-course-date/ta-p/169" target="_blank">course dates</a> and <a href="/t5/Admin-Guide/How-do-I-change-the-start-and-end-dates-for-a-course-section-as/ta-p/210" target="_blank">section dates</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="grading-periods-overview" data-step-uuid="a43b99de-a91b-448e-84de-1b56d8967919">
+    <h2 id="grading-periods-overview" class="step-title screensteps-heading">Grading Periods Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_daae9480-1216-4295-a78c-7d54f6ff638a" class="text-block-content">
+    <p>Grading periods specify date ranges used for student grade reporting. Student grades are calculated using course assignment scores with due dates that fall within the grading period’s start and end date range. Grading period close dates prevent grade modification after a specified date. </p>
+<p>Grading periods are created within grading period sets. When creating a grading period set, you can associate it with terms, and any courses within that term automatically inherit the grading periods.</p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-view-grading-periods-in-an-account/ta-p/179" target="_blank">How do I view grading periods in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-add-grading-periods-in-an-account/ta-p/107" target="_blank">How do I add grading periods in an account?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="grading-schemes-overview" data-step-uuid="03c7ac4e-6032-4f42-ada6-21230d1dff5e">
+    <h2 id="grading-schemes-overview" class="step-title screensteps-heading">Grading Schemes Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8dbc9e57-31f4-4cd1-8998-b1af8feca499" class="text-block-content">
+    <p>A grading scheme is a set of criteria used to measure student achievement in a course. Without a grading scheme, student scores are not measured against a specific standard.</p>
+<ul>
+<li><a href="/t5/Canvas-Basics-Guide/What-are-grading-schemes/ta-p/41" target="_blank">What are grading schemes?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-view-and-manage-grading-schemes-in-an-account/ta-p/144" target="_blank">How do I view and manage grading schemes in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-add-a-grading-scheme-in-an-account/ta-p/146" target="_blank">How do I add a grading scheme in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-duplicate-a-grading-scheme-in-an-account/ta-p/601372" target="_blank">How do I duplicate a grading scheme in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-edit-a-grading-scheme-in-an-account/ta-p/601373" target="_blank">How do I edit a grading scheme in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-archive-a-grading-scheme-in-an-account/ta-p/601375" target="_blank">How do I archive a grading scheme in an account?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="outcomes-overview" data-step-uuid="26f9b928-9078-4ca0-af3b-1169522e746a">
+    <h2 id="outcomes-overview" class="step-title screensteps-heading">Outcomes Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_31ec0fc7-d4ea-43e6-b138-6b82d1a05bf7" class="text-block-content">
+    <p>Outcomes are statements that describe the knowledge and skills that learners will develop during a course or program. As an admin, you can create outcomes at the account level that instructors may use to measure student progress in a course in your account.</p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-use-the-outcomes-page-in-an-account/ta-p/173" target="_blank">How do I use the outcomes page in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-create-an-outcome-for-an-account/ta-p/128" target="_blank">How do I create an outcome for an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-create-outcome-groups-for-an-account/ta-p/129" target="_blank">How do I create outcome groups for an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-import-outcomes-for-an-account/ta-p/267" target="_blank">How do I import outcomes for an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-use-the-outcomes-page-in-an-account-in-Improved/ta-p/486333" target="_blank">How do I use the outcomes page in an account in Improved Outcomes Management?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-create-an-outcome-for-an-account-in-Improved-Outcomes/ta-p/486334" target="_blank">How do I create an outcome for an account in Improved Outcomes Management?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-create-outcome-groups-for-an-account-in-Improved/ta-p/486335" target="_blank">How do I create outcome groups for an account in Improved Outcomes Management?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="rubrics-overview" data-step-uuid="460c7e3b-4260-4ba3-9b68-07633fe2ec42">
+    <h2 id="rubrics-overview" class="step-title screensteps-heading">Rubrics Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cf0729ff-9fe4-4021-be0d-def0160224a2" class="text-block-content">
+    <p>A rubric is an assessment tool for communicating expectations and measuring student mastery of a course assignment or assessment. Rubrics are typically comprised of rows and columns. Assessed criteria are defined in rows. Columns are used to define levels of performance for each criterion.</p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-manage-rubrics-in-an-account/ta-p/108" target="_blank">How do I manage rubrics in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-add-a-rubric-in-an-account/ta-p/172" target="_blank">How do I add a rubric in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-align-an-outcome-with-a-rubric-in-an-account/ta-p/193" target="_blank">How do I align an outcome with a rubric in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-customize-learning-mastery-ratings-for-an-account/ta-p/176" target="_blank">How do I customize learning mastery ratings for an account?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="question-bank-overview" data-step-uuid="27222abd-756b-4464-9d8d-ee38555707a0">
+    <h2 id="question-bank-overview" class="step-title screensteps-heading">Question Bank Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92ea2815-9fb3-46e1-9877-ecb91b728eb0" class="text-block-content">
+    <p>Question banks are quiz question repositories. When creating a quiz, users can access question bank questions, making it easier to offer the same quiz questions to students in different courses.</p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-manage-question-banks-in-an-account/ta-p/231" target="_blank">How do I manage question banks in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-create-a-question-bank-in-an-account/ta-p/141" target="_blank">How do I create a question bank in an account?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="custom-branding-overview" data-step-uuid="ad644eb0-ab82-47c2-9f35-6df106eb907f">
+    <h2 id="custom-branding-overview" class="step-title screensteps-heading">Custom Branding Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4ae33341-a353-417c-8044-c33e4718cc65" class="text-block-content">
+    <p>The Canvas Theme Editor allows you to customize the display colors for text, buttons, and links using hex codes. You can also upload custom images and watermarks to display in your Canvas instance.</p>
+<p>By default, the Theme Editor is only enabled in an institution’s root account and all sub-accounts adopt the root account theme. However, the tool can be enabled in sub-accounts, allowing for sub-account theme customization. Any design element not changed in a sub-account theme inherits the account-level design. </p>
+<p>Additionally, the Theme Editor supports custom cascading style sheets (CSS) and JavaScript (JS) uploads. Your CSM can enable this option in your account. Before using this option in your account, learn about <a href="/t5/Admin-Guide/How-do-I-upload-custom-JavaScript-and-CSS-files-to-an-account/ta-p/253" target="_blank">CSS/JS restrictions in Canvas</a>. </p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-manage-themes-for-an-account/ta-p/154" target="_blank">How do I manage themes for an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-create-a-theme-for-an-account-using-the-Theme-Editor/ta-p/242" target="_blank">How do I create a theme for an account using the Theme Editor?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-upload-custom-JavaScript-and-CSS-files-to-an-account/ta-p/253" target="_blank">How do I upload custom JavaScript and CSS files to an account?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="external-apps-lti-overview" data-step-uuid="213062bd-f542-4e70-bc19-0e2a7413723b">
+    <h2 id="external-apps-lti-overview" class="step-title screensteps-heading">External Apps (LTI) Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2820af83-244c-406b-ad4b-df3ef31201a8" class="text-block-content">
+    <p>Canvas supports the Learning Tool Interoperability (LTI) standard for third-party tools. This means you can integrate a variety of existing teaching tools to work within Canvas via the EduApp Center. You can enable these tools in your account and they will be available for use in courses in your account. </p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-use-the-Canvas-App-Center-in-an-account/ta-p/262" target="_blank">How do I use the Canvas App Center in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-link-an-Edu-App-Center-allow-list-to-Canvas/ta-p/247" target="_blank">How do I manage an Edu App Center allow list in Canvas?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-configure-an-LTI-key-for-an-account/ta-p/140" target="_blank">How do I configure an LTI key for an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-configure-an-external-app-for-an-account-using-a-URL/ta-p/186" target="_blank">How do I configure an external app for an account using a URL?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course-level-user-roles-and-permissions-overview" data-step-uuid="6d4756ac-d09c-46c3-8f7d-fa5168ca2507">
+    <h2 id="course-level-user-roles-and-permissions-overview" class="step-title screensteps-heading">Course-Level User Roles and Permissions Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7c9fa4d9-367e-4ea9-ad04-d655cb5d56ea" class="text-block-content">
+    <p>After adding admins to your account and establishing your account basics, you are ready to create course-level user roles. A user role defines what a user can do and establishes their permissions within Canvas. When you add a user to Canvas, you must specify their user role. Therefore, user roles with defined permissions must exist in an account before a user can be added.</p>
+<p>By default, Canvas includes five course-level user roles: student, teacher, TA, designer, and observer.  Each role has preset permissions that determine its level of access to courses and course materials in Canvas. For example, students and parent observers typically do not create quizzes in a course, but teachers, TAs, and course designers likely do. Therefore, some user roles have restricted access to course permissions based on their typical role and responsibilities at an institution. Your institution may also require the need for other course-level users with varying access. You can <a href="/t5/Admin-Guide/How-do-I-add-a-course-level-role-in-the-Permissions-page/ta-p/178" target="_blank">create additional course-level user roles </a>and preselect their Canvas permissions. </p>
+<p>View more information about <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Course-Role-Permissions/ta-p/387080" target="_blank">course-level permissions</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="courses-overview" data-step-uuid="5ad3bbbb-720b-4f7e-84aa-6788a1721568">
+    <h2 id="courses-overview" class="step-title screensteps-heading">Courses Overview</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2d645ce1-789e-47aa-9ecc-c901b64653bf" class="text-block-content">
+    <p>The most efficient way to add users to your account is to enroll them directly in a course. You can add courses to your account using the SIS Import tool or create courses manually. </p>
+<ul>
+<li><a href="/t5/Admin-Guide/How-do-I-use-the-Courses-page-in-an-account/ta-p/104" target="_blank">How do I use the Courses page in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-add-a-course-in-an-account-as-an-admin/ta-p/158" target="_blank">How do I add a course in an account as an admin?</a></li>
+</ul>
+<p><strong>Course Enrollments</strong></p>
+<p>All courses in your account are displayed on the Courses page. You can enroll (or add) new and existing users in a course. Canvas can identify new user information when you create course enrollments, and new users will automatically be added to your account when they are enrolled in a course. </p>
+<ul>
+<li><a href="/t5/Admin-Guide/What-user-enrollment-and-registration-options-are-available-in/ta-p/256" target="_blank">What user enrollment and registration options are available in Canvas?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-use-the-People-page-in-an-account/ta-p/105" target="_blank">How do I use the People page in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-create-and-add-users-to-an-account/ta-p/90" target="_blank">How do I create and add users to an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-edit-a-user-s-name-time-zone-or-email-in-an-account/ta-p/96" target="_blank">How do I edit a user's name, time zone, or email in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-manage-a-user-s-login-information-in-an-account/ta-p/232" target="_blank">How do I manage a user's login information in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-act-as-another-user-in-an-account/ta-p/161" target="_blank">How do I act as another user in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-view-the-enrollments-for-a-user-in-an-account/ta-p/95" target="_blank">How do I view the enrollments for a user in an account?</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-enable-open-registration-in-an-account-and-allow/ta-p/145" target="_blank">How do I enable open registration in an account and allow instructors to add users to a course witho...</a></li>
+<li><a href="/t5/Admin-Guide/How-do-I-enable-self-enrollment-in-an-account-and-allow-students/ta-p/122" target="_blank">How do I enable self-enrollment in an account and allow students to self-enroll in a course?</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="canvas-feature-options" data-step-uuid="4a9b687a-0f16-4db1-a7f0-0a7cd3ae8842">
+    <h2 id="canvas-feature-options" class="step-title screensteps-heading">Canvas Feature Options</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_357aa545-762a-4f85-9cb0-3bc132c9b206" class="text-block-content">
+    <p>Canvas is continually creating new features to improve your experience. The majority of improvements are made available as part of the regular release cycle. However, some features may change the workflow for common activities in Canvas during your current term. You can learn about these features at your own pace and<a href="/t5/Admin-Guide/How-do-I-manage-feature-options-for-an-account/ta-p/204" target="_blank"> manage Canvas features from your Account Settings</a>. Feature options allow you to choose if and when you want to enable a new feature for your institution. Most institutions pilot the feature within their institution and then enable it for the entire institution between terms.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="additional-resources" data-step-uuid="7fa8c6d9-3c37-45f5-8216-85d15ec9ebd2">
+    <h2 id="additional-resources" class="step-title screensteps-heading">Additional Resources</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_424d1dfb-bd63-48ef-a27e-855eed39452f" class="text-block-content">
+    <ul>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Admin-Blog/Best-Practices-for-Large-Courses-in-Canvas/ba-p/267638" target="_blank">Best Practices for Large Courses in Canvas</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Default-Account-Reports/ta-p/387054" target="_blank">Canvas Default Account Reports</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Admin-Discussion/bd-p/admin_discussion" target="_blank">Canvas Admin Discussion</a></li>
+<li><a href="https://community.canvaslms.com/t5/Canvas-Admin-Blog/bg-p/admin_blog" target="_blank">Canvas Admin Blog</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

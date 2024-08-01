@@ -1,0 +1,176 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_23b5b3c9-ca4c-41ab-9506-f8765569a777" class="text-block-content">
+    <p>As an admin, you can subscribe to Live Events and receive a real-time set of events from your Canvas Account. You can choose which events in Canvas you want to subscribe to. You will need to maintain an <a href="/t5/Admin-Guide/How-do-I-create-an-SQS-queue-in-Amazon-Web-Services-to-receive/ta-p/170" target="_blank">Amazon Web Services queue to receive Live Events data</a>.</p>
+<p><strong>Note:</strong> To receive Live Events data, you will need to subscribe to <a href="/t5/Admin-Guide/How-do-I-create-an-SQS-queue-in-Amazon-Web-Services-to-receive/ta-p/170" target="_blank">Amazon Web Services </a>in order to maintain a queue. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="04325a79-4553-4f47-8baf-05c017a91a10">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e4051601-828c-4cc0-b60a-3cb326319c30" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-canvas-data-portal" data-step-uuid="ee127beb-e8cf-400b-b2bb-8fee4c8adea1">
+    <h2 id="open-canvas-data-portal" class="step-title screensteps-heading">Open Data Services</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/016/320/original/65faa8ef-62fc-4c09-a3d1-7eb7317a968c.png" srcset="" alt="Open Data Services" height="191" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7ffd2815-a7b0-4d2f-8ae4-ddd18748f7a0" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Data Services</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-data-stream" data-step-uuid="7c7a474f-ce35-447f-ae22-84aad5456989">
+    <h2 id="add-data-stream" class="step-title screensteps-heading">Add Data Stream</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/016/421/original/0cfc0df2-c0af-4b3b-90fa-e6d4fbbe164a.png" srcset="" alt="Add Data Stream" height="96" width="849">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f349fded-cbc9-4142-9646-744045f3ee0f" class="text-block-content">
+    <p>To create a new data stream for your account, click the <strong>Add Stream</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configure-data-stream" data-step-uuid="5b46e7f0-4362-4934-ace9-fb1fb20f27c2">
+    <h2 id="configure-data-stream" class="step-title screensteps-heading">Configure Data Stream</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/041/028/original/00447a15-5010-49ff-aace-5350a557b57d.png" srcset="" alt="Configure Data Stream" height="259" width="830">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1ffb4a42-ce11-48cc-83b8-4518d1ba6959" class="text-block-content">
+    <p>Enter a title for your stream in the <strong>Name/Title</strong> field [1]. </p>
+<p>Select an SQS or HTTPS delivery method in the <strong>Delivery Method</strong> drop-down menu [2]. Then enter your <a href="/t5/Admin-Guide/How-do-I-create-an-SQS-queue-in-Amazon-Web-Services-to-receive/ta-p/170" target="_blank">AWS SQS </a>or an HTTPS endpoint URL in the <strong>URL</strong> field [3].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Only one delivery method is allowed per subscription. </li>
+<li>Canvas uses JWT to sign an event. If service is unavailable and Canvas cannot reach it, the events occurring during the service outage may not be delivered.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="configure-amazon-sqs-data-stream" data-step-uuid="142e16eb-f429-4ae6-90c2-b13507bee828">
+    <h3 id="configure-amazon-sqs-data-stream" class="step-title screensteps-heading">Configure Amazon SQS Data Stream</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/041/027/original/deecdbf6-5558-47f3-91bd-68e24ff1e332.png" srcset="" alt="Configure Amazon SQS Data Stream" height="490" width="830">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dc4c0e17-f037-4856-873a-0a53ae093209" class="text-block-content">
+    <p>If you want to require authentication for an Amazon SQS URL, select the AWS Credentials in the <strong>Authentication</strong> field [1]. If authentication is not required, this field can be set to the None option.</p>
+<p>If AWS credentials are required, enter the AWS key [2], AWS secret [3], and AWS region [4].</p>
+<p>Select the event format in the <strong>Message Type</strong> field [5]. Message type can be set to Canvas or Caliper 1.1.</p>
+<p><strong>Note: </strong>The Application Type field can only be set to the Data Streaming option.</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="configure-https-data-stream" data-step-uuid="c2c81d91-de0b-4d53-b301-446d26677852">
+    <h3 id="configure-https-data-stream" class="step-title screensteps-heading">Configure HTTPS Data Stream</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/041/030/original/93aab6b3-20ba-4a2a-898e-d2739d3f4464.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/041/030/medium/93aab6b3-20ba-4a2a-898e-d2739d3f4464.png" srcset="" alt="Configure HTTPS Data Stream" height="242" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e192e9ce-451c-4e45-a104-aba366c38eaa" class="text-block-content">
+    <p>The HTTPS delivery method includes an option to display source endpoint payload data with your data stream. To view payload data, select the <strong>Sign Payload </strong>checkbox [1].</p>
+<p>Select the event format in the <strong>Message Type</strong> field [2]. Message type can be set to Canvas or Caliper 1.1.</p>
+<p><strong>Note: </strong>The Application Type field can only be set to the Data Streaming option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-subcriptions" data-step-uuid="b8308c11-75b2-4632-a432-6e614d0a7958">
+    <h2 id="select-subcriptions" class="step-title screensteps-heading">Select Subcriptions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/016/597/original/1cd9ff59-ba5b-470e-8931-a71f61ce1be5.png" srcset="" alt="Select Subscriptions" height="523" width="848">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_537421cb-dd67-4333-8c36-8b8582796dc2" class="text-block-content">
+    <p>Select the subscriptions you want to include in your data stream. </p>
+<p>To search for specific events, type the event name in the <strong>Search Events </strong>field [1]. </p>
+<p>To include all events in your stream, click the <strong>Subscriptions</strong> checkbox [2]. Selecting this option includes all event types as well as user and system generated actions.</p>
+<p>To subscribe to events triggered by an action directly performed by and end user, click the <strong>User Generated </strong>checkbox [3]. User generated events include information about web requests, browser and user data in event metadata, and details about objects affected by the change. </p>
+<p>To subscribe to events triggered by asynchronous jobs, click the <strong>System Generated </strong>checkbox [4]. System generated events include data about processes that triggered an event as well as details about objects affected by the change.</p>
+<p>You can also subscribe to event groups. To subscribe to all items in a group, click the checkbox for the group [5]. You can also select to include only User or System Generated data [6]. </p>
+<p>To subscribe to individual events, click the <strong>Arrow</strong> icon for the subscription group [7] and click the checkbox for the subscription you want to add [8].</p>
+<p><strong>Note: </strong>The image in this step shows subscription options for the Canvas message type. The options for the Caliper 1.1 message types are different, but the steps to subscribe are the same.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-data-stream" data-step-uuid="7a3e618f-232b-40aa-8541-85b85fd1ed9d">
+    <h2 id="save-data-stream" class="step-title screensteps-heading">Save Data Stream</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/016/423/original/309ed335-203e-4961-8154-de203c09733c.png" srcset="" alt="Save Data Stream" height="66" width="283">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c6689112-d19d-4dc7-a474-8a8353c26fb3" class="text-block-content">
+    <p>To save your data stream, click the <strong>Save &amp; Exit</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-live-events-subscriptions" data-step-uuid="98ac47ef-f02d-4d81-87b6-471d0b908f43">
+    <h2 id="view-live-events-subscriptions" class="step-title screensteps-heading">View Data Streams</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/016/425/original/254566dc-a889-481e-b1cf-4c1049f9a5bb.png" srcset="" alt="View Data Streams" height="303" width="840">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4f4a0e74-3fc5-4c64-92a9-2c48351f3b97" class="text-block-content">
+    <p>You can <a href="/t5/Admin-Guide/How-do-I-use-Live-Events-with-the-Data-Services-Portal/ta-p/258" target="_blank">view and manage your data streams</a> on the Data Streaming Options page. </p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

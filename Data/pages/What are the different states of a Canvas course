@@ -1,0 +1,73 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_597DB0E0-1F05-0135-9751-22000AB760A3" class="text-block-content">
+    <p>Canvas courses have three essential states: unpublished, published, and concluded.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_unpublished_course" data-step-uuid="72B2C206-A450-479E-9594-90716F65D8CC">
+    <h2 id="view_unpublished_course" class="step-title screensteps-heading">View Unpublished Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/009/095/original/24722e8e-3c25-40bb-b256-2b2055fc93e5.png" srcset="" alt="View Unpublished Course" height="396" width="769">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_597DDE90-1F05-0135-9753-22000AB760A3" class="text-block-content">
+    <p><em>Unpublished courses</em> are courses in preparation; they are courses being authored by instructors, instructional designers, and administrators. While a course is unpublished, students cannot access or participate in the course. When the course material is deemed ready by the designer, instructor, or administrator, it may be <a href="/t5/Instructor-Guide/How-do-I-publish-a-course/ta-p/1185" target="_blank">published.</a></p>
+<p>These courses appear in the Future Enrollments section of the Courses menu. Unless you or your Canvas admin <a href="/t5/Instructor-Guide/How-do-I-restrict-student-access-to-a-course-before-or-after-the/ta-p/1269" target="_blank">restrict permission</a> to view future courses,  and students can access their future enrollments in their Courses list before the course start date.</p>
+<p>If a course is never published, the course will remain in the students' Future Enrollments section. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_published_course" data-step-uuid="8CA556B2-7694-4A05-878C-C4C455B237B9">
+    <h2 id="view_published_course" class="step-title screensteps-heading">View Published Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/009/097/original/52fd1cf7-4a0e-49d4-8660-d6f5cea34a55.png" srcset="" alt="View Published Course" height="234" width="654">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_597E0EA0-1F05-0135-9755-22000AB760A3" class="text-block-content">
+    <p><em>Published courses</em> are instantly available to students who may be assigned via SIS integration, or manually by the instructor, administrator, or TA. When published, activity is dictated by the dates and status of course assignments and modules. Individual assignments, modules, or other course content can be individually locked (made unavailable to students) or assigned a date in the future, prior to which students will not be able to see or participate in said course component.</p>
+<p>If courses are set within term dates, these courses appear in the My Courses section of the Courses menu. However, if courses have course participation dates and have different start dates, the courses appear in the Future Enrollments section until the course participation start date.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_concluded_course" data-step-uuid="DC9DB81B-B55F-4430-A963-F604E419F57D">
+    <h2 id="view_concluded_course" class="step-title screensteps-heading">View Concluded Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/749/390/original/c5360711-cd5a-48e2-8004-ab03ff8e6275.png" srcset="" alt="View Concluded Course" height="295" width="653">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_597E3FB0-1F05-0135-9757-22000AB760A3" class="text-block-content">
+    <p><em>Concluded courses</em> are courses that are completed according to the SIS information or term dates, or courses that have been manually marked complete by an instructor or administrator.<span style="color:rgb(38,38,38);"> </span>In a concluded course, instructors and students can access course content but can no longer participate in the course and the course is archived in a read-only state. Students may be restricted from viewing concluded courses. You also may be able to manually <a href="/t5/Instructor-Guide/How-do-I-conclude-an-enrollment-in-a-course/ta-p/744" target="_blank">conclude an individual course enrollment</a>. </p>
+<p>Unless you or your Canvas admin <a href="/t5/Instructor-Guide/How-do-I-restrict-student-access-to-a-course-before-or-after-the/ta-p/1269" target="_blank">restrict permission</a> to view prior courses, these courses appear in the Past Courses section of the Courses menu. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

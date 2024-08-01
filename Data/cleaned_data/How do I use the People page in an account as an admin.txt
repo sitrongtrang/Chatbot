@@ -1,0 +1,37 @@
+How do I use the People page in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open People
+In Account Navigation, click the People link.
+View People in Sub-Accounts
+If you have organized courses in your account by sub-accounts and those courses include enrollments, click the Sub-Accounts link to locate and open the sub-account, then click the sub-account's People link.
+View People
+The People page displays all the users in the account. The page is designed with global settings at the top of the page followed by the generated user data.
+All fields are responsive to the width of the browser, which can be adjusted as needed to display course data.
+Search and Filter Users
+Global settings include searching and filtering by user data. Filters and search fields are updated dynamically.
+The People page displays users by all course roles by default. To filter users by individual role, select the Roles menu. 
+You can search for a specific user by name, email, SIS ID, login ID, and Canvas user ID. If you have the SIS Data-Manage and SIS Data-Read permissions, you can also search by Integration ID. 
+To search for a specific user, type in the search field.
+To include deleted users in search results, click the Include deleted users in search results checkbox.
+Note: The Roles menu does not include admin roles.
+Manage Users
+To add a user to the account, click the Add People button. The Add People button only displays if you have permission to manage enrollments. 
+To manage account-level user options, click the Options menu. If you have appropriate permissions, you can manage profile pictures and view user groups.
+View Users
+The People page paginates filter and search results in sets of 15 users and are ordered alphabetically by last name. Each paginated page displays in a table format but columns are responsive according to the widest column for that page. 
+Results display the user's name and profile picture, email address, SIS ID (if applicable), and last login date and time. A login on the current date displays the time only.
+Each column heading can be sorted in ascending or descending order.
+Notes: 
+Viewing user email addresses is an account permission. Depending on your permissions, you may not be able to view a user's email address.
+If profile pictures are not available or a user has not yet set a profile picture, the user's initials will display in place of a profile picture.
+Manage User
+To open a user's profile, click the name of the user.
+If enabled for you institution you can create a temporary enrollment. You can also act as the user, send a message from the Conversations Inbox, and edit user details.
+View User Profile
+The user's profile displays information about the user in several areas:
+Name and Email: shows the user's full name, display name, sortable name, profile picture, default email, and time zone. As an admin, you can edit the user's profile details, act as the user, merge the user's account, and delete the user from the account. 
+Login information: shows the user's login information, SIS ID (if any), account, and last request. If permitted, you can manually manage login information to edit the login information or add an additional login and password.
+Enrollments: shows the enrollments for the user grouped by courses and/or accounts (if the user is also an admin).
+Page Views: shows the most recent page views for the user. 
+When available, you can also view outcome results for the user and send a message to the user.

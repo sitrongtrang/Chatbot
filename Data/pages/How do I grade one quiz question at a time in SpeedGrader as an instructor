@@ -1,0 +1,204 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_03680600-222C-0135-DB7A-22000B5A851D" class="text-block-content">
+    <p>If your quiz was created using the Classic Quizzes tool, you can choose to manually grade the same quiz question for each student before viewing student submissions for a different quiz question. Essay and file upload questions always require manual grading, but any quiz question type may be manually graded in SpeedGrader. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Quizzes that pull questions from a question bank will shuffle the order of questions for each student. Question order for each submission may vary within SpeedGrader.</li>
+<li>If you are using New Quizzes, learn <a href="/t5/Instructor-Guide/How-do-I-grade-a-New-Quizzes-quiz-question-one-at-a-time-in/ta-p/566788" target="_blank">how to grade one quiz question at a time</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="560a41ff-68aa-4558-b978-5153b5d33c86">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/391/978/original/51ae4ba6-f4b9-47d1-8411-97f51e58b17e.png" srcset="" alt="Open Quizzes" height="192" width="145">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_03684110-222C-0135-DB7C-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quiz" data-step-uuid="a0b05a75-acc8-4d7f-9a08-6302a56917a8">
+    <h2 id="open_quiz" class="step-title screensteps-heading">Open Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/435/original/26daad9c-3828-40e8-b19a-3dfa0625caf0.png" srcset="" alt="Open Quiz" height="278" width="729">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_036979B0-222C-0135-DB7E-22000B5A851D" class="text-block-content">
+    <p>Click the name of the quiz you want to open. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_speedgrader" data-step-uuid="f4b8c6ef-ae0b-461c-8914-ae956966c9dd">
+    <h2 id="open_speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/069/original/4a6fcacb-5e4f-4d48-98a1-cd80e098be25.png" srcset="" alt="Open SpeedGrader" height="229" width="278">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_036A9920-222C-0135-DB80-22000B5A851D" class="text-block-content">
+    <p>In the Sidebar, click the <strong>SpeedGrader</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="18c7109b-f707-4b6c-9996-1553815da50e">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open SpeedGrader Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/726/553/original/f99f1667-f2d1-4b0c-a102-08e899e69567.png" srcset="" alt="Open SpeedGrader Options" height="204" width="325">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_036B7320-222C-0135-DB82-22000B5A851D" class="text-block-content">
+    <p>To enable question grading, click the SpeedGrader settings icon [1] and select <strong>Options </strong>from the drop-down menu [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-grade-by-question" data-step-uuid="6bca1d1b-72d9-4c81-9415-277976aa42ef">
+    <h3 id="select-grade-by-question" class="step-title screensteps-heading">Select Grade by Question</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/726/555/original/b7e96bde-fda7-4081-9eb4-7b96a828d98a.png" srcset="" alt="Select Grade by Question" height="327" width="411">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d7ff7765-16ef-42bb-a9d9-10de5a130f79" class="text-block-content">
+    <p> Select the <strong>Grade by question (beta)</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_number_bar" data-step-uuid="5bb89f14-22f9-4df1-b102-37d0230183d8">
+    <h2 id="view_number_bar" class="step-title screensteps-heading">View Number Bar </h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/766/065/original/27033d71-8a2a-4218-b4a6-b64af3a5acc5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/766/065/medium/27033d71-8a2a-4218-b4a6-b64af3a5acc5.png" srcset="" alt="View Number Bar " height="328" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_036C5F30-222C-0135-DB84-22000B5A851D" class="text-block-content">
+    <p>When question grading is enabled, Canvas will display a number bar above the quiz view panel to represent each question in your quiz. </p>
+<p>Numbers in gray boxes with gray numbers [1] represent questions that have already been graded. These are multiple-choice, true/false, and other types of questions where instructors can assign the answer and have Canvas grade the quiz automatically. </p>
+<p>Numbers in white boxes with blue numbers [2] represent questions that need to be graded manually. Canvas will also display a red notification bar [3] with the quiz questions that need to be reviewed and assigned a grade.</p>
+<p><strong>Note: </strong>Manually graded questions will turn gray in the question bar once a score is entered and updated for a student.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_additional_questions" data-step-uuid="bfce667a-7afe-460f-9d75-6613603cc5d3">
+    <h3 id="view_additional_questions" class="step-title screensteps-heading">View Additional Questions </h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/738/886/original/32dc8ec1-fef1-4110-b4f1-aa37922b0cf9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/738/886/medium/32dc8ec1-fef1-4110-b4f1-aa37922b0cf9.png" srcset="" alt="View Additional Questions" height="134" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_036D5900-222C-0135-DB86-22000B5A851D" class="text-block-content">
+    <p>If the number of questions in your quiz exceeds the width of the number bar, you can use the arrows at either end of the number bar to advance to additional questions. </p>
+<p>You can also scroll down the quiz to locate the quiz question you want to view. The number bar will adjust automatically as you scroll.</p>
+<p><strong>Note</strong>: The question bar is dynamic according to the size of your browser view. Zooming into your browser’s window will decrease the number of questions in the number bar, while zooming out will increase the number of questions. The minimum number of questions that will appear within the largest zoom view is 18.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_questions" data-step-uuid="8020f446-0c99-4906-aed1-590837fd98f4">
+    <h2 id="select_questions" class="step-title screensteps-heading">Select Questions </h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/144/478/original/4bf4209b-0022-4b65-a32c-318aadde1e6e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/144/478/medium/4bf4209b-0022-4b65-a32c-318aadde1e6e.png" srcset="" alt="Select Questions " height="328" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_036E0C90-222C-0135-DB88-22000B5A851D" class="text-block-content">
+    <p>To view a question, click the question number in the number bar [1]. </p>
+<p>If a question needs to be manually graded, you can click the question number directly within the notification window [2]. </p>
+<p><strong>Note</strong>: When hovering over any box in the number bar, the box will temporarily fill with a light gray color to indicate which quiz number you want to select.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_blue_outline_in_number_bar" data-step-uuid="73287a88-66c6-469c-89c5-de58b2acc54f">
+    <h3 id="view_blue_outline_in_number_bar" class="step-title screensteps-heading">View Blue Outline in Number Bar</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/144/479/original/7c61a075-2068-47e0-9a84-665679fb86d0.png" srcset="" alt="View Blue Outline in Number Bar" height="513" width="676">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_036ECC40-222C-0135-DB8A-22000B5A851D" class="text-block-content">
+    <p>Once you begin to view the quiz, a blue outline around the number will identify the question you are currently viewing. A blue outline will also appear around the entire question.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_grade" data-step-uuid="5b13cd47-5163-4c07-8081-f3d37632e2ef">
+    <h2 id="assign_grade" class="step-title screensteps-heading">Assign Grade</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/766/075/original/804c65f3-fb25-403c-9fcf-30d5238846ef.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/766/075/medium/804c65f3-fb25-403c-9fcf-30d5238846ef.png" srcset="" alt="Assign Grade" height="645" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_036FB3D0-222C-0135-DB8C-22000B5A851D" class="text-block-content">
+    <p>To assign a grade for a question or to revise the grade for an automatically graded question, enter the score in the points field [1], then click the Update Scores button [2].</p>
+<p><strong>Note:</strong> You may also enter <a href="/t5/Instructor-Guide/How-do-I-adjust-the-point-value-for-an-entire-quiz-using-fudge/ta-p/939" target="_blank">fudge points</a> to adjust a student's score for an entire quiz. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="advance-to-next-student" data-step-uuid="45265f46-1dbd-4683-bdfa-778ad3eafe1f">
+    <h2 id="advance-to-next-student" class="step-title screensteps-heading">Advance to Next Student</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/391/980/original/7f8199de-6a3f-4fb3-9343-77a8ffe67df1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/391/980/medium/7f8199de-6a3f-4fb3-9343-77a8ffe67df1.png" srcset="" alt="Advance to Next Student" height="301" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_040f307b-77e8-44e1-b51a-13d8db7ab3aa" class="text-block-content">
+    <p>To grade a student submission for the same question, click the arrow in the student menu [1] or click the drop-down menu and select a student from the student list [2].  SpeedGrader will show the same quiz question for the next student. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

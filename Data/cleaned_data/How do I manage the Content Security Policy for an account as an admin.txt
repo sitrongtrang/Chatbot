@@ -1,0 +1,36 @@
+How do I manage the Content Security Policy for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link.
+Open Security Tab
+Click the Security tab.
+Note: The Security tab only displays in Account Settings if you have enabled the Content Security Policy feature option.
+Enable Content Security Policy
+To enable the Content Security Policy for an account, click the Enable Content Security Policy toggle.
+Add Domain to Allowed Domains
+To add a domain to your allowed domains, type the domain name in the Domain Name field. 
+Click the Add Domain button.
+Note: Wild card domains (e.g., *.instructure.com) are recommended. Wild cards include all subdomains tied to the domain name (e.g., example.instructure.com).
+View Allowed Domains
+You can view all allowed domains in the Allowed Domains list as well as the number of allowed domains contained in the list.
+Remove Allowed Domain
+To remove a domain from the Allowed Domains list, click the Delete icon.
+View Associated Tool Domains
+You can view domain names that have automatically been added to your allowed domains in the Associated Tool Domains list.
+All Canvas and Instructure domain names are automatically added to allowed domains and do not count against the 50 domain limit. Additionally, LTI tools in your account are also automatically added to allowed domains and do not count against the 50 domain limit.
+Notes: 
+To remove a domain for an LTI tool, the LTI tool must be removed from the account or sub-account.
+Associated tools are only listed once in the list of associated tool domains, even if they have been installed in multiple sub-accounts.
+Manage Sub-Account Content Security Policy
+Sub-accounts can manage their own Content Security Policy or choose to inherit the policy from a parent account.
+By default, sub-accounts are set to inherit the Content Security Policy from the parent account.
+Note: When policy settings are inherited from a parent account, domain editing is disabled at the sub-account level.
+Enable Content Security Policy
+To manage the Content Security Policy from the sub-account level, disable the Inherit Content Security Policy toggle and enable the Enable Content Security Policy toggle.
+Disable Content Security Policy
+To disable the Content Security Policy for the sub-account, disable the Enable Content Security Policy toggle.
+Manage Individual Course Settings
+The Content Security Policy automatically applies to all courses in the account or sub-account where the policy is enabled.
+To disable the Content Security Policy for the course, navigate to the course Settings page and click the Disable Content Security Policy checkbox.
+To save your changes, click the Update Course Details button.

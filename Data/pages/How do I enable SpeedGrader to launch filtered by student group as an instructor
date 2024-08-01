@@ -1,0 +1,72 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8379b19b-9c4b-468f-a157-cc461441a2fd" class="text-block-content">
+    <p>In large courses with many student groups, instructors may wish to filter SpeedGrader by student groups. When the Launch SpeedGrader Filter by Student Group setting is enabled, you must select a student group when you <a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-an-assignment-quiz-or-graded/ta-p/759" target="_blank">open SpeedGrader to grade an assignment, quiz, or graded discussion</a> or <a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-the-Gradebook/ta-p/925" target="_blank">from the Gradebook</a>. Only students from the selected group will display in SpeedGrader. </p>
+<p>When this option is enabled, certain areas that open SpeedGrader will prompt you to select a student group to view in SpeedGrader. In areas that do not provide this option, SpeedGrader will open filtered to the first group that contains students. You can change the student group that opens by first <a href="/t5/Instructor-Guide/How-do-I-filter-columns-and-rows-in-the-Gradebook/ta-p/1016" target="_blank">selecting a student group in the New Gradebook</a>. However, if you open SpeedGrader for a specific student, SpeedGrader will open filtered by the first available student group in which the student is a member. Additionally, if you open SpeedGrader from a specific student who is not a member of a student group, group filters will not be applied.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="ec87a351-ab2b-465a-9326-ee77982e2b70">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/860/original/83158e16-2330-45f1-a4de-780c57bf8639.png" srcset="" alt="Open Settings" height="241" width="149">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ebc0e400-b824-4b6f-81ae-52ff09cb65e7" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-course-details" data-step-uuid="014e7fc3-eb1b-42b3-b3d5-e6ce2660a518">
+    <h2 id="open-course-details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/176/139/original/838f73e1-12b3-4572-9166-ec879236ee07.png" srcset="" alt="Open Course Details" height="82" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ac0f677b-1aa3-4e77-a62d-795266bc4a2d" class="text-block-content">
+    <p>Click the <strong>Course Details</strong> tab.</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-speedgrader-filter-option" data-step-uuid="d01bffad-ead0-4af5-98b3-1df5dd82aadd">
+    <h2 id="set-speedgrader-filter-option" class="step-title screensteps-heading">Set SpeedGrader Filter Option</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/777/432/original/325ad374-4c01-458b-a923-020e7c4a8896.png" srcset="" alt="Set SpeedGrader Filter Option" height="113" width="498">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2a1427e4-d9c0-4277-a073-9e166b4f6131" class="text-block-content">
+    <p>Click the <strong>Launch SpeedGrader Filtered by Student Group</strong> checkbox. When this setting is enabled, you must select a student group before opening SpeedGrader.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

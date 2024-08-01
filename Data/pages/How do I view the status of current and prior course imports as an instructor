@@ -1,0 +1,174 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6BF4E490-1EFF-0135-3854-22000BC102FE" class="text-block-content">
+    <p>Current jobs in the Course Import Tool show the status of a course import. Status can help you view the progress of the import and if there is any action required on your part. An import can display up to five statuses. </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Canvas only process one import at a time.</li>
+<li>Canvas course imports count against course quotas. If your course import is larger than your course quota allotment, your course will not import. Contact your Canvas admin to request a larger course quota. </li>
+<li>Copied Canvas courses and course items do not count against course quotas. If your course import is larger than your course quota allotment, and if your course already exists in Canvas, you can <a href="/t5/Instructor-Guide/How-do-I-copy-a-Canvas-course-into-a-new-course-shell/ta-p/712" target="_blank">copy the course or course items</a> from the original course into your new course without impacting your course quota. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="211604cb-fc76-4648-b781-d240381e9756">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/819/original/0700f726-295c-4d67-910c-f5397a6043dc.png" srcset="" alt="Open Settings" height="241" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6BF53760-1EFF-0135-3856-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_content_into_course" data-step-uuid="3f79928c-7fb3-41a3-8794-61042da4a740">
+    <h2 id="import_content_into_course" class="step-title screensteps-heading">Import Content into Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/785/061/original/19452598-807e-4949-8cf4-80ba7f19d7a7.png" srcset="" alt="Import Content into Course" height="439" width="267">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6BF56430-1EFF-0135-3858-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Import Course Content</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_current_jobs" data-step-uuid="1d76f6ee-a9a0-4e53-a5fb-4355a412357d">
+    <h2 id="view_current_jobs" class="step-title screensteps-heading">View Current Jobs</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/785/058/original/fab03bf0-0e32-4062-8f50-8aeaa6f623cf.png" srcset="" alt="View Current Jobs" height="310" width="491">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6BF59040-1EFF-0135-385A-22000BC102FE" class="text-block-content">
+    <p>The Current Jobs menu displays the status of your import. Canvas can display several import statuses.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_queued" data-step-uuid="34a3b5db-da6b-4bfd-bed5-197f5a19e2ac">
+    <h2 id="view_queued" class="step-title screensteps-heading">View Queued</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/785/064/original/5099ebaa-c971-4039-990f-9840a1591885.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/785/064/medium/5099ebaa-c971-4039-990f-9840a1591885.png" srcset="" alt="View Queued" height="176" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6BF5BBE0-1EFF-0135-385C-22000BC102FE" class="text-block-content">
+    <p>When an import is first uploaded, the status displays as queued. Canvas copies may also display as pre-processing. These statuses both mean that Canvas is preparing the file for import. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_running" data-step-uuid="f086ee33-5ea7-438c-8c1a-2375477b406f">
+    <h2 id="view_running" class="step-title screensteps-heading">View Running</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/573/357/original/b7de33ee-ddee-4ebf-9b23-d4f6c5e24e8a.png" srcset="" alt="View Running" height="142" width="832">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6BF5E970-1EFF-0135-385E-22000BC102FE" class="text-block-content">
+    <p>When a report is uploading, the status displays as Running. Running reports display a progress bar indicating the time remaining to complete the import.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_waiting_for_select" data-step-uuid="ee51a95b-1dbe-4df8-9b2e-02f4c2f6fa4b">
+    <h2 id="view_waiting_for_select" class="step-title screensteps-heading">View Waiting for Select</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/785/074/original/feda35e2-34ba-41a4-8c6e-9c6471d26eac.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/785/074/medium/feda35e2-34ba-41a4-8c6e-9c6471d26eac.png" srcset="" alt="View Waiting for Select" height="66" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6BF615D0-1EFF-0135-3860-22000BC102FE" class="text-block-content">
+    <p>If you chose to <a href="/t5/Instructor-Guide/How-do-I-select-specific-content-as-part-of-a-course-import/ta-p/1091" target="_blank">select specific content</a> as part of the import process, the current job shows as Waiting for Select, which means you must select the content you want to import before it can be completed. You cannot cancel this action. Click the <strong>Select Content </strong>button.</p>
+<p>Once you select content, the statuses will return to Queued and Running until Canvas imports the selected content.</p>
+<p><strong>Note: </strong>If you no longer want to select specific content and want to import all content instead, click the <strong>Select Content</strong> button and simply select all content and groups available for importing.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_completed" data-step-uuid="0a351f67-821c-4537-9520-febaafacbef5">
+    <h2 id="view_completed" class="step-title screensteps-heading">View Completed</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/785/051/original/6cf53be1-b6f9-4ca3-a89c-a9e32398e7de.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/785/051/medium/6cf53be1-b6f9-4ca3-a89c-a9e32398e7de.png" srcset="" alt="View Completed" height="109" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6BF646C0-1EFF-0135-3862-22000BC102FE" class="text-block-content">
+    <p>When your import is complete, the status displays as Completed [1]. View imported content by accessing any link in Course Navigation.</p>
+<p>A Completed status shown in orange [2] indicate the import contains errors. To view the specific error(s), click the <strong>issues </strong>link [3]. Examples of error issues include an external tool that needs to be reconfigured or content that includes a broken link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_failed" data-step-uuid="9baa114d-2691-4ac6-a6dd-4bbb262ea6b3">
+    <h2 id="view_failed" class="step-title screensteps-heading">View Failed</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/785/071/original/61c642c8-efa0-478a-b00b-69e088ed1b5d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/785/071/medium/61c642c8-efa0-478a-b00b-69e088ed1b5d.png" srcset="" alt="View Failed" height="66" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6BF676F0-1EFF-0135-3864-22000BC102FE" class="text-block-content">
+    <p>If an import is unsupported or otherwise cannot be imported, the status displays as Failed. To view the specific error(s), click the <strong>issues </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download-import-file" data-step-uuid="8f3f6be9-7d46-4d18-822e-7780876174b1">
+    <h2 id="download-import-file" class="step-title screensteps-heading">View Previous Import</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/966/216/original/c31300d4-3f7d-4f28-96d8-45850f9fd980.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/966/216/medium/c31300d4-3f7d-4f28-96d8-45850f9fd980.png" srcset="" alt="View Previous Import" height="353" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ef6ce4bb-bea9-463e-a0a3-cd88644d3743" class="text-block-content">
+    <p>You can view previously imported content using the link next to the import type.</p>
+<p>For imported files, click the content name [1]. The file will download to your computer. File imports cannot be downloaded for re-import after 500 days [2].</p>
+<p>For course copies, clicking the link will take you back to the course that was copied [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

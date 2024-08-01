@@ -1,0 +1,125 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_68542380-1ED5-0135-9B86-22000AB760A3" class="text-block-content">
+    <p>Once the attendance tool is set up in your course, and your course is published, you can start to take attendance using Roll Call.</p>
+<p>The attendance tool is configured by default to allow taking roll seven days a week. This setting is useful for courses where there may be a need to take attendance for an event that takes place outside of a regular school week. However, the attendance tool will only calculate grades in the gradebook out of the total number of days roll has been taken. </p>
+<p>Currently you can only view Roll Call on a day-by-day basis. To view additional dates you can <a href="/t5/Instructor-Guide/How-do-I-run-Roll-Call-Attendance-reports-in-a-course/ta-p/1023" target="_blank">run an attendance report</a> for your course.</p>
+<p><strong>Notes</strong>: Students cannot access the Attendance tool; only instructors have the ability to take attendance. However, students can see the Attendance assignment in the Assignments page and view their attendance report as part of the Roll Call Attendance submission details page. If you are using attendance for grading, students can also view their attendance grade in the Grades page. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_attendance" data-step-uuid="8F3EDA83-DA5E-4616-9093-AE5509B2F1F9">
+    <h2 id="open_attendance" class="step-title screensteps-heading">Open Attendance</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/954/original/2b252562-917c-45c3-8532-6df422d56b30.png" srcset="" alt="Click Attendance Link" height="231" width="173">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_685455B0-1ED5-0135-9B88-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Attendance</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_attendance" data-step-uuid="8323c431-b7a2-43a2-ba17-f155e524471c">
+    <h2 id="view_attendance" class="step-title screensteps-heading">View Attendance</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/508/original/98e68add-5841-4fd6-9325-0e77dfc9333d.png" srcset="" alt="View Attendance" height="399" width="724">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_68548530-1ED5-0135-9B8A-22000AB760A3" class="text-block-content">
+    <p>By default, Roll Call displays the <strong>List View </strong>tab [1], which shows all students in a list format. To view the class in the seating chart format, click the <strong>Class View </strong>tab [2].</p>
+<p>If your course includes sections, both views show a drop-down menu with the names of course section(s). To view students in a specific section, click the section drop-down menu [3]. Note that this menu displays even if your course only contains one section.</p>
+<p><strong>Note: </strong>When a student is enrolled in multiple sections, any attendance that has been marked in one section does not display in all other section filters where the student is enrolled.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_attendance_dates" data-step-uuid="6C822985-FB00-4AAC-BAD8-7EADEC366547">
+    <h2 id="view_attendance_dates" class="step-title screensteps-heading">View Attendance Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/512/original/9211b140-d7cb-4726-9f12-29eba9096dcf.png" srcset="" alt="Switch to a Different Date" height="302" width="254">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_68561AD0-1ED5-0135-9B8C-22000AB760A3" class="text-block-content">
+    <p>By default, Roll Call will display the current date. </p>
+<p>You can edit attendance records for a different date by using the <strong>arrow</strong> icons next to the date [1] or by clicking the <strong>Calendar</strong> icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="take_attendance_in_list_view" data-step-uuid="3807EF88-3852-4B50-B6B2-3CC4C6CB1112">
+    <h2 id="take_attendance_in_list_view" class="step-title screensteps-heading">Take Attendance in List View</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/515/original/14d26180-ffc5-455b-a6a3-19ad5a5ff990.png" srcset="" alt="Take Attendance" height="399" width="724">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_68565310-1ED5-0135-9B8E-22000AB760A3" class="text-block-content">
+    <p>In the List View, you can take attendance by toggling the correct mark next to each student's name [1]. Click the attendance mark until you arrive at the desired mark:</p>
+<ul>
+<li>To mark the student as present and on time, click one time (green <strong>check mark </strong>icon).</li>
+<li>To mark the student as not present, click two times (red <strong>X </strong>icon).</li>
+<li>To mark the student as late, click three times (orange <strong>clock </strong>icon).</li>
+<li>To unmark the attendance status, leave the button as the default (gray <strong>no symbol </strong>icon). The unmarked attendance status also indicates an excused absence.</li>
+</ul>
+<p>You can also take attendance by clicking the <strong>Mark All Present</strong> button [2].</p>
+<p>If you need to start over or clear all attendance entries, click the <strong>Unmark All </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="take_attendance_in_class_view" data-step-uuid="CB205C8E-1610-4FD5-A9AD-914B1658E17F">
+    <h2 id="take_attendance_in_class_view" class="step-title screensteps-heading">Take Attendance in Class View</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/519/original/3c9c8a51-2aa6-40dd-826c-e690f20541e6.png" srcset="" alt="Take Attendance" height="348" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_685686F0-1ED5-0135-9B90-22000AB760A3" class="text-block-content">
+    <p>In Class View, you can also toggle the correct mark next to each student's name (present, absent, or late) [1], or click the <strong>Mark All Present</strong> button [2]. To unmark all student entries, click the <strong>Unmark All </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_badges_to_roll_call" data-step-uuid="e0f47261-659f-4f94-8805-8b894d8dd138">
+    <h2 id="add_badges_to_roll_call" class="step-title screensteps-heading">Add Badges to Roll Call</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/517/original/f3be45d6-4ec0-4d62-9b68-b74efff5ba0a.png" srcset="" alt="Add Badges to Roll Call" height="700" width="733">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6856BBB0-1ED5-0135-9B92-22000AB760A3" class="text-block-content">
+    <p>If you want to <a href="/t5/Instructor-Guide/How-do-I-use-Roll-Call-Attendance-badges-in-a-course/ta-p/993" target="_blank">use roll call badges</a> as part of the entry, view more options for the student and add the selected badge. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

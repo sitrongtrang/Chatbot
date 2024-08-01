@@ -1,0 +1,110 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F6635E90-22CF-0135-BC4E-22000AB760A3" class="text-block-content">
+    <p>Course visibility options can be customized and allow access to different user roles. The visibility setting offers three choices for a course:</p>
+<ul>
+<li>
+<strong>Course</strong>: The course is available to all users associated (enrolled) in the course. This option is the default<strong> </strong>setting.</li>
+<li>
+<strong>Institution</strong>: The course is available to users associated with this institution. This option allows users in your institution to view your course before they enroll in the course. For this option, users can only view the course if <a href="/t5/Instructor-Guide/How-do-I-enable-course-self-enrollment-with-a-join-code-or/ta-p/830" target="_blank">course self-enrollment is enabled</a> or the course is included in the <a href="/t5/Instructor-Guide/How-do-I-include-a-course-in-the-Public-Course-Index/ta-p/812" target="_blank">Public Course Index</a>. The course content shown to authenticated users is the same content shown to the public for publicly visible courses.</li>
+<li>
+<strong>Public</strong>: The course is available to anyone with the URL. If a public course is unaccessible to unauthenticated users, your institution may require a login and password to view all courses within their Canvas instance.</li>
+</ul>
+<p>As part of course visibility, you can also <a href="/t5/Instructor-Guide/How-do-I-customize-visibility-options-for-course-content/ta-p/814" target="_blank">customize content visibility</a>.</p>
+<p>To learn more about visibility options, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Course-Visibility-Options/ta-p/387053" target="_blank">Canvas Course Visibility Options resource document</a>.</p>
+<p><strong>Note</strong>: If the Visibility option cannot be changed, you do not have permission to manage visibility settings. Please contact your Canvas administrator or Canvas Support for assistance. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="d9ee6fe1-6cb9-4c3c-a456-d7ea6ec2df21">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/055/original/7c41d2db-ab52-45db-9711-2caf20a94b09.png" srcset="" alt="Open Settings" height="275" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F66390D0-22CF-0135-BC50-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_details" data-step-uuid="8913d49e-709a-4d8e-a80e-955ccb63c6d6">
+    <h2 id="open_course_details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/176/139/original/838f73e1-12b3-4572-9166-ec879236ee07.png" srcset="" alt="Open Course Details" height="82" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F663C0C0-22CF-0135-BC52-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Course Details</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_visibility" data-step-uuid="d4fe9224-e3cd-4208-ba1b-281fc9851c71">
+    <h2 id="set_visibility" class="step-title screensteps-heading">Set Visibility</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/982/690/original/565a881d-8407-4052-85f3-d9e911044b75.png" srcset="" alt="Set Visibility" height="152" width="691">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F663F0D0-22CF-0135-BC54-22000AB760A3" class="text-block-content">
+    <p>In the Visibility options, the default is set to Course. </p>
+<p>To change the visibility, click the <strong>Visibility </strong>menu and select the visibility option you prefer [1].</p>
+<p>If the Visibility option cannot be changed, you do not have permission to manage visibility settings [2]. Please contact your Canvas administrator or Canvas Support for assistance.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="customize_content_visibility" data-step-uuid="95df41d6-e44e-4954-aa0b-e2e04a5fd1bf">
+    <h3 id="customize_content_visibility" class="step-title screensteps-heading">Customize Content Visibility</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/832/533/original/f45749de-8b0e-4bd2-bb99-86332fdc4fcd.png" srcset="" alt="Customize Content Visibility" height="134" width="490">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F66420D0-22CF-0135-BC56-22000AB760A3" class="text-block-content">
+    <p>If you also want to <a href="/t5/Instructor-Guide/How-do-I-customize-visibility-options-for-course-content/ta-p/814" target="_blank">customize content visibility</a>, such as the course syllabus, click the <strong>Customize </strong>checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_course_details" data-step-uuid="59814376-6ed4-48c1-9010-f6ffa74ca248">
+    <h2 id="update_course_details" class="step-title screensteps-heading">Update Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/790/992/original/0c462a71-cd3d-4f6f-9fc4-500542124fea.png" srcset="" alt="Update Course Details" height="63" width="214">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F66456A0-22CF-0135-BC58-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Update Course Details</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

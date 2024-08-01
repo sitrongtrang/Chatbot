@@ -1,0 +1,337 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_17867320-06B1-0135-3880-22000BC102FE" class="text-block-content">
+    <p>When you <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">create a quiz</a>, you have a variety of options to choose from within a classic quiz.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>When the Disable Classic Quiz Creation feature option is enabled, you cannot create new Classic Quizzes. However, existing Classic Quizzes can continue to be edited, imported, and migrated to New Quizzes.</li>
+<li>The options displayed in this lesson are for Classic Quizzes. To set the options for a quiz in New Quizzes, learn how to <a href="/t5/Instructor-Guide/How-do-I-manage-settings-for-a-quiz-in-New-Quizzes/ta-p/581" target="_blank">manage settings for a quiz in New Quizzes</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="name_quiz" data-step-uuid="27fe616f-5c77-4914-8bc0-d3253ccf1028">
+    <h2 id="name_quiz" class="step-title screensteps-heading">Name Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/046/788/original/befc3c70-4f7e-414e-a434-fa6d3f20189e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/046/788/medium/befc3c70-4f7e-414e-a434-fa6d3f20189e.png" srcset="" alt="Name Quiz" height="524" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17883DA0-06B1-0135-3882-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Unnamed Quiz</strong> field, you can add a name for your quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="Create-Quiz-Settings" data-step-uuid="2A0279E4-1056-48B9-884E-458B5EB1F244">
+    <h2 id="Create-Quiz-Settings" class="step-title screensteps-heading">Choose Quiz Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/046/790/original/f23f4a47-d691-483e-a525-ef1b2336f148.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/046/790/medium/f23f4a47-d691-483e-a525-ef1b2336f148.png" srcset="" alt="Choose Quiz Details" height="614" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1788A720-06B1-0135-3884-22000BC102FE" class="text-block-content">
+    <p>When creating a new quiz, Canvas defaults to the Details tab.</p>
+<ol>
+<li>Create any instructions for the Quiz in the <a href="/t5/Canvas-Basics-Guide/What-is-the-Rich-Content-Editor/ta-p/12" target="_blank">Rich Content Editor</a>.</li>
+<li>Select the <a href="/t5/Instructor-Guide/What-quiz-types-can-I-create-in-a-course/ta-p/1251" target="_blank">quiz type</a>.</li>
+<li>Categorize the quiz into the proper Assignment group.</li>
+</ol>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="Set-Quiz-Options" data-step-uuid="C24F6A2E-714B-47D5-832C-F93A8FD59CA3">
+    <h2 id="Set-Quiz-Options" class="step-title screensteps-heading">Set Quiz Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/496/884/original/46520496-6b48-4a18-a0c5-b1a5a73cd24e.png" srcset="" alt="Set Quiz Options" height="473" width="542">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1788DA20-06B1-0135-3886-22000BC102FE" class="text-block-content">
+    <p>Quiz settings have several options.</p>
+<p><strong>Shuffle Answers </strong>[1]:<strong> </strong>You can shuffle (randomize) answers. (You can also shuffle questions by <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-a-question-group-to-randomize-quiz/ta-p/1032" target="_blank">creating a question group</a>.)</p>
+<p><strong>Time Limit</strong> [2]: You can choose to set a time limit by entering the number of minutes students have to complete the entire quiz. Timed quizzes begin once a student begins the exam and <strong>do not pause </strong>if the student navigates away from the quiz. If no time limit is set, students will have unlimited time to complete the quiz.</p>
+<p style="margin-left:20px;"><strong>Notes: </strong></p>
+<ul>
+<li>If a timed quiz is automatically submitted after a student loses internet connectivity, the submission time stamp and time to complete the quiz may not align with the allotted time limit and/or the availability dates.</li>
+<li>If a student loses internet connectivity, Canvas extends the time for five minutes, saving the answer entered before the timer runs out.</li>
+</ul>
+<p><strong>Multiple Attempts </strong>[3]: You can allow multiple attempts.</p>
+<p><strong>Quiz Responses</strong> [4]: You can choose to allow students to view their answers, any automatic feedback generated by the quiz for correct or incorrect answers, and which questions they got wrong. Quizzes default to this option, so if you do not want students to see their quiz responses, deselect the checkbox.</p>
+<p>As part of this option, you can restrict students view of the quiz results to <strong>Only Once After Each Attempt</strong> [5]. Students will only be able to view the results immediately after they have completed the quiz—results include both their responses and the correct answers.</p>
+<p style="margin-left:20px;"><strong>Notes:</strong></p>
+<ul>
+<li>Students will still see their quiz score upon submitting a quiz when this option is enabled. Because of this, this option may not be appropriate for quizzes that require manual grading, such as essay questions, where students may need to access the quiz results multiple times to see an updated quiz score.</li>
+<li>When a quiz is saved with the Only Once After Each Attempt option, you can use the <a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-how-do-I-use-the-Moderate-Quiz-page/ta-p/761" target="_blank">Moderate Quiz</a> feature to give students additional views to their quiz results.</li>
+</ul>
+<p><strong>Correct Answers</strong> [6]: You can allow students to see correct quiz answers after completing the quiz. This setting enables a green Correct tab on every correct answer for the entire quiz. Quizzes default to this option, so if you do not want students to see the correct answers, deselect the checkbox.</p>
+<p>As a part of this option, you can also control when and for how long students can see the correct answers by setting dates (and specific times, if desired) in the Show and Hide fields.</p>
+<ul>
+<li>To show answers immediately after quiz is submitted, leave the Show and Hide fields blank.</li>
+<li>To create a date range to display the answers, set a start date in the Show field and an ending date in the Hide field.</li>
+<li>To always show answers after a specific date, set a date in the Show field.</li>
+<li>To hide answers after a specific date, set a date in the Hide field.</li>
+</ul>
+<p style="margin-left:20px;"><strong>Note:</strong> If the Only Once After Each Attempt option is selected, it will override any show or hide dates or times. If you want to show or hide correct answers on any specific date or time, the Only Once option should not be selected.</p>
+<p><strong>One Question at a Time</strong> [7]: You can show <a href="/t5/Instructor-Guide/How-can-I-create-a-quiz-where-students-only-see-one-question-at/ta-p/1175" target="_blank">one question at a time</a> and lock questions after answering.</p>
+<p style="margin-left:20px;"><strong>Notes:</strong></p>
+<ul>
+<li>Questions will be locked even if a student clicks the Next button without answering the question.</li>
+<li>If your Canvas admin has restricted students from viewing quiz submissions after the course ends, options 4 and 6 will not be available after the course end date has passed.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="View-Expanded-Options" data-step-uuid="1FF13643-B15B-4BB5-824E-0715707CCBE0">
+    <h3 id="View-Expanded-Options" class="step-title screensteps-heading">View Expanded Options</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/415/715/original/308f3d9c-8e1e-4137-87c4-3ce1730e3069.png" srcset="" alt="View Expanded Options" height="620" width="522">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_178909F0-06B1-0135-3888-22000BC102FE" class="text-block-content">
+    <p>A few of the settings contain expanded menu options:</p>
+<p><strong>Allow Multiple Attempts </strong></p>
+<ul>
+<li>
+<strong>Quiz Score to Keep</strong> [1]: You can choose whether to keep the highest score, latest score, or average score of all attempts. By default, Canvas keeps the highest score unless you change this setting. </li>
+<li>
+<strong>Allowed Attempts</strong> [2]: You can allow multiple attempts and limit the number of attempts. The default dashes represent unlimited attempts. </li>
+</ul>
+<p><span style="color:rgb(29,29,29);"><em>If you retain the Quizzes default option for students to see their quiz responses:</em></span></p>
+<ul>
+<li>If you <strong>allow at least one attempt for the quiz</strong>, the Let Students See Their Quiz Responses area will display an Only after their last attempt checkbox [3]. Selecting this option means that students can only see their correct responses after their last quiz attempt. </li>
+<li>If you <strong>allow more than one attempt for the quiz</strong>, please be aware that not all students may complete all attempts and therefore may never see their quiz responses. For instance, if a student has three attempts but achieves their desired score in the second attempt, the student will most likely not complete the third (and last) attempt. That means their quiz responses and correct answers will not appear because the last attempt was not completed. To allow these students to see their responses, you would have to manually change the quiz settings at a later time.</li>
+</ul>
+<p><span style="color:rgb(29,29,29);"><em>If you retain the Quizzes default option for students to see the correct answers:</em></span></p>
+<ul>
+<li>If you <strong>allow at least one attempt for the quiz</strong>, the Let Students See The Correct Answers area will display a Only after their last attempt checkbox [4]. Selecting this option means that students can only see the correct quiz answers after their last attempt. This option will follow the current quiz functionality around multiple attempts. If a student never makes it to the last attempt, the correct answer setting will not apply. To allow the student to view the correct answers, you can manually change the quiz options at a later time.  </li>
+</ul>
+<p><strong>Show One Question at a Time</strong></p>
+<ul>
+<li>
+<strong>Lock questions after answering</strong> [5]: You can choose to lock questions after answering. This option means that students cannot return to the previous question once it has been answered.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_quiz_restrictions" data-step-uuid="ee3fd903-e4f2-403d-8cb9-bfc6d14202c2">
+    <h2 id="set_quiz_restrictions" class="step-title screensteps-heading">Set Quiz Restrictions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/092/original/a703d639-a153-4da6-b9d8-844c4b481613.png" srcset="" alt="Set Quiz Restrictions" height="161" width="516">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17894620-06B1-0135-388A-22000BC102FE" class="text-block-content">
+    <p>You can restrict the quiz so it can only be taken in specific situations. By default, these options are never selected.</p>
+<ol>
+<li>You can require students to enter an access code to take the quiz.</li>
+<li>You can filter IP addresses and require students to take a quiz from a specific computer lab.</li>
+</ol>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If you have the <a href="https://community.canvaslms.com/docs/DOC-10720-67952720329" target="_blank">Respondus LockDown Browser</a> plugin enabled by your institution, using that browser also appears as an option here. The Respondus LockDown Browser does not allow other windows to be opened during the quiz and helps prevent cheating. </li>
+<li>If your institution uses the Respondus LockDown Browser LTI, the Respondus option will not appear under Quiz Restrictions and Respondus LockDown settings can be managed from the LockDown Browser Dashboard in Course Navigation.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_expanded_restrictions" data-step-uuid="78fe27e3-2835-46e9-a15b-abe9fcca7a11">
+    <h3 id="view_expanded_restrictions" class="step-title screensteps-heading">Set Quiz Restrictions</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/103/original/3aeef097-189a-4eb4-86d9-ab747e729737.png" srcset="" alt="View Expanded Restrictions" height="258" width="509">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17897DE0-06B1-0135-388C-22000BC102FE" class="text-block-content">
+    <p>To require an access code, enter the access code in the access code text field [1].</p>
+<p>To filter IP addresses, enter the IP address in the IP address text field [2].</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>An access code may contain any number of characters. </li>
+<li>You can change an access code at any time. This has no effect on students who have already taken the quiz or those who have not. However, if you change the access code while students are taking the quiz, the students may be forced out of the quiz as soon as they answer a question, click the Next button, or cause a page refresh. Students must start the quiz again using the new access code.</li>
+<li>Quiz IP filters are a way to limit access to quizzes to computers in a specified IP range. Filters can be a comma-separated list of addresses, or an address followed by a mask (i.e., 192.168.217.1/24 or 192.168.217.1/255.255.255.0). For more information on these masks, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/IP-Filtering-in-Canvas/ta-p/387089" target="_blank">IP Filtering in Canvas resource document</a>.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_quiz_and_dates" data-step-uuid="031E5F49-49D8-4BAD-A2A2-76BD101D4046">
+    <h2 id="assign_quiz_and_dates" class="step-title screensteps-heading">Assign Quiz and Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/101/original/42457dee-bcf5-4bd3-a207-45fd077dbdb5.png" srcset="" alt="Assign Quiz and Dates" height="366" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1789B2B0-06B1-0135-388E-22000BC102FE" class="text-block-content">
+    <p>In the Assign field [1], you can assign the quiz to everyone, a <a href="/t5/Instructor-Guide/How-do-I-assign-a-quiz-to-a-course-section/ta-p/907" target="_blank">course section</a>, or an <a href="/t5/Instructor-Guide/How-do-I-assign-a-quiz-to-an-individual-student/ta-p/714" target="_blank">individual student.</a></p>
+<p>You can set the Due Date [2], Available From date [3], and available Until date [4] for the quiz. These fields are optional and can be set depending how you want to manage the quiz: </p>
+<ul>
+<li>
+<strong>Due Date: </strong>the date and time that the Quiz is due</li>
+<li>
+<strong>Available From: </strong>the date and time when the Quiz will become available for students to take the quiz</li>
+<li>
+<strong>Until: </strong>the date and time when students can no longer take the quiz</li>
+</ul>
+<p><a href="/t5/Instructor-Guide/What-is-the-difference-between-assignment-due-dates-and/ta-p/897" target="_blank">Learn more about due and availability dates</a>. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Changing who the quiz is assigned to after the quiz is made available to students may result in submissions becoming unavailable.</li>
+<li>If you have set section override dates in your course, you may need to select a <a href="/t5/Instructor-Guide/How-do-I-assign-a-quiz-to-a-course-section/ta-p/907" target="_blank">course section</a> and set due and availability dates that fall within the section override dates.</li>
+<li>If you change the due date of a quiz that students have already begun but not submitted, their quiz submissions will auto-submit based on the date and time of the original due date.</li>
+<li>For auto-submitted quizzes, the submission time stamp reflects a five minute grace period that begins once the due date and time have passed and may not align with the assigned due date and time.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_quiz_questions" data-step-uuid="3fa9a784-04d2-44f4-a9ef-af018fe11320">
+    <h2 id="create_quiz_questions" class="step-title screensteps-heading">Create Quiz Questions</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/046/792/original/4ebc66cc-82c5-4e44-8ba7-76026f58d73d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/046/792/medium/4ebc66cc-82c5-4e44-8ba7-76026f58d73d.png" srcset="" alt="Create Quiz Questions" height="524" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1789E6C0-06B1-0135-3890-22000BC102FE" class="text-block-content">
+    <p>Once you have set up the settings for your quiz, click the <strong>Questions</strong> tab to create the quiz questions and points. You can create <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">individual quiz questions</a>, questions with a <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-by-finding-questions-in-a-question-bank/ta-p/1034" target="_blank">question bank</a>, questions with a <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-a-question-group-to-randomize-quiz/ta-p/1032" target="_blank">question group</a>, and questions with a <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-a-question-group-linked-to-a/ta-p/1033" target="_blank">question bank in a question group</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_quiz" data-step-uuid="352FDF90-2541-4EC0-83DE-D401F55CBBFB">
+    <h2 id="save_quiz" class="step-title screensteps-heading">Save Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/096/original/27ce2e17-f570-45a2-bc4b-1d32fc256aad.png" srcset="" alt="Save Quiz" height="66" width="318">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_178A1600-06B1-0135-3892-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Save</strong> button to save your work on your quiz. </p>
+<p><strong>Note:</strong> You should not publish your quiz until it is your final product. If you are ready to publish your quiz and make it available to students, click the <strong>Save &amp; Publish</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="unpublished_quiz_options" data-step-uuid="37A822DD-2438-4A4F-B6CB-FE6AEF99233A">
+    <h2 id="unpublished_quiz_options" class="step-title screensteps-heading">Unpublished Quiz Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/479/original/7e48040f-1294-4084-8464-fe18a651531b.png" srcset="" alt="Unpublished Quiz Options" height="231" width="664">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_178A5230-06B1-0135-3894-22000BC102FE" class="text-block-content">
+    <p>Once you save your quiz, you have several quiz options. </p>
+<p>To publish the quiz, click the <strong>Publish </strong>button [1]. Publishing a quiz means that students will be able to see the quiz in the course. </p>
+<p>Before publishing the quiz, if you want to see the student view and make sure it appears correctly, click the <strong>Preview </strong>button [2]. To edit the quiz, click the <strong>Edit</strong> button [3]. </p>
+<p>You can also view more options in the <strong>Options</strong> menu [4]:</p>
+<ul>
+<li>
+<strong>Show the rubric</strong> for a quiz to evaluate student answers, such as for essay questions (learn how to <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-a-quiz/ta-p/1009" target="_blank">add a rubric</a>) [5].</li>
+<li>
+<strong>Lock this quiz now</strong> so that students cannot access the quiz once it is published [6]. The quiz title will still be visible to students but they will be unable to open the quiz. This option only applies to quizzes that are assigned to Everyone.</li>
+<li>
+<strong>Delete</strong> this quiz [7].</li>
+</ul>
+<p><strong>Note:</strong> If you want to hide the quiz from student view, do not publish the quiz. When the quiz is unpublished, it can only be viewed by the instructor. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unlock_quiz" data-step-uuid="93ee5f29-850d-46b0-9461-0b326ca086f7">
+    <h3 id="unlock_quiz" class="step-title screensteps-heading">Unlock Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/481/original/180c2247-95cd-4879-8462-8738a91cc2f6.png" srcset="" alt="Unlock Quiz" height="230" width="598">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_178A8680-06B1-0135-3896-22000BC102FE" class="text-block-content">
+    <p>To unlock a quiz, click the <strong>Options</strong> icon [1] and click the <strong>Let Students Take this Quiz Now </strong>link [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/089/original/4a31e1d9-e318-4362-860a-f47938833cc9.png" srcset="" alt="Unlock Quiz Limit" height="228" width="405">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_178AB840-06B1-0135-3898-22000BC102FE" class="text-block-content">
+    <p>To unlock a quiz indefinitely, click the <strong>No time limit</strong> radio button [1]. If you prefer to unlock a quiz until a specific date and time, click the <strong>Until </strong>radio button [2] and use the calendar icon [3] to select the date and time. Click the <strong>Unlock</strong> button [4] when you are done. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="published_quiz_options" data-step-uuid="69C24D15-1605-4B20-9140-009DE1DE9A7E">
+    <h2 id="published_quiz_options" class="step-title screensteps-heading">Published Quiz Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/407/970/original/0fa1ae42-ccb9-4bd2-a2de-9a7818fc98ed.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/407/970/medium/0fa1ae42-ccb9-4bd2-a2de-9a7818fc98ed.png" srcset="" alt="Published Quiz Options" height="560" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_178AE810-06B1-0135-389A-22000BC102FE" class="text-block-content">
+    <p>Once you publish a quiz, you can view additional options. </p>
+<p>In addition to the options available for unpublished quizzes, in the <strong>Options </strong>menu [1], you can:</p>
+<ul>
+<li>
+<strong>Preview</strong> the quiz [2]</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-view-student-results-in-a-quiz/ta-p/1114" target="_blank">View quiz results</a> as well as a list of who has taken the quiz and who has not [3]</li>
+<li>
+<strong>Message students who</strong> have taken the quiz already or who haven't yet taken the quiz [4]</li>
+</ul>
+<p>In the sidebar, you also have access to related quiz features:  </p>
+<ul>
+<li>Show quiz <a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-what-kinds-of-quiz-statistics-are/ta-p/659" target="_blank">statistics</a> [5]</li>
+<li>
+<a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-how-can-I-give-my-students-extra-attempts/ta-p/1242" target="_blank">Moderate this quiz</a> and grant students more time or additional attempts (this option can be used for any <a href="null" target="_blank" rel="nofollow noopener noreferrer">type of quiz</a>) [6]</li>
+<li>Grade quiz in the <a href="/t5/Instructor-Guide/How-do-I-use-SpeedGrader/ta-p/757" target="_blank">SpeedGrader</a> [7]</li>
+</ul>
+<p>You can also hide grades from students by <a href="/t5/Instructor-Guide/How-do-I-use-posting-policies-in-a-course/ta-p/928" target="_blank">using posting policies</a> in the gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

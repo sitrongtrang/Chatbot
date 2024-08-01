@@ -1,0 +1,132 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_24E7C830-1ED5-0135-9B40-22000AB760A3" class="text-block-content">
+    <p>After the first time you take roll call, Canvas automatically creates an assignment for Roll Call Attendance and adds a column to the Gradebook. By default, attendance is worth 100 points.</p>
+<p>To avoid Attendance calculation errors, you should not delete, rename, or unpublish the Attendance assignment. If the Attendance assignment is deleted, the Roll Call tool will not be able to take attendance. Canvas will automatically create a new Attendance assignment within 15 minutes after a failed attendance attempt due to a deleted Attendance assignment.</p>
+<p>Instructors can edit several components of the Roll Call Attendance assignment: </p>
+<ul>
+<li>If you are using weighted assignment groups, you can create a new weighted assignment group and move the attendance assignment into that group. </li>
+<li>You can edit the assignment and change the point value.</li>
+<li>You can remove Attendance from the Gradebook completely by changing the assignment type.</li>
+</ul>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The Attendance assignment will not appear until you have taken roll for at least one student. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_weighted_assignment_group" data-step-uuid="0c6c59c2-d5a9-4a83-a871-ebf8f2842b3d">
+    <h2 id="create_weighted_assignment_group" class="step-title screensteps-heading">Create Weighted Assignment Group</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/183/422/original/fd2c7f39-5217-4fb5-a0a5-a0587f936d70.png" srcset="" alt="Create Weighted Assignment Group" height="212" width="669">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24E7F9B0-1ED5-0135-9B42-22000AB760A3" class="text-block-content">
+    <p>If you are using <a href="/t5/Instructor-Guide/How-do-I-weight-the-final-course-grade-based-on-assignment/ta-p/746" target="_blank">weighted assignment groups</a> and would rather set grade weighting for attendance, you can create a new weighted assignment group for Attendance. You can drag and drop the Roll Call Attendance assignment by clicking and grabbing the handle icon. </p>
+<p><strong>Note:</strong> You can also move the assignment by editing the assignment, locating the Assignment Group menu, selecting the name of the assignment group, and saving the assignment.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_and_save_percentage_value" data-step-uuid="fa10b11e-188e-4eb4-b9bc-e75b2c530784">
+    <h3 id="edit_and_save_percentage_value" class="step-title screensteps-heading">Edit and Save Percentage Value</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/048/174/original/cf6f4988-8fb9-46e5-bd66-da5d1744d88c.png" srcset="" alt="Edit and Save Percentage Value" height="535" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24E82AC0-1ED5-0135-9B44-22000AB760A3" class="text-block-content">
+    <p>In Assignment Settings, click the weight final grade checkbox [1]. Set the group percentage value to your preferred percentage value (zero up to 100) [2], then click the <strong>Save</strong> button [3]. </p>
+<p>Make sure the Attendance assignment is moved into the Roll Call assignment group. </p>
+<p>The percentage value you set for the group will control the point value assigned to the Attendance assignment, despite the assigned point value.</p>
+<p><strong>Note:</strong> If you want to set the percentage value as zero, the point value for the assignment must be higher than zero. Canvas cannot calculate weighted assignment groups with zero points possible.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="change_point_value" data-step-uuid="37f24eb4-6ce6-4bcf-aa1a-9ef66360be0f">
+    <h2 id="change_point_value" class="step-title screensteps-heading">Change Point Value</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/786/679/original/e660130b-cdbc-4312-970f-23450dc8c84d.png" srcset="" alt="Change Point Value" height="389" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24E85BD0-1ED5-0135-9B46-22000AB760A3" class="text-block-content">
+    <p>If you are not using weighted assignment groups and just want to edit the points assigned for Attendance, you can edit the point value in the assignment. However, this adjustment is only recommended if (1) you are never going to change the point value again <em>and</em> (2) you make the adjustment after your first roll call entry. </p>
+<p>To change the point value for the assignment, edit the assignment, then in the points field [1], enter the new point value for attendance. At the bottom of the window, click the <strong>Save </strong>button [2].</p>
+<p><strong>Note: </strong>The Attendance assignment will not appear until you have taken roll for at least one student. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_roll_call" data-step-uuid="54484f89-b54d-43c3-b50c-685229a7e88a">
+    <h3 id="edit_roll_call" class="step-title screensteps-heading">Edit Roll Call</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/570/483/original/0bca757a-47db-492c-b655-0a0d03b9c347.png" srcset="" alt="Edit Roll Call" height="289" width="426">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24E88E00-1ED5-0135-9B48-22000AB760A3" class="text-block-content">
+    <p>The Gradebook doesn't currently adjust point value changes accurately after point values have been changed, and the percentage values in the SpeedGrader and the Gradebook will be incorrect. </p>
+<p>Return to roll call, click the <strong>Unmark All</strong> button, and then take attendance for all students as normal. The percentage value will then adjust correctly in both SpeedGrader and the Gradebook. If you make this change immediately after the first time you take roll in your course and edit the point value, you only have to adjust your work once.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove_from_gradebook" data-step-uuid="8e36de7d-4850-4194-80bb-0cbd826bbe6d">
+    <h2 id="remove_from_gradebook" class="step-title screensteps-heading">Remove from Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/048/173/original/22069bb6-973d-46b8-b238-073d403fc181.png" srcset="" alt="Remove from Gradebook" height="497" width="660">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24E8C210-1ED5-0135-9B4A-22000AB760A3" class="text-block-content">
+    <p>If you do not want Attendance to appear in the Gradebook as a graded assignment, you can edit the Attendance assignment and change the assignment type. Students can still view the assignment but it will not appear in their grades.</p>
+<p>To remove the assignment from the Gradebook, edit the attendance assignment, then in the Display Grade as menu [1], select the Not Graded option. At the bottom of the window, click the <strong>Save</strong> button [2].</p>
+<p><strong>Note:</strong> Once you have changed the assignment type, you cannot change it back to a graded assignment. <em>Please ensure you do not want to grade Attendance before changing the assignment type.</em> <strong> </strong></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="exclude_from_final_grade" data-step-uuid="11e308cc-57db-4f7e-9280-82aae85d78a5">
+    <h2 id="exclude_from_final_grade" class="step-title screensteps-heading">Exclude from Final Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/593/942/original/792349f2-c4fc-4499-8c02-4d2336474e73.png" srcset="" alt="Exclude from Final Grade" height="207" width="545">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_24E8F720-1ED5-0135-9B4C-22000AB760A3" class="text-block-content">
+    <p>If you do not want the Roll Call Attendance assignment to be calculated in the final grade, you can choose to exclude the assignment from final grade calculations.</p>
+<p>You can manage this setting in attendance assignment settings and in Roll Call settings.<em> However, it's recommended to manage this setting in </em><a href="/t5/Instructor-Guide/How-do-I-use-the-Roll-Call-Attendance-tool-in-a-course/ta-p/1003" target="_blank"><em>Roll Call Settings</em></a><em>. </em></p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

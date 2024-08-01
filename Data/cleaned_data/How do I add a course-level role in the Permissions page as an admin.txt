@@ -1,0 +1,16 @@
+How do I add a course-level role in the Permissions page as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Permissions
+In Account Navigation, click the Permissions link.
+Add Role 
+In the Course Roles tab, click the Add Role button.
+Add Role Name
+In the Role Name field, type the name of the new role.
+Select User Type
+In the Base Type field, select the type of user you want to apply to the role. You can choose from student, teacher, TA, designer, or observer.
+The base role you select will determine the default permissions for the new user role.
+Save Role
+Click the Save button.
+View Course Role
+View the new course-level role.

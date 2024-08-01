@@ -1,0 +1,144 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F14593D0-1D4C-0135-CA66-22000B5A851D" class="text-block-content">
+    <p>You can edit or delete outcomes in your account. Outcomes can be modified if they have been used to assess students, but any changes may affect student results. </p>
+<p>This article displays how to edit or delete an outcome in the classic Outcomes page view. If the Outcomes page in your account displays differently than the images in this article, <a href="/t5/Admin-Guide/How-do-I-edit-or-remove-an-account-outcome-in-Improved-Outcomes/ta-p/486339" target="_blank">learn how to edit or remove an outcome in an account</a> that has enabled the Improved Outcomes Management feature option.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>You can modify any outcomes where you have permission.</li>
+<li>Outcomes that have been aligned with an assignment or question bank cannot be deleted unless they are removed from the assignment or question bank. Outcomes that have been used to assess a student cannot be deleted.</li>
+<li>If you cannot edit mastery scales and calculation methods for an outcome, your institution has enabled account-wide <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-scales-in-an-account/ta-p/429017" target="_blank">mastery scales</a> and <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-calculations-in-an-account/ta-p/429016" target="_blank">calculation methods</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="19f0e915-e25e-4ac6-b5af-39756061e59f">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F146AF00-1D4C-0135-CA68-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="6c35b220-09a5-459d-956c-fd21b0f29883">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/752/362/original/98822e97-4e3f-4c66-997a-622f8cf76c83.png" srcset="" alt="Open Outcomes" height="296" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F146E260-1D4C-0135-CA6A-22000B5A851D" class="text-block-content">
+    <p>In Account or Sub-Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_outcome_or_outcome_group" data-step-uuid="f336cba4-0bbc-47a5-a1ba-8f1ac7f5d167">
+    <h2 id="select_outcome_or_outcome_group" class="step-title screensteps-heading">Select Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/680/original/f529d1a9-c366-420b-8f9f-35c5446027f2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/680/medium/f529d1a9-c366-420b-8f9f-35c5446027f2.png" srcset="" alt="Select Outcome or Outcome Group" height="266" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F14717D0-1D4C-0135-CA6C-22000B5A851D" class="text-block-content">
+    <p>Locate the outcome you want to modify.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modify_outcome" data-step-uuid="e181b6a4-1f15-4912-9d99-64c05cc21f58">
+    <h2 id="modify_outcome" class="step-title screensteps-heading">Modify Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/683/original/f8b2cdd8-3f56-4d8c-8af2-996aa9eed4a0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/683/medium/f8b2cdd8-3f56-4d8c-8af2-996aa9eed4a0.png" srcset="" alt="Modify Outcome" height="528" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F1480900-1D4C-0135-CA70-22000B5A851D" class="text-block-content">
+    <p>To edit an outcome, click the <strong>Edit</strong> button [1]. Editing an outcome lets you change the outcome name, description, calculation method, and other elements as set when <a href="/t5/Admin-Guide/How-do-I-create-an-outcome-for-an-account/ta-p/128" target="_blank">creating an account outcome.</a></p>
+<p>When you are finished with your edits, click the <strong>Save</strong> button.</p>
+<p>To delete an outcome, click the <strong>Delete </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcome-edit-confirmation" data-step-uuid="05ffe1c3-9326-4e66-aa49-deee515ebca6">
+    <h2 id="view-outcome-edit-confirmation" class="step-title screensteps-heading">View Outcome Edit Confirmation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/446/371/original/b1fd5310-da52-416c-adff-ff62f9305270.png" srcset="" alt="View Outcome Edit Confirmation" height="290" width="522">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cb4d3c50-0b39-478a-a67a-8809c0868a3f" class="text-block-content">
+    <p>If you edit an outcome that has been used to assess a student, Canvas displays a message notifying you that your edits will update all outcomes associated with a rubric that has not been assessed.</p>
+<p>Click the <strong>Save </strong>button.</p>
+<p><strong>Note:</strong> This message only displays for outcomes you modify that have not been used to assess a student. If this confirmation message does not display, the outcome is associated with more than one rubric and edits cannot be updated. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assessed_outcome" data-step-uuid="171e82f6-47ea-4c05-a020-0922969a1a90">
+    <h2 id="view_assessed_outcome" class="step-title screensteps-heading">View Assessed Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/380/676/original/42f5dad6-0b32-4f0c-9104-3a0eda93b56f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/380/676/medium/42f5dad6-0b32-4f0c-9104-3a0eda93b56f.png" srcset="" alt="View Assessed Outcome" height="528" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F1474EF0-1D4C-0135-CA6E-22000B5A851D" class="text-block-content">
+    <p>If an outcome has already been used to assess a student, some modifications may affect student results [1].</p>
+<p>To view any aligned items and student assessments for a particular outcome, click the name of the outcome [2]. These assignments and rubrics may be affected when you edit the outcome.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-scoring-edits-confirmation" data-step-uuid="257aaae7-0ac3-4cac-a677-cbdb0f8c2516">
+    <h2 id="view-scoring-edits-confirmation" class="step-title screensteps-heading">View Scoring Edits Confirmation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/448/977/original/1672b9b4-bc13-4118-910c-63b3c8cb8150.png" srcset="" alt="View Scoring Edits Confirmation" height="287" width="512">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_58203c01-d373-4b67-88a9-4333e337adfb" class="text-block-content">
+    <p>If you are editing scoring details on an outcome that has been used to assess students, Canvas displays a message notifying you that your edits will affect all students previously assessed using the outcome. Scoring changes only affect a student's learning mastery score in the Learning Mastery Gradebook for the edited outcome. When scoring criteria is edited, the learning mastery values scale for assessed rubrics according to the original points possible. </p>
+<p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

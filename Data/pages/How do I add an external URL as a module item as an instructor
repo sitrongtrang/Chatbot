@@ -1,0 +1,121 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8181A010-2206-0135-3CDC-22000AB760A3" class="text-block-content">
+    <p>You can add a URL link to your modules.</p>
+<p>When adding an External URL to a module, the dialog box includes an option to load the URL in a new browser tab. When this option is selected, Canvas will display the page to students outside of Canvas. If the External URL is part of a module requirement, Canvas will also register the progression so that the module footer will appear and allow the student to advance to the next module item. </p>
+<p>When this option is not selected, the content is embedded in an iFrame for easy viewing. However, some sites have disabled embedding and require users to open the content in a new window. Users can open the link in a new window by right-clicking the link and selecting the option to view in a new window or tab.</p>
+<p><strong>Note</strong>: Numerous module items may affect performance. Modules supports up to 100 module items in the <a href="/t5/Instructor-Guide/How-do-I-use-modules-to-view-the-progress-of-students-in-a/ta-p/973" target="_blank">student progress page</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="039BF2B4-9FE0-4127-A793-66ECCBA48A23">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/081/original/4222f3f3-035a-4967-bf59-ef2090cd4f51.png" srcset="" alt="Open Modules" height="246" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8181D380-2206-0135-3CDE-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_module_item" data-step-uuid="b26c738b-cb0a-4dbf-a074-882fd7bdc883">
+    <h2 id="add_module_item" class="step-title screensteps-heading">Add Module Item</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/446/257/original/1d493bcf-06ee-4ae5-91b7-fa857e5d3ffd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/446/257/medium/1d493bcf-06ee-4ae5-91b7-fa857e5d3ffd.png" srcset="" alt="Add Module Item" height="91" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_818208B0-2206-0135-3CE0-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Item</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_external_url" data-step-uuid="062D4590-AC77-4D58-A2A6-E4F7AC3184B6">
+    <h2 id="add_external_url" class="step-title screensteps-heading">Add External URL</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/773/586/original/9e0f0705-6f44-482b-aba4-316bfcbcde4d.png" srcset="" alt="Add External URL" height="421" width="538">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81824230-2206-0135-3CE2-22000AB760A3" class="text-block-content">
+    <p>In the <strong>Add [Item Type] To:</strong> drop-down menu, select the External URL option.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="04AAE7F3-DA81-404C-864D-EE5FCECF964E">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/773/592/original/e3657fed-d122-4391-8bee-1d9e0dbb3086.png" srcset="" alt="Add URL Details" height="421" width="551">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81827650-2206-0135-3CE4-22000AB760A3" class="text-block-content">
+    <p>Type or paste the URL in the URL field [1]. </p>
+<p>Give your External URL a page name [2]. </p>
+<p>To have the URL open in a new browser tab, click the <strong>Load in a new tab</strong> checkbox [3]. When adding external URLs as module items in the future, the option you select, to open the URL in the existing tab or a new tab, displays as the default.</p>
+<p>Choose whether or not to indent the item in the module drop-down menu [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_item" data-step-uuid="558c56dd-696b-4a3a-be04-895555459523">
+    <h2 id="add_item" class="step-title screensteps-heading">Add Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/773/582/original/806b16a9-23ce-4d6f-bb20-344515d82e96.png" srcset="" alt="Add Item" height="66" width="195">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8182A850-2206-0135-3CE6-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Item</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_module" data-step-uuid="64F51B7E-131D-46EB-ADA3-5CFE169D8C98">
+    <h2 id="view_module" class="step-title screensteps-heading">View Module</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/385/794/original/b12a0ea9-3080-4f35-bf2a-f369747cf6d3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/385/794/medium/b12a0ea9-3080-4f35-bf2a-f369747cf6d3.png" srcset="" alt="View Module" height="386" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8182DDA0-2206-0135-3CE8-22000AB760A3" class="text-block-content">
+    <p>View the external URL in your module.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

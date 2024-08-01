@@ -1,0 +1,160 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_D4B699F0-E0DA-0138-3F2B-12F2183ABDFB" class="text-block-content">
+    <p>There are different icons on the Grades page. Depending on the type of assignment submission, grading rules, and comments, you will see different icons.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submission_type_icons" data-step-uuid="D4B6AC90-E0DA-0138-3F2C-12F2183ABDFB">
+    <h2 id="submission_type_icons" class="step-title screensteps-heading">Submission Type Icons</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/049/283/original/acf55c19-6568-48cb-9004-b6313520ee96.png" srcset="" alt="Submission Type Icons" height="658" width="269">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11415ac3-6ff8-4e8d-a4d7-c4fd4a8c7a1a" class="text-block-content">
+    <p>The following icons represent different assignment submission types on your Grades page:</p>
+<ul>
+<li>
+<strong>Document Icon</strong> [1]: File upload submitted, not graded</li>
+<li>
+<strong>Text Icon</strong> [2]: Text entry submitted, not graded</li>
+<li>
+<strong>New Quiz</strong> Icon [3]: New Quiz submitted, not fully graded (contains questions that must be manually graded, or an auto-submitted quiz score has been deleted and needs to be reassigned); can also display if a quiz has been edited and includes major changes that affect the quiz score, such as deleting questions or deleting quiz answers, and requires a grader to manually resolve</li>
+<li>
+<strong>Discussion Icon </strong>[4]: Graded discussion submitted, but not graded</li>
+<li>
+<strong>Link Icon</strong> [5]: A URL has been submitted, not graded</li>
+<li>
+<strong>Visibility Icon</strong> [6]: Score is hidden while instructor is grading; you will not be able to view your grade, submission comments, or quiz responses until your instructor posts grades for the assignment</li>
+<li>
+<strong>Quiz icon</strong> [7]: Quiz submitted, not fully graded (contains questions that must be manually graded, or an auto-submitted quiz score has been deleted and needs to be reassigned); can also display if a quiz has been edited and includes major changes that affect the quiz score, such as deleting questions or deleting quiz answers, and requires a grader to manually resolve</li>
+<li>
+<strong>Media Icon</strong> [8]: Media recording submitted, not graded</li>
+</ul>
+<p><strong>Note:</strong> Some external tool assignments may display a dash instead of a submission icon after your student submits the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submission_details_icons" data-step-uuid="D4B6E450-E0DA-0138-3F2F-12F2183ABDFB">
+    <h2 id="submission_details_icons" class="step-title screensteps-heading">Submission Details Icons</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/049/286/original/bd66382e-af40-4f8a-b6ec-a9e49b4fe481.png" srcset="" alt="Submission Details Icons" height="255" width="289">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D4B70FF0-E0DA-0138-3F31-12F2183ABDFB" class="text-block-content">
+    <p>When your student's teacher grades your student's assignment, the grades page displays a blue dot next to the assignment [1]. The indicator disappears when you navigate away or refresh the page.</p>
+<p>Assignment updates may also include additional icons representing submission details:</p>
+<ul>
+<li>
+<strong>Check Plus Icon</strong> [2]: Scoring details </li>
+<li>
+<strong>Rubric Icon</strong> [3]: Rubric details</li>
+<li>
+<strong>Discussion Icon</strong> [4]: Assignment comments</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="grading_types" data-step-uuid="D4B72460-E0DA-0138-3F32-12F2183ABDFB">
+    <h2 id="grading_types" class="step-title screensteps-heading">Grading Types</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/049/289/original/b25c301a-7874-46f5-8392-cdd757b93a0a.png" srcset="" alt="Grading Types" height="746" width="339">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57858d33-19c7-470b-97ba-c4810db37825" class="text-block-content">
+    <p>Each grading type shows up differently on the Grades page. Here you can see how each grading type is represented:</p>
+<ul>
+<li>
+<strong>GPA</strong> [1]: GPA scale</li>
+<li>
+<strong>Letter</strong> [2]: Letter grade</li>
+<li>
+<strong>Percentage</strong> [3]: Grade shown as a percentage</li>
+<li>
+<strong>Dash</strong> [4]: No submission</li>
+<li>
+<strong>Check Icon</strong> [5]: Complete grade</li>
+<li>
+<strong>Grade Info Icon</strong> [6]: Points earned from this assignment do not count toward your final grade</li>
+<li>
+<strong>Number</strong> [7]: Grade shown by number of points</li>
+<li>
+<strong>EX</strong> [8]: Excused assignment; this assignment cannot be submitted but does not factor into your overall grade</li>
+<li>
+<strong>X Icon</strong> [9]: Incomplete grade</li>
+</ul>
+<p><strong>Note: </strong>A dash may still display in the Grades page after your student submits an assignment for an external tool assignment</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="colors" data-step-uuid="D4B76730-E0DA-0138-3F35-12F2183ABDFB">
+    <h2 id="colors" class="step-title screensteps-heading">Colors</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/049/292/original/986a7d2d-19ef-441e-a884-d13823724207.png" srcset="" alt="Colors" height="186" width="311">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D4B796E0-E0DA-0138-3F37-12F2183ABDFB" class="text-block-content">
+    <p>When an assignment's details display in gray text, this assignment has been dropped as part of an assignment group calculation and does not factor into your student's total score.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="status" data-step-uuid="D4B7AEB0-E0DA-0138-3F38-12F2183ABDFB">
+    <h2 id="status" class="step-title screensteps-heading">Status</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/049/296/original/0e0da624-9919-46de-b31c-09cd79b8bc69.png" srcset="" alt="Status" height="190" width="332">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D4B7DD80-E0DA-0138-3F3A-12F2183ABDFB" class="text-block-content">
+    <p>The status column displays labels for assignments that are late or missing. If an assignment has not been submitted by the due date, it is identified as missing [1]. If an assignment was submitted after the due date, it is identified as late [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="originality-report" data-step-uuid="D4B7EF70-E0DA-0138-3F3B-12F2183ABDFB">
+    <h2 id="originality-report" class="step-title screensteps-heading">Originality Report</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/064/749/original/a0205e03-b116-4466-a76a-b2d0061322f4.png" srcset="" alt="Originality Report" height="428" width="831">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D4B81AA0-E0DA-0138-3F3D-12F2183ABDFB" class="text-block-content">
+    <p>If your student's teacher uses an originality tool, you may be able to view an originality report for your student's submission. To view the originality report, click the <strong>Originality Report</strong> icon [1]. The icon color indicates the percentage of text matched by the originality tool. A timer icon indicates the originality tool is still checking your student's submission [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

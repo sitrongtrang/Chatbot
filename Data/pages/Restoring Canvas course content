@@ -1,0 +1,106 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_FFF58A30-6C84-0138-F747-0A3B69813FB9" class="text-block-content">
+    <p>There are a number of ways course content can seem to disappear, but as an account administrator, there are tools you can use to locate it.</p>
+<p>If you are not a Canvas administrator, you will want to contact your school’s Canvas administrator team for assistance. If you are a student, contact your instructor.</p>
+<p><strong>Note: </strong>We recommend that instructors do not add or grade any content in a course with missing content.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-title" data-step-uuid="FFF59CB0-6C84-0138-F748-0A3B69813FB9">
+    <h2 id="step-title" class="step-title screensteps-heading">Confirm Content was not Deleted</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_FFF5BE90-6C84-0138-F74A-0A3B69813FB9" class="text-block-content">
+    <p>If all the content is missing in the course, being directly deleted is unlikely. However, you will want to confirm with the instructor that the course content was not deleted by them, any co-instructors, or TAs. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="check-course-activity-in-admin-tools" data-step-uuid="2e591083-b0e6-4516-aaf1-e93c74f66145">
+    <h2 id="check-course-activity-in-admin-tools" class="step-title screensteps-heading">Check Course Activity in Admin Tools</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/360/526/original/c0857f8e-a264-4fef-b40b-1694aedd2ac5.png" srcset="" alt="Check Course Activity in Admin Tools" height="938" width="750">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0087637b-4fd6-4f53-a3fd-ce227e04b14c" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], and then the main account for the school [2]. </p>
+<p>In Account Navigation, click the <strong>Admin Tools</strong> link [3]. Then click the <strong>Logging</strong> tab [4].</p>
+<p>In the Logging tab, <a href="https://community.canvaslms.com/docs/DOC-10763-4214179318" target="_blank">use the Course Activity search</a> to locate the logs for the instructor’s current course [5].</p>
+<p>Once you have located the course activity, confirm if the course was reset. </p>
+<p>If the course was not reset, you will want to confirm if the course was recently created. </p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="restore-reset-course" data-step-uuid="09ba5c42-8401-4ba0-8bf3-61a9b95944fb">
+    <h2 id="restore-reset-course" class="step-title screensteps-heading">Restore Reset Course</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/360/530/original/08a35c93-db6a-476e-82c2-999aaf919292.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/360/530/medium/08a35c93-db6a-476e-82c2-999aaf919292.png" srcset="" alt="Restore Reset Course" height="481" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2540290e-3248-43df-95ee-f448b93bfcfd" class="text-block-content">
+    <p>If the course was reset, click the <strong>View Details</strong> link to get more information.</p>
+<p>In the details dialog, click the course listed in the Reset From field. This will correctly take you to a page error, as the course is deleted.</p>
+<p>Then in the browser address bar, copy or note the Canvas course ID. This is the number after /courses in the URL, e.g. <a href="https://canvas.instructure.com/courses/#COURSEID" target="_blank" rel="nofollow noopener noreferrer">https://canvas.instructure.com/courses/#COURSEID</a>.</p>
+<p>Once you have the course ID, <a href="https://community.canvaslms.com/docs/DOC-10861-4214106683" target="_blank">you can restore the original course using Restore Course Tab in the Admin Tools</a>.</p>
+<p>After you’ve restored the original course, you will need to re-add the enrollments. To do this, <a href="https://community.canvaslms.com/docs/DOC-10885-4214719646" target="_blank">you will cross-list the section(s)</a> with the enrollments back to the original course. </p>
+<p>Then, confirm all course content and grades have been restored.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="use-the-beta-test-environment-to-locate-course" data-step-uuid="31d8eb6c-e168-48a4-96dc-b53e01411d92">
+    <h2 id="use-the-beta-test-environment-to-locate-course" class="step-title screensteps-heading">Use the Beta/Test Environment to Locate Course </h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8bf535ff-c293-4c46-9474-6aed5eb7d515" class="text-block-content">
+    <p>If the course was not reset, most likely the course had a change in SIS ID that created a new course and moved any sections and enrollments into that new course. </p>
+<p>In this case, if you do not know the original SIS ID, we will need to locate the original course. </p>
+<p>The first option is <a href="https://community.canvaslms.com/docs/DOC-10799-4214717430" target="_blank">to go to the user’s account in the beta or test</a> environments. In the test environment, you will locate the course, and confirm if there is course content or grades.</p>
+<p>From there, <a href="https://community.canvaslms.com/docs/DOC-10885-4214719646" target="_blank">you can get the original course ID from the address bar, and cross-list the sections back into that ...</a>, which should restore the course content and grades.</p>
+<p>Be aware of beta and test reset schedules, so there is a chance that the original course will not be available.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="use-the-instructor-s-page-views" data-step-uuid="9e982601-459f-4411-88be-66366a60afbb">
+    <h2 id="use-the-instructor-s-page-views" class="step-title screensteps-heading">Use the Instructor’s Page Views </h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_15e9e80b-f709-4ca8-83ac-ac1f70fd58ed" class="text-block-content">
+    <p>If the beta or test environments do not have the original course and course content, you have the option of using the instructor’s page views to attempt to locate the course. </p>
+<p>Navigate to the instructor’s account user page, <a href="https://community.canvaslms.com/docs/DOC-10818-421473702" target="_blank">then locate the page views at the bottom</a>.</p>
+<p>Scroll through the page views and search courses the instructor has accessed recently. You will need to manually check each course to confirm if it is the course that has the missing content. You want to locate the course that has the same, or similar, name. Then, check for course content, and if the enrollments are missing.</p>
+<p>Once you locate the original course, <a href="https://community.canvaslms.com/docs/DOC-10885-4214719646" target="_blank">you can get the original course ID from the address bar, and cross-list the sections back into that ...</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

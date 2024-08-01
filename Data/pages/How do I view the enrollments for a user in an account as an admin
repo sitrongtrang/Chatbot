@@ -1,0 +1,169 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_36886810-1D82-0135-01EE-22000AB760A3" class="text-block-content">
+    <p>As an admin, you can view all course, group, and account enrollments for a user in your account.</p>
+<p>This page also allows you to quickly unenroll a user from any course, group, or account, if necessary. At the account level, unenrolling a user from a course or group has the same result as removing an enrollment in a course, except you can unenroll the user from multiple courses or groups at once.</p>
+<p>Enrollments are commonly managed automatically in Canvas through student information system CSV files.  However, if your instructors have permission to add or remove users, enrollments can be managed manually by a course instructor.</p>
+<p><strong>Note: </strong>SIS enrollment CSV files that include start_date and end_date values override term dates, course dates, and section dates.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="aa67bf02-5300-43a1-9424-45dd9b9ff1b9">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_368898C0-1D82-0135-01F0-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-people" data-step-uuid="193e0048-6985-4e25-b105-d8ff0ba7596d">
+    <h2 id="open-people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/418/original/59a3b177-c463-4464-9ce9-51c59096b183.png" srcset="" alt="Open People" height="298" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_662edffb-2974-4f5a-b11d-a4786b724c4f" class="text-block-content">
+    <p>In Account Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_user" data-step-uuid="79ca5c44-c170-459d-bee4-8c66a4e4dca0">
+    <h2 id="find_user" class="step-title screensteps-heading">Find User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/076/220/original/find-user.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png" srcset="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png 2.0x, https://media.screensteps.com/image_assets/assets/008/076/220/medium_lowres/find-user.png" alt="Find User" height="103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_381ab4c7-6f66-4376-afb2-9138ffa59249" class="text-block-content">
+    <p>Use the filter and search options to find the user in the account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_profile" data-step-uuid="d59465b6-0491-4608-a8cc-28574a1fe659">
+    <h2 id="open_user_profile" class="step-title screensteps-heading">Open User Profile</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/987/771/original/4fcd9ee6-f80d-4174-9938-368e8daf1536.png" srcset="" alt="Open User Profile" height="176" width="589">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_26d09cdc-a437-4768-a3a7-7702f44da8b8" class="text-block-content">
+    <p>In the search results, click the user's name.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_enrollments" data-step-uuid="9B3C35BB-113E-4062-8D56-3B514905ADDB">
+    <h2 id="view_enrollments" class="step-title screensteps-heading">View Enrollments</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/910/556/original/155984c5-1925-44b8-95f1-76673d4390b2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/910/556/medium/155984c5-1925-44b8-95f1-76673d4390b2.png" srcset="" alt="View Enrollments" height="608" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_36892490-1D82-0135-01F6-22000AB760A3" class="text-block-content">
+    <p>Enrollments are located in the <strong>Enrollments</strong> section. Enrollments are separated into courses [1] and groups [2]. </p>
+<p>If a user has been added to an account, the Enrollments section will also display a list of accounts where the user resides [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course_details" data-step-uuid="780dd4cb-f7c8-4195-87f0-c343f1b5d42e">
+    <h2 id="view_course_details" class="step-title screensteps-heading">View Course Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/910/554/original/8658210d-216c-42ae-a033-cc155726b204.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/910/554/medium/8658210d-216c-42ae-a033-cc155726b204.png" srcset="" alt="View Course Details" height="284" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_36895230-1D82-0135-01F8-22000AB760A3" class="text-block-content">
+    <p>The Courses section shows all courses where the user is enrolled.</p>
+<p>Each course includes the course name [1], the term where the course resides [2], the user's enrollment status [3], and the user's role [4].</p>
+<p>To access the course, click the name of the course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_group_details" data-step-uuid="60d0398f-177a-4ace-a7e6-e0488dfa5cf5">
+    <h2 id="view_group_details" class="step-title screensteps-heading">View Group Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/910/559/original/26b764d4-5c19-4095-ab5d-faf5fbc9814c.png" srcset="" alt="View Group Details" height="290" width="306">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_36898210-1D82-0135-01FA-22000AB760A3" class="text-block-content">
+    <p>The Groups section shows all groups where the user is enrolled.</p>
+<p>Each group includes the group name [1] and the name of the course or account where the group resides [2].</p>
+<p>To access the group, click the name of the group.</p>
+<p><strong>Note:</strong> To unenroll a user from a group, you must open the account or course and manage the user's enrollment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_account_details" data-step-uuid="d04487f3-0054-4000-9e76-a6710df92353">
+    <h2 id="view_account_details" class="step-title screensteps-heading">View Account Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/836/original/c93a7869-cb36-45e9-a5b9-039b598aaa18.png" srcset="" alt="View Account Details" height="94" width="305">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3689B070-1D82-0135-01FC-22000AB760A3" class="text-block-content">
+    <p>The Accounts section shows all accounts where the user is <a href="/t5/Admin-Guide/How-do-I-add-an-admin-to-an-account/ta-p/212" target="_blank">enrolled as an account admin</a>.</p>
+<p>To access the account, click the name of the account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="unenroll_user" data-step-uuid="6de2aa41-4bce-4645-abdf-b450a9e7ba5c">
+    <h2 id="unenroll_user" class="step-title screensteps-heading">Unenroll User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/910/561/original/bc20f1ab-a4d5-4632-bace-52f8c7bdc84c.png" srcset="" alt="Unenroll User" height="293" width="844">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3689DF00-1D82-0135-01FE-22000AB760A3" class="text-block-content">
+    <p>To unenroll a user from a course, group, or account, locate the appropriate section in the enrollments list. Next to the course, group, or account where you want to unenroll the user, click the <strong>Delete</strong> icon [1] then click the <strong>OK</strong> button [2]. The user will no longer have access to the course, group, or account.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,225 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4C81A9C0-2221-0135-7138-22000BC102FE" class="text-block-content">
+    <p>If you cannot find a rubric you want to use in your course, you can create a new rubric. Once you create a rubric, the rubric is saved in your course for future use. You can <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058" target="_blank">add the rubric to an assignment</a> and use the rubric for grading and adding comments. You can manage created rubrics in the <a href="/t5/Instructor-Guide/How-do-I-manage-rubrics-in-a-course/ta-p/1017" target="_blank">Manage Rubrics page</a>.</p>
+<p>This lesson shows how to create a rubric in the Manage Rubrics page. You can also create a rubric directly when adding a rubric to an assignment, and the process is the same.</p>
+<p>Rubric criteria can include a point range or an individual point value.</p>
+<p><strong>Note: </strong>Currently criterion cannot be reordered after they are added to a rubric.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-rubrics" data-step-uuid="b9dc2f67-f37c-44c1-9518-281c8683d0d4">
+    <h2 id="open-rubrics" class="step-title screensteps-heading">Open Rubrics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/535/842/original/8212f8b0-0d98-4ddb-8dc6-216b3f1b07f9.png" srcset="" alt="Open Rubrics" height="196" width="135">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_56c6abf1-cf64-4325-ace2-5ca6db0a17a9" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Rubrics</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_rubric" data-step-uuid="441CD44A-D54F-457D-95E3-FE7D84800AEA">
+    <h2 id="add_rubric" class="step-title screensteps-heading">Add Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/161/original/ce084f01-c270-4100-a4f6-f719fd9824fe.png" srcset="" alt="Add Rubric" height="68" width="269">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4C829190-2221-0135-713E-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Rubric</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_title" data-step-uuid="a528d150-d1d1-4f29-b7bc-cf8bca23e02b">
+    <h2 id="create_title" class="step-title screensteps-heading">Add Title</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/101/251/original/36b8f825-65a2-4ebc-92ea-f6de5530def7.png" srcset="" alt="Add Title" height="320" width="655">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_489f8599-b2a5-45b0-ac30-395783b6aa88" class="text-block-content">
+    <p>In the <strong>Title</strong> field, add a title for the rubric. This title identifies the rubric so it can be easily associated with an assignment, graded discussion, or quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_criterion_description" data-step-uuid="fcbe3fdb-1596-4586-8a6b-56f3f8869950">
+    <h2 id="edit_criterion_description" class="step-title screensteps-heading">Edit Criterion Description</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/101/245/original/4f190be5-de99-4490-a9ba-0f0cb981ca41.png" srcset="" alt="Edit Criterion Description" height="318" width="653">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81bc35ff-3341-4c82-b2b7-26678fe3e6f4" class="text-block-content">
+    <p>The rubric includes one default criterion entry. To edit the criterion description, click the <strong>Edit</strong> icon.</p>
+<p><strong>Note:</strong> Currently criterion cannot be reordered after they are added to a rubric. If you want to display criterion in a specific order, make sure you create them in the order that you prefer. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_longer_description" data-step-uuid="aad48a91-ee8b-4eb0-b42b-c6afd18113b8">
+    <h3 id="add_longer_description" class="step-title screensteps-heading">Enter Descriptions</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/166/839/original/c031f428-8e68-40bb-8078-8082cdc562fc.png" srcset="" alt="Enter Descriptions" height="418" width="445">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e30c8972-8555-4def-afaa-65794ffdf4d9" class="text-block-content">
+    <p>Enter a short description for the criterion in the <strong>Description </strong>field [1]. To add a longer description to the criterion, enter a longer description [2]. The longer description provides students more information about the criterion. Click the <strong>Update Criterion </strong>button<strong> </strong>[3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-range" data-step-uuid="b83bca93-e682-46f6-80dd-2d103bde883e">
+    <h2 id="select-range" class="step-title screensteps-heading">Select Range</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/101/257/original/9fd14ff0-48cf-48bf-99fa-a8a93a7acb1c.png" srcset="" alt="Select Range" height="360" width="658">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2a5bb4b7-dd34-4050-9e19-078087f1732d" class="text-block-content">
+    <p>By default, rubric ratings are created as individual point values. If you want to create a point range instead, click the <strong>Range</strong> checkbox [1]. Ranges allow you to assign a rating for a range of point options instead of just one point value. </p>
+<p>When enabled, the first rating (full marks) shows the total point value in a range format [2]. Each rating displays a maximum and minimum point value. For each rating, the maximum value is assigned as the point value. </p>
+<p>Except for the range value display, criterion ranges function the same way as individual point ratings. For instance, a range that includes a maximum of five points and a minimum of three points is assigned the full point value of five points. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_criterion_point_value" data-step-uuid="8526a77f-586d-4a05-94f9-fe1c5e3ac3c8">
+    <h2 id="edit_criterion_point_value" class="step-title screensteps-heading">Edit Total Point Value</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/101/247/original/2d903a29-f7aa-4371-8c72-81c786349011.png" srcset="" alt="Edit Total Point Value" height="358" width="658">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d955139b-f08b-4579-990a-b94d2c8379fd" class="text-block-content">
+    <p>Rubric ratings default to 5 points, awarding 5 points for full rubric marks and 0 points for no rubric marks.</p>
+<p>If you want to adjust the total point value of the criterion, enter the number of points in the <strong>Points </strong>field [1]. The first rating (full marks) updates to the new total point value and any incremental ratings adjust appropriately [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="split_ratings" data-step-uuid="da4fe4e9-e265-46e4-8f8e-e2aab00e30d1">
+    <h3 id="split_ratings" class="step-title screensteps-heading">Add Ratings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/101/255/original/84b56886-03d9-4c3a-838a-31ab38b4101d.png" srcset="" alt="Add Ratings" height="358" width="658">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b89f6a4c-58c3-4ab6-88ad-dbe2cbef7630" class="text-block-content">
+    <p>To add a new rating for the criterion, click the <strong>Add </strong>icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="update-rating" data-step-uuid="f4698d84-d5c7-4d17-aed4-89bd37ce6f40">
+    <h4 id="update-rating" class="step-title screensteps-heading">Update Rating</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/067/305/original/3ed75867-b8a4-4d68-a284-13ee9ee7ad34.png" srcset="" alt="Add Ratings" height="552" width="440">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7b6b302a-e0be-45ef-8a3a-21a7ccf06e4f" class="text-block-content">
+    <p>In the Edit Rating window, complete the rating criterion description. By default, the Rating Score field displays the point value between the two existing ranges [1]. To change the point value for the rating score, enter the new point value in the Rating Score field. Points can be whole (1, 5, 10) or decimal (0.3, 0.5, 2.75) numbers. However, if you are using a range, point values should be whole numbers.</p>
+<p>In the Rating Title field [2], enter a title for the rating.</p>
+<p>In the Rating Description field [3], enter a description for the rating.</p>
+<p>Click the <strong>Update Rating</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_rating" data-step-uuid="343fca53-efda-493d-8c19-724e035ba84f">
+    <h2 id="edit_rating" class="step-title screensteps-heading">Manage Criterion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/101/259/original/63bd3dfd-b95c-474d-8f2d-926df3d781a2.png" srcset="" alt="Manage Criterion" height="526" width="661">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_37973837-1b15-4a7c-9244-ced8b85f1b63" class="text-block-content">
+    <p>To edit a rating, click the <strong>Edit</strong> icon [1]. Editing a specific rating value affects the full point value for the criterion. If you adjust the point value of a rating, the value of all ratings will adjust and create the updated point value for the criterion. </p>
+<p>To delete a rating, click the rating's <strong>Delete </strong>icon [2]. Note that you cannot delete the first and last rating for the criterion.</p>
+<p>To delete the entire criterion, click the<strong> </strong>criterion <strong>Delete </strong>icon [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_criterion" data-step-uuid="9d48a5a5-a7f3-481a-a482-5c5db1f2e89a">
+    <h2 id="add_criterion" class="step-title screensteps-heading">Add Criterion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/101/253/original/91bbbc29-c112-43ba-9bb1-7f6c7e2db2f6.png" srcset="" alt="Add Criterion" height="500" width="836">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c54f6e6c-2f88-415c-8840-ddbbf6a0b9c0" class="text-block-content">
+    <p>To add another criterion, click the <strong>Add Criterion</strong> link [1]. To create a new criterion, click the <strong>New Criterion</strong> option [2]. To duplicate an existing criterion, click the name of the criterion you want to duplicate [3].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-with-a-rubric-in-a-course/ta-p/1130" target="_blank">find an outcome</a> to align with the rubric, click the <strong>Find Outcome </strong>link [4]. </p>
+<p><strong>Note:</strong> Outcomes cannot be edited directly in a rubric.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_rubric" data-step-uuid="f6f4ac8b-207a-4377-86d6-f426eb7faed7">
+    <h2 id="create_rubric" class="step-title screensteps-heading">Create Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/071/381/original/f54659b8-6848-4800-898a-c239b83fa53f.png" srcset="" alt="Create Rubric" height="59" width="227">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77367326-5be1-4209-8445-6f3bec098139" class="text-block-content">
+    <p>Click the <strong>Create Rubric</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_rubric" data-step-uuid="dc431019-f2a2-416d-8e1f-1689e25a662a">
+    <h2 id="view_rubric" class="step-title screensteps-heading">View Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/101/249/original/4a9efb09-0086-43dd-a13a-f858cca21885.png" srcset="" alt="View Rubric" height="537" width="781">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0f7821c2-a649-4098-ad25-ba20a28cb45a" class="text-block-content">
+    <p>View the new rubric.</p>
+<p>To edit the rubric, click the <strong>Edit </strong>icon [1]. To delete the rubric, click the <strong>Delete </strong>icon [2].</p>
+<p><strong>Note:</strong> Deleting a rubric will completely remove the rubric from the available rubrics listed in any of your courses. Deleting a rubric cannot be undone.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

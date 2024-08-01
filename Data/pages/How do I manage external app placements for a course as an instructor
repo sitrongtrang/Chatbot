@@ -1,0 +1,140 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_72719670-B02A-0139-4EFD-12F2183ABDFB" class="text-block-content">
+    <p>You can manage placements for an external app in your course. Placements determine where an app can be seen and used in Canvas. </p>
+<p>App placement categories include Course Navigation, homework submissions, Rich Content Editor button, migration selection, link selection (modules), and assignment selection.</p>
+<p>When managing app placements, placements can be set to active or inactive. Active placements display in the Canvas feature area listed in the App Placements menu. Inactive placements are removed from the Canvas feature area listed in the App Placements menu.</p>
+<p><strong>Note:</strong> Managing external app placements in the App Configuration page in course settings only applies to LTI 1.1 tools. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="7271E640-B02A-0139-4F01-12F2183ABDFB">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/480/505/original/803aad94-495c-4f9c-83e3-fcb2f14ce596.png" srcset="" alt="Open Settings" height="232" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72720FE0-B02A-0139-4F03-12F2183ABDFB" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_apps" data-step-uuid="727221F0-B02A-0139-4F04-12F2183ABDFB">
+    <h2 id="open_apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/480/507/original/c1c9a4fa-57c7-4067-a6a3-6b5dab4e7c3c.png" srcset="" alt="Open Apps" height="79" width="549">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_727249A0-B02A-0139-4F06-12F2183ABDFB" class="text-block-content">
+    <p>Click the <strong>Apps </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_app_configurations" data-step-uuid="72725C10-B02A-0139-4F07-12F2183ABDFB">
+    <h2 id="view_app_configurations" class="step-title screensteps-heading">View App Configurations </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/480/509/original/939a7a13-51be-4fc4-9c62-5d9f02a595d0.png" srcset="" alt="View App Configurations " height="245" width="690">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72728270-B02A-0139-4F09-12F2183ABDFB" class="text-block-content">
+    <p>To configure an app, click the <strong>View App Configurations</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-placements" data-step-uuid="727297B0-B02A-0139-4F0A-12F2183ABDFB">
+    <h2 id="open-placements" class="step-title screensteps-heading">Open Placements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/480/511/original/150c097a-15f2-4bf6-81c4-de84332038a1.png" srcset="" alt="Open Placements" height="490" width="747">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7272C470-B02A-0139-4F0C-12F2183ABDFB" class="text-block-content">
+    <p>Locate the external app you want to manage [1]. Then click the <strong>Settings</strong> button [2] and select the <strong>Placements</strong> option [3].</p>
+<p><strong>Note: </strong>When you click the Placements link, you may see a No Placements Enabled message. This message indicates that the app does not have any specified placements within Canvas.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-locked-app" data-step-uuid="25cff4ba-1b5c-4689-a8dc-5c0bdcc17920">
+    <h3 id="view-locked-app" class="step-title screensteps-heading">View Locked App</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/480/513/original/b8896d22-fe42-4cd5-9138-561c6dd1476a.png" srcset="" alt="View Locked App" height="312" width="696">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e22079fd-5af5-4619-a6cb-da7459aa7d36" class="text-block-content">
+    <p>Apps that were installed by your institution and cannot be edited display the <strong>Lock</strong> icon [1]. To view placement information for a locked app, click the <strong>Information</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-placements" data-step-uuid="7272D670-B02A-0139-4F0D-12F2183ABDFB">
+    <h2 id="view-placements" class="step-title screensteps-heading">View Placements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/480/515/original/bb0d3488-d78e-421d-bc7e-885598f7af66.png" srcset="" alt="View Placements" height="364" width="437">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_72731680-B02A-0139-4F0F-12F2183ABDFB" class="text-block-content">
+    <p>The App Placements window displays all placements for the external app [1]. An active placement displays the <strong>Checkmark</strong> icon [2]. An inactive placement displays the <strong>X </strong>icon [3].</p>
+<p>Depending on the LTI tool, the following app placement categories can be viewed in the App Placements window:</p>
+<ul>
+<li>Assignment Selection: Configure an LTI tool to be selectable as an assignment during assignment creation or editing.</li>
+<li>Editor Button: Configure an LTI tool to display as a button in the Rich Content Editor.</li>
+<li>Homework Submissions: Configure an LTI tool to display when a student is submitting content for an assignment. When a tool is configured, users will see an additional tab during assignment submission for assignments that accept online submissions.</li>
+<li>Link Selection: Configure an LTI tool to select LTI to launch URLs as module items.</li>
+<li>Navigation: Configure an LTI tool to display as a link in the navigation for a course.</li>
+<li>Migration Selection: Configure an LTI tool to display in the Course Imports menu of a course.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-placement" data-step-uuid="727328D0-B02A-0139-4F10-12F2183ABDFB">
+    <h2 id="manage-placement" class="step-title screensteps-heading">Manage Placement</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/480/517/original/98c46b2e-178f-4840-9a1d-359be57f95d0.png" srcset="" alt="Manage Placement" height="360" width="436">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_727358F0-B02A-0139-4F12-12F2183ABDFB" class="text-block-content">
+    <p>To disable an active placement, click the <strong>Checkmark</strong> icon [1]. To enable an inactive placement, click the <strong>X </strong>icon [2].</p>
+<p>To close the App Placements window, click the <strong>Close</strong> button [3].</p>
+<p><strong>Note:</strong> It may take some time for placement availability to reflect any changes made from the App Placements window. You can clear your cache and refresh pages where you expect placements to change.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

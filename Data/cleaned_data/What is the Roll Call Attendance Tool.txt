@@ -1,0 +1,22 @@
+What is the Roll Call Attendance Tool
+View Attendance
+With the Attendance tool, instructors can keep track of course attendance by taking roll electronically. Instructors can choose to view the tool in a list or grid format and can customize the placement of each student in the seating chart. 
+View Attendance Assignment
+When you take attendance using Roll Call, Canvas automatically adds Attendance as an assignment. The default point value for attendance is 100 points.
+To avoid Attendance calculation errors, never delete, rename, or unpublish the Attendance assignment.
+Note: Although students cannot view the actual attendance tool, they can still view the attendance assignment in the Assignments page. This assignment cannot be hidden from students.
+Take Attendance
+The status set for each student is associated with a percentage value. Statuses include present and on time, not present, late, and unmarked (excused absence).
+The Attendance tool also creates an assignment in the Gradebook and calculates attendance as a percentage of a student's grade.
+View Lateness Value
+By default, the value of being late is 80% of the present value. So if a student is late, the student will receive 80% for the day instead of the full 100%. The late value can be adjusted in Roll Call settings.
+View Gradebook Scores
+In the Gradebook Attendance column, by default Canvas displays the assignment based on percentage of the point value. For instance, if the point value is 100, and roll call has been taken twice, a student with one present value (100%) and one lateness value (calculated at 80%) will have a score of 90 points, or 90%.
+The Attendance Gradebook column will update every time you take roll call in the Attendance tool.
+Note:Although students cannot view the actual attendance tool, if you are using attendance for grading, they can still view their attendance score in their Grades page and view their attendance report. You can prevent the assignment from triggering notifications by setting a manual posting policy for the assignment.
+Export Attendance Data
+At both the account and course levels, the Attendance tool allows users to create attendance reports.
+Note: Admins can also filter reports by SIS Course ID.
+Create and Manage Badges
+At the account level, admins can create and manage badges used in the Attendance Tool. 
+At the course level, any badges added by a Canvas admin automatically appear for the course. However, instructors can also create additional badges for their course as needed. 

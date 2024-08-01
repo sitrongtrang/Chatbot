@@ -1,0 +1,137 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_88ABD810-17D2-0135-E897-22000AB760A3" class="text-block-content">
+    <p>You can add a user as an admin to an account in Settings. </p>
+<p>When you assign a user as an admin in the root account, that user has all privileges in any sub-account. You might consider assigning users as admins only in the sub-account for which they are responsible. </p>
+<p>Once you add a user, if they already have a profile in Canvas, they will receive an email notifying them that they are now an admin for the account. If an added user does not already have a profile, they will receive an email with a link to create a profile and access the account.</p>
+<p>After you have added a user as an admin, you cannot edit the admin user's account. To make changes, you must remove the admin account and add the user again.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>To add a user as an admin, you must assign the user to an account role. Before adding a user, ensure that you have created the necessary <a href="/t5/Admin-Guide/How-do-I-add-an-account-level-role-in-the-Permissions-page/ta-p/99" target="_blank">account-level role</a>.</li>
+<li>Your administrative user list includes the Conditional Release API, Outcomes Service, and New Quizzes Service, which are currently included in all accounts for MasteryPaths, Outcomes, and New Quizzes. The API users will be removed from the list in a future release.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="734574cf-eb88-4a5a-94f4-de363f51e7cc">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88AC07F0-17D2-0135-E899-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="E331E79A-61A1-4D61-B28D-6C132084E40E">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/745/032/original/ff428c32-6f44-41be-ac88-0d44cc4df8d8.png" srcset="" alt="Open Settings" height="275" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88AC3430-17D2-0135-E89B-22000AB760A3" class="text-block-content">
+    <p>In Account Settings, click the <strong>Settings</strong> link.  </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_admins" data-step-uuid="E2938B1D-368F-42A0-9262-B5095AFD8122">
+    <h2 id="open_admins" class="step-title screensteps-heading">Open Admins</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/318/original/e735f0cc-d7db-4adc-9222-049a1d2d904f.png" srcset="" alt="Open Admins" height="83" width="818">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88AC6380-17D2-0135-E89D-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Admins</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_account_admins" data-step-uuid="99AFD413-9572-4FF2-BDDD-5936320B59C2">
+    <h2 id="add_account_admins" class="step-title screensteps-heading">Add Account Admins </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/316/original/5d5559ba-15a4-4224-a12b-6b2caf30e7ff.png" srcset="" alt="Add Account Admins " height="72" width="201">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88AC9060-17D2-0135-E89F-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Account Admins</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_admin_role_and_email" data-step-uuid="F43B7C6B-C28D-4AC0-9468-1D3CF364AD07">
+    <h2 id="add_admin_role_and_email" class="step-title screensteps-heading">Add Admin Role and Email</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/314/original/3e45e578-60b8-4b2a-affc-13e7eedc9813.png" srcset="" alt="Add Admin Role and Email" height="365" width="820">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88ACBD30-17D2-0135-E8A1-22000AB760A3" class="text-block-content">
+    <p>In the<strong> Add More</strong> drop-down menu [1], set the admin role type. The default admin role in Canvas is Account Admin which has access to all <a href="https://s3.amazonaws.com/tr-learncanvas/docs/Canvas_Permissions_Account.pdf" target="" rel="nofollow noopener noreferrer">account-level permissions</a>. You can also <a href="/t5/Admin-Guide/How-do-I-add-an-account-level-role-in-the-Permissions-page/ta-p/99" target="_blank">create admin roles</a> for your institution and manage their permissions.   </p>
+<p>In the text box [2], type the email address of the user. </p>
+<p>Click the <strong>Continue... </strong>button [3].</p>
+<p><strong>Note: </strong>Once you add a user as an account admin, they will have all permissions listed on the Permissions page for the selected role. Additionally, you cannot edit an admin account after you create it. If you need to change an admin user's role, you must delete their admin account and add it again.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_account_admins_1" data-step-uuid="135967B3-A6C7-458E-B721-97B35E105C86">
+    <h2 id="add_account_admins_1" class="step-title screensteps-heading">Add Account Admins</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/322/original/3103fdee-77c0-41e6-9e21-c86ddf86c96b.png" srcset="" alt="Add Account Admins" height="365" width="815">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88ACEE70-17D2-0135-E8A3-22000AB760A3" class="text-block-content">
+    <p>Verify the user you added is listed in the admin field [1]. Select the <strong>OK Looks Good, Add this [#] User </strong>button to add the admin [2]. Click the<strong> Go back and edit the list of users </strong>link to adjust any errors [3].</p>
+<p>A message will appear in your browser.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="verify_new_user" data-step-uuid="08B2E1CA-7C06-48A3-A6A4-AC21397C0C7C">
+    <h2 id="verify_new_user" class="step-title screensteps-heading">Verify New User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/326/original/a7639201-725b-4893-b52e-98186ebcbf6d.png" srcset="" alt="Verify New User" height="53" width="490">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88AD1DF0-17D2-0135-E8A5-22000AB760A3" class="text-block-content">
+    <p>Verify the new administrative user was added.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

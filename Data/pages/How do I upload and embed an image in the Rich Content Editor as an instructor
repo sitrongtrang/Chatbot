@@ -1,0 +1,403 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7d0a735e-1f97-4cf9-bda6-d93ec994d203" class="text-block-content">
+    <p>You can embed images in the Rich Content Editor. Image files can be uploaded from your computer or added using a URL. You can also <a href="/t5/Instructor-Guide/How-do-I-embed-images-from-Canvas-into-the-Rich-Content-Editor/ta-p/856" target="_blank">embed images from your course and user files</a>.</p>
+<p>Several features in Canvas support the Rich Content Editor, including Announcements, Assignments, Discussions, Pages, Quizzes, and Syllabus.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Images uploaded from your computer using the image upload tool are added to your <a href="/t5/Instructor-Guide/How-do-I-view-course-files-as-an-instructor/ta-p/713" target="_blank">course files</a>.</li>
+<li>You can embed a variety of image file types. Learn what <a href="/t5/Instructor-Guide/What-types-of-media-files-can-I-upload-in-Canvas-as-an/ta-p/1142" target="_blank">types of image files you can embed</a>.</li>
+<li>If you are using Usage Rights, you must <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/796" target="_blank">set the file usage rights</a> before the file will be accessible to students.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="700px" height="400px" src="https://embed.app.guidde.com/playbooks/goZjw97ip2HW8ggS6JpP6F" title="How do I upload and embed an image in the Rich Content Editor?" frameborder="0" referrerpolicy="unsafe-url" allowfullscreen="true" allow="clipboard-write" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-forms allow-same-origin allow-presentation"></iframe>
+<p style="display: none">
+
+00:07: How do I upload an embed an image in the rich content editor?
+
+00:11: Open the rich content editor when using one of the canvas features, which support the editor.
+
+00:17: You can upload and embed an image by dragging and dropping from a web browser or
+
+00:21: a file saved to your computer. If you drag and drop an image
+
+00:25: from a web browser The Source URL for the image populates in the file
+
+00:29: URL field in the image options.
+
+00:33: You can upload and embed an image by copying and pasting it.
+
+00:37: To copy an image to your clipboard right? Click the image and select copy.
+
+00:42: You can paste it by right clicking into the Rich Text Editor and selecting paste or
+
+00:46: using the keyboard shortcut Ctrl + V on a PC or command + V
+
+00:50: on a Mac.
+
+00:52: To upload an image from the toolbar click the image icon.
+
+00:56: From the drop-down menu select the upload image option.
+
+01:00: Alternatively, you can embed images from the menu bar.
+
+01:03: Click the insert link navigate to view the image options, then
+
+01:07: select the upload image option.
+
+01:11: By default the image upload tool displays the computer tab click
+
+01:15: or drag and drop an image file to the image uploader to upload a file from your
+
+01:19: computer.
+
+01:21: After uploading your file the uploader displays the image file name and
+
+01:25: an image preview. To remove the image.
+
+01:27: Click the delete icon.
+
+01:30: To upload an image using a URL click the URL tab Enter
+
+01:35: the URL in the file URL field
+
+01:39: To add alt text to your image type an alternative text description or
+
+01:43: text tags in the alt text field.
+
+01:46: By default the alt text field displays the image file name.
+
+01:50: Alt text is read by screen readers and it displays when an embedded image
+
+01:54: cannot display. If the image is decorative and does not require, alt
+
+01:58: text click the decorative image check box.
+
+02:02: By default the embed image display option is selected for embedded
+
+02:06: images. To display the image file link select the display
+
+02:10: text link display option 4 the file link will
+
+02:14: replace the image in the rich content editor.
+
+02:18: To embed your selected image. Click the submit button.
+
+02:22: View your uploaded image in the rich content editor.
+
+02:24: You can also add alt text tags and manage the image display options.
+
+02:30: To manage image options from an embedded image file.
+
+02:32: Click the image then click the image options link.
+
+02:36: You can manage display options for embedded images in the image options menu.
+
+02:41: You can manage the image, alt text the image size and other display
+
+02:45: options. To replace or update an image added via URL
+
+02:50: enter an updated image URL in the file URL field.
+
+02:54: Click the done button.
+
+02:57: View the content created in the rich content editor.
+
+03:01: This guide covered how to upload and embed an image in the rich content editor.
+
+</p>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_rich_content_editor" data-step-uuid="e20c5d75-75b9-4b38-b8d8-d8376415457f">
+    <h2 id="open_rich_content_editor" class="step-title screensteps-heading">Open Rich Content Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/393/863/original/97874299-0555-496f-91d1-13a68cab3ae3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/393/863/medium/97874299-0555-496f-91d1-13a68cab3ae3.png" srcset="" alt="Open Rich Content Editor" height="340" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a07171c8-5e97-4098-a7f7-3fef20b61b39" class="text-block-content">
+    <p>Open the Rich Content Editor when creating or editing an announcement, assignment, discussion, page, quiz, or syllabus.</p>
+<p><strong>Note:</strong> The Rich Content Editor supports keyboard shortcuts. To view a window with a list of keyboard navigation shortcuts, press <strong>Alt+F8</strong> (on a PC keyboard) or <strong>Option+F8</strong> (on a Mac keyboard) simultaneously on your keyboard.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="upload-image-by-drag-and-drop" data-step-uuid="8a99e6b3-d9b3-4563-93bd-88f7b0da6b2a">
+    <h3 id="upload-image-by-drag-and-drop" class="step-title screensteps-heading">Upload Image by Drag and Drop</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/767/766/original/0a70628d-f548-4168-9ebb-6eff119bad82.png" srcset="" alt="Upload Image by Drag and Drop" height="437" width="788">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0b4bbd91-eca6-47a4-ae9a-a4a5f67ba9e8" class="text-block-content">
+    <p>You can upload and embed an image by dragging and dropping from a web browser or a file saved to your computer. If you drag and drop an image from a web browser, the source URL for the image populates in the File URL field in the Image Options.</p>
+<p><strong>Note:</strong> You can upload and embed multiple images by dragging and dropping the files from a web browser or saved to your computer.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="upload-image-by-copy-and-paste" data-step-uuid="8c4615d2-5b85-4d02-bd49-e0724a9a6901">
+    <h3 id="upload-image-by-copy-and-paste" class="step-title screensteps-heading">Upload Image by Copy and Paste</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/767/768/original/acf921eb-9ef4-4892-806a-fde99a00d5a3.png" srcset="" alt="Upload Image by Copy and Paste" height="395" width="591">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9365e5c5-2fd6-4405-9be6-65819df44805" class="text-block-content">
+    <p>You can upload and embed an image by copying and pasting it. To copy an image to your clipboard, right-click the image and select Copy.  You can paste it by right-clicking into the Rich Text Editor and selecting <strong>Paste</strong> or using the keyboard shortcut<strong> CTRL+V</strong> on a PC or <strong>Command+V </strong>on a Mac.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-image-upload-tool" data-step-uuid="046576ba-0380-4947-925a-bc1a3b251d0b">
+    <h2 id="open-image-upload-tool" class="step-title screensteps-heading">Upload Image from Toolbar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/328/021/original/313693a8-c685-4ffd-ace2-3c591eb64c0e.png" srcset="" alt="Upload Image from Toolbar" height="358" width="795">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76030a55-6f56-4cc7-9f56-f24868bc681a" class="text-block-content">
+    <p>To upload an image from the toolbar, click the <strong>Image </strong>icon [1]. Then select the <strong>Upload Image </strong>option [2].</p>
+<p><strong>Note: </strong>To view the Image icon, you may have to click the <strong>Options </strong>icon [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="upload-image-from-menubar" data-step-uuid="f4fa2f72-3608-4814-83b0-6660c1fd1a20">
+    <h3 id="upload-image-from-menubar" class="step-title screensteps-heading">Upload Image from Menubar</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/852/873/original/7d7cfedd-01d2-4bde-b0c6-64c8d166b15c.png" srcset="" alt="Upload Image from Menubar" height="368" width="795">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_56c62457-bc32-443a-8b56-75e263d5ef14" class="text-block-content">
+    <p>You can also upload an image using the menubar in the Rich Content Editor. The menubar displays the title of Rich Content Editor tools and may be preferable for those using keyboard navigation.</p>
+<p>To upload an image using the menubar, click the <strong>Insert </strong>menu [1], select the <strong>Image </strong>option [2], and select the <strong>Upload Image </strong>option [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload-image-from-computer" data-step-uuid="0f16ed58-c3c8-4c98-8e1e-d2f8bc8fdb9a">
+    <h2 id="upload-image-from-computer" class="step-title screensteps-heading">Upload Image from Computer</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/087/293/original/c4111a1d-5c92-4732-ab4c-c25b81f61d56.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/087/293/medium/c4111a1d-5c92-4732-ab4c-c25b81f61d56.png" srcset="" alt="Upload Image from Computer" height="432" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8cd7a994-57e4-4dad-bf45-40042e01eb7b" class="text-block-content">
+    <p>By default, the Image Upload Tool displays the <strong>Computer</strong> tab [1]. Click or drag and drop an image file to the image uploader to upload a file from your computer [2]. </p>
+<p><strong>Note:</strong> Images uploaded from your computer using the image upload tool are <a href="/t5/Instructor-Guide/How-do-I-view-course-files-as-an-instructor/ta-p/713" target="_blank">added to your course files</a>. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-file" data-step-uuid="a506b824-5767-41f5-8599-77e3109186d6">
+    <h3 id="select-file" class="step-title screensteps-heading">Select File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/039/256/original/3b99c0dc-9eeb-415b-95cc-c7f6980f5ff2.png" srcset="" alt="Select File" height="196" width="647">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_917e8135-d080-49d2-a71e-dab1a311726d" class="text-block-content">
+    <p>Select the image file [1] and click the <strong>Open</strong> button [2].</p>
+<p>Learn about <a href="/t5/Instructor-Guide/What-types-of-media-files-can-I-upload-in-Canvas-as-an/ta-p/1142" target="_blank">supported image file types</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-selected-file" data-step-uuid="4b6918de-5b9b-4991-9f39-fb49e2f41c9f">
+    <h3 id="view-selected-file" class="step-title screensteps-heading">View Selected File</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/063/093/original/4143f662-3576-4410-9a84-bbc47881144d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/063/093/medium/4143f662-3576-4410-9a84-bbc47881144d.png" srcset="" alt="View Selected File" height="347" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_69d1c258-13f7-46e5-8294-169a649c320a" class="text-block-content">
+    <p>The uploader displays the image file name [1] and an image preview [2]. To remove the image, click the <strong>Delete</strong> icon [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload-image-from-url" data-step-uuid="8c36d6fc-1e9e-4357-b454-d50e450731c9">
+    <h2 id="upload-image-from-url" class="step-title screensteps-heading">Upload Image from URL</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/087/296/original/146489ca-6d6b-4427-9660-95ce58acf6c9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/087/296/medium/146489ca-6d6b-4427-9660-95ce58acf6c9.png" srcset="" alt="Upload Image from URL" height="155" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ea33ef7a-b758-41b7-878f-46258b309648" class="text-block-content">
+    <p>To upload an image using a URL, click the <strong>URL</strong> tab [1]. </p>
+<p>Enter the URL in the <strong>File URL</strong> field [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-usage-rights" data-step-uuid="aa8fbf60-a55f-4e4e-939e-27fda88f2d9e">
+    <h2 id="manage-usage-rights" class="step-title screensteps-heading">Manage Usage Rights</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/780/876/original/7d09f342-45a4-40de-a2bf-3c22196c466a.png" srcset="" alt="Manage Usage Rights" height="258" width="783">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_920166da-7856-4fe4-98d5-d589fdff2ca7" class="text-block-content">
+    <p>If required by your institution, you will need to select usage right settings for your image.</p>
+<p>In the <strong>Usage Right </strong>drop-down menu [1], select one of the five usage right options:</p>
+<ul>
+<li>
+<strong>I hold the copyright: </strong>original content created by you</li>
+<li>
+<strong>I have obtained permission to use this file: </strong>authorized permission by the author</li>
+<li>
+<strong>The material is in the public domain:</strong> explicitly assigned to public domain, cannot be copyrighted, or is no longer protected by copyright</li>
+<li>
+<strong>The material is subject to an exception - e.g. fair use, the right to quote, or others under applicable copyright laws:</strong> excerpt or summary used for commentary, news reporting, research, or analysis in education</li>
+<li>
+<strong>The material is licensed under Creative Commons</strong>: this option also requires setting a specific <a href="https://creativecommons.org/licenses/" target="_blank" rel="nofollow noopener noreferrer">Creative Commons</a> license</li>
+</ul>
+<p>If known, enter the copyright holder information in the <strong>Copyright Holder </strong>field [2].</p>
+<p><strong>Note:</strong> If you are not sure which usage right applies to your image, please consult your institutional admin for guidance.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-image-options" data-step-uuid="33f7b698-2641-47b6-80c1-ea377a8e9de3">
+    <h2 id="manage-image-options" class="step-title screensteps-heading">Manage Image Attributes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/780/879/original/b78b9bd0-b16a-4428-9b2b-f5351ab1d00e.png" srcset="" alt="Manage Image Attributes" height="352" width="780">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42320fc9-faa0-4373-8b39-0b6fff44ace1" class="text-block-content">
+    <p>To add Alt Text to your image, type an alternative text description or text tags in the <strong>Alt Text </strong>field [1]. By default, the Alt Text field displays the image file name. Alt text is read by screen readers, and it displays when an embedded image cannot display.</p>
+<p>If the image is decorative and does not require alt text, click the <strong>Decorative Image </strong>checkbox [2].</p>
+<p>By default, the <strong>Embed Image</strong> display option is selected for embedded images [3].</p>
+<p>To display the image file link, select the <strong>Display Text Link</strong> display option [4]. The file link will replace the image in the Rich Content Editor.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit-upload" data-step-uuid="2492a2cc-ffb8-4743-925e-2deb5dc77333">
+    <h2 id="submit-upload" class="step-title screensteps-heading">Embed Image Upload</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/878/408/original/2a24658b-3199-4dc1-b140-d1d781c4f526.png" srcset="" alt="Submit Upload" height="70" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4f313be5-c24e-43ad-86d8-b6c23e5dcb9e" class="text-block-content">
+    <p>To embed your selected image, click the <strong>Submit</strong> button.</p>
+<p><strong>Note: </strong>The image flashes before it embeds in the Rich Content Editor. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-embedded-image" data-step-uuid="7665d886-7c17-4b0f-889c-c8126d2946cf">
+    <h2 id="view-embedded-image" class="step-title screensteps-heading">View Embedded Image</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/853/285/original/dc907b18-3c27-41fa-ae48-be98d0803aa5.png" srcset="" alt="View Embedded Image" height="428" width="739">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6b28e2aa-bd88-4c4a-be92-d0cb70fd5b27" class="text-block-content">
+    <p>View your uploaded image in the Rich Content Editor. You can also add or modify <a href="/t5/Instructor-Guide/How-do-I-manage-alt-text-and-display-options-for-images-embedded/ta-p/951" target="_blank">alt text tags and manage the image display options</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update-image-options" data-step-uuid="39e92ec4-229c-45e7-9d54-e06ab6e50cbc">
+    <h2 id="update-image-options" class="step-title screensteps-heading">Update Image Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/545/324/original/303e34aa-224e-457e-9ab9-8c8f28d5919a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/545/324/medium/303e34aa-224e-457e-9ab9-8c8f28d5919a.png" srcset="" alt="Update Image Options" height="627" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49cf67f6-1ffa-4583-a3e9-90b0677db462" class="text-block-content">
+    <p>To manage image options from an embedded image file, click the image [1], then click the <strong>Image Options</strong> link [2]. </p>
+<p>You can <a href="/t5/Instructor-Guide/How-do-I-manage-alt-text-and-display-options-for-images-embedded/ta-p/951" target="_blank">manage display options for embedded images</a> in the <strong>Image Options</strong> menu [3]. You can manage the image Alt Text, the image size, and other display options.</p>
+<p>To replace or update an image added via URL, enter an updated image URL in the <strong>File URL</strong> field [4]. </p>
+<p>Click the <strong>Done</strong> button [5].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_changes" data-step-uuid="6771768a-6251-4bb5-85b1-0cb9d56566d5">
+    <h2 id="save_changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/545/327/original/b61ec4da-da27-4eea-a29a-0c32b5a1fd13.png" srcset="" alt="Save Changes" height="68" width="174">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9775eef7-2eb6-4df1-8c1f-440de6ab275d" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The assignment, discussion, pages, and quizzes details pages display a <strong>Save &amp; Publish</strong> button. </li>
+<li>The Syllabus page displays an <strong>Update Syllabus</strong> button. </li>
+<li>Discussion replies display a <strong>Post Reply</strong> or <strong>Reply</strong> button.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-content" data-step-uuid="72e556b2-a89a-41eb-b863-e5b3846d1daa">
+    <h2 id="view-content" class="step-title screensteps-heading">View Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/545/329/original/9eb793cc-3021-4ada-93e1-1b6f0e97f6bc.png" srcset="" alt="View Content" height="397" width="747">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3fc19e3f-8f18-4574-a85e-f4755a93c712" class="text-block-content">
+    <p>View the content created in the Rich Content Editor.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,214 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3F503460-220F-0135-D375-22000B5A851D" class="text-block-content">
+    <p>Mastery Paths release conditional content to students based on scoring-range rules. After the source assignment or assessment is graded (either manually or automatically), the student’s score designates which conditional item(s) are assigned as a learning path. For instance, a student who scores above 90% on an assignment could be assigned more advanced work, while a student who scores below 60% could view assignments designed for content clarification and improvement. Please note that resubmitted source items may affect conditional paths, as updated grades may change the conditional assignments released to the student.</p>
+<p>Any graded assignment, graded discussion, or graded quiz may be used as the source content for a Mastery Path. </p>
+<p>Any course item except for practice quizzes, ungraded surveys, and external tool assignments may be designated as a conditional item in a Mastery Path. Course items such as links, files, and media content must be embedded in a page or assignment to be used as conditional content in Mastery Paths.</p>
+<p>A Mastery Path should originate from an assignment assigned to everyone, such as a pre-test or an introductory assignment.</p>
+<p>Once you have added conditional content to a Mastery Path source assignment, you must <a href="/t5/Instructor-Guide/How-do-I-assign-a-conditional-assignment-for-students-to/ta-p/1025" target="_blank">differentiate each conditional assignment for </a>Mastery Path<a href="/t5/Instructor-Guide/How-do-I-assign-a-conditional-assignment-for-students-to/ta-p/1025" target="_blank">s</a>.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Because content pages do not require grading, content pages cannot be used as a Mastery Path source item and can only be added as conditional content. However, a <a href="/t5/Instructor-Guide/How-do-I-allow-a-page-to-be-a-Mastery-Path-module-item/ta-p/858" target="_blank">page must be allowed for </a>Mastery Path<a href="/t5/Instructor-Guide/How-do-I-allow-a-page-to-be-a-Mastery-Path-module-item/ta-p/858" target="_blank">s</a> before it can be added to a conditional path.</li>
+<li>‪If conditional items are added to a path and later changed (such as separating conditional items in the same range or adding another item), the change will not apply to any students who have already been graded based on the original conditional path. Conditional items should be final when course content is published.‬</li>
+<li>As conditional items are released to students, individual due dates for items are not applied. To add a due date to conditional items, wait until all students have completed the source assignment and then <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-an-individual-student/ta-p/717" target="_blank">add a due date to the conditional item</a>. </li>
+<li>Conditional content items can be set up with their own conditional items.</li>
+<li>All module items should be published before the course is available to students. If an unpublished item is added as a conditional content item, the student will not be able to view the content until the item is published. Any publishing delays may have unintended consequences for the student's conditional path. </li>
+<li>If your course has a large number of students and/or if a Mastery Path has a large number of associated conditional items, students may experience a delay before they are assigned a path.</li>
+<li>The Mastery Paths setting can be <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">managed in your course</a> if the setting has been <a href="/t5/Admin-Guide/How-do-I-set-details-for-an-account/ta-p/194" target="_blank">enabled by your institution</a>.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I add conditional content to a Mastery Path source item?" src="https://community.instructuremedia.com/embed/66f5fc51-21b6-4527-aaab-b8e908dfa904" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="e61fd555-053f-4b2d-ae9f-086c5220b39d">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/176/original/e86397be-c8ad-416f-993b-6c478aa41b5c.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F512740-220F-0135-D377-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_masterypaths" data-step-uuid="01eac258-43d7-418c-8dde-5cfcff4f8008">
+    <h2 id="open_masterypaths" class="step-title screensteps-heading">Open Mastery Paths</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/398/406/original/8c2d0787-7bc0-48ae-84fb-d7259818933f.png" srcset="" alt="Open MasteryPaths" height="446" width="790">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F520400-220F-0135-D379-22000B5A851D" class="text-block-content">
+    <p>Locate the item where you want to add a Mastery Path and click the <strong>Options</strong> icon [1]. Click the <strong>Mastery Paths </strong>option [2].</p>
+<p><strong>Note: </strong>Items that cannot originate a Mastery Path, including content pages and non-graded items, will not display the Mastery Paths settings option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_conditional_range" data-step-uuid="81805bd2-438c-4417-83dd-9a2183e1a1fd">
+    <h2 id="view_conditional_range" class="step-title screensteps-heading">View Conditional Range</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/168/103/original/70042610-55c4-428a-a342-c0d16355510e.png" srcset="" alt="View Conditional Range" height="784" width="633">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F52CDA0-220F-0135-D37B-22000B5A851D" class="text-block-content">
+    <p>The assignment grade display and point value are shown at the top of the Mastery Path page [1]. </p>
+<p>The Mastery Paths tab displays three ranges for conditional content [2]. The ranges match the grade display set for the assignment—points, percentage, letter grade, or GPA. The ranges default to 70%, 40%, and 0% of the assignment’s point value [2]. rounded up respectively. For instance, an assignment worth 25 points defaults to ranges of 25–18 points, 18–10 points, and 10–0 points. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set_conditional_range" data-step-uuid="17d4caa7-f763-483b-a5a3-e2335d1bc810">
+    <h3 id="set_conditional_range" class="step-title screensteps-heading">Set Conditional Range</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/686/original/214aa26b-441a-4c04-8450-b96b5980aade.png" srcset="" alt="Set Conditional Range" height="305" width="329">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F53D200-220F-0135-D37D-22000B5A851D" class="text-block-content">
+    <p>Each range can be customized to a range outside the default values. To adjust a range, click the value and enter the new conditional range.</p>
+<p><strong>Note: </strong>Range values must be set in order from highest to lowest. Empty values are not allowed.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_items_to_range" data-step-uuid="85f4c032-3fe6-4f49-933d-98e26e8583e2">
+    <h2 id="add_items_to_range" class="step-title screensteps-heading">Add Items to Range</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/820/985/original/bf1391e3-e550-4117-88a8-6529f302363b.png" srcset="" alt="Add Items to Range" height="522" width="335">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F54A9A0-220F-0135-D37F-22000B5A851D" class="text-block-content">
+    <p>Select the range where you want to add conditional content items and click the <strong>Add </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="locate_items" data-step-uuid="b3545c6c-19fd-4c16-a027-25231607a141">
+    <h3 id="locate_items" class="step-title screensteps-heading">Locate Items</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/684/original/28016f93-b49c-4690-9933-250dd7cd5f11.png" srcset="" alt="Locate Items" height="413" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F557990-220F-0135-D381-22000B5A851D" class="text-block-content">
+    <p>Any existing course item that can be used in a Mastery Path can be added as conditional content. </p>
+<p>In the content window, you can search for content by name in the Search field [1], or filter items by type using the All Items drop-down menu [2]. If a content item does not display in the content window, the item cannot be added as a conditional release item.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>When sorting by type, you must add an item from a type before selecting another type.</li>
+<li>The content window only displays supported items for conditional content. Practice quizzes and ungraded surveys are not supported as conditional items.</li>
+<li>Pages will not display as a conditional item unless the page was previously edited to be included as a Mastery Path item.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_items" data-step-uuid="1de42658-161b-4844-ac70-cb6084cac3f9">
+    <h3 id="add_items" class="step-title screensteps-heading">Add Items</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/692/original/c8f2d526-bb25-40ea-8568-ee5bc1cc4d18.png" srcset="" alt="Add Items" height="415" width="523">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F565C00-220F-0135-D383-22000B5A851D" class="text-block-content">
+    <p>To add a content item, select the checkbox next to the item [1]. You can select multiple items at one time.</p>
+<p>Click the <strong>Add Items </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_additional_items" data-step-uuid="0e1c5246-dc19-426b-a04b-78c296e5589b">
+    <h2 id="add_additional_items" class="step-title screensteps-heading">Add Additional Items</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/103/883/original/2912becd-9d33-4d3f-ae6b-050a08f8f773.png" srcset="" alt="Add Additional Items" height="655" width="797">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F570630-220F-0135-D385-22000B5A851D" class="text-block-content">
+    <p>Select another range and add the appropriate content items [1]. You can add up to three item groups to each range using existing items in a course as conditional items [2]. Conditional items may be added in the form of individual item requirements for a student to choose from, or as a group of items a student must complete.</p>
+<p><strong>Note:  </strong>An item may be added to more than one range. An item that is already added in the range will be crossed out in the content window.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage_items" data-step-uuid="379751b6-77a1-452c-9adc-4836d42c2695">
+    <h3 id="manage_items" class="step-title screensteps-heading">Manage Items</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/679/original/8133aad8-cf6c-4c30-bd6a-ec2c45a7e248.png" srcset="" alt="Manage Items" height="751" width="809">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F57E430-220F-0135-D387-22000B5A851D" class="text-block-content">
+    <p>Multiple conditional items within a range can be mixed and matched as individual items, grouped items, or both. Items can also be reordered within the range by dragging and dropping in the preferred order [1].</p>
+<p>You can also edit an item, move an item, or delete an item from the item's options menu [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set_student_choice_option" data-step-uuid="f13c2c2c-c2c8-4c7e-b816-25c364f95337">
+    <h3 id="set_student_choice_option" class="step-title screensteps-heading">Set Student Choice Option</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/682/original/86099647-f795-406e-ad68-7661d29167db.png" srcset="" alt="Set Student Choice Option" height="425" width="568">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F58B8A0-220F-0135-D389-22000B5A851D" class="text-block-content">
+    <p>When more than one conditional item is added to the same range, the items default to be completed together as indicated by the <strong>And</strong> (ampersand) button [1]. Students who complete the assignment and score in a range with joined assignments must complete all the assignments in the conditional path.</p>
+<p>If you want to give students a choice between assignments in a path, a range's items can be set to complete only one item or group in the path. To create a path option, click the <strong>And </strong>button. The items will separate and the <strong>And</strong> will change to an <strong>Or</strong> button [2]. Students who complete the assignment and score in a range with an <strong>Or</strong> designation can select which item(s) to complete as part of the conditional path. To help select an assignment path, students will be able to view the descriptions of each assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_assignment" data-step-uuid="1a8748f3-ecd8-4b0e-814e-806987c54439">
+    <h2 id="save_assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/168/100/original/ffeb652c-9ac7-4670-97fb-f0368582aab3.png" srcset="" alt="Save Assignment" height="64" width="314">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F59A4B0-220F-0135-D38B-22000B5A851D" class="text-block-content">
+    <p>When you are finished adding conditional items, click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

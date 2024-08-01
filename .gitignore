@@ -16,6 +16,3 @@ __pycache__/
 
 # Ignore model files
 *.gguf
-
-# Ignore data files
-Data/

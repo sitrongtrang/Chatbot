@@ -1,0 +1,174 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_db5ad2da-b92a-46a2-872a-143092a594f0" class="text-block-content">
+    <p>If your content index pages include Blueprint icons, your course is associated with a blueprint course. Blueprint Courses are courses managed as a template and may contain locked objects managed by a Canvas admin, course designer, or other instructor. Locked objects may include attributes for content, points, due dates, and availability dates. Attributes may apply to some or all object types: assignments, discussions, pages, files, and quizzes.</p>
+<p><strong>Locked Objects</strong></p>
+<p>You cannot manage any objects that are locked in your course. Locked objects enforce the attributes defined by your Canvas admin, which can include content, point values, due dates, and availability dates. You can view locked attributes by viewing an individual locked object. </p>
+<p>Attributes for locked objects may be changed from the blueprint course at any time. Any change to an attribute retroactively applies to all locked objects in your course. If an attribute is changed in the blueprint course, any locked attributes in your course that vary from locked attributes in the blueprint course will trigger unsynced changes in the blueprint course and override your course. </p>
+<p>Course Settings, including Course Navigation, can also be part of a blueprint course sync.</p>
+<p><strong>Unlocked Objects</strong></p>
+<p>You can manage any objects that are unlocked in your course. If you modify any unlocked objects, unlocked objects are not overwritten with any synced changes from the blueprint course. Additionally, any new objects you create in your course do not include a blueprint icon and cannot be associated with the blueprint course. </p>
+<p>Please note that unlocked objects from the blueprint can be locked at any time. If you've previously removed an unlocked object from your course, any objects that are later locked in the blueprint course will be replaced in your course.</p>
+<p><strong>Object Management</strong></p>
+<p>This lesson shows how to view objects from the Assignments page. Locked and unlocked objects also display in the Files, Modules, Pages, and Quizzes pages.</p>
+<p>In Modules, only individual module items can be locked. You can manually manage modules and unlocked objects within the modules. However, be aware of the following behaviors that may apply at any time:</p>
+<ul>
+<li>New modules may display at the bottom of the Modules page. These modules are new modules added to the blueprint course and have been synced to associated courses.</li>
+<li>If you rearrange modules or module items, any additional course syncs will update your modules to the same structure in the blueprint course. If you move a module item to another module, the module item will exist in both modules.</li>
+<li>If you delete a module created from the blueprint course, the module will not be restored in additional course syncs.</li>
+<li>If you create new module items, any additional course syncs will retain your new item, but it will be reordered above all blueprint synced module items.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_dc3a716f-7878-4945-9e9d-4c65fdbfb59c" class="text-block-content">
+    <p><strong>Notes: </strong></p>
+<ul>
+<li>To be notified of synced updates from a blueprint course, enable the Blueprint sync notification in User Settings. You can also view the <a href="/t5/Instructor-Guide/How-do-I-view-the-blueprint-sync-information-for-a-course/ta-p/1218" target="_blank">latest Blueprint sync information</a> in Course Settings.</li>
+<li>To view if your course is a blueprint course, view the <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">Course Details page</a> in Course Settings. If your course is a blueprint course, you can <a href="/t5/Instructor-Guide/How-do-I-lock-course-objects-in-a-blueprint-course-as-an/ta-p/1278" target="_blank">lock course objects</a> and <a href="/t5/Instructor-Guide/How-do-I-sync-course-content-in-a-blueprint-course-as-an/ta-p/1271" target="_blank">sync course objects</a> to associated courses. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course" data-step-uuid="d97d3e67-c262-4500-b4ba-a7a699bc756e">
+    <h2 id="open_course" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/743/original/3541bd4b-1a81-42d7-94ca-f7d76ab6f3a8.png" srcset="" alt="Open Course" height="541" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eb5153b7-682e-4c5e-96cb-a51925ed2d14" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="8b41f622-6bbb-487f-86b0-b226d94b4e2c">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/759/209/original/7abb3300-5f3b-4cf8-9614-32b925293259.png" srcset="" alt="Open Assignments" height="240" width="185">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8cbcf3a9-eadc-4835-a75a-c8a6dd9c1586" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+<p><strong>Note</strong>: Blueprint objects can also be viewed in the Files, Modules, Pages, and Quizzes pages.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_icon_status" data-step-uuid="a7cd06eb-056c-4ed5-a276-304b5b1b006f">
+    <h2 id="view_icon_status" class="step-title screensteps-heading">View Object Icons</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/259/647/original/59fe24ef-aafd-4861-86cc-9c69b1db32b4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/259/647/medium/59fe24ef-aafd-4861-86cc-9c69b1db32b4.png" srcset="" alt="View Object Icons" height="273" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f389fe95-d5a2-43ee-aea0-ff59f395d18a" class="text-block-content">
+    <p>In any Index page, you can view the status of each object. White squares indicate the object is unlocked [1]. Squares with a lock icon indicate the object is locked [2]. The hover text also confirms the status of the object.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_object_with_no_icon" data-step-uuid="a2976e27-885d-46f0-b8ba-eeaf12019de0">
+    <h3 id="view_object_with_no_icon" class="step-title screensteps-heading">View Object with No Icon</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/259/645/original/08c4e6da-6728-4e4d-8574-08321b91651c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/259/645/medium/08c4e6da-6728-4e4d-8574-08321b91651c.png" srcset="" alt="View Object with No Icon" height="340" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9d26b2d6-8061-4c9c-a008-73fe06d12844" class="text-block-content">
+    <p>Any new content you create in your course does not include a blueprint icon and cannot be associated with the blueprint course.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_status_in_individual_object" data-step-uuid="7a8a2ff4-f3a1-43d9-a856-c55d9b9d8aca">
+    <h2 id="view_status_in_individual_object" class="step-title screensteps-heading">View Status in Individual Object</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/641/original/6cda60c2-0567-4921-b652-abe3a800a457.png" srcset="" alt="Desktop" height="314" width="612">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6463c9c0-dfc8-4871-806f-dc2b95615e2e" class="text-block-content">
+    <p>Except within Files, blueprint status and locked attributes can be viewed within individual objects.</p>
+<p>Files status can only be viewed in the Files Index Page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_unlocked_object" data-step-uuid="9e0d9d97-dcad-43f1-bd2d-64b8e5a9fb1b">
+    <h2 id="view_unlocked_object" class="step-title screensteps-heading">View Unlocked Object</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/264/507/original/9a031d68-d0ac-4c14-bac3-a26a3143affb.png" srcset="" alt="View Unlocked Object" height="298" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bb077f17-70cc-470f-b2a0-4b3fdc20bf22" class="text-block-content">
+    <p>Objects that are unlocked can be edited, published, and managed like any other Canvas object. The only difference is that the page designates that the object is part of a blueprint course. </p>
+<p>You can modify unlocked content at any time. Any unlocked content that you modify will not be overwritten with additional synced changes from the blueprint course.</p>
+<p><strong>Note</strong>: New content that you create in your course is not associated with the blueprint course and will not display the Blueprint designation. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_instructor_access" data-step-uuid="f32664ce-9d28-463e-9bd4-e0c145771140">
+    <h2 id="view_instructor_access" class="step-title screensteps-heading">View Locked Object</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/643/original/1cf4282f-9738-4302-8672-f7fc7885f0e0.png" srcset="" alt="View Locked Object" height="314" width="612">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_adb73d61-1fdc-4a90-bf68-6d489aff2aff" class="text-block-content">
+    <p>For locked objects, the individual page displays the locked attributes as set by your institution.</p>
+<p>Attributes that can be locked include content (including the object title), points, due dates, and availability dates.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_locked_object" data-step-uuid="94cb767a-ff52-4362-a38a-464755d30ae4">
+    <h3 id="edit_locked_object" class="step-title screensteps-heading">Edit Locked Object</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/649/original/0859767f-9347-4703-818c-69b10cc82f61.png" srcset="" alt="Edit Locked Object" height="710" width="633">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eeb0ac1f-dc5f-4c19-8812-0e812998841b" class="text-block-content">
+    <p>When you edit content in a locked object, locked attributes cannot be edited. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

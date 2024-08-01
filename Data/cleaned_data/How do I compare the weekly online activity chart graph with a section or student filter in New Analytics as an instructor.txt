@@ -1,0 +1,28 @@
+How do I compare the weekly online activity chart graph with a section or student filter in New Analytics as an instructor
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open New Analytics
+To open New Analytics, click the New Analytics link in Course Navigation or click the New Analytics button in the Course Home Page.
+Note: If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.
+View Weekly Online Activity
+Click the Weekly Online Activity tab.
+Filter Data
+Click the Filter field. Type the name of a section or student. Canvas will populate all matching results. 
+When the item displays in the menu, click the item name.
+You can also click the Filter field and scroll to locate and select a section or student. 
+View Additional Filters
+To add another filter, locate the additional filter. The Filter field supports up to three filters. The All Sections filter cannot be removed.
+View Filtered Results
+The added filter displays in the analytics results. Each filter is identified by a specific color and displays as a data point within the table.
+When viewing filters, the default shape for each color is a circle, but you can choose to enable shapes for improved contrast by clicking the Chart Options icon and selecting the Display Shapes option.
+View Data Comparison
+To view a summary for a specific result, hover over a data point in the graph.
+To view data for a specific result, click the data point in the graph.
+View Data Tray
+In the data tray, you can view expanded details for the data point, including the date range, the last time analytics were updated, the current filter view, total page views, total participations, and the student and resources tables.
+To download a CSV of the data, click the Download CSV link.
+Export Table CSV
+To export analytics data as a CSV zip file, click the Download CSV button.
+CSV data is exported according to the filtered data.
+The downloaded zip file includes CSV files for chart data, student table data, and resources table data.
+CSV files may display a student's full name, sortable name, week start, filters, average and total page views, average and total participations, and the resource URL path.

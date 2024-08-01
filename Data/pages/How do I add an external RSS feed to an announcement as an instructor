@@ -1,0 +1,134 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_B5130EF0-1E1B-0135-CA70-22000BC102FE" class="text-block-content">
+    <p>RSS, also known as Rich Site Summary or Really Simple Syndication, is a web feed format that publishes frequently updated information from external websites such as blogs, news headlines, audio, and video. RSS feeds benefit users who want to receive timely updates from favorite websites or to aggregate data from many sites.</p>
+<p>You can add an external RSS feed to a course announcement. The RSS feed will display the 15 most recent posts within Announcements. Please note that the feed will only display content created after you added the RSS feed. Moreover, the RSS feed only displays active announcements. Delayed announcements do not display until they are posted. </p>
+<p><strong>Note</strong>: Adding an RSS feed creates an announcement for every new item added to that feed. Users who have chosen to be notified of new announcements in their Canvas <a href="/t5/Instructor-Guide/How-do-I-manage-my-Canvas-notification-settings-as-an-instructor/ta-p/1222" target="_blank">notification settings</a> may see a substantial increase in the amount of notifications they receive.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_announcements" data-step-uuid="D8125559-6F04-4666-8B95-CEF57DFC98A2">
+    <h2 id="open_announcements" class="step-title screensteps-heading">Open Announcements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/740/387/original/fa850609-d7e3-4f35-a30f-7dc44faf9741.png" srcset="" alt="Open Announcements" height="267" width="179">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B5133E10-1E1B-0135-CA72-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Announcements</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-external-feeds" data-step-uuid="14006455-9e7d-4d84-811c-6e205094a046">
+    <h2 id="open-external-feeds" class="step-title screensteps-heading">Open External Feeds</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/496/299/original/1cd4c2e7-417f-49c5-8151-fcbd20cf4b87.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/496/299/medium/1cd4c2e7-417f-49c5-8151-fcbd20cf4b87.png" srcset="" alt="Open External Feeds" height="128" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49ea77f5-c3b1-486b-b06f-5804e87932ea" class="text-block-content">
+    <p>Click the <strong>External Feeds</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_external_feed" data-step-uuid="71A48EF3-185C-4470-87BD-86407C817217">
+    <h2 id="add_external_feed" class="step-title screensteps-heading">Add External Feed</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/365/121/original/db755e49-1be8-4f88-9e5d-07ba363095cd.png" srcset="" alt="Add External Feed" height="206" width="328">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B5137C60-1E1B-0135-CA74-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add External Feed </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_feed_url" data-step-uuid="8681F903-4AA2-4279-9505-2F71DA38A0E0">
+    <h2 id="enter_feed_url" class="step-title screensteps-heading">Enter Feed URL</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/365/117/original/9129f2e8-04e0-46da-a7c8-1ebeb60b0599.png" srcset="" alt="Enter Feed URL" height="249" width="325">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B513C0E0-1E1B-0135-CA76-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Feed URL </strong>field, paste the feed URL. All new entries from that RSS feed will be added to Announcements.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set_content_to_post" data-step-uuid="26BE6F83-26BC-442C-9E64-F239E8045590">
+    <h3 id="set_content_to_post" class="step-title screensteps-heading">Select Content to Post</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/423/120/original/e0dcb036-8d42-4188-b6b0-db27853de42a.png" srcset="" alt="Select Content to Post" height="405" width="328">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7035ff27-03d5-4190-a86f-6a3b67abcc15" class="text-block-content">
+    <p>You can select the content that users can view in Announcements. </p>
+<p>To view the entire article, click the <strong>Full article</strong> option [1]. </p>
+<p>To view a shortened version of the article, click the <strong>Truncated</strong> option [2]. </p>
+<p>To view a link to the selected article, click the <strong>Link</strong> option [3]. </p>
+<p>You can also choose to add only posts with a specific phrase in the title. Click the <strong>Only add posts with a specific phrase in the title</strong> checkbox [4], and type key words or phrases in the text box.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_feed" data-step-uuid="D4AD7C52-F6F7-4BE8-B9EC-850C61E9DA62">
+    <h2 id="add_feed" class="step-title screensteps-heading">Add Feed</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/365/138/original/31aad9a4-6e6c-414a-a01f-23e0a55c159f.png" srcset="" alt="Add Feed" height="73" width="206">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B5142040-1E1B-0135-CA7A-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Feed</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_external_feeds" data-step-uuid="FF7A0315-037D-45CB-8FF9-3B3580C7E6E6">
+    <h2 id="view_external_feeds" class="step-title screensteps-heading">View External Feeds</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/379/950/original/60b55b0c-fbf8-492d-938e-4e5678975485.png" srcset="" alt="View External Feeds" height="277" width="348">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_107f5b8c-a5ed-445d-a05b-7ec48da3b695" class="text-block-content">
+    <p>View the external feed in the feed list. If you want to delete the external feed, click the <strong>Remove </strong>icon.</p>
+<p><strong>Note</strong>: You will have to wait until a new post is published in the external RSS feed before you can see it in the Announcement feed.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

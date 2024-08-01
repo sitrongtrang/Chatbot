@@ -1,0 +1,44 @@
+How do I create a Fill in the Blank question in New Quizzes as an instructor
+Add Question
+To create a question, click the Add button anywhere in the quiz.
+Add Fill in the Blank Question
+Click the Add Fill in the Blank button.
+Add Question Title and Stem
+In the Question Title field, add a question title. Question titles are optional and are not visible to students.
+In the Question Stem field, add the question stem. The question stem contains additional instructions and information for your Fill in the Blank question. 
+Enter a statement and surround a word with backticks to indicate where a user will fill in the answer (e.g., "Roses are `red`, violets are `blue`"). You can use the Rich Content Editor to format and add content to your question stem.
+Note: To create a backtick using a U.S. keyboard, press the `(backtick) key located below the escape key.
+Select Answer Type
+In the Answer Type menu, select the answer type to use for a blank space. Fill in the Blank answer types are Open Entry, Dropdown, or Word Bank.
+Select Text Match
+For Open Entry answer types, you will need to select a Text Match option from the Text Match menu. The following options are available:
+Contains: Allows for the text to exist anywhere in student responses. However, student answers must match the specified spelling and case. For example, if the blank is "panda", an answer of "It's a panda" will be marked correct, while an answer of "Panda" will be marked incorrect.
+Close Enough: Uses Levenshtein Distance to determine if the response is close enough to the correct answer. Levenshtein Distance is the number of single-character edits needed to change one word to another. You can choose to ignore case.
+Exact Match: Requires case and spelling to match exactly.
+Specify Correct Answers: Specifies that each acceptable response use regular expressions for a custom match.
+Regular Expression Match: Requires using specialized text strings that describe search patterns. The following step includes a few examples of basic concepts used in regular expressions. Regular expressions are not recommended for beginners and cannot be explained in full in this guide. To begin learning more about regular expressions, read the Regular Expression Wikipedia entry.
+Regular Expression Match Examples
+You can use the question mark (?) to indicate zero or one occurrences of the preceding element, the asterisk (*) to indicate zero or more occurrences of the preceding element, and the plus sign (+) to indicate one or more occurrences of the preceding element. For example, colou?r matches both "color" and "colour"; "ab*c" matches "ac", "abc", "abbc", etc.; "ab+c" matches "abc", "abbc", "abbbc", etc.
+You can use a vertical bar (|) to separate alternatives, such as "gray|grey".
+You can use parentheses ("()") to define the scope and precedence of the operators. For example, gr(a|e)y matches "gray" and "grey".
+Select Possible Choices
+For Dropdown answer types, enter the answer choices in the Possible Choices fields. Click the button next to the correct answer.
+To add additional answers, click the Add Answer link. To delete an answer, click the Delete icon.
+Select Word Bank
+For Word Bank answer types, enter the answer choices in the Correct Answer fields. Enter words in the Word Bank Distractors section.
+To add additional distractor words, click the Add Distractor link. To delete a distractor word, click the Delete icon.
+Set Options
+To reuse word bank choices, click the Allow word bank choices to be reused checkbox. To allow students to use an on-screen calculator for this question, click the Show on-screen calculator checkbox. 
+If you select this option, you can enable a basic calculator or scientific calculator. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.
+Note: The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.
+Align to Outcome
+To align the question to an outcome, click anywhere in the Align to Outcomes section.
+Add to Item Bank
+If you want to save a question to use in other quizzes, you can add it to an item bank.
+To add a question to an item bank, click the Add to Bank link.
+Note: After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.
+Add Point Value and Feedback
+To customize the point value for the question, type the point value in the Points field or use the arrows to increase or decrease the point value.
+To leave feedback for students, click the Feedback icon.
+Save Question
+To save the question, click the Done button.

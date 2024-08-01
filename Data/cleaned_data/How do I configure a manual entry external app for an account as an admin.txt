@@ -1,0 +1,38 @@
+How do I configure a manual entry external app for an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link.
+Open Apps
+Click the Apps tab.
+View App Configurations 
+To configure an app, click the View App Configurations button.
+Add App
+Click the Add App button.
+Set Configuration Type
+Select the Configuration Type drop-down menu and set the configuration type to Manual Entry.
+Add App Details
+In the name field, type the name of the app. Type the consumer key and the shared secret in the appropriate fields.
+Add Launch URL and Domain
+In the Launch URL field, enter the Launch URL (source of the iframe for the link) to match the app to Canvas. Example: https://www.launchurl.com
+You can choose to enter a domain in the Domain field. The domain is optional and may be included with or replace launch URL. Type the appropriate URL or domain in the domain field. Example: domain.com
+Note: URLs must be iframe enabled and accept POST requests. Additionally, apps are configured and recommended to be entered as secure links (HTTPS). 
+Set Privacy
+Select the Privacy drop down menu to set the privacy settings:
+Anonymous: No identifying information about the user will be sent to the vendor
+Email Only: The user's email is the only identifying information sent to the vendor. 
+Name Only: The user's name is the only identifying information sent to the vendor.
+Public: Various identifying information (name, email, Canvas ID, SIS ID of the course, SIS ID of user, etc.) is sent to the vendor.
+Add Custom Fields and Descriptions
+Type a custom field in Custom Fields. Custom fields can be used to add extra parameters, such as making the tool appear in an embedded or mini state.
+Type a description of the app in the Description field.
+Submit App
+Click the Submit button.
+Verify App
+If the app has already been added in the account, Canvas verifies that you still want to install the app. To continue, click the Yes, Install Tool button.
+Note: Verifications only take place in the same context for an existing external app (such as installing the same app multiple times in the root account).
+View App
+View the newly configured external app.
+To manage the app, click the Settings icon. To edit the app, click the Edit link. To manage app placements, click the Placements link. To delete the app, click the Delete link.
+To add an external app to the Rich Content Editor toolbar, click the Add to RCE toolbar toggle. This option is only available for external tools that support placement in the Rich Content Editor.
+Note: When you click the Placements link, you may see a No Placements Enabled message. This message indicates that the app does not have any specified placements within Canvas. However, the app will still work as intended.

@@ -1,0 +1,151 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_026fdf92-4fb7-4f72-b880-47b0bdb2a167" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can insert stimulus content in New Quizzes. Stimulus content gives students a piece of content with associated questions.</p>
+<p><strong>Note: </strong>You can add stimulus content to an item bank. However, questions attached to the stimulus content are not automatically added to the item bank and must be added manually.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="f173757c-b68b-4c7a-bd59-d1f50a21c30e">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/891/366/original/47ff9b5f-c46e-4117-8281-4a3e25a4b673.png" srcset="" alt="Add Question" height="415" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d6f53bec-4de8-4223-afb1-24a18a5523ac" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="ff3a18d2-20ee-4558-b8e2-69e96253610e">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add Stimulus Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/776/119/original/cfecb965-8572-42ae-9200-b6fdd489cb79.png" srcset="" alt="Add Stimulus Question" height="428" width="409">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0435e5f0-b840-482e-8595-0634ba251b33" class="text-block-content">
+    <p>Click the <strong>Add Stimulus</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-stimulus" data-step-uuid="f797dd98-f829-4494-8bf2-f19ecd32fb78">
+    <h2 id="add-stimulus" class="step-title screensteps-heading">Add Stimulus</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/843/986/original/7de70609-9d0a-4c99-ae85-a5b1c450882c.png" srcset="" alt="Add Stimulus" height="377" width="609">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e0d24ef3-9364-4cec-ada4-aaf68003e687" class="text-block-content">
+    <p>To create a stimulus title, add a title to the <strong>Title</strong> field [1]. To add instructions for the stimulus, add instructions to the <strong>Instructions</strong> field [2].</p>
+<p><strong>Note:</strong> The title of the stimulus question is visible to students taking the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-stimulus-content" data-step-uuid="5103ea7e-e195-4726-99b5-75b0f5373e06">
+    <h2 id="add-stimulus-content" class="step-title screensteps-heading">Add Stimulus Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/443/054/original/d96c45de-44fa-4f64-958e-eea007c3f42e.png" srcset="" alt="Add Stimulus Content" height="446" width="620">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6955dabe-f4dc-4f63-8ba2-0b9df1c44920" class="text-block-content">
+    <p>To add content for the stimulus, type or paste content into the Rich Content Editor [1]. To format text or add media, links, or tables, <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor icons</a> [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-stimulus" data-step-uuid="f56f2b40-ab22-4b19-8751-ed9c1fea9462">
+    <h2 id="view-stimulus" class="step-title screensteps-heading">Select Stimulus Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/843/990/original/3e367d5a-bb20-4174-b18e-1ed2618e799a.png" srcset="" alt="Add Source URL" height="236" width="609">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1934fe59-dc39-499d-a2c0-d786aa3383f5" class="text-block-content">
+    <p>In the stimulus options [1], you can select where the questions are located and a source URL.</p>
+<p>To select where attached questions are placed in regards to the stimulus, click the <strong>Orientation</strong> drop-down menu [2]. You can place attached questions to the right of the stimulus or below the stimulus.</p>
+<p>To add a source URL, enter the URL in the <strong>Source URL</strong> field [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="71bd18aa-0569-407e-bdb8-9906403b3d80">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/843/992/original/d245e166-b27b-4bcc-99fb-e32bcc85aa9f.png" srcset="" alt="Add to Item Bank" height="145" width="580">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_037256eb-8c9a-44ed-a7a2-4041830ee77b" class="text-block-content">
+    <p>To add the stimulus to an item bank, click the <strong>Add to Bank</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="attach-question" data-step-uuid="29073f89-ba90-4e21-9cdb-841c16d3c05a">
+    <h2 id="attach-question" class="step-title screensteps-heading">Attach Question</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/805/791/original/d4571d89-9edb-400c-84db-6e253129fe0d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/805/791/medium/d4571d89-9edb-400c-84db-6e253129fe0d.png" srcset="" alt="Attach Question" height="491" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_961d3784-4cba-471b-ad04-d79ae108691c" class="text-block-content">
+    <p>To attach a question to the stimulus, click the <strong>Attach Question</strong> button [1]. Then click the question type you want to attach [2]. You can also <a href="/t5/Instructor-Guide/How-do-I-add-an-item-from-an-item-bank-to-a-quiz-in-New-Quizzes/ta-p/589" target="_blank">select content from an item bank</a> [3].</p>
+<p>All question types can be associated with stimulus content.</p>
+<p><strong>Note: </strong>If a question is not attached to the stimulus, the stimulus will not appear in students' quizzes.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-stimulus-question" data-step-uuid="d9948a37-7671-4222-b6d9-0f2fe168ad63">
+    <h2 id="view-stimulus-question" class="step-title screensteps-heading">View Stimulus</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/843/994/original/53031028-c316-48f7-9948-3d3d2db48d66.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/843/994/medium/53031028-c316-48f7-9948-3d3d2db48d66.png" srcset="" alt="View Stimulus" height="451" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cba47ee0-140f-466f-b40b-fe9d4cdb0d2b" class="text-block-content">
+    <p>The stimulus and question will appear side by side in the quiz.</p>
+<p>To attach another question to the stimulus, click the <strong>Attach Question</strong> button.</p>
+<p><strong>Note: </strong>Each question attached to a stimulus will each appear next to the stimulus when the quiz is set to display one question at a time.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

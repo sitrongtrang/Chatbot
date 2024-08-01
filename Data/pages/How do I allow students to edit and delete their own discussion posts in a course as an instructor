@@ -1,0 +1,93 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2E840080-2155-0135-CB9D-22000AB760A3" class="text-block-content">
+    <p>You can allow students to edit and delete their own course discussion replies and group discussion replies by managing settings in the Discussions Index Page. </p>
+<p>This setting can also be managed from <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">the Course Settings page</a>.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If you allow students to edit and delete their own discussion replies, you cannot view previous versions of their reply. </li>
+<li>When a discussion is closed for comments students cannot edit or delete their replies.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_discussions" data-step-uuid="970A3A42-E5C5-48C1-A01F-2DAE20020B60">
+    <h2 id="open_discussions" class="step-title screensteps-heading">Open Discussions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/762/780/original/26e8f9d3-c6dc-4b0b-8173-de11757cc37f.png" srcset="" alt="Open Discussions" height="258" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2E843DE0-2155-0135-CB9F-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Discussions </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="12D8C370-2A84-4F92-A2D4-9958D6E93829">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/236/633/original/0420b76c-a597-45df-bdad-79825a969312.png" srcset="" alt="Open Settings" height="65" width="845">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2E847730-2155-0135-CBA1-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Settings</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_discussion_settings" data-step-uuid="24571FEE-D55E-4E52-96DB-BEB8A1ECDD44">
+    <h2 id="edit_discussion_settings" class="step-title screensteps-heading">Edit Discussion Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/899/784/original/61750d12-b887-4744-a305-77eba315a933.png" srcset="" alt="Edit Discussion Settings" height="489" width="350">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2E84A840-2155-0135-CBA3-22000AB760A3" class="text-block-content">
+    <p>Check the <strong>Edit and delete their own replies </strong>checkbox [1]. To save discussion settings, click the <strong>Save Settings</strong> button [2].</p>
+<p><strong>Note:</strong> Unchecking this option will restrict students from editing and deleting their own Discussion replies. This permission affects replies in new discussion topics, discussion replies, and discussions within course groups.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-student-restriction" data-step-uuid="56337574-d836-4851-a6b2-b9065d4a8eeb">
+    <h2 id="view-student-restriction" class="step-title screensteps-heading">View Student Restriction</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/547/153/original/d45f4256-568a-4b8e-8e6c-a1e39d1980ad.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/547/153/medium/d45f4256-568a-4b8e-8e6c-a1e39d1980ad.png" srcset="" alt="View Student Restriction" height="267" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_237a682c-e381-4623-8e55-49a0b464e9d3" class="text-block-content">
+    <p>When you restrict the ability for students to edit or delete their own replies, students see the Disabled label next to the Edit and Delete options in the Options menu.</p>
+<p><strong>Note:</strong> If the ability for students to edit or delete their own replies is restricted in a course with Discussions Redesign enabled, the Edit and Delete options do not display in the Options menu.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

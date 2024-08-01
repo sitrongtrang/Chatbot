@@ -1,0 +1,177 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4d4ddba8-eaf5-4f4b-891b-f74aa2bba580" class="text-block-content">
+    <p>As part of creating new developer API keys or editing existing developer API keys in your account, you can customize the access the API key receives. Enforcing scopes allows you to control direct access and specific API endpoints for third-party tools associated with your institution.</p>
+<p>By default, scope enforcement is disabled when creating a new developer API key, which allows tokens to access all endpoints available to the authorizing user. However, scopes can be edited for a developer API key at any time and update access tokens for the authorizing user appropriately.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Managing Developer Keys is an account permission. If you cannot manage developer keys, this permission has not been enabled for your user role.</li>
+<li>Developer Keys are not available in subaccounts.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="647b53b4-c84e-48c8-ac15-b05fc985824a">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7ea9ff48-c966-46e6-88ee-a48cb758a67c" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-developer-keys" data-step-uuid="4416ff3f-62d1-4b4e-a9d9-cee2e0fb3d53">
+    <h2 id="open-developer-keys" class="step-title screensteps-heading">Open Developer Keys</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/816/original/8c1bbfa9-a338-4e59-b135-2bf7b09c5f58.png" srcset="" alt="Open Developer Keys" height="235" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_169b4286-c6f7-4d97-a6aa-8d1e65b840f8" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Developer Keys</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-developer-key" data-step-uuid="52e4ca90-0c7e-45a5-b62a-4dae3ed8b26a">
+    <h2 id="add-developer-key" class="step-title screensteps-heading">Add Developer Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/083/261/original/e32e4966-287a-4856-8c12-457606e96191.png" srcset="" alt="Add Developer Key" height="66" width="187">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_93f6c8e4-9149-4eea-94aa-9e1f0c6d85db" class="text-block-content">
+    <p>Click the <strong>Add Developer Key</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-api-key" data-step-uuid="a6b1ff7f-0437-4e4b-9675-4c6a7b4fb477">
+    <h3 id="add-api-key" class="step-title screensteps-heading">Add API Key</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/552/365/original/bfbbbaab-77a7-405a-b9e4-5b881f1123ef.png" srcset="" alt="Add API Key" height="160" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8d0580fe-2f4b-422a-9720-25254c985fde" class="text-block-content">
+    <p>Click the <strong>Add API Key</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enforce-scopes" data-step-uuid="16b2eecc-a8ea-468e-af92-a3bb60f1c844">
+    <h2 id="enforce-scopes" class="step-title screensteps-heading">Enforce Scopes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/083/255/original/08f10eae-24cb-499a-a981-47ec5c0b89a2.png" srcset="" alt="Enforce Scopes" height="71" width="212">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5b64fec7-fce1-4904-bd67-c7d56fbb1494" class="text-block-content">
+    <p>After you've completed the developer key information, click the <strong>Enforce Scopes</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="allow-include-parameters" data-step-uuid="deb841e3-2615-4ef5-b999-987d056a74a9">
+    <h2 id="allow-include-parameters" class="step-title screensteps-heading">Allow Include Parameters</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/083/257/original/fd28bba1-4312-4fc5-b232-c7b8afbf64b2.png" srcset="" alt="Allow Include Parameters" height="108" width="261">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b9dc567d-4104-46c3-b91f-77bd334a50b8" class="text-block-content">
+    <p>To permit usage of all "includes" parameters for this key, click the <strong>Allow Include Parameters</strong> checkbox.</p>
+<p>"Includes" parameters may grant access to additional data that is not included in the Endpoints table.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search-endpoints" data-step-uuid="6e626386-db60-4c7d-8269-8ce6de5bd77c">
+    <h2 id="search-endpoints" class="step-title screensteps-heading">Search Endpoints</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/083/263/original/32ecda05-a94d-40dd-9962-5b6545715ce4.png" srcset="" alt="Search Endpoints" height="519" width="608">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ef64c6ce-79ad-499c-9df7-7b404d2d6bf6" class="text-block-content">
+    <p>To search for a specific endpoint, type the name of the endpoint in the <strong>Search Endpoints</strong> field [1].</p>
+<p>To see all available endpoints, scroll through the Endpoints table [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-read-only-endpoints" data-step-uuid="4632944d-0f6f-43e5-adeb-910862f5a1ec">
+    <h2 id="select-read-only-endpoints" class="step-title screensteps-heading">Select Read Only Endpoints</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/083/259/original/6fdb8dd9-410b-48c8-abb0-4a7c7d777d6c.png" srcset="" alt="Select Read Only Endpoints" height="519" width="608">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_95a28dd8-d111-4a94-b0a2-1cd9e6e96195" class="text-block-content">
+    <p>To grant read-only (GET) access to the developer key, select the <strong>Read only</strong> checkbox. The table will automatically update and select all scopes that contain read-only endpoints.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-individual-endpoints" data-step-uuid="24d38674-3c2e-4f43-b8c0-9dd26850c805">
+    <h2 id="select-individual-endpoints" class="step-title screensteps-heading">Select Individual Endpoints</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/742/799/original/2f018750-265c-47f6-91c5-519134596569.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/742/799/medium/2f018750-265c-47f6-91c5-519134596569.png" srcset="" alt="Select Individual Endpoints" height="405" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8f5dd2e1-eba8-4476-84ed-5b9c0b94670f" class="text-block-content">
+    <p>You can grant customized access to the developer API key. Click any scope name to view available endpoints [1]. Select the desired endpoints by clicking the checkbox next to the endpoint name [2]. The scope name line will update to show the summary of the collective selected endpoint access [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-key" data-step-uuid="4e8779bc-edd5-44b1-b461-e8411ef1c34e">
+    <h2 id="save-key" class="step-title screensteps-heading">Save Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/083/265/original/8538c03d-f619-4935-8e8b-f5b5989f4ec6.png" srcset="" alt="Save Key" height="60" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9226eab6-3a16-4446-8ced-ac39c492b37c" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,166 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_98256494-684a-4cc0-8291-02e76985a5cd" class="text-block-content">
+    <p>You can edit outcomes you have created in your account. You can also remove outcomes from your account.</p>
+<p>This lesson displays how to edit or remove outcomes in an account that has enabled the Improved Outcomes Management feature option. If the Outcomes page in your account displays differently than the images in this lesson, learn how to <a href="/t5/Admin-Guide/How-do-I-edit-or-delete-an-outcome-in-an-account/ta-p/148" target="_blank">edit or remove outcomes in the classic Outcomes page view</a>.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If an outcome does not include an Edit or Delete link, it is an account level outcome or an imported outcome that cannot be edited or deleted.</li>
+<li>Outcomes that have been aligned with an assignment or question bank cannot be deleted unless they are removed from the assignment or question bank. Outcomes that have been used to assess a student cannot be deleted.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="d3d2c018-a804-4085-96bf-aec598d9be7e">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8b234db6-4b11-4e90-939f-c16733f7e0d9" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="cc7c1734-d2ed-4dbd-8633-a4177258ac81">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/832/788/original/cda2108d-b74e-42f3-821e-ad4d0eb5101c.png" srcset="" alt="Open Outcomes " height="282" width="160">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45bf95a9-bc19-4d8b-89dd-0dc630eb3938" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-outcome" data-step-uuid="5b3ddc0b-8c99-4ec0-862d-92f6ef75cdf4">
+    <h2 id="select-outcome" class="step-title screensteps-heading">Select Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/120/421/original/159a8cc4-5d3b-4cf7-b056-9542957c487f.png" srcset="" alt="Select Outcome" height="449" width="789">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f9f4d5a0-6147-4bfd-a1fd-85fb93f5c497" class="text-block-content">
+    <p>Locate the outcome you want to modify [1]. In order to view your outcome, you may first need to click the outcome group [2].</p>
+<p><a href="/t5/Admin-Guide/How-do-I-use-the-outcomes-page-in-an-account-in-Improved/ta-p/486333" target="_blank">Learn how to use the Outcomes page.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modify-outcome" data-step-uuid="0a33cacf-4daa-4466-949d-9cf6f6abecf9">
+    <h2 id="modify-outcome" class="step-title screensteps-heading">Modify Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/727/577/original/fb6cd0bd-152c-47c2-8f4d-c34354cabbfe.png" srcset="" alt="Modify Outcome" height="405" width="508">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_19046d62-29f1-470c-b6c1-3eac0bb9defb" class="text-block-content">
+    <p>To edit an outcome, click the <strong>Options</strong> icon [1]. Then click the <strong>Edit</strong> link [2].</p>
+<p><strong>Note:</strong> If you cannot use the Edit link for an outcome, it may be an imported outcome.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-outcome" data-step-uuid="63229413-2ffd-4ebe-8971-7c538bc0fbb6">
+    <h2 id="edit-outcome" class="step-title screensteps-heading">Edit Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/120/424/original/00c7e176-fd72-4be2-bb30-d6ad6002ab72.png" srcset="" alt="Edit Outcome" height="518" width="775">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bd1c0e57-2952-45e1-aeb4-37eba623427c" class="text-block-content">
+    <p>You can edit the name [1], friendly name [2], and description [3] for the outcome.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="modify-mastery-scale" data-step-uuid="b0dba8f2-04d9-412f-893c-eb883d1be61c">
+    <h3 id="modify-mastery-scale" class="step-title screensteps-heading">Modify Mastery Scale</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/832/847/original/408c7f99-3c18-46d3-b743-4d318e496ece.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/832/847/medium/408c7f99-3c18-46d3-b743-4d318e496ece.png" srcset="" alt="Modify Mastery Scale" height="522" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0311b595-5832-4169-9787-7981794c86ba" class="text-block-content">
+    <p>You can make changes to <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-scales-in-an-account/ta-p/429017" target="_blank">outcome mastery scales </a>in the <strong>Mastery</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="modify-mastery-calculation-method" data-step-uuid="a957e584-f314-4bf3-a6a6-901a273ddecf">
+    <h3 id="modify-mastery-calculation-method" class="step-title screensteps-heading">Modify Mastery Calculation Method</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/832/849/original/f2c14d87-b116-4918-b3a2-226eac4345d5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/832/849/medium/f2c14d87-b116-4918-b3a2-226eac4345d5.png" srcset="" alt="Modify Mastery Calculation Method" height="376" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85da3404-700c-4f99-b748-235d65440fbb" class="text-block-content">
+    <p>You can make changes to <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-calculations-in-an-account/ta-p/429016" target="_blank">calculation methods</a> in the <strong>Calculation</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove-outcome" data-step-uuid="43df7ab7-7fcb-4472-b505-8427913e8244">
+    <h2 id="remove-outcome" class="step-title screensteps-heading">Remove Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/741/589/original/06624ec4-0850-473d-b71d-da5c11a5f2ee.png" srcset="" alt="Remove Outcome" height="242" width="791">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ce11684-ddc3-4c5d-b14f-91f4b8e9cbe9" class="text-block-content">
+    <p>To remove an outcome from your account, click the <strong>Settings</strong> icon [1] and click the <strong>Remove</strong> link [2].</p>
+<p><strong>Note:</strong> If you cannot use the Remove link for an outcome, it may be an imported outcome or an outcome aligned with an assignment or question bank.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-removal" data-step-uuid="74dde29d-7e46-4765-bbb7-e35a38a52dd5">
+    <h3 id="confirm-removal" class="step-title screensteps-heading">Confirm Removal</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/120/428/original/be9a768f-ca08-4015-94d7-ae9e62081318.png" srcset="" alt="Confirm Removal" height="300" width="478">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88f6f5cf-f738-4323-8cce-03347d3ea446" class="text-block-content">
+    <p>To confirm you want to remove the outcome, click the <strong>Remove Outcome</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,32 @@
+How do I create an automated data integration for an account with Canvas and my SIS as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Permissions
+In Account Navigation, click the Permissions link.
+Modify User Role and Permissions
+In the Account Roles tab, create an account-level user role and allow the user to manage SIS data. If you do not want to create a new user role, you can use an existing user role and modify the permissions. 
+Manually Add New User
+You'll need to manually add a new user to manage the SIS data. You can use an existing user imported via SIS, but manually creating a new user is beneficial for security purposes. This new user will end up with only one permission, but that one permission grants the ability to create, modify, and delete many object types in Canvas.
+Add User as Admin
+To enable SIS permissions, add your admin as an administrative user to your account. Set the user with the user role where you enabled the SIS data permission.
+Obtain API Access Token
+Log out of Canvas and then log back in as the new user. In User Settings under Approved Integrations, add a new access token. Leave the expiration date blank unless you have a reason to specify a date. Learn how to obtain an API access token. 
+Note: Be sure to save this API access token in a safe place. An API access token is effectively the same as a username and password, so treat it with similar security. Remember that the token created in your test environment will be replaced by the token created in your production environment during the next test environment refresh period.
+Import Data via API
+curl -H "Authorization: Bearer <api_token>" 'https://<canvas_fqdn>/api/v1/accounts/self/sis_imports/<import_id>'
+Practice importing data via the API. One API method is using cURL, a command line tool for transferring data that is supported on all operating systems (Windows, Linux, and OSX). The API can show you how to practice importing a test file and checking the status of a previous import.
+Learn more about using the API to import data into Canvas.
+Create Import Script
+Using your preferred programming language, create an SIS script. An SIS script automatically synchronizes the users in your institution with your Canvas account. View the SIS script flowchart. 
+The import script can be as simple or complex as your institution requires. Additionally, a variety of programming languages can be used to write your import script/program. 
+Learn more about creating a Canvas SIS script. 
+Export Data and Create Canvas CSV File
+Export your SIS data in a Canvas CSV file format. Place the file(s  ) into a directory or folder that only contains CSV files ready to be imported. Depending on your SIS, this step may be automated. For more information on integration, please contact your Canvas Customer Success Manager.
+SIS Exports
+Due to extensive variations among Student Information Systems (SIS),   this lesson cannot document one all-inclusive method for exporting data. However, here are a few possible data access methods that may be available to you:
+API access: The SIS may provide an API in some form that will allow you to collect data.
+Direct data (database  access): The SIS may allow direct database (or other direct data  ) access to your SIS data.
+Report generation or data export: The SIS may have the ability to run reports or export data and have them delivered via email, from a web site/program, or saved to a folder.
+Trigger or tracking events: The SIS may have the ability to run jobs on a triggered event. This type of tracking may be better suited to direct API manipulation of Canvas objects, but you could have a script/program that collects the triggered changes for batch updates at frequent intervals using SIS imports.
+Once you know how to access your SIS data, a script/program could be written and used to manipulate and filter the data to match the format required for CSV SIS imports. In some cases, you may have to manually perform this step. You will need to work with your SIS administrative team or vendor to work out the best way to export data.
+Note: While working with your SIS team, be sure to provide them with the Canvas CSV file format documentation, which may reduce the complexity of or eliminate the need for a script/program to prepare the data before the import.

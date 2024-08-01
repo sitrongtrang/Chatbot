@@ -1,0 +1,166 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A31E5120-22F3-0135-6F73-22000AB760A3" class="text-block-content">
+    <p>You can create an online web conference in your <a href="/t5/Student-Guide/How-do-I-view-my-Canvas-groups-as-a-student/ta-p/281" target="_blank">student group</a>. Conferences can be created with as many users as needed, though the recommended guideline is a limit of 100 users.</p>
+<p>You can create multiple conferences, which are listed in chronological order by the date they were created. The most recently created conference will appear at the top of the list.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Creating a web conference is a <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Course-Role-Permissions/ta-p/387080" target="_blank">course role permission</a>. If you cannot create a conference, your institution has restricted this feature.</li>
+<li>Users invited to a conference will not receive a notification in Canvas. However, depending on the user's notification settings, they may receive a notification via their <a href="/t5/Student-Guide/How-do-I-manage-my-Canvas-notification-settings-as-a-student/ta-p/434" target="_blank">preferred notification method(s)</a>. To notify group users of a conference in Canvas, consider adding a <a href="/t5/Student-Guide/How-do-I-add-an-announcement-in-a-group/ta-p/458" target="_blank">group announcement</a> or <a href="/t5/Student-Guide/How-do-I-view-a-group-calendar/ta-p/269" target="_blank">calendar event</a>.</li>
+</ul>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_62ff80c1-b114-4b40-b917-29eb5c931446" class="text-block-content">
+    <p><strong>Note:</strong> If your institution is likely to need more than 10 concurrent Conferences powered by BigBlueButton, consider upgrading to Premium BigBlueButton or exploring alternative conferencing solutions Canvas partners with, such as Zoom, Hangouts, Teams, and other <a href="https://www.instructure.com/canvas/blog/canvas-partners-and-distance-learning" target="_blank" rel="nofollow noopener noreferrer">video conferencing tools</a> who are offering free or discounted services. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_conferences" data-step-uuid="71F05E37-819E-47AF-B2F1-774BAD5F5B18">
+    <h2 id="open_conferences" class="step-title screensteps-heading">Open Conferences</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/957/949/original/a16f5762-a8ba-4e91-b833-7af4b32ea8bc.png" srcset="" alt="Open Conferences" height="335" width="171">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A31E8470-22F3-0135-6F75-22000AB760A3" class="text-block-content">
+    <p>In Group Navigation, click the link for your web conferencing tool. The link name reflects the conferencing tool used by your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_new_conference" data-step-uuid="57E676BA-62E1-485C-8EBD-C1D5CBA95A38">
+    <h2 id="create_new_conference" class="step-title screensteps-heading">Add Conference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/238/319/original/8e6ba536-bf64-43a8-a9c5-ab2a0f7caa7a.png" srcset="" alt="Add Conference" height="64" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A31EB880-22F3-0135-6F77-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Conference</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_conference_details" data-step-uuid="FAD956F8-EC28-4271-8603-4C3DCEE5C5C2">
+    <h2 id="add_conference_details" class="step-title screensteps-heading">Manage Conference Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/238/321/original/eac9b9eb-9e22-4dd9-bd59-f9ecd83abb1d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/238/321/medium/eac9b9eb-9e22-4dd9-bd59-f9ecd83abb1d.png" srcset="" alt="Add Conference Settings" height="608" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A31EED30-22F3-0135-6F79-22000AB760A3" class="text-block-content">
+    <p>The New Video Conference window defaults to the <strong>Settings</strong> tab [1].</p>
+<p>To create a new conference, type a name for the conference in the <strong>Name</strong> field [2].</p>
+<p>If you want to set a time limit on how long invited members are able to join the conference, enter the number of minutes in the <strong>Duration in Minutes </strong>field [3]. The time limit begins when the presenter starts the conference. Once the duration has expired, new participants cannot join, and the conference continues until the last person leaves the conference room or the conference organizer concludes the conference.</p>
+<p>If you want to enable <a href="/t5/Student-Guide/How-do-I-record-a-conference-in-a-student-group/ta-p/271" target="_blank">recording options</a> for this conference, click the <strong>Enable recording for this conference </strong>checkbox [4].</p>
+<p>If you don't want to set a time limit for the conference, you can create a long-running conference by clicking the <strong>No time limit (for long-running conferences)</strong> checkbox [5]. </p>
+<p>To have participants wait in a waiting room as they join, click the <strong>Enable waiting room</strong> checkbox [6]. As the conference organizer, you will need to admit participants who are in the waiting room.</p>
+<p>To create a description of your conference, type a description in the <strong>Description</strong> field [7]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="invite_course_members" data-step-uuid="5536cf38-6c0e-45d8-90ae-0454f6255d41">
+    <h2 id="invite_course_members" class="step-title screensteps-heading">Manage Attendees</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/238/323/original/7462a654-70c3-41fb-929b-10af58311a0f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/238/323/medium/7462a654-70c3-41fb-929b-10af58311a0f.png" srcset="" alt="Manage Attendees" height="553" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A31F2150-22F3-0135-6F7B-22000AB760A3" class="text-block-content">
+    <p>To manage settings and invitations for attendees, click the <strong>Attendees</strong> tab [1].</p>
+<p>By default, all group members will be invited to the conference [2]. </p>
+<p>You can manage the following attendee settings:</p>
+<ul>
+<li>
+<strong>Share webcam: </strong>allows attendees to share their webcam [3].</li>
+<li>
+<strong>See other viewers webcams:</strong> allows attendees to see other viewers' webcams [4].</li>
+<li>
+<strong>Share microphone:</strong> allows attendees to share their microphones [5].</li>
+<li>
+<strong>Send public chat messages: </strong>allows attendees to send public chat messages [6].</li>
+<li>
+<strong>Send private chat messages:</strong> allows attendees to send private chat messages [7].</li>
+</ul>
+<p><strong>Note:</strong> Conferences can accommodate as many users as needed, though the recommended guideline is a limit of 25 users. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="invite-individual-members" data-step-uuid="1cbb7924-b95d-4471-9d57-bd09c92d42ae">
+    <h3 id="invite-individual-members" class="step-title screensteps-heading">Invite Individual Members</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/238/325/original/ca52c837-c366-4dac-89a2-e993a583dc06.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/238/325/medium/ca52c837-c366-4dac-89a2-e993a583dc06.png" srcset="" alt="Invite Individual Members" height="366" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09cc5c73-fb29-4ff9-9ee2-d39a1e04ae0d" class="text-block-content">
+    <p>To invite specific group members, de-select the <strong>Invite all group members </strong>checkbox [1]. Then click the <strong>Course Members</strong> drop-down menu [2]. From the list, select member names one at at time [3]. </p>
+<p><strong>Note: </strong>You can add any user in your group to your conference. However, once a user has been invited, the user cannot be removed from the conference.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_conference" data-step-uuid="2fdbb470-6dad-435a-89ab-9960fa67c19f">
+    <h2 id="update_conference" class="step-title screensteps-heading">Create Conference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/238/327/original/463a92a7-ebb9-43bf-8b49-a64004fd65bd.png" srcset="" alt="Create Conference" height="84" width="212">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_366bc11f-27c4-4145-a560-22e756b329cf" class="text-block-content">
+    <p>To save the conference settings, click the <strong>Create </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-conference" data-step-uuid="7757e450-46dc-4e89-89a5-892e01adaf32">
+    <h2 id="view-conference" class="step-title screensteps-heading">View Conference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/238/329/original/e8d4549d-71e3-4ce7-9915-846625b0d6a3.png" srcset="" alt="View Conference" height="176" width="807">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_042ab31b-7e2f-4ff3-8175-9aed5847d33c" class="text-block-content">
+    <p>View your created conference.</p>
+<p><strong>Note: </strong>Students invited to a conference will not receive a notification in Canvas. However, depending on the student's notification settings, they may receive a notification via email, text, and/or push notifications. To notify students of a conference in Canvas, consider adding a <a href="/t5/Student-Guide/How-do-I-add-an-announcement-in-a-group/ta-p/458" target="_blank">group announcement</a> or <a href="/t5/Student-Guide/How-do-I-view-a-group-calendar/ta-p/269" target="_blank">calendar event</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

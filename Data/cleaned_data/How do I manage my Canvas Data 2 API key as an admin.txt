@@ -1,0 +1,14 @@
+How do I manage my Canvas Data 2 API key as an admin
+Find Institution
+In your web browser, visit identity.instructure.com. In the Institution drop-down menu, search for your institution by entering its name. Once it appears, click your institution's name.
+Note: If your institution does not appear in the search list, please contact your Customer Success Manager about account domain lookup.
+Log into Identity Services
+Click the Log In to Canvas button.
+Authorize Access
+To authorize Identity Service to access your account, click the Authorize button.
+Manage API Key
+To manage the API key, click the Eye icon.
+Edit API Key
+You can edit the name of the API key. You can view the expiration date, key type, creation date, and creator. 
+To save the edited name, click the Save button. 
+To delete the API key, click the Delete button.

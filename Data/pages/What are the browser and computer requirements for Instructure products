@@ -1,0 +1,246 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_B78BAFC0-08CB-0135-07FE-22000BC102FE" class="text-block-content">
+    <p>For best performance, Instructure products should be used on the current or previous major releases of Chrome, Firefox, Edge, or Safari. Because Instructure products are built using web standards, Instructure products run on Windows, Mac, Linux, iOS, Android, or any other device with a modern web browser.</p>
+<p>Instructure products require an operating system that can run the latest compatible web browsers. Your computer operating system should be kept up to date with the latest recommended security updates and upgrades. </p>
+<p><strong>Note: </strong>Vanity Canvas URL users may encounter SSL validation errors when they open Canvas if their browser or any other tools interacting with Canvas are not Server Name Indication (SNI) compatible. All browser versions listed in this guide are SNI compatible.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="supported_browsers" data-step-uuid="12205DBC-AF7E-4A96-9077-8141F010114F">
+    <h2 id="supported_browsers" class="step-title screensteps-heading">Supported Browsers</h2>
+      <div class="html-embed">
+  <style>
+@media only screen and (min-width: 650px) {
+#browser-check {width: 100%; 
+	height: 400px; 
+	max-height: 100vh; 
+	max-height: 675px; 
+	border: 0;
+   border-bottom: 2px solid #333;
+ }
+}
+@media only screen and (max-width: 649px) {#browser-check {height: 115vh; border: 0; border-bottom: 2px solid #333; width: 100%; max-height: 650px;}
+}
+</style>
+
+<iframe id="browser-check" src="https://community.canvaslms.com/xjnht99997/plugins/custom/instructure/instructure/browser-version-check-tool"></iframe>
+
+</div>
+
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dd07fc6d-45c2-4c0d-b177-bdd164248211" class="text-block-content">
+    <p>The widget above searches your current browser settings and indicates your browser status. You should always use the most current version of your preferred browser. Your browser will notify you if there is a new version available. Cookies and JavaScript should be enabled.</p>
+<p><strong>Unsupported Browser Banner in Canvas</strong></p>
+<p>Some supported browsers may still produce a banner stating <em>Your browser does not meet the minimum requirements for Canvas</em>. If you have upgraded your browser, but you are still seeing the warning banner, try logging out of Canvas and <a href="/t5/Canvas-Basics-Guide/How-do-I-clear-my-browser-cache-and-cookies/ta-p/43" target="_blank">clearing your browser's cache and cookies</a>.</p>
+<p><strong>Enterprise Extended Release Browsers in Canvas</strong></p>
+<p>Chrome and Firefox offer extended release versions for organizations that manage client desktops. Chrome ESR can be kept up-to-date with the existing full version of Chrome at any time. However, Firefox ESR is only updated with every seventh major version, which causes Firefox ESR to overlap with outdated versions. The <a href="https://www.mozilla.org/en-US/firefox/organizations/" target="_blank" rel="nofollow noopener noreferrer">Firefox ESR webpage</a> notes that ESR may not be supported in every web application because of this version release delay. Institutions who use Firefox ESR should consider deploying the latest release to ensure the best Canvas user experience.</p>
+<p>* For extended release browser versions, the warning banner still applies and displays in Canvas for any browser below the minimum version requirement.</p>
+<p><strong>Known Browser Behaviors</strong></p>
+<p>Like all Instructure product features, contrary behaviors relating to browsers are prioritized by our product teams, and some behaviors in the previous version may not be resolved. If a behavior exists in the previous version of the browser that does not exist in the current version, the best solution is to update to the newest browser version.</p>
+<p>The Safari browser does not support recording media.</p>
+<p>Recording media in Studio or Canvas SpeedGrader is not supported in the Safari or Firefox browsers.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="accessibility" data-step-uuid="63c89da3-f17c-4c4a-9d15-6f953a3ec944">
+    <h2 id="accessibility" class="step-title screensteps-heading">Accessibility</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4d90373d-341f-4081-bec8-e226ca823a97" class="text-block-content">
+    <p>Instructure is committed to W3C's Web Accessibility Initiative. To learn about supported screen reader and browser combinations, please see the <a href="/t5/Canvas-Basics-Guide/What-are-the-Canvas-accessibility-standards/ta-p/1564" target="_blank">Canvas accessibility standards</a>, <a href="https://community.canvaslms.com/t5/Accessibility/Accessibility-within-Studio/ta-p/402269" target="_blank">accessibility within Studio</a>, and <a href="https://community.canvaslms.com/t5/Mastery-Connect-Assessments/What-is-the-New-Mastery-Connect-Student-Experience/ta-p/386879" target="_blank">Mastery Connect accessibility options</a> documents.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="required_components" data-step-uuid="f28f635c-8f63-4d76-ac0d-721c2861056c">
+    <h2 id="required_components" class="step-title screensteps-heading">JavaScript</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B78BF9B0-08CB-0135-0801-22000BC102FE" class="text-block-content">
+    <p>JavaScript must be enabled to run Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="cookies" data-step-uuid="abcdb9ee-52dc-4fa7-b099-6e4e5d083f0d">
+    <h2 id="cookies" class="step-title screensteps-heading">Cookies</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4425ea14-8872-4278-a537-08b146ed5c75" class="text-block-content">
+    <p>Cookies must be enabled. Additionally, some Canvas functionality requires third-party cookies to be enabled. You can <a href="/t5/Canvas-Basics-Guide/How-do-I-enable-third-party-cookies-in-my-browser/ta-p/605670" target="_blank">learn how to enable third-party cookies</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="browser_plugins_and_extensions" data-step-uuid="3054925e-1660-442a-a718-caf6e7202bea">
+    <h2 id="browser_plugins_and_extensions" class="step-title screensteps-heading">Browser Plugins and Extensions</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B78C10E0-08CB-0135-0802-22000BC102FE" class="text-block-content">
+    <p>Some browser plugins or extensions may conflict with Instructure products and affect functionality. If you experience behavior that does not allow you to view or participate in Instructure products, please ensure you have disabled any extensions or plugins that interact directly with your web browser. </p>
+<p>For troubleshooting, consider logging in to Instructure products using an incognito or private browser window, which provides a browser session without any prior browsing or search history, associated browser cookies, or other factors that may interfere with the browser. If you are able to view and participate in an Instructure product using an incognito or private browser window, the behavior you are experiencing is likely related to the browser and not the Instructure product.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="browser_privacy_settings" data-step-uuid="e77fad9d-ffe1-439e-9d13-1b23bb5c7f72">
+    <h2 id="browser_privacy_settings" class="step-title screensteps-heading">Browser Privacy Settings</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B78C26C0-08CB-0135-0803-22000BC102FE" class="text-block-content">
+    <p>To ensure browser security, follow all browser security policies established by your institution, especially if you are using Instructure products on a computer provided by your institution. </p>
+<p>When displaying content, Instructure products default to the preference set by a specific browser. Some browsers may occasionally make modifications to privacy settings to protect users from possible insecure content. Insecure content is identified with the prefix http:// in the URL and can create mixed content in your product page. Secured content is identified with the https:// prefix in the URL. For the best user experience, content should be secure to avoid browser conflicts.</p>
+<ul>
+<li>If you are a Canvas admin, insecure content may be caused by hosting an insecure JS/CSS file outside of Canvas. If custom uploads are supported for your account, you can host your file in the Canvas Theme Editor, which will resolve any browser conflicts.</li>
+<li>If you are a Canvas instructor who <a href="/t5/Instructor-Guide/How-do-I-embed-a-guide-in-a-Canvas-course/ta-p/626" target="_blank">embeds Canvas lessons</a> inside your course, you can prevent browser issues with mixed content using secured Canvas Guides URLs. </li>
+</ul>
+  </div>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ea4e8c5f-365c-4f6e-8650-d8e4909b0ad8" class="text-block-content">
+    <p><strong>Known Browser Behaviors</strong></p>
+<p>Chrome, Edge, Firefox, and Safari use HTML5 to display website content, promoting a faster, more secure browsing experience. For best performance in Instructure products, content should be designed to support HTML5. </p>
+<p>In browsers such as Safari, insecure content never displays in the browser. However, in Chrome and Firefox, you may be able to view insecure content. Please be aware of possible restrictions and view insecure content with caution.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="chrome_security" data-step-uuid="d4f24c08-eb59-4f0a-b2ce-2dacfdfc3783">
+    <h3 id="chrome_security" class="step-title screensteps-heading">Chrome Security</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/327/135/original/5df53e09-99bd-4b7b-a99b-828375752c34.png" srcset="" alt="Chrome Security" height="450" width="490">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B78D3840-08CB-0135-0805-22000BC102FE" class="text-block-content">
+    <p>Google Chrome verifies that the website content you view is transmitted securely. If you visit a page in your Instructure product that is linked to insecure content, Chrome displays a <strong>Not Secure</strong> security symbol in the browser address bar [1].</p>
+<p>To select any needed permissions for a page, you can override security restrictions by clicking the Not Secure symbol and then clicking the <strong>Site settings</strong> link [2].</p>
+<p>You can <a href="https://support.google.com/chrome/answer/95617?visit_id=638512116190830374-784906440&amp;p=ui_security_indicator&amp;rd=1" target="_blank" rel="nofollow noopener noreferrer">learn more about Chrome security</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="chrome_media_permissions" data-step-uuid="c74a6d0c-3710-482e-9a99-05d4391fefbe">
+    <h3 id="chrome_media_permissions" class="step-title screensteps-heading">Chrome Media Permissions</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/063/732/original/6fce4bf1-3710-43e1-b86a-59b7e17e5488.png" srcset="" alt="Chrome Media Permissions" height="205" width="342">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B78D6210-08CB-0135-0807-22000BC102FE" class="text-block-content">
+    <p>Chrome has its own media permission within the browser. To use your computer camera and microphone within any Instructure product feature, allow access to Instructure products via Chrome's media permission settings. This prompt appears just below the address bar [1]. To allow access, click the <strong>Allow </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="firefox_security" data-step-uuid="bcd81faa-9186-4428-abdb-af3963bc77d2">
+    <h3 id="firefox_security" class="step-title screensteps-heading">Firefox Security</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/327/137/original/8ed38fc3-a2f6-45b5-8aa2-699e1be0c4c5.png" srcset="" alt="Firefox Security" height="195" width="545">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B78D9120-08CB-0135-0809-22000BC102FE" class="text-block-content">
+    <p>Firefox<strong> </strong>verifies that the website content you view is transmitted securely. If you visit a page in your Instructure product that is linked to insecure content, Firefox displays a crossed-out lock icon in the browser address bar [1]. </p>
+<p>To enable any needed permissions for a page, you can override security restrictions by clicking the crossed-out lock icon, clicking the <strong>Connection not secure</strong> option [2], clicking the <strong>More Information </strong>link, and selecting the <strong>Permissions</strong> tab. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="computer-specifications" data-step-uuid="ae5d96e9-8c9d-4711-9d2c-be3f5eb90cfa">
+    <h2 id="computer-specifications" class="step-title screensteps-heading">Computer Specifications</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3f50e9c9-7921-4263-9be7-edaa1931bcf0" class="text-block-content">
+    <p>For best performance, access Instructure products with a computer that supports the most recent browser versions. It is recommended to use a computer five years old or newer with at least 1GB of RAM.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="operating-system" data-step-uuid="9b400714-12ac-44b5-82e0-f550d963ef11">
+    <h3 id="operating-system" class="step-title screensteps-heading">Operating System</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_018371a7-e922-44ae-9a99-721c8b8df59f" class="text-block-content">
+    <p>Instructure products require an operating system that can run the latest compatible web browsers. Your computer operating system should be kept up to date with the latest recommended security updates and upgrades. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="internet-speed" data-step-uuid="21a74358-eb57-4f9b-8dac-394911526bff">
+    <h3 id="internet-speed" class="step-title screensteps-heading">Internet Speed</h3>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bb6c9409-407f-46b7-b9f1-426c4a3cf676" class="text-block-content">
+    <p>Along with compatibility and web standards, Instructure products have been carefully crafted to accommodate low bandwidth environments.</p>
+<p>It is recommended to have a minimum Internet speed of 512 kbps.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="Canvas-on-Mobile-Devices" data-step-uuid="fcacfa05-8f40-46d7-b8c8-806e57225800">
+    <h2 id="Canvas-on-Mobile-Devices" class="step-title screensteps-heading">Mobile Devices</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B78DA810-08CB-0135-080A-22000BC102FE" class="text-block-content">
+    <p>Instructure products are optimized for desktop displays. However, if you are using a mobile device, you can access Instructure products using a mobile application (app) or mobile browser. </p>
+<p><strong>Mobile Apps</strong></p>
+<p>For the best user experience, please download the product mobile apps. Mobile apps are currently available for Canvas and Mastery Connect.</p>
+<p>The Canvas mobile apps require Android 8.0 or later and iOS 15.0 or later. Canvas offers limited support for native mobile browsers on tablet devices. For additional details, please reference the <a href="/t5/Canvas-Basics-Guide/What-are-the-limited-support-guidelines-for-mobile-browsers-on/ta-p/389121" target="_blank">limited-support mobile browser guidelines</a>. </p>
+<p>Mastery Connect mobile apps require Android 8.0 or later and iOS 15.0 or later. For additional details, please reference <a href="https://community.canvaslms.com/t5/Mastery-Connect-Getting-Started/Mastery-Connect-Requirements/ta-p/386712" target="_blank">Mastery Connect Requirements</a>.</p>
+<p><strong>Mobile Browsers</strong></p>
+<p>Visit the Apple store or the Play store to download mobile browsers. The following major browsers are compatible with mobile devices:</p>
+  </div>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ca015ec7-4702-4424-849b-5a89fffe2619" class="text-block-content">
+    <p><strong>iOS</strong></p>
+<ul>
+<li>Safari (default browser with limited Canvas support)</li>
+<li>Chrome</li>
+</ul>
+  </div>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_29192b3d-f513-49e5-9eac-152c0be95576" class="text-block-content">
+    <p><strong>Android</strong></p>
+<ul>
+<li>Chrome (default browser with limited Canvas support)*</li>
+<li>Internet </li>
+<li>Firefox</li>
+</ul>
+<p>*Android default browser varies per mobile device.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

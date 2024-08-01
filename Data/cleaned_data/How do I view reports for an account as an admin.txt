@@ -1,0 +1,42 @@
+How do I view reports for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link.
+Open Reports
+Click the Reports tab. 
+View Reports
+The Reports page shows all available reports. Each report includes the name and a help icon that explains more about the report. You can also view the last time the report was run, if any. 
+Note: The Last Run report displays in the language of the user who last ran the report.
+Configure Reports
+Most reports must be configured before they can be run. To configure a report, click the Configure button.
+Depending on the report, report configurations may include one or several options.
+Select Term
+All reports except the LTI Report, Outcome Export, and User Access Tokens reports require you to select a term. In the Term drop-down menu, you can choose from the Default Term, or any active, future, or past terms. Courses with hidden assignments may not accurately reflect scores in this report.
+The Grade Export, Last User Access, Student Competency, LTI Report, and User Access Tokens reports include the option to include deleted objects. Deleted objects may include deleted courses, users, or enrollments. To include deleted objects, click the Include Deleted Objects checkbox. 
+Select Report Order
+The Outcome Results report allows you to choose how to order the report. Ordering options are by Users, Courses, or Outcomes. By default, the report orders by Users. Select the radio button for your preferred report order. 
+Select CSV Files
+The Provisioning and SIS Export reports ask you to select the CSV files you want to generate for a selected term. Select the checkboxes next to the files you want to generate. Files can be generated for Users, Accounts, Terms, Courses, Sections, Enrollments, Groups, Group memberships, Group categories, Cross-listing (X list), User Observers, and Admins. 
+If you want to only view data created by your SIS, select the Created by SIS checkbox. Otherwise, the CSV files display all data created in your Canvas account, including information created by SIS and through the interface.
+To include concluded courses or deleted objects in the report, click the Include Deleted Objects checkbox.
+Note: The selected term only impacts Courses, Sections, Enrollments, and Cross-listing CSV files.
+Select Dates and Enrollment State
+The Students with no Submissions report asks you to select a start date and end date for the report. You can either select a date by clicking each respective date's calendar icon, or you can enter the date directly in the date field. 
+You may also choose to include the enrollment state in the report by clicking the Include Enrollment State checkbox. In the Enrollment State drop-down menu, select all enrollments or only active enrollments. 
+Select Start Date
+The User Course Access Log and Zero Activity reports ask you to select a start date for the report. You can either select a date by clicking the calendar icon, or you can enter the date directly in the date field. 
+Note: A maximum of two years' data will be retrieved in the User Course Access Log report. If a user had access to a course over two years prior, a message displays but details cannot be provided.
+Select Enrollment Type
+The User Course Access Log report allows you to choose to include all or individual enrollment types. In the Enrollment Type drop-down menu, select all enrollments, student enrollments, teacher enrollments, TA enrollments, observer enrollments, or designer enrollments.
+Select Course Scores
+The SIS Submission Report allows you to include course scores. Click the Include course scores checkbox. By default, the SIS Submission Report does not include course scores.
+Note: The SIS Submission Report may only display for institutions that have authenticated Canvas to post grades to their SIS.
+Filter ePortfolio Data
+The ePortfolio Report allows you to filter the data displayed in the report.
+To only display ePortfolios from users without enrollments in your Canvas account, click the Only include ePortfolios from users with no enrollments checkbox.
+To only display removed ePortfolios, click the Only include ePortfolios that have been removed checkbox.
+Run Report
+When you have finished configuring a report, click the Run Report button.
+Download Report
+When a report is complete and is available for download, click the Download icon. The file will download to your computer. 

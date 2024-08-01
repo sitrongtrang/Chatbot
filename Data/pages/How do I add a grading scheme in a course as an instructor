@@ -1,0 +1,147 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_258AAE70-2222-0135-2DDC-22000AB760A3" class="text-block-content">
+    <p>If you would like to use a grading scheme that your institution has not created on the account level, you can create a new grading scheme for your course. View examples of <a href="/t5/Instructor-Guide/How-do-I-use-grading-schemes-in-a-course/ta-p/870" target="_blank">common grading schemes</a>.</p>
+<p><strong>Note</strong>: Your grading scheme will not take effect until it has been <a href="/t5/Instructor-Guide/How-do-I-enable-a-grading-scheme-for-a-course/ta-p/1042" target="_blank">enabled for the course.</a></p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="8187222E-CA9C-499D-9197-46745187E617">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/047/original/c3f52e30-e516-40cd-a756-3eafef80dc45.png" srcset="" alt="Open Settings" height="275" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_258B7210-2222-0135-2DDE-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_details" data-step-uuid="198bdfec-fccf-424c-8156-ddbb08a46be4">
+    <h2 id="open_course_details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/176/139/original/838f73e1-12b3-4572-9166-ec879236ee07.png" srcset="" alt="Open Course Details" height="82" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_258CB050-2222-0135-2DE0-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Course Details</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable_grading_scheme" data-step-uuid="4ED5964D-0DC8-42ED-A506-A40BF5A2EF57">
+    <h2 id="enable_grading_scheme" class="step-title screensteps-heading">Enable Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/685/original/a10b2955-e253-44ab-a673-fa9916a8c6d9.png" srcset="" alt="Enable Grading Scheme" height="204" width="563">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_258CF510-2222-0135-2DE2-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Enable course grading scheme</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_grading_scheme" data-step-uuid="56EC143C-F6AF-4528-974A-87EE9D9980BA">
+    <h2 id="add_grading_scheme" class="step-title screensteps-heading">Add New Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/687/original/c04224a4-3bf1-4abe-a6aa-fff2f9619b7a.png" srcset="" alt="Add New Grading Scheme" height="209" width="588">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_258D9A30-2222-0135-2DE8-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add</strong> <strong>New Grading Scheme</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit-grading-scheme" data-step-uuid="bec98cba-0d54-457a-9315-d44cb19332f1">
+    <h3 id="edit-grading-scheme" class="step-title screensteps-heading">Edit Grading Scheme</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/272/751/original/274c68e5-c19d-49bf-af4f-fc8f3b343888.png" srcset="" alt="Edit Grading Scheme" height="650" width="501">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ee7922f3-d132-489b-8bde-4f0d4c7c8eed" class="text-block-content">
+    <p>Create a title in the <strong>Grading Scheme Name</strong> field [1]. </p>
+<p>You can choose to have the grading scheme by percentage or points [2]. </p>
+<p>For each line item, edit the name in the <strong>Letter Grade</strong> field [3]. </p>
+<p>Edit the minimum end of each individual range in the To [Number] % field [4].</p>
+<p>The grading scheme must contain a full range from 100% to 0%.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="add-range" data-step-uuid="f0520f66-9620-42a1-8995-0daf80e98e62">
+    <h4 id="add-range" class="step-title screensteps-heading">Add Range</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/691/original/8409dcae-13a1-4ca1-b942-5e8e34f1985f.png" srcset="" alt="Add Range" height="650" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_69be7ca0-c31a-4bbc-8349-e3ff89b7be8c" class="text-block-content">
+    <p>If you need to add ranges, click the <strong>Add</strong> button [1]. You can remove individual ranges by clicking the <strong>Delete </strong>button [2]. When you are finished editing your grading scheme, click the <strong>Save </strong>button [3].  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_grading_schemes" data-step-uuid="A6C7640E-F95B-4CA0-9BB0-970743667E36">
+    <h2 id="manage_grading_schemes" class="step-title screensteps-heading">Manage Grading Schemes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/693/original/eb92fb0c-e5a8-466e-bd7a-5a0d341ab598.png" srcset="" alt="Manage Grading Schemes" height="209" width="716">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_258D60C0-2222-0135-2DE6-22000AB760A3" class="text-block-content">
+    <p>Canvas displays the current grading scheme enabled by your institution, if any [1]. To manage grading schemes in your course, click the <strong>Manage All Grading Schemes </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modify_grading_scheme" data-step-uuid="4658d7d3-0053-4b9c-96fd-cff76c4da433">
+    <h2 id="modify_grading_scheme" class="step-title screensteps-heading">Modify Grading Scheme</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/260/695/original/3cb6c2b9-a02b-4273-991e-8e77cc0b62b1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/260/695/medium/3cb6c2b9-a02b-4273-991e-8e77cc0b62b1.png" srcset="" alt="Modify Grading Scheme" height="459" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_258E67F0-2222-0135-2DF0-22000AB760A3" class="text-block-content">
+    <p>Your new grading scheme displays alphabetically in the <strong>Grading Scheme Name</strong> column [1]. </p>
+<p>You can <a href="/t5/Instructor-Guide/How-do-I-duplicate-a-grading-scheme-in-a-course/ta-p/601384" target="_blank">duplicate the grading scheme</a> [2], <a href="/t5/Instructor-Guide/How-do-I-edit-a-grading-scheme-in-a-course/ta-p/601385" target="_blank">edit the grading scheme</a> [3],  <a href="/t5/Instructor-Guide/How-do-I-archive-a-grading-scheme-in-a-course/ta-p/601386" target="_blank">archive the grading scheme</a> [4], and delete a grading scheme by clicking the <strong>Delete</strong> icon [5].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

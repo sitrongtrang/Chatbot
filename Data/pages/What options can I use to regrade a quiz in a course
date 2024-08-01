@@ -1,0 +1,135 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BB2DAF30-221E-0135-40D9-22000B5A851D" class="text-block-content">
+    <p>If you accidentally published a quiz that needs to be corrected, you can use quiz regrade to edit existing quiz questions and tell Canvas to recalculate student grades. </p>
+<p>Quiz regrade only works with specific quiz question types and only applies to students who have already taken the quiz. Adding or removing a question does not trigger the quiz regrade feature. Additionally, changing the point value for a quiz question also does not trigger a quiz regrade; the student's submitted quiz will show the updated point value, but the current grade won't change in the Gradebook. If you have edited your quiz in one of these three ways, you should <a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-how-do-I-use-the-Moderate-Quiz-page/ta-p/761" target="_blank">moderate the quiz</a><span style="color:rgb(38,38,38);"> </span>and let the student retake the quiz.</p>
+<p>This feature only applies for students who have already taken the quiz and only the existing quiz questions have been changed.</p>
+<p>Once the quiz regrade completes, you will receive an email notification to let you know that the regrade has finished.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="regrade_question_types" data-step-uuid="24082d83-714d-459e-ad2d-c4e463b7afec">
+    <h2 id="regrade_question_types" class="step-title screensteps-heading">Regrade Question Types</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/224/original/70701f4e-f4fd-4c07-9f5d-86c296f1d6b2.png" srcset="" alt="Regrade Question Types" height="269" width="424">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BB2DE320-221E-0135-40DB-22000B5A851D" class="text-block-content">
+    <p>Currently, quiz regrade is available Multiple Choice, True/False, and Multiple Answers question types. </p>
+<ul>
+<li>Learn how to<span style="color:rgb(38,38,38);"> </span><a href="/t5/Instructor-Guide/How-do-I-regrade-a-Multiple-Choice-quiz-question/ta-p/657" target="_blank">regrade Multiple Choice</a> questions</li>
+<li>Learn how to <a href="/t5/Instructor-Guide/How-do-I-regrade-a-True-False-quiz-question/ta-p/658" target="_blank">regrade True/False</a> questions</li>
+<li>Learn how to <a href="/t5/Instructor-Guide/How-do-I-regrade-a-Multiple-Answers-quiz-question/ta-p/575" target="_blank">regrade Multiple Answers</a> questions</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="regrade_restrictions" data-step-uuid="7165577c-58e2-45c9-a7ef-6cfd84dae3ae">
+    <h3 id="regrade_restrictions" class="step-title screensteps-heading">Regrade Restrictions</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BB2DFE30-221E-0135-40DC-22000B5A851D" class="text-block-content">
+    <p>Quiz regrade does not apply to questions<span style="color:rgb(38,38,38);"> </span><a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-a-question-group-linked-to-a/ta-p/1033" target="_blank"><span style="color:rgb(38,38,38);"><strong>linked</strong></span></a><span style="color:rgb(38,38,38);"> </span>to a question bank since questions may be used in more than one quiz. </p>
+<p>Additionally, adding or deleting answers from a question with submissions disables the option to regrade that question.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="regrade_options" data-step-uuid="8dde4a75-7537-4548-a926-bb1ee07e8328">
+    <h2 id="regrade_options" class="step-title screensteps-heading">Regrade Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/220/original/ddc51958-f52e-49e9-92ff-317429e85656.png" srcset="" alt="Regrade Options" height="379" width="602">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BB2E3470-221E-0135-40DE-22000B5A851D" class="text-block-content">
+    <p>When you change the correct answer in a quiz question, Canvas presents up to four quiz regrade options, depending on the question type.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="award_points_for_both_answers" data-step-uuid="46f0768a-bbd5-47ca-bf6a-d967dd8b2505">
+    <h3 id="award_points_for_both_answers" class="step-title screensteps-heading">Award Points for Both Answers</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/228/original/4f9cedb8-bf45-41ec-b826-2f4a651ab284.png" srcset="" alt="Award Points for Both Answers" height="142" width="583">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BB2E68F0-221E-0135-40E0-22000B5A851D" class="text-block-content">
+    <p>Using quiz analytics or student feedback, you may find that students found a question too confusing, or you realized that the question could have been listed with multiple answers when only one was selected. In cases like these, you can select the <strong>Award points for both corrected and previously correct answers </strong>option to avoid penalizing your students.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If a question has been regraded multiple times, the Award points for both corrected and previously correct answers option only awards points for the corrected answer and the latest answer marked as correct.</li>
+<li>This option is <em>not available</em> for Multiple Answer questions.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="award_points_for_correct_answer" data-step-uuid="770c18bf-f512-4b89-85b0-631de86ee311">
+    <h3 id="award_points_for_correct_answer" class="step-title screensteps-heading">Award Points for Correct Answer</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/226/original/d46b625d-c423-415a-85ba-eb219bd1968f.png" srcset="" alt="Award Points for Correct Answer" height="146" width="583">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BB2E9DD0-221E-0135-40E2-22000B5A851D" class="text-block-content">
+    <p>Occasionally an incorrect answer may get marked as the correct answer for a quiz. The <strong>Only award points for the corrected answer</strong> option allows you to correct the answer and give credit to those who selected the answer that should have been correct. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="give_everyone_full_credit" data-step-uuid="7713de09-4f75-4ba7-811d-dcabb7b9bdfd">
+    <h3 id="give_everyone_full_credit" class="step-title screensteps-heading">Give Everyone Full Credit </h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/222/original/b56b3bea-b8e8-42e4-86bb-6e3cfc5ace67.png" srcset="" alt="Give Everyone Full Credit " height="137" width="583">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BB2ED190-221E-0135-40E4-22000B5A851D" class="text-block-content">
+    <p>In some cases it might be appropriate to simply give everyone full credit for a question. Select the <strong>Give everyone full credit for this question </strong>option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="update_without_regrading" data-step-uuid="7de90657-b733-4475-b8fd-76781beca1c9">
+    <h3 id="update_without_regrading" class="step-title screensteps-heading">Update without Regrading</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/230/original/c9fe138e-c6d0-4b3a-b0dc-96d46bc53e86.png" srcset="" alt="Update without Regrading" height="137" width="583">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BB2F0530-221E-0135-40E6-22000B5A851D" class="text-block-content">
+    <p>If you need to improve your question or answers for a future quiz, you can select the <strong>Update question without regrading</strong> option to update a question without regrading the students who have already taken the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

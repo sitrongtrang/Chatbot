@@ -1,0 +1,129 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_ad443ab2-8be2-4a1b-b701-adc580e5e2b6" class="text-block-content">
+    <p>You can edit outcomes you have created in your course. Outcomes can be modified if they have been used to assess students, but any changes may affect student results.</p>
+<p>This lesson displays how to edit or delete an outcome in the classic Outcomes page view. If the Outcomes page in your course displays differently than the images in this lesson, learn how to <a href="/t5/Instructor-Guide/How-do-I-edit-or-remove-a-course-outcome-in-Improved-Outcomes/ta-p/486362" target="_blank">edit or remove an outcome in a course</a> within an account that has enabled the Improved Outcomes Management feature option.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>You can modify any outcomes where you have permission.</li>
+<li>If an outcome does not include an Edit or Delete button it is an account level outcome or an imported outcome that cannot be edited or deleted.</li>
+<li>Outcomes that have been aligned with an assignment or question bank cannot be deleted unless they are removed from the assignment or question bank. Outcomes that have been used to assess a student cannot be deleted.</li>
+<li>If you cannot edit mastery scales and calculation methods for an outcome, your institution has enabled course-wide <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-scales-in-a-course/ta-p/429018" target="_blank">mastery scales</a> and <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-calculations-in-a-course/ta-p/429019" target="_blank">calculation methods</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="3aa5fdab-5c04-4309-b01b-e36e0433d314">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/779/636/original/0a70e812-17ff-49ff-9d4d-b02bdbd6f798.png" srcset="" alt="Open Outcomes" height="267" width="148">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_08cc0ff1-5921-4eed-85bf-c60768b149cf" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-outcome" data-step-uuid="3b12983e-4423-4ba8-ab95-0148f860dc08">
+    <h2 id="select-outcome" class="step-title screensteps-heading">Select Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/446/240/original/2039dd30-b38b-405a-92a0-8b0bd19328de.png" srcset="" alt="Select Outcome" height="331" width="220">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_afdaaba7-0e66-4c2e-b331-8ba50088ed37" class="text-block-content">
+    <p>Locate the outcome you want to modify. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modify-outcome" data-step-uuid="11fd43a2-9754-4747-881e-734c5903a05b">
+    <h2 id="modify-outcome" class="step-title screensteps-heading">Modify Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/378/711/original/321b73e8-9e25-4e3d-82b5-7c6956d22ae9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/378/711/medium/321b73e8-9e25-4e3d-82b5-7c6956d22ae9.png" srcset="" alt="Modify Outcome" height="730" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_14f27b85-6018-4eb6-990d-4a6ea51ffadd" class="text-block-content">
+    <p>To edit an outcome, click the <strong>Edit</strong> button [1]. Editing an outcome allows you to change non-scoring details such as the name and description. You can also edit scoring details for the outcome including the points rating or scoring method.</p>
+<p>When you are finished with your edits, click the <strong>Save</strong> button.</p>
+<p>To delete an outcome, click the <strong>Delete</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcome-edit-confirmation" data-step-uuid="28c5fc18-6247-4bed-848d-03770e5c9a6f">
+    <h2 id="view-outcome-edit-confirmation" class="step-title screensteps-heading">View Outcome Edit Confirmation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/451/790/original/b5727740-9e32-422c-ab93-79aa41b14904.png" srcset="" alt="View Outcome Edit Confirmation" height="290" width="522">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d07d0325-2f73-4198-ae77-13e4e16eb1b2" class="text-block-content">
+    <p>If you edit an outcome that has been used to assess a student, Canvas displays a message notifying you that your edits will update all outcomes associated with a rubric that has not been assessed.</p>
+<p>Click the <strong>Save </strong>button.</p>
+<p><strong>Note:</strong> This message only displays for outcomes you modify that have not been used to assess a student. If this confirmation message does not display, the outcome is associated with more than one rubric and edits cannot be updated.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assessed_outcome" data-step-uuid="5e1fc1f3-8e77-4350-a495-e97c240246f3">
+    <h2 id="view_assessed_outcome" class="step-title screensteps-heading">View Assessed Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/378/708/original/9b8ce0e1-9c35-4693-937d-c593a619e67b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/378/708/medium/9b8ce0e1-9c35-4693-937d-c593a619e67b.png" srcset="" alt="View Assessed Outcome" height="528" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f4aa167e-8d6c-491a-8037-ebacf5aa8024" class="text-block-content">
+    <p>If an outcome has already been used to assess a student, some modifications may affect student results [1].</p>
+<p>To view any aligned items and student assessments for a particular outcome, click the name of the outcome [2]. These assignments and rubrics may be affected when you edit the outcome.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-scoring-edits-confirmation" data-step-uuid="50466c8e-238d-4fc9-9f74-f84161a888e9">
+    <h2 id="view-scoring-edits-confirmation" class="step-title screensteps-heading">View Scoring Edits Confirmation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/451/792/original/1108f78d-53ba-4f03-84dc-e88c4efae7af.png" srcset="" alt="View Scoring Edits Confirmation" height="287" width="512">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6ce1d0d2-8f4e-42c3-8462-46a63753d3a6" class="text-block-content">
+    <p>If you are editing scoring details on an outcome that has been used to assess students, Canvas displays a message notifying you that your edits will affect all students previously assessed using the outcome. Scoring changes only affect a student's learning mastery score in the Learning Mastery Gradebook for the edited outcome. When scoring criteria is edited, the learning mastery values scale for assessed rubrics according to the original points possible. </p>
+<p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

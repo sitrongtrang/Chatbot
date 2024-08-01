@@ -1,0 +1,15 @@
+How do I configure and test Canvas Live Events using HTTPS delivery as an admin
+Configuration Details
+You can implement a Google Cloud Function to receive events from Canvas and store them in a Google Cloud Storage bucket.
+The following steps are needed in order to process incoming Canvas Live Event messages through the HTTPS endpoint:
+Signed JWT payloads should be set to On
+The event message, once received by the Google Cloud Function, should be decoded using RS256.
+Once decoded, the JWT signature will contain a "kid" property. This property should be matched against one of the "kid" values retrieved from this public URL: https://8axpcl50e4.execute-api.us-east-1.amazonaws.com/main/jwks
+Transform the payload and store the resulting event. In other words, do not store signed and encoded messages for too long, because the "kid" values will eventually become expired. AWS rotates keys once a month on the 30th. The most current "kid" is the one in the middle.
+Event Headers
+In addition, there are three types of headers when Canvas generates an event :
+Request header when event gets triggered in Canvas (assuming the event was generated based on the request). The data from request is put into an event metadata object e.g method, request id, referrer URl, etc.
+AWS adds additional data to an event envelope when it passes it from one service to another (e.g timestamp when event was delivered to SQS).
+JWT standard header, these data gets added when we sign each event.
+Difference between HTTPS and AWS SQS
+The HTTPS endpoint delivered events have a few additional properties. When AWS SQS delivered events are collected via an AWS lambda function, there is an opportunity to write the events in batches - up to 10 event messages at one time. This results in files which have up to 10 event messages, compared to the files for events delivered through the HTTPS endpoint, which will result in one file per event.In other words, for the same set of events, the folder for the HTTPS endpoint will have 10 times as many files as the folder containing data retrieved via the SQS queue.

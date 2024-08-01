@@ -1,0 +1,69 @@
+How do I view reports for a quiz in New Quizzes as an instructor
+Open Quizzes
+In Course Navigation, click the Quizzes link.
+Note: You can also access quizzes from the Assignments page.
+Open Build Page
+To view reports for a quiz, find the quiz you want to open.
+To open New Quizzes from an existing quiz, click the Options icon and then click the Build link.
+Open Reports
+Click the Reports tab.
+Open Improved Quiz and Item Analysis
+To generate the improved Quiz and Item Analysis report for the quiz, click the Generate Report link. Once generated you can open the Quiz and Item Analysis report by clicking the View Report link.
+To download the Quiz and Item Analysis report as a CSV file, click the Export CSV button.
+Learn more about the improved Quiz and Item Analysis.
+View Quiz Analysis
+The Quiz and Item Analysis report includes two sections: Quiz Analysis and Item Analysis.
+The Quiz Analysis includes statistics for overall quiz scores. To view Quiz Analysis details, click the Expand icon.
+The following statistics are available:
+High Score: displays highest percentage score
+Low Score: displays lowest percentage score
+Mean Score: displays average percentage score
+Median Score: displays median percentage score
+Mean Elapsed Time: displays average time to complete the quiz
+Standard Deviation: represents the amount of variation from the mean score in percentage
+Cronbach’s Alpha: is an internal consistency measure that estimates the reliability of a quiz
+Score Distribution Chart: represents the distribution of earned scores for the quiz
+View Item Analysis
+The Item Analysis includes statistics for items in a quiz and their correlation to the overall quiz score. To view Item Analysis details, click the Expand icon.
+The following statistics are available:
+Item Difficulty: measures the proportion of students who answered the question correctly
+Mean Earned Points: displays average point score out of the maximum possible points
+Median Earned Points: displays mean point score out of the maximum possible points
+Discrimination Index: assesses the ability of an item to differentiate between the highest scoring and lowest scoring students
+Corrected Item-Total Correlation Coefficient: measures the correlation between a given item and the total score
+Answer Frequency Summary Chart: displays the number and percentage of students who selected each answer choice
+Note: The Answer Frequency Summary charts display the total number of correct responses, incorrect responses, and no responses for the following question types: Categorization, Fill in the Blank, Formula, Hot Spot, Matching, Multiple Answer, Multiple Choice, Numeric-Answer, Ordering, and True or False.
+Open Old Quiz and Item Analysis
+To view the Quiz and Item Analysis (old) report, click the View Report link.
+Note: The Quiz and Item Analysis (old) report can be accessed for quizzes created and taken before the end of 2023 until Summer of 2024. Quizzes taken after the end of 2023 must use the improved Quiz and Item Analysis report.
+View Quiz Analysis
+The Quiz and Item Analysis (old) report includes two sections: Quiz Analysis and Item Analysis.
+The Quiz Analysis includes statistics for overall quiz scores. These statistics include all students who have taken the quiz. The following statistics are available:
+High Score: displays highest percentage score
+Low Score: displays lowest percentage score
+Mean Score: displays average percentage score
+Standard Deviation: represents the amount of variation from the mean score
+Mean Elapsed Time: displays average time to complete quiz
+Cronbach’s Alpha: measures internal consistency of how closely related a set of items are as a group
+View Item Analysis
+In the Item Analysis section, you can view statistics for specific questions in an quiz. The following item analysis statistics are available:
+Difficulty Index: measures theproportion of students who answered the question correctly. Calculated by dividing the number of correct answers by the number of times the item was included in the quiz.
+Discrimination Index: measures how well a question can tell the difference between students who do well on the exam and those who do not. Calculated by subtracting the bottom 27% of difficulty index scores from the top 27% of difficulty index scores.
+RPB (Point-Biserial Correlation Coefficient): measures the correlation between a given item and the total score.
+Mean Earned Score: displays average point score.
+To view more statistics, click the Arrow icon.
+View More Statistics
+View more statistics for the quiz.
+The Answer Frequency Summary chart displays the number and percentage of students who selected each answer choice.
+The Performance by Quintile bar chart displays the number of students who scored within each percentage quintile.
+You can also view any outcomes aligned to the question.
+Open Outcomes Analysis
+To open the Outcomes Analysis, click the View Report link.
+View Outcomes Analysis
+The Outcomes Analysis includes each student who has completed a quiz and their mastery results for each outcome.
+To view more details for an outcome, click the name of the outcome.
+To download the CSV file of the Outcomes Analysis report, click the Export CSV button.
+Note: Outcomes may take up to 48 hours to display in New Quizzes after they have been added to an account.
+View Outcome Detail
+The Outcome Detail page contains performance information for a specific outcome, including number of students who reached mastery, description, average score, and score required to earn mastery.
+You can also view the number of students who score within each criteria level and how mastery is calculated.

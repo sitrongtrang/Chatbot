@@ -1,0 +1,184 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6AA6AB50-21FC-0135-FC30-22000BC102FE" class="text-block-content">
+    <p>Extra credit is currently not a default option in Canvas. However, you can give students extra credit using a variety of options. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If you are weighing your assignment groups, please pay attention to how weighted groups can affect the Gradebook if assignments are worth zero points.</li>
+<li>If you have <a href="/t5/Instructor-Guide/How-do-I-create-rules-for-an-assignment-group/ta-p/848" target="_blank">drop rules</a> set in an assignment group, adding extra points may affect your students' scores.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_new_assignment_with_no_submission" data-step-uuid="471F5E8D-9B83-4212-9AA6-AFBEC7CBA9CA">
+    <h2 id="create_new_assignment_with_no_submission" class="step-title screensteps-heading">Create New Assignment with Zero Point Value</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/770/177/original/bae8ff12-f1d5-4a29-95ab-c311b4e0a3b9.png" srcset="" alt="Create New Assignment with No Submission" height="335" width="536">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AA6DBC0-21FC-0135-FC32-22000BC102FE" class="text-block-content">
+    <p>Create a new assignment with zero points possible [1] and select any submission type [2]. Assignments set to the No Submission type work well for classroom activities, such as in-class discussions or presentations.</p>
+<p>After students complete an online submission or complete and submit work offline, you can add and adjust points in the Gradebook.</p>
+<p><strong>Note: </strong>For a zero-point assignment to factor into a student's grade, you must add a positive point value to at least one additional assignment in any assignment group.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_extra_points_to_an_existing_assignment" data-step-uuid="2C774793-0A06-4481-90DB-754D6942B459">
+    <h2 id="add_extra_points_to_an_existing_assignment" class="step-title screensteps-heading">Add Extra Points to an Existing Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/059/213/original/e3a0947c-e96c-404c-827c-860f251692b8.png" srcset="" alt="Add Extra Points to an Existing Assignment" height="309" width="228">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AA70BC0-21FC-0135-FC34-22000BC102FE" class="text-block-content">
+    <p>Add extra points to an Assignment you've already created. Manually enter the extra points in the Gradebook.</p>
+<p>For example, this assignment is worth 40 points. Adding 5 extra points will bring the assignment total for this student to 45 points. The added points will increase total points calculated in the Gradebook's final grade. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_fudge_points_to_a_quiz" data-step-uuid="62a44fad-c242-4bc8-b01f-4b8778196444">
+    <h2 id="add_fudge_points_to_a_quiz" class="step-title screensteps-heading">Add Fudge Points to a Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/770/186/original/1ba42506-1b71-4a44-bedc-fd5fe86d6455.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/770/186/medium/1ba42506-1b71-4a44-bedc-fd5fe86d6455.png" srcset="" alt="Add Fudge Points to a Quiz" height="428" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AA739A0-21FC-0135-FC36-22000BC102FE" class="text-block-content">
+    <p>You can use <a href="/t5/Instructor-Guide/How-do-I-adjust-the-point-value-for-an-entire-quiz-using-fudge/ta-p/939" target="_blank">Fudge points</a> within SpeedGrader to add points to a quiz. Fudge points allow you to manually adjust an overall quiz score.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_extra_credit_within_a_rubric" data-step-uuid="DCAA119C-38B3-4083-858A-EC716C92180F">
+    <h2 id="create_extra_credit_within_a_rubric" class="step-title screensteps-heading">Create Extra Credit within a Rubric</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/255/042/original/8c279a3f-c5b9-46fb-966b-3679f4f2ef16.png" srcset="" alt="Create Extra Credit within a Rubric" height="718" width="844">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AA76930-21FC-0135-FC38-22000BC102FE" class="text-block-content">
+    <p>Add an additional Criterion to a Rubric for extra credit. Make sure you make the rubric worth more than the assignment and you can give students extra points or not without affecting the actual assignment points. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-extra-points-using-a-rubric-in-speedgrader" data-step-uuid="75e40c33-b85d-477c-b3bc-281f7634c01d">
+    <h2 id="add-extra-points-using-a-rubric-in-speedgrader" class="step-title screensteps-heading">Add Extra Points using a Rubric in SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/267/803/original/dfe0d895-faec-4956-b59f-3e6f643a9afd.png" srcset="" alt="Add Extra Points using a Rubric in SpeedGrader" height="575" width="546">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d703bda6-aebf-458a-a6aa-2befe67ae251" class="text-block-content">
+    <p>You can add extra credit using a rubric in SpeedGrader. Enter a point value that is greater than the points possible for a criterion [1]. The Total Points calculation will reflect any extra points awarded for each Criterion [2].</p>
+<p><strong>Note: </strong>For SpeedGrader to automatically update the rubric point value for grading, select the <strong>Use this rubric for assignment grading</strong> checkbox when <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058" target="_blank">adding the Rubric to an assignment</a>. Otherwise, you can update the grade field manually.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-extra-points-using-speedgrader" data-step-uuid="19172929-7a10-4300-960b-26c476133d85">
+    <h3 id="add-extra-points-using-speedgrader" class="step-title screensteps-heading">Add Extra Points using SpeedGrader</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/284/953/original/95634f18-07ba-43d5-a8ef-04007e080531.png" srcset="" alt="Add Extra Points using SpeedGrader" height="93" width="223">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77b3b376-b90c-4f46-8ea4-9669d1b464a2" class="text-block-content">
+    <p>You can manually add extra points by editing the grade shown in the Grade field in SpeedGrader.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="extra_credit_and_assignment_groups" data-step-uuid="15DD54B6-CF51-4933-AE2D-3F836615ED5E">
+    <h2 id="extra_credit_and_assignment_groups" class="step-title screensteps-heading">Create Extra Credit with Assignment Groups</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AA780D0-21FC-0135-FC39-22000BC102FE" class="text-block-content">
+    <p>Assignments must be housed within an assignment group. Assignment groups can be unweighted or weighted, depending on how you wish to grade students within your course.</p>
+<p>Learn more about <a href="https://community.canvaslms.com/docs/DOC-5612-extra-credit-using-weighted-assignment-groups" target="_blank">giving extra credit using assignment groups</a>.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Assignments in the extra credit assignment group should be graded at the end of the course, after all other course assignments<em> </em>are graded. </li>
+<li>All other assignment groups in the course should have at least one graded assignment in order for the extra credit assignment group calculation to correctly affect student grades. </li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unweighted_assignment_groups" data-step-uuid="4B06DB65-371F-4A4B-849B-48FF1AE80FCE">
+    <h3 id="unweighted_assignment_groups" class="step-title screensteps-heading">Create Extra Credit using Unweighted Assignment Groups</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/895/original/acf437d7-7485-41e2-be0a-d9c7bd02fa62.png" srcset="" alt="Create Extra Credit using Unweighted Assignment Groups" height="140" width="742">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AA7AF90-21FC-0135-FC3B-22000BC102FE" class="text-block-content">
+    <p>When assignment groups are <strong>not weighted</strong>, you can create extra credit assignments in their own assignment group if you wish. You may want to create a separate group to help distinguish between the different types of assignments. In this example, this entire assignment group has no points possible [1]. </p>
+<p>When the student completes the work required for the extra credit assignments, you can manually add points to the Gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="weighted_assignment_groups" data-step-uuid="B878403C-63F4-44F0-BBA8-6FF59FDD908F">
+    <h3 id="weighted_assignment_groups" class="step-title screensteps-heading">Create Extra Credit using Weighted Assignment Groups</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/897/original/4dfbbeb1-42e9-4122-ba29-833539823ac9.png" srcset="" alt="Create Extra Credit using Weighted Assignment Groups" height="630" width="741">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AA7DC50-21FC-0135-FC3D-22000BC102FE" class="text-block-content">
+    <p><a href="/t5/Instructor-Guide/How-do-I-weight-the-final-course-grade-based-on-assignment/ta-p/746" target="_blank">When assignment groups are <strong>weighted</strong></a>, Canvas will <strong>not</strong> calculate grades for an entire group that has no points possible. Therefore, for extra credit assignments to calculate correctly in weighted groups, they must be housed within an existing assignment group that has at least one assignment worth more than zero points. </p>
+<p>In this example, the extra credit assignment is housed within the Extra Credit assignment group with multiple assignments worth more than zero points [1]. Notice that the assignment groups weights total 110% [2]. Any assignment placed within the Extra Credit assignment group will have either a positive or neutral effect on your students' overall grade. Additionally, if a student does not submit the extra credit assignment, their grade will not be negatively impacted. </p>
+<p>When the student completes the work required for the extra credit assignments, you can manually add points to the Gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="errors_with_weighted_assignment_group" data-step-uuid="8E736C6F-E3CF-4302-8440-D01A27280356">
+    <h3 id="errors_with_weighted_assignment_group" class="step-title screensteps-heading">Errors with Weighted Assignment Group</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/059/226/original/d4444d79-1cca-4eb5-ae5c-156015d65c3c.png" srcset="" alt="Errors with Weighted Assignment Group" height="343" width="379">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6AA81100-21FC-0135-FC3F-22000BC102FE" class="text-block-content">
+    <p>If you create your extra credit assignments with zero points within their own assignment group, but you decide to weigh your assignment groups, your extra credit assignments will not calculate correctly within Canvas. Canvas cannot calculate assignment groups where there are no points possible. For example, if the student has 12 points of 0 points possible, Canvas can't determine the impact to the overall grade because 12 cannot be divided by 0.</p>
+<p>An error will appear in the total grade column. In this example, the two extra credit assignments (both with zero possible points) have been placed in an assignment group called Extra Credit. However, the assignment group has been weighted. The warning notification indicates that the score does not include Extra Credit (as an assignment group) because the entire group has no points possible. In this situation, the assignments will have to be moved to another assignment group, or you will need to include an assignment within the Extra Credit assignment group that has at least one point possible.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

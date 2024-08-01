@@ -1,0 +1,158 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_5e0d14c8-2c6e-4078-97c4-15317191147d" class="text-block-content">
+    <p>As an admin, you can moderate ePortfolios in your account. The ePortfolio Moderation page displays any ePortfolio identified by Instructure as possible spam. You can verify these ePortfolio as spam or mark them as safe. Marking an ePortfolio as spam or safe applies that status to the entire ePortfolio.</p>
+<p>The ePortfolio Moderation page also displays all spam ePortfolios in your account as well as safe ePortfolios authored by users who also authored ePortfolios that are currently marked as spam.</p>
+<p>Any ePortfolio that is flagged as possible spam by Instructure or marked as spam by a Canvas admin will only be visible to the author and admins. Authors cannot edit ePortfolios that are flagged or marked as spam. If a user's ePortfolio has been marked as spam, the user will also no longer be able to create new ePortfolios.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Admin ePortfolio moderation is an account-level permission. To moderate ePortfolios, the Users - Moderate Content permission must be enabled.</li>
+<li>Removing users via SIS upload does not delete their associated ePortfolios. However, deleting a user account in your Canvas account also deletes their associated ePortfolio.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="d796c75a-e184-42cf-9129-e037955e1edc">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_82c0aaab-cd69-40d9-8bf3-389852bffabb" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_permissions" data-step-uuid="7fe5748c-1eab-4e78-ac61-faa0ea773710">
+    <h2 id="open_permissions" class="step-title screensteps-heading">Open ePortfolio Moderation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/012/631/original/6afa442b-3bf4-4020-aa45-2552d60322da.png" srcset="" alt="Click Permissions Link" height="291" width="180">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7845e585-5f61-4657-930f-0bfbfe655694" class="text-block-content">
+    <p>In Account Navigation, click the <strong>ePortfolio Moderation</strong> link. </p>
+<p><strong>Note:</strong> The ePortfolio Moderation link is only visible to admins with the Users - Moderate Content permission.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-eportfolio-moderation" data-step-uuid="009e5edf-fc4e-4d87-a606-acd7e7ca2ed2">
+    <h2 id="view-eportfolio-moderation" class="step-title screensteps-heading">View ePortfolio Moderation</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/012/637/original/0c177901-6caa-4ecb-a333-54501049f5fe.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/012/637/medium/0c177901-6caa-4ecb-a333-54501049f5fe.png" srcset="" alt="Eportfolio Moderation" height="539" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8b48e0a8-d4ee-409f-897a-d8cfa76d16f4" class="text-block-content">
+    <p>From the ePortfolio Moderation page, you can manage ePortfolios in your account that have been identified as spam. Each ePortfolio displays the author [1], name [2], visibility status [3], and moderation status. ePortfolios will have one of the following moderation statuses:</p>
+<ul>
+<li>
+<strong>Needs review: flagged as possible spam</strong> [4] - Instructure's systems have identified this ePortfolio as possible spam and it needs administrator review. It is only visible to the original author and administrators.</li>
+<li>
+<strong>Marked as spam </strong>[5] - An administrator has reviewed this ePortfolio and marked it as spam. It is only visible to the original author and administrators.</li>
+<li>
+<strong>Marked as safe</strong> [6] - An administrator has reviewed this ePortfolio and marked it as safe. It is visible to its original intended audience.</li>
+</ul>
+<p><strong>Note</strong>: ePortfolios marked as safe only display on this page if the ePortfolio is part of an author's account with at least one ePortfolio marked as spam and all ePortfolios have not yet been resolved.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="review-eportfolio" data-step-uuid="41d2176b-a446-4e36-b479-63d9417b581b">
+    <h2 id="review-eportfolio" class="step-title screensteps-heading">Review ePortfolio</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/012/645/original/e9a8a503-5bfd-4632-948a-91bb807eb205.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/012/645/medium/e9a8a503-5bfd-4632-948a-91bb807eb205.png" srcset="" alt="Review ePortfolio" height="539" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_312617b0-8209-45c7-b5f3-3aad5f85cc65" class="text-block-content">
+    <p>To review an ePortfolio, click the name of the ePortfolio [1].</p>
+<p>To open a user's profile, click the name of the user [2].  From the the profile page, you can <a href="/t5/Admin-Guide/How-do-I-manage-a-user-s-login-information-in-an-account/ta-p/232" target="_blank">manage login information</a> or <a href="/t5/Admin-Guide/How-do-I-delete-a-user-from-an-account/ta-p/136" target="_blank">delete a user.</a></p>
+<p><strong>Note: </strong>Removing users via SIS upload does not  delete their associated ePortfolios. However, deleting a user account in your Canvas account also deletes their associated ePortfolio. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-flagged-eportfolio" data-step-uuid="ba5dd0b8-6c2f-45ee-9aa6-e6ad2f354813">
+    <h2 id="view-flagged-eportfolio" class="step-title screensteps-heading">View Flagged ePortfolio</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/012/633/original/d6849364-e5dc-4281-b4c5-804170566119.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/012/633/medium/d6849364-e5dc-4281-b4c5-804170566119.png" srcset="" alt="View Flagged ePortfolio" height="581" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_89428b14-5629-42ad-b309-f0b76b9004a2" class="text-block-content">
+    <p>An ePortfolios flagged as possible spam will display a warning message that it is only visible to admins and the author [1].</p>
+<p>To mark the portfolio as safe, click the <strong>Mark as Safe</strong> button [2].</p>
+<p>To mark the portfolio as spam, click the <strong>Confirm as Spam</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-spam-eportfolio" data-step-uuid="abdaeb31-a71d-40b1-87fa-3adcd8270239">
+    <h2 id="view-spam-eportfolio" class="step-title screensteps-heading">View Spam ePortfolio</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/012/643/original/c645823c-2cc8-45d4-9bc1-9152c7f42ca7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/012/643/medium/c645823c-2cc8-45d4-9bc1-9152c7f42ca7.png" srcset="" alt="Shenanigans: Home: Buy This Product" height="242" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f9426414-c41b-4bd3-97e3-61cf7a270e90" class="text-block-content">
+    <p>An ePortfolio marked as spam will display a warning message that it is only visible to admins and the author [1]. Authors cannot edit ePortfolios marked as spam.</p>
+<p>To mark the ePortfolio as safe, click the <strong>Mark as Safe</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-safe-eportfolio" data-step-uuid="a25faf7a-6053-47f2-ac2b-d1514c35a891">
+    <h2 id="view-safe-eportfolio" class="step-title screensteps-heading">View Safe ePortfolio</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/012/629/original/15062026-be4f-4af5-a62c-1cd986934f79.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/012/629/medium/15062026-be4f-4af5-a62c-1cd986934f79.png" srcset="" alt="Get Rich Quick!: Home: Buy This Product" height="242" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a1069a7d-8725-4521-8426-25bdd088dc1a" class="text-block-content">
+    <p>Admins can mark any ePortfolio as spam, even if the ePortfolio is not listed on the ePortfolio Moderation page.</p>
+<p>To mark an ePortfolio as spam, navigate to the ePortfolio and click the <strong>Mark as Spam</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

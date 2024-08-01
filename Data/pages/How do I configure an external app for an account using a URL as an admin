@@ -1,0 +1,191 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A6368EC0-0373-0135-5583-22000B5A851D" class="text-block-content">
+    <p>Some external apps require a URL configuration. This lesson shows how to add an external tool using the URL provided by the external app provider. To learn more about configuring external apps, visit the <a href="https://www.eduappcenter.com/docs/basics/index" target="_blank" rel="nofollow noopener noreferrer">Edu App Center</a>.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>External apps can also be configured using a URL in sub-accounts.</li>
+<li>Manually configuring an external app is an account permission. If you cannot configure an external app, this permission has not been enabled for your user role.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="893e9a9a-566f-4d9b-991b-6f518650e337">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_928ceb4f-a957-44b4-9cb3-7d5434094851" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="7B391FEF-2BF4-44E3-BEED-D14CDBE7B073">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/748/620/original/2eaffa29-a595-456d-a6c6-7bbd61b737e6.png" srcset="" alt="Open Settings" height="232" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A636D960-0373-0135-5585-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_apps" data-step-uuid="1D679E05-3A07-49AC-8892-841F03276C80">
+    <h2 id="open_apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/562/original/45ba757f-185b-4d23-b872-23137392b17b.png" srcset="" alt="Open Apps" height="79" width="843">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6370AA0-0373-0135-5587-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Apps </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_app_configurations" data-step-uuid="eff74386-4159-4226-8e37-e0ce8c966e48">
+    <h2 id="view_app_configurations" class="step-title screensteps-heading">View App Configurations </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/567/original/98ec1cc8-8a3f-438e-ad45-ff56145d63a2.png" srcset="" alt="View App Configurations " height="244" width="852">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6373AC0-0373-0135-5589-22000B5A851D" class="text-block-content">
+    <p>To configure an app, click the <strong>View App Configurations</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_new_app" data-step-uuid="DE6819A6-6E54-4AFA-B562-7D37A7870354">
+    <h2 id="add_new_app" class="step-title screensteps-heading">Add New App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/545/original/5a33b383-1a0b-4556-93f4-d28fe4198a30.png" srcset="" alt="Add New App" height="179" width="838">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A63770A0-0373-0135-558B-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add App </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_configuration_type" data-step-uuid="73C7772D-B378-47B7-AB8A-FAAF96CD1E2B">
+    <h2 id="set_configuration_type" class="step-title screensteps-heading">Set Configuration Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/555/original/4b51ac89-c619-472e-9360-207ebc8b6004.png" srcset="" alt="Set Configuration Type" height="90" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A637A160-0373-0135-558D-22000B5A851D" class="text-block-content">
+    <p>Select the Configuration Type drop-down menu and set the configuration type to <strong>By URL</strong>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_app_details" data-step-uuid="3C237439-C7BF-4451-93A1-D8025B6A9018">
+    <h2 id="add_app_details" class="step-title screensteps-heading">Add App Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/565/original/5e92ec07-2132-4a43-b386-f7a5950dfd8c.png" srcset="" alt="Add App Details" height="153" width="688">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A637D2C0-0373-0135-558F-22000B5A851D" class="text-block-content">
+    <p>Enter the name of the app in the <strong>Name</strong> field [1]. Enter the consumer key in the <strong>Consumer Key</strong> field [2] and the shared secret in the <strong>Shared Secret</strong> field [3]. This key and shared secret will be provided by the vendor or (if using the <a href="https://www.eduappcenter.com/" target="_blank" rel="nofollow noopener noreferrer">Edu App Center</a>) provided by the website. </p>
+<p><strong>Note: </strong>There are some apps that do not require a consumer key or shared secret, so pay attention to the configuration directions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_configuration_url" data-step-uuid="0AD161B0-B82C-4638-89D6-08E8CFD15686">
+    <h2 id="add_configuration_url" class="step-title screensteps-heading">Add Configuration URL</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/559/original/ad75389a-7cc5-49ee-a250-319e47bbb729.png" srcset="" alt="Add Configuration URL" height="453" width="701">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6380590-0373-0135-5591-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Configuration URL</strong> field, enter the URL for the app. Apps are configured and recommended to be entered as secure links (HTTPS). </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit_app" data-step-uuid="3215e042-0866-49ae-a193-916260d85bab">
+    <h2 id="submit_app" class="step-title screensteps-heading">Submit App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/569/original/f61f0704-0947-40e0-8864-71b6d09223df.png" srcset="" alt="Submit App" height="69" width="189">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6383720-0373-0135-5593-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Submit</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="verify-app" data-step-uuid="85d428c0-5972-471f-977d-ffaf5f34783d">
+    <h3 id="verify-app" class="step-title screensteps-heading">Verify App</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/255/230/original/5f8375ae-566e-4cb5-aaf7-674c100f85e5.png" srcset="" alt="Verify App" height="208" width="705">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_246f2220-f3b7-4efc-9714-392d1fa785a5" class="text-block-content">
+    <p>If the app has already been added in the account, Canvas verifies that you still want to install the app. To continue, click the <strong>Yes, Install Tool</strong> button.</p>
+<p><strong>Note:</strong> Verifications only take place in the same context for an existing external app (such as installing the same app multiple times in the root account).</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_app" data-step-uuid="6CF25EFA-E841-4DE8-819F-E22C5D152C51">
+    <h2 id="view_app" class="step-title screensteps-heading">View App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/677/389/original/1dcfbbc6-c882-4966-977f-42072ee9fc20.png" srcset="" alt="View App" height="330" width="785">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6386B80-0373-0135-5595-22000B5A851D" class="text-block-content">
+    <p>View the external app.</p>
+<p>To manage the app, click the <strong>Settings</strong> icon [1]. To edit the app, click the <strong>Edit</strong> link [2]. To <a href="/t5/Admin-Guide/How-do-I-manage-external-app-placements-for-an-account/ta-p/417797" target="_blank">manage app placements</a>, click the <strong>Placements</strong> link [3]. To delete the app, click the <strong>Delete</strong> link [4].</p>
+<p>To <a href="/t5/Admin-Guide/How-do-I-add-an-external-tool-to-the-Rich-Content-Editor-toolbar/ta-p/398262" target="_blank">add an external app to the Rich Content Editor toolbar</a>, click the <strong>Add to RCE toolbar</strong> toggle [5]. This option is only available for external tools that support placement in the Rich Content Editor.</p>
+<p><strong>Note:</strong> When you click the Placements link, you may see a No Placements Enabled message. This message indicates that the app does not have any specified placements within Canvas. However, the app will still work as intended.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

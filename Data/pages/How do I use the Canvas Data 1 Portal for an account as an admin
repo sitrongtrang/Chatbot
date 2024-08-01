@@ -1,0 +1,167 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--alert screensteps-wrapper">
+  <div id="text-content_9d3118b4-9b18-4da9-8e0c-6aef9642de68" class="text-block-content">
+    <p>Canvas Data 1 will be <a href="https://community.canvaslms.com/t5/The-Product-Blog/Canvas-Data-In-with-the-New-Out-with-the-Old/ba-p/590171" target="_blank">deprecated on December 31, 2023</a>. Canvas Data 1 guides will be removed from the Community end of June 2024.  <a href="/t5/Admin-Guide/What-is-Canvas-Data-2/ta-p/560956" target="_blank">Learn more about accessing data using Canvas Data 2</a>.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7728B5E0-1CB1-0135-FB59-22000B5A851D" class="text-block-content">
+    <p>When enabled for your account, Account Settings includes the Canvas Data Portal link. This link allows the Canvas Data Administrator to manage Canvas Data. </p>
+<p>For more information on Canvas Data, view the <a href="https://portal.inshosteddata.com/docs" target="" rel="nofollow noopener noreferrer">Canvas Data dictionary</a>.</p>
+<p><strong>Note:</strong> Any Canvas admin in your account can view the Canvas Data Portal link, but unless they have been granted access by the Canvas Data Administrator, they cannot view the page content. </p>
+<p>The Canvas Data Portal allows the Canvas Data Administrator to:</p>
+<ul>
+<li>view recent data exports</li>
+<li>view current users</li>
+<li>generate credentials for Canvas Data API access (used for downloading flat files</li>
+</ul>
+<p>Canvas Data does not display child account information within a parent account.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="58168235-b041-401f-941d-e02ee6369ffc">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92b574e3-c35f-4f02-a383-ff6056f8f0d8" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_canvas_data_portal" data-step-uuid="4bdb8d78-f70f-4b4a-b8d3-00a2fac94c67">
+    <h2 id="open_canvas_data_portal" class="step-title screensteps-heading">Open Canvas Data Portal</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/690/original/004ad0e3-8942-41b1-bab4-2d2ba741a926.png" srcset="" alt="Open Canvas Data Portal" height="331" width="185">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77296A50-1CB1-0135-FB5B-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Canvas Data Portal </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_canvas_data_portal" data-step-uuid="442f606a-fcd7-479d-b562-88b3fd84ef5c">
+    <h2 id="view_canvas_data_portal" class="step-title screensteps-heading">View Canvas Data Portal</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/557/529/original/921eb3f6-c2ed-4673-9506-0dd8ee883e72.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/557/529/medium/921eb3f6-c2ed-4673-9506-0dd8ee883e72.png" srcset="" alt="View Canvas Data Portal" height="267" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_772A5300-1CB1-0135-FB5D-22000B5A851D" class="text-block-content">
+    <p>The Canvas Data Portal allows you to manage Canvas Data. The portal includes two sections: the Credential Portal [1] and Documentation pages [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_credential_portal" data-step-uuid="88520dfc-9e79-48d2-b3f4-afb3937c5e9e">
+    <h2 id="view_credential_portal" class="step-title screensteps-heading">View Credential Portal</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/527/original/3b70a8d6-185a-4899-8510-cdfb65da7a65.png" srcset="" alt="View Credential Portal" height="80" width="330">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_772B8070-1CB1-0135-FB5F-22000B5A851D" class="text-block-content">
+    <p>By default, the Canvas Data Portal opens to the Credential Portal, which includes all the credentials of your Canvas Data account.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_recent_data_exports" data-step-uuid="572f330b-19ec-4236-bbc2-956abb40962a">
+    <h3 id="view_recent_data_exports" class="step-title screensteps-heading">View Recent Data Exports</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/557/522/original/705c00d0-29f4-46de-b104-2385a75b9732.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/557/522/medium/705c00d0-29f4-46de-b104-2385a75b9732.png" srcset="" alt="View Recent Data Exports" height="243" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_772C9E30-1CB1-0135-FB61-22000B5A851D" class="text-block-content">
+    <p>Depending on your account access, the Recent Data Exports section displays downloadable files daily or monthly. The date of the file is when the data finished the export, not the actual date of the data. Most recent data is generally 24–36 hours older than the given date.</p>
+<p><strong>Canvas Data Historical Data</strong></p>
+<p>After Canvas Data has been enabled in your account, a series of flat files display nightly for your account. The files contain tables representing all data beginning from the time Canvas Data was enabled in the account, with the exception of page view requests that contain an incremental download from the day before. To receive historical page view requests from before Canvas Data was enabled in the account, please contact your Implementation Consultant. The historical page view table data is uploaded separately and requests are typically processed every other month.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_users" data-step-uuid="1681c993-79a4-4f6c-8324-b8f951361b88">
+    <h3 id="view_users" class="step-title screensteps-heading">View Users</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/557/514/original/6599679f-a533-4e9e-b94f-d81d82aeb0e6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/557/514/medium/6599679f-a533-4e9e-b94f-d81d82aeb0e6.png" srcset="" alt="View Users" height="222" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_772D0750-1CB1-0135-FB63-22000B5A851D" class="text-block-content">
+    <p>The Manage Users section shows admins who have been given access to the Canvas Data Portal, along with their permissions. You cannot edit permissions for yourself. </p>
+<p>Any admin who does not have access but who has tried to view the portal also appears in the list. You can choose to edit that user's settings and grant permission access at any time. Learn how to <a href="/t5/Admin-Guide/How-do-I-manage-admin-users-in-the-Canvas-Data-1-Portal/ta-p/139" target="_blank">manage Canvas Data Admin users</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_api_credentials" data-step-uuid="4fc05da0-724e-4748-ad1d-c3be14f30e7d">
+    <h3 id="view_api_credentials" class="step-title screensteps-heading">View API Credentials</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/512/original/ca886ed0-29f1-45b1-b788-dd874acd3a50.png" srcset="" alt="View API Credentials" height="97" width="212">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_772DD8D0-1CB1-0135-FB65-22000B5A851D" class="text-block-content">
+    <p>If you would like to grant access to other users or third-party partners to automatically download data, you can generate API credentials and pass them to those users. To generate the credentials, click the <strong>Create Credentials</strong> button.</p>
+<p>Once the credentials are generated, you will need to save them and transmit them securely to the users or third-party partners that will need them. The credentials can be regenerated at any time but the old credentials will be invalidated.</p>
+<p>Learn more about the <a href="https://community.canvaslms.com/docs/DOC-4656" target="_blank">Canvas Data API</a> in the Canvas Community.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_documentation" data-step-uuid="9a994dc5-2355-4ac6-be68-fef130def6ab">
+    <h2 id="view_documentation" class="step-title screensteps-heading">View Documentation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/510/original/43a90a63-fbf4-40f2-9f0d-f966438c52a2.png" srcset="" alt="View Documentation" height="132" width="321">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7730F300-1CB1-0135-FB6B-22000B5A851D" class="text-block-content">
+    <p>To view Canvas Data documentation, click the Documentation tab menu.</p>
+<p>The Schema Docs explain all the table data that is exported from Canvas.</p>
+<p>The API Docs show all the API calls you can use for Canvas Data.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

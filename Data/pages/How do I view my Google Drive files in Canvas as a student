@@ -1,0 +1,143 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_67E88340-19AB-0135-736A-22000BC102FE" class="text-block-content">
+    <p>If your course has enabled Google Apps, you can view all files in your Google Drive account in Canvas. The Google Drive folder is accessed from the Course Navigation Menu.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>You can only view one Google Drive account at a time in Canvas. Make sure you are logged in to the account you want to view in Canvas. If necessary you can log out of your account and authenticate with a different account.</li>
+<li>If you are already logged into a Google account in Chrome, Canvas will use that Google account to authorize Google Drive access. If you want to authenticate using a different Google Drive account, you must log out of the Google account in Chrome and sign in to the account you want to use with Canvas.</li>
+<li>If your Canvas authorization has failed, try logging in to Google Drive in Canvas using an incognito browser, which removes all browser cookies and extensions. If you are able to log in with the incognito browser, you are most likely logged in to Google Drive and/or Canvas with different Google accounts. Confirm the account you are using for each location and try again. You may also need to confirm any Google extensions installed in your browser's settings.</li>
+<li>The location where you access your Google account may affect your access to Canvas. If you successfully authenticate with your account at your institution, you may have to reauthenticate when you log in to Canvas at home.</li>
+<li>Currently, Google Drive files cannot be accessed from course or personal files in Canvas. They can only be accessed from the Google Drive link in Course Navigation.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_google_drive" data-step-uuid="660a8cd9-d441-4367-b86f-b688b02e9862">
+    <h2 id="open_google_drive" class="step-title screensteps-heading">Open Google Drive</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/751/360/original/62efbfc7-3036-42d9-9f97-b9d2d23fa994.png" srcset="" alt="Open Google Drive" height="244" width="155">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67E8B850-19AB-0135-736C-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Google Drive </strong>link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="log_in_to_google_drive" data-step-uuid="a3db27db-d4f0-472a-8166-0f3c3ea78190">
+    <h3 id="log_in_to_google_drive" class="step-title screensteps-heading">Log in to Google Drive</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/548/559/original/9eb6b59b-8076-4ef3-a976-477a3c1b3a32.png" srcset="" alt="Log in to Google Drive" height="562" width="497">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67E943E0-19AB-0135-736E-22000BC102FE" class="text-block-content">
+    <p>You may be asked to authenticate your account. Click the <strong>Authorize </strong>button. </p>
+<p>In an external window, enter your Google App email and password.</p>
+<p><strong>Note:</strong> If you are unable to authenticate, please see the troubleshooting information in the description of this lesson.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_google_drive" data-step-uuid="915b7b4b-73ce-4dad-9b7e-af197666a476">
+    <h2 id="view_google_drive" class="step-title screensteps-heading">View Google Drive</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/107/794/original/4b01de6f-f7e6-4a33-8652-da51ecfba1f9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/107/794/medium/4b01de6f-f7e6-4a33-8652-da51ecfba1f9.png" srcset="" alt="View Google Drive" height="532" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67E97540-19AB-0135-7370-22000BC102FE" class="text-block-content">
+    <p>View your Google Drive files and folders.</p>
+<p>To view contents of a Google Drive folder, click the folder's name [1].</p>
+<p>To open a file, click the file name [2].</p>
+<p>To view your files in a list view, click the <strong>List View </strong>icon [3].</p>
+<p>To sorting options, click the <strong>Sort </strong>icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search_for_files" data-step-uuid="143c9488-607c-4bc8-98f8-0f7614c2e513">
+    <h2 id="search_for_files" class="step-title screensteps-heading">Search for Files</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/107/798/original/2c4d556a-5222-41ee-9842-7c3523551f2b.png" srcset="" alt="Search for Files" height="113" width="629">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67E9A530-19AB-0135-7372-22000BC102FE" class="text-block-content">
+    <p>To search for a file, enter the name of the file and click the Enter (Return) key on your keyboard.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_search_results" data-step-uuid="597b204d-3589-4b36-8181-465c5843ebf8">
+    <h3 id="view_search_results" class="step-title screensteps-heading">View Search Results</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/107/802/original/19673c29-5af9-4e93-9d69-0e11023fec04.png" srcset="" alt="View Search Results" height="366" width="588">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67E9F320-19AB-0135-7374-22000BC102FE" class="text-block-content">
+    <p>Google Drive returns file results related to your search.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_file" data-step-uuid="95f0b045-d9ea-480f-9554-cb828354fa0d">
+    <h2 id="open_file" class="step-title screensteps-heading">Open File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/107/806/original/7f20555a-1219-4bdc-817a-9b7e887d3c83.png" srcset="" alt="Open File" height="595" width="613">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67EA2140-19AB-0135-7376-22000BC102FE" class="text-block-content">
+    <p>To open a file, click the name of the file [1]. At the bottom of the window, click the <strong>Select </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_file" data-step-uuid="d459227c-b633-4562-adff-8f4496f6c799">
+    <h2 id="view_file" class="step-title screensteps-heading">View File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/538/983/original/533542f1-f94b-4b4f-b498-00ac9bc6e794.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/538/983/medium/533542f1-f94b-4b4f-b498-00ac9bc6e794.png" srcset="" alt="View File" height="281" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67EA5090-19AB-0135-7378-22000BC102FE" class="text-block-content">
+    <p>In a new browser window, view the file in your Google account.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

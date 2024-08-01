@@ -1,0 +1,197 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2BE6B410-2201-0135-282A-22000B5A851D" class="text-block-content">
+    <p>If your course includes Multiple Grading Periods, grading periods created at the account level automatically display in your course and can be filtered in the <a href="/t5/Instructor-Guide/How-do-I-use-the-Assignments-Index-Page/ta-p/777" target="_blank">Assignments Index Page</a>, the <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">Gradebook</a>, and the <a href="/t5/Instructor-Guide/How-do-I-view-a-student-s-Grades-page-in-a-course-from-the/ta-p/751" target="_blank">student Grades </a>page.</p>
+<p>Grading periods consist of a specific date range that define the grading period. Grading periods also include a close date as to when you can no longer edit grades in a grading period. Grading periods can also be weighted. To view grading period date ranges and any weighted grading periods, you can view grading periods in a course.</p>
+<p> At the course level, Canvas validates all assignments against closed grading periods in Canvas. For a complete overview of the Multiple Grading Periods feature and current limitations associated with close dates, please view the <a href="https://community.canvaslms.com/t5/Canvas-Releases-Board/Canvas-Release-Close-Dates-for-Grading-Periods-2017-01-28/m-p/250047" target="_blank">Close Dates for Grading Periods</a> document in the Canvas Community.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_by_grading_periods" data-step-uuid="fd7fd190-bd29-40cb-84bb-dd954dcb21b8">
+    <h2 id="view_by_grading_periods" class="step-title screensteps-heading">View Assignments by Grading Periods Filter</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/286/145/original/ee8d7ecc-4b80-4616-8239-be0904805d7b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/286/145/medium/ee8d7ecc-4b80-4616-8239-be0904805d7b.png" srcset="" alt="View by Grading Periods" height="281" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_680984f6-fc28-46ea-b759-5d03ce29f0c0" class="text-block-content">
+    <p>When multiple grading periods are enabled in a course, you can sort and filter the Assignments Index page by grading period.</p>
+<p>Assignments and assignment groups are validated against assignments in closed grading periods.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignments" data-step-uuid="8b28d438-949a-40cf-874b-a61434723835">
+    <h2 id="view_assignments" class="step-title screensteps-heading">View Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/712/924/original/2549525c-5307-4814-a895-10626e79fb15.png" srcset="" alt="View Assignments" height="449" width="492">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2BE6EF20-2201-0135-282C-22000B5A851D" class="text-block-content">
+    <p>When you create an assignment, by default each assignment is assigned to everyone. However, the assignment can be differentiated among course sections, course groups, or individual students. </p>
+<p>When grading periods are enabled, the due date of the assignment determines the grading period where the assignment appears in the Gradebook. If no due date is set, the assignment defaults to the last grading period available for the course.</p>
+<p>When grading periods are weighted, assignments outside of grading periods do not count toward the final grade.</p>
+<p><strong>Note:</strong> The Assign field cannot be edited for anyone if the due date is in a closed grading period. However, you can add additional differentiated assignments with due dates outside the closed grading period. Assignments with due dates in open grading periods cannot be edited from an open grading period to a date in a closed grading period, but the due date can be edited to any date within an open grading period. These restrictions do not apply to availability dates, which can be set to overlap a grading period.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_gradebook" data-step-uuid="9fca5db8-c72a-4493-9818-31c599c3e43c">
+    <h2 id="view_gradebook" class="step-title screensteps-heading">View Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/215/014/original/cca439eb-8705-4067-b3ac-ecfe4a8a8a57.png" srcset="" alt="View Gradebook" height="540" width="622">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2BE723B0-2201-0135-282E-22000B5A851D" class="text-block-content">
+    <p>To view the Grading Period filter, click the <strong>Apply Filters</strong> button [1]. Then in the Filters section, click the <strong>Grading Periods</strong> option [2].</p>
+<p>The Grading Periods filter lists grading periods for the course [3]. By default, the Gradebook displays the current grading period. However, you can view and filter assignments by all, previous, or future grading periods.</p>
+<p>Assignments are grouped in the grading period according to the published assignment due date (unpublished assignments never appear in the Gradebook). If there is no due date for the published assignment, the assignment defaults to the latest grading period. <em>Grading periods cannot be selected within an individual assignment. </em></p>
+<p>You can only edit grades for assignments in a current or future grading period. Once the close date for a grading period has passed, you cannot edit grades for the prior grading period.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_differentiated_assignments" data-step-uuid="3dfd8416-6ef1-4f7a-9bd2-761ba6b8acba">
+    <h3 id="view_differentiated_assignments" class="step-title screensteps-heading">View Differentiated Assignments</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/712/931/original/664effa1-e8f9-4a12-9301-6c7532789271.png" srcset="" alt="View Differentiated Assignments" height="308" width="448">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2BE78BB0-2201-0135-2832-22000B5A851D" class="text-block-content">
+    <p>Assignments cannot overlap grading periods except with <a href="/t5/Instructor-Guide/How-do-I-view-differentiated-assignments-with-different-due/ta-p/715" target="_blank">differentiated assignments</a>. When differentiated assignment dates overlap grading periods, the assignment appears in each appropriate grading period. </p>
+<ul>
+<li>If a student is not part of an assignment in the specific grading period, the assignment is grayed out. </li>
+<li>If a student is part of a differentiated assignment with no due date, the assignment appears in the last available grading period.</li>
+<li>If a student is part of multiple differentiated assignments, the grading period shows the assignment in the grading period of the latest date. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="display_total_grades_for_all_grading_periods" data-step-uuid="fd1b7b9a-86a8-4f29-9a63-65fa412ebab2">
+    <h2 id="display_total_grades_for_all_grading_periods" class="step-title screensteps-heading">Display Total Grades for All Grading Periods</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2BE7A500-2201-0135-2833-22000B5A851D" class="text-block-content">
+    <p>When using multiple grading periods, you may be able to view total grades in the All Grading Periods view. This grades view also includes displaying assignment group totals. Viewing total grades in a course is managed by your Canvas administrator.</p>
+<p>By default, viewing total grades in the All Grading Periods view is disabled in a course and affects the global Grades view, courses Grades view, and the instructor Gradebook.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_global_grades" data-step-uuid="deb7cd09-c35b-4de7-9581-61ef70332e43">
+    <h3 id="view_global_grades" class="step-title screensteps-heading">View Global Grades</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/712/933/original/68b06f50-9e26-4141-b03e-6c494dd498f7.png" srcset="" alt="View Global Grades " height="443" width="725">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2BE7D990-2201-0135-2835-22000B5A851D" class="text-block-content">
+    <p>Students have one of two options from the <a href="/t5/Student-Guide/How-do-I-view-grades-in-the-Dashboard-as-a-student/ta-p/336" target="_blank">global Grades page accessed from the Dashboard</a>. When viewing total grades is disabled [1], students do not have the option to view All Grading Periods. They can only view the grade for a specific grading period in the course. </p>
+<p>When viewing total grades is enabled [2], students can select the All Grading Periods option and can view the appropriate grade.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_course_grades" data-step-uuid="97f36ff5-a7ce-4d4e-be3b-b706694d582a">
+    <h3 id="view_course_grades" class="step-title screensteps-heading">View Course Grades</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/061/248/original/d9176757-ed66-4a02-a033-07025c8dcd92.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/061/248/medium/d9176757-ed66-4a02-a033-07025c8dcd92.png" srcset="" alt="View Course Grades" height="639" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2BE80E40-2201-0135-2837-22000B5A851D" class="text-block-content">
+    <p>In the course Grades page, students may not be able to view their assignment grade totals.</p>
+<p>When you <a href="/t5/Instructor-Guide/How-do-I-hide-totals-in-my-students-grade-summaries/ta-p/671" target="_blank">hide totals</a> in student grade summaries, students cannot view the total grade calculation in either the sidebar or the bottom of the grades page. Calculations also include assignment totals for weighted assignment groups. Hiding total grades impacts calculations for student What-If Grades.</p>
+<p>When viewing total grades is enabled, students can still view the total grade for All Grading Periods and any assignment group calculations.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="hide_grades_in_individual_grading_periods" data-step-uuid="9157ba96-aaa7-44ee-89f7-24a9fad074f4">
+    <h2 id="hide_grades_in_individual_grading_periods" class="step-title screensteps-heading">Hide Grades in Individual Grading Periods</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/286/147/original/e5a73e1d-29e6-4f14-a23f-c45bfeafa88f.png" srcset="" alt="Hide Grades in Individual Grading Periods" height="163" width="743">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2BE87B30-2201-0135-283B-22000B5A851D" class="text-block-content">
+    <p>When viewing total grades is disabled, students can still view total grades for an individual grading period unless you <a href="/t5/Instructor-Guide/How-do-I-hide-totals-in-my-students-grade-summaries/ta-p/671" target="_blank">hide student totals</a> in Course Settings. When this setting is enabled, students will not be able to view any totals in their global grades page or course grades page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_closed_grading_periods" data-step-uuid="c9d842a5-3bc1-42ca-8b06-0ac403859a59">
+    <h2 id="view_closed_grading_periods" class="step-title screensteps-heading">View Closed Grading Periods</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/061/237/original/74af96fc-25e9-4fba-9bec-31ddd66a7464.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/061/237/medium/74af96fc-25e9-4fba-9bec-31ddd66a7464.png" srcset="" alt="View Closed Grading Periods" height="298" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2BE8BF40-2201-0135-283D-22000B5A851D" class="text-block-content">
+    <p><span style="color:rgb(70,71,73);"> </span>At the course level, Canvas validates all assignments against closed grading periods in Canvas. You cannot edit assignments in closed grading periods. If an assignment is in a closed grading period, the assignment shows that the submission is in a closed grading period. Learn how to <a href="/t5/Colder-Storage/How-do-I-view-grading-periods-in-a-course/td-p/259005" target="_blank">view the date range of a course grading period</a>.</p>
+<p>Students are not affected by closed grading periods in their Grades page.</p>
+<p><strong>Note: </strong>For current limitations associated with the close date feature, please view the <a href="https://community.canvaslms.com/t5/Canvas-Releases-Board/Canvas-Release-Close-Dates-for-Grading-Periods-2017-01-28/m-p/250047" target="_blank">Close Dates for Grading Periods</a> document.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export_gradebook" data-step-uuid="b9a0da7c-7470-49e9-b2ff-95ad9d604c1d">
+    <h2 id="export_gradebook" class="step-title screensteps-heading">Export Gradebook</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/215/018/original/1a73ded8-73f4-41df-bf3c-5dc75734b2e1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/215/018/medium/1a73ded8-73f4-41df-bf3c-5dc75734b2e1.png" srcset="" alt="Export Gradebook" height="381" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2BE8F930-2201-0135-283F-22000B5A851D" class="text-block-content">
+    <p>When you <a href="/t5/Instructor-Guide/How-do-I-export-grades-in-the-Gradebook/ta-p/809" target="_blank">download scores from the Gradebook</a>, you can export assignment scores and total grades for all grading periods or specific grading periods.</p>
+<p>To export Gradebook scores for assignments associated with a specific grading period, click the <strong>Apply Filters</strong> button and select the grading period from the <strong>Grading Periods</strong> section [1]. Then click the <strong>Export </strong>drop-down menu [2] and select the <strong>Export Current Gradebook View</strong> option [3]. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The CSV includes any selected grading period information; however, assignment group totals in the CSV are calculated based on all grading periods.</li>
+<li>The CSV file displays a total grade for the specific grading period being viewed. However, if the instructor exports the All Grading Periods Gradebook view, the CSV honors whether or not total grades can be viewed.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,117 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_e7dd4056-4ea2-447f-a0b5-8debb7f82ee8" class="text-block-content">
+    <p>As an admin or sub-account admin, you can create an account calendar with events and important dates that display for users. In Canvas Calendars, <a href="/t5/Instructor-Guide/How-do-I-manage-Account-Calendars-as-an-instructor/ta-p/546238" target="_blank">instructors</a>, <a href="/t5/Student-Guide/How-do-I-manage-Account-Calendars-as-a-student/ta-p/546240" target="_blank">students</a>, and <a href="null" target="_blank" rel="nofollow noopener noreferrer">observers</a> have the option to subscribe to Account Calendars in the Other Calendars section.</p>
+<p><strong>Note: </strong>You must make the <a href="/t5/Admin-Guide/How-do-I-manage-Account-Calendars/ta-p/546233" target="_blank">account calendar visible</a> before adding events.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_calendar" data-step-uuid="6695f294-9816-4fbc-b060-ac89f6d47e4d">
+    <h2 id="open_calendar" class="step-title screensteps-heading">Open Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/794/501/original/4c8c3bf2-f675-4c1b-a6d7-c0a4de9e24d2.png" srcset="" alt="Open Calendar" height="535" width="94">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e8f80cca-866f-475c-b59f-c957cb0f30c6" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Calendar</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-account-calendar" data-step-uuid="d2faf042-6c9a-4d51-877b-48c996574a9d">
+    <h2 id="add-account-calendar" class="step-title screensteps-heading">Add Account Calendar</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/878/188/original/872bc431-a24c-4c34-8d3b-c2eba61e8da0.png" srcset="" alt="Add Account Calendar" height="143" width="306">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0864d643-cf5c-478a-8b6b-9cf0c49c4ec6" class="text-block-content">
+    <p>Click the <strong>Add</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/878/190/original/76ebe430-d5a5-4c6d-ab14-789ab1b3364a.png" srcset="" alt="Select Calendar" height="445" width="545">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_94f25458-128b-41b4-abcc-b0d0810ef2b4" class="text-block-content">
+    <p>To add additional calendar(s) to your Canvas calendar, click the checkbox next to the calendar [1] and click the <strong>Save Changes</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_event" data-step-uuid="c1ca3588-8c69-482b-8388-9f8c3c9c744e">
+    <h2 id="add_event" class="step-title screensteps-heading">Add Event</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/878/192/original/22ed8803-a1d0-42c5-be3f-062b525a29c5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/878/192/medium/22ed8803-a1d0-42c5-be3f-062b525a29c5.png" srcset="" alt="Add Event" height="456" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_302ac904-e76d-4f0e-9383-a1a7ec6d501d" class="text-block-content">
+    <p>Click any date on the calendar to add an event [1]. Or, click the arrows next to the month name to navigate to a different month [2] and select a date.</p>
+<p>If you don't want to manually locate the date, you can click the <strong>Add</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_event_details" data-step-uuid="458dd623-cf0f-4048-a1e9-9033cfce93b7">
+    <h2 id="add_event_details" class="step-title screensteps-heading">Add Event Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/878/194/original/f455e258-6e7f-4d95-b608-5acf6532f7af.png" srcset="" alt="Add Event Details" height="842" width="531">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6788ac12-6591-4c69-a978-dee2f172a7ee" class="text-block-content">
+    <p>Enter a title for the event [1]. </p>
+<p>Depending on how you added your event, the date may be populated for you. If not, enter a date in the date field [2].</p>
+<p>The calendar times may also be populated for you in the From fields [3]. To edit, use the dropdown or enter the start and end time for your event. To create an all-day event, leave the From fields blank so there is no start and end time for your event. </p>
+<p>In the <strong>Frequency</strong> drop-down menu, you can <a href="/t5/Admin-Guide/How-do-I-create-a-recurring-event-in-an-account-calendar-as-an/ta-p/584833" target="_blank">set recurring calendar events</a> [4].</p>
+<p>You can enter a location [5].</p>
+<p>In the <strong>Calendar</strong> drop-down menu [6], select the account calendar [7].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit_event" data-step-uuid="014da1ee-3c1a-4540-9fce-cd96270058c9">
+    <h2 id="submit_event" class="step-title screensteps-heading">Submit Event</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/878/197/original/bd082bb6-9b0d-4b91-bdd2-29de23acccac.png" srcset="" alt="Submit Event" height="89" width="251">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5fe28e3e-90b4-4cd8-84c2-20b329b5234e" class="text-block-content">
+    <p>To add additional details to your event, click the <strong>More Options</strong> button [1]. You can use the Rich Content Editor to add a description or resource links and add an address location.</p>
+<p>If you only want to create the event as a placeholder and add details later, click the <strong>Submit </strong>button [2]. You can <a href="/t5/Instructor-Guide/How-do-I-edit-an-event-or-assignment-in-the-Calendar/ta-p/932" target="_blank">edit your event</a> at any time.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

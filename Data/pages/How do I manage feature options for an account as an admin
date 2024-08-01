@@ -1,0 +1,276 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_998E4300-0832-0135-A690-22000AB760A3" class="text-block-content">
+    <p>Some Canvas features are optional or new and can be turned on or off. This lesson gives an overview of how to manage feature options for an entire account. You can manage some features on the account, sub-account, course, and user levels. On the course level, you can give instructors the option to implement features on a course-by-course basis. Instructors can view features you've enabled in the Feature Options tab in Course Settings. Admins and instructors have no control over user-level features for other users. </p>
+<p>By default, most feature options are set to Off and Unlocked, which means they are visible at the course level but not turned on. You can set feature options On or Off. The state you select is the default for sub-accounts and courses. You can also lock or unlock some features to prevent or allow other users to change the default at the sub-account or course level. Some features default to On, and others only display when they are enabled by your Customer Success Manager. To view specific feature options available in Canvas, visit the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Feature-Option-Summary/ta-p/531316" target="_blank">Canvas Feature Option Summary resource document</a>.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Feature option settings are never copied from production and always retain their default settings. Feature options must be managed individually in the <a href="/t5/Admin-Guide/How-do-I-access-the-Canvas-test-environment-as-an-admin/ta-p/180" target="_blank">test</a> and <a href="/t5/Admin-Guide/How-do-I-access-the-Canvas-beta-environment-as-an-admin/ta-p/111" target="_blank">beta</a> environments.</li>
+<li>Some feature options may not be available in sub-accounts and Free-for-Teacher accounts. For more information about available feature options in Free-for-Teacher accounts, please view the <a href="http://bit.ly/cnvs-accounts" target="_blank" rel="nofollow noopener noreferrer">Canvas Account Comparisons resource document</a>.</li>
+<li>In sub-accounts, you can only manage unlocked account-level feature options. </li>
+<li>In Free-for-Teacher accounts, you cannot manage account-level feature options.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="c42f298c-96a1-4e9c-a3ae-1c2f6bdfa485">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c98da208-d9d4-4a94-9d77-26cb94d00847" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account_settings" data-step-uuid="c5f6a054-6ddf-4209-bf2b-79f5128e7fa2">
+    <h2 id="open_account_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/449/original/76159d62-a65c-4bc5-aece-f266f2187897.png" srcset="" alt="Open Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_998F1DA0-0832-0135-A692-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_feature_options_tab" data-step-uuid="f65bc1a9-0db3-4461-925d-1cd564780e33">
+    <h2 id="open_feature_options_tab" class="step-title screensteps-heading">Open Feature Options Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/976/434/original/8b0d8e21-32ba-41b4-95dd-896c347684b1.png" srcset="" alt="Open Feature Options Tab" height="109" width="782">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_998F5230-0832-0135-A694-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Feature Options </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_feature_options" data-step-uuid="74436dfa-eb84-479b-9a8a-e0e195269d50">
+    <h2 id="view_feature_options" class="step-title screensteps-heading">View Feature Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/038/990/original/1e55ccf7-9bec-4489-96f9-5056dfe7bf60.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/038/990/medium/1e55ccf7-9bec-4489-96f9-5056dfe7bf60.png" srcset="" alt="View Feature Options" height="664" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_998F8440-0832-0135-A696-22000AB760A3" class="text-block-content">
+    <p>Available features will appear in the Feature Options tab. Some new features may need to be enabled by your Customer Success Manager.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="filter-feature-options" data-step-uuid="fbb8545a-541d-488d-8d0c-fffdc51e8667">
+    <h3 id="filter-feature-options" class="step-title screensteps-heading">Filter Feature Options</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/249/107/original/f4965f8a-8847-4665-b2e6-9ea113dd2780.png" srcset="" alt="Filter Feature Options" height="190" width="219">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4f530114-b3db-4f37-9d94-5a2ed8cdcb25" class="text-block-content">
+    <p>To filter by all features, enabled features or disabled features, click the <strong>Filter</strong> drop-down menu. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="search-feature-options" data-step-uuid="fd9b2e27-def2-4c6c-aa15-d07072d3f25a">
+    <h3 id="search-feature-options" class="step-title screensteps-heading">Search Feature Options</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/382/233/original/00321a1e-1751-48ef-890f-84e13c33d43d.png" srcset="" alt="Search Feature Options" height="62" width="244">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4e537324-154d-40bc-a1d2-86fa18068c86" class="text-block-content">
+    <p>To search for a feature option, type a keyword in the <strong>Search</strong> field. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_types_of_features" data-step-uuid="67626efd-a1e1-41a7-a2d6-c85d701dfeba">
+    <h3 id="view_types_of_features" class="step-title screensteps-heading">View Feature Hierarchy</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/038/994/original/7473bfc3-4548-4013-88ad-315b126d030d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/038/994/medium/7473bfc3-4548-4013-88ad-315b126d030d.png" srcset="" alt="View Feature Hierarchy" height="641" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_998FBB40-0832-0135-A698-22000AB760A3" class="text-block-content">
+    <p>Once features are available, they will be listed by Account [1] or Course [2], depending on the feature's hierarchical level.</p>
+<p>Each feature includes a feature description. To expand the feature box and display the description, click the arrow icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_feature_tags" data-step-uuid="372db0c5-11e6-43c3-b1e5-699f5927dbb5">
+    <h3 id="view_feature_tags" class="step-title screensteps-heading">View Feature Tags</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/038/997/original/ce01aa9f-b16f-4f25-b6af-ac361d26b595.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/038/997/medium/ce01aa9f-b16f-4f25-b6af-ac361d26b595.png" srcset="" alt="View Feature Tags" height="110" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_998FF1B0-0832-0135-A69A-22000AB760A3" class="text-block-content">
+    <p>Feature tags help identify the state of each feature. A feature with no label means the feature is stable and ready for use in your production environment [1]. </p>
+<p>Features may also include a <strong>Feature Preview</strong> tag [2], which means the feature is in active development. You can opt-in to the feature and join the Community user group to help improve the feature through direct feedback. Access to the user group is noted in the description of the feature option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_feature_access" data-step-uuid="38bf6da4-c6a4-428d-b7cf-97e3352ed262">
+    <h2 id="view_feature_access" class="step-title screensteps-heading">View Feature States</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/976/446/original/8f291feb-0da0-4aaa-95ab-4374c0ae80dd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/976/446/medium/8f291feb-0da0-4aaa-95ab-4374c0ae80dd.png" srcset="" alt="View Feature States" height="209" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99902630-0832-0135-A69C-22000AB760A3" class="text-block-content">
+    <p>As an account level admin, you can choose to enable or disable features by default in the account and all subaccounts. </p>
+<p>If a feature can be edited at the sub-account or course level, you can choose to lock or allow editing of the default feature state at the sub-account or course level.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_on_feature" data-step-uuid="780264ef-6c8b-472f-84b3-ee9042cb4c56">
+    <h3 id="view_on_feature" class="step-title screensteps-heading">Manage Default Feature State</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/038/999/original/710a75e4-2b00-4c7d-ab71-24a947abea6d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/038/999/medium/710a75e4-2b00-4c7d-ab71-24a947abea6d.png" srcset="" alt="Manage Default Feature State" height="270" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99905B30-0832-0135-A69E-22000AB760A3" class="text-block-content">
+    <p>As an account level admin, you can choose to enable or disable features by default for the account and all subaccounts. </p>
+<p>To enable or disable a feature, click the feature's <strong>State</strong> icon [1].</p>
+<p>To enable the feature by default for the account and all subaccounts, click the <strong>Enabled</strong> option [2]. </p>
+<p>To disable the feature by default for the account and all subaccounts, click the <strong>Disabled</strong> option [3].</p>
+<p><strong>Note: </strong>Depending on feature functionality, when you enable a feature, Canvas may display a warning message asking to confirm your option, as some account features cannot be turned off once they are enabled. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="view-default-feature-state" data-step-uuid="0fe48fee-ed44-4200-9f36-7b8179696b81">
+    <h4 id="view-default-feature-state" class="step-title screensteps-heading">View Default Feature State</h4>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/039/001/original/2c0e7e2e-6a4d-4c16-8915-1626a78fad93.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/039/001/medium/2c0e7e2e-6a4d-4c16-8915-1626a78fad93.png" srcset="" alt="View Default Feature State" height="102" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0f5ef3ae-6678-4ad7-9a7c-3ff6b2d7aade" class="text-block-content">
+    <p>Features enabled by default display the <strong>Enabled</strong> icon [1]. </p>
+<p>Features disabled by default display the <strong>Disabled</strong> icon [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_allowed_feature" data-step-uuid="be7a7604-f08c-4969-ad36-bb26e584106c">
+    <h3 id="view_allowed_feature" class="step-title screensteps-heading">Allow and Lock Features</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/039/003/original/3a6d3a39-5590-40c7-b3b8-4c4a99901abb.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/039/003/medium/3a6d3a39-5590-40c7-b3b8-4c4a99901abb.png" srcset="" alt="Allow and Lock Features" height="175" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99908FA0-0832-0135-A6A0-22000AB760A3" class="text-block-content">
+    <p>Some features can be managed at the sub-account or course levels. As an account admin, you can choose to lock or allow those features to be edited at the sub-account or course levels.  </p>
+<p>To allow or disallow a feature's default state to be edited at the sub-account or course levels, click the feature's <strong>State</strong> icon [1].</p>
+<p>To lock the default feature state so it cannot be edited at the sub-account or course level, select the <strong>Lock</strong> option [2].</p>
+<p>To allow a feature's default state to be edited at the sub-account or course level, uncheck the <strong>Lock</strong> option.</p>
+<p><strong>Notes:</strong>  </p>
+<ul>
+<li>Features that can only be managed at the account level will not display a locked or unlocked icon [3]. Those features' default states are set for the account and all subaccount.</li>
+<li>Depending on feature functionality, when you unlock a feature state, Canvas may display a warning message asking to confirm your option, as some account features cannot be turned off once they are enabled.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="view-allowed-and-locked-features" data-step-uuid="028a5329-771a-4910-969a-47111e535630">
+    <h4 id="view-allowed-and-locked-features" class="step-title screensteps-heading">View Allowed and Locked Features</h4>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/039/006/original/f3ec2374-9dac-4406-8439-b81f482378f1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/039/006/medium/f3ec2374-9dac-4406-8439-b81f482378f1.png" srcset="" alt="View Allowed and Locked Features" height="187" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_079a392e-d639-486d-8f22-d07b068fa574" class="text-block-content">
+    <p>Locked features display the<strong> Locked</strong> icon [1]. </p>
+<p>Allowed featured display the <strong>Unlocked</strong> icon [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-feature-state-tooltips" data-step-uuid="3d0df089-e2b7-4aa7-8d49-8f1169da3772">
+    <h3 id="view-feature-state-tooltips" class="step-title screensteps-heading">View Feature State Tooltips</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/934/165/original/6e580ea4-28ec-4de4-bfdf-572e374808d0.png" srcset="" alt="View Feature State Tooltips" height="280" width="788">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a3376230-7def-45ba-89be-32c84bcd1371" class="text-block-content">
+    <p>To view a more detailed description of the state of the feature preview, hover over the feature preview state icon. A tooltip explains the current state of the feature preview. The tooltip will display the following descriptions based on the feature preview state:</p>
+<p>Account Feature Previews:</p>
+<ul>
+<li>State: Enabled and Unlocked | Tooltip: Allowed for subaccounts/courses, default on</li>
+<li>State: Enabled and Locked | Tooltip: Enabled for all subaccounts/courses</li>
+<li>State: Disabled and Unlocked | Tooltip: Allowed for subaccounts/courses, default off</li>
+<li>State: Disabled and Locked | Tooltip: Disabled for all subaccounts/courses</li>
+</ul>
+<p>Course Feature Previews</p>
+<ul>
+<li>State: Enabled and Unlocked | Tooltip: Optional in course, default on</li>
+<li>State: Disabled and Unlocked | Tooltip: Optional in course, default off</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,134 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_D9261140-220E-0135-22E4-22000AB760A3" class="text-block-content">
+    <p>In Modules, you can add links to <a href="/t5/Instructor-Guide/How-do-I-add-an-external-app-in-a-course/ta-p/1082" target="_blank">configured external tools in Course Settings</a>. However, you can still add unconfigured tools if you know the required information for the external tool.</p>
+<p><strong>Note</strong>: Numerous module items may affect performance. Modules supports up to 100 module items in the <a href="/t5/Instructor-Guide/How-do-I-use-modules-to-view-the-progress-of-students-in-a/ta-p/973" target="_blank">student progress page</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="EFD856B0-F38D-4C32-8E8C-3B44F3284ED4">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/079/original/4e1a0f4e-8ace-4379-b076-126361296793.png" srcset="" alt="Open Modules" height="246" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D92687D0-220E-0135-22E6-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_module_item" data-step-uuid="4fe199df-fab8-4c5f-bbf7-e3b6afb6365b">
+    <h2 id="add_module_item" class="step-title screensteps-heading">Add Module Item</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/385/629/original/6b0dc137-d016-48b7-9a41-f79d052d03ed.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/385/629/medium/6b0dc137-d016-48b7-9a41-f79d052d03ed.png" srcset="" alt="Add Module Item" height="91" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D926E810-220E-0135-22E8-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Item</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_external_tool" data-step-uuid="b5f5b4d2-76de-48d6-b9ab-4e2e44a12b7d">
+    <h2 id="add_external_tool" class="step-title screensteps-heading">Add External Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/698/original/d40806be-b0bf-4e6d-9946-6713c519eb19.png" srcset="" alt="Add External Tool" height="632" width="781">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D92750D0-220E-0135-22EA-22000AB760A3" class="text-block-content">
+    <p>In the <strong>Add [Item Type] To:</strong> drop-down menu, select the <strong>External Tool</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_external_tool" data-step-uuid="14d4aff1-dc95-45fc-853f-123e51cfb223">
+    <h2 id="find_external_tool" class="step-title screensteps-heading">Find External Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/706/original/45dd5433-8695-4139-b863-0f208a599792.png" srcset="" alt="Find External Tool" height="558" width="781">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D9278040-220E-0135-22EC-22000AB760A3" class="text-block-content">
+    <p>Locate the configured tool and click the <strong>Search </strong>icon. An external window will appear in your browser; follow the instructions to add the tool.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_unconfigured_tool" data-step-uuid="B9210D3C-2341-4EBB-A028-52C8863B12CE">
+    <h3 id="add_unconfigured_tool" class="step-title screensteps-heading">Add Unconfigured Tool</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/702/original/5d10e7b5-3b5e-411b-9f38-36222a826485.png" srcset="" alt="Add Unconfigured Tool" height="222" width="565">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D927B4C0-220E-0135-22EE-22000AB760A3" class="text-block-content">
+    <p>If you want to add a tool that has not been configured in your course, locate the configuration URL for the tool you want to link to and type the URL in the URL field [1]. </p>
+<p>Give your External Tool a Page Name [2]. </p>
+<p>To have the tool open in a new browser tab, click the <strong>Load this tool in a new tab</strong> checkbox [3]. When adding external tools as module items in the future, the option you select, to open the tool in the existing tab or a new tab, displays as the default.</p>
+<p>Choose whether or not to indent the item in the module drop-down menu [4]. </p>
+<p><strong>Note: </strong>Because Basic LTI configurations can be added at a later time, the dialog will accept URLs that don't match any existing configurations. However, when you try to navigate to an external tool that is not configured, you'll see an error message indicating the problem. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_item" data-step-uuid="5d1dacde-b29f-4d6f-b11d-c28a5c410c6f">
+    <h2 id="add_item" class="step-title screensteps-heading">Add Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/710/original/14d81f0b-4dda-4d5e-897d-d98aefdf55ef.png" srcset="" alt="Add Item" height="65" width="195">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D927E5C0-220E-0135-22F0-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Item</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_module" data-step-uuid="56FBC552-B76B-4C81-957C-24D7E06B5EEC">
+    <h2 id="view_module" class="step-title screensteps-heading">View Module</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/385/631/original/3eb73947-04a3-4eb6-a491-81e98f3d24a3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/385/631/medium/3eb73947-04a3-4eb6-a491-81e98f3d24a3.png" srcset="" alt="View Module" height="650" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D928A9D0-220E-0135-22F2-22000AB760A3" class="text-block-content">
+    <p>View the external tool in your module.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

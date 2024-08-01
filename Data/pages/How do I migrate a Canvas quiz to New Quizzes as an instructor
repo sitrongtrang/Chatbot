@@ -1,0 +1,99 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_c2680ea9-3cbf-4a26-909f-5d30e9631f27" class="text-block-content">
+    <p>If allowed by your institution, you can migrate an individual quiz from Classic Quizzes to be used in <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">New Quizzes</a> from the Quizzes Index Page. Alternatively, you can <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-copy-content-from-another-Canvas-course-using-the/ta-p/1012" target="_blank">bulk migrate multiple quizzes via course copy</a>, <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-a-Canvas-course-export-package/ta-p/795" target="_blank">IMSCC or QTI file course imports</a> or <a href="https://canvas.instructure.com/doc/api/content_migrations.html#method.content_migrations.create" target="_blank" rel="nofollow noopener noreferrer">API</a>.</p>
+<p>New Quizzes does not include a survey feature. Therefore, surveys migrated from Classic Quizzes come over as standard quizzes in New Quizzes.</p>
+<p>If your institution enables the New Quizzes migration during course import/copy feature option, question banks linked via a question group in Classic Quizzes will migrate to New Quizzes. If the quiz migration feature is not enabled by your institution, questions from question banks must be individually added before migrating to New Quizzes.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>After migration to New Quizzes, Multiple Dropdown questions display as Fill in the Blank questions.</li>
+<li>Text No Question questions migrate to New Quizzes as Stimulus questions. An instructor must add a question in order for it to display in a quiz.</li>
+<li>Question groups with manually created questions migrate as item banks in New Quizzes.</li>
+<li>If a quiz is migrated multiple times, Canvas uses smart merging to decipher the question bank content that should be retained. This process helps ensure all content is retained, such as in cases where multiple users may be making edits to a quiz at the same time.</li>
+<li>Practice quizzes from Classic Quizzes can be migrated to New Quizzes. Once migrated, by default, the practice quizzes are displayed as zero points possible and are hidden from the Gradebook and Grades page.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-course" data-step-uuid="081955df-e5ac-49fa-aa24-0a217d307b74">
+    <h2 id="open-course" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/746/original/99c83ae9-9b12-42f9-b2e9-b795da78de66.png" srcset="" alt="Open Course" height="476" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_65e36c5d-6496-4079-84cb-7da07cc2d135" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course that contains the quiz you want to migrate [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-quizzes" data-step-uuid="01420bea-e6a7-4883-97fc-91c73cc564b9">
+    <h2 id="open-quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/789/original/404d468d-6120-4cd9-852b-d62791615845.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f56d48b7-bf5b-48f9-b829-4dee3aa88c33" class="text-block-content">
+    <p>Click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="migrate-quiz" data-step-uuid="92d379c2-8326-4987-af39-03492167a2dd">
+    <h2 id="migrate-quiz" class="step-title screensteps-heading">Migrate Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/254/320/original/7d2d5808-2382-4751-973c-004cb83ebb94.png" srcset="" alt="Migrate Quiz" height="343" width="641">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8e526e31-4e75-4110-a996-cc121a80b48d" class="text-block-content">
+    <p>To migrate a quiz, click the <strong>Options</strong> icon [1]. Then click the <strong>Migrate</strong> option [2].</p>
+<p><strong>Note: </strong>If you cannot view the Migrate option, it has not been enabled for your institution. Contact your Canvas Admin for assistance.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-quiz" data-step-uuid="ea90f364-9778-420a-bd44-8bda11099b5c">
+    <h2 id="open-quiz" class="step-title screensteps-heading">Open Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/254/318/original/89b59b47-dbe6-4f92-aeeb-1deeec59a40b.png" srcset="" alt="Open Quiz" height="100" width="602">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f4207de3-937e-46d3-ab99-fb7e871bd7d5" class="text-block-content">
+    <p>Once migrated, the quiz displays a New Quiz icon [1]. To open your quiz, click the name of the quiz [2].</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>By default, migrated quizzes are unpublished.</li>
+<li>Migrated quizzes display under their original quiz</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

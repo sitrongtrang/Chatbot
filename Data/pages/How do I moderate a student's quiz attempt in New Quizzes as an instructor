@@ -1,0 +1,198 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_99205dde-e5f9-4dbb-9f1f-1065e8e4a407" class="text-block-content">
+    <p>You can moderate quiz settings for individual students in New Quizzes. Moderation settings apply only to the quiz you are moderating and include reopening quiz attempts and managing timer settings.</p>
+<p>Reopening a student's quiz reopens a student's most recent attempt. Previously recorded responses are retained and the quiz timer resumes from its remaining time from the previous submission.</p>
+<p>Moderation timer settings apply to all attempts for the quiz in which they were set. You can add a specific amount of minutes or hours to each attempt, or remove time limit requirements. Only one timer setting can be selected for each student. To adjust timer settings for all quizzes in the course for a student, you can <a href="/t5/Instructor-Guide/How-do-I-add-accommodations-for-a-student-in-New-Quizzes/ta-p/1092" target="_blank">add accommodations</a>. Moderation timer settings will not be applied to a quiz attempt that is currently in progress.</p>
+<p>If timer settings are set at both the course level and the quiz level, course-level settings are applied first. Quiz-level settings cannot be reduced by course-level settings.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Quiz availability dates still apply when moderating a quiz. If the Until date passes before a student completes an extra attempt or extended-time quiz, any in-progress quizzes auto-submit and the quiz closes, even if the student's attempt has not expired.</li>
+<li>Currently, bulk moderation is not supported in New Quizzes.</li>
+<li>If <a href="/t5/Instructor-Guide/How-do-I-create-an-anonymously-graded-quiz-using-New-Quizzes/ta-p/587640" target="_blank">anonymous grading </a>is enabled, you do not see students' names while grading.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="moderate-quiz" data-step-uuid="53660964-cf52-474c-a3cc-3ff720ebf6c0">
+    <h2 id="moderate-quiz" class="step-title screensteps-heading">Moderate Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/806/260/original/86f4eb7a-84ca-4639-8b90-7eaf71cf9782.png" srcset="" alt="Moderate Quiz" height="248" width="583">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_343627c7-193e-495b-b2b2-cbdef9325d41" class="text-block-content">
+    <p>In New Quizzes, click the <strong>Moderate</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-moderation-page" data-step-uuid="b6a58111-f524-4e30-89d1-8fc5fe85a74d">
+    <h2 id="view-moderation-page" class="step-title screensteps-heading">Open Moderation Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/260/302/original/b5d1f12f-6946-49fc-b72c-d95ddec1c2f0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/260/302/medium/b5d1f12f-6946-49fc-b72c-d95ddec1c2f0.png" srcset="" alt="View Moderation Page" height="352" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9e197700-f496-4128-95be-8b9c5f138868" class="text-block-content">
+    <p> Find the student you want to moderate [1]. Then click the <strong>Moderate </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="reopen-assessment" data-step-uuid="d91cd64f-3595-4d5d-a1a4-2c001f88422e">
+    <h2 id="reopen-assessment" class="step-title screensteps-heading">Reopen Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/559/402/original/a400d431-ef3e-4574-a9a3-12d87ecf3dec.png" srcset="" alt="Reopen Quiz" height="206" width="324">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e09f5a6f-e7a5-4f7a-bbf8-4d0a40eb89d1" class="text-block-content">
+    <p>To reopen the student's most recent quiz attempt, click the <strong>Reopen</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="accept-message" data-step-uuid="14ac52e3-0dab-4e0f-bc9e-8bb33ebc0e3c">
+    <h3 id="accept-message" class="step-title screensteps-heading">Accept Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/559/409/original/0c68055e-350c-4c0e-a0b6-2ae3b77d3fa4.png" srcset="" alt="Accept Message" height="254" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a5a1a05a-e367-434b-ad2d-da6bdf3d77bf" class="text-block-content">
+    <p>A warning message displays to inform you that the student can resume their quiz attempt from its previous position [1]. To accept and reopen the quiz, click the <strong>Reopen</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-attempts" data-step-uuid="32310d28-2841-421a-a57b-0e90f2d0f52e">
+    <h2 id="manage-attempts" class="step-title screensteps-heading">Manage Attempts</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/559/411/original/12d68927-6d97-456c-9d52-1a79435296b8.png" srcset="" alt="Manage Attempts" height="344" width="313">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_61d70643-5267-4362-bdb8-214df60a7e43" class="text-block-content">
+    <p>The Moderate panel displays the number of allowed attempts per the assessment settings [1].</p>
+<p>To give the student additional attempts for the quiz, type a number or use the arrow buttons in the <strong>Additional Attempts</strong> field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="adjust-timer-settings" data-step-uuid="1c2253d3-abc4-4d0f-941f-5b54dcd2dbc4">
+    <h2 id="adjust-timer-settings" class="step-title screensteps-heading">Adjust Timer Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/559/415/original/e21cec7e-30cb-41dd-9254-13eb93c73bc2.png" srcset="" alt="Adjust Timer Settings" height="213" width="325">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b97acc0e-f3d6-4ccb-a640-004ab36717e8" class="text-block-content">
+    <p>To adjust the timer settings for the student, select an option in the <strong>Time adjustments</strong> drop-down menu.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-additional-time" data-step-uuid="f4026286-defb-4067-85b5-33b6cceebc90">
+    <h3 id="add-additional-time" class="step-title screensteps-heading">Add Additional Time</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/559/413/original/9d480c67-3abd-4ea2-8b7a-9ec348ba5d87.png" srcset="" alt="Add Additional Time" height="320" width="343">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d2b8bed7-72c3-4a71-8f40-1a263e405676" class="text-block-content">
+    <p>To add additional time to the quiz attempt, select the <strong>Give additional time</strong> option [1]. Then select the amount of time [2]. Time units can be set to minutes or hours.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="remove-time-limit" data-step-uuid="fa01044d-a942-4998-a06e-d8321ed0075e">
+    <h3 id="remove-time-limit" class="step-title screensteps-heading">Remove Time Limit</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/559/404/original/4e5c1280-d9a9-4e5b-9d2e-15522720cf79.png" srcset="" alt="Remove Time Limit" height="215" width="325">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_30f08b70-673a-476d-8a75-209c55e1a4e2" class="text-block-content">
+    <p>To remove the time limit from the attempt, select the <strong>Remove time limit (unlimited)</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-timer-adjustments" data-step-uuid="91e40c9d-cbea-49f8-91a7-090e91159ffc">
+    <h2 id="view-timer-adjustments" class="step-title screensteps-heading">View Timer Adjustments</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/260/307/original/9f8f574e-d60e-40b2-b2e6-6419ff1b9be8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/260/307/medium/9f8f574e-d60e-40b2-b2e6-6419ff1b9be8.png" srcset="" alt="View Timer Adjustments" height="233" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49d56481-38fe-44d6-a4bb-975b3da868cc" class="text-block-content">
+    <p>View the moderation timer settings in the <strong>Accommodations</strong> column. This column displays the cumulative effect of course-level accommodations and moderation timer settings.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-attempts-in-progress" data-step-uuid="e9355f4a-a9e1-4baf-a975-78669a2bac2e">
+    <h2 id="view-attempts-in-progress" class="step-title screensteps-heading">Manually Submit In-Progress Attempts</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/260/310/original/1e5e1e0b-a804-45d2-86d8-3c897203c9c5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/260/310/medium/1e5e1e0b-a804-45d2-86d8-3c897203c9c5.png" srcset="" alt="Manually Submit In-Progress Attempts" height="237" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f7950a0f-aae3-470d-b739-bc9ce1b343c4" class="text-block-content">
+    <p>If students are currently taking a quiz, the Moderate page displays the number of in-progress attempts [1]. To manually submit in-progress attempts, click the <strong>attempts</strong> link [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manually-submit-attempts" data-step-uuid="9db2de22-0101-4e9f-b20c-5afa1b5063be">
+    <h3 id="manually-submit-attempts" class="step-title screensteps-heading">Submit Attempts</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/260/312/original/61ffca51-b989-4c96-a7b2-ba3a2990e4ea.png" srcset="" alt="Submit Attempts" height="354" width="499">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c5987a0a-caba-4977-abe9-8ca268a9f06b" class="text-block-content">
+    <p>Students with in-progress quiz attempts display in the Students list [1]. By default, you can manually submit quizzes for all students in the list. If you do not want to manually submit a student's quiz, deselect the checkbox for the student [2].</p>
+<p>To manually submit the quiz for the selected students, click the <strong>Submit Manually</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

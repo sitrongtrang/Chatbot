@@ -1,0 +1,123 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7E17FC20-1E1D-0135-CE48-22000BC102FE" class="text-block-content">
+    <p>You can set new announcements to post at a certain date and time. The delayed post information also displays directly in the Announcements page. Delayed announcements are not displayed to students until the intended date and time.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If you create an announcement in an unpublished course, the availability date must take place after the course has been published for notifications to send to those who have chosen to receive notifications for new announcements.</li>
+<li>If an announcement is scheduled to post before the course start date and the Students can only participate in the course between these dates setting is enabled, students will not receive announcement notifications.</li>
+<li>Your course must be published for students to receive announcement notifications. Students do not receive new announcement notifications for announcements imported from another Canvas course. </li>
+</ul>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I delay posting an announcement until a specific date in a course?" src="https://community.instructuremedia.com/embed/1f0bed19-fd90-4f5a-ba50-24700ada8f64" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_announcements" data-step-uuid="A0D647EB-3C38-4741-B4DB-4F976E566ACA">
+    <h2 id="open_announcements" class="step-title screensteps-heading">Open Announcements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/740/436/original/5bad9571-55d0-47c9-9312-cc774501c32b.png" srcset="" alt="Open Announcements" height="267" width="179">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7E18AA00-1E1D-0135-CE4A-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Announcements</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_announcement" data-step-uuid="4D3217CA-C4A9-4F38-B00C-947BF5057152">
+    <h2 id="add_announcement" class="step-title screensteps-heading">Add Announcement</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/537/487/original/d9510c92-8bbe-41f9-bab4-3637c7c59d01.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/537/487/medium/d9510c92-8bbe-41f9-bab4-3637c7c59d01.png" srcset="" alt="Add Announcement" height="129" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7E18D240-1E1D-0135-CE4C-22000BC102FE" class="text-block-content">
+    <p>Click the<strong> Add Announcement</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_availability_dates" data-step-uuid="dd7e6628-a421-430d-9600-5d3b86cefe86">
+    <h2 id="add_availability_dates" class="step-title screensteps-heading">Add Availability Dates</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/544/870/original/0c3fe77e-82de-4b46-aab7-0dea687daee4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/544/870/medium/0c3fe77e-82de-4b46-aab7-0dea687daee4.png" srcset="" alt="Add Availability Dates" height="413" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7858a957-e3e0-405f-834e-9aff33c04959" class="text-block-content">
+    <p>To make your announcement available on a specific date or during a specific date range, enter the dates in the <strong>Available From </strong>field [1]<strong> </strong>and <strong>Until </strong>field [2], or click the calendar icons to select dates [3]. </p>
+<p>To add a time, click the <strong>Time</strong> drop-down menu [4]. You can enter a time or select a time from the drop-down menu.</p>
+<p>To reset the date and time fields, click the <strong>Reset</strong> button [5].</p>
+<p>You are not required to enter dates in both of these fields, so if you want to delay your posting but do want your post to appear indefinitely, you can leave the Until field blank.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The Available From date is also the date the announcement is published.</li>
+<li>If there is no Until date, the announcement remains visible.</li>
+<li>Once the Until date is reached, the announcement is no longer visible to students.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_announcement" data-step-uuid="B84E2842-C1B2-41CB-B37A-67A8F59E7B56">
+    <h2 id="save_announcement" class="step-title screensteps-heading">Save Announcement</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/781/474/original/23b5a9ee-28a0-4ad2-950a-60c4be19f665.png" srcset="" alt="Save Announcement" height="65" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7E19F590-1E1D-0135-CE52-22000BC102FE" class="text-block-content">
+    <p>Click the<strong> Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_announcement" data-step-uuid="5AC6739C-5DB2-4187-BA82-446FE66A6A5A">
+    <h2 id="view_announcement" class="step-title screensteps-heading">View Announcement</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/549/375/original/e76dd934-aeb8-4473-abfc-3f418fc603da.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/549/375/medium/e76dd934-aeb8-4473-abfc-3f418fc603da.png" srcset="" alt="View Announcement" height="326" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7E1A28D0-1E1D-0135-CE54-22000BC102FE" class="text-block-content">
+    <p>View the delayed post information in the announcement.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

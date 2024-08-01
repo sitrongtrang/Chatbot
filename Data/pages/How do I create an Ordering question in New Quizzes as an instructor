@@ -1,0 +1,210 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_81c56816-4859-4f34-8d1c-c20976c828fe" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can create an Ordering question in New Quizzes. In an Ordering question, students are required to place answers in a specific order. You can add top and bottom labels to the list to help students know in which order they should place their responses.</p>
+<p>When Ordering questions are graded, students must order all items correctly to earn full points. There is not an option to assign partial credit for Ordering questions. </p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate Ordering questions</a> to create a new question.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="ae3d8c61-3cec-4b25-aef6-99184590c794">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/890/359/original/af7246b2-46fe-410e-84ae-d3cff4794b37.png" srcset="" alt="Add Question" height="415" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1503f0a2-f551-4085-b1a8-e8de98b6d095" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="718cc0ab-05c2-4177-afeb-c5a138eb1feb">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add Ordering Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/776/108/original/48377fb2-ff85-4b6c-8fbe-22f8a23db5a5.png" srcset="" alt="Add Ordering Question" height="429" width="408">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2cf86bde-124a-4edb-bd9b-e976f222da2c" class="text-block-content">
+    <p>Click the <strong>Add Ordering</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-details" data-step-uuid="7d6823cc-184f-4d5b-bf9f-046966d76e1e">
+    <h2 id="add-question-details" class="step-title screensteps-heading">Add Question Title and Stem</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/401/original/8f2deb44-b4e7-4055-8999-3dca4d28bdec.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/401/medium/8f2deb44-b4e7-4055-8999-3dca4d28bdec.png" srcset="" alt="Add Question Title and Stem" height="143" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_08728050-8c8e-4f7f-a5e8-04bbb764546e" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Question Stem</strong> field [2], add the question stem. The question stem contains the question and, if necessary, additional instructions and information. You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your question stem.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-labels" data-step-uuid="1159e1a2-6143-4984-90ec-582651b39e13">
+    <h2 id="add-labels" class="step-title screensteps-heading">Add Labels</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/403/original/a2a868b2-ed10-4367-b191-42454862e70e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/403/medium/a2a868b2-ed10-4367-b191-42454862e70e.png" srcset="" alt="Add Labels" height="434" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_86fe54fc-d45f-48f7-8cbe-64a8da021be6" class="text-block-content">
+    <p>By default, Ordering questions will include a top label and a bottom label. To name the labels, type the names in the <strong>Label</strong> fields [1]. To remove labels from the question, click the <strong>Include Labels</strong> checkbox [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-answers" data-step-uuid="ccfb880e-b76c-496f-a0df-82e74c2a62b4">
+    <h2 id="add-answers" class="step-title screensteps-heading">Add Answers</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/405/original/1112eb95-d655-42f8-901d-7ad8c762afa0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/405/medium/1112eb95-d655-42f8-901d-7ad8c762afa0.png" srcset="" alt="Add Answers" height="359" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c593b401-a2ea-46c3-99ab-3a2527e915c4" class="text-block-content">
+    <p>To add answers to the Ordering question, type the answers in the <strong>Answer</strong> fields [1]. To add additional answers, click the <strong>Add Answer</strong> link [2].</p>
+<p>To delete an answer, click the <strong>Delete</strong> icon [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="move-answers" data-step-uuid="a88273ff-1cf9-4bbb-bc36-e1f1aefde606">
+    <h3 id="move-answers" class="step-title screensteps-heading">Move Answers</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/292/215/original/27d99348-9faf-40ae-b447-45ac89b787f3.png" srcset="" alt="Move Answers" height="186" width="737">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_64b53322-e616-4ddb-a53b-e75676970fe6" class="text-block-content">
+    <p>You can move an answer in an Ordering question by dragging and dropping or using the Move icon.</p>
+<p>To drag and drop an answer, hover over the answer until the Move cursor appears [1]. Then drag and drop the answer to its new location [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/292/213/original/e2e0a7ae-ee27-4051-b2ad-02489703da15.png" srcset="" alt="Use Move Icon" height="190" width="723">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5f112dc8-8ced-4b91-82f3-638962808fe8" class="text-block-content">
+    <p>To move an answer using the Move icon, click the <strong>Move</strong> icon [1] and select the <strong>Move Up</strong> or <strong>Move Down</strong> option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-on-screen-calculator" data-step-uuid="31d89ef1-ec21-4989-b2ca-f94fff25ceb1">
+    <h2 id="enable-on-screen-calculator" class="step-title screensteps-heading">Enable On-Screen Calculator</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/303/372/original/0120cd2c-c09f-4c38-8a26-b5b7a64e2e87.png" srcset="" alt="Enable On-Screen Calculator" height="335" width="705">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_53e45c8c-8151-4d34-8ff2-573948415a25" class="text-block-content">
+    <p>To allow students to use an on-screen calculator for this question, click the <strong>Show on-screen calculator</strong> checkbox [1]. </p>
+<p>If you select this option, you can choose either a basic calculator [2] or scientific calculator [3]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="4f9fba27-1db8-48c5-9128-d5e92ee8c40d">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/407/original/1f415bac-9820-4967-bba7-e66d17e3dbc2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/407/medium/1f415bac-9820-4967-bba7-e66d17e3dbc2.png" srcset="" alt="Align to Outcome" height="303" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b7238163-804b-4390-a713-827caf9e1558" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="8e913da5-8e24-4d50-a55a-3d254df7f6e3">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/726/409/original/0f8912d4-9c08-4ddc-bbae-5e14e8e569f5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/726/409/medium/0f8912d4-9c08-4ddc-bbae-5e14e8e569f5.png" srcset="" alt="Add to Item Bank" height="156" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_49d714cf-fee6-4fb2-a049-37d8d3ce4d06" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note:</strong> After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="ef130dfe-7200-4184-b2b8-963799491e4f">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value and Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/411/original/35304e21-cf9c-4bf1-8f6b-1e4a80dc8690.png" srcset="" alt="Add Point Value and Feedback" height="234" width="749">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_07142786-0075-4df9-9562-e87b0426b582" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-feedback-to-a-question-in-New-Quizzes/ta-p/591" target="_blank">leave feedback for students</a>, click the <strong>Feedback</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="00283102-847d-4b37-849d-48a86646e1a3">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/413/original/2d805a8b-d2f1-456f-9449-2dffc47f47bc.png" srcset="" alt="Save Question" height="67" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97057f26-5997-4039-99d3-c6e5ce8e81c0" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

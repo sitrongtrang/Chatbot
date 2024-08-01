@@ -1,0 +1,139 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0D355BA0-AAE2-0135-15B6-06467EE270FA" class="text-block-content">
+    <p>As an instructor, you can access the Grades page for a student in your course. This Grades page shows you how a student views his or her grades in the course and also allows you to add individual comments to group submission assignments. You can choose to restrict options in the grades page to students, such as <a href="/t5/Instructor-Guide/How-do-I-hide-totals-in-my-students-grade-summaries/ta-p/671" target="_blank">hiding grade summary totals</a> and <a href="/t5/Instructor-Guide/How-do-I-hide-grade-distribution-scoring-details-from-students/ta-p/674" target="_blank">hiding grade distribution graphs</a>.</p>
+<p>You can also view the grades page for a generic student in Student View.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The student's grades shown in the Grades page may vary from the grades shown in the Gradebook. The student's Grades page is affected by hidden assignments, outstanding manually graded quiz questions, weighted assignment groups, and weighted grading periods. The Gradebook always contains the most current and accurate information about a student's current grade. </li>
+<li>Student Grades can also be viewed from a student's user details page.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="0D3570D0-AAE2-0135-15B7-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/823/961/original/ea0c2ccc-4ad8-4c3a-96d4-69e4f21297d1.png" srcset="" alt="Open Grades" height="233" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D3594E0-AAE2-0135-15B9-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_student" data-step-uuid="0D35A660-AAE2-0135-15BA-06467EE270FA">
+    <h2 id="select_student" class="step-title screensteps-heading">Access Grades via Context Card</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/375/407/original/eb769c69-aa51-46f3-a676-5b8a4e1a7e37.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/375/407/medium/eb769c69-aa51-46f3-a676-5b8a4e1a7e37.png" srcset="" alt="Access Grades via Context Card" height="439" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_589c0f07-bfb0-44ae-81ec-a867c9892988" class="text-block-content">
+    <p>You can view a student's Grades page from <a href="/t5/Instructor-Guide/How-do-I-view-a-context-card-for-a-student-in-a-course/ta-p/608" target="_blank">the context card</a>.</p>
+<p>To view a student's context card, click the name of the student [1]. Then click the <strong>Grades</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-student-context-card" data-step-uuid="0D35E3F0-AAE2-0135-15BD-06467EE270FA">
+    <h2 id="view-student-context-card" class="step-title screensteps-heading">Access Grades via Grade Detail Tray</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/376/077/original/c66ccb59-bc7a-44c5-b288-27c5fe30f524.png" srcset="" alt="Access Grades via Grade Detail Tray" height="630" width="855">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D3609A0-AAE2-0135-15BF-06467EE270FA" class="text-block-content">
+    <p>You can also access the student's grades page from the Grade Detail Tray. Click the assignment cell for a student and click the <strong>Grade Detail Tray</strong> icon [1]. Then click the name of the student [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_grades" data-step-uuid="0D361C70-AAE2-0135-15C0-06467EE270FA">
+    <h2 id="view_student_grades" class="step-title screensteps-heading">View Student Grades</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/049/774/original/acde2a2f-cc98-405b-a518-034fbaba52a4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/049/774/medium/acde2a2f-cc98-405b-a518-034fbaba52a4.png" srcset="" alt="View Student Grades" height="680" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D364150-AAE2-0135-15C2-06467EE270FA" class="text-block-content">
+    <p>In the Grades page, you can see how a student views their grades in the course. Students can view the name of the assignment [1], the due date [2], the submission date [3], the assignment status [4], the score or assignment submission type [5], the total number of points for the assignment [6], and any comments [7] and rubrics, if any.</p>
+<p>If allowed, the student can view distribution score details and graphs in the assignment scoring details [8]. You will only see scoring details if more than five other students have submitted that assignment in the course. If you do not see the scoring details, then fewer than five students have submitted the assignment. As the instructor, you can <a href="/t5/Instructor-Guide/How-do-I-hide-grade-distribution-scoring-details-from-students/ta-p/674" target="_blank">hide grade distribution graphs</a>.</p>
+<p>Students can also view their assignment group score totals and their total grade for the course at the bottom of the Grades page [9]. As the instructor, you can <a href="/t5/Instructor-Guide/How-do-I-hide-totals-in-my-students-grade-summaries/ta-p/671" target="_blank">hide total scores</a>. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The student's grades shown in the Grades page may vary from the grades shown in the Gradebook. The student's Grades page is affected by hidden assignments, outstanding manually graded quiz questions, weighted assignment groups, and weighted grading periods. The Gradebook always contains the most current and accurate information about a student's current grade. </li>
+<li>When your course includes grading periods, the student Grades sidebar displays assignment groups when an individual grading period is being viewed. However, groups only display if the groups are active as part of the selected grading period. An assignment group displays if the group has at least one assignment due for the student in the selected grading period.</li>
+<li>When grading periods are weighted and the All Grading Periods option is selected, the sidebar displays the weights of each grading period.</li>
+<li>If an assignment allows multiple attempts, the Submitted column only displays the most recent submission date.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_details" data-step-uuid="0D365370-AAE2-0135-15C3-06467EE270FA">
+    <h2 id="view_assignment_details" class="step-title screensteps-heading">View Assignment Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/045/335/original/8a87eb98-a60b-4319-8b9e-980c2e1ed339.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/045/335/medium/8a87eb98-a60b-4319-8b9e-980c2e1ed339.png" srcset="" alt="View Assignment Details" height="215" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D367750-AAE2-0135-15C5-06467EE270FA" class="text-block-content">
+    <p>You can also view assignment details, preview assignments, and view feedback the same way a student experiences assignments in Canvas. The assignment details page is also where a student views any annotated feedback you may add to an assignment.</p>
+<p>To view submission details, click the name of the group assignment.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_group_assignment_comments" data-step-uuid="0D368810-AAE2-0135-15C6-06467EE270FA">
+    <h3 id="view_group_assignment_comments" class="step-title screensteps-heading">View Group Assignment Comments</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/247/455/original/8d215390-1130-43d3-80a9-eb1db2ae4741.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/247/455/medium/8d215390-1130-43d3-80a9-eb1db2ae4741.png" srcset="" alt="View Individual Comment" height="401" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D36ADE0-AAE2-0135-15C8-06467EE270FA" class="text-block-content">
+    <p>For group assignments, the submission details page may include individual comments added to a group assignment. </p>
+<p>By default, group assignments that award the same grade to all group members do not display any individual comments when grading group assignments in SpeedGrader. Likewise in SpeedGrader, you cannot add comments for an individual user in a group assignment.</p>
+<p>However, the assignment details page allows you to leave individual comments for the student in group assignments where all members get the same grade. To reply to the student (and not all group members), do not select the <strong>Send Comment to the Whole Group </strong>checkbox. </p>
+<p>Individual comments also appear in the Submission Comments filter in Conversations.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

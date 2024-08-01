@@ -1,0 +1,211 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8bb561c9-f55b-493d-bb33-fb387e16952e" class="text-block-content">
+    <p>The Comment Library allows instructors to save and reuse commonly used text feedback in SpeedGrader. As an instructor, you can add new comments and delete existing comments in the Comment Library. Comments you have added to the Comment Library are accessible from each course in which you are enrolled as an instructor. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The Comment Library functionality is not supported in the assignment submission details page.</li>
+<li>If you enter an assignment score, the score will automatically submit to the Gradebook when navigating to a new submission in SpeedGrader. However, assignment comments must be submitted manually before they can be viewed by students.</li>
+<li>To ensure that students can't access submitted assignment grades and comments until you are finished grading, <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-an-assignment-in-the/ta-p/574" target="_blank">select a manual posting policy for the assignment</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-speedgrader" data-step-uuid="84f68535-f30d-4fe5-9763-e99bc6cfd728">
+    <h2 id="open-speedgrader" class="step-title screensteps-heading">Open SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/388/119/original/5820368a-4104-43cd-8de3-77779d9eb42f.png" srcset="" alt="Open SpeedGrader" height="56" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5ee4e1d4-6466-4ca9-9ce7-8acc185f483f" class="text-block-content">
+    <p><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-an-assignment-quiz-or-graded/ta-p/759" target="_blank">Open SpeedGrader from any assignment, graded discussion, or quiz</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-student-submission" data-step-uuid="178768e1-0e7a-4328-a44c-4436f6b8e225">
+    <h2 id="open-student-submission" class="step-title screensteps-heading">Open Student Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/390/420/original/5352fb61-bdde-49ce-9f4b-23fe48433aa1.png" srcset="" alt="Open Student Submission" height="217" width="379">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dd01c6f2-3a98-4349-9f90-8efaa5644222" class="text-block-content">
+    <p>Use the <a href="/t5/Instructor-Guide/How-do-I-use-the-student-list-to-view-student-submissions-in/ta-p/770" target="_blank">student list</a> to locate a student submission.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_student_submission" data-step-uuid="0082ce2f-842e-443c-b56a-d6b9f9dc1e62">
+    <h2 id="open_student_submission" class="step-title screensteps-heading">Open Comment Library</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/392/137/original/5e26b1c7-1f60-423c-9f81-38385cfe9628.png" srcset="" alt="Open Comment Library" height="161" width="312">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0319508f-ba98-455a-986c-e15543a70c2e" class="text-block-content">
+    <p>To open the Comment Library, click the <strong>Comment Library</strong> icon. </p>
+<p><strong>Note:</strong> If the assignment is supported by Assignment Enhancements, the Assignment Comments section may display as Comments for this Attempt.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-comment-to-library" data-step-uuid="1a449255-d52a-4589-beb6-a1ac0a700c9f">
+    <h2 id="add-comment-to-library" class="step-title screensteps-heading">Add Comment to Library</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/421/865/original/80c29ee5-9121-45dc-ba95-77b2084893b8.png" srcset="" alt="Add Comment to Library" height="755" width="466">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c9c3a730-bcf0-40c5-bd3f-368fbbe21eab" class="text-block-content">
+    <p>To add a new comment to the Comment Library, type your comment in the <strong>Add comment to library </strong>field [1]. Then click the <strong>Add to Library</strong> button [2]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit-comment-in-library" data-step-uuid="9e4ee228-ba65-4937-a77a-eb7ca36320cb">
+    <h3 id="edit-comment-in-library" class="step-title screensteps-heading">Edit Comment in Library</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/421/867/original/9c74fb40-4656-4103-972c-4f22d9c69a5d.png" srcset="" alt="Edit Comment in Library" height="328" width="470">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_910553c8-ab98-4d54-8e40-fb6a9c86aa73" class="text-block-content">
+    <p>To edit an existing comment from the Comment Library, click the comment's <strong>Edit</strong> icon [1]. Make changes using the comment field [2] and click the <strong>Save</strong> button [3] to save your changes. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="delete-comment-from-library" data-step-uuid="1b17b438-beb6-4b9f-bef9-2e6aab6903a0">
+    <h3 id="delete-comment-from-library" class="step-title screensteps-heading">Delete Comment from Library</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/421/870/original/da4a8f74-243a-498a-bbc2-326efd28673b.png" srcset="" alt="Delete Comment from Library" height="169" width="500">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d5c5bc9d-ce37-47df-9d9a-96c6cf24e58b" class="text-block-content">
+    <p>To delete an existing comment from the Comment Library, click the comment's <strong>Delete</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-comment-suggestion-setting" data-step-uuid="1d0aab2b-326e-4ef1-a935-d77922329408">
+    <h2 id="manage-comment-suggestion-setting" class="step-title screensteps-heading">Manage Comment Suggestion Setting</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/421/872/original/fd3b28b2-a8e9-46f4-a7fc-26976ba38563.png" srcset="" alt="Manage Comment Suggestion Setting" height="57" width="452">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a91a0ff2-00d9-450e-90ea-446f69e99507" class="text-block-content">
+    <p>To enable or disable suggestions from appearing when typing in the SpeedGrader comments field, use the <strong>Show suggestions when typing</strong> toggle.</p>
+<p><strong>Note:</strong> Suggestions appear when the first three characters typed in the SpeedGrader comment field match the first three characters of a comment in the Comment Library. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="use-library-comment" data-step-uuid="064a63e9-bbb8-443b-83f6-96dc7d188d7b">
+    <h2 id="use-library-comment" class="step-title screensteps-heading">Add Comment from Comment Library</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/421/874/original/025a19e7-f8e4-479e-9661-cfcc79c4167a.png" srcset="" alt="Add Comment from Comment LIbrary" height="780" width="464">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1c785fed-8af3-47d2-88d9-14c06547fe0f" class="text-block-content">
+    <p>To add an existing comment to the student's submission in SpeedGrader, click the applicable comment.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-comment-from-speedgrader" data-step-uuid="9e25b958-c574-4853-836a-041c7a81d4b2">
+    <h3 id="add-comment-from-speedgrader" class="step-title screensteps-heading">Add Comment from SpeedGrader</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/421/876/original/4c4b5164-f5b7-4c8a-8d12-679db6c855b7.png" srcset="" alt="Add Comment from SpeedGrader" height="347" width="438">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1956e5a3-b54b-43fb-9b67-ad3d9e5749f6" class="text-block-content">
+    <p>If you have enabled comment suggestions, comment suggestions display when at least the first three characters of a comment in the Comment Library are typed in the Assignment Comments field in SpeedGrader [1]. </p>
+<p>To insert a suggested comment into the Assignment Comments field, click the suggested comment [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-unposted-comment-warning" data-step-uuid="e199ec7e-f9e0-4bad-9b31-64b962ad30db">
+    <h3 id="view-unposted-comment-warning" class="step-title screensteps-heading">View Unposted Comment Warning</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/977/455/original/9c711424-7164-4ec5-ac62-866d5481d3cf.png" srcset="" alt="View Unposted Comment Warning" height="239" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ba3c90a-0d70-4f0c-a9d8-9c7498e948cb" class="text-block-content">
+    <p>When you create a text, media, or audio comment and try to advance to the next student or a previous student for the assignment, you are notified that the comment has been created but not posted. </p>
+<p>To save the comment as a draft for the submission, click the <strong>Proceed</strong> button [1].</p>
+<p>You can choose to not be notified for comments that have not been posted by clicking the <strong>Do not show again for this assignment</strong> checkbox [2].</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The option to not show the warning applies on a per-assignment basis. Viewing another assignment and navigating between students before posting a comment also displays the warning.</li>
+<li>The option is also stored on a per-browser basis, so viewing an assignment in a different browser also displays the warning.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-draft-comment" data-step-uuid="39f48442-cd57-408a-9cbd-379524998e4d">
+    <h3 id="view-draft-comment" class="step-title screensteps-heading">View Draft Comment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/421/882/original/d362d757-2a2d-4f20-be54-8c446dd3a2b4.png" srcset="" alt="View Draft Comment" height="359" width="351">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a95e2689-96d3-455d-b252-0d8ef47d6dc4" class="text-block-content">
+    <p>If you navigate away from the SpeedGrader page or view another student submission before submitting your comment, Canvas notifies you that your comment has been saved as a draft. You can return to the submission at any time and submit [1] or delete [2] the draft comment. Comments cannot be viewed by students until they are submitted.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="submit-comment" data-step-uuid="85592b64-1206-49f1-9179-30497d92d549">
+    <h3 id="submit-comment" class="step-title screensteps-heading">Submit Comment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/421/880/original/8be1a59d-17a7-461e-aacb-8ac142a381b4.png" srcset="" alt="Submit Comment" height="256" width="330">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_888d5f26-7075-434f-a47a-b3b8695c44a9" class="text-block-content">
+    <p>To submit the comment, click the <strong>Submit</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

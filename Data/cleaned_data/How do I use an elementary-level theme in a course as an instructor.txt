@@ -1,0 +1,13 @@
+How do I use an elementary-level theme in a course as an instructor
+View Course Font
+Canvas displays a new font, Balsamiq Sans, in the Global Navigation Menu, Course Navigation Menu, and Breadcrumbs bar. 
+Note: If the feature preview is turned off, the font changes from Balsamiq Sans to the Canvas default, Lato.
+View Rich Content Editor
+The Balsamiq Sans font also displays in the Rich Content Editor. You can also select the font Architect's Daughter from the Format menu in the menubar.
+View Course Navigation Links
+If your course has not customized the Course Navigation Menu, visible links default to Home, Announcements, Grades, Modules, and links for LTI tools.
+All other links will display the Visibility icon for instructors, which means they will not display in Course Navigation for students.
+To change what displays in the Course Navigation menu, you can manage Course Navigation links.
+Notes: 
+If you have already customized the Course Navigation Menu in your course, enabling the Canvas Elementary Theming feature option will not modify your Course Navigation Menu links.
+Announcements and Modules links will not display to students if content has not been added to those pages.

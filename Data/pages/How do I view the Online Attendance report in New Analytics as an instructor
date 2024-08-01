@@ -1,0 +1,228 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_ac86e4e4-319c-41de-acdf-66dae2add94f" class="text-block-content">
+    <p>If your course has <a href="/t5/Canvas-Basics-Guide/What-is-New-Analytics/ta-p/73" target="_blank">New Analytics</a> enabled, and your institution has <a href="/t5/Admin-Guide/How-do-I-enable-the-New-Analytics-Online-Attendance-report-in-an/ta-p/478614" target="_blank">enabled the Online Attendance report</a>, you can view an Online Attendance report. This report is based on criteria that has been selected by your institution. Your institution can select from the following criteria:</p>
+<ul>
+<li>Course Access: student views a page in a course</li>
+<li>Posts: student posts a new comment to an announcement or a discussion</li>
+<li>Assignments: student submits an assignment</li>
+<li>Collaborations: student loads a collaboration to view/edit document</li>
+<li>Conferences: student joins a web conference</li>
+<li>Pages: student creates a page</li>
+<li>Quizzes: student starts taking or submits a classic quiz or submits a classic quiz</li>
+</ul>
+<p>If a student meets the requirements of any selected criteria, they will be marked as present for that day in the Online Attendance report.</p>
+<p>You can filter the report by student, section, date, and criteria status. You can also select which days of the week your class is in session and when students are expected to meet attendance criteria.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If you cannot view the New Analytics link in Course Navigation, you may have to make the link visible via the <a href="/t5/Instructor-Guide/How-do-I-manage-Course-Navigation-links/ta-p/1020" target="_blank">Navigation tab in Course Settings</a>. If the New Analytics link is not available in the Navigation tab, your institution has disabled this feature.</li>
+<li>Data is refreshed in New Analytics every 24 hours. Please confirm the time data was last updated in the course, as content may be outdated compared to recent course activity and student submissions.</li>
+<li>In order for New Analytics to display in Canvas, third-party cookies may need to be enabled in your browser settings.</li>
+<li>The Conferences criteria only applies to BigBlueButton conferences. The Quizzes criteria only applies to Classic Quizzes.</li>
+<li>The New Analytics feature must be <a href="/t5/Admin-Guide/How-do-I-enable-the-New-Analytics-Online-Attendance-report-in-an/ta-p/478614" target="_blank">enabled by a Canvas admin </a>at your institution.</li>
+<li>Currently, online attendance data does not roll up at the admin level and is not available via the Canvas API. Additionally, because online attendance data is aggregated data, it does not appear in Canvas Data tables or Live Events.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-course" data-step-uuid="ef71cf1c-ce0b-4b76-aa79-a6875f27581d">
+    <h2 id="open-course" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/746/original/99c83ae9-9b12-42f9-b2e9-b795da78de66.png" srcset="" alt="Open Course" height="476" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88c26fca-f76d-4dd0-8010-f39e6a095a5a" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-analytics-beta" data-step-uuid="6ce71055-292f-45e3-aed4-b453d1ac35a8">
+    <h2 id="open-analytics-beta" class="step-title screensteps-heading">Open New Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/117/865/original/8ff26a60-6f60-4db8-af5a-638eb3620c82.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/117/865/medium/8ff26a60-6f60-4db8-af5a-638eb3620c82.png" srcset="" alt="Open New Analytics" height="514" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c0ff1dda-7f63-49fe-8f1b-d257eec83a59" class="text-block-content">
+    <p>To open New Analytics, click the <strong>New Analytics</strong> link in Course Navigation [1] or click the <strong>New Analytics</strong> button in the Course Home Page [2].</p>
+<p><strong>Note</strong>: If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-attendance" data-step-uuid="80d23a8f-e20c-47cf-be2f-6611dcc45a4e">
+    <h2 id="open-attendance" class="step-title screensteps-heading">Open Attendance</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/117/868/original/0d38dcb9-2c4c-4526-be73-9481a6f33c86.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/117/868/medium/0d38dcb9-2c4c-4526-be73-9481a6f33c86.png" srcset="" alt="Open Attendance" height="153" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_90868c66-6dec-4862-a79b-3c37da3523c5" class="text-block-content">
+    <p>Click the <strong>Online</strong> <strong>Attendance</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-online-attendance-report" data-step-uuid="be5fcb27-0ef9-4d2b-9ed8-0220e86cc3af">
+    <h2 id="view-online-attendance-report" class="step-title screensteps-heading">View Online Attendance Report</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/117/870/original/59d5486d-c7f5-4c89-848a-bb53395238aa.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/117/870/medium/59d5486d-c7f5-4c89-848a-bb53395238aa.png" srcset="" alt="View Online Attendance Report" height="577" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0f8f3c60-a67c-4c93-8e26-a8d5990fb862" class="text-block-content">
+    <p>By default, the Online Attendance report displays attendance data for the current week [1].</p>
+<p>The data table displays the name of each student [2], their section [3], the number of days they haven't met online attendance criteria [4], and their attendance status for each day [5].</p>
+<p>If a student has met online attendance criteria for a given date, the date displays a <strong>Checkmark</strong> icon [6]. If a student has not met online attendance criteria for a given date, the date displays an <strong>X </strong>icon [7].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-table-by-date" data-step-uuid="8593ef2e-583b-4d79-8f95-f27a1409b285">
+    <h2 id="filter-table-by-date" class="step-title screensteps-heading">Filter Table by Date</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/117/875/original/ef3b894e-2038-45be-9f7d-e6f25d9957b6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/117/875/medium/ef3b894e-2038-45be-9f7d-e6f25d9957b6.png" srcset="" alt="Filter Table by Date" height="172" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a87f0470-eed9-4c9d-be44-6b8623ca5564" class="text-block-content">
+    <p>The Online Attendance table can display data for a week or a day. To manage what displays in the table, click the <strong>Date </strong>drop-down menu [1] and select the <strong>Week</strong> option [2] or <strong>Day</strong> option [3].</p>
+<p>To move to the previous week or date, click the <strong>Previous</strong> button [4]. To move to the next week or date, click the <strong>Next</strong> button [5].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-table-by-section-or-student" data-step-uuid="3de23b89-7e33-4b1f-a869-e6795e46e87a">
+    <h2 id="filter-table-by-section-or-student" class="step-title screensteps-heading">Filter Table by Section or Student</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/671/508/original/6d7c8088-7ce7-4340-924e-d9bbdae7829b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/671/508/medium/6d7c8088-7ce7-4340-924e-d9bbdae7829b.png" srcset="" alt="Filter Table by Section or Student" height="207" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f19d7cd8-a6ff-449c-9f5a-90c0de4e6df0" class="text-block-content">
+    <p>You can also filter the Online Attendance table data to display specific students or course sections.</p>
+<p>To search for student or section, enter a name in the <strong>Add a Section, Student</strong> field [1] or click the drop-down menu [2].</p>
+<p>Selected students or sections display in the search field [3]. You can select a maximum of three students and/or sections to filter the Online Attendance table data. To remove a student or section filter, click the <strong>Remove</strong> icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-class-dates" data-step-uuid="cfbd20ea-d9f8-4bf1-99a2-7dc584710807">
+    <h2 id="select-class-dates" class="step-title screensteps-heading">Select Class Days</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/660/741/original/f14500db-a18f-4fb7-99f2-a4fb4dfc0d77.png" srcset="" alt="Select Class Days" height="369" width="590">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f499a255-e778-4205-bf81-d3ddbf91a5a5" class="text-block-content">
+    <p>To select which days of the week attendance data is recorded for students, click the <strong>Class Days</strong> drop-down menu [1].</p>
+<p>To select your class dates, click the <strong>Class Meet Days</strong> buttons [2]. Then click the <strong>Done</strong> button [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-table" data-step-uuid="b76d6c27-d098-4c7a-a185-810c14d12ae0">
+    <h3 id="view-table" class="step-title screensteps-heading">View Table</h3>
+  </div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/660/743/original/6ead0240-d90e-45b0-9448-9b459c573a8d.png" srcset="" alt="View Table" height="299" width="684">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e011b1eb-012b-400d-bc76-145a266d0446" class="text-block-content">
+    <p>Any day of the week that is not selected as a class day displays as shaded in the Online Attendance table [1]. The <strong>Days Not Met</strong> column displays Online Attendance totals for class days. [2].</p>
+<p>The Checkmark and X icons still display in dates that are not designated as class dates to indicate if students met attendance criteria on those dates [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-table-by-criteria-status" data-step-uuid="543e1244-ee77-480d-85b9-4f5eee32f214">
+    <h2 id="filter-table-by-criteria-status" class="step-title screensteps-heading">Filter Table by Criteria Status</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/660/745/original/0175e144-c4d9-4201-9f6b-f994d1bb8bdd.png" srcset="" alt="Filter Table by Criteria Status" height="208" width="296">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_049068cb-5417-4329-9d25-8af86c9f1dd9" class="text-block-content">
+    <p>To filter the Online Attendance table by criteria status, click the <strong>Filter</strong> drop-down menu [1].</p>
+<p>To show all students, select the <strong>Show All</strong> option [2]. To show students who have not met criteria for every class day, select the <strong>Criteria Not Met</strong> option [3]. To show students who have met criteria for every class date, select the <strong>Criteria Met</strong> option [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-criteria-settings" data-step-uuid="361f1b06-833f-4a53-92a1-766eca321f7a">
+    <h2 id="view-criteria-settings" class="step-title screensteps-heading">View Criteria Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/122/702/original/614e2a12-6e7a-4cc1-8334-54ac1c4ffccd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/122/702/medium/614e2a12-6e7a-4cc1-8334-54ac1c4ffccd.png" srcset="" alt="View Criteria Settings" height="844" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_519a5d81-18ea-4305-8edb-981522bb3d1a" class="text-block-content">
+    <p>To view criteria settings managed by your institution, click the <strong>Settings</strong> button [1].</p>
+<p>If your institution allows you to set attendance criteria at the course level, you can enable or disable the Online Attendance dashboard in New Analytics for each of your courses [2].</p>
+<p>You can also select your own criteria. Criterion that count toward online attendance display a checkmark icon [3]. Criterion that do not count toward online attendance display an empty checkbox [4].</p>
+<p>Click the <strong>Save Settings</strong> button [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-locked-criteria-settings" data-step-uuid="579a6c5a-f131-47be-9bdf-4436c50fd0cb">
+    <h3 id="view-locked-criteria-settings" class="step-title screensteps-heading">View Locked Criteria Settings</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/117/881/original/a278ce2c-1c59-4d8f-ab03-911355a726cc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/117/881/medium/a278ce2c-1c59-4d8f-ab03-911355a726cc.png" srcset="" alt="View Locked Criteria Settings" height="836" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f98a95c6-67ef-4110-bfdc-780d0c8c1a6c" class="text-block-content">
+    <p>To view criteria settings managed by your institution, click the <strong>Settings</strong> button [1].</p>
+<p>Online attendance criteria are locked and can only be managed by your institution [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

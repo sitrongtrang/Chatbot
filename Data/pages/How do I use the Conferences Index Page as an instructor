@@ -1,0 +1,187 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E7F2D640-1EE8-0135-AD59-22000BC102FE" class="text-block-content">
+    <p>The Conferences Index Page allows you to view all the conferences within a course. As an instructor, you can create new conferences, start conferences, and manage concluded conferences. If your institution has upgraded to the Canvas Conferences premium tier, you can view conference statistics.</p>
+<p><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Conferences/ta-p/53" target="_blank">Learn more about Conferences</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Creating a conference is a course permission. If you cannot create a conference, your institution has restricted this feature.</li>
+<li>For more information on web conferencing options in Canvas, view <a href="https://community.canvaslms.com/t5/COVID-Resources/Web-Conferencing-Resources/ba-p/262674" target="_blank">Web Conferencing Resources</a>.</li>
+<li>The Course Navigation link for your web conferencing tool reflects the name of the web conferencing tool. The link may display as BigBlueButton, Adobe Connect, or the name of the web conferencing tool your institution uses.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_conferences" data-step-uuid="ad92ca30-8f4e-4019-bc00-2c7eaf06220b">
+    <h2 id="open_conferences" class="step-title screensteps-heading">Open Conferences</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/957/711/original/006000b0-76e3-4c90-a38d-62a7ded233a2.png" srcset="" alt="Open Conferences" height="239" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E7F30CF0-1EE8-0135-AD5B-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the link for your web conferencing tool. The link name reflects the conferencing tool used by your institution. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_conferences" data-step-uuid="26f3960e-31b6-4fa2-bac4-254af76e41ac">
+    <h2 id="view_conferences" class="step-title screensteps-heading">View Conferences</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/220/original/0b4bc3e0-ec69-4779-9aa8-dfbd7bce99ff.png" srcset="" alt="View Conferences" height="661" width="831">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E7F34AB0-1EE8-0135-AD5D-22000BC102FE" class="text-block-content">
+    <p>Conferences are grouped in two parts: New Conferences [1] and Concluded Conferences [2]. Both always display the conference name [3] and description [4].</p>
+<p>If a student has been invited to a conference, the student can view the conference in the Conferences page.</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-conference" data-step-uuid="93b92338-21ca-4c1b-a35f-737509a848fa">
+    <h2 id="manage-conference" class="step-title screensteps-heading">Manage Conference </h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/719/301/original/97b385c7-0f0d-40a3-93e1-bd9e6d2b5b2b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/719/301/medium/97b385c7-0f0d-40a3-93e1-bd9e6d2b5b2b.png" srcset="" alt="Manage Conference Settings" height="246" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_136435c3-88ba-4dd0-99cd-e8502bfbf3cb" class="text-block-content">
+    <p>When attendees are removed or added to a course, instructors can sync the attendees with new conferences [1]. When you click the <strong>Sync Attendees</strong> option, all attendees in the course are added to the new conference.</p>
+<p>You can also use the options drop-down menu to <a href="/t5/Instructor-Guide/How-do-I-edit-a-conference/ta-p/1078" target="_blank">edit</a> [2] or <a href="/t5/Instructor-Guide/How-do-I-delete-a-conference/ta-p/1076" target="_blank">delete</a> the conference [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_new_conferences" data-step-uuid="85a478e1-b0a6-4986-8117-cdd8a11186ca">
+    <h2 id="view_new_conferences" class="step-title screensteps-heading">View In Progress Conference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/224/original/ae25315e-b9d5-4654-a130-a87e8873adf7.png" srcset="" alt="View In Progress Conference" height="308" width="824">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E7F37F90-1EE8-0135-AD5F-22000BC102FE" class="text-block-content">
+    <p>As a moderator, you can start new conferences [1]. Once the conference has started, the conference status shows as in progress [2]. Participants invited to the conference can join as long as the Join button is visible [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_concluded_conferences" data-step-uuid="cceabe14-3236-45bc-b205-e6551c3e1a3e">
+    <h2 id="view_concluded_conferences" class="step-title screensteps-heading">View Concluded Conferences</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/719/303/original/99e378bc-2de6-4bcc-b301-c1f3fcbefddb.png" srcset="" alt="View Concluded Conferences" height="344" width="622">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E7F3B550-1EE8-0135-AD61-22000BC102FE" class="text-block-content">
+    <p><a href="/t5/Instructor-Guide/How-do-I-conclude-a-conference/ta-p/606" target="_blank">Concluded conferences</a> display in the Concluded Conferences section. Each concluded conference shows the title, date, and description of the conference. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_recorded_conference" data-step-uuid="b3a11db0-b850-4284-b307-54fc627cab53">
+    <h2 id="view_recorded_conference" class="step-title screensteps-heading">View Recorded Conference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/222/original/e008fdfb-2449-4e4a-9851-c3ba4a0eeea0.png" srcset="" alt="View Recorded Conference" height="202" width="833">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E7F3E0A0-1EE8-0135-AD63-22000BC102FE" class="text-block-content">
+    <p>Concluded conferences that enabled recording display the <strong>Arrow</strong> icon [1].</p>
+<p>To view the recording and additional details, click the name of the conference [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-recording" data-step-uuid="7740ab31-6d59-46b3-b490-655054462dfd">
+    <h3 id="open-recording" class="step-title screensteps-heading">Open Recording</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/226/original/81807ab1-9260-4ca9-b8d2-1941c5b2d590.png" srcset="" alt="Open Recording" height="249" width="818">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_62d60da8-9269-4e81-9bf1-4a8546556c43" class="text-block-content">
+    <p>To replay the conference, click the <strong>Video</strong> or <strong>Presentation</strong> link [1]. You can also view the duration of your conference recording [2].</p>
+<p>The recording format link does not appear until the conference has been rendered for playback. The rendering process may take some time to complete. If your conference included closed captioning, the playback bar for the video displays a CC button to view the available captions.</p>
+<p>To delete your recording, click the <strong>Delete</strong> button [3].</p>
+<p><strong>Note:</strong> For all basic Conference accounts, recordings are automatically deleted 7 days after the conference ends. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-notes" data-step-uuid="006d3571-cb68-47e6-9255-7b6266edde85">
+    <h3 id="open-notes" class="step-title screensteps-heading">Open Notes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/215/original/4ca67b1a-b24a-4be5-ae66-560eb2202330.png" srcset="" alt="Open Notes" height="249" width="818">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e456abdb-0f48-4d11-aac4-8180bca52f36" class="text-block-content">
+    <p>If your conference included shared notes, you can view the notes by clicking the <strong>Notes</strong> link. The shared notes will display in a new browser tab, where they can be viewed and copied.</p>
+<p><strong>Note: </strong>Notes are only available for recorded conferences.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-statistics" data-step-uuid="f05542bd-232a-49ab-acdc-6fbe902d7684">
+    <h3 id="open-statistics" class="step-title screensteps-heading">Open Statistics</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/226/213/original/cd4c6376-d36d-4a36-a4fc-53074cd5c2ef.png" srcset="" alt="Open Statistics" height="249" width="818">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_db717941-3616-4283-913c-ac821923eb10" class="text-block-content">
+    <p>If your institution has upgraded to the Canvas Conferences premium tier, you can view conference statistics by clicking the <strong>Statistics</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-statistics" data-step-uuid="ec0fe07e-3749-483e-b0cc-ec42354dd3a3">
+    <h3 id="view-statistics" class="step-title screensteps-heading">View Statistics</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/608/686/original/e22b53f2-d023-4267-9fb9-d489ac9d1cc1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/608/686/medium/e22b53f2-d023-4267-9fb9-d489ac9d1cc1.png" srcset="" alt="View Recorded Conference" height="527" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b038b49f-1ec7-4a8e-bc57-ece5961b29a4" class="text-block-content">
+    <p>Statistics include metrics about student participation in the recorded session, such as length of time in the session [1], number of moderators and participants [2], and the number of students who spoke, messaged, used emojis, or raised their hands during the conference [3]. Metrics also include each student's response to polls [4]. </p>
+<p>To download statistics as a CSV file, click the <strong>Download CSV</strong> button [5].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

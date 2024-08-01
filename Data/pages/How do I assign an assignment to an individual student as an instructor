@@ -1,0 +1,258 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_AE49A330-1E49-0135-E07A-22000B5A851D" class="text-block-content">
+    <p>When creating or editing an assignment, you can assign an assignment to individual students. You can also set different due and availability dates for a student within an assignment that is assigned to the rest of the class. <a href="/t5/Instructor-Guide/What-is-the-difference-between-assignment-due-dates-and/ta-p/897" target="_blank">Availability date</a> functionality is still available for each assignment.</p>
+<p>Only the student(s) specified in the assignment details can view the assignment.</p>
+<p>When using differentiated assignments with the <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">Gradebook</a>, the assignment appears as a column for all students, but grade cells are grayed out for students who have not been included in the assignment. Grades cannot be assigned for students who have not been included in the assignment, and assignments that are not assigned to a student are not factored into overall grades. </p>
+<p>When <a href="/t5/Instructor-Guide/How-do-I-use-grading-periods-in-a-course/ta-p/1030" target="_blank">Multiple Grading Periods</a> are enabled in a course, assignments are also respected against closed grading periods.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>To allow a student access to an assignment past the assignment's initial <strong>Until</strong> date, you must set a different <strong>Until </strong>date for the individual student.</li>
+<li>If your course is using MasteryPaths, you do not have to manually assign assignments to individual students. Learn how to assign an assignment using <a href="/t5/Instructor-Guide/How-do-I-assign-a-conditional-assignment-for-students-to/ta-p/1025" target="_blank">MasteryPaths</a>.</li>
+<li>Due dates assigned to specific students override group or section due dates.</li>
+<li>If you unassign a student or section to a differentiated assignment you have previously graded, the grade and submission are removed from the assignment. You can restore the submission by reassigning the assignment to the student.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="CFAEFDC8-7180-4630-8F0D-2C96B820CB2C">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/743/261/original/2cf28c53-87b0-446e-9182-e029a16c3dd4.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4A7520-1E49-0135-E07C-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="7C080DAC-5678-4189-BF78-F8182EA34BB7">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/257/901/original/a65a71fd-7a95-4458-a63c-83773808b9db.png" srcset="" alt="Add Assignment" height="72" width="302">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4B8F70-1E49-0135-E07E-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Assignment </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_assignment_details" data-step-uuid="BCD96190-8329-43D4-BFF8-2442CD19EEFE">
+    <h2 id="enter_assignment_details" class="step-title screensteps-heading">Add Assignment Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/242/085/original/50b6fd50-67b8-4558-83dc-61bd365edec9.png" srcset="" alt="Add Assignment Details" height="634" width="835">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9603d37b-0067-462d-a062-ab6f1f2b5c06" class="text-block-content">
+    <p>Add <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">details to the assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign-to-specific-student" data-step-uuid="bb8ca35a-af2d-4092-954b-30beb5aa267f">
+    <h2 id="assign-to-specific-student" class="step-title screensteps-heading">Assign to Specific Student</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/174/588/original/815eaa5e-bfe5-48e5-a8dd-c989f118b2b2.png" srcset="" alt="Assign to Specific Student" height="496" width="479">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_73e1750f-4111-477c-a039-c9f027439947" class="text-block-content">
+    <p>To create an assignment that is assigned only to a specific student, click the <strong>Remove</strong> icon next to the Everyone label [1], then start to type the name of a student in the <strong>Assign to</strong> field [2]. Search fields are dynamic, and you can search for students by first or last name. When the full name appears, click the name. <em>Lists are not scrollable</em>.</p>
+<p>You can include more than one student in the To field as long as the students are to be assigned the same due and availability dates.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_to_student_only" data-step-uuid="9bd985ad-94c0-4b07-b471-aa9b6a2149e3">
+    <h2 id="assign_to_student_only" class="step-title screensteps-heading">Assign to Student</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/601/040/original/e2c54179-ca27-4a57-9e4e-a9e95b1178d4.png" srcset="" alt="Assign to Student " height="828" width="463">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4CF2B0-1E49-0135-E084-22000B5A851D" class="text-block-content">
+    <p>By default, Canvas will assign your assignment for everyone in your course. To assign a different due date to an individual student, click the <strong>Add</strong> button [1]. Type the name of the student in the <strong>Assign to</strong> field [2]. Search fields are dynamic, and you can search for students by first or last name. When the full name appears, click the name. <em>Lists are not scrollable</em>.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="assign-everyone-else" data-step-uuid="637af9e8-c0a3-4d7e-ae51-3338c447a9f0">
+    <h3 id="assign-everyone-else" class="step-title screensteps-heading">Assign Everyone Else</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/761/536/original/c530e993-54cf-497e-8501-abac118549f1.png" srcset="" alt="Assign Everyone Else" height="738" width="423">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11987c3b-faba-4132-a04b-f051dfb4cb4e" class="text-block-content">
+    <p>When an individual student or students are added to an assignment [1], the Everyone assignment changes to Everyone Else [2]. </p>
+<p>The Everyone Else assignment assigns the remaining course students to the corresponding due and availability dates [3]. </p>
+<p>To include the remaining course students, leave the Everyone Else assignment. </p>
+<p>To remove the remaining course students from the assignment, click the <strong>Remove</strong> icon [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_due_and_availability_dates" data-step-uuid="EFBD4FA2-83C2-48C2-BA87-605614D85763">
+    <h2 id="edit_due_and_availability_dates" class="step-title screensteps-heading">Edit Due and Availability Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/174/579/original/64c5ae06-ca92-4aad-96cb-19eb048f1bb5.png" srcset="" alt="Edit Due and Availability Dates" height="742" width="465">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4D8070-1E49-0135-E086-22000B5A851D" class="text-block-content">
+    <p>In the date fields, add your preferred date(s) with the following options:</p>
+<ul>
+<li>
+<strong>Due </strong>[1]: Set the date and time that the assignment is due. The due date will already be populated for you if you created an assignment shell, but you can change it if necessary. </li>
+<li>
+<strong>Available From </strong>[2]: Set the date and time when the assignment will become available.</li>
+<li>
+<strong>Until </strong>[3]: Set the date and time when the assignment will no longer be available.</li>
+</ul>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>To allow a student access to an assignment past the assignment's initial <strong>Until</strong> date, you must set a different <strong>Until </strong>date for the individual student.</li>
+<li>Beneath the Due Date and Availability Date fields, Canvas will display the time zone date and time according to context. If you manage courses in a time zone other than your local time zone and create or edit a due date for an assignment, the course and local times are displayed for reference.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-additional-dates" data-step-uuid="c850f40a-d5c8-44af-b800-1c3609f8838e">
+    <h2 id="add-additional-dates" class="step-title screensteps-heading">Add Additional Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/174/573/original/39fc67ac-1e1b-44a7-bc86-e5d048e3de24.png" srcset="" alt="Add Additional Dates" height="395" width="464">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_042a7a1a-23a3-41ea-8d52-49803b0cbe4f" class="text-block-content">
+    <p>To add another student with a different due date and availability dates, click the <strong>Add</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="remove_dates" data-step-uuid="D4AC5AA7-0928-431B-BF7E-75EF31A50353">
+    <h3 id="remove_dates" class="step-title screensteps-heading">Remove Dates</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/174/577/original/afb656ee-160b-4afa-a0ea-6b2d6672fe36.png" srcset="" alt="Remove Dates" height="742" width="465">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4DB590-1E49-0135-E088-22000B5A851D" class="text-block-content">
+    <p>You can also delete additional dates by clicking the remove icon next to the appropriate date.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="5F0E759E-BEB7-494F-8530-0A4EBB77DFCF">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/755/211/original/ffba46a5-1292-4376-bf40-355df1601079.png" srcset="" alt="Save and Publish" height="91" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4DEE10-1E49-0135-E08A-22000B5A851D" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_due_date_warning" data-step-uuid="01CAD121-F52E-448C-8300-7F22AF171D88">
+    <h3 id="view_due_date_warning" class="step-title screensteps-heading">View Due Date Warning</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/174/575/original/f10c0048-b36e-424a-8474-669861232eff.png" srcset="" alt="View Due Date Warning" height="288" width="304">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4E2440-1E49-0135-E08C-22000B5A851D" class="text-block-content">
+    <p>If you do not add course sections to the assignment, you will see a warning message asking you if you want to add those sections. </p>
+<p>You can click the <strong>Continue</strong> button [1] if you don't want to add any sections to the assignment, or click the <strong>Go Back</strong> button [2] to go back and add additional sections. </p>
+<p><strong>Note:</strong> This warning message will not appear if everyone or all course sections are assigned to the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_date_error" data-step-uuid="063a184f-b47a-4338-a242-448ec5ee4736">
+    <h3 id="view_date_error" class="step-title screensteps-heading">View Date Error</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/174/581/original/83799efa-5365-4457-8d5d-485fc0f53242.png" srcset="" alt="View Date Error" height="392" width="504">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4E5950-1E49-0135-E08E-22000B5A851D" class="text-block-content">
+    <p>If you submit an invalid string of due dates and try to save the assignment, Canvas generates an error notification. Such invalid entries include not unlocking the assignment before it is due, not placing the due date inside the range of availability dates, or assigning a date that is outside the course or term dates. </p>
+<p>Correct the date and then update the assignment again. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If the course does not include specified course start and end dates, Canvas validates the assignment against the term date set for the course.</li>
+<li>If your course is using Multiple Grading Periods, the Assign field validates the due date against the closed grading period and requires the assignment date to be past the date of the closed grading period.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment_dates" data-step-uuid="d4c422a7-ff4c-478b-8cb3-36ba3912e0c0">
+    <h2 id="view_assignment_dates" class="step-title screensteps-heading">View Assignment Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/174/571/original/3c668293-d44a-467f-a3ca-3ffbaa87f9d6.png" srcset="" alt="View Assignment Dates" height="438" width="761">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4E8E80-1E49-0135-E090-22000B5A851D" class="text-block-content">
+    <p>View the dates and users assigned to the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignments_page" data-step-uuid="9013AAEC-266F-4448-923A-CB986435F87D">
+    <h2 id="view_assignments_page" class="step-title screensteps-heading">View Assignments Page</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/174/583/original/b677a35e-acff-4b64-b627-fd84464715c2.png" srcset="" alt="View Assignments Page" height="211" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AE4EC3E0-1E49-0135-E092-22000B5A851D" class="text-block-content">
+    <p>On the Assignments Index Page, the assignment shows there are multiple users and dates assigned to the assignment. Hover over the text to view date availability.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

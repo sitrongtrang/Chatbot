@@ -1,0 +1,46 @@
+How do I view Course Analytics as an instructor
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open Course Analytics
+Click the View Course Analytics button.
+View Analytics Graphs
+By default, analytics are shown in a graph format. There are three types of graphs: Activity by Date, Submissions, and Grades.
+View Activity by Date
+The Activity by Date graph shows all course activity for all users in the course. The x-axis represents the course dates, while the y-axis represents the number of page views. Dark blue bars represent participation in the course. If a date only includes page views, the bar only displays as light blue.
+The graph changes the bar display according to the length of time. Activity that is less than six months old displays bars as daily activity, at six months bars are displayed as weekly activity, and at approximately a year bars are displayed as monthly activity. Browser window size, zoom level, and screen resolution may also change how the bars display.
+To view the details of the bar graph, hover over the specific bar you want to view. The weekly view shows the first and last date for the week; the monthly view shows the month and the year.
+The following user actions will generate analytics course participation:
+Announcements: posts an announcement (instructor)
+Announcements: posts a new comment to an announcement
+Assignments: updates an assignment's settings or description (instructor)
+Assignments: submits an assignment (student)
+Calendar: updates a calendar event's settings or description (instructor)
+Collaborations: loads a collaboration to view/edit a document
+Conferences: joins a web conference
+Discussions: posts a new comment to a discussion
+Pages: creates a wiki page
+Quizzes: submits a quiz (student)
+Quizzes: starts taking a quiz (student)
+View Submissions
+The Submissions Graph shows the status of each assignment in the course. The x-axis represents the assignments, while the y-axis represents the percentage of submissions for all students in the course. 
+The green rounded shape at the bottom of the bar indicates how many students submitted the assignment on time. The yellow straight-edge shape indicates how many students submitted the assignment late/past due. The red rounded shape at the top of the bar indicates how many students have not submitted the assignment.
+To view the details of the bar graph, hover over the specific bar you want to view. The details include the assignment title, the due date (if any), and the percentage of late, on time, and missing submissions. 
+Note: The bars will only extend to the edge of the dates available for the course, even if there is an assignment or quiz that extends beyond the course start and end dates. The graph will include a note graph explaining there are assignments outside of the course dates.
+View Grades
+The Grades graph shows the median, high, and low scores for an assignment. The x-axis represents each assignment, while the y-axis represents the number of points for an assignment. The vertical blue line extends from the lowest score to the highest score. The blue box extends from the 25th to 75th percentile. The horizontal black line shows the median score for the assignment. Gray lines indicate hidden assignments.
+To view the details of the bar graph, hover over the specific bar you want to view. 
+View Analytics Tables
+To view analytics without hovering over graph columns, you can view all data in a table format. To switch to the table format, click the Analytics icon. The icon will switch from the left side to the right, indicating the current analytics view. 
+View Table Data
+Tables apply to every graph in its respective page, and each column defines the data within its respective graph. Graphical data is displayed by column. 
+Each table is paginated to 30 entries per page; additional pages can be viewed by advancing to the next page.
+View Student Analytics
+Student Analytics are always shown in a table format and displays an overview of student participation in the course.
+You can view the student name, page views, participations, and submissions. 
+The Submissions column shows how many published and graded assignments each student has submitted in the course. Submissions are broken down according to how many submissions were on time, late, and missing. Note that an assignment only counts as missing if the due date has passed and it has not been submitted. 
+You can also view a student's current score percentage, which is their total score in the course.
+The analytics table is paginated so you can view more students if you continue to scroll down the page.
+Sort Student Analytics
+You can sort student analytics in ascending or descending order by student name, page views, participations, and current score. These filters allow you to evaluate student performance according to your preference.
+View Student Analytics
+To view analytics for a specific student, click the name of the student.

@@ -1,0 +1,144 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_64318516-8ca3-4fb5-a178-5043ee7b2daf" class="text-block-content">
+    <p>As a Canvas admin, you can use Analytics Hub to access data and analytics from Canvas as well as from other Instructure products such as Mastery and Impact. Your suite of analytics tools and data are based on your purchases (such as Intelligent Insights, Mastery products, and <a href="/t5/Impact-Guides/What-is-Impact/ta-p/516026" target="_blank">Impact</a>), individual <a href="/t5/Admin-Guide/How-do-I-set-permissions-for-an-account-level-role/ta-p/213" target="_blank">role permissions</a>, and selected account <a href="/t5/Admin-Guide/How-do-I-manage-feature-options-for-an-account/ta-p/204" target="_blank">feature options</a> (such as <a href="/t5/Admin-Guide/How-do-I-use-Admin-Analytics/ta-p/562116" target="_blank">Admin Analytics</a>).</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--warning screensteps-wrapper">
+  <div id="text-content_b1db3bc4-92a7-45d0-8de2-883d78f6a36f" class="text-block-content">
+    <p>In the beta environment only, Admin Analytics and Course Analytics data is pulled from Canvas Data 2 (CD2)/Data Access Platform (DAP). All data will be migrated to CD2/DAP on August 1, 2024. You can migrate your data to CD2/DAP before August 1, 2024 by contacting your Customer Success Manager (CSM).</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="27eab865-03ed-41a1-a183-d745a795f0d4">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_83e07947-64e4-4876-b1ac-838298dbeab1" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-analytics-hub" data-step-uuid="7d35cb52-d66d-47c4-9501-7d3b1c98d2e2">
+    <h2 id="open-analytics-hub" class="step-title screensteps-heading">Open Analytics Hub</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/545/487/original/7b8d7da5-6dbe-4dee-be39-6356c54eb93f.png" srcset="" alt="Open Analytics Hub" height="277" width="196">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42dacc9e-a521-4e56-bf42-d7ff3d08f646" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Analytics Hub</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-analytics-hub" data-step-uuid="0472a46e-5bd4-447b-9e6f-e0693db40ff5">
+    <h2 id="view-analytics-hub" class="step-title screensteps-heading">View Analytics Hub</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/557/427/original/8187f2e0-4bf7-4aee-a9ea-956011acdfb9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/557/427/medium/8187f2e0-4bf7-4aee-a9ea-956011acdfb9.png" srcset="" alt="View Analytics Hub" height="505" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_93b3ffe8-854a-41d4-9a3e-6066c799c216" class="text-block-content">
+    <p>The Analytics Hub displays area cards for accessing available data, analytics, and insights. Depending on your preferences, purchases, and role permissions, you may have access to the following areas of analytics:</p>
+<ul>
+<li>
+<strong>AI-Assisted Insights</strong> [1]: Use everyday language to query your data and gain deep insights with custom visualizations. Learn more about <a href="/t5/Intelligent-Insights-Guides/How-do-I-utilize-the-AI-for-Ask-Your-Data/ta-p/608454" target="_blank">Ask Your Data.</a>
+</li>
+<li>
+<strong>Usage &amp; Adoption</strong> [2]: Measure and monitor the adoption of Canvas and its intetrated LTI tools. Learn more about <a href="/t5/Admin-Guide/How-do-I-view-the-Admin-Analytics-Overview-Dashboard/ta-p/562117" target="_blank">Usage Overview</a>, <a href="https://community.canvaslms.com/t5/Impact-Guides/tkb-p/impact_guides#:~:text=Impact%20Inline%20Editor%3F-,Insights%20and%20Reports,-How%20do%20I" target="_blank">Impact Insights</a>, and <a href="/t5/Intelligent-Insights-Guides/What-is-Intelligent-Insights/ta-p/608459" target="_blank">LTI Usage</a>.</li>
+<li>
+<strong>Student Success</strong> [3]: Improve student engagement, retention, and success with proactive and actionable insights. Learn more about the <a href="/t5/Admin-Guide/How-do-I-view-the-Admin-Analytics-Student-Dashboard/ta-p/562119" target="_blank">Student Overview dashboard</a> and the <a href="/t5/Intelligent-Insights-Guides/What-data-is-available-for-Students-in-Need-of-Attention/ta-p/608448" target="_blank">Students in Need of Attention</a> data.</li>
+<li>
+<strong>Course Effectiveness </strong>[4]: Understand how courses are built and used to improve the teaching and learning environment. Learn more about the <a href="/t5/Admin-Guide/How-do-I-view-the-Admin-Analytics-Course-Dashboard/ta-p/562118" target="_blank">Courses Overview dashboard</a> and the <a href="/t5/Intelligent-Insights-Guides/What-data-is-available-in-Course-Readiness/ta-p/608452" target="_blank">Course Readiness</a> report. </li>
+<li>
+<strong>Standards Proficiency</strong> [5]: View aggregated performance data on standards-aligned assessments.</li>
+<li>
+<strong>Assessment Results</strong> [6]: View student performance on individual assessments. You can view Formative Assessments, Benchmark Assessments, or State &amp; National Assessments. </li>
+<li>
+<strong>Data Access</strong> [7]: Access your organization's interactive data for data mining, research, and analysis. Data access includes <a href="/t5/Admin-Guide/What-is-Canvas-Data-2/ta-p/560956" target="_blank">Canvas Data 2 </a>services, <a href="https://pypi.org/project/instructure-dap-client/" target="_blank" rel="nofollow noopener noreferrer">DAP CLI &amp; Client Library</a>, and <a href="https://data-access-platform-api.s3.amazonaws.com/index.html" target="_blank" rel="nofollow noopener noreferrer">DAP Query API</a>.</li>
+</ul>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Analytics are based on your purchases, <a href="/t5/Admin-Guide/How-do-I-use-account-settings/ta-p/152" target="_blank">account settings</a>, and your individual user <a href="/t5/Admin-Guide/How-do-I-set-permissions-for-an-account-level-role/ta-p/213" target="_blank">role permissions</a>.</li>
+<li>
+<a href="/t5/Intelligent-Insights-Guides/What-is-Intelligent-Insights/ta-p/608459" target="_blank">Intelligent Insights </a>is a paid product offering that uses AI and analytics to provide self-service analytics. It gives you access to Ask Your Data, LTI Usage, Course Readiness, and Students in Need of Attention. To learn more, contact your Customer Success Manager (CSM).</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-analytics-hub-offerings" data-step-uuid="483ceed1-d711-4c38-aa84-bd5898863117">
+    <h2 id="view-analytics-hub-offerings" class="step-title screensteps-heading">View Analytics Hub Offerings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/548/240/original/05429571-da87-4676-beac-174118a64aaf.png" srcset="" alt="View Analytics Hub Offerings" height="712" width="825">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_86a9fe1c-813f-45b8-8cfe-5f4c8180d31a" class="text-block-content">
+    <p>Optional analytics may display the <strong>Upgrade Feature </strong>label [1]. If your institution has not yet purchased an upgrade feature, you can find out more about the feature by clicking the <strong>Learn More</strong> link [2].</p>
+<p>To view only analytics you currently have access to, click the <strong>Hide Highlighted Opportunities</strong> link [3].</p>
+<p><strong>Note: </strong>To purchase upgrade features, contact your Customer Success Manager (CSM).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-area-card" data-step-uuid="4d09b7c5-ed91-40bb-9250-924a6e33a845">
+    <h2 id="view-area-card" class="step-title screensteps-heading">View Area Card</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/548/238/original/b06a7c36-2197-473e-a54d-696a392ac2cf.png" srcset="" alt="View Area Card" height="245" width="359">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_056695fe-7e92-4eb4-9376-7a7ee5488c62" class="text-block-content">
+    <p>Each area card includes a title [1], a description [2], and sub-area links [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-area-analytics" data-step-uuid="fdfa5788-0e34-4016-8047-4c2b55e67526">
+    <h2 id="open-area-analytics" class="step-title screensteps-heading">Open Analytics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/549/105/original/3ef50058-ae27-4686-a252-840c459fdc39.png" srcset="" alt="Open Analytics" height="305" width="825">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b37d00c0-f275-4918-898b-800db6f06713" class="text-block-content">
+    <p>To view an area of analytics, click the sub-area link.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

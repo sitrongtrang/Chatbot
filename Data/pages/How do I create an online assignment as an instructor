@@ -1,0 +1,175 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_99A66B00-1ECF-0135-E5A7-22000BC102FE" class="text-block-content">
+    <p>You can create online assignments for students to submit their assignments through Canvas. Students can submit formatted text using the Rich Content Editor, website URLs, annotated files, or uploaded files. They can also submit audio or video recordings by recording new media or uploading existing media.</p>
+<p>Files submitted to an online assignment do not count against the user's <a href="https://s3.amazonaws.com/tr-learncanvas/docs/CanvasFileQuotas.pdf" target="_blank" rel="nofollow noopener noreferrer">storage quota</a>.</p>
+<p>When allowing file uploads as an online entry option, you can restrict certain types of files for assignment submissions. In the case of restricting assignments with an odd or unusual file type, try adding it to your course to confirm the file is accepted before requesting students to submit the file type. Compound file types are not supported.</p>
+<p>If your institution has enabled Google Docs, the Google Apps LTI, or the Microsoft Office 365 LTI, students can upload files from their respective Google Drive or OneDrive account directly. (If only Google Docs are enabled for your institution, students must <a href="/t5/Instructor-Guide/How-do-I-connect-to-Google-Drive-as-a-web-service-in-Canvas-as/ta-p/736" target="_blank">connect to Google Drive</a> as a web service to submit an assignment as a Google Doc, Google Sheet, or Google Slide.) You can allow Google Drive and OneDrive files as submission types by selecting the File Uploads checkbox when creating an assignment.</p>
+<p><strong>Google Drive File Types</strong></p>
+<p>Students can submit Google Doc (.gdoc), Google Sheet (.gsheet), or Google Slide (.gslide) files. They can also use Google Docs to submit uploaded Word (.doc/.docx), Excel (.xls/.xlsx), PowerPoint (.ppt/.pptx), and PDF files not converted to Google Docs formatting.</p>
+<p>When Google file types are submitted as an assignment submission, those files will convert to their Microsoft counterpart file types and appear in the submission as respective Word, Excel, or PowerPoint files. Canvas uses the conversion file type for submissions (and to render supported file types as DocViewer files in SpeedGrader), so if you want to restrict file types to only include Google file types, you must also include the file types for each respective Microsoft file type as well. For instance, if you want to only allow Google Slide submissions, you must include .pptx as a restrictive file type, otherwise Canvas will not show the .gslide files in the Google Doc tab.</p>
+<p><strong>Note: </strong>Canvas does not support file uploads larger than 5 GB. However, media uploads cannot exceed 500 MB.</p>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I create an online submission assignment?" src="https://community.instructuremedia.com/embed/71cfd7d9-9b18-4bd7-a836-b37c9579d6ac" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="BABB9E3D-25A1-4260-B7C9-F8E0B744DA72">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/742/811/original/ad738b67-f995-4b1c-afee-139418e8a700.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99A78570-1ECF-0135-E5A9-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-assignment" data-step-uuid="3cfbf006-3398-48fd-9060-0d7d8dce7a40">
+    <h2 id="add-assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/801/original/9c1b4d5e-15b0-47ab-9400-7874bb044b67.png" srcset="" alt="Add Assignment" height="288" width="759">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3eaf3ab6-a85b-4aed-afe5-308caa939077" class="text-block-content">
+    <p>To create a new assignment, click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_assignment" data-step-uuid="340270DE-E5FB-476A-BD4D-7A893EE2CE8A">
+    <h3 id="edit_assignment" class="step-title screensteps-heading">Add Assignment Details</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/237/624/original/37d4a9ea-562d-45da-9359-344d5bcfabbd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/237/624/medium/37d4a9ea-562d-45da-9359-344d5bcfabbd.png" srcset="" alt="Add Assignment Deatils" height="610" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99A83EA0-1ECF-0135-E5AD-22000BC102FE" class="text-block-content">
+    <p>Add <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">details to the assignment</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_online_submission_type" data-step-uuid="03908EB7-3DDF-47E1-A12F-E4866AEF14EC">
+    <h2 id="select_online_submission_type" class="step-title screensteps-heading">Select Online Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/394/316/original/e6b661af-d6ac-4bf9-8419-190d0298e08a.png" srcset="" alt="Select Online Submission Type" height="147" width="492">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99A91340-1ECF-0135-E5AF-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Submission Type</strong> drop-down menu, select the <strong>Online</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_online_entry_options" data-step-uuid="e2b2aefb-82d7-4862-9d0b-8df171696ae3">
+    <h2 id="select_online_entry_options" class="step-title screensteps-heading">Select Online Entry Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/361/899/original/bc1d7b8d-54c3-499e-9006-a962dc839dd5.png" srcset="" alt="Select Online Entry Options" height="347" width="532">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99A94110-1ECF-0135-E5B1-22000BC102FE" class="text-block-content">
+    <p>Select the online entry options you want to allow for the assignment. You can select up to four options:</p>
+<ul>
+<li>
+<strong>Text Entry</strong> [1]: Students can <a href="/t5/Student-Guide/How-do-I-submit-a-text-entry-assignment/ta-p/303" target="_blank">submit their assignment directly in the Rich Content Editor</a>. DocViewer annotations are not available for text entry submissions. Additionally, text entry submissions cannot be re-uploaded to the Gradebook.</li>
+<li>
+<strong>Website URLs</strong> [2]: Students can <a href="/t5/Student-Guide/How-do-I-enter-a-URL-as-an-assignment-submission/ta-p/286" target="_blank">submit a URL</a> that fulfills the assignment. DocViewer annotations are not available for website URL submissions. Additionally, website URL submissions cannot be re-uploaded to the Gradebook.</li>
+<li>
+<strong>Media Recordings</strong> [3]: Students can <a href="/t5/Student-Guide/How-do-I-submit-a-media-file-as-an-assignment-submission/ta-p/279" target="_blank">submit an audio or video recording </a>that fulfills the assignment. They can either record new media or upload existing media. Video and audio uploads to Canvas can be up to 500 MB. DocViewer annotations are not available for media recording submissions. Additionally, media recording submissions cannot be downloaded.</li>
+<li>
+<strong>Student Annotation </strong>[4]: Students can <a href="/t5/Student-Guide/How-do-I-annotate-a-file-as-an-assignment-submission-in-Canvas/ta-p/463702" target="_blank">annotate a file uploaded by an instructor</a>. The annotated document is submitted as the student's assignment submission. For students who may not be able to annotate a document, it is best to use another online entry option.</li>
+<li>
+<strong>File Uploads</strong> [5]: Students can <a href="/t5/Student-Guide/How-do-I-upload-a-file-as-an-assignment-submission-in-Canvas/ta-p/274" target="_blank">upload a file or take a photo with their webcam</a> to fulfill the assignment. DocViewer annotations are available for <a href="/t5/Instructor-Guide/What-types-of-files-can-be-previewed-in-Canvas/ta-p/607" target="_blank">supported file types</a> in SpeedGrader. Additionally, if your institution has enabled Google Docs, the Google Apps LTI, or the Microsoft Office 365 LTI, students can upload files from their respective Google Drive or OneDrive account directly. If only Google Docs are enabled for your institution, students must connect to Google Docs as a web service to submit an assignment as a Google Doc, Google Sheet, or Google Slide. File upload submissions can be downloaded and re-uploaded to the Gradebook. Canvas supports file uploads up to 5 GB.</li>
+</ul>
+<p>Assignment settings are persistent to always remember and display the settings created or edited in the previous assignment in the course. Based on prior assignments, one or more of these options may already be selected for you.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If you select multiple submission types for an assignment, students will only be able to use one submission type per assignment submission. </li>
+<li>If your institution has enabled the Microsoft Office 365 LTI, you must select either the File Uploads option or both the Website URL and File Uploads options to use the Office 365 tab on the assignment submission page. If you only select Website URL as an entry option, the Office 365 tab will not function properly. </li>
+<li>Group assignments do not support the student annotation submission type.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-annotation-file" data-step-uuid="e111b293-891b-4534-b564-08c1bccee85b">
+    <h3 id="select-annotation-file" class="step-title screensteps-heading">Select Annotation File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/362/522/original/627423c7-6aaa-4f29-ad67-910720c1fc49.png" srcset="" alt="Select Annotation File" height="594" width="524">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3f396fbf-12d2-4b96-a8af-64f094c5bd09" class="text-block-content">
+    <p>If you allow student annotation submissions, you must select or upload a file for students to annotate.</p>
+<p>You can select a file from course files [1] or your user files [2] or upload a new file from your computer [3].</p>
+<p>Files used for annotation must be able to be <a href="/t5/Instructor-Guide/What-types-of-files-can-be-previewed-in-Canvas/ta-p/607" target="_blank">previewed in Canvas</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="restrict_file_types" data-step-uuid="bab87fd0-84bd-4a9d-8727-d9b51860af84">
+    <h3 id="restrict_file_types" class="step-title screensteps-heading">Restrict File Types</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/362/524/original/12615ff0-4979-46b6-a21e-13bd11a731e1.png" srcset="" alt="Restrict File Types" height="462" width="527">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99A96D10-1ECF-0135-E5B3-22000BC102FE" class="text-block-content">
+    <p>If you allow file uploads, you can choose to restrict submissions to specific file types. To enable this option, click the <strong>Restrict Upload File Types</strong> checkbox [1]. In the <strong>Allowed File Extensions</strong> field [2], enter a list of accepted extensions. All file types need to be separated by a comma. You can include spaces, caps, and periods in assignment file names.</p>
+<p><strong>Note: </strong>In the case of an odd or unusual file type, try adding it to your course to confirm the file is accepted before requesting students to submit the file type. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_assignment" data-step-uuid="18DB526F-9E64-455B-A546-B7ABCCA26728">
+    <h2 id="save_assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/413/278/original/55923a59-adff-4766-baed-7a5b91f2b6aa.png" srcset="" alt="Save Assignment" height="93" width="307">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99A99B60-1ECF-0135-E5B5-22000BC102FE" class="text-block-content">
+    <p>To save the assignment and publish it, click the <strong>Save &amp; Publish</strong> button [1]. To save the assignment as a draft, click the <strong>Save</strong> button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

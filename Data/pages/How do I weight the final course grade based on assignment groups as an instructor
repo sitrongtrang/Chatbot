@@ -1,0 +1,101 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A6F85200-1ED2-0135-AE6E-22000AB760A3" class="text-block-content">
+    <p>You can weight final grades based on <a href="/t5/Instructor-Guide/How-do-I-add-an-assignment-group-in-a-course/ta-p/970" target="_blank">assignment groups</a>. Selecting this option assigns a weight to each assignment group, not the assignments themselves. Within each assignment group, a percentage is calculated by dividing the total points a student has earned by the total points possible for all assignments in that group. </p>
+<p>For example, if an assignment group included three assignments totaling 25 points, and a student's scores totaled 15 points, the student would earn 60% for the assignment group (15/25). This percentage is then multiplied by the selected group weight. Each assignment group calculation is added together to create the final grade.</p>
+<p>For example, an instructor may create three assignment groups (A, B, and C) weighted at 20%, 50%, and 30%, respectively. The total score equation for a course with three assignment groups would be (percentage A x weight A) + (percentage B x weight B) + (percentage C x weight C) = final course percentage. If a student scores 75% in Group A, 98% in Group B, and 87% in Group C, the final score would be calculated as (.75 x .20) + (.98 x .50) + (.87 x .30) = .901, or 90.1%. </p>
+<p>The final score calculation is changed if there are no graded items in an assignment group. In this case, all assignment groups with graded items will be divided by their combined weight, and the assignment groups without graded items are removed from the equation. If the previous example were adjusted so Group C contained no graded discussions, assignments, or quizzes, the calculation for final score would be [(.75 x .20) + (.98 x .50)] ÷ .70 = .9143, or 91.43%.</p>
+<p><strong>Multiple Grading Periods</strong></p>
+<p>If your course includes Multiple Grading Periods, you cannot change assignment group weights once an assignment group has assignments in a closed grading period. Additionally, weighted grading periods can also support weighted assignment groups in a course. The weight of an assignment group is applied to the grading period’s final grade, and each grading period’s final grade is added together to calculate the overall grade. </p>
+<p>If you choose to use weighted assignment groups, separate assignment groups should be created for each grading period in the course. If an assignment group contains assignments that fall into multiple grading periods with different weighted percentages, grades may have unintended consequences.</p>
+<p><strong>Note: </strong>If an assignment group is weighted to zero percent, any course items added to the group will not count toward the final grade. </p>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I weight the final course grade based on assignment groups?" src="https://community.instructuremedia.com/embed/71109785-8432-4aac-862a-b663f72cd395" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="263A41FE-052A-4A6F-9E5E-3CADF250AD69">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/742/770/original/65bc8d07-7bed-4ab3-883f-4a8c63cff004.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6F884F0-1ED2-0135-AE70-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assignments_settings" data-step-uuid="9BD9C557-A690-4326-8B38-20B1D9DFCB37">
+    <h2 id="assignments_settings" class="step-title screensteps-heading">Open Assignment Groups Weights Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/317/545/original/5324386b-9512-4137-a3e4-ea011ea862ac.png" srcset="" alt="Open Assignment Groups Weights Settings" height="182" width="309">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6F8B890-1ED2-0135-AE72-22000AB760A3" class="text-block-content">
+    <p>Click the Assignments <strong>Options</strong> icon [1] and select the <strong>Assignment Groups Weights </strong>option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="weight_final_grade" data-step-uuid="44BE5452-7BE8-4365-8F0B-EAD3AC695885">
+    <h2 id="weight_final_grade" class="step-title screensteps-heading">Weight Final Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/255/176/original/4d382b9b-c4c8-44a1-908e-d9a301c2d980.png" srcset="" alt="Weight Final Grade" height="209" width="451">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6F8ED50-1ED2-0135-AE74-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Weight final grade based on assignment groups</strong> checkbox. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_weights" data-step-uuid="d70ef027-a703-42fc-a932-e4ba858ff6d4">
+    <h2 id="set_weights" class="step-title screensteps-heading">Set Weights</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/976/680/original/761bb914-58f6-4c9c-8e04-f6486c28d906.png" srcset="" alt="Set Weights" height="559" width="500">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6F92230-1ED2-0135-AE76-22000AB760A3" class="text-block-content">
+    <p>Enter the percentage weights for each of the different Assignment Groups you created [1]. The percentage weights you specify here will determine how Canvas calculates the final grade for your course. These percentages can be changed at any time and students will be notified when any changes are made. The weights will show up in the Gradebook for both students and instructors.</p>
+<p>Click the <strong>Save</strong> button [2].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Assignment group weights can include decimals.</li>
+<li>The total percentage of all assignment groups can be set above or below 100%.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

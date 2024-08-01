@@ -1,0 +1,29 @@
+How do I post grades for an assignment in the Gradebook as an instructor
+Open Gradebook
+In Course Navigation, click the Grades link.
+Open Assignment Menu
+Any assignment with hidden grades is indicated by the Visibility icon.
+Hover over the assignment column header and click the Options icon.
+Open Post Grades Tray
+Click the Post grades link.
+View Other Messages
+If student grades are already posted, the Options menu displays that all grades are posted. To hide student grades, click the Hide grades link.
+If there are no grades or comments on the assignment, the Options menu will display that there are no grades to hide or post.
+View Hidden Grades
+The Post Grades tray includes a numbered indicator that displays the total number of hidden grades for the assignment.
+When the Post Grades tray is open, hidden grades are indicated by a Dot icon.
+Ungraded submissions with submission comments do not display the Dot icon unless the grades were previously manually hidden. However, comments will still post to students.
+Select Posting Option
+To post grades and submission comments to all students, click the Everyone option. When the Everyone option is selected, the Visibility icon will be removed from the grades page for all students, including students with ungraded submissions. An assignment notification will also be sent to all students.
+To post grades to students with graded submissions or submissions with comments, click the Graded option. When the Graded option is selected, the Visibility icon will only be removed from the grades page for students with graded submissions or submissions with comments. Assignment notifications will only be sent to students with graded submissions.
+Notes: 
+Grades can only be posted to everyone in anonymous assignments.
+If grades are posted to everyone in an assignment with a manual posting policy, the manual posting policy will become inactive and future grades will be posted automatically.
+Select Sections
+To post grades or comments for specific sections, click the Specific Section button. Then select the sections where you want to post grades.
+Note: You cannot post grades for specific sections in anonymous assignments.
+Post Grades
+To post grades or submission comments, click the Post button.
+View Gradebook
+Assignments with a manual posting policy display a Manual label in the assignment header. If grades were posted to everyone for an assignment with a manual posting policy, future grades will post to students automatically. If grades or comments were posted only to students with graded submissions or submission comments, future grades will be hidden from students and the Visibility icon will display in the assignment header. 
+Assignments with an automatic posting policy do not display a Manual label in the assignment header. Any future graded submissions will display to students.

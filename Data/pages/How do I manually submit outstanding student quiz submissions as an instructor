@@ -1,0 +1,115 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F9A9C700-222C-0135-3067-22000AB760A3" class="text-block-content">
+    <p>When a student views a timed quiz and time expires, Canvas auto-submits the quiz. However, if a student navigates away from the quiz page, the quiz submission remains outstanding. On the <a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-how-do-I-use-the-Moderate-Quiz-page/ta-p/761" target="_blank">Moderate Quiz page</a>, Canvas generates a warning message about the outstanding submission. This lesson shows you how to submit any outstanding submissions for a quiz at one time.</p>
+<p>When students leave an untimed quiz without submitting, their submissions will not be considered outstanding. These submissions will be submitted and considered outstanding after an event occurs that attempts to calculate their quiz grade. These events may include ending of availability dates, deleting or editing the quiz, attempting to view the outstanding submission, and editing an assignment group.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="b75a2c10-f18a-40e3-a228-acf75633cc42">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/756/original/d677bcdc-b69d-4628-a5e6-8a68e19daf24.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F9A9F6E0-222C-0135-3069-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quiz" data-step-uuid="ec1163b8-2396-4b84-96b4-f64252cd8e48">
+    <h2 id="open_quiz" class="step-title screensteps-heading">Open Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/253/255/original/c42c6039-915e-488c-a8f1-b9188eb3102a.png" srcset="" alt="Open Quiz" height="276" width="771">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F9AA2C30-222C-0135-306B-22000AB760A3" class="text-block-content">
+    <p>Click the name of the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="moderate_this_quiz" data-step-uuid="f6a7462a-4ae8-4120-8774-9988b8dbe652">
+    <h2 id="moderate_this_quiz" class="step-title screensteps-heading">Moderate This Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/013/610/original/5e73db9b-f002-4f0d-858c-fa2e6a3fde94.png" srcset="" alt="Add Extra Attempt through Moderate this Quiz" height="226" width="292">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F9AA5C50-222C-0135-306D-22000AB760A3" class="text-block-content">
+    <p>Click the<strong> Moderate This Quiz</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="check_outstanding_quiz_submissions" data-step-uuid="6c8d5218-e745-4261-ba34-e1613ab2e785">
+    <h2 id="check_outstanding_quiz_submissions" class="step-title screensteps-heading">Check Outstanding Quiz Submissions</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/013/613/original/5c093639-8237-420a-9660-02d1c0abb951.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/013/613/medium/5c093639-8237-420a-9660-02d1c0abb951.png" srcset="" alt="Check Outstanding Quiz Submissions" height="320" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F9AA8C50-222C-0135-306F-22000AB760A3" class="text-block-content">
+    <p>At the top of the browser window, click the <strong>Check on outstanding quiz submissions </strong>link.</p>
+<p><strong>Note:</strong> If you do not see the link, there are no outstanding quizzes. If the quiz is untimed, it is only considered outstanding after an event such as the ending of availability dates, deleting or editing the quiz, attempting to view the outstanding submission, and editing an assignment group.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit_quiz_submissions" data-step-uuid="cea79a0d-3569-4af9-ae5e-20ef738ece79">
+    <h2 id="submit_quiz_submissions" class="step-title screensteps-heading">Submit Quiz Submissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/465/original/bf0e89e2-8bc9-49e9-8cda-80526e185f5a.png" srcset="" alt="Submit Quiz Submissions" height="260" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F9AABD60-222C-0135-3071-22000AB760A3" class="text-block-content">
+    <p>To grade outstanding submissions for the selected student(s), click the <strong>Submit</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_updated_submission" data-step-uuid="3a2fc5b5-f1da-445d-8e32-f9d636ad11e5">
+    <h2 id="view_updated_submission" class="step-title screensteps-heading">View Updated Submission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/013/608/original/2885ca16-9247-4d86-8c0f-887a1702cb81.png" srcset="" alt="View Updated Submission" height="308" width="822">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F9AAEBF0-222C-0135-3073-22000AB760A3" class="text-block-content">
+    <p>View the updated submission(s) and score(s). </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

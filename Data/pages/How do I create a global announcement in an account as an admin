@@ -1,0 +1,193 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A08D5210-1D6E-0135-0913-22000B5A851D" class="text-block-content">
+    <p>Global announcements allow you to contact all or specific users within an account or sub-account using one message. For example, if there will be a time period of updating or downtime for the account, you may want to let the users know ahead of time so they can plan accordingly. </p>
+<p>Global announcements are shown from all accounts associated with a user and display in the user's Dashboard. If you select the option to send a notification, users who have enabled the Global Announcement notification preference can also receive alerts for global announcements via their preferred notification type. Global announcements and notifications are only sent to users with active enrollments in the current term.</p>
+<p>If a user has an account with multiple institutions, the user can view multiple announcements. To help differentiate announcements at the account and sub-account levels, the announcement also indicates which account or sub-account sent the global announcement. </p>
+<p>You can create five different types of announcements: warning, error, information, question, or calendar. When a new global announcement is created, information will display as the default announcement type. To learn more about the announcement types and how they appear to users, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Global-Announcement-Types/ta-p/387063" target="_blank">Global Announcement Types resource document</a>.</p>
+<p>Global announcements can be shown during a specific date range. Once an announcement passes its start date, the announcement is immediately visible in each user's dashboard and can be dismissed by the user.</p>
+<p>If necessary, you can also edit the text in a global announcement, such as to fix spelling errors. The start and end dates can also be edited until the actual start or end date for the announcement.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>When users are not enrolled in any courses, they can view announcements from the root account. They can only view sub-account announcements once they have been added to a course within the sub-account. Courses do not have to be published for users to view sub-account announcements.</li>
+<li>The <a href="/t5/Admin-Guide/How-do-I-create-a-theme-for-an-account-using-the-Theme-Editor/ta-p/242" target="_blank">Theme Editor</a> primary color is associated with information, question, and calendar notifications. However, warning and error colors cannot be changed.</li>
+<li>Any edits made to an existing Global Announcement after its start date will not force the message to reappear for users who have already dismissed it. Any substantial changes to the global announcement should be created as a new Global Announcement so that it reappears for all users.</li>
+<li>Global announcements are not displayed to users with manually concluded and inactive enrollments.</li>
+<li>Global announcements display in chronological order, with the newest announcement shown at the top of the page.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="bff1250d-507e-4c8e-bb77-dd61fcdd9532">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A08E2F50-1D6E-0135-0915-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="b8e13f75-b123-4234-b937-a2878575d537">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/280/original/4264b181-c319-43c3-a483-b557ede42228.png" srcset="" alt="Open Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A08FA510-1D6E-0135-0917-22000B5A851D" class="text-block-content">
+    <p>In Account Settings, click the <strong>Settings</strong> link.</p>
+<p><strong>Note: </strong>To make an announcement in a sub-account, click the <strong>Sub-Accounts </strong>link, select a sub-account, then click the sub-account's <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_announcements_tab" data-step-uuid="7AA26C9A-4F84-4D09-9626-86FE4D4F3D5A">
+    <h2 id="find_announcements_tab" class="step-title screensteps-heading">Open Announcements Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/403/239/original/5ef837ff-125f-4c5f-994c-ffb089e73b32.png" srcset="" alt="Open Announcements Tab" height="73" width="766">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A090D5C0-1D6E-0135-0919-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Announcements</strong> tab. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_a_new_announcement" data-step-uuid="859CF548-3856-4001-9909-0626E49F53E6">
+    <h2 id="add_a_new_announcement" class="step-title screensteps-heading">Add New Announcement</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/780/222/original/15bb03e8-cf13-45d4-a724-1f049334d457.png" srcset="" alt="Add New Announcement" height="117" width="370">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A0953A80-1D6E-0135-091B-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add New Announcement</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_announcement_details" data-step-uuid="B871AAF0-7610-4117-B0F9-FCF0FE909453">
+    <h2 id="add_announcement_details" class="step-title screensteps-heading">Add Announcement Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/036/585/original/0aa590f1-9cb7-4734-ab5b-d5a49a6b08e2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/036/585/medium/0aa590f1-9cb7-4734-ab5b-d5a49a6b08e2.png" srcset="" alt="Add Announcement Details" height="592" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A0963500-1D6E-0135-091D-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Title</strong> field [1], type the title of the announcement. </p>
+<p>In the <strong>Announcement type</strong> field [2], set the Announcement type (warning, error, information, question, or calendar). </p>
+<p>In the <strong>Message </strong>field [3], create the announcement using the Rich Content Editor. The Rich Content Editor includes a word count display below the bottom right corner of the text box.</p>
+<p>In the<strong> Show to</strong> section [4], select the roles of users who should see the announcement. You can select both course and account roles. Selecting a role will send a notification to every user who has that role in any course. If no roles are selected, the announcement will display for everyone with a course in the originating account or sub-account.</p>
+<p><strong>Note:</strong> If your institution is associated with a trust account, you can choose to only show the announcement to users within the current domain.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_start_and_end_dates" data-step-uuid="ca52e578-f73f-4608-a5cd-f43dd2a45921">
+    <h2 id="choose_start_and_end_dates" class="step-title screensteps-heading">Choose Start and End Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/982/191/original/1034a68e-302d-4768-96b0-86a9ddbe9baa.png" srcset="" alt="Choose Start and End Dates" height="107" width="695">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A0973070-1D6E-0135-091F-22000B5A851D" class="text-block-content">
+    <p>Choose the start and end dates for the announcement by typing in the fields or selecting the <strong>Calendar</strong> icons (required).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="send-announcement-notification" data-step-uuid="e343fdda-b8ef-4109-9d29-5974a86fc894">
+    <h2 id="send-announcement-notification" class="step-title screensteps-heading">Send Announcement Notification</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/982/193/original/e873c722-211f-4f90-a8f2-df0eaf7a0c05.png" srcset="" alt="Send Announcement Notification" height="51" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5bd8d4b6-2b05-4e27-858c-dec1d04053fd" class="text-block-content">
+    <p>To send a notification directly to users when the announcement starts, click the <strong>Send notification directly to users when announcement starts</strong> checkbox. Users who have enabled the Global Announcement notification preference will receive a notification when the announcement starts.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="publish_announcement" data-step-uuid="6B594F2C-D6B8-4055-931B-AE4D6CD46916">
+    <h2 id="publish_announcement" class="step-title screensteps-heading">Publish Announcement</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/859/original/1a7f4930-c80a-49e1-9004-bf85ddee3185.png" srcset="" alt="Publish Announcement" height="66" width="296">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A097E220-1D6E-0135-0921-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Publish Announcement </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_global_announcement" data-step-uuid="97C45008-466A-491C-947C-43CFB4838DDE">
+    <h2 id="view_global_announcement" class="step-title screensteps-heading">View Global Announcement</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/401/833/original/74c47721-139d-45d9-bd15-fb9d2f7bdfbc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/401/833/medium/74c47721-139d-45d9-bd15-fb9d2f7bdfbc.png" srcset="" alt="View Global Announcement" height="177" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A09849A0-1D6E-0135-0923-22000B5A851D" class="text-block-content">
+    <p>View the global announcement. The announcement includes the name of your account or sub-account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_announcement" data-step-uuid="468b6364-d994-4597-ac75-3d1cec24c644">
+    <h2 id="manage_announcement" class="step-title screensteps-heading">Manage Announcement</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/401/835/original/06861a45-55fb-4a06-9cd7-e0c7bc533baf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/401/835/medium/06861a45-55fb-4a06-9cd7-e0c7bc533baf.png" srcset="" alt="Manage Announcement" height="186" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A0987B80-1D6E-0135-0925-22000B5A851D" class="text-block-content">
+    <p>To copy a global announcement, click the <strong>Duplicate</strong> icon [1]. Edit the announcement details. Then publish the announcement.</p>
+<p>To edit a global announcement, click the <strong>Edit </strong>icon [2]. Edit the announcement details. Then save the changes.</p>
+<p>To delete a global announcement, click the <strong>Delete </strong>icon [3]. Then confirm that you want to delete the announcement.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

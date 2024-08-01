@@ -1,0 +1,78 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_08F5C1A0-6C85-0138-F74C-0A3B69813FB9" class="text-block-content">
+    <p>Permissions can have additional requirements for allowing specific actions. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-title" data-step-uuid="08F5D2D0-6C85-0138-F74D-0A3B69813FB9">
+    <h2 id="step-title" class="step-title screensteps-heading">Review Additional Considerations</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/360/539/original/f2bf8d60-8cb3-42a8-9492-a1ce8fd31688.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/360/539/medium/f2bf8d60-8cb3-42a8-9492-a1ce8fd31688.png" srcset="" alt="Review Additional Considerations" height="543" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_08F5F1E0-6C85-0138-F74F-0A3B69813FB9" class="text-block-content">
+    <p>You can use the <a href="http://bit.ly/cnvs-acct-permissions" target="_blank" rel="nofollow noopener noreferrer">account permissions</a> or <a href="http://bit.ly/cnvs-course-permissions" target="_blank" rel="nofollow noopener noreferrer">course permissions</a> documents to review any additional considerations that specific permissions have.</p>
+<p>Alternatively, Additional Considerations are displayed on the admin permissions page, when you click the title of a permission.</p>
+<p><strong>Note: </strong></p>
+<ul>
+<li>It is recommended you make any changes in the beta or test environments and confirm they match what you expect to prevent users from getting unintended permissions.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="new-permissions-delay" data-step-uuid="2464e036-9e9b-4874-af14-541216cd6e30">
+    <h2 id="new-permissions-delay" class="step-title screensteps-heading">New Permissions Delay</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_48221b8f-a8b2-4f7e-b2e3-246e5f90b86d" class="text-block-content">
+    <p>If you provide new permissions to a role, there is a delay of up to 30 minutes before users with the role will receive it. If you need to confirm a role’s new permissions, there is a method to skip this delay. </p>
+<p><strong>Note: </strong></p>
+<ul>
+<li>Removing permissions does not have this delay and will be unavailable to the user immediately.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="act-as-user" data-step-uuid="03b35bb2-8fdd-4bce-9bf8-7a1678c841ae">
+    <h3 id="act-as-user" class="step-title screensteps-heading">Act As User</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c0849ad1-9599-4831-9fdb-c09712d9a7a6" class="text-block-content">
+    <p>After you’ve added a permission to a role, you will need to act as a user with that newly adjusted role.</p>
+<p>In Account Navigation, click the <strong>People</strong> link, and search for the user.</p>
+<p>Click the name of the user to go to their profile. </p>
+<p>In their profile, click the <strong>Act as User </strong>link.</p>
+<p>As the user, in Global Navigation, click the <strong>Account</strong> link, then the <strong>Settings</strong> link.</p>
+<p>Click the <strong>Edit Settings</strong> button. You can change the language or the time zone. This has the effect of updating their permissions, after which, you can confirm if they have the permissions you are expecting.</p>
+<p>Removing permissions does not have this delay, and will be unavailable to the user immediately.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

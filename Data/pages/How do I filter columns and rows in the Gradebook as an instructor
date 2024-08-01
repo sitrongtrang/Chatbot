@@ -1,0 +1,242 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4a6e2db5-230f-4932-8fdb-e1c46e3cb1cf" class="text-block-content">
+    <p>The Filter menu allows the Gradebook to be filtered by assignment group, section, modules, student groups, assignment status, submission type, grading period (if applicable), and assignment due dates.</p><p>When a filter option is selected, the filter displays at the top of the Gradebook. Multiple filters can be used at the same time.</p><p>Filter options will apply to either Gradebook rows or columns. The option to filter columns affects all assignments within the filter. The options to filter rows affects all students within the filter. You can also <a href="/t5/Instructor-Guide/How-do-I-arrange-columns-in-the-Gradebook/ta-p/1018" target="_blank">arrange columns</a> within filter results.</p>
+  </div>
+</div>
+
+    <div class="html-embed">
+  <iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Canvas Shorts: How do I filter columns and rows in the Gradebook?" src="https://community.instructuremedia.com/embed/2a2b1ab6-0f83-4f48-b761-c4c883198cac" frameborder="0"></iframe>
+</div>
+
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="b82f28dd-7130-433b-9b31-1f64695bc351">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/766/984/original/a0823f10-c825-482a-ac0d-5301316cb74d.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_70e3264d-922f-4d63-9ae9-80ee4b2eecfe" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search-students" data-step-uuid="a0884b0a-fdf5-42ba-b684-e9b3e904d16c">
+    <h2 id="search-students" class="step-title screensteps-heading">Search Students</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/721/401/original/0152fc9e-416c-45d6-9a20-cc8605bd9a3c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/721/401/medium/0152fc9e-416c-45d6-9a20-cc8605bd9a3c.png" srcset="" alt="Search Students" height="126" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_12f788c0-1c18-4231-831b-2351b6351d46" class="text-block-content">
+    <p>By default, the Gradebook shows all active students. To search for students by name or SIS ID, enter your search query in the <strong>Search Students</strong> field. </p>
+<p>The Search Students field allows multiple student names to be filtered at the same time. Selecting a student filters the Gradebook to display only that student's row. If multiple students are selected, rows display for all selected students. Likewise, deselecting a student removes the student's row from the Gradebook view.</p>
+<p>The Search Students field also respects Concluded and Inactive Enrollment options. If the Concluded Enrollment or Inactive Enrollment options are selected as filters, no Concluded or Inactive enrollments display in the Gradebook.</p>
+<p><strong>Note: </strong>Student name search results displays secondary information if more than one student has the same name in the course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search-assignments" data-step-uuid="5d425d33-1276-47a4-9944-73ffabe6f9a6">
+    <h2 id="search-assignments" class="step-title screensteps-heading">Search Assignments</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/721/403/original/4c276ab6-c604-4df6-b399-4261377bde20.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/721/403/medium/4c276ab6-c604-4df6-b399-4261377bde20.png" srcset="" alt="Search Assignments" height="126" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bc713706-0995-42de-a994-323e85dae4d0" class="text-block-content">
+    <p>By default, the Gradebook shows all assignments. To search for assignments, enter an assignment name in the <strong>Search Assignments</strong> field. </p>
+<p>The Search Assignments field allows multiple assignment names to be filtered at the same time. </p>
+<p>Selecting an assignment displays the assignment in a column closest to the student name. If multiple assignments are selected, the assignment columns display in the reverse order they are selected.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-columns" data-step-uuid="c3165234-f609-4952-be1e-9ee4884bb00b">
+    <h2 id="filter-columns" class="step-title screensteps-heading">Filter Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/721/405/original/6d0121e8-901a-453f-b38c-6fe5953bb1a2.png" srcset="" alt="Filter Gradebook" height="431" width="288">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2efb710a-4b56-4a6a-9812-ecaf83ef7d01" class="text-block-content">
+    <p>Click the <strong>Apply Filters</strong> button [1]. Then you can either <a href="/t5/Instructor-Guide/How-do-I-create-and-manage-filters-in-the-Gradebook/ta-p/577028" target="_blank">create and manage filter presets</a> [2] or use the gradebook filters [3]. More than one filter can be applied at any time.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-modules" data-step-uuid="64332d6e-ab04-422c-9ba9-651f4ae90b22">
+    <h2 id="view-modules" class="step-title screensteps-heading">View Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/721/407/original/3e17a0c9-11f1-47cf-b717-0bbc3ca69fd2.png" srcset="" alt="View Modules" height="421" width="530">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3c12a0e1-d0c6-4195-8ffd-3be54951d61e" class="text-block-content">
+    <p>To filter by modules, click the <strong>Modules</strong> option [1]. Then select the module you want to display [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-grading-periods" data-step-uuid="37872983-fa7e-4eb5-be9f-550e0fd6d109">
+    <h2 id="view-grading-periods" class="step-title screensteps-heading">View Grading Periods</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/214/988/original/814b47ed-2b29-4a1c-9912-55fe8aa065c6.png" srcset="" alt="View Grading Periods" height="421" width="553">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e9c94ed1-2d67-4b83-9559-450422b2374a" class="text-block-content">
+    <p>When Multiple Grading Periods are enabled in a course, you can filter the Gradebook by grading period. To filter by grading period, click the <strong>Grading Periods</strong> option [1]. Then select the grading period you want to display [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-assignment-groups" data-step-uuid="f6e80e8d-ad0a-40ff-8791-4143afb9e652">
+    <h2 id="view-assignment-groups" class="step-title screensteps-heading">View Assignment Groups</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/721/413/original/afbff87c-8e9f-492d-a937-f318b7d7e707.png" srcset="" alt="View Assignment Groups" height="421" width="530">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8229080d-1514-4cab-a7ca-72f4d41f665b" class="text-block-content">
+    <p>To filter by assignment group, click the <strong>Assignment Groups</strong> option [1]. Then select the assignment group you want to display [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-sections" data-step-uuid="dfc423cc-fc56-429f-8c50-4bff9e488978">
+    <h2 id="view-sections" class="step-title screensteps-heading">View Sections</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/744/080/original/ee4ff1c6-b7f3-4840-9207-28cce584dbf1.png" srcset="" alt="View Sections" height="457" width="530">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d265823c-601f-469b-8fbd-801c7a2aa73b" class="text-block-content">
+    <p>To filter by section, click the <strong>Sections</strong> option [1]. Then select the section you want to display [2]. Course sections are displayed alphabetically.</p><p><strong>Note:</strong> When a section filter is applied in the Gradebook, SpeedGrader also displays assignment submissions for the same section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-student-groups" data-step-uuid="dd089ed1-68bd-4f59-9595-12e1deb8f950">
+    <h2 id="view-student-groups" class="step-title screensteps-heading">View Student Groups</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/721/421/original/3755eced-da7f-4bac-a04d-1490d106b99a.png" srcset="" alt="View Student Groups" height="457" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7f455dbb-a714-4074-a72e-fcd55f0440c1" class="text-block-content">
+    <p>To filter by student groups, click the <strong>Student Groups</strong> option [1]. Then select the student group you want to display [2].</p><p><strong>Note:</strong> If your course does not include student groups, the Student Groups option is not displayed.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-status" data-step-uuid="3072eb11-62ba-4266-b625-a19f1a902cfe">
+    <h2 id="view-status" class="step-title screensteps-heading">View Status</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/721/424/original/046c313c-ca91-4531-9118-4dc333d7f0f0.png" srcset="" alt="View Status" height="457" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c133c28d-cd48-4a96-ab95-bb21d7ea90ac" class="text-block-content">
+    <p>To filter by status, click the <strong>Status</strong> option [1]. Then select the status you want to display [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-submissions" data-step-uuid="5cdcb3a6-9c0f-4a30-a356-012fcdab9f3c">
+    <h2 id="view-submissions" class="step-title screensteps-heading">View Submissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/721/427/original/da812cb8-6a56-424c-b025-9fb8de021424.png" srcset="" alt="View Submissions" height="457" width="560">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_48f94e1b-6482-48d2-a88d-d07e4f98ce44" class="text-block-content">
+    <p>To filter by submissions, click the <strong>Submissions</strong> option [1]. Then select the type of submissions</p><p> you want to display [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-start-and-end-date" data-step-uuid="51d8d812-ef84-4f5d-a153-a3243ecca607">
+    <h2 id="view-start-and-end-date" class="step-title screensteps-heading">View Start and End Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/744/083/original/3cbb7508-b96d-4e64-ba32-9810b26ddf1c.png" srcset="" alt="View Start and End Date" height="457" width="600">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_22e3c936-b17a-4f85-bd16-003bedd64eb8" class="text-block-content">
+    <p>To filter by start and end date, click the <strong>Start &amp; End Date</strong> option [1]. Then click in the <strong>Start Date</strong> and/or <strong>End Date</strong> fields and select dates [2]. Click the <strong>Apply</strong> button [3]. The Gradebook displays only assignments that have a due date at or beyond the start date and/or at or before the end date.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-filters" data-step-uuid="fb2a24ba-a009-4590-aa23-08ae1b7f28b3">
+    <h2 id="view-filters" class="step-title screensteps-heading">View Filters</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/184/327/original/e96d5b1d-2de3-4eb3-9942-63e40d9996ba.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/184/327/medium/e96d5b1d-2de3-4eb3-9942-63e40d9996ba.png" srcset="" alt="View Filters" height="357" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c8e3f982-d8fa-4043-8202-3df7ab1aa26d" class="text-block-content">
+    <p>View the selected filters [1].</p>
+<p>You can manage selections directly from the filter option by clicking the <strong>filter option</strong> drop-down menu [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="remove-filters" data-step-uuid="807836f4-c8cd-4fda-9802-4c7537bd7740">
+    <h2 id="remove-filters" class="step-title screensteps-heading">Remove Filters</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/184/329/original/b6a6d94c-ab3f-487d-8853-2deb02a23db5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/184/329/medium/b6a6d94c-ab3f-487d-8853-2deb02a23db5.png" srcset="" alt="Remove Filters" height="357" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d66e62e6-46b2-4f99-80e5-7fcff5f32665" class="text-block-content">
+    <p>To remove a filter, click the<strong> filter option</strong> drop-down menu [1] and click the <strong>Remove Filter</strong> option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

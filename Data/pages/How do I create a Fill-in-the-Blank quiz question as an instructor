@@ -1,0 +1,189 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_DB5B8130-2228-0135-D18E-22000AB760A3" class="text-block-content">
+    <p>You can create a single fill-in-the-blank question in your quiz.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="09875128-6D04-4057-A285-CCA2A3BB4219">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/690/original/d31faa23-5ff2-4906-a5b4-ed94d8689b15.png" srcset="" alt="Add Question" height="260" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5BB4F0-2228-0135-D190-22000AB760A3" class="text-block-content">
+    <p>With the <strong>Questions</strong> tab [1] selected inside a new quiz, click the <strong>New Question </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_name_type_and_points" data-step-uuid="20936f42-9206-4594-b6d7-ecd0a6c7ed40">
+    <h2 id="set_name_type_and_points" class="step-title screensteps-heading">Set Name, Type, and Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/694/original/5dec5bfe-9389-46d8-a5b0-148ad8011252.png" srcset="" alt="Set Name, Type, and Points" height="68" width="644">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5BE7D0-2228-0135-D192-22000AB760A3" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field [1]. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+<p>Click the drop-down menu and select the Fill In the Blank question type [2].</p>
+<p>Enter number of points the question is worth (quiz totals are calculated based on combined total of questions) [3].</p>
+<p><strong>Note:</strong> Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_fill_in_the_blank_question_details" data-step-uuid="C5D3E4A2-EA61-49B2-B618-E7FD4447836A">
+    <h2 id="edit_fill_in_the_blank_question_details" class="step-title screensteps-heading">Edit Fill-In-the-Blank Question Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/649/original/3e4f1fe9-805f-4112-91a4-f9cd080ac8e0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/649/medium/3e4f1fe9-805f-4112-91a4-f9cd080ac8e0.png" srcset="" alt="Edit Fill-in-the-Blank Question" height="923" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5C20F0-2228-0135-D194-22000AB760A3" class="text-block-content">
+    <p>To build a Fill-in-the-Blank question, you will need to enter the following details:</p>
+<ul>
+<li>The question text (use the Rich Content Editor to include video, images, math equations, or flash activities) [1]</li>
+<li>Text for the possible answers [2]</li>
+<li>Text for the answer comments under each answer (possible answers are all green and/or at the end of the question) [3]</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_possible_answers" data-step-uuid="3FFBCC89-5E82-4011-987D-EEFAEC1CE3A8">
+    <h2 id="enter_possible_answers" class="step-title screensteps-heading">Enter Possible Answers</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/686/original/88906bbc-52c0-4d6e-9c9d-74ee4f431b15.png" srcset="" alt="Enter Possible Answers" height="124" width="638">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5C5210-2228-0135-D196-22000AB760A3" class="text-block-content">
+    <p>Currently, fill-in-the-blank answers are not case sensitive. The only way a student will get the answer incorrect is if it is left blank or the answer is misspelled. You can click <strong>Add Another Answer</strong> to add as many different versions of the correct answer as possible if you desire. Possible answers are limited to 80 characters.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>In order to receive credit for a correct response, students must enter their answer exactly as it has been entered by the instructor, including any additional spaces in the Possible Answer field.</li>
+<li>If a student does not enter any of the possible answers but still submits a valid response, instructors may need to manually grade the quiz to restore points that they lost.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_feedback_text" data-step-uuid="aebcee2d-a124-4864-875c-815add188ede">
+    <h2 id="enter_feedback_text" class="step-title screensteps-heading">Enter Feedback Text</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/652/original/7b9241b1-1f4c-4be8-98ac-6d6ffdaf09ee.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/652/medium/7b9241b1-1f4c-4be8-98ac-6d6ffdaf09ee.png" srcset="" alt="Enter Feedback Text" height="318" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5C83A0-2228-0135-D198-22000AB760A3" class="text-block-content">
+    <p>You can choose to give students feedback in the answer comments fields. To leave feedback for a specific answer, click the comment field beneath the answer [1]. </p>
+<p>You can also create general answer comments for the quiz question as a whole [2]. Students who select the correct answer will see the feedback in the green comment field. Students who select any incorrect answer will see the feedback in the red comment field. All students will see the feedback in the blue comment field.</p>
+<p><strong>Note:</strong> Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="c3b34402-c547-4c5d-a732-85de332771bd">
+    
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/048/654/original/3b84b0da-b039-4b52-9b58-e6c436aa8dd6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/048/654/medium/3b84b0da-b039-4b52-9b58-e6c436aa8dd6.png" srcset="" alt="Add Answer Comments" height="1073" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5CBB20-2228-0135-D19A-22000AB760A3" class="text-block-content">
+    <p>Each text box can be expanded in size by clicking and dragging the handle at the bottom-right of the text box.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="3813F84B-0890-4BD9-A861-7F61FC18B4AA">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/684/original/4eae831d-4987-40ca-9dc4-d0ac9d28e2fc.png" srcset="" alt="Update Question" height="53" width="216">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5CF410-2228-0135-D19C-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+<p>Add additional <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">individual questions</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_fill_in_the_blank_question" data-step-uuid="EA238CB1-403E-42FE-AF94-BFBD5927A4DD">
+    <h2 id="student_view_for_fill_in_the_blank_question" class="step-title screensteps-heading">Student View for Fill-in-the-Blank Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/688/original/05e717ec-ba69-4754-a428-e4b981daaf6b.png" srcset="" alt="Student View for Fill-in-the-Blank Question" height="229" width="679">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5D3080-2228-0135-D19E-22000AB760A3" class="text-block-content">
+    <p>This is what students see when they encounter a Fill-in-the-blank question in a quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_fill_in_the_blank_feedback_correct_answer" data-step-uuid="E5CB2A0E-9003-4DF6-A2C4-715F968BB526">
+    <h2 id="student_view_for_fill_in_the_blank_feedback_correct_answer" class="step-title screensteps-heading">Student View for Fill-in-the-Blank Feedback Correct Answer</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/692/original/9883b05f-54a9-495b-b825-34b62a2dce05.png" srcset="" alt="Student View for Fill-in-the-Blank Feedback Correct Answer" height="498" width="713">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5D6CB0-2228-0135-D1A0-22000AB760A3" class="text-block-content">
+    <p>Students will see if their answer is correct as indicated by the green flag [1]. If you allow students to see the correct answers, they will see all of the potentially correct responses (if any) indicated by the gray flag [2] after submitting the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_fill_in_the_blank_feedback_incorrect_answer" data-step-uuid="ECD0E128-633A-46EF-862F-DEC03436FA81">
+    <h2 id="student_view_for_fill_in_the_blank_feedback_incorrect_answer" class="step-title screensteps-heading">Student View for Fill-in-the-Blank Feedback Incorrect Answer</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/698/original/6d4e12d3-a5a9-4bd0-add4-cde7653e1bb3.png" srcset="" alt="Student View for Fill-in-the-Blank Feedback Incorrect Answer" height="440" width="708">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB5D9F60-2228-0135-D1A2-22000AB760A3" class="text-block-content">
+    <p>Students will see if their answer is incorrect as indicated by the red flag [1]. If you allow students to see the correct answers, they will see all of the potentially correct responses indicated by the gray flag [2] after submitting the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

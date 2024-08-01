@@ -1,0 +1,153 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_d2a99bc3-2c54-4ba0-92c5-2d4be6b3408b" class="text-block-content">
+    <p>As an instructor, you can copy a module item in a course directly into another course in which you are enrolled. You can also <a href="/t5/Instructor-Guide/How-do-I-send-a-module-item-to-another-instructor/ta-p/398243" target="_blank">send a module item to other instructors at your institution</a> as well as <a href="/t5/Instructor-Guide/How-do-I-copy-a-module-to-another-course/ta-p/398242" target="_blank">copy an entire course module into another course</a>. When you copy a module item, any assets within that module item (images, files, etc.) will be included in your module item copy. </p>
+<p><strong>Notes:  </strong></p>
+<ul>
+<li>To share course content, you must have the Course Content - add / edit / delete permission enabled.</li>
+<li>Shared content does not count against course or user quotas.</li>
+<li>If you copy the same module item to the same course more than once, the module item you previously copied will be overwritten with the newly copied module item.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-modules" data-step-uuid="75a673ff-ae6a-4069-bbbd-817cc550ed48">
+    <h2 id="open-modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/617/original/41c2b967-4d02-4506-984f-f1a02a32e7fc.png" srcset="" alt="Open Modules" height="229" width="153">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_affcafcb-17e2-4ef3-9783-c9cf3ba170b9" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-module-options" data-step-uuid="8458ac22-4d01-498a-99f0-2c6762d1e13c">
+    <h2 id="open-module-options" class="step-title screensteps-heading">Open Module Item Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/352/146/original/b5755529-7426-4bcb-9e57-7a1ff64630e3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/352/146/medium/b5755529-7426-4bcb-9e57-7a1ff64630e3.png" srcset="" alt="Open Module Item Options" height="400" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0b6f236b-8475-415b-b4d0-a423d43e4a2d" class="text-block-content">
+    <p>Locate the module item you wish to copy and click the <strong>Options </strong>icon [1]. Select the <strong>Copy To... </strong>option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-course" data-step-uuid="f307e00d-bc9b-4297-8147-7369ee325bd3">
+    <h2 id="select-course" class="step-title screensteps-heading">Select Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/162/898/original/4044a64a-b452-4757-a650-d051f548ad28.png" srcset="" alt="Select Course" height="316" width="350">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8a365d3e-8148-41d6-9afa-6cf3239a03cf" class="text-block-content">
+    <p>Enter the course code or course name in the <strong>Select a Course</strong> field [1]. </p>
+<p>Search results are sorted by term, with the default term first, followed by most recent term start date. Results for each term are sorted alphabetically and display the course name [2], course code [3], and term name [4].</p>
+<p>Select the course into which you want to copy the module item [5].</p>
+<p><strong>Note: </strong>The Select a Course drop-down menu only displays courses in which you have an active or future enrollment. Module items cannot be copied to a concluded course.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-content-import-warning-message" data-step-uuid="821e7bc6-3d3a-400b-8e30-5ea4c23ebebf">
+    <h3 id="view-content-import-warning-message" class="step-title screensteps-heading">View Copy To Content Warning Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/938/119/original/123a515c-835b-4bf9-8f4a-c16250aca2ff.png" srcset="" alt="View Copy To Content Warning Message" height="167" width="317">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_95796d9b-14fc-4eda-a586-84e35d0a568c" class="text-block-content">
+    <p>When copying content, a message displays explaining that importing the same course content more than once overwrites any existing content in the course.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-location" data-step-uuid="a8ea2edc-cb36-45e3-9491-fc3c905b2cdd">
+    <h3 id="select-location" class="step-title screensteps-heading">Select Location</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/623/original/4c3449b1-37be-4a97-8d35-0c31eee51c54.png" srcset="" alt="Select Location" height="413" width="330">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d5c29887-45f6-47e5-9db9-acc9917ea07b" class="text-block-content">
+    <p>You can copy the module item into a specific module and location within a course. </p>
+<p>Click or type a module name in the <strong>Select a Module </strong>field [1]. Then select the module for the copied module item.</p>
+<p>To select a location within the module, click the <strong>Place </strong>drop-down menu [2]. You can select to copy the module item to the top of the module, before or after a specific module item, or at the bottom of a module.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="copy-assignment" data-step-uuid="1211038c-88ff-4897-b52b-5200066105e7">
+    <h2 id="copy-assignment" class="step-title screensteps-heading">Copy Module Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/691/258/original/a4666ee8-6c33-40ca-ba95-6fb3e2aa7232.png" srcset="" alt="Copy Module Item" height="61" width="187">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4aca5c42-b478-41bf-96cf-e62816d20e51" class="text-block-content">
+    <p>Click the <strong>Copy</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-copy-notification" data-step-uuid="c81c76cd-d8a0-49b6-9842-72da24439852">
+    <h2 id="view-copy-notification" class="step-title screensteps-heading">View Copy Notification</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/685/627/original/5b7475b7-b0db-47e3-b8ea-b97db9d87677.png" srcset="" alt="View Copy Notification" height="523" width="320">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ab1b19fd-61d6-4a21-956d-7a94d356f529" class="text-block-content">
+    <p>Canvas displays a notification when the module item copies successfully [1]. </p>
+<p>When finished, click the <strong>Close</strong> icon [2] or the <strong>Close</strong> button [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-copied-assignment" data-step-uuid="9a01eea5-0e5c-406e-8450-7f911c82a5d8">
+    <h2 id="view-copied-assignment" class="step-title screensteps-heading">View Copied Module Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/352/149/original/c4d1fe1a-0741-449c-bcc6-9e5a0f70e22f.png" srcset="" alt="View Copied Module Item" height="282" width="849">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_659b7ca8-656a-452f-878a-32c9d24987c0" class="text-block-content">
+    <p>The copied module item displays on the Modules Index Page for the course into which it copied.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

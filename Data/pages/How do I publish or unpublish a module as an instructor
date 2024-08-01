@@ -1,0 +1,122 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1174E190-2207-0135-3E05-22000AB760A3" class="text-block-content">
+    <p>As an instructor, you can publish or unpublish a module in a course. Unpublished modules are invisible to students. </p>
+<p>Modules control the entire flow of your course and its content. When you add items to a Module, please be aware that an unpublished module overrides the state of individual module items. </p>
+<p>For instance, if you add a published Discussion to an unpublished Module, students cannot view the Discussion on the Modules page. However, they will still be able to see the Discussion in other areas of Canvas, such as the Syllabus and the Calendar, but they will not be able to open or participate in the Discussion. Please be aware of these potential scenarios when adding course content to a Module.</p>
+<p>Modules also supports publishing or unpublishing files, in addition to setting a file as restricted. The restricted status applies to files only and can hide files from students. However, please be aware that restricted files may still be visible to students when they are added to modules. Learn more about <a href="/t5/Instructor-Guide/How-do-I-restrict-files-and-folders-to-students-in-Canvas/ta-p/610" target="_blank">restricting files in Canvas</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="9db57efd-c67d-44be-9394-48663a5872bd">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/331/original/88cc5308-05ed-468e-b484-22ee31a7a3af.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11751480-2207-0135-3E07-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_status_of_all_modules" data-step-uuid="fbf18cf2-13ce-4711-b8f7-d9c903d95241">
+    <h2 id="view_status_of_all_modules" class="step-title screensteps-heading">View Status of All Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/399/571/original/4b731b47-fecc-492b-8354-8a68af0b2e5e.png" srcset="" alt="View Status of All Modules" height="222" width="852">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_117545F0-2207-0135-3E09-22000AB760A3" class="text-block-content">
+    <p>On the Index page, you can view the state of each module. Green icons indicate the module is published [1]. Gray icons indicate unpublished modules [2]. You can change the status of a module by using the module's publishing drop-down menu.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="publish_a_module" data-step-uuid="47906b9f-eefb-4c3f-963c-ec28d45fa396">
+    <h3 id="publish_a_module" class="step-title screensteps-heading">Publish a Module</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/077/927/original/c2cf3b10-48e2-4b2f-a99e-fcc83051214c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/077/927/medium/c2cf3b10-48e2-4b2f-a99e-fcc83051214c.png" srcset="" alt="Publish a Module" height="197" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11757C50-2207-0135-3E0B-22000AB760A3" class="text-block-content">
+    <p>To publish a module, click the module's publishing drop-down menu [1]. To bulk publish the entire module and all its items, click the <strong>Publish module and all items</strong> option [2]. To only publish the module and not the module items, click the <strong>Publish module only </strong>option [3].</p>
+<p><strong>Note:</strong> Bulk publishing files in a module is only available when File Copyright is enabled and usage rights are set or disabled in a course.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unpublish_a_module" data-step-uuid="03443ced-3ada-4ea3-b073-d0f3fd970bdd">
+    <h3 id="unpublish_a_module" class="step-title screensteps-heading">Unpublish a Module</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/077/929/original/bbc014c8-2a7f-4308-a7a7-5a5ca0e940fe.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/077/929/medium/bbc014c8-2a7f-4308-a7a7-5a5ca0e940fe.png" srcset="" alt="Unpublish a Module" height="194" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1175AD90-2207-0135-3E0D-22000AB760A3" class="text-block-content">
+    <p>To unpublish a module and all its items, click the module's publishing drop-down menu [1] and click the <strong>Unpublish module and all items</strong> option [2]. To only unpublish the module and not the module items, click the<strong> Unpublish module only </strong>option [3].</p>
+<p><strong>Note: </strong>Bulk unpublish is not available for any files within a module.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="change_status_of_module_content_items" data-step-uuid="68b9ae1b-86c8-4d5d-a363-3b6b73e5eca8">
+    <h3 id="change_status_of_module_content_items" class="step-title screensteps-heading">Change Status of Module Content Items</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/255/128/original/2455ab49-85ab-4ec2-8c5e-c113fd719af9.png" srcset="" alt="Change Status of Module Content Items" height="166" width="94">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1175DF40-2207-0135-3E0F-22000AB760A3" class="text-block-content">
+    <p>You can view and change the status of individual module content items as well. Although publishing a module will also publish all module items, you can manually unpublish individual module items later. Students cannot view unpublished module items as part of a published module. Learn more about managing <a href="/t5/Instructor-Guide/How-do-I-use-the-Assignments-Index-Page/ta-p/777" target="_blank">assignments</a>, <a href="/t5/Instructor-Guide/How-do-I-use-the-Quizzes-Index-Page/ta-p/1104" target="_blank">quizzes,</a> <a href="/t5/Instructor-Guide/How-do-I-use-the-Discussions-Index-Page/ta-p/886" target="_blank">discussions</a>, <a href="/t5/Instructor-Guide/How-do-I-use-the-Pages-Index-Page/ta-p/1005" target="_blank">pages,</a> and <a href="/t5/Instructor-Guide/How-do-I-use-Files-as-an-instructor/ta-p/929" target="_blank">files</a>. </p>
+<p>If you add a restricted file as a module content item, restricted files appear with a lock icon. Restricted files act as published files and can be viewed by students (depending on the restriction setting). Learn more about <a href="/t5/Instructor-Guide/How-do-I-restrict-files-and-folders-to-students-in-Canvas/ta-p/610" target="_blank">restricting files in Canvas</a>.</p>
+<p><strong>Note: </strong>Please be aware that an unpublished module overrides the state of individual module items. If an item is published within an unpublished module, students cannot view the item on the Modules page but they can still view the published items in other areas of Canvas. However, they will not be able to interact with the item until the module is published.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modules_student_view" data-step-uuid="4806febb-5067-4784-9584-79dfad278ff5">
+    <h2 id="modules_student_view" class="step-title screensteps-heading">Modules Student View</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/167/350/original/88fb6d4d-4950-4a33-a5f9-688ef66c64ce.png" srcset="" alt="Modules Student View" height="365" width="831">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_11761190-2207-0135-3E11-22000AB760A3" class="text-block-content">
+    <p>Students cannot see any of the actions involved with published status, such as published and unpublished icons and setting icons. Students will only see published modules and available module content items, which are displayed in gray text.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

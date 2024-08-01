@@ -1,0 +1,64 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_F71442F0-6C81-0138-F741-0A3B69813FB9" class="text-block-content">
+    <p>SIS Import files need to meet specific formatting requirements to import successfully. You may encounter certain error messages or other obstacles in completing your import. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="step-title" data-step-uuid="F7145540-6C81-0138-F742-0A3B69813FB9">
+    <h2 id="step-title" class="step-title screensteps-heading">Review Error Messages</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/373/922/original/c9f3fd86-de77-46e5-987a-a311586763b1.png" srcset="" alt="Review Error Messages" height="509" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_F71478C0-6C81-0138-F744-0A3B69813FB9" class="text-block-content">
+    <p>If you find a file has failed, review any error messages that are available to you on the SIS Imports page. You may find that the file itself had an error message, or that particular lines in the file failed, under the Last Batch section. </p>
+<p><strong>Note:</strong> Certain error messages require you to contact support to review.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="review-csv-header-formatting" data-step-uuid="91cba341-441f-4492-9d9d-3067949552c3">
+    <h2 id="review-csv-header-formatting" class="step-title screensteps-heading">Review CSV Header Formatting</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f05bec97-634f-426e-8dbf-6ad4a76862ca" class="text-block-content">
+    <p>The CSV requires specific formatting to upload properly. In particular, you will want to review the CSV headers. </p>
+<p>For more information about <a href="https://community.canvaslms.com/docs/DOC-12585-4214164118" target="_blank">formatting CSV files</a>, visit the Canvas Guides.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-csv-is-utf-8-encoded" data-step-uuid="bdb28a0e-a6b0-4954-9146-1bdc341fa63c">
+    <h2 id="confirm-csv-is-utf-8-encoded" class="step-title screensteps-heading">Confirm CSV is UTF-8 Encoded</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1ecd7e37-9a5f-4f5a-adcf-9f0b9b40cf0b" class="text-block-content">
+    <p>SIS Imports CSVs are required to be encoded in UTF-8 without byte order mark. Most applications will automatically encode for UTF-8, though some programs, such as Microsoft Excel, will change to an alternate encoding.</p>
+<p>If your software is capable of encoding files out of UTF-8, you should be able to specifically select UTF-8 as an option when saving. The exact steps of this process will depend on the application. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

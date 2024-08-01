@@ -1,0 +1,25 @@
+How do I use the Canvas App Center in an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click Settings link.
+Open Apps
+Click the Apps tab.
+View App Center
+The App Center shows all apps available in your account. You can also filter by installed and not installed, or use the search field to locate a specific app. 
+View App
+To view a quick description of an app, hover over the app. To view all details, click the app. 
+View App Details
+On the details page, you can view a description of the app. When you are ready to install the app with the proper credentials, you can add the app as a tool for your course.
+Note: The Canvas App Center does not always contain all the information about an app. You may want to visit the Edu App Center for complete information about the external app you want to configure.
+Manage App List
+To manage your Edu App Center whitelist in Canvas, click the Manage App List button. The access token syncs the External Apps list at both the account and course levels to only show allowed apps from the Edu App Center set up for the organization. 
+View App Configurations
+To view existing apps and configurations in your course, click the View App Configurations button.
+Manage Apps
+To view configurations for an external app, click the app's Settings icon. To edit the app, click the Edit link. To view placements for the app, click the Placements link. To Delete the app, click the Delete link.
+To add an external app to the Rich Content Editor toolbar, click the Add to RCE toolbar toggle.
+Note: At the course level, any apps added at the account level display a lock icon and cannot be edited. 
+View App Placements
+App Placements shows the places in Canvas where your app can be used, including navigation menus, LTI assignments, Rich Content Editor buttons, and module links. You can manage external app placements for your account.
+Note: You may see a No Placements Enabled message. This message indicates that the app does not have any specified placements within Canvas. However, the app will still work as intended.

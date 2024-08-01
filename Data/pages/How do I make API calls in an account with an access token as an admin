@@ -1,0 +1,74 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_B1A85CF0-1CA8-0135-60DF-22000AB760A3" class="text-block-content">
+    <p>If you have <a href="/t5/Admin-Guide/How-do-I-manage-API-access-tokens-as-an-admin/ta-p/89" target="_blank">generated an API access token</a>, you can use it to make API calls.</p>
+<p>Canvas tokens align with Canvas permissions. If your Canvas account is deleted or if you are no longer an administrator, your tokens will also be revoked.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="option_one_make_a_call_over_https" data-step-uuid="CF45424F-9279-4551-9697-82683535158D">
+    <h2 id="option_one_make_a_call_over_https" class="step-title screensteps-heading">Option One: Make A Call Over HTTPS</h2>
+      <div class="html-embed">
+  <pre style="border: 1px solid black">
+
+GET /api/v1/courses.json
+
+</pre>
+</div>
+
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A8D0D0-1CA8-0135-60E1-22000AB760A3" class="text-block-content">
+    <p>All API calls must also be made over HTTPS. The access token must be included as a URL query parameter in any API calls made to Canvas. For example, the endpoint to grab the user's list of courses is:</p>
+<ul>
+<li><em>GET /api/v1/courses.json</em></li>
+</ul>
+<p>To retrieve Bob's list of course and if Bob's access token were "token_of_magical_power" then you would call</p>
+<ul>
+<li><em>GET /api/v1/courses.json?access_token=token_of_magical_powers</em></li>
+</ul>
+<p>For a detailed example of using the API, check out the <a href="https://canvas.instructure.com/doc/api/index.html" target="_blank" rel="nofollow noopener noreferrer">API basics documentation</a> on github.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="option_two_make_a_call_using_a_request_header" data-step-uuid="32D04839-7995-4021-A3C5-E8B0E4929627">
+    <h2 id="option_two_make_a_call_using_a_request_header" class="step-title screensteps-heading">Option Two: Make A Call Using A Request Header</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/257/original/media_1344363013632.png" srcset="" alt="Option Two: Make A Call Using A Request Header" height="104" width="808">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B1A99550-1CA8-0135-60E3-22000AB760A3" class="text-block-content">
+    <p>The other way to make an API call with an access token is to add it to the request header.  If using curl (a command line program that can be used for running API requests) you would specify the access token like this.  </p>
+<ul>
+<li><em>curl -H "Authorization: Bearer &lt;token&gt;" 'https://&lt;canvas&gt;/api/v1/accounts/&lt;account_id&gt;/courses.json'</em></li>
+</ul>
+<p>Notice that the access_token is not in the URL at all.</p>
+<p>See the example on the <a href="https://canvas.instructure.com/doc/api/file.oauth.html" target="_blank" rel="nofollow noopener noreferrer">API documentation site</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

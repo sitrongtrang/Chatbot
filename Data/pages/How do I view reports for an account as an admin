@@ -1,0 +1,254 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E0998280-1240-0135-8ED0-22000BC102FE" class="text-block-content">
+    <p>Account-level admins have access to Canvas reports that can be used to review account data. Canvas includes a set of default reports, though other customized reports may be included for your institution. Learn about report configurations in the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Default-Account-Reports/ta-p/387054" target="_blank">Canvas Default Account Reports resource document</a>. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="869c2736-c6eb-49ad-9362-4df2d06f3960">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E099BCA0-1240-0135-8ED2-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the<strong> Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="7D7C4E62-875A-496B-A5FB-DFA9536ED1D2">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/446/original/dd7a6190-cecb-497c-8eb7-1fa7d3aa7ccd.png" srcset="" alt="Open Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E099F1C0-1240-0135-8ED4-22000BC102FE" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_reports" data-step-uuid="05B15C5D-1B6F-409D-938F-5B7C68BD64C5">
+    <h2 id="open_reports" class="step-title screensteps-heading">Open Reports</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/274/444/original/795cd72b-e879-429d-8c91-be69a64a915e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/274/444/medium/795cd72b-e879-429d-8c91-be69a64a915e.png" srcset="" alt="Open Reports" height="50" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09A2FC0-1240-0135-8ED6-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Reports</strong> tab. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_reports" data-step-uuid="dfe5d6ec-a3e5-4f38-b20b-ee6b096a2f3b">
+    <h2 id="view_reports" class="step-title screensteps-heading">View Reports</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/274/446/original/5f0b544e-6008-4c69-9ede-4e91c5daba33.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/274/446/medium/5f0b544e-6008-4c69-9ede-4e91c5daba33.png" srcset="" alt="View Reports" height="294" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09A9870-1240-0135-8ED8-22000BC102FE" class="text-block-content">
+    <p>The Reports page shows all available reports. Each report includes the name [1] and a help icon that explains more about the report [2]. You can also view the last time the report was run, if any [3]. </p>
+<p><strong>Note:</strong> The Last Run report displays in the language of the user who last ran the report.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configure_reports" data-step-uuid="4e24b085-4e27-42f9-ae06-3fee56c03a13">
+    <h2 id="configure_reports" class="step-title screensteps-heading">Configure Reports</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/274/448/original/912d33f9-3769-4865-a53c-340c40454f66.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/274/448/medium/912d33f9-3769-4865-a53c-340c40454f66.png" srcset="" alt="Configure Reports" height="196" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09AFC00-1240-0135-8EDC-22000BC102FE" class="text-block-content">
+    <p>Most reports must be configured before they can be run. To configure a report, click the <strong>Configure </strong>button.</p>
+<p>Depending on the report, report configurations may include one or several options.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_terms" data-step-uuid="14426f38-cac5-4554-9458-b1a43355327b">
+    <h3 id="select_terms" class="step-title screensteps-heading">Select Term</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/435/original/ce49f4df-8daf-4c51-81ac-8bb913a20f02.png" srcset="" alt="Select Terms" height="214" width="401">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09B2CD0-1240-0135-8EDE-22000BC102FE" class="text-block-content">
+    <p>All reports except the LTI Report, Outcome Export, and User Access Tokens reports require you to select a term. In the <strong>Term </strong>drop-down menu [1], you can choose from the Default Term, or any active, future, or past terms. Courses with hidden assignments may not accurately reflect scores in this report.</p>
+<p>The Grade Export, Last User Access, Student Competency, LTI Report, and User Access Tokens reports include the option to include deleted objects. Deleted objects may include deleted courses, users, or enrollments. To include deleted objects, click the <strong>Include Deleted Objects</strong> checkbox [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_report_order" data-step-uuid="4af3d0f5-3f4c-4354-8c24-05e2d6499527">
+    <h3 id="select_report_order" class="step-title screensteps-heading">Select Report Order</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/144/987/original/f7f5499a-6f79-4113-9020-128033afd444.png" srcset="" alt="Select Report Order" height="360" width="407">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09BF6D0-1240-0135-8EE0-22000BC102FE" class="text-block-content">
+    <p>The Outcome Results report allows you to choose how to order the report. Ordering options are by Users, Courses, or Outcomes. By default, the report orders by Users. Select the radio button for your preferred report order. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_csv_files" data-step-uuid="9F5FAD25-A172-42BD-ABC5-52B1AB57A2E6">
+    <h3 id="select_csv_files" class="step-title screensteps-heading">Select CSV Files</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/218/252/original/3f4bc838-81ef-4b64-a1c6-be2596c295c9.png" srcset="" alt="Select CSV Files" height="621" width="404">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09C2760-1240-0135-8EE2-22000BC102FE" class="text-block-content">
+    <p>The Provisioning and SIS Export reports ask you to select the CSV files you want to generate for a selected term [1]. Select the checkboxes next to the files you want to generate. Files can be generated for Users, Accounts, Terms, Courses, Sections, Enrollments, Groups, Group memberships, Group categories, Cross-listing (X list), User Observers, and Admins. </p>
+<p>If you want to only view data created by your SIS, select the <strong>Created by SIS </strong>checkbox [2]. Otherwise, the CSV files display all data created in your Canvas account, including information created by SIS and through the interface.</p>
+<p>To include concluded courses or deleted objects in the report, click the <strong>Include Deleted Objects</strong> checkbox [3].</p>
+<p><strong>Note</strong>: The selected term only impacts Courses, Sections, Enrollments, and Cross-listing CSV files.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_dates_and_enrollment_state" data-step-uuid="3339337a-a69e-4174-a908-0a92d91882aa">
+    <h3 id="select_dates_and_enrollment_state" class="step-title screensteps-heading">Select Dates and Enrollment State</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/421/original/44fd9045-20d2-446f-8bcd-aac8c9234d73.png" srcset="" alt="Select Dates and Enrollment State" height="398" width="407">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09C67C0-1240-0135-8EE4-22000BC102FE" class="text-block-content">
+    <p>The Students with no Submissions report asks you to select a start date [1] and end date [2] for the report. You can either select a date by clicking each respective date's calendar icon, or you can enter the date directly in the date field. </p>
+<p>You may also choose to include the enrollment state in the report by clicking the <strong>Include Enrollment State</strong> checkbox [3]. In the Enrollment State drop-down menu [4], select all enrollments or only active enrollments. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_start_date" data-step-uuid="8758bda3-1a23-4f6f-9c62-11a43f47586d">
+    <h3 id="select_start_date" class="step-title screensteps-heading">Select Start Date</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/423/original/ac8c408a-710c-4070-acd3-aa9da609a117.png" srcset="" alt="Select Start Date" height="251" width="403">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09CA730-1240-0135-8EE6-22000BC102FE" class="text-block-content">
+    <p>The User Course Access Log and Zero Activity reports ask you to select a start date for the report. You can either select a date by clicking the calendar icon, or you can enter the date directly in the date field. </p>
+<p><strong>Note:</strong> A maximum of two years' data will be retrieved in the User Course Access Log report. If a user had access to a course over two years prior, a message displays but details cannot be provided.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-enrollment-type" data-step-uuid="beb8453c-423a-4b81-80c7-508376ce829d">
+    <h3 id="select-enrollment-type" class="step-title screensteps-heading">Select Enrollment Type</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/341/353/original/98d429da-7d33-4f81-9336-700f44ca4a46.png" srcset="" alt="Select Enrollment Type" height="318" width="408">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a96fbd17-e337-47d7-ac5e-3af6788d7d19" class="text-block-content">
+    <p>The User Course Access Log report allows you to choose to include all or individual enrollment types. In the Enrollment Type drop-down menu, select all enrollments, student enrollments, teacher enrollments, TA enrollments, observer enrollments, or designer enrollments.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-nbsp-course-scores" data-step-uuid="6980dc1a-4a61-49f5-b947-a9e31ba61b3a">
+    <h3 id="select-nbsp-course-scores" class="step-title screensteps-heading">Select  Course Scores</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/802/571/original/4865c81c-8fdf-4e5b-9168-011b8ae5caa3.png" srcset="" alt="Select Course Scores" height="292" width="408">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dfb43ccc-f6c3-403b-bf56-510104875e7e" class="text-block-content">
+    <p>The SIS Submission Report allows you to include course scores. Click the <strong>Include course scores</strong> checkbox. By default, the SIS Submission Report does not include course scores.</p>
+<p><strong>Note: </strong>The SIS Submission Report may only display for institutions that have authenticated Canvas to post grades to their SIS.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="filter-eportfolio-data" data-step-uuid="a1f69435-54f3-438c-a54c-e464339caf73">
+    <h3 id="filter-eportfolio-data" class="step-title screensteps-heading">Filter ePortfolio Data</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/210/236/original/8a0860f9-0044-44fa-8f94-5ddfb84cffc4.png" srcset="" alt="Filter ePortfolio Data" height="185" width="438">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f111fc5c-821b-4c95-b711-cbb51e9f995d" class="text-block-content">
+    <p>The ePortfolio Report allows you to filter the data displayed in the report.</p>
+<p>To only display ePortfolios from users without enrollments in your Canvas account, click the <strong>Only include ePortfolios from users with no enrollments</strong> checkbox [1].</p>
+<p>To only display removed ePortfolios, click the <strong>Only include ePortfolios that have been removed</strong> checkbox [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="run_report" data-step-uuid="f3f84d05-9b5d-4db1-a54a-c5a19d82283f">
+    <h3 id="run_report" class="step-title screensteps-heading">Run Report</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/425/original/c82108d4-dc82-4a3b-aaf3-19ed3ad3d42d.png" srcset="" alt="Run Report" height="214" width="401">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09D19A0-1240-0135-8EE8-22000BC102FE" class="text-block-content">
+    <p>When you have finished configuring a report, click the <strong>Run Report </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_report" data-step-uuid="5a20f92e-6819-4c5a-bd14-ab88e11ebf9d">
+    <h2 id="download_report" class="step-title screensteps-heading">Download Report</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/274/450/original/339947cb-629e-4782-923c-7dc8c06a13a6.png" srcset="" alt="Download Report" height="62" width="831">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E09D49B0-1240-0135-8EEA-22000BC102FE" class="text-block-content">
+    <p>When a report is complete and is available for download, click the <strong>Download </strong>icon. The file will download to your computer. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

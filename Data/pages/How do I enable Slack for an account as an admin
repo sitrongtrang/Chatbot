@@ -1,0 +1,207 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_4f3ebcb0-77c3-4bf5-9a00-72764b25482d" class="text-block-content">
+    <p>To enable Canvas notifications for all users within a Slack workspace, a user with Slack admin rights must create and install the Slack app to create a Bot Access Token. After the bot is created and verified, individual Canvas users can enable Slack as a Canvas contact method to receive notifications.</p>
+<p><strong>Note: </strong>Child consortium accounts cannot manage Slack settings.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-slack-apps" data-step-uuid="5e7b7c72-f3d1-44dc-8c9b-e036aee00338">
+    <h2 id="open-slack-apps" class="step-title screensteps-heading">Open Slack Apps</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/346/342/original/e12054b5-69d7-4d6c-b624-7a8d1e9fe253.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/346/342/medium/e12054b5-69d7-4d6c-b624-7a8d1e9fe253.png" srcset="" alt="Open Slack Apps" height="225" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_63618add-6a2a-4481-8718-cd0625eee2d8" class="text-block-content">
+    <p>Open <a href="https://api.slack.com/apps" target="_blank" rel="nofollow noopener noreferrer">api.slack.com/apps</a> in your internet browser. </p>
+<p>If necessary, log in to your Slack account. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-new-slack-app" data-step-uuid="f8ec683b-8452-49ce-9004-3b962badf16f">
+    <h2 id="create-new-slack-app" class="step-title screensteps-heading">Create New Slack App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/346/344/original/9030c8c1-a58c-4482-afbe-d9fadc36f2a4.png" srcset="" alt="Create New Slack App" height="517" width="537">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e230e5a5-16f2-4d78-9d5d-0e18df1f6bae" class="text-block-content">
+    <p>Click the <strong>Create New App</strong> button [1]. </p>
+<p>Give the app a name in the <strong>App Name</strong> field [2]. The app name will display to users in the Slack workspace. </p>
+<p>Select your institution's workspace or the workspace the app should belong to in the <strong>Development Slack Workspace</strong> drop-down [3].</p>
+<p>To create the app, click the <strong>Create App</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-oauth-scope" data-step-uuid="087d9df6-50c6-418a-9ae3-038c6cf41391">
+    <h2 id="add-oauth-scope" class="step-title screensteps-heading">Add OAuth Scope </h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/549/950/original/53238367-47ed-49de-91ee-b5a85d165652.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/549/950/medium/53238367-47ed-49de-91ee-b5a85d165652.png" srcset="" alt="Add OAuth Scope " height="511" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7da0b4b1-1e16-4ba1-9662-91b0b749e6b6" class="text-block-content">
+    <p>Open the <strong>OAuth &amp; Permissions</strong> page [1]. </p>
+<p>In the <strong>Scopes</strong> section [2], click the <strong>Add an OAuth Scope </strong>button [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-scopes" data-step-uuid="d0d9bf52-9af0-4159-880a-a6c65140837b">
+    <h3 id="select-scopes" class="step-title screensteps-heading">Select Scopes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/549/954/original/7367ff5e-4868-4b1d-95f9-097519ef75f2.png" srcset="" alt="Select Scopes" height="850" width="656">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_599389ee-c224-41cf-9f7d-7532988788a8" class="text-block-content">
+    <p>Click the <strong>Add permission by Scope or API method</strong> drop-down menu [1] and select the following OAuth scope options:</p>
+<ul>
+<li>
+<strong>channels:manage</strong> [2]: Manage public channels that your Slack app has been added to and create new ones</li>
+<li>
+<strong>chat:write</strong> [3]: Send messages as your Slack app</li>
+<li>
+<strong>groups:write</strong> [4]: Manage private channels that your Slack app has been added to and create new ones</li>
+<li>
+<strong>im:write</strong> [5]: Start direct messages with people</li>
+<li>
+<strong>mpim:write</strong> [6]: Start group direct messages with people</li>
+<li>
+<strong>users:read</strong> [7]: View people in the workspace</li>
+<li>
+<strong>users:read.email</strong> [8]: View email addresses of people in the workspace</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="install-app" data-step-uuid="f3f05447-3586-4323-a521-823df7cb268e">
+    <h2 id="install-app" class="step-title screensteps-heading">Install App </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/346/354/original/b8d4f8ab-15c7-476c-be96-b531f42568c3.png" srcset="" alt="Install App" height="508" width="808">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_88f0d581-8772-4bd5-bccd-f9e22af6575f" class="text-block-content">
+    <p>To save and install the app, click the <strong>Install App to Workspace</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="allow-app-workspace-access" data-step-uuid="2505399f-cdbc-4042-be9d-debad899a41c">
+    <h3 id="allow-app-workspace-access" class="step-title screensteps-heading">Allow App Workspace Access</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/346/356/original/23ed1c77-a40e-4a12-893f-790d6393d771.png" srcset="" alt="Allow App Workspace Access" height="375" width="519">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b795bb85-4e12-4066-9506-5d57d3ad1925" class="text-block-content">
+    <p>A message displays requesting permission for the app to access the Slack workspace. </p>
+<p>Click the <strong>Allow </strong>button. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="copy-slack-bot-access-token" data-step-uuid="18ffd74f-da54-4efa-9f5a-5c3a4edeefe2">
+    <h2 id="copy-slack-bot-access-token" class="step-title screensteps-heading">Copy Slack Bot Access Token</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/346/358/original/0235069c-1002-4c4b-a735-55f2c34d1ce5.png" srcset="" alt="Copy Slack Bot Access Token" height="375" width="794">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ff1491bd-8d94-46e9-9991-29f289037563" class="text-block-content">
+    <p>Once the app is created in Slack, click the <strong>Install App</strong> link [1]. </p>
+<p>Locate the Bot User OAuth Access Token and click the <strong>Copy </strong>button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-slack-api-token" data-step-uuid="e116afe8-69c9-482c-ac18-e5e729ceedeb">
+    <h2 id="add-slack-api-token" class="step-title screensteps-heading">Add Slack API Token</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/582/116/original/0d125b03-2e48-4239-9365-d3fddef4a502.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/582/116/medium/0d125b03-2e48-4239-9365-d3fddef4a502.png" srcset="" alt="Add Slack API Token" height="281" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_31de238a-3a6b-496d-ab16-6c772fe22d19" class="text-block-content">
+    <p>In the Account Settings page in Canvas, locate the Slack API Token section and paste the copied token in the <strong>New Slack API Key</strong> field [1]. </p>
+<p>To save, click the <strong>Update Settings </strong>button [2]. </p>
+<p><strong>Note: </strong>If the Slack API Key heading does not display, refresh your browser window.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-canvas-contact-method" data-step-uuid="62fe7e0c-5ce2-44e9-8918-86aba4095212">
+    <h2 id="create-canvas-contact-method" class="step-title screensteps-heading">Create Contact Method</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/345/775/original/b9968eff-2448-46d9-a797-6b1e270b00e0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/345/775/medium/b9968eff-2448-46d9-a797-6b1e270b00e0.png" srcset="" alt="Create Canvas Contact Method" height="291" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8e2904c6-2094-4d45-8673-02be9d22b738" class="text-block-content">
+    <p>In your user settings page, click the <strong>Add</strong> <strong>Contact Method</strong> link [1]. </p>
+<p>Click the <strong>Slack Email</strong> tab [2], and enter the email address of your Slack account in the <strong>Slack Email</strong> field [3]. </p>
+<p>Then click the <strong>Register Slack Email</strong> button [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-communication-channel" data-step-uuid="a1a77258-ab06-4d46-979c-f4f4b67f9427">
+    <h2 id="confirm-communication-channel" class="step-title screensteps-heading">Confirm Communication Channel</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/346/364/original/9ad55486-f8fa-4a43-89f5-f068535a68ce.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/346/364/medium/9ad55486-f8fa-4a43-89f5-f068535a68ce.png" srcset="" alt="Confirm Communication Channel" height="798" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8e02249c-e8a7-4d2f-9a8f-f22d527bc503" class="text-block-content">
+    <p>In Slack, look for a notification sent to the newly-created Slack App with a four-digit Canvas registration code [1]. </p>
+<p>In Canvas, enter the four-digit code in the <strong>Confirm Communication Channel</strong> field [2]. Then click the <strong>Confirm</strong> button [3].</p>
+<p>Once confirmed, all users in your Slack account can add the Slack Email contact method and manage their Slack notification settings in the User Settings page. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

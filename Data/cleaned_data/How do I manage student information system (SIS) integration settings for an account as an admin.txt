@@ -1,0 +1,33 @@
+How do I manage student information system (SIS) integration settings for an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link.
+View Settings
+View the Account Settings tab. 
+View SIS Integration Settings
+In the Account Settings tab, locate the SIS Integration Settings section.
+Set SIS Friendly Name
+If you want to show the name of your SIS provider in Canvas courses, enter the name in the SIS friendly name field. The name displays in the SIS checkbox in Canvas assignments, graded discussions, and quizzes. This option is helpful for instructors who may not know what an SIS is, but who may be familiar with a setting identified with the SIS name (e.g., PowerSchool).
+Enable SIS Imports
+If you want to allow users with SIS permissions to import CSV files from your student information system, click the SIS Imports checkbox.
+Include Integration IDs
+Upon request, your Customer Success Manager can allow you to include Integration IDs in gradebook exports. Integration IDs are secondary unique identifiers useful for more complex SIS integrations and required by some institutions. To generate the Grade Export report with an Integration ID column and to allow gradebook exports to also include an Integration ID column, click the Include Integration IDs in the gradebook exports checkbox. 
+Enable SIS Syncing
+If you want to enable SIS syncing, click the SIS Syncing checkbox. This setting manages all workflows associated with sending SIS data back to your SIS provider.
+View SIS Syncing Settings
+You can enable four workflow settings with SIS Syncing. These settings set defaults for all assignments throughout all courses; however, course instructors ultimately manage which assignments are synced by selecting the Sync to SIS option in a graded assignment or the Sync to SIS toggle option in the Assignment Index Page. 
+Note: Currently this setting does not support syncing a final or midterm grade, which will be added in a future release.
+Lock this setting for sub-accounts: This setting locks all selected SIS Sync settings for subaccounts. Subaccount admins cannot change any SIS settings.
+Default SIS Sync for assignments, quizzes, grade discussion: This setting displays the SIS Friendly Name in the Sync to [SIS] checkbox in Canvas assignments, graded discussions, and quizzes. All graded assignments, graded discussions, and graded quizzes will be enabled to be passed back to the SIS by default. (In quizzes, this setting does not apply to practice quizzes and surveys.) The name of the SIS also displays in the checkbox when you are creating an assignment shell in the Assignments page.
+Require assignment due date: This setting requires all assignments, graded discussions, and quizzes to include a due date. In a course, if a due date is not included in a graded assignment, Canvas asks the user to add a due date. The assignment cannot be saved until the due date error is resolved or the Sync to SIS option is disabled for the assignment.
+Due date validation is based on the assignment setup:
+If the assignment is assigned to Everyone, the due date is validated against the course date. If the course does not include a course override date, the assignment is validated against the term date.
+If the assignment is assigned to one or more sections, the due date is validated against the section date. If the section does not include a section override date, the assignment is validated against the course or term date.
+If the assignment is assigned to one or more students, the assignment is currently not validated.
+If the assignment is assigned to one or more students using MasteryPaths, the assignment is currently not validated.
+Limit assignment names lengths (max 255): This setting limits the assignment name to a specific number of characters, which should be based on the SIS provider’s length limit, if any. Enter the maximum number of allowed characters in the Characters field. In a course, if an assignment name exceeds the number of set characters, Canvas will notify the user that the assignment name is too long. The assignment cannot be saved until the name length error is resolved or the Sync to SIS option is disabled for the assignment.
+Note: If no number limit is entered, Canvas defaults to the maximum of 255 characters, regardless of whether the checkbox is selected.
+Automatically disable "Post to SIS" on assignments when grading period closes: This setting disables the Sync to SIS option on assignments, quizzes, and graded discussions, preventing grades from syncing to the school's SIS when the grading period is closed.
+Update Settings
+Click the Update Settings button.

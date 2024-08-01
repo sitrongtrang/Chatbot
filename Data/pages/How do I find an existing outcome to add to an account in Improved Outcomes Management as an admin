@@ -1,0 +1,117 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7e6e0083-3f4d-459f-b715-d721b21c5842" class="text-block-content">
+    <p>You can import an individual outcome or multiple outcomes that are available to import for your institution.</p>
+<p>Learning Standards imported to the account or sub-account levels can be found within the Account Standards outcome group. Depending on what is available to your institution, the following learning standards may be available:</p>
+<ul>
+<li>Common Core Standards are available for Language Arts, Math, and Science (NGSS)</li>
+<li>State-specific standards are available for Language Arts, Math, Science, and Social Studies (if imported by your institution)</li>
+<li>ISTE Standards for Coaches, Computer Science Educators, Students, Teachers, and Administrators</li>
+</ul>
+<p>This lesson displays how to find outcomes in a course within an account that has enabled the Improved Outcomes Management feature option. If the Outcomes page in your course displays differently than the images in this lesson, learn how to <a href="/t5/Admin-Guide/How-do-I-find-an-existing-outcome-to-add-to-an-account/ta-p/254" target="_blank">find outcomes in the classic Outcomes page view</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="4dd34e6c-9a1d-429f-a4d6-6564f51cc9d9">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8ecbe0db-2879-418a-a091-480257700020" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="9d96bdca-0b9f-4f61-88b1-1b736f7b5080">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/832/788/original/cda2108d-b74e-42f3-821e-ad4d0eb5101c.png" srcset="" alt="Open Outcomes" height="282" width="160">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e9e52960-4151-4930-a1a4-b58a435bfeb2" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_outcome" data-step-uuid="261eca2e-bec8-47f5-ab61-7ad0c1089d4a">
+    <h2 id="find_outcome" class="step-title screensteps-heading">Find Outcomes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/944/267/original/e8a698f7-83ab-46de-99d0-4267e32dda9a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/944/267/medium/e8a698f7-83ab-46de-99d0-4267e32dda9a.png" srcset="" alt="Find Outcome" height="352" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a4546fc5-a69d-496c-a0b4-9db9d2f80f48" class="text-block-content">
+    <p>To find and add an Outcome at the root level course outcome group, click the <strong>Find</strong> button [1].</p>
+<p>To find and add an Outcome in a specific outcomes group, select an outcome group [2]. In the outcome group, click the <strong>Options</strong> icon [3], then select the <strong>Add Outcomes</strong> option [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_outcome" data-step-uuid="98cc8ea5-17f1-49b0-8f3e-0b73a4c19ef5">
+    <h2 id="import_outcome" class="step-title screensteps-heading">Add Outcomes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/735/162/original/419411aa-cab0-40e6-8a15-eaeccf4bfcd6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/735/162/medium/419411aa-cab0-40e6-8a15-eaeccf4bfcd6.png" srcset="" alt="Add Outcomes" height="543" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3da3eb35-35d4-4ac4-ad45-90d9a334c9d6" class="text-block-content">
+    <p>Click the name of an outcome group [1].</p>
+<p>View the outcome for the outcome group [2]. You can adjust the size of the Outcome Group and Outcome windows by clicking and dragging the divider bar [3].</p>
+<p>To locate a specific outcome, you can enter the outcome name in the <strong>Search</strong> field [4].</p>
+<p>When you have located an outcome, click the <strong>Add</strong> button for that outcome [5]. When an outcome has been added, the outcome displays an <strong>Added</strong> label [6].</p>
+<p>To add all outcomes in a group, click the <strong>Add All Outcomes</strong> button [7].</p>
+<p>To return to the account Outcomes page, click the <strong>Done</strong> button [8].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_outcome" data-step-uuid="9f07f6a3-5467-4130-99e8-be50c723e34d">
+    <h2 id="view_outcome" class="step-title screensteps-heading">View Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/735/164/original/fe02eb5d-5d74-4c92-9736-a37f43c5f396.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/735/164/medium/fe02eb5d-5d74-4c92-9736-a37f43c5f396.png" srcset="" alt="View Outcome" height="607" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a4d601c4-06ed-4dfd-9aa3-55c8d248b5d8" class="text-block-content">
+    <p>View the imported outcomes.</p>
+<p>Outcomes are imported to either the main account outcome level or the selected outcome group. Learn how to <a href="/t5/Admin-Guide/How-do-I-move-account-outcomes-and-outcome-groups-in-Improved/ta-p/486337" target="_blank">move outcomes or outcome groups</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,238 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3486FE80-18A9-0135-22D7-22000B5A851D" class="text-block-content">
+    <p>Outcomes allow the administration and faculty to track mastery in a course. Users can import Account, State, and Common Core Standards into an account and course.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="account_or_course_outcomes" data-step-uuid="742C29CC-4695-4398-A678-ECD9CE965336">
+    <h2 id="account_or_course_outcomes" class="step-title screensteps-heading">Account or Course Outcomes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/198/754/original/8f95ea95-326f-4216-9b7a-90d0cc6eca22.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/198/754/medium/8f95ea95-326f-4216-9b7a-90d0cc6eca22.png" srcset="" alt="Account or Course Outcomes" height="681" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3487CAF0-18A9-0135-22D9-22000B5A851D" class="text-block-content">
+    <p>Outcomes enables the administration and faculty to track students’ progress as measured by pedagogical goals or desired outcomes. </p>
+<p>Assessments created to test student knowledge or to require students to demonstrate a specific skill resulting from a learning activity can be aligned to learning outcomes using rubrics (which can be used for grading simultaneously). </p>
+<p>Grading student work automatically collects and compiles data on student progress for the Outcomes. The data is available for reporting to support teaching improvement, identify at-risk students, and support the accreditation process. This unified, streamlined approach dramatically reduces the amount of work required to implement Learning Outcomes through the intelligent reuse of assessment workflows in the grading process.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="when_would_i_use_outcomes" data-step-uuid="C77E7F25-60A6-4EF7-9425-9A6E7AC7C4AD">
+    <h3 id="when_would_i_use_outcomes" class="step-title screensteps-heading">When would I use Outcomes?</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/090/690/original/71828f98-bf55-4020-a0fb-43ecded3f0df.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/090/690/medium/71828f98-bf55-4020-a0fb-43ecded3f0df.png" srcset="" alt="When would I use Outcomes?" height="736" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_34889200-18A9-0135-22DB-22000B5A851D" class="text-block-content">
+    <p>Use Outcomes to:</p>
+<ul>
+<li>Focus students' attention on the most important skills and activities in your course (find existing outcomes or create new ones)</li>
+<li>Align Quizzes and Assignments to different kinds of mastery</li>
+<li>Run reports at the account-level about student artifacts of learning mastery</li>
+<li>Assess student progress through calculation methods</li>
+<li>Track student progress on a learning outcome or overall in the Learning Mastery Gradebook </li>
+<li>Align accreditation or other core standards to programs of study, courses, or student assessments</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="calculation_methods" data-step-uuid="23e84356-3ca3-48de-9e58-7adcb473f02e">
+    <h2 id="calculation_methods" class="step-title screensteps-heading">Calculation Methods</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3488E8E0-18A9-0135-22DC-22000B5A851D" class="text-block-content">
+    <p>When users create an outcome, users can set one of four calculation methods used for student mastery: Weighted Average, Decaying Average, n Number of Times, Most Recent Score, and Highest Score. Calculation methods are used in conjunction within the Learning Mastery Gradebook.</p>
+<p>Calculation methods can be set when creating custom course outcomes (instructors) or creating custom account outcomes (admins). </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>For new Outcomes created in the Canvas interface, the default calculation is Weighted Average unless changed to another calculation. </li>
+<li>For new Outcomes created using the Outcomes API, the default calculation is set as Highest Score but can be modified with the appropriate parameters. </li>
+<li>If a user imports an outcome but does not have permission to modify the calculation method, the calculation method cannot be changed.</li>
+<li>Common Core outcomes are always calculated as Highest Score; however, the calculation method can be modified using the Outcomes API by any user with appropriate admin permissions.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="decaying_average" data-step-uuid="2291ac48-e0ed-4b03-95a5-e4a734afef7b">
+    <h3 id="decaying_average" class="step-title screensteps-heading">Weighted Average</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/800/132/original/80d276dc-87a5-444d-b830-249b8f87d0ac.png" srcset="" alt="Weighted Average" height="416" width="647">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_34897360-18A9-0135-22DE-22000B5A851D" class="text-block-content">
+    <p>The <strong>Weighted Average</strong> calculation factors the average of all assessment items while weighing the most recent (current) submission to any assignment associated with this outcome at a higher percentage. </p>
+<p>By default, the Canvas weighted average is set at 65/35, meaning the current item is weighted at 65%, and the average of all other user scores is weighted at 35%. However, users can specify between 1% and 99% for the current percentage, and prior scores are weighted against the percentage difference. Note that the average is rounded to the next two decimals. If there is only one result, then the single score will be displayed.</p>
+<p>For example, a student has four aligned items with scores of 4, 3, 2, and 5 (scores listed chronologically from oldest to most recent). If the current item is set to be weighted at 65% of mastery, prior scores are weighted at 35%:</p>
+<ul>
+<li>Current item score: 5</li>
+<li>Average of prior item scores: (4 + 3 + 2) / 3 = 3</li>
+<li>Calculated score: 5 (.65) + 3 (.35) = 3.25 + 1.05 = 4.3</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="decaying-average" data-step-uuid="ee5f215f-f828-489a-a42a-618bb2ee45eb">
+    <h3 id="decaying-average" class="step-title screensteps-heading">Decaying Average</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/800/134/original/04e5400f-9369-40c4-844e-20a5ff37df60.png" srcset="" alt="Decaying Average" height="416" width="647">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2ae5a4b9-1c0c-446f-87a5-c7926c355c51" class="text-block-content">
+    <p>The <strong>Decaying Average</strong> calculation uses a formula to determine proficiency based on students' average scores, giving more weight to the most recent scored. To determine the weight given to the most recent score, the formula uses a decay rate. The higher the formula's decay rate, the more heavily the most recent assessment is weighted. </p>
+<p>By default, the decay weight is set at 65%. However, you can adjust the rate to any percentage between 50% and 99%. Between two assessments, the most recent assessment gets 65% weight and the first gets 35%. For each additional assessment, the sum of the previous score calculations decay by an additional 35%. </p>
+<p>For example, a student has scores of 1, 2, 3, 4 (scores listed chronologically from oldest to most recent):</p>
+<p>(1 × .35) + (2 × .65) = X</p>
+<p>(X × .35) + (3 × .65) = Y</p>
+<p>(Y × .35) + (4 × .65) = Z  (this being the current standard score; 3.48)</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="n_number_of_times" data-step-uuid="b34eaaa5-778d-40d3-bb0a-df96327ddbe6">
+    <h3 id="n_number_of_times" class="step-title screensteps-heading">n Number of Times</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/800/136/original/53069811-cb76-4ee9-9448-ee8aea4ea0b4.png" srcset="" alt="n Number of Times" height="365" width="647">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3489BED0-18A9-0135-22E0-22000B5A851D" class="text-block-content">
+    <p>The <strong>n Number of Times</strong> calculation requires a specific number of times that mastery must be met or exceeded, and the number of aligned items that must be completed for calculation eligibility. Any scores that do not meet mastery are not part of the calculation.</p>
+<p>Users can specify between 1 and 10 items required for mastery.</p>
+<p>For example, a student is required to achieve mastery 2 times with a mastery score of 5. If the student has scores of 1, 3, 2, 4, 5, 3, and 6, only the scores of 5 and 6 would be part of the calculation.</p>
+<ul>
+<li>Average score of eligible items: 5 + 6 = 11</li>
+<li>Calculated score: 11 / 2 = 5.5</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="most_recent_score" data-step-uuid="cf8d9bec-91cb-4832-9830-02aeaf507986">
+    <h3 id="most_recent_score" class="step-title screensteps-heading">Most Recent Score</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/800/138/original/b06ffc52-0f60-4c38-8e1d-146d18707e0e.png" srcset="" alt="Most Recent Score" height="293" width="647">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3489F830-18A9-0135-22E2-22000B5A851D" class="text-block-content">
+    <p>The <strong>Most Recent Score </strong>calculation always selects the most recent score for all assessment items.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="highest_score" data-step-uuid="ac55a2a2-1b72-490c-89f5-207c5a013929">
+    <h3 id="highest_score" class="step-title screensteps-heading">Highest Score</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/800/140/original/e2cb4d42-b8ab-48a8-ad41-e741025aa12b.png" srcset="" alt="Highest Score" height="293" width="647">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_348A3AE0-18A9-0135-22E4-22000B5A851D" class="text-block-content">
+    <p>The<strong> Highest Score</strong> calculation always selects the highest score for all assessment items.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-average" data-step-uuid="aee45055-9b69-45ea-b487-b46163e81871">
+    <h3 id="select-average" class="step-title screensteps-heading">Select Average</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/800/178/original/7405d449-ed54-444a-b80d-d11cad667505.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/800/178/medium/7405d449-ed54-444a-b80d-d11cad667505.png" srcset="" alt="Select Average" height="339" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dac2f43b-47a7-4b06-a0de-e851e94c0736" class="text-block-content">
+    <p>To select the average score from all assessment items, select the <strong>Average</strong> option [1].</p>
+<p>You can view an example of the Average calculation in the <strong>Example</strong> section [2].</p>
+<p><strong>Note: </strong>Average is not a good fit for most outcomes-based or mastery-based learning use cases because students may need time to reach mastery of an outcome and early poorer performance can bring down an average.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="outcome-mastery-scales" data-step-uuid="2732a03c-b291-4285-a7e6-81d4f786ea2a">
+    <h2 id="outcome-mastery-scales" class="step-title screensteps-heading">Outcome Mastery Scales</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/735/756/original/cf233750-2601-4309-9a1f-59075a64519c.png" srcset="" alt="Outcome Mastery Scales" height="628" width="811">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d61a0259-aea1-4abb-b5cc-e4dfd73c4fbc" class="text-block-content">
+    <p>If the Account and Course Level Outcome Mastery Scales feature option is enabled for your account, you can set mastery scales for the entire account.</p>
+<p>Learn more about <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-scales-in-an-account/ta-p/429017" target="_blank">mastery scales in an account</a> or <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-scales-in-a-course/ta-p/429018" target="_blank">in a course</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="outcome-mastery-calculations" data-step-uuid="71a8c8a0-92cf-4596-88e6-b1c9eae7ff07">
+    <h2 id="outcome-mastery-calculations" class="step-title screensteps-heading">Outcome Mastery Calculations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/735/758/original/7cf8b0b5-451a-4af4-aa34-de9d103a9abb.png" srcset="" alt="Outcome Mastery Calculations" height="484" width="811">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a2c11ca1-0c98-42d8-a92f-96bdf5d3ce5d" class="text-block-content">
+    <p>If the Account and Course Level Outcome Mastery Scales feature option is enabled for your account, you can set mastery calculations for the entire account.</p>
+<p>Learn more about <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-scales-in-a-course/ta-p/429018" target="_blank">mastery calculations in an account</a> or <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-calculations-in-a-course/ta-p/429019" target="_blank">in a course</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="improved-outcomes-management" data-step-uuid="a2b2ac02-fe71-4dca-bc3d-d792ee1f1f2f">
+    <h2 id="improved-outcomes-management" class="step-title screensteps-heading">Improved Outcomes Management</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/735/760/original/b591b162-ae36-4a7a-a484-47dd9edb7da5.png" srcset="" alt="Improved Outcomes Management" height="537" width="826">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8093306a-54cb-462a-88ba-daa4f13c1a48" class="text-block-content">
+    <p>If the Account and Course Level Outcome Mastery Scales feature option and the Improved Outcomes Management feature option are enabled for your account, the Outcomes page displays an improved interface for viewing and managing outcomes.</p>
+<p>Learn more about the <a href="/t5/Admin-Guide/How-do-I-use-the-outcomes-page-in-an-account-in-Improved/ta-p/486333" target="_blank">Improved Outcomes Management in an account</a> or <a href="/t5/Instructor-Guide/How-do-I-use-the-course-Outcomes-page-in-Improved-Outcomes/ta-p/486358" target="_blank">in a course</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,24 @@
+How do I add a developer API key for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Developer Keys
+In Account Navigation, click the Developer Keys link.
+Add Developer Key
+Click the Add Developer Key button.
+Add API Key
+Click the Add API Key option.
+Enter Key Settings
+Enter the settings for the developer API key:
+Key Name: Usually your app or company name. This field will be shown when users are asked to approve access to their Canvas account on your behalf.
+Owner Email: The email of the person who owns the developer tool.
+Redirect URIs: The domains where tokens are requested. These URIs are not your Canvas URL. To avoid mixed content browser concerns, use https.
+Redirect URI (Legacy): The URI for the key redirect. This field allows you to set the previous URI for a tool. Eventually this field will be removed.
+Vendor Code (LTI 2): A unique registered code which identifies the vendor or developer of the third-party tool. This is specifically for LTI 2 tools and apps. 
+Icon URL: The URL of the icon for your developer tool. This URL is presented to the user to approve authorization for your tool. To avoid mixed content browser concerns, use https.
+Notes: Any notes about the developer key, such as the reason it was created.
+Test Cluster Only: Creates a developer key that can only be used in the Canvas test environment.
+Enforce Scopes: Allows you to customize access for the key. Otherwise, the key will have access to all endpoints available to the authorizing user. 
+Save Key
+Click the Save button.
+View Key
+View the Developer Key for your account. 

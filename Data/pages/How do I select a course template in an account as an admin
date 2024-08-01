@@ -1,0 +1,91 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_5b682ac8-881f-49d3-9e40-5bc893327bc0" class="text-block-content">
+    <p>If you have <a href="/t5/Admin-Guide/How-do-I-enable-a-course-as-a-course-template/ta-p/463700" target="_blank">enabled a course as a course template</a>, you can select that template in an account or sub-account. Once a template is selected, all new courses created in that account or sub-account will be populated with content from the course template. This includes courses created through the Canvas UI, SIS import, or API endpoints.</p>
+<p>New courses created from the template are not associated with the template, and any changes to the new course must be made directly in the new course. To compare course templates to blueprint courses and Canvas Commons, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Course-Content-Distribution-Comparison/ta-p/387051" target="_blank">Course Content Distribution Comparison resource document</a>.</p>
+<p>In order to manage course templates, an admin must have the Manage Course Templates permission enabled. This is a granular permission that is divided into individual permissions for creating, deleting, and editing templates. For more information, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Account-Role-Permissions/ta-p/387078" target="_blank">Account Permissions resource document</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Creating a course using a template functions in essentially the same way as copying a course. Course copies may not include all content. For more details, please see the <a href="https://community.canvaslms.com/docs/DOC-10713" target="_blank">import content section </a>in the Canvas Basics Guide.</li>
+<li>Creating a course using a course template does not impact file quotas.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="11e5bb01-68b8-4a5e-b9a1-e32baf5482d7">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/352/615/original/3b5b7370-0975-4ad6-89a2-b64d9b555b7f.png" srcset="" alt="Open Settings" height="286" width="174">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e5d5456f-9979-4498-b335-d38703655070" class="text-block-content">
+    <p>Open the account or sub-account where you want to apply the course template. In Account Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-template" data-step-uuid="af66fad7-46bd-469e-b7e3-6e6205c29221">
+    <h2 id="select-template" class="step-title screensteps-heading">Select Template</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/352/617/original/b2d9d8f9-998c-41cb-a6da-bca9d355147a.png" srcset="" alt="Select Template" height="339" width="455">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e4a7bbc9-b1e6-45fd-835d-7d6a9f04e8a3" class="text-block-content">
+    <p>Locate the <strong>Course Template</strong> settings [1]. By default, no course template is selected at the account level. </p>
+<p>To select a template, click the <strong>Template</strong> drop-down menu [2] and select the template you want to use [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-inherited-template" data-step-uuid="7119d9cf-445d-4236-af72-61349b523ef3">
+    <h3 id="view-inherited-template" class="step-title screensteps-heading">View Inherited Template</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/358/833/original/722fd2cc-8234-47de-97a3-8324d9002a80.png" srcset="" alt="View Inherited Template" height="198" width="428">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_05c938b3-0fdd-404c-a881-4b805adc521d" class="text-block-content">
+    <p>If you are selecting a course template in a sub-account, the template is identified by an <strong>Inherit</strong> label [1]. To select a unique template for a sub-account, click the name of the template [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update-settings" data-step-uuid="032818c8-3369-407f-918b-9d67ddd4205b">
+    <h2 id="update-settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/352/620/original/17fde646-0716-4484-b601-2659339854c7.png" srcset="" alt="Update Settings" height="63" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8fdf0099-5a3d-45bf-9729-7664ac7db9db" class="text-block-content">
+    <p>Click the <strong>Update Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

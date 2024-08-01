@@ -1,0 +1,51 @@
+How do I assign an assignment to a course group as an instructor
+Open Assignments
+In Course Navigation, click the Assignments link.
+Add Assignment
+Click the Add Assignment button.
+Add Assignment Details
+Add details to the assignment.
+Select Group Assignment
+Click the This is a Group Assignment checkbox.
+Assign Grades Individually
+You can choose to assign grades to students individually by selecting the Assign grades to each student individually checkbox. 
+If this box is left unchecked, all the students in the group will receive the same grade.
+Select Group Set
+To select an existing group set, click the Group Set drop-down menu. To create a new group set, click the New Group Category button.
+Note: Groups created by students cannot be used for Group Assignments and do not appear in the drop-down menu. 
+Require Peer Reviews
+Peer reviews can be used with group assignments. If you want to assign peer reviews, click the Require Peer Reviews checkbox.
+Assign Different Dates for Groups
+By default, the assignment is assigned to everyone in your course. To add different due and availability dates for specific groups or users in your course, click the Add button. 
+Then start to type part of the group name in the new Assign to field. Click the group's name when it appears. Lists are not scrollable.
+You can include more than one group in the Assign to field as long as the groups are to be assigned the same due and availability dates.
+Assign to Group Only
+To create an assignment that is only for a specific group in the group set, click the Remove icon next to the Everyone label.
+Start to type the name of a group in the Assign to field. Click the group's name when it appears.
+Note: Students can only view the assignment if they are a member of an assigned group, an assigned user, or if you assign to Everyone or to Everyone Else. Otherwise, the assignment does not appear in the student's Assignments page. You cannot grade students who have not been included in the assignment, and assignments that are not assigned to a student are not factored into overall grades. 
+Edit Due and Availability Dates
+In the date fields, add your preferred date(s) with the following options:
+Due: Set the date and time that the assignment is due. The due date will already be populated for you if you created an assignment shell, but you can change it if necessary. 
+Available From: Set the date and time when the assignment will become available.
+Until: Set the date and time when the assignment will no longer be available.
+Note: Beneath the Due Date and Availability date fields, Canvas displays the time zone date and time according to context. If you manage courses in a time zone other than your local time zone and create or edit a due date for an assignment, the course and local times are displayed for reference.
+Remove Dates
+You can also delete additional dates by clicking the remove icon next to the appropriate date.
+Save and Publish
+If you are ready to publish your assignment, click the Save & Publish button. If you want to create a draft of your assignment and publish it later, click the Save button.
+View Due Date Warning
+Even when you aren't adding sections, you will see a warning message asking you if you want to add sections. 
+You can click the Continue button if you don't want to add any other sections to the assignment, or click the Go Back button to go back and add sections. 
+Note: This warning message will not appear if everyone in the course or all course sections are assigned.
+View Date Error
+If you submit an invalid string of due dates and try to save the assignment, Canvas generates an error notification. Such invalid entries include not unlocking the assignment before it is due, not placing the due date inside the range of availability dates, or assigning a date that is outside the course or term dates. 
+Correct the date and then update the assignment again. 
+Notes: 
+If the course does not include specified course start and end dates, Canvas validates the assignment against the term date set for the course.
+If your course is using Multiple Grading Periods, the Assign field validates the due date against the closed grading period and requires the assignment date to be past the date of the closed grading period.
+View Assignment Dates
+View the dates and users assigned to the assignment.
+View Assignments Page
+On the Assignments Index Page, the assignment displays. If there are multiple users and dates assigned to the assignment, you can hover over the text to view date availability.
+On their Assignments page, students can view their group assignments along with all other assignments. 
+Students can learn more about using groups as a student and submitting assignments on behalf of the group.

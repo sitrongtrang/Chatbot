@@ -1,0 +1,195 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_60EC2050-2156-0135-D754-22000B5A851D" class="text-block-content">
+    <p>Groups are a subset of a course with a course-like environment including their own Calendar, Discussion board, and Collaboration tools. Only students added to a group have permission to see and use the respective tools within the group.</p>
+<p>A group discussion assignment creates an identical discussion topic in each group category. When students reply to the discussion topic they do so within their group environment, which is linked to the course from which the assignment was created.</p>
+<p>If you prefer to create a group discussion for grading, learn how to <a href="/t5/Instructor-Guide/How-do-I-assign-a-graded-discussion-to-a-course-group/ta-p/1070" target="_blank">create graded group discussions</a>. </p>
+<p><strong>Note:</strong> You will need to create <a href="/t5/Instructor-Guide/How-do-I-add-a-group-set-in-a-course/ta-p/693" target="_blank">group sets</a> and <a href="/t5/Instructor-Guide/How-do-I-automatically-create-groups-in-a-group-set/ta-p/720" target="_blank">groups</a> before setting up a group discussion assignment. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_discussions" data-step-uuid="42f31b4e-7b1c-4969-8f62-490b3f0fe65a">
+    <h2 id="open_discussions" class="step-title screensteps-heading">Open Discussions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/762/488/original/cc5fe71a-93e2-4036-a4c5-07074ff6bb5f.png" srcset="" alt="Open Discussions" height="258" width="175">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60EC5940-2156-0135-D756-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Discussions</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_discussion" data-step-uuid="34d0e168-9999-4adb-9d5c-b33d7bfec7c2">
+    <h2 id="add_discussion" class="step-title screensteps-heading">Add Discussion</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/189/359/original/cd525964-9f30-49c2-805c-fbc23e5197f8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/189/359/medium/cd525964-9f30-49c2-805c-fbc23e5197f8.png" srcset="" alt="Add Discussion" height="62" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60ED3F00-2156-0135-D758-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Discussion</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_group_discussion" data-step-uuid="9d342eb3-eb53-4121-b994-b08291b415ea">
+    <h2 id="create_group_discussion" class="step-title screensteps-heading">Create Group Discussion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/046/794/original/7c4c3347-8da8-45f6-9648-648b75eea8b4.png" srcset="" alt="Create Group Discussion" height="967" width="759">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60ED75C0-2156-0135-D75A-22000B5A851D" class="text-block-content">
+    <p>Enter a discussion title in the <strong>Topic Title</strong> field [1]. </p>
+<p>Add discussion content using the Rich Content Editor [2]. </p>
+<p>In the discussion options, select the <strong>This is a Group Discussion </strong>checkbox [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_group_set" data-step-uuid="5ECBBA58-60C0-4191-B556-ECD1D2C33F98">
+    <h2 id="select_group_set" class="step-title screensteps-heading">Select Group Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/895/879/original/78d55644-5342-44d8-952a-0eb54959b6bd.png" srcset="" alt="Select Group Set" height="263" width="327">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60EDAA80-2156-0135-D75C-22000B5A851D" class="text-block-content">
+    <p>To select an existing group set, click the <strong>Group Set </strong>drop-down menu [1]. To create a new group category, click the <strong>New Group Category</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="create-group-set" data-step-uuid="20dbdd96-4450-4385-8728-d1e1e19a2c9f">
+    <h3 id="create-group-set" class="step-title screensteps-heading">Create Group Set</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/895/881/original/a94d4534-e890-4bac-a788-6a1106725186.png" srcset="" alt="Desktop" height="599" width="604">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6bebfd64-a479-4101-9e5d-a53fc0287135" class="text-block-content">
+    <p>If you chose to create a new group category, enter the group set and group information in the Create Group Set modal.</p>
+<p>Type the group set name in the <strong>Group Set Name</strong> field [1].</p>
+<p>If you want to allow for self sign-up for groups in the group set, check the <strong>Allow self sign-up</strong> checkbox [2].</p>
+<p>Select a group structure option in the Group Structure section [3]. You can choose to split students into a set number of groups [4], split students into groups with a set number of students per group [5], or create groups later on the People page [6].</p>
+<p>When you're finished, click the <strong>Save</strong> button to create the group set and groups [7].</p>
+<p>You can refer to our group guides for more information about <a href="/t5/Instructor-Guide/How-do-I-add-a-group-set-in-a-course/ta-p/693" target="_blank">creating</a> and <a href="/t5/Instructor-Guide/How-do-I-edit-a-group-set-in-a-course/ta-p/978" target="_blank">editing</a> group sets and <a href="/t5/Instructor-Guide/How-do-I-automatically-create-groups-in-a-group-set/ta-p/720" target="_blank">creating groups</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_availability_dates" data-step-uuid="0ac38298-ffdc-4d4d-b9e7-bac0fda65910">
+    <h2 id="set_availability_dates" class="step-title screensteps-heading">Set Availability Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/759/961/original/2ca07ebe-49ad-43a6-b5c4-efb50d387adf.png" srcset="" alt="Set Availability Dates" height="117" width="327">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60EDDEB0-2156-0135-D75E-22000B5A851D" class="text-block-content">
+    <p>To make your discussion available on a specific date or during a specific date range, enter the dates in the <strong>Available From</strong> and <strong>Until</strong> fields [7], or click the calendar icons to select dates. These dates apply to all users. By default, these fields are left blank and the discussion can be viewed throughout the entire course. </p>
+<p><strong>Note:</strong> These fields only apply for non-graded discussions; If you create a graded group discussion, these date fields do not apply.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="53fd6c10-9786-425e-a9d1-95b8da21a475">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/759/965/original/89fd0fa6-4242-4681-b004-32030564ba43.png" srcset="" alt="Save and Publish" height="83" width="283">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60EE1900-2156-0135-D760-22000B5A851D" class="text-block-content">
+    <p>If you are ready to publish your discussion, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your discussion and publish it later, click the <strong>Save</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/246/172/original/d79a856e-cba0-4ea6-b987-05ed7524e288.png" srcset="" alt="Publish Course" height="649" width="725">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0fbba976-e392-437e-863c-6c0b0b5271c3" class="text-block-content">
+    <p>When your discussion is saved in a draft state, you can return to the page and publish it at any time by clicking the <strong>Publish </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_discussion" data-step-uuid="647242FE-9D19-4A22-9379-B8666767DF6E">
+    <h2 id="view_discussion" class="step-title screensteps-heading">View Discussion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/246/177/original/849e81c2-4664-4de3-9f27-5b83696241bc.png" srcset="" alt="View Discussion" height="268" width="709">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60EE81F0-2156-0135-D764-22000B5A851D" class="text-block-content">
+    <p>View the discussion. A Teacher or TA will see links to each group. Click the group name to open the group discussion and view replies to the topic.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-discussion-in-discussions-redesign" data-step-uuid="55c033b8-2e4c-43e0-9d42-28afa9899aed">
+    <h2 id="view-discussion-in-discussions-redesign" class="step-title screensteps-heading">View Discussion in Discussions Redesign</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/243/901/original/26a840c4-a874-4376-803d-593fe1e7f130.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/243/901/medium/26a840c4-a874-4376-803d-593fe1e7f130.png" srcset="" alt="View Discussion in Discussions Redesign" height="257" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1e863640-ba4c-44fe-bdf8-8125278f3380" class="text-block-content">
+    <p>If your course has Discussions Redesign enabled, you can view the discussion in Discussions Redesign. To open the group discussion, click the Groups icon [1], then click the name of the group you want to open [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_of_discussion" data-step-uuid="387099D8-E0CD-4C08-A876-539506D15402">
+    <h2 id="student_view_of_discussion" class="step-title screensteps-heading">Student View of Discussion</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/641/827/original/3469da46-d7a3-4fa3-9317-da5f2adee795.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/641/827/medium/3469da46-d7a3-4fa3-9317-da5f2adee795.png" srcset="" alt="Student View of Discussion" height="1035" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60EEB320-2156-0135-D766-22000B5A851D" class="text-block-content">
+    <p>When students open the discussion, they will be taken to the Discussions page within their specified project group to complete the assignment.</p>
+<p><strong>Note:</strong> Discussion posts cannot be made anonymously.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

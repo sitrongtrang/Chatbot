@@ -1,0 +1,78 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_DB4276C0-1CA8-0135-DF66-22000B5A851D" class="text-block-content">
+    <p>Admins using Windows can use PowerShell to import data to Canvas and set up an automated data integration between Canvas and your SIS. With PowerShell, when changes are made in the SIS at the admin level, these changes will push to Canvas automatically. </p>
+<p>PowerShell is typically installed natively on the Windows operating system.</p>
+<p><strong>Note</strong>: If you already have PowerShell installed with a version older than 3.0, remove the old version before installing PowerShell 3.0.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_and_install_windows_management_framework_3_0" data-step-uuid="77fc9a7f-415e-435f-8d8b-b9375c106bf7">
+    <h2 id="download_and_install_windows_management_framework_3_0" class="step-title screensteps-heading">Download and Install Windows Management Framework 3.0</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/260/original/c018577c-edf9-41c4-a5a7-98e8fa7eb75d.png" srcset="" alt="Download and Install Windows Management Framework 3.0" height="95" width="614">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB42AE70-1CA8-0135-DF68-22000B5A851D" class="text-block-content">
+    <p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=34595" target="_blank" rel="nofollow noopener noreferrer">Find and download</a> the most recent version of Windows Management Framework 3.0, which includes PowerShell version 3.</p>
+<p><strong>Note: </strong>Version 3 is more compatible with restful API call.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_and_install_powershell_cmdlet" data-step-uuid="4bb7a8d6-15a2-49c7-a9de-07b35691a848">
+    <h2 id="download_and_install_powershell_cmdlet" class="step-title screensteps-heading">Download and Install PowerShell cmdlet</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/264/original/dda29b37-231e-46ec-8fdd-1899ddf07431.png" srcset="" alt="Download and Install PowerShell cmdlet" height="89" width="187">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB43A7C0-1CA8-0135-DF6A-22000B5A851D" class="text-block-content">
+    <p>If you choose to use <a href="https://github.com/kajigga/canvas-contrib/tree/master/SIS%20Integration/powershell_integration" target="_blank" rel="nofollow noopener noreferrer">this example powershell script</a>, you will need to download and install a PowerShell cmdlet called "Powershell Community Extensions" Pscx-3.1.0.msi from <a href="https://pscx.codeplex.com/releases" target="_blank" rel="nofollow noopener noreferrer">https://pscx.codeplex.com/releases</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="execute_powershell_scripts" data-step-uuid="27039141-b0dd-4c02-a5c0-c5eedf7bc06a">
+    <h2 id="execute_powershell_scripts" class="step-title screensteps-heading">Execute PowerShell Scripts</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/557/262/original/c64961c9-815f-4640-a091-d0ccbbf71348.png" srcset="" alt="Execute PowerShell Scripts" height="261" width="564">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DB43E490-1CA8-0135-DF6C-22000B5A851D" class="text-block-content">
+    <ol>
+<li>Go to <a href="http://technet.microsoft.com/en-us/library/ee176949.aspx." target="_blank" rel="nofollow noopener noreferrer">http://technet.microsoft.com/en-us/library/ee176949.aspx</a>
+</li>
+<li>Open a powershell command prompt (Start &gt; Powershell ISE). You will need to run this as an admin (Right-click &gt; Run as administrator)</li>
+<li>Type in the command below and click the <strong>Enter </strong>key; then when the dialog box pops up click the <strong>Yes </strong>button.</li>
+</ol>
+<pre><code>Set-ExecutionPolicy RemoteSigned</code></pre>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

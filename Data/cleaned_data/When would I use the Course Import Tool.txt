@@ -1,0 +1,51 @@
+When would I use the Course Import Tool
+When would I use the Course Import Tool?
+You can use the Course Import Tool to:
+Copy course content from term to term, including Announcements and Discussions. You can adjust the events and due dates to coordinate with your current term.
+Select specific content you want copied. You can select individual Assignments, Pages, Files, and anything else from previous courses you or your colleagues have taught. The Course Import Tool supports keyboard navigation when selecting content to import. 
+Import course materials from different Learning Management Systems. The Course Import Tool does not import user content.
+Note: Importing a course more than once may have unintended consequences. If you import content into a new course, edit the content in the new course, and later import the previous content again, the imported content will override the existing content.
+How do I use the Course Import Tool?
+In Global Navigation, click the Courses link, then click the name of the course.
+Open Settings
+In Course Navigation, click the Settings link.
+Open Course Import Tool
+Click the Import Course Content button.
+Note: You can also open the Course Import Tool from Course Navigation by clicking the Home link, then clicking the Import Existing Content button. 
+Choose Import Source
+The Course Import Tool allows you to do any of the following:
+Import all content or choose specific content to copy from another Canvas course
+Import a Canvas Course Export Package (courses that were previously exported from Canvas)
+Import a ZIP file of assignments, files, course content, etc. into an existing folder
+Import an Angel export ZIP format 
+Import a Blackboard 6/7/8/9 export ZIP file
+Import a Blackboard Vista/CE, Web CT 6+ Course
+Import a Common Cartridge 1.0/1.1/1.2 package
+Import a Desire2Learn (D2L) export ZIP format 
+Import a Moodle 1.9/2.x ZIP file
+Import a QTI ZIP file
+Import Content
+When importing content, the tool allows you to import all content or select specific content. This feature is useful for institutions or instructors who only want to copy specific elements of a course, such as assignments or modules. 
+The following behaviors currently apply to Canvas copies or imports: 
+Draft State settings are retained in course imports. If an assignment is unpublished in a course when it was copied or exported, the assignment will also be unpublished in the content import. 
+Mastery Paths conditional items are not retained in course imports, and paths must be re-created after the import is completed.
+Copying content retains any links or files associated with the content, such as in an assignment. 
+When selecting assignments only, Canvas imports all assessment items within the Assignments page (including any associated quizzes and discussions). Assignments will remain in their assignment groups if an entire assignment group or all assignments are imported.
+SCORM content is included in course copies. SCORM content should only be copied within accounts that use the same key and secret configuration.
+When manually copying a course, the user who copies the course will automatically be added to the course with an instructor role.
+When selecting specific content and only importing a New Quiz with stimulus questions, the images associated with the stimulus question do not automatically import and need to be selected for import at the same time.
+Import Limitations
+The following behaviors also apply to Canvas copies or imports: 
+Group sets do not copy as part of the import. Any existing group sets in the new course will be linked to the group set with the same name. However, if there are no group sets with the same name in the new course, the assignment will be linked to a new Project Groups set. 
+Importing specific content from a Canvas course export package does not retain images and linked files in the content, such as in an assignment, page, or discussion. 
+When selecting individual assignments, assignments are placed in an assignment group called Imported Assignments. However, assignments can be moved into other assignment groups as necessary.
+Enrollment-related data, which includes course users, collaborations, conferences, groups, and sections, and feature option settings are not included in course content imports.
+Announcements and Discussions do not retain the name of the user who originally created the course content. Additionally, students do not receive announcement notifications for imported announcements. However, a badge indicating a new announcement displays on the Card View and Recent Activity Dashboards.
+Assignments with a manual grade posting policy and anonymous assignments retain the manual grade posting policy and their anonymous settings as part of the course import. 
+Calendar item locations (e.g., office hours slots with an assigned office location) are not included in course imports.
+Adjust Events and Due Dates
+In addition to recreating the structure and content of the course, the Course Import Tool can adjust events and due dates to the new date ranges of the new term. 
+View Content Import Warning Message
+When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.
+View Current and Prior Imports
+Once you have started an import, the Current Jobs menu displays the job status of any imports in process, as well as any prior import history.

@@ -1,0 +1,152 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_92CD9560-080D-0135-FBA0-22000BC102FE" class="text-block-content">
+    <p>If your institution has enabled offline content, you can view your course offline as an HTML file. You can download the HTML file from the Modules page. Currently HTML files can only be generated in the browser version of Canvas and are only supported on a computer.</p>
+<p>HTML offline content is for offline viewing only; you cannot interact with course content directly, such as completing an assignment or viewing any submissions. In the HTML file, you can view assignment details, availability dates, and point values. Discussions and quizzes only include the description. All discussion replies (graded or ungraded) are considered submissions and must be viewed online. Additionally, you can view any embedded media files in the HTML file. If a link can only be accessed online, the link includes an external icon identifying the content as online only.</p>
+<p>Course content export packages include all course files, pages, and embedded files added to a module and are viewable as long as the user has permission. Content items locked by modules or by date are not included in offline content and show that the content is not available. Export packages do not include media files embedded from course files.</p>
+<p>Offline downloads include all content from the course at the time of the download. You will need to download the course each time you want to view updated course content. After the initial download, the export page shows the history of each download, and the Modules page shows the last time the content was exported.</p>
+<p><strong>User Guidelines</strong></p>
+<p>When exporting course content, all users are notified that they may not reproduce or communicate any of the content in the course, including exported files, without your institution's prior written permission. Please be aware of your institution's online user agreement guidelines, which may include specific course content requirements for instructors.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If your Course Home Page is set to Modules, you can export course content from the Course Home Page.</li>
+<li>Offline content cannot be downloaded once a course is concluded.</li>
+<li>If your Modules page does not display the <strong>Export Course Content</strong> button, confirm that you can <a href="/t5/Instructor-Guide/How-do-I-allow-course-content-to-be-exported-as-an-offline-HTML/ta-p/893" target="_blank">allow course content to be exported</a> using the Offline Course checkbox in Course Settings. If your course does not include this checkbox, this feature has not been enabled for your course. However, you can view the Feature Options tab in Course Settings to see if ePub Exporting has been allowed for your course instead. The ePub Exporting feature option allows you and your students to <a href="/t5/Instructor-Guide/How-do-I-view-course-content-offline-as-an-ePub-file-as-an/ta-p/905" target="_blank">download course content as an ePub file</a>. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="309b5ef1-1674-484d-bdda-45103a5ae41b">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/186/original/602b11af-01a4-4277-bbab-3dffc264f4e7.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92CDCB00-080D-0135-FBA2-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export_course_content" data-step-uuid="b13998a9-61b8-4b45-8583-7183423314a9">
+    <h2 id="export_course_content" class="step-title screensteps-heading">Export Course Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/388/226/original/9e8b60ac-457c-4536-a13a-020c63c2a1f6.png" srcset="" alt="Export Course Content" height="78" width="758">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92CDFBB0-080D-0135-FBA4-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Export Course Content </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export_course" data-step-uuid="111e8f90-7708-4d5a-a1b2-287c4729176d">
+    <h2 id="export_course" class="step-title screensteps-heading">Export Course</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/744/178/original/60137ab2-d2cb-479d-ae1f-a834c7ff13f6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/744/178/medium/60137ab2-d2cb-479d-ae1f-a834c7ff13f6.png" srcset="" alt="Export Course" height="294" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92CE2D80-080D-0135-FBA6-22000BC102FE" class="text-block-content">
+    <p>The course will download to your computer as a ZIP file. If you remain in the page until the download is complete, the file will download directly to your computer.</p>
+<p>If you leave the page, you'll receive an email notification when the course download is complete. You can use a link in the email to download the file.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_export_history" data-step-uuid="b681b7e5-fd50-49b4-9105-bf5e4d6095f8">
+    <h3 id="view_export_history" class="step-title screensteps-heading">View Export History</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/744/176/original/ea409716-2c02-4445-8cf1-2931a7f5cd92.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/744/176/medium/ea409716-2c02-4445-8cf1-2931a7f5cd92.png" srcset="" alt="View Export History" height="202" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92CF05D0-080D-0135-FBA8-22000BC102FE" class="text-block-content">
+    <p>When the export is complete, the Exported Package History page shows the most recent export. To download the export again, click the date of the export.</p>
+<p>If you export the course again at a later date, the most recent export will always display in the page, along with previous exports.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_zip_file" data-step-uuid="c6646c5f-e5bd-4251-acc3-68b6cdb89805">
+    <h2 id="open_zip_file" class="step-title screensteps-heading">Open ZIP File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/480/923/original/7e9d6561-23bd-4e20-a900-5bcf86855a9e.png" srcset="" alt="Open ZIP File" height="377" width="626">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92D02A10-080D-0135-FBAA-22000BC102FE" class="text-block-content">
+    <p>Once the file has been downloaded, locate the ZIP file on your computer [1]. Double click the file to open it (MAC users) or right-click the file and select Extract All (PC users). </p>
+<p>When the file expands, open the course folder [2] and open the index.html file [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_content" data-step-uuid="baaf5994-d861-4364-9215-9f1fc1ff590c">
+    <h2 id="open_course_content" class="step-title screensteps-heading">Open Course Content</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/480/926/original/207e296b-6a28-4454-93d7-d1980c666c39.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/480/926/medium/207e296b-6a28-4454-93d7-d1980c666c39.png" srcset="" alt="Open Course Content" height="382" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92D05900-080D-0135-FBAC-22000BC102FE" class="text-block-content">
+    <p>The HTML file will open in your default browser. Offline downloads include all content from the course at the time of the download [1]. You will need to download the course each time you want to view updated course content.</p>
+<p>If any content can only be accessed online, the content link includes an external icon identifying the content as online only [2].</p>
+<p>To view course files, click the <strong>Files </strong>link [3].</p>
+<p>To open course content, click the name of the content [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_course_content" data-step-uuid="03ec902c-f053-492d-af4d-2ea8133c9fe6">
+    <h3 id="view_course_content" class="step-title screensteps-heading">View Course Content</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/480/919/original/1b5b89e9-8f39-499b-b388-62e7fcc325fa.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/480/919/medium/1b5b89e9-8f39-499b-b388-62e7fcc325fa.png" srcset="" alt="View Course Content" height="423" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_92D08650-080D-0135-FBAE-22000BC102FE" class="text-block-content">
+    <p>View the content in the course file. </p>
+<p>To view the next content item in the module, click the <strong>Next </strong>button [1].</p>
+<p>To return to the main Modules page, click the name of the course in the page footer [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

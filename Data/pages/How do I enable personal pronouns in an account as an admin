@@ -1,0 +1,163 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_caa8c4c1-b585-481c-b10b-060dd25f4d28" class="text-block-content">
+    <p>You can enable personal pronouns in an account, add pronoun options, and customize how pronouns are displayed. </p>
+<p>When pronouns are enabled, users can select their personal pronouns in their User Settings. These pronouns will display with their username in the following areas in Canvas:</p>
+<ul>
+<li>Act as User Page</li>
+<li>Assignment Creation Menu</li>
+<li>Assignment Peer Review Page</li>
+<li>Course Sections List</li>
+<li>Discussions</li>
+<li>People Pages (Account, Course, and Group)</li>
+<li>Student Context Card</li>
+<li>User Navigation Menu</li>
+<li>User Profile</li>
+<li>User Settings</li>
+</ul>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Sub-account admins cannot enable personal pronouns within a sub-account.</li>
+<li>LTI tools, such as New Quizzes and Analytics, do not currently support displaying pronouns.</li>
+<li>To manage personal pronouns via the Canvas API, personal pronouns must be enabled in the account.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="header" data-step-uuid="67c40fcf-e965-474a-a832-629110d925d0">
+    <h2 id="header" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3a11e21b-7dd7-4dfd-a27b-0dc2e2ade826" class="text-block-content">
+    <p>Click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="721c574f-288e-4c50-ae62-1ddea6212310">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/026/409/original/a6c90e69-6b68-49a4-82d4-13de496c8f11.jpg" srcset="" alt="Open Settings" height="242" width="178">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7a9ef62a-ab57-447e-9da0-0b9bfbcef5de" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-personal-pronouns" data-step-uuid="fb61e916-3c2a-4063-abdd-ca8c526eb75a">
+    <h2 id="enable-personal-pronouns" class="step-title screensteps-heading">Enable Personal Pronouns</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/030/102/original/1f43a6d7-fc0e-4773-9239-f7810c552fa2.png" srcset="" alt="Enable Personal Pronouns" height="116" width="251">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b250aca2-15d4-4bce-aa4f-e7a6a2fed0f0" class="text-block-content">
+    <p>Personal pronouns are disabled by default. To enable personal pronouns, click the <strong>Enable Personal Pronouns</strong> checkbox.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="allow-users-to-change-pronouns" data-step-uuid="c7922e90-0a71-4140-a398-0ce658705938">
+    <h3 id="allow-users-to-change-pronouns" class="step-title screensteps-heading">Allow Users to Change Pronouns</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/870/567/original/1911bed3-10f3-4489-befd-07d4c539db50.png" srcset="" alt="Add Pronoun Option" height="226" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_578ca5e9-2073-4224-865a-5371c39205e2" class="text-block-content">
+    <p>To allow users to change their pronouns, click the <strong>Allow users to change their pronouns in Canvas</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-pronoun-options" data-step-uuid="b7f826e2-4615-4a37-b9d8-837eec49abd6">
+    <h2 id="view-pronoun-options" class="step-title screensteps-heading">View Pronoun Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/870/571/original/83a320b1-c0a6-4bc5-a47e-fbbcc5a2696d.png" srcset="" alt="View Pronoun Options" height="244" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a179b851-0c5a-4bf4-a3e1-54589a98b25e" class="text-block-content">
+    <p>By default, users in your account will be given three pronoun options: She/Her [1], He/Him [2], and They/Them [3]. To edit a pronoun option, remove the pronoun option and add the modified version.</p>
+<p>To remove a pronoun option, click the <strong>Remove</strong> icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-pronoun-option" data-step-uuid="f617a9e6-63c7-4ead-a4eb-0cb5e74e5e4b">
+    <h2 id="add-pronoun-option" class="step-title screensteps-heading">Add Pronoun Option</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/870/574/original/a0997661-77c9-49b6-bd14-bea3b0a7a1cb.png" srcset="" alt="Add Pronoun Option" height="226" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3a63174f-fd97-49e4-88c7-a3c373d250e0" class="text-block-content">
+    <p>To add a new pronoun option, type the new pronoun option in the Available Pronouns field. Press the Return or Enter key on your keyboard to add the new pronoun option.</p>
+<p><strong>Note:</strong> The Available Pronouns field accepts a maximum of 50 characters for a new pronoun option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update-settings" data-step-uuid="5dcb9f7d-41f3-4406-af71-4ccb8f9e3364">
+    <h2 id="update-settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/026/407/original/91ab5130-e4cf-481b-aea0-169a19878072.png" srcset="" alt="Update Settings" height="66" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a330ecad-23dd-4a3e-a132-2a46d4d29ac9" class="text-block-content">
+    <p>To save your personal pronoun options, click the <strong>Update Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="user-view" data-step-uuid="42dedfc6-de26-48ca-8714-335743792304">
+    <h2 id="user-view" class="step-title screensteps-heading">User View</h2>
+  </div>
+
+      <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/026/411/original/9db426df-3d0a-4e46-b8fd-5294d8b8fe53.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/026/411/medium/9db426df-3d0a-4e46-b8fd-5294d8b8fe53.png" srcset="" alt="User View" height="325" width="855">
+      </a>
+  </div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91dea51a-9ea5-4f82-b7f3-c02224d783bd" class="text-block-content">
+    <p>When pronouns are enabled and users are allowed to change their pronouns, users can select their personal pronoun option in their User Settings [1]. Only pronouns enabled in Account Settings can be selected; users cannot manually add their own pronouns.</p>
+<p>Their personal pronouns will display after their name in areas throughout Canvas [2].</p>
+  </div>
+</div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

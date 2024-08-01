@@ -1,0 +1,151 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8E8FBE30-2165-0135-5757-22000AB760A3" class="text-block-content">
+    <p>If the copyright and license information requirement is enabled in your course, you can set usage rights for all files that currently exist within the folder. Folders themselves cannot hold a usage right attribute, so the folder passes the usage right to the existing files in the folder at the time the usage right was defined. Therefore, you can create a folder, add all files to the folder, and then define the usage right for the folder and apply the right to all files at once.</p>
+<p>This action does not apply to any files added to the folder after the usage right is set. If additional files are added at a later time, you will have to reset the usage right for the folder or <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/796" target="_blank">set file usage rights</a> individually.</p>
+<p><strong>Note</strong>: You can manage course file usage rights through the File Copyright course details setting. To manage course usage rights, learn how to <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">set course details</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_files" data-step-uuid="fca3eeff-c91f-46bd-9bd3-c024dcd9923c">
+    <h2 id="open_files" class="step-title screensteps-heading">Open Files</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/765/598/original/6b6066f2-e11f-45fc-9bf7-cf118caf8241.png" srcset="" alt="Open Files" height="265" width="171">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E90DDF0-2165-0135-5759-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Files </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_usage_rights" data-step-uuid="e381ae52-e3ec-4f71-b0dc-be08f716f3e7">
+    <h2 id="manage_usage_rights" class="step-title screensteps-heading">Manage Usage Rights</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/906/596/original/650ea646-37f7-4a66-8277-fec5231e8d86.png" srcset="" alt="Manage Usage Rights" height="372" width="787">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E9111E0-2165-0135-575B-22000AB760A3" class="text-block-content">
+    <p>Click the line item for the folder [1]. Click the <strong>Usage Rights </strong>icon [2]. Or click the <strong>Options</strong> icon [3] and select the <strong>Manage Usage Rights </strong>link [4]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_usage_right" data-step-uuid="698e6103-abf6-49d7-b6de-9a0ed84cea22">
+    <h3 id="select_usage_right" class="step-title screensteps-heading">Select Usage Right</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/837/original/721d2745-6d89-4095-9b6d-b32d4e15fd12.png" srcset="" alt="Select Usage Right" height="390" width="706">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E9140B0-2165-0135-575D-22000AB760A3" class="text-block-content">
+    <p>In the <strong>Usage Right</strong> drop-down menu [1], select one of five usage rights. If you are an instructor and are not sure which usage right applies to all the files in your folder, please consult your institutional admin for guidance:</p>
+<ul>
+<li>I hold the copyright (original content created by you)</li>
+<li>I have obtained permission to use the file (authorized permission by the author)</li>
+<li>The material is in the public domain (explicitly assigned to public domain, cannot be copyrighted, or is no longer protected by copyright)</li>
+<li>The material is subject to an exception - e.g. fair use, the right to quote, or others under applicable copyright laws (excerpt or summary used for commentary, news reporting, research, or analysis in education)</li>
+<li>The material is licensed under <a href="https://creativecommons.org/licenses/" target="" rel="nofollow noopener noreferrer">Creative Commons</a>; this option also requires setting a specific Creative Commons license</li>
+</ul>
+<p>If known, enter the copyright holder information in the <strong>Copyright Holder</strong> field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set_folder_access" data-step-uuid="3c934655-3b21-4154-82f4-c8c23f781f64">
+    <h3 id="set_folder_access" class="step-title screensteps-heading">Set Folder Availability</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/707/369/original/1b4ba862-df8b-4ebc-8e23-fd1385633d2b.png" srcset="" alt="Set File Availability" height="198" width="245">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E917B10-2165-0135-575F-22000AB760A3" class="text-block-content">
+    <p>You can also set availability to all files in the folder. By default, all files are unpublished. You can also publish the folder or <a href="/t5/Instructor-Guide/How-do-I-restrict-files-and-folders-to-students-in-Canvas/ta-p/610" target="_blank">restrict access</a>.</p>
+<p>To select availability to the files in the folder, click the radio button next to the access type. </p>
+<p><strong>Note: </strong>This action does not apply to any files added to the folder after the usage right is set. If additional files are added at a later time, you will have to reset the usage right for the folder or <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/796" target="_blank"><span style="color:rgb(38,38,38);">set file usage rights</span></a> individually.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="set-file-visibility" data-step-uuid="3c8e6d07-d80a-4089-8e5d-d4555c2dcd6c">
+    <h4 id="set-file-visibility" class="step-title screensteps-heading">Set Folder Visibility</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/716/630/original/1fefd9b8-9171-4b0e-a42a-9c269ac54fe6.png" srcset="" alt="Set Folder Visibility" height="168" width="298">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c9322551-10ab-458c-b8aa-84b0b5384d3c" class="text-block-content">
+    <p>In Course Settings, visibility defaults to course visibility. However, for individual files, the default is whatever the instructor selected in <a href="/t5/Instructor-Guide/How-do-I-customize-visibility-options-for-course-content/ta-p/814" target="_blank">Course Settings</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_folder" data-step-uuid="4cb407d8-2d38-4601-a726-c94b915a6a2e">
+    <h2 id="save_folder" class="step-title screensteps-heading">Save Folder</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/841/original/b3abcb9e-3bdc-4f33-9549-e326af5abfcf.png" srcset="" alt="Save Folder" height="68" width="176">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E91AC40-2165-0135-5761-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_folder" data-step-uuid="9c010096-fb79-4aab-92f5-ad61ac5a2c1d">
+    <h2 id="open_folder" class="step-title screensteps-heading">Open Folder</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/441/297/original/3af24bf2-b9ed-4058-badd-f0c00666ce1a.png" srcset="" alt="Open Folder" height="196" width="824">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E91DED0-2165-0135-5763-22000AB760A3" class="text-block-content">
+    <p>Click the name of the folder with the usage right.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_files" data-step-uuid="922ca4ac-84ff-4541-a5cf-45ac51d58cad">
+    <h3 id="view_files" class="step-title screensteps-heading">View Files</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/441/292/original/449c8446-3ea3-4d79-a090-e975048ade64.png" srcset="" alt="View Files" height="284" width="766">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E921010-2165-0135-5765-22000AB760A3" class="text-block-content">
+    <p>View the usage right and status applied to all files in the folder.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

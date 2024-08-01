@@ -1,0 +1,34 @@
+Once I publish a quiz, how can I give my students extra attempts
+Open Quizzes
+In Course Navigation, click the Quizzes link.
+Open Quiz
+Click the name of the quiz.
+Add Extra Attempt through Student Quiz Results
+To add an extra attempt for an individual student, click the Options icon, then select the Show Student Quiz Results link.
+Select Student
+Under the heading Students who have taken the quiz, click the name of the student.
+Note: To give an extra attempt to students who have not taken the quiz, you need to add an attempt by moderating the quiz.
+Allow this Student an Extra Attempt
+Click the Allow this student an extra attempt button. The student will automatically receive an extra attempt for the quiz.
+Note: Quiz availability dates still apply when moderating a quiz. If the Until date passes before a student completes their extra attempt, any in-progress quizzes auto-submit and the quiz closes, even if the student's attempt has not expired.
+Add Extra Attempt through Moderate This Quiz
+To add attempts for one or more students, click the Moderate This Quiz link.
+Moderate Quiz
+To moderate a quiz for one student, locate the student and click the Edit icon. You can also filter students in your course by using the Search People field.
+Type the number of extra attempts you'd like to give to the student in the Extra Attempts field. 
+If your quiz is locked because of availability dates, you need to unlock the quiz for the student by clicking the manually unlock the quiz for the next attempt checkbox and update the availability dates for the individual student or the entire class.
+Notes: 
+The Extra Attempts field only displays for quizzes that have set the number of attempts allowed for students.
+If a quiz requires an access code, students will still need to enter that code to begin their quiz attempt after it has been manually unlocked.
+Quiz availability dates still apply when moderating a quiz. If the Until date passes before a student completes their extra attempt, any in-progress quizzes auto-submit and the quiz closes, even if the student's attempt has not expired.
+Adjust Additional Options
+Depending on your quiz settings, the student extension box may contain additional options.
+If the quiz has a time limit and you want to give more time, type the number of extra minutes in the Extra Time on Every Attempt field. If the student hasn't taken the quiz, the extra time will be added to the student's initial attempt and additional attempts. Learn more about managing extra time in timed quizzes.
+If the quiz is saved with the Only Once After Each Attempt option, you can let the student see the quiz results one more time. Results include both their responses and the correct answers. Once the student has viewed the quiz results, the results view extension will be reset and the results will be hidden again. Learn more about limiting quiz results.
+Note: If the Only Once option is selected and students have also been granted an extra attempt on the quiz, students will be able to view the results before they take the quiz, as well as after they complete the quiz. If students are allowed multiple attempts on a quiz, you may want to edit the quiz and select the Allow Multiple Attempts option, which gives an option to let students see their quiz responses only after the last attempt. 
+Save Changes
+Click the Save button.
+Moderate Quiz For Multiple Students
+If you want to select multiple students, click the checkbox next to each of their names. If you want to select all students, click the top checkbox. Click Change Extensions for [#] Selected Students button.
+Complete the extensions for the students you selected. Remember, depending on your quiz settings, additional quiz options may display for all selected students.
+When you are finished, click the Save button.

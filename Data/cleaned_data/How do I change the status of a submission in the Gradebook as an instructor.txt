@@ -1,0 +1,34 @@
+How do I change the status of a submission in the Gradebook as an instructor
+Open Grades
+In Course Navigation, click the Grades link.
+Open Grade Detail Tray
+Locate the student name and assignment where you want to change the status. Click the Gradebook cell and click the Grade Detail Tray icon.
+View Assignment Status
+The Status section of the Grade Detail Tray displays available status options. Any selected status is applied immediately. Depending on the assignment's settings and student submissions, a status may already be selected for you.
+Notes:
+Color status is only visible in the Gradebook and does not affect the student Grades page. 
+Depending on your institution, custom gradebook statuses may display.
+Select No Status
+To select no status, click the None radio button.
+The None status indicates that no status exists, or that the assignment was turned in before the due date. 
+When a grade is added to an assignment with a missing status, the missing label is automatically removed. You can also update any late or missing assignment to have no status if you do not want a label displayed in the student's grades page.
+Select Late Status
+To select a Late status, click the Late radio button. 
+The Late status indicates an assignment that was submitted after the due date. You can enter a number of how many days late the student submitted the assignment. 
+Note: Currently, the Late field is for reference only and has no effect on the student's grade.
+Select Missing Status
+To select a Missing status, click the Missing radio button. 
+The Missing status indicates an online assignment that has not been submitted and is past the due date.
+When a missing label is manually applied, the missing label is removed by a new submission or manual removal. Entering a score does not remove a manually-applied missing label.
+Note: When the Automatically apply grade for missing submissions setting is enabled, entering MI or mi in the assignment cell applies the missing status to an assignment.
+Select Excused Status
+To select an Excused status, click the Excused radio button. 
+The Excused status indicates that the student has been excused from making a submission. Students are not able to submit excused assignments, and excused assignments are not calculated in the student's total grade. You can also excuse an assignment by typing EX in the assignment cell. 
+Select Custom Status
+Depending on your institution, you may be able to view and select a custom status. 
+To select an custom status, click the custom status radio button. You cannot make changes to the custom statuses.
+View Assignment Status in Gradebook
+Assignment cells in the Gradebook will display the color assigned to the corresponding status.
+Student View Assignment Status
+The student grades page will display a label corresponding to the status setting in the Gradebook. Labels will display for late assignments or missing assignments. Excused assignments are noted by EX in the points column. Students who submit assignments that are marked EX can still see their scores when viewing their own grades. 
+Assignments with no status (none) do not display a label in the Status column of the student grades page.

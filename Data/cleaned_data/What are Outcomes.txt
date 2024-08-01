@@ -1,0 +1,58 @@
+What are Outcomes
+Account or Course Outcomes
+Outcomes enables the administration and faculty to track students’ progress as measured by pedagogical goals or desired outcomes. 
+Assessments created to test student knowledge or to require students to demonstrate a specific skill resulting from a learning activity can be aligned to learning outcomes using rubrics (which can be used for grading simultaneously). 
+Grading student work automatically collects and compiles data on student progress for the Outcomes. The data is available for reporting to support teaching improvement, identify at-risk students, and support the accreditation process. This unified, streamlined approach dramatically reduces the amount of work required to implement Learning Outcomes through the intelligent reuse of assessment workflows in the grading process.
+When would I use Outcomes?
+Use Outcomes to:
+Focus students' attention on the most important skills and activities in your course (find existing outcomes or create new ones)
+Align Quizzes and Assignments to different kinds of mastery
+Run reports at the account-level about student artifacts of learning mastery
+Assess student progress through calculation methods
+Track student progress on a learning outcome or overall in the Learning Mastery Gradebook 
+Align accreditation or other core standards to programs of study, courses, or student assessments
+Calculation Methods
+When users create an outcome, users can set one of four calculation methods used for student mastery: Weighted Average, Decaying Average, n Number of Times, Most Recent Score, and Highest Score. Calculation methods are used in conjunction within the Learning Mastery Gradebook.
+Calculation methods can be set when creating custom course outcomes (instructors) or creating custom account outcomes (admins). 
+Notes:
+For new Outcomes created in the Canvas interface, the default calculation is Weighted Average unless changed to another calculation. 
+For new Outcomes created using the Outcomes API, the default calculation is set as Highest Score but can be modified with the appropriate parameters. 
+If a user imports an outcome but does not have permission to modify the calculation method, the calculation method cannot be changed.
+Common Core outcomes are always calculated as Highest Score; however, the calculation method can be modified using the Outcomes API by any user with appropriate admin permissions.
+Weighted Average
+The Weighted Average calculation factors the average of all assessment items while weighing the most recent (current) submission to any assignment associated with this outcome at a higher percentage. 
+By default, the Canvas weighted average is set at 65/35, meaning the current item is weighted at 65%, and the average of all other user scores is weighted at 35%. However, users can specify between 1% and 99% for the current percentage, and prior scores are weighted against the percentage difference. Note that the average is rounded to the next two decimals. If there is only one result, then the single score will be displayed.
+For example, a student has four aligned items with scores of 4, 3, 2, and 5 (scores listed chronologically from oldest to most recent). If the current item is set to be weighted at 65% of mastery, prior scores are weighted at 35%:
+Current item score: 5
+Average of prior item scores: (4 + 3 + 2) / 3 = 3
+Calculated score: 5 (.65) + 3 (.35) = 3.25 + 1.05 = 4.3
+Decaying Average
+TheDecaying Average calculation uses a formula to determine proficiency based on students' average scores, giving more weight to the most recent scored. To determine the weight given to the most recent score, the formula uses a decay rate. The higher the formula's decay rate, the more heavily the most recent assessment is weighted.
+By default, the decay weight is set at 65%. However, you can adjust the rate to any percentage between 50% and 99%. Between two assessments, the most recent assessment gets 65% weight and the first gets 35%. For each additional assessment, the sum of the previous score calculations decay by an additional 35%. 
+For example, a student has scores of 1, 2, 3, 4 (scores listed chronologically from oldest to most recent):
+(1 × .35) + (2 × .65) = X
+(X × .35) + (3 × .65) = Y
+(Y × .35) + (4 × .65) = Z(this being the current standard score; 3.48)
+n Number of Times
+The n Number of Times calculation requires a specific number of times that mastery must be met or exceeded, and the number of aligned items that must be completed for calculation eligibility. Any scores that do not meet mastery are not part of the calculation.
+Users can specify between 1 and 10 items required for mastery.
+For example, a student is required to achieve mastery 2 times with a mastery score of 5. If the student has scores of 1, 3, 2, 4, 5, 3, and 6, only the scores of 5 and 6 would be part of the calculation.
+Average score of eligible items: 5 + 6 = 11
+Calculated score: 11 / 2 = 5.5
+Most Recent Score
+The Most Recent Score calculation always selects the most recent score for all assessment items.
+Highest Score
+The Highest Score calculation always selects the highest score for all assessment items.
+Select Average
+To select the average score from all assessment items, select the Average option.
+You can view an example of the Average calculation in the Example section.
+Note: Average is not a good fit for most outcomes-based or mastery-based learning use cases because students may need time to reach mastery of an outcome and early poorer performance can bring down an average.
+Outcome Mastery Scales
+If the Account and Course Level Outcome Mastery Scales feature option is enabled for your account, you can set mastery scales for the entire account.
+Learn more about mastery scales in an account or in a course.
+Outcome Mastery Calculations
+If the Account and Course Level Outcome Mastery Scales feature option is enabled for your account, you can set mastery calculations for the entire account.
+Learn more about mastery calculations in an account or in a course.
+Improved Outcomes Management
+If the Account and Course Level Outcome Mastery Scales feature option and the Improved Outcomes Management feature option are enabled for your account, the Outcomes page displays an improved interface for viewing and managing outcomes.
+Learn more about the Improved Outcomes Management in an account or in a course.

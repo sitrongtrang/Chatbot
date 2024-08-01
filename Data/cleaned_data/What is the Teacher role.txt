@@ -1,0 +1,47 @@
+What is the Teacher role
+Teacher Role Use
+Teachers may create course materials, view course data, and access and manage all areas of a Canvas course. For example, an instructor may be added to a course with the Teacher role to lead a course. 
+The main uses of the Teacher role are to allow a user to: 
+Create and modify course content
+Moderate and submit grades
+Manually invite others to the course
+Communicate with course participants
+Access course analytics and student data
+Monitor and moderate the participation and interactions of all enrolled users in a course
+When a user manually creates a course, Canvas automatically enrolls that user as a Teacher in the course. A teacher may also be enrolled in a course manually by an administrator or automatically by SIS import.
+Teacher Access in Canvas
+By default, instructors with the Teacher role may access all areas of a Canvas course. However, these permissions may vary among institutions. To learn more about Teacher participation in Canvas, visit the Canvas Instructor Guide. 
+A Teacher can: 
+Add and delete external applications (LTI) for a course
+Add, edit, and delete assignments, quizzes, course files and pages, and all other course content
+Add, edit, and delete items in a course calendar, including Scheduler appointments
+Add, edit, and delete learning outcomes associated with course content
+Create, view, and post to course announcements and discussions
+Create and edit rubrics
+Create conferences and student collaborations 
+Create, edit, and delete course sections and student groups
+Delete and lock discussions and edit others’ discussion posts
+Generate observer pairing codes for students
+Publish, conclude, and delete courses
+Read SIS data
+Send messages to other course users and to all members of a course
+View all student group pages for a course 
+View and comment on student submissions
+View and link to question banks
+View and manage course enrollments, including the enrollment of other teachers, course designers, teacher assistants, and students
+View course analytics
+View grade audit trail
+View, moderate, and edit all grades
+View usage reports for a course
+A Teacher cannot: 
+Create a Blueprint course
+Change the associated course term
+Masquerade as another user in a course
+Set up third party authentication for a course
+Unconclude a course
+Upload student enrollments via SIS imports
+View course change logs
+Teacher Role Limitations
+Teachers cannot modify availability of any of the above permissions. Only administrators can modify access to these functions. 
+Teachers can only create, modify, and moderate content for a course in which they are enrolled. 
+Only users with administrative permissions may import SIS data. Teachers cannot import SIS data. 

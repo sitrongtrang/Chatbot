@@ -1,0 +1,78 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6815CB70-1D60-0135-36FA-22000B5A851D" class="text-block-content">
+    <p>There are two types of users in Canvas: Account-level users and Course-level users.</p>
+<p>Canvas comes with one default Account-level user role that includes permissions that affect the entire account as well as courses. Account admins can <a href="/t5/Admin-Guide/How-do-I-add-an-account-level-role-in-the-Permissions-page/ta-p/99" target="_blank">create account-level user roles</a> with modified permissions. For more information about account-level permissions, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Account-Role-Permissions/ta-p/387078" target="_blank">Canvas Account Permissions resource document</a>.</p>
+<p>Canvas has five default Course-level user roles, each with permissions that affect their ability to interact with Canvas courses. Account admins can <a href="/t5/Admin-Guide/How-do-I-add-a-course-level-role-in-the-Permissions-page/ta-p/178" target="_blank">create course-level user roles</a>. For more information about course-level user permissions, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Course-Role-Permissions/ta-p/387080" target="_blank">Canvas Course Permissions resource document</a>.</p>
+<p>You can also <a href="https://community.canvaslms.com/t5/Video-Guide/Permissions-Admins/ta-p/383750" target="_blank">view a video about Canvas Permissions</a>.</p>
+<p><strong>Note: </strong>When you <a href="/t5/Admin-Guide/How-do-I-manage-the-Permissions-page/ta-p/114" target="_blank">edit a permission</a>, it can sometimes take 30 minutes or longer for that permission to take effect. If the expected changes do not appear immediately, try again after some time has passed.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="course_level_roles" data-step-uuid="8E0DD52B-93EF-4F6A-8A89-2D90DE209D6D">
+    <h2 id="course_level_roles" class="step-title screensteps-heading">Course-Level Roles</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/308/671/original/01d66b29-2194-43e5-a318-9be5fb7a8b6f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/308/671/medium/01d66b29-2194-43e5-a318-9be5fb7a8b6f.png" srcset="" alt="Course-Level Roles" height="470" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6815FF20-1D60-0135-36FC-22000B5A851D" class="text-block-content">
+    <p>Course-level roles are roles with permissions that allow a user course-level access. Usually users with these roles cannot see more than what is in their Canvas courses.</p>
+<p>Canvas provides five base course-level user roles that each include their own set of default permissions. You can manage the permissions according to the needs of your institution. You can also create <a href="/t5/Admin-Guide/How-do-I-add-a-course-level-role-in-the-Permissions-page/ta-p/178" target="_blank">custom course roles</a> that are created from a base role. The Canvas base roles are:</p>
+<ul>
+<li>
+<strong>Student [1] :</strong> These users are permitted to submit assignments. This permission should not be turned off for this role. Student permissions are restricted, but they have enough permissions to  access and interact with course materials. You may also grant other permissions to students.</li>
+<li>
+<strong>Teacher [2]:</strong> The teacher role grants a user course admin permissions, giving them control over their assigned course or courses. However, institutions can revise and limit these permissions as needed, depending upon the needs of your institution.</li>
+<li>
+<strong>TA [3]: </strong>These users have permissions similar to teachers except that TAs should not have access to SIS data. The TA role is meant to support the teacher role. Admins can manage TA permissions. For example, some institutions may permit TAs to grade student submissions.</li>
+<li>
+<strong>Designer [4]:</strong> These users are permitted to access and create course content, including announcements, assignments, discussions, and quizzes. Designer access to student information will vary from institution to institution. However, Designers cannot access grades. If your institution does not use Course Designers, you may choose to use this role as another TA user role that has more permissions than a regular TA.</li>
+<li>
+<strong>Observer [5]:</strong> This user role can be linked to a student user enrolled in a course. For example, parents, guardians, and/or mentors may wish to be linked to a student to view their course progress. Observers usually have the fewest permissions.</li>
+</ul>
+<p><strong>Note: </strong>All user permissions trickle down through an account. Additionally, all permissions modifications affect all users assigned to a role. You may need to create a custom course-level user role for users whose course-level permissions you would like to vary from others'.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="account_level_roles" data-step-uuid="857EC12B-0FE8-4DB8-8644-398C3926852B">
+    <h2 id="account_level_roles" class="step-title screensteps-heading">Account-Level Roles</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/813/388/original/7c2fcbde-b33f-431e-a6ec-22e7c51f37bd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/813/388/medium/7c2fcbde-b33f-431e-a6ec-22e7c51f37bd.png" srcset="" alt="Account-Level Roles" height="382" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_68164240-1D60-0135-36FE-22000B5A851D" class="text-block-content">
+    <p>Account admins have the power to set permissions for all users in Canvas. Admins can <a href="/t5/Admin-Guide/How-do-I-add-an-account-level-role-in-the-Permissions-page/ta-p/99" target="_blank">create additional account-level roles</a> with account-level permissions. The default permissions for account admins can include access to everything within the account, plus the ability to masquerade as a user.</p>
+<p>Each sub-account has its own permissions page, so admins can create account-level roles within a sub-account and add sub-account permissions directly within the sub-account. Sub-account admins can only only manage permissions and settings for the sub-accounts to which they've been assigned. However, some permissions may not be available for sub-account users. To learn more, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Account-and-Sub-Account-Role-Comparison/ta-p/387045" target="_blank">Account vs. Sub-Account Comparisons resource document</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

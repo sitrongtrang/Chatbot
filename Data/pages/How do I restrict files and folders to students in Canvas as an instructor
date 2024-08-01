@@ -1,0 +1,132 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2F9A2260-2159-0135-E1C2-22000AB760A3" class="text-block-content">
+    <p>Users can edit permissions for files, including setting the state of the file (published or unpublished), restrict file access to students who have the link, or schedule availability dates for the files.</p>
+<p>When the Only available with link option is set, the file can only be viewed if students are given the link to the file. This option only hides files from students in Course Files. This functionality is not valid outside of the Files feature. For instance, if a file with a student visibility restriction is added to a Module or Assignment, the file can always be viewed by students. Course users who have enabled the Files notification preference will still receive a notification when a file is added to the course if the Only available to students with link option is selected.  </p>
+<p>When the student availability date restriction is set, students cannot view the file in Course Files outside of the restriction dates. If the file is linked in another area of Canvas (such as Modules or Assignments), students will be able to see the name of the file, but if they click the file, they will see a message stating that the file has been locked and cannot be viewed until the specified date. Course users who have enabled the Files notification preference will not receive a notification when a file is added to a course if the student availability date restriction is selected. </p>
+<p><strong>Note:</strong> You can also restrict a file or folder as part of <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/796" target="_blank">setting usage rights for files</a> or <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/898" target="_blank">setting usage rights for folders</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_files" data-step-uuid="E85B1596-1491-4407-BE09-5A543942C2F4">
+    <h2 id="open_files" class="step-title screensteps-heading">Open Files</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/765/558/original/f28a7c54-cf58-4466-877b-54663bfe613d.png" srcset="" alt="Open Files" height="265" width="171">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2F9A65C0-2159-0135-E1C4-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Files </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_file" data-step-uuid="3048B198-1BC9-4B52-BA47-A2EC613A949D">
+    <h2 id="select_file" class="step-title screensteps-heading">Select File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/209/547/original/5d44b2a3-2cd3-4574-8ef2-63306c9a7e4d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/209/547/medium/5d44b2a3-2cd3-4574-8ef2-63306c9a7e4d.png" srcset="" alt="Select File" height="282" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2F9A9820-2159-0135-E1C6-22000AB760A3" class="text-block-content">
+    <p>By default course files are visible, published, and accessible to all users and display a <strong>published</strong> icon [1]. Teachers and TAs can restrict file and folder availability [2], which means the content will only be accessible to teachers and TAs in the course as long as the file is not placed to a content area outside of Files (e.g. Modules, Assignments). </p>
+<p>To edit file visibility permission, click a file's <strong>published </strong>or <strong>unpublished</strong> icon [3].</p>
+<p><strong>Note:</strong> If required by course or account settings, you may need to manage file usage rights before publishing [4]. Learn about <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/796" target="_blank">managing file usage rights</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_file_available_to_students_with_link" data-step-uuid="3bbab1cb-c8e7-42fc-b3b0-44540a7c8f4d">
+    <h2 id="set_file_available_to_students_with_link" class="step-title screensteps-heading">Manage Visibility in Student Files</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/209/549/original/3a096f89-6733-4081-ac51-5d0a68bbe2de.png" srcset="" alt="Manage Visibility in Student Files" height="403" width="808">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2F9AF9C0-2159-0135-E1CA-22000AB760A3" class="text-block-content">
+    <p>The default restriction option is to make the file only available to students with the link. The <strong>Only available with link </strong>radio button [1] makes the file available to students who are given a link to the file. The file will be hidden from students in Course Files.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The option to make a file only available with a link only applies to Course Files; if you add this file to another area of Canvas, such as Assignments or Modules, all students can view the file.</li>
+<li>When new files are uploaded, the file visibility matches the setting specified in Course Settings. However, you can click the <strong>Visibility</strong> drop-down menu [2] and select another visibility option.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="schedule_student_availability" data-step-uuid="5fb9b6d0-7a0c-4d28-bd5a-6fc4ce5d485a">
+    <h2 id="schedule_student_availability" class="step-title screensteps-heading">Schedule Student Availability</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/209/551/original/8325eaca-6783-4868-bafe-6d3d534d6cce.png" srcset="" alt="Schedule Student Availability" height="440" width="805">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2F9B2960-2159-0135-E1CC-22000AB760A3" class="text-block-content">
+    <p>By scheduling availability to a file or folder, you can give students a window of time to view the file. Students can view the file in Course Files as well as other areas of Canvas where the file has been added during the availability window. If students attempt to access the file outside the availability window, the file is inaccessible.</p>
+<p>To set student availability dates, click the <strong>Schedule availability</strong> radio button [1]. Then, enter the starting date for the file to be available in the <strong>Available From</strong> field [2]. If applicable, enter the date when students can no longer view the file in the <strong>Available Until</strong> field [3]. You can use the calendar to enter a date, or you can enter a date manually.</p>
+<p>With manual entries, the setting for Available From and Available Until is set up to only accept input in one of the following inputs: </p>
+<ul>
+<li>dd/mm/yyyy 00:00 (24hr) Ex. 27/02/2013 23:59 </li>
+<li>dd/mm/yyyy 00:00am/pm Ex. 27/02/2013 11:59pm </li>
+<li>Mon Da 00:00am/pm Ex. Feb 27 11:59pm </li>
+<li>Mon Da 00:00 (24hr) Ex. Feb 27 23:59 </li>
+</ul>
+<p><strong>Note:</strong> The time field is optional and, if not selected, defaults to 12am.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_file" data-step-uuid="1536ba61-cbd5-4e82-9533-ee7d8228d542">
+    <h2 id="update_file" class="step-title screensteps-heading">Update File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/787/original/ca96588b-829f-432a-8b20-272cfa635c5c.png" srcset="" alt="Update File" height="66" width="191">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2F9B5CE0-2159-0135-E1CE-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Update</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_file" data-step-uuid="8933B208-AB9E-4858-9BB8-B183537913ED">
+    <h2 id="view_file" class="step-title screensteps-heading">View File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/109/516/original/e378d991-e178-4080-84d2-51caef5f26e3.png" srcset="" alt="View File" height="230" width="814">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2F9B8D20-2159-0135-E1D0-22000AB760A3" class="text-block-content">
+    <p>View the restricted status for the file. Hover over the icon to view the details.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

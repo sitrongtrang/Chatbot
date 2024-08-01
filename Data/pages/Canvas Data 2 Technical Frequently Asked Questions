@@ -1,0 +1,210 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_62CF8C8D-B8B6-4E85-9D5E-3FA9E18E99DF" class="text-block-content">
+    <p>This document includes some of the technical frequently asked questions about Canvas Data 2 (CD2).</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="what-is-canvas-data-2" data-step-uuid="10976438-C832-4A75-BF7A-EA486A5300F9">
+    <h2 id="what-is-canvas-data-2" class="step-title screensteps-heading">What does the timestamp 'ts' mean in the 'meta' field of the query result-set?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_98E6DE26-3788-4765-BDFF-D0B935D0008E" class="text-block-content">
+    <p><code>ts</code> is a last modified timestamp (or commit time) for the record in the table. When a new record is inserted into a table hosted by CD2, it is assigned the time of insertion. When that record is later updated, the timestamp is refreshed to match the time when the update took place. Finally, when the record is eventually deleted, the timestamp reflects the time of deletion.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-do-since-and-unti-l-relate-to-ts-in-the-result-set" data-step-uuid="0e08bf69-80cd-4f55-976e-fd6594c85349">
+    <h2 id="how-do-since-and-unti-l-relate-to-ts-in-the-result-set" class="step-title screensteps-heading">How do 'since' and 'until' relate to 'ts' in the result-set?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c5f63c93-b935-497b-b1ee-811fde5391df" class="text-block-content">
+    <p><code>since</code> and <code>until</code> are filters on the commit time (or last modified timestamp). All records in the result-set are in range of <code>since</code> and <code>until</code>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="can-i-get-duplicate-records-of-the-same-key-in-the-result-set" data-step-uuid="b89061f8-1fee-47b7-b657-5ca9000efb27">
+    <h2 id="can-i-get-duplicate-records-of-the-same-key-in-the-result-set" class="step-title screensteps-heading">Can I get duplicate records of the same key in the result-set?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bf3dad22-0ab7-4998-ae78-48e316c46603" class="text-block-content">
+    <p>No; keys in the result-set of a snapshot or incremental query are always unique.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-do-i-turn-an-incremental-query-result-set-into-a-sql-statement" data-step-uuid="9a7bcb6d-f0f1-4892-bd90-fb572a2239f8">
+    <h2 id="how-do-i-turn-an-incremental-query-result-set-into-a-sql-statement" class="step-title screensteps-heading">How do I turn an incremental query result-set into a SQL statement?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_736215e6-d88d-4be3-b96b-1ebb0dceb3ef" class="text-block-content">
+    <p><strong>You would probably want to use an INSERT-or-UPDATE statement. In PostgreSQL, this looks like as follows:</strong></p>
+<pre><code>INSERT INTO ... (...)
+VALUES (...) 
+ON CONFLICT (...) 
+DO UPDATE SET ...</code></pre>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="what-do-i-do-with-records-in-the-result-set-that-have-a-key-but-no-value" data-step-uuid="b67c1a89-00cb-4083-8f50-0b254007834e">
+    <h2 id="what-do-i-do-with-records-in-the-result-set-that-have-a-key-but-no-value" class="step-title screensteps-heading">What do I do with records in the result-set that have a 'key' but no 'value'?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e748bb6c-bfe8-413c-b553-0f2dbe0b6951" class="text-block-content">
+    <p>Output records that have a <code>key</code> field but no <code>value</code> field correspond to deleted records. The data is no longer available in Instructure's systems, and should also be deleted from your local copy. These records are also marked with an action of D in meta.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="what-does-__cd2_oversized_truncated__-mean-some-of-the-fields-columns-can-have-this-as-a-value" data-step-uuid="15c26ace-31b0-419e-98d9-0a7437ab32ef">
+    <h2 id="what-does-__cd2_oversized_truncated__-mean-some-of-the-fields-columns-can-have-this-as-a-value" class="step-title screensteps-heading">What does '__cd2_oversized_truncated__' mean? (Some of the fields/columns can have this as a value.)</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0037f70f-2969-43f4-971f-5bdff5ae16e9" class="text-block-content">
+    <p><code>__cd2_oversized_truncated__ </code> is a special placeholder (string constant) that indicates that the original data was too large to include in the result, usually several MBs in size. Unfortunately, it is not possible to recover the value of these fields/columns. However, such large values are typically the result of a mistake (e.g. a student copying a binary Word document into a plain text field), and seldom carry valuable information useful for analytics.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-do-i-capture-the-state-of-the-database-at-some-point-in-time" data-step-uuid="9e2b72a3-f145-4b3a-ab44-cadeec4b6d61">
+    <h2 id="how-do-i-capture-the-state-of-the-database-at-some-point-in-time" class="step-title screensteps-heading">How do I capture the state of the database at some point in time?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57ac900d-c174-4b10-b727-e01e64ba3554" class="text-block-content">
+    <p>CD2 doesn't support point-in-time queries, you cannot reconstruct a previous historical state of the database, you can only synchronize your local copy to the most up-to-date state kept by Instructure.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-do-i-get-all-data-from-the-beginning-of-time-to-a-specific-date" data-step-uuid="8653c968-c78b-47e8-820c-e31f7c82527b">
+    <h2 id="how-do-i-get-all-data-from-the-beginning-of-time-to-a-specific-date" class="step-title screensteps-heading">How do I get all data from the beginning of time to a specific date?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_505cbdd9-c4d7-454f-9975-0547d0e2c180" class="text-block-content">
+    <p>Unfortunately, this is not supported by CD2. CD2 lets you bring your local database in sync with the current database state at Instructure. If a record has been updated or deleted in the source database in Instructure's domain, you cannot retrieve the previous versions of that record. However, records are available indefinitely so long as they exist in Instructure's systems, they don't fade away over time. For example, you should be able to get all courses a student has applied to, or all assignments they have submitted, because they all appear as different records, not versions of the same record.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-do-i-get-a-stream-of-all-record-transitions" data-step-uuid="e0ed4c82-0fe9-47e4-94d3-bda2de181d6c">
+    <h2 id="how-do-i-get-a-stream-of-all-record-transitions" class="step-title screensteps-heading">How do I get a stream of all record transitions?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47b21a2e-f3c5-48fe-92cb-9df9615e5ee4" class="text-block-content">
+    <p>CD2 lets you bring your database to the latest state but doesn't (reliably) return interim states. Even if you try to poll the CD2 API query job endpoint with a short interval, multiple change data capture events to the same record will be coalesced into a single change, and only that single change will be returned in the incremental query result-set. CD2's output cannot serve as a change log of all database transitions, only as a means to bring your local database up-to-date with the latest state in Instructure's systems.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="troubleshooting" data-step-uuid="64ef3548-2913-4a05-a0de-0944eeb004bd">
+    <h2 id="troubleshooting" class="step-title screensteps-heading">Troubleshooting</h2>
+        <div class="step screensteps-section screensteps-depth-2" id="i-got-an-http-4xx-status-code-as-a-response" data-step-uuid="65263829-09e4-4ebb-a404-64c0159ccd5b">
+    <h3 id="i-got-an-http-4xx-status-code-as-a-response" class="step-title screensteps-heading">I got an HTTP 4xx status code as a response.</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cb2d7109-6396-443e-a08a-ee5c44843d80" class="text-block-content">
+    <p>An HTTP 4xx class error (e.g. HTTP 400 Bad request) is a permanent error. To learn more about why your request was rejected, check the payload of the HTTP response. The HTTP body should be an <code>application/json</code> media type and contain an object with the <code>error</code> property. This includes information on why the request was rejected.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="some-of-my-queries-return-a-result-set-in-which-meta-has-a-field-called-action-with-values-u-and-d-however-other-queries-don-t-have-this-field" data-step-uuid="c7fa7336-9de4-4fed-b79d-5766648c55fe">
+    <h3 id="some-of-my-queries-return-a-result-set-in-which-meta-has-a-field-called-action-with-values-u-and-d-however-other-queries-don-t-have-this-field" class="step-title screensteps-heading">Some of my queries return a result-set in which 'meta' has a field called 'action' with values 'U' and 'D'. However, other queries don't have this field.</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5ecff0c9-cb0a-45e6-8ce3-e0967e9549a6" class="text-block-content">
+    <p>Incremental queries have the field <code>action</code> in <code>meta</code>, which specifies if a record was <em>upserted</em> (inserted or updated) or <em>deleted</em>. If a record is upserted, you would typically use an INSERT-or-UPDATE SQL statement in your database to update the record. If a record is deleted, you would use the DELETE SQL statement to remove the record.</p>
+<p>Snapshot queries don't have <code>action</code> because it would be a redundant field. Snapshot queries assume your database is empty, and all records are to be inserted. You would typically use a COPY or INSERT statement to populate the database.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="when-i-try-to-load-a-result-set-with-csv-format-into-another-tool-i-get-an-unexpected-end-of-line-error" data-step-uuid="14395904-5d8f-4e50-bd21-775667c0f6a4">
+    <h3 id="when-i-try-to-load-a-result-set-with-csv-format-into-another-tool-i-get-an-unexpected-end-of-line-error" class="step-title screensteps-heading">When I try to load a result-set with CSV format into another tool, I get an unexpected end of line error.</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5fa94795-bb41-4a3a-a7f7-36856ea6afd2" class="text-block-content">
+    <p>CSV output in CD2 complies with <a href="https://www.rfc-editor.org/rfc/rfc4180.html" target="_blank" rel="nofollow noopener noreferrer">RFC 4180</a>. Section 2.6 of this specification, which talks about how newlines in values are represented, is often inadequately implemented in tools. Specifically, if a value has an embedded newline character, the output should be enclosed in double quotes, but the newline character should be represented verbatim (not as an escape sequence). However, tools often assume that a record always fits a single line, which is not the case under these circumstances.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="the-sample-postgresql-create-script-has-create-type-as-but-my-data-warehouse-or-database-engine-does-not-support-this-syntax" data-step-uuid="bcfa1462-2c56-4005-959a-3de9f3bee6d6">
+    <h3 id="the-sample-postgresql-create-script-has-create-type-as-but-my-data-warehouse-or-database-engine-does-not-support-this-syntax" class="step-title screensteps-heading">The sample PostgreSQL create script has 'CREATE TYPE ... AS (...)' but my data warehouse or database engine does not support this syntax.</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e39492c2-4646-4e0f-b256-659f30c7a869" class="text-block-content">
+    <p>The reference PostgreSQL script to create the database has so-called nested types. Not all database engines have nested types. If your engine doesn't support them, you can use the more generic SQL type <code>json. json</code> allows you to insert arbitrary nested structures as JSON data. However, you may not be able to filter on <code>json</code> columns as effectively as other column types.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="i-am-getting-an-error-that-there-is-no-data-available-for-the-range-or-the-range-is-out-of-bounds" data-step-uuid="2a0c728d-e49d-47a7-a5ef-887eba21f373">
+    <h3 id="i-am-getting-an-error-that-there-is-no-data-available-for-the-range-or-the-range-is-out-of-bounds" class="step-title screensteps-heading">I am getting an error that there is no data available for the range, or the range is out of bounds.</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7040407c-6e81-4594-aca6-3101a169bd91" class="text-block-content">
+    <p>Make sure you properly chain your incremental queries. You should always use the <em>until</em> timestamp of the previous incremental query (or the <em>at</em> timestamp of your initial snapshot query) as the <em>since</em> timestamp of the next incremental query. You shouldn't specify arbitrary values for these parameters, only re-use those returned by a previous response.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="it-seems-that-i-cannot-provide-an-unti-l-timestamp-unless-i-also-provide-a-since-timestamp" data-step-uuid="1bdfbc80-37f0-4c75-82ab-6d23b0351ff2">
+    <h3 id="it-seems-that-i-cannot-provide-an-unti-l-timestamp-unless-i-also-provide-a-since-timestamp" class="step-title screensteps-heading">It seems that I cannot provide an 'until' timestamp unless I also provide a 'since' timestamp.</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7fc0ffe8-0bed-4585-8377-3ffb5716f307" class="text-block-content">
+    <p>Timestamps <em>since</em> and <em>until</em> are means of chaining incremental queries. You should always use the <em>until</em> timestamp of the previous incremental query as the <em>since</em> timestamp of the next incremental query. CD2 stores only the latest state of any record, <em>until</em> cannot be used to reconstruct the state of a record at a past point in time.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="some-part-or-sequence-numbers-are-missing-in-the-set-of-files-returned-by-cd2-api" data-step-uuid="3ff896ab-deeb-4933-8dde-fff0df720852">
+    <h3 id="some-part-or-sequence-numbers-are-missing-in-the-set-of-files-returned-by-cd2-api" class="step-title screensteps-heading">Some part or sequence numbers are missing in the set of files returned by CD2 API.</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41d1a7ff-11b9-4de8-a6b7-a9c7ec22de03" class="text-block-content">
+    <p>CD2 API may return S3 objects that don't have contiguous sequence numbers, e.g. <code>part1</code>, <code>part2</code>, <code>part5</code> may be present whereas <code>part3</code> and <code>part4</code> may be missing. This is not an error.</p>
+<p>File names, in general, are informative. You shouldn't make any assumptions based on the file name pattern.</p>
+<p>The files that the CD2 API is returning are generated by independently executing concurrent tasks. Depending on the execution context, input parameters, etc. a task may find several records that match the query, or it may fail to find any record. Furthermore, a task may be killed while it's processing records and it's workload might be delegated to another task. Therefore, the numbers may not be contiguous, which explains why you might have a <code>part1</code> and a <code>part5</code> but no <code>part4</code>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="some-files-returned-by-cd2-api-are-empty-possibly-except-for-the-header" data-step-uuid="df3dca9d-5a63-497f-b9c1-c26774af133e">
+    <h3 id="some-files-returned-by-cd2-api-are-empty-possibly-except-for-the-header" class="step-title screensteps-heading">Some files returned by CD2 API are empty (possibly except for the header).</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_723c7c9b-959d-4c9f-b9fe-ad0e869cc81b" class="text-block-content">
+    <p>Each output file produced by the CD2 API may contain zero or more records. An integration script should be able to handle the case when the file contains no records.</p>
+<p>The files that the CD2 API is returning are generated by independently executing concurrent tasks. Depending on the execution context, input parameters, etc. a task may find several records that match the query, or it may fail to find any record. If no records are matched, an empty file is returned.</p>
+<p>Empty files are handled automatically by the <a href="https://pypi.org/project/instructure-dap-client/" target="_blank" rel="nofollow noopener noreferrer">official CD2 client library</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,150 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_a1559a3a-6aaa-410a-80b3-b2ed171c0902" class="text-block-content">
+    <p>You can use posting policies in the Gradebook to manage assignment grade visibility for students. Posted grades are visible to students in your course. Hidden grades are visible to you in the course gradebook, but students cannot see them.</p>
+<p>Posting policies can be set for an entire course and/or individual assignments. Assignment-level posting policies will override the course-level posting policy for that assignment. When a posting policy is set to automatic, grades are automatically posted to students when they are entered. When a posting policy is set to manual, grades must be manually posted to students using the Post grades option before they can be viewed.</p>
+<p>Posted grades can also be hidden using the Hide grades option. The Hide grades option only hides grades that are currently visible to students. In order to ensure all future assignment grades are hidden, you will need to use a manual posting policy for the assignment or course.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>It is recommended that you set course and assignment posting policies before entering grades. </li>
+<li>In Classic Quizzes, students will not be able to see their quiz responses while quiz grades are hidden.</li>
+<li>In New Quizzes, hiding grades does not affect a student's ability to access their quiz scores. Student visibility of New Quizzes scores must be managed from the <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-manage-settings-for-a-quiz-in-New-Quizzes/ta-p/581" target="_blank">quiz settings menu</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-post-policies-flowchart" data-step-uuid="e40dba93-646e-4089-8524-c3b4addb2719">
+    <h2 id="view-post-policies-flowchart" class="step-title screensteps-heading">View Posting Policies Flowchart</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/006/970/original/03e9669a-ea4f-4ecf-9f27-053ec8ec26a2.png" srcset="" alt="View Post Policies Flowchart" height="795" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b8ddbfcd-4809-49c8-a4b2-3e855885d2f8" class="text-block-content">
+    <p>This flowchart outlines how posting policies work for instructors in their courses. You should select a course posting policy based on your general grade posting preference. You can then set posting policies for individual assignments as needed.</p>
+<p>You can also hide previously posted grades, especially if you need to fix errors or if grades were posted erroneously. </p>
+<p>When students have set grade notification settings, they will receive notifications when grades are posted, as indicated in the flowchart. </p>
+<p>You can also <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Student-Grade-Visibility-Flowchart/ta-p/387095" target="_blank">view this flowchart as an interactive PDF</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-a-course-post-policy" data-step-uuid="62f2127a-8f72-436e-8014-626e8fa2d4a6">
+    <h2 id="set-a-course-post-policy" class="step-title screensteps-heading">Set a Course Posting Policy</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/725/669/original/af960422-b970-49db-a1d6-6a1356fe3edc.png" srcset="" alt="Set a Course Posting Policy" height="325" width="812">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43d94ed5-d939-4e3d-a442-7f46edffcbf3" class="text-block-content">
+    <p>By default, Canvas courses have an <strong>Automatic</strong> posting policy [1]. Assignment grades, grading comments and submission annotations are visible to students as soon as grades are entered in the Gradebook or submitted in SpeedGrader.</p>
+<p>Alternatively, you can select a <strong>Manual</strong> posting policy for your course [2]. Assignment grades, grading comments and submission annotations are hidden from students until manually posted. Submission Annotations alone will not trigger the option to post grades; a grade or grading comment would need to be entered. Students can see peer review comments when assignment grades are hidden. However, students can only see instructor comments if the instructor posts grades or submission comments.</p>
+<p>Learn how to <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-a-course-in-the/ta-p/588" target="_blank">select a course posting policy</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-an-assignment-post-policy" data-step-uuid="ee5e57bf-6d25-4760-9a4e-88ea31f47a24">
+    <h2 id="set-an-assignment-post-policy" class="step-title screensteps-heading">Set an Assignment Posting Policy</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/305/663/original/32855889-fb81-4fa6-80ac-03258ec947e6.png" srcset="" alt="Set an Assignment Posting Policy" height="408" width="270">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c64cd267-4cf2-48a8-8e33-d2f3561f5bb7" class="text-block-content">
+    <p>You can also select grade posting policies for individual assignments. When you set an individual assignment posting policy, the course posting policy is overridden for that assignment.  </p>
+<p>For example, if you use an Automatic course posting policy, you may wish to hide assignment grades for a specific assignment until all submissions are graded. You can set a Manual posting policy for the assignment, and grades will remain hidden from student view until you manually post them in your course.</p>
+<p>Learn how to <a href="/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-an-assignment-in-the/ta-p/574" target="_blank">select an assignment posting policy</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="post-hidden-grades" data-step-uuid="33d86cff-fa17-4685-88aa-8d3582aac345">
+    <h2 id="post-hidden-grades" class="step-title screensteps-heading">Post Hidden Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/034/021/original/f2a3e2a1-9365-4441-a4ec-c42b9a080b56.png" srcset="" alt="Post Hidden Grades" height="474" width="332">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f31e8c57-1529-443d-8872-24f7a83a0014" class="text-block-content">
+    <p>When you are ready to make grades visible to students, you can post grades and/or submission comments for a specific assignment. You can post grades for everyone in the course [1], or you can post only grades for graded submissions [2].</p>
+<p>When you post grades for everyone, ungraded submissions display no grade. </p>
+<p>When you post grades for graded submissions and/or submission comments, any ungraded assignment grades that are updated later will remain hidden until manually posted. </p>
+<p>If you make updates to posted grades, students can view these updates and, depending on their notification settings, may receive a grade-change notification.  </p>
+<p>Learn about <a href="/t5/Instructor-Guide/How-do-I-post-grades-for-an-assignment-in-the-Gradebook/ta-p/576" target="_blank">posting grades for an assignment</a>. Learn about <a href="/t5/Instructor-Guide/How-do-I-hide-or-post-assignment-grades-in-SpeedGrader/ta-p/1000" target="_blank">posting grades for an assignment from SpeedGrader</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="hide-posted-grades" data-step-uuid="00404c25-8705-4e4a-8971-39b2719f0ddc">
+    <h2 id="hide-posted-grades" class="step-title screensteps-heading">Hide Posted Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/944/641/original/bd6769b6-3f55-4dd1-bf31-f49c68145100.png" srcset="" alt="Hide Posted Grades" height="529" width="323">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97df2564-bdd4-43d9-8b76-394a0a970d33" class="text-block-content">
+    <p>If you need to hide grades that have already posted for students to view, you can Hide Grades in the gradebook. Hiding grades only affects grades that were previously entered. </p>
+<p>Learn about <a href="/t5/Instructor-Guide/How-do-I-hide-grades-that-were-previously-posted-in-the/ta-p/721" target="_blank">hiding assignment grades</a>. Learn about <a href="/t5/Instructor-Guide/How-do-I-hide-or-post-assignment-grades-in-SpeedGrader/ta-p/1000" target="_blank">hiding grades for an assignment from SpeedGrader</a>.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>When you hide grades, the assignment retains its posting policy. If you add assignment grades for additional students to an assignment with an automatic posting policy, those grades display for students.</li>
+<li>After hiding grades, if you want to hide additional student grades for the assignment, set the assignment posting policy to Manual. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-gradebook-post-policy-icons" data-step-uuid="3621436b-80dd-4d2a-b0b7-7d3064b02ddc">
+    <h2 id="view-gradebook-post-policy-icons" class="step-title screensteps-heading">View Gradebook Posting Policy Icons</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/944/630/original/6447890e-ea58-4a42-a19a-2ee243ab9b0a.png" srcset="" alt="View Gradebook Post Policy Icons" height="317" width="756">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_069f8f8a-4422-42d2-92de-3339baff8c8e" class="text-block-content">
+    <p>Assignments with a manual posting policy display a <strong>Manual</strong> label [1].<strong> </strong>When you enter grades for manual posting policy assignments, the gradebook displays a <strong>Visibility</strong> icon [2]. Students cannot see their assignment grade until you post them. Additionally, when an assignment grade is hidden for a student, the Total column displays a <strong>Visibility</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student-view" data-step-uuid="e50edd63-b0fe-454d-8d9c-dcd02d55b1b3">
+    <h2 id="student-view" class="step-title screensteps-heading">Student View</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/275/965/original/5a1a2090-46a2-45bd-845f-7cdea216f41d.png" srcset="" alt="Student View" height="115" width="654">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9f82bf94-141b-47a3-bdf0-d20c40742b43" class="text-block-content">
+    <p>When assignment grades are hidden, the student grades page displays a <strong>Visibility</strong> icon. Posted grades display in place of the icon.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

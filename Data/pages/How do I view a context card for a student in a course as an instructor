@@ -1,0 +1,180 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_54F600A0-067D-0135-4202-22000AB760A3" class="text-block-content">
+    <p>You can click a student's name anywhere in Canvas to view a summary of the student's progress in the course. Context cards do not apply outside a course, such as in the Conversations Inbox.</p>
+<p>Student context cards provide insights and context about the student. Context cards are meant to be a simplified overview of a student’s progress. The context is generated from grades in the Gradebook and standard page view and participation activity in course analytics. Mobile data is not included unless a user accesses Canvas directly through a mobile browser, or if a user accesses content within the mobile app that redirects to a mobile browser.</p>
+<p><strong>Context Card Users</strong></p>
+<p>Context cards only apply to users with student roles; they are not supported for user names where the user is not a student (e.g. observer, TA, or other instructor). Clicking links for non-student roles will always direct to the user’s details page or profile page (if your institution has enabled the Profiles feature).</p>
+<p><strong>Context Card Link Locations</strong></p>
+<p>This lesson shows how to view a context card for a student from the People page. Other areas where student names display in courses include announcement and discussion replies, the Gradebook, and the Moderate page for moderated assignments. Current exceptions include links in groups and student links in the Course Analytics page, which link to the student’s individual analytics page.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If the final grade override feature is enabled, the override grade will display as the student's current grade.</li>
+<li> If a section has been inactivated via SIS, an Inactive label displays next to the section name.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_people" data-step-uuid="e38df38f-79cd-44d0-be4b-65e38a955111">
+    <h2 id="open_people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/087/original/50346d0a-f6b3-4400-bc05-85550c392bd6.png" srcset="" alt="Open People" height="239" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_54F686D0-067D-0135-4204-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="locate_student" data-step-uuid="cd46f55f-150a-414e-8802-1154bda08def">
+    <h3 id="locate_student" class="step-title screensteps-heading">Locate Student</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/376/059/original/df3d0301-c0f3-4fca-9c27-d7c261976482.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/376/059/medium/df3d0301-c0f3-4fca-9c27-d7c261976482.png" srcset="" alt="Locate Student" height="63" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_54F710C0-067D-0135-4206-22000AB760A3" class="text-block-content">
+    <p><span style="color:rgb(49,49,49);">In the search field [1], search for the name of the student. You can also filter users by student role in the <strong>Roles</strong> drop-down menu [2].</span></p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_context_card" data-step-uuid="5618a5c9-1029-4bb9-bdd8-3ed088c055cf">
+    <h2 id="open_context_card" class="step-title screensteps-heading">Open Context Card</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/376/061/original/8f3a9c32-5396-4185-ad7c-76df9fb71a8d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/376/061/medium/8f3a9c32-5396-4185-ad7c-76df9fb71a8d.png" srcset="" alt="Open Context Card" height="63" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_54F74EB0-067D-0135-4208-22000AB760A3" class="text-block-content">
+    <p>Click the name of the student.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_context_card" data-step-uuid="ec22d8c2-cf5c-417f-8f15-8f9c77a84f7a">
+    <h2 id="view_context_card" class="step-title screensteps-heading">View Context Card</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/376/063/original/b476c20c-703b-455f-a1ed-a1de7eb5a3a9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/376/063/medium/b476c20c-703b-455f-a1ed-a1de7eb5a3a9.png" srcset="" alt="View Context Card" height="524" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_54F78280-067D-0135-420A-22000AB760A3" class="text-block-content">
+    <p>The context card displays in a separate window within the page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_overview" data-step-uuid="18b5caa1-7134-404d-acb4-e6c37bc6e5f3">
+    <h2 id="view_student_overview" class="step-title screensteps-heading">View Student Overview</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/376/065/original/ad8631fc-5a7c-420e-b5c0-6b2f51c8ef2b.png" srcset="" alt="View Student Overview" height="390" width="341">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_54F7B2A0-067D-0135-420C-22000AB760A3" class="text-block-content">
+    <p>At the top of the card, you can view overview information about the student:</p>
+<ul>
+<li>
+<strong>Profile picture </strong>[1]: View the student's profile picture. A picture may not be available if the student has not added a profile picture or if your institution does not allow profile pictures. If a profile picture has not been set or is not available, the user's initials will display. You can also click the picture to access the student's user details page. </li>
+<li>
+<strong>Student name or email</strong> [2]: Click to access the student’s user profile page.   If you have the appropriate permissions, you may be able to access additional information including the student's access report, interactions report, outcomes report, and registered web services.</li>
+<li>
+<strong>Course name and section</strong> [3]: View the name of the course and section. The section name is only included for courses with multiple sections. </li>
+<li>
+<strong>Last login</strong> [4]: View the student's last Canvas login. This field does not display if the student has never logged in. If the login was on the current date, the card only displays the time. If the login was within the current week, the card displays the day of the week. Any later logins display the full date. </li>
+<li>
+<strong>Grades button</strong> [5]: Click to access the student’s grades page. </li>
+<li>
+<strong>Analytics button</strong> [6]: Click to access the student’s analytics page. <em>This button is only available to users with permission to view course analytics.</em>
+</li>
+<li>
+<strong>Mail icon</strong> [7]: Click to send a message directly to the student from the context card. </li>
+</ul>
+<p> </p>
+<p>Users who have permission to act as other users can also view a <strong>Act as User</strong> link to quickly act as the student. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_grading_overview" data-step-uuid="771401ab-5b73-4330-8b1c-3452de03e9d9">
+    <h2 id="view_grading_overview" class="step-title screensteps-heading">View Grading Overview</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/376/067/original/471c496b-225a-47e5-95c5-5d5453bdf228.png" srcset="" alt="View Grading Overview" height="445" width="329">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_54F7ED20-067D-0135-420E-22000AB760A3" class="text-block-content">
+    <p>The grading section gives an overview of the student's course grade. The student's <strong>current grade</strong> displays as shown in the Gradebook according to grading scheme [1]. </p>
+<p>For courses using Multiple Grading Periods, the context card only displays the grade for the current grading period. <em>Note that the grading period view in the Gradebook does not influence the grade display;</em> the student context card always displays the current grading period, regardless of whether you view a prior or future grading period.</p>
+<p>The card also shows the number of <strong>missing assignments</strong> [2] and <strong>late assignments</strong> [3]. Missing assignments are based on <a href="/t5/Instructor-Guide/How-do-I-view-Course-Analytics/ta-p/968" target="_blank">course analytics</a> data, which generates data for online submission assignments in Canvas. For submissions not submitted online, assignment calculations may not be entirely accurate as they are attempted based on the assignment’s grade and when the assignment was graded.  Late assignments are based on assignment due date . </p>
+<p>In the <strong>Last Graded Items</strong> section [4], you can view a maximum of the student's <strong>last 10 recently graded assignments </strong>along with the assignment’s grade, shown according to grading scheme. If the grading scheme does not fit in the window, the grades default to points. To view the name of an assignment, hover over a graded item [5]. To view submission details for the assignment, click the graded item.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_activity_overview" data-step-uuid="df9ba9cb-9d8d-430d-9b03-26d3dd7d064c">
+    <h2 id="view_activity_overview" class="step-title screensteps-heading">View Activity Overview</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/608/original/1c548a9e-6386-44e8-a682-2d4828d3a244.png" srcset="" alt="View Activity Overview" height="127" width="331">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_54F81DB0-067D-0135-4210-22000AB760A3" class="text-block-content">
+    <p>The activity section provides an overview of the student's participation compared to other students in the course. It is not meant to be an exact comparison and is based on the standard deviation of the student's participation [1] and page views [2] in the course. </p>
+<p>The activity level is indicated by stars that represent no participation, low participation, moderate participation, and high participation.  Students with no page views receive zero stars. Students whose participation falls in the lowest quartile of course activity receive one star. Students whose participation falls in the middle two quartiles receive two stars. Students whose participation falls in the top quartile receive three stars. </p>
+<p>Participation information may help you quickly identify at-risk students in your course. For instance, a student with both high participation and high page views is probably a high-performance student who submits coursework and participates in course discussions, assignments, and other activities. A student with no participation or page views is most likely not engaged in the course and may need some assistance or participation encouragement.</p>
+<p><strong>Note: </strong>More accurate details about course activity can be viewed by accessing the student's analytics page or user details page, both of which may be available to you to access from the Student overview section of the context card.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="close_context_card" data-step-uuid="96a4237b-8c92-45ac-81b1-b55619c2a528">
+    <h2 id="close_context_card" class="step-title screensteps-heading">Close Context Card</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/376/069/original/bd699df7-5b2b-4253-9fb2-fbe34504a423.png" srcset="" alt="Close Context Card" height="251" width="329">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_54F850F0-067D-0135-4212-22000AB760A3" class="text-block-content">
+    <p>To close the context card, click the <strong>Close </strong>icon.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

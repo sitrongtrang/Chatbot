@@ -1,0 +1,99 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3B0E79C0-2225-0135-29F0-22000AB760A3" class="text-block-content">
+    <p>If ePub Exporting has been enabled for your course, you can view your course offline as an ePub file. You can download the ePub file and upload it into any eReader software for viewing, such as iBooks or Azardi. </p>
+<p>ePub content is for offline viewing only; you cannot interact with course content directly, such as completing an assignment or viewing any submissions. In an ePub file, you can view assignment details, availability dates, and point values. Discussions include the discussion topic. All discussion replies (graded or ungraded) are considered submissions and must be viewed online. Additionally, you can view any embedded media files in the ePub. Any files that aren't supported in the ePub format, such as file attachments or PDFs, can be downloaded to be viewed in the file's native environment.</p>
+<p>Currently ePub files and any associated files can only be generated in the browser version of Canvas, but the files can be transferred for viewing on any supported device.</p>
+<p>By default, ePub files are organized by module, though you can <a href="/t5/Instructor-Guide/How-do-I-change-the-format-of-a-course-ePub-export-file/ta-p/935" target="_blank">change the ePub format</a> to be organized by content type (assignments, discussions, quizzes, etc.)  When viewing by module, only items that have been published in each module will be included in the ePub file. Locked modules list either their prerequisites or the unlock date, as well as the items that are contained within that module (though not the actual content of those items themselves). </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>ePub Exporting is currently a course opt-in feature. To enable this feature, learn how to manage feature options in the <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">course features lesson</a>.</li>
+<li>If you can view the <strong>Download Course Content</strong> button but cannot download an ePub file for a specific course, the feature has not been enabled for that course.</li>
+<li>If your account does not display the <strong>Download Course Content</strong> button, your institution may only allow you to <a href="/t5/Instructor-Guide/How-do-I-view-course-content-offline-as-an-HTML-file-as-an/ta-p/737" target="_blank">export content offline as an HTML file</a> in Modules. The Allow students to download course content and view offline checkbox in Account Settings will override the ePub Exporting feature option. The setting and feature option cannot be used together.</li>
+<li>When a course is downloaded as an ePub file, the download includes all published course content, including published content within an unpublished module and published course files that have not been linked in student-facing course content. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_user_settings" data-step-uuid="52f71ad7-f69e-46f3-a022-aa74cb1d888f">
+    <h2 id="open_user_settings" class="step-title screensteps-heading">Open User Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/376/660/original/5d9b87b1-1b09-42a2-8d3d-eea636f5773e.png" srcset="" alt="Open User Settings" height="607" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B0EC270-2225-0135-29F2-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Account</strong> link [1], then click the <strong>Settings</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_course_content" data-step-uuid="4a2f5ba1-0632-4800-ae5a-662f5427ad9c">
+    <h2 id="download_course_content" class="step-title screensteps-heading">Download Course Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/759/original/aedf0607-c344-493e-8502-d8914f9acc64.png" srcset="" alt="Download Course Content" height="158" width="274">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B0F4400-2225-0135-29F4-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Download Course Content </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="generate_epub" data-step-uuid="5807cdc9-24e7-429d-8292-2959987ca970">
+    <h2 id="generate_epub" class="step-title screensteps-heading">Generate ePub</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/792/761/original/d1692d18-c5e1-49f5-94ee-96064071a37d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/792/761/medium/d1692d18-c5e1-49f5-94ee-96064071a37d.png" srcset="" alt="Generate ePub" height="372" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B0F9F30-2225-0135-29F6-22000AB760A3" class="text-block-content">
+    <p>View the courses available as ePub exports. To generate an ePub, locate the course and click the <strong>Generate ePub </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_epub" data-step-uuid="86470662-e9c8-441e-bdd8-47ea6c0ebb7a">
+    <h2 id="download_epub" class="step-title screensteps-heading">Download ePub</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/792/757/original/d40a48a3-5f5b-458c-9e4e-7486a89cb126.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/792/757/medium/d40a48a3-5f5b-458c-9e4e-7486a89cb126.png" srcset="" alt="Download Course Content" height="371" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B0FD2B0-2225-0135-29F8-22000AB760A3" class="text-block-content">
+    <p>Once the export has completed, download the ePub by clicking the <strong>Download ePub </strong>link [1]. You can upload the ePub file into any eReader for viewing.</p>
+<p>If the course includes files that aren't supported in the ePub, click the <strong>Download Associated Files </strong>link [2]. Associated files download in a ZIP file and contain all unsupported files, such as media files and Microsoft Office documents. </p>
+<p>To regenerate the ePub file, click the <strong>Regnerate ePub </strong>link [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

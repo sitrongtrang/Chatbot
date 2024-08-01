@@ -1,0 +1,25 @@
+How do I sync course content in a blueprint course as an instructor
+Open Course
+In Global Navigation, click the Courses link, then click the name of the course.
+Open Blueprint Sidebar
+In the Course Home Page, click the Blueprint sidebar tab.
+Note: You can also access the Blueprint sidebar from any Course Navigation page.
+View Sidebar
+The Blueprint sidebar provides quick access to blueprint sync information. 
+If any changes have been made in the course, the sidebar displays the number of unsynced changes in the course. All course content is copied in the sync regardless of whether or not objects are locked. The only exception is Course Settings, which must be selected on a per-sync basis as part of the sync options. You can also create a notification about the sync from the sidebar.
+If you know what content is being synced and you are ready to sync your content, you can sync updates directly from the sidebar.
+View Unsynced Changes
+If you are not sure what content is being synced, or if you just want to confirm existing changes in the course, you can view specific details about the unsynced changes by clicking the Unsynced Changes link.
+The Unsynced Changes page shows the specific content that has been updated. Each content object shows the current status of the object (locked or unlocked), the name of the content item, the content change, and the content object type. 
+Content changes can be created, updated, or deleted. Updated changes indicate any change to existing content.
+Select Sync Options
+Course Settings include all settings options in the course, including Course Navigation. To sync Course Settings to associated courses, select the Include Course Settings checkbox. 
+If you want to send a notification about the blueprint sync, click the Send Notification checkbox. Admins and other instructors can set the Blueprint sync notification and receive updates when a sync is complete.
+To add a message as part of the notification, click the Add a Message checkbox. The message can be added as a reference to note what changes were made in the sync and displays in the Sync History page.
+Sync Changes
+Click the Sync button.
+View Sync
+Once a sync has started, the sidebar shows the sync status as long as you are viewing the page. You can leave the page, but know that the sync may take a while to process. 
+Notes: 
+If you immediately view an associated course and don’t see any updates, the sync may still be in process. To confirm sync completion, enable the Blueprint sync notification in User Settings.
+Only BluePrint master course content will sync with associated courses. Content that was manually added or copied using a different format will not sync.

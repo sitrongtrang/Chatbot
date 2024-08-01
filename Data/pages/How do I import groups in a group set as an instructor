@@ -1,0 +1,164 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_09c3219c-ebc4-4ed5-a20e-465be7ba5362" class="text-block-content">
+    <p>In a group set, you can choose to create and assign students to groups by importing a CSV file. Alternatively, you can choose to <a href="/t5/Instructor-Guide/How-do-I-manually-create-groups-in-a-group-set/ta-p/700" target="_blank">manually create groups</a> or <a href="/t5/Instructor-Guide/How-do-I-automatically-assign-students-to-groups/ta-p/725" target="_blank">automatically assign students to groups</a> in a group set. </p>
+<p><strong>Note: </strong>In group assignments, all students should be assigned to groups before the assignment is published. Grades and submissions may be affected for students who were not in a group at the time of assignment submission but who were later added to a group.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-people" data-step-uuid="6380c581-7ea8-484b-8cdc-2d4886046f1a">
+    <h2 id="open-people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/849/851/original/1f9009ee-fb89-4788-993f-45fd86189391.png" srcset="" alt="Open People" height="281" width="165">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d7a6ed43-0ee4-44c2-97b1-cf9cc1f30bb5" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_group_set" data-step-uuid="eefe908a-80ac-41ea-b7a4-93ea6be2a006">
+    <h2 id="add_group_set" class="step-title screensteps-heading">Add Group Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/849/992/original/e66fc51b-90d7-49e7-8af4-bbcc6c20ae1f.png" srcset="" alt="Add Group Set" height="65" width="155">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_85f2c542-607b-459b-a390-f2a9d5cc33d0" class="text-block-content">
+    <p>Click the <strong>Add Group Set</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_groups_manually" data-step-uuid="be2d5bf6-c5c1-4426-a1c8-24986d87f096">
+    <h2 id="create_groups_manually" class="step-title screensteps-heading">Save Group Set</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/916/524/original/bf2dee24-a442-4563-90ab-a8ca484f3541.png" srcset="" alt="Save Group Set" height="524" width="612">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_59c686c3-298b-4086-ad94-4f9215a6b2c4" class="text-block-content">
+    <p>Add a name for the group set [1]. Select the<strong> create groups later</strong> option [2]. Then click the <strong>Save</strong> button [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-groups" data-step-uuid="99b912ca-3f8f-4bff-80d9-5d57f3ada474">
+    <h2 id="import-groups" class="step-title screensteps-heading">Import Groups</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/849/855/original/ed42b348-e577-4503-981c-f1c3d5827a79.png" srcset="" alt="Import Groups" height="71" width="261">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1de70fa0-5f32-49c1-97bc-6840e2eddd29" class="text-block-content">
+    <p>To import groups, click the <strong>Add Import</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download-course-roster-csv-file" data-step-uuid="f720c96c-1f76-4be6-b9b6-c0921f0bbcbb">
+    <h2 id="download-course-roster-csv-file" class="step-title screensteps-heading">Download Course Roster CSV File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/849/857/original/5814d489-12d4-4b8f-a9d7-084531ab63b3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/849/857/medium/5814d489-12d4-4b8f-a9d7-084531ab63b3.png" srcset="" alt="Download Course Roster CSV File" height="477" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7f773374-9b13-4bd0-81b4-e14d6d37b26c" class="text-block-content">
+    <p>On the Import Groups page, you can download a template CSV file by clicking the <strong>Download Course Roster CSV</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-course-roster-csv-file" data-step-uuid="da500fa4-a3b4-4aec-a3bb-6dcbf31f3733">
+    <h2 id="edit-course-roster-csv-file" class="step-title screensteps-heading">Edit Course Roster CSV File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/010/194/original/500ba4a3-a883-46bc-b703-9d7381e0382c.png" srcset="" alt="Edit Course Roster CSV File" height="306" width="647">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d5d9c01b-2a50-4fc6-bfcd-a09114d430f6" class="text-block-content">
+    <p>The Course Roster CSV includes information for each student in the course where applicable, including student name, canvas user ID, user ID, login ID, sections, and group name.</p>
+<p>To assign students to a group, enter group names in the "group_name" column. </p>
+<p>When you're finished editing, save the file as a CSV. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload-csv-file" data-step-uuid="1efbb7cf-5014-4a8d-aa0d-924f56de3fe4">
+    <h2 id="upload-csv-file" class="step-title screensteps-heading">Upload CSV File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/849/864/original/cc747df3-cba6-4b13-8eec-99ee730fd244.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/849/864/medium/cc747df3-cba6-4b13-8eec-99ee730fd244.png" srcset="" alt="Upload CSV File" height="477" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f2af02f9-6c42-4c21-9e07-a53893b364a3" class="text-block-content">
+    <p>On the Import Groups page, you can upload your CSV file by clicking and dragging the file or clicking the <strong>Upload CSV File</strong> area to browse files on your computer. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="monitor-csv-file-upload" data-step-uuid="d80a024d-9ec5-43a1-bfb1-a5c841e75cda">
+    <h2 id="monitor-csv-file-upload" class="step-title screensteps-heading">Monitor CSV File Upload</h2>
+  </div>
+
+      <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/849/867/original/c0fa2a2b-a17c-4044-a564-301802a8c61a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/849/867/medium/c0fa2a2b-a17c-4044-a564-301802a8c61a.png" srcset="" alt="Monitor CSV File Upload" height="303" width="855">
+      </a>
+  </div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a05c135d-a150-40a0-af27-eddf39855d3c" class="text-block-content">
+    <p>A progress bar displays the status of the group creation. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-groups" data-step-uuid="64be9635-848e-4f6c-8fff-88a5cdb4f354">
+    <h2 id="view-groups" class="step-title screensteps-heading">View Groups</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/849/872/original/e9472a24-d49a-422e-9018-15d1362c10d4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/849/872/medium/e9472a24-d49a-422e-9018-15d1362c10d4.png" srcset="" alt="View Groups" height="314" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_206a32a6-fa26-44b9-a15a-7f4bd0f37d83" class="text-block-content">
+    <p>Created groups display in the group set. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

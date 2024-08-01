@@ -1,0 +1,19 @@
+How do I use a rubric to grade submissions in SpeedGrader as an instructor
+Open SpeedGrader
+Open SpeedGrader from any assignment, graded discussion, or quiz.
+Open Student Submission
+Use the student list to locate a student submission.
+View Rubric
+Click the View Rubric button.
+Resize Rubric
+To view the entire rubric window, you may need to scroll both vertically and horizontally. To resize the rubric window, click and drag the sizing column horizontally.
+Complete Rubric
+For each criterion, click the rating that applies to the student's submission. The selected rating displays the rating value in the Points field. If a criterion includes a range, clicking a rating selects the entire range and defaults to the highest value in the range. 
+To select a different value within a range, type the value into the Points (pts) field. You can manually enter points above the criterion maximum point value. Each criterion value adds to the student's total points.
+To deselect a rating and revert the point value assigned, click the rating assigned. 
+Outcomes may also be able to support additional points. If additional points on outcomes are not retained after the rubric is saved, this feature has not been enabled for your course.
+You can also add a comment for each rubric criterion by clicking the Comment icon.
+Save Rubric
+Click the Save button.
+View Score
+If you set your rubric for grading, the rubric points will be automatically populated in the grade field. Otherwise, you can enter the grade from the rubric manually.

@@ -1,0 +1,205 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_6D864140-18A8-0135-157E-22000BC102FE" class="text-block-content">
+    <p>The Course Import Tool makes it easy to extract course content, assignments, and quizzes from previous terms and quickly import them into existing courses. The same tool is used to import course materials from different Learning Management Systems. Some limitations apply to course imports. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Importing courses and course files count against course file quotas. However, copying existing Canvas courses and course files reference the original Canvas course file quota and do not count against course file quotas. Learn about <a href="/t5/Instructor-Guide/How-do-I-copy-a-Canvas-course-into-a-new-course-shell/ta-p/712" target="_blank">copying Canvas courses and course items</a>. </li>
+<li>If you import LTI content from a course, the external tool may need to be reconfigured in the course that receives the content in order for that content to be accessible.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="when_would_i_use_the_course_import_tool" data-step-uuid="CD4E83B2-DAB9-49A4-B5FA-DEBF82E403D6">
+    <h2 id="when_would_i_use_the_course_import_tool" class="step-title screensteps-heading">When would I use the Course Import Tool?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6D866F30-18A8-0135-1580-22000BC102FE" class="text-block-content">
+    <p>You can use the Course Import Tool to:</p>
+<ul>
+<li>
+<strong>Copy course content</strong> from term to term, including Announcements and Discussions. You can adjust the events and due dates to coordinate with your current term.</li>
+<li>
+<strong>Select specific content </strong>you want copied. You can select individual Assignments, Pages, Files, and anything else from previous courses you or your colleagues have taught. The Course Import Tool supports keyboard navigation when selecting content to import. </li>
+<li>
+<strong>Import course materials</strong> from different Learning Management Systems. The Course Import Tool does not import user content.</li>
+</ul>
+<p><strong>Note</strong>: Importing a course more than once may have unintended consequences. If you import content into a new course, edit the content in the new course, and later import the previous content again, the imported content will override the existing content.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-do-i-use-the-course-import-tool" data-step-uuid="0586b54d-ec39-45a8-83f8-570fcfe68b14">
+    <h2 id="how-do-i-use-the-course-import-tool" class="step-title screensteps-heading">How do I use the Course Import Tool?</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/746/original/99c83ae9-9b12-42f9-b2e9-b795da78de66.png" srcset="" alt="Open Course" height="476" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8db839af-615d-44da-bda0-b309ac01f05a" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-settings" data-step-uuid="e0c534f0-c5ad-419e-a5d3-bb5c4c6b9a0f">
+    <h3 id="open-settings" class="step-title screensteps-heading">Open Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/279/925/original/ed34b8af-8bce-4d28-9e7c-baee2f2ad7ae.png" srcset="" alt="Open Settings" height="241" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ebe682d7-71ea-487d-b889-58da7b035030" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open-course-import-tool" data-step-uuid="d02932fa-85e5-4093-8b73-013acee87ac2">
+    <h3 id="open-course-import-tool" class="step-title screensteps-heading">Open Course Import Tool</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/279/927/original/343bd57f-07f9-43ca-95d3-797cf6f4d48e.png" srcset="" alt="Open Course Import Tool" height="484" width="268">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77a45fd0-9669-4cde-8689-0f5d1ca9fd8d" class="text-block-content">
+    <p>Click the<strong> Import Course Content </strong>button.</p>
+<p><strong>Note: </strong>You can also open the Course Import Tool from Course Navigation by clicking the <strong>Home</strong> link, then clicking the <strong>Import Existing Content</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_import_source" data-step-uuid="625CD0C2-35A6-4CB9-BDDE-FBAB8CF605F2">
+    <h2 id="choose_import_source" class="step-title screensteps-heading">Choose Import Source</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/509/original/dd0a6a86-55eb-4cdd-85ba-1a6abb7965e9.png" srcset="" alt="Choose Import Source" height="304" width="510">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6D86A0C0-18A8-0135-1582-22000BC102FE" class="text-block-content">
+    <p><span style="color:rgb(38,38,38);">The Course Import Tool allows you to do any of the following:</span></p>
+<ul>
+<li>Import all content or choose specific content to <a href="/t5/Instructor-Guide/How-do-I-copy-content-from-another-Canvas-course-using-the/ta-p/1012" target="_blank">copy from another Canvas course</a>
+</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-import-a-Canvas-course-export-package/ta-p/795" target="_blank">Import a Canvas Course Export Package</a> (courses that were previously exported from Canvas)</li>
+<li>Import a ZIP file of assignments, files, course content, etc. into an existing folder</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-import-content-from-Angel-into-Canvas/ta-p/1067" target="_blank">Import an Angel export</a> ZIP format </li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-import-content-from-Blackboard-6-7-8-9-into-Canvas/ta-p/1069" target="_blank">Import a Blackboard 6/7/8/9 export </a>ZIP file</li>
+<li><a href="/t5/Instructor-Guide/How-do-I-import-content-from-Bb-Vista-CE-WebCT-6-into-Canvas/ta-p/997" target="_blank">Import a Blackboard Vista/CE, Web CT 6+ Course</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-import-content-from-Common-Cartridge-into-Canvas/ta-p/649" target="_blank">Import a Common Cartridge 1.0/1.1/1.2 package</a></li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-import-content-from-Desire-2-Learn-D2L-into-Canvas/ta-p/1064" target="_blank">Import a Desire2Learn (D2L) export </a>ZIP format </li>
+<li><a href="/t5/Instructor-Guide/How-do-I-import-content-from-Moodle-into-Canvas/ta-p/1158" target="_blank">Import a Moodle 1.9/2.x ZIP file</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-import-quizzes-from-QTI-packages/ta-p/1046" target="_blank">Import a QTI ZIP file</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_content" data-step-uuid="33a0ea88-500e-45a6-8511-e3383529b3bc">
+    <h2 id="import_content" class="step-title screensteps-heading">Import Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/505/original/1be4b207-871d-4e9a-9fc6-b1f0d9e5ca73.png" srcset="" alt="Import Content" height="78" width="266">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6D86CF10-18A8-0135-1584-22000BC102FE" class="text-block-content">
+    <p>When importing content, the tool allows you to import all content or select specific content. This feature is useful for institutions or instructors who only want to copy specific elements of a course, such as assignments or modules. </p>
+<p>The following behaviors currently apply to Canvas copies or imports: </p>
+<ul>
+<li>Draft State settings are retained in course imports. If an assignment is unpublished in a course when it was copied or exported, the assignment will also be unpublished in the content import. </li>
+<li>Mastery Paths conditional items are not retained in course imports, and paths must be re-created after the import is completed.</li>
+<li>Copying content retains any links or files associated with the content, such as in an assignment. </li>
+<li>When selecting assignments only, Canvas imports all assessment items within the Assignments page (including any associated quizzes and discussions). Assignments will remain in their assignment groups if an entire assignment group or all assignments are imported.</li>
+<li>SCORM content is included in course copies. SCORM content should only be copied within accounts that use the same key and secret configuration.</li>
+<li>When manually copying a course, the user who copies the course will automatically be added to the course with an instructor role.</li>
+<li>When selecting specific content and only importing a New Quiz with stimulus questions, the images associated with the stimulus question do not automatically import and need to be selected for import at the same time.</li>
+</ul>
+<p><strong>Import Limitations</strong></p>
+<p>The following behaviors also apply to Canvas copies or imports: </p>
+<ul>
+<li>Group sets do not copy as part of the import. Any existing group sets in the new course will be linked to the group set with the same name. However, if there are no group sets with the same name in the new course, the assignment will be linked to a new Project Groups set. </li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-select-specific-content-as-part-of-a-course-import/ta-p/1091" target="_blank">Importing specific content from a Canvas course export package</a> does not retain images and linked files in the content, such as in an assignment, page, or discussion. </li>
+<li>When selecting individual assignments, assignments are placed in an assignment group called Imported Assignments. However, assignments can be moved into other assignment groups as necessary.</li>
+<li>Enrollment-related data, which includes course users, collaborations, conferences, groups, and sections, and feature option settings are not included in course content imports.</li>
+<li>Announcements and Discussions do not retain the name of the user who originally created the course content. Additionally, students do not receive announcement notifications for imported announcements. However, a badge indicating a new announcement displays on the Card View and Recent Activity Dashboards.</li>
+<li>Assignments with a manual grade posting policy and anonymous assignments retain the manual grade posting policy and their anonymous settings as part of the course import. </li>
+<li>Calendar item locations (e.g., office hours slots with an assigned office location) are not included in course imports.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="adjust_events_and_due_dates" data-step-uuid="1685fd02-9714-44aa-9166-3afe11572ef8">
+    <h2 id="adjust_events_and_due_dates" class="step-title screensteps-heading">Adjust Events and Due Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/783/501/original/83115981-93b6-4ea8-9c3f-e53c0187a928.png" srcset="" alt="Adjust Events and Due Dates" height="235" width="684">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6D86F940-18A8-0135-1586-22000BC102FE" class="text-block-content">
+    <p>In addition to recreating the structure and content of the course, the Course Import Tool can <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-adjust-events-and-due-dates-in-a-course-import/ta-p/1090" target="_blank">adjust events and due dates</a> to the new date ranges of the new term. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-content-import-warning-message" data-step-uuid="81888be6-ad24-4fad-a976-b5981a556093">
+    <h2 id="view-content-import-warning-message" class="step-title screensteps-heading">View Content Import Warning Message</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/938/023/original/2ffee8af-1525-4197-8785-e825858d2efb.png" srcset="" alt="View Content Import Warning Message " height="120" width="582">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_aa0a47e7-714d-4e14-9425-3639b771b812" class="text-block-content">
+    <p>When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_current_and_prior_imports" data-step-uuid="499b021b-dc9c-493b-aee7-1b58de561f32">
+    <h2 id="view_current_and_prior_imports" class="step-title screensteps-heading">View Current and Prior Imports</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/783/511/original/b417b8a8-6491-407d-8738-d1548ee00517.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/783/511/medium/b417b8a8-6491-407d-8738-d1548ee00517.png" srcset="" alt="View Current and Prior Imports" height="145" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6D872670-18A8-0135-1588-22000BC102FE" class="text-block-content">
+    <p>Once you have started an import, the Current Jobs menu displays the job status of any imports in process, as well as any prior import history.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,52 @@
+How do I manage feature options for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link.
+Open Feature Options Tab
+Click the Feature Options tab.
+View Feature Options
+Available features will appear in the Feature Options tab. Some new features may need to be enabled by your Customer Success Manager.
+Filter Feature Options
+To filter by all features, enabled features or disabled features, click the Filter drop-down menu. 
+Search Feature Options
+To search for a feature option, type a keyword in the Search field. 
+View Feature Hierarchy
+Once features are available, they will be listed by Account or Course, depending on the feature's hierarchical level.
+Each feature includes a feature description. To expand the feature box and display the description, click the arrow icon.
+View Feature Tags
+Feature tags help identify the state of each feature. A feature with no label means the feature is stable and ready for use in your production environment. 
+Features may also include a Feature Preview tag, which means the feature is in active development. You can opt-in to the feature and join the Community user group to help improve the feature through direct feedback. Access to the user group is noted in the description of the feature option.
+View Feature States
+As an account level admin, you can choose to enable or disable features by default in the account and all subaccounts. 
+If a feature can be edited at the sub-account or course level, you can choose to lock or allow editing of the default feature state at the sub-account or course level.
+Manage Default Feature State
+As an account level admin, you can choose to enable or disable features by default for the account and all subaccounts. 
+To enable or disable a feature, click the feature's State icon.
+To enable the feature by default for the account and all subaccounts, click the Enabled option. 
+To disable the feature by default for the account and all subaccounts, click the Disabled option.
+Note: Depending on feature functionality, when you enable a feature, Canvas may display a warning message asking to confirm your option, as some account features cannot be turned off once they are enabled. 
+View Default Feature State
+Features enabled by default display the Enabled icon. 
+Features disabled by default display the Disabled icon. 
+Allow and Lock Features
+Some features can be managed at the sub-account or course levels. As an account admin, you can choose to lock or allow those features to be edited at the sub-account or course levels. 
+To allow or disallow a feature's default state to be edited at the sub-account or course levels, click the feature's State icon.
+To lock the default feature state so it cannot be edited at the sub-account or course level, select the Lock option.
+To allow a feature's default state to be edited at the sub-account or course level, uncheck the Lock option.
+Notes: 
+Features that can only be managed at the account level will not display a locked or unlocked icon. Those features' default states are set for the account and all subaccount.
+Depending on feature functionality, when you unlock a feature state, Canvas may display a warning message asking to confirm your option, as some account features cannot be turned off once they are enabled.
+View Allowed and Locked Features
+Locked features display the Locked icon. 
+Allowed featured display the Unlocked icon. 
+View Feature State Tooltips
+To view a more detailed description of the state of the feature preview, hover over the feature preview state icon. A tooltip explains the current state of the feature preview. The tooltip will display the following descriptions based on the feature preview state:
+Account Feature Previews:
+State: Enabled and Unlocked | Tooltip: Allowed for subaccounts/courses, default on
+State: Enabled and Locked | Tooltip: Enabled for all subaccounts/courses
+State: Disabled and Unlocked | Tooltip: Allowed for subaccounts/courses, default off
+State: Disabled and Locked | Tooltip: Disabled for all subaccounts/courses
+Course Feature Previews
+State: Enabled and Unlocked | Tooltip: Optional in course, default on
+State: Disabled and Unlocked | Tooltip: Optional in course, default off

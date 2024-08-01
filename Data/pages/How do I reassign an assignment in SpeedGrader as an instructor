@@ -1,0 +1,118 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_50bcb605-e6f9-48fd-9b2d-69b38790f5b3" class="text-block-content">
+    <p>As an instructor, you can reassign an assignment in <a href="/t5/Canvas-Basics-Guide/What-is-SpeedGrader/ta-p/13" target="_blank">SpeedGrader</a>. The Reassign Assignment button is available for graded assignment submissions once a comment has been added by an instructor.</p>
+<p>Students can view reassigned assignments from the List View Dashboard.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The Reassign Assignment button is not available for quizzes or graded discussions.</li>
+<li>The Reassign Assignment button is not available for External Tools (LTI), on paper, and no submission assignments.</li>
+<li>The Reassign Assignment button is only available for assignments with due dates.</li>
+<li>If the assignment's settings do not allow students to make an additional attempt, the Reassign Assignment shows that the assignment is not able to be reassigned.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-speedgrader" data-step-uuid="511a8841-452b-4a06-a7d7-9997df2394bc">
+    <h2 id="view-speedgrader" class="step-title screensteps-heading">View SpeedGrader</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/491/950/original/b583d0a9-9167-4192-b98c-aaf672245356.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/491/950/medium/b583d0a9-9167-4192-b98c-aaf672245356.png" srcset="" alt="View SpeedGrader" height="552" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5af8d5cd-e8c7-47ea-b84a-002fbbc0f058" class="text-block-content">
+    <p><a href="/t5/Instructor-Guide/How-do-I-get-to-SpeedGrader-from-an-assignment-quiz-or-graded/ta-p/759" target="_blank">Open SpeedGrader from an assignment </a>and <a href="/t5/Instructor-Guide/How-do-I-use-the-student-list-to-view-student-submissions-in/ta-p/770" target="_blank">select the student</a> for whom you want to reassign the assignment [1].</p>
+<p>Reassigning an assignment is completed from the <strong>Assignment Comments</strong> section [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-comment" data-step-uuid="51bf2df3-1195-4cd9-a5bc-2141e310f467">
+    <h2 id="add-comment" class="step-title screensteps-heading">Add Comment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/392/402/original/bad3f8a5-b904-433e-98d0-8f89325677fe.png" srcset="" alt="Add Comment" height="402" width="321">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17e72d7c-0212-499c-ba2a-6869dccdd9d2" class="text-block-content">
+    <p>In order to reassign an assignment, you must first <a href="/t5/Instructor-Guide/How-do-I-leave-feedback-comments-for-student-submissions-in/ta-p/764" target="_blank">add a comment in SpeedGrader.</a></p>
+<p>Enter your comment in the <strong>Comment</strong> field [1] and click the <strong>Submit</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="reassign-assignment" data-step-uuid="0dae9833-fcce-4f93-96a0-b3cd141cfe1c">
+    <h2 id="reassign-assignment" class="step-title screensteps-heading">Reassign Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/392/405/original/1d8c9fa5-c00b-4f66-a837-5c9e9e3f3532.png" srcset="" alt="Reassign Assignment" height="512" width="321">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d6307808-5292-42a3-ae48-ee889f18b6ed" class="text-block-content">
+    <p>Click the <strong>Reassign Assignment</strong> button.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The Reassign Assignment button is not available for External Tools (LTI), on paper, and no submission assignments.</li>
+<li>The Reassign Assignment button is only available for assignments with due dates.</li>
+<li>If the assignment's settings do not allow students to make an additional attempt, the Reassign Assignment shows that the assignment is not able to be reassigned.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-reassigned-assignment" data-step-uuid="cfa16d64-927c-4729-9bdb-e125afd9cabd">
+    <h3 id="view-reassigned-assignment" class="step-title screensteps-heading">View Reassigned Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/489/306/original/7ddf6c35-ff13-48ad-88d8-b5eeb40f2d97.png" srcset="" alt="View Reassigned Assignment" height="108" width="246">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3d9ac553-bc5d-45e9-b273-e1296323d324" class="text-block-content">
+    <p>Assignments that have been reassigned display a <strong>Reassigned</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student-view" data-step-uuid="8429a2a3-1198-46bb-94c8-27b9ee0f2330">
+    <h2 id="student-view" class="step-title screensteps-heading">Student View</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/489/308/original/0586bed4-6c5b-40ce-9631-c1024cd9c566.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/489/308/medium/0586bed4-6c5b-40ce-9631-c1024cd9c566.png" srcset="" alt="Student View" height="148" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_433168a5-3566-40c4-bc96-71c4496dae87" class="text-block-content">
+    <p>When an assignment has been reassigned, students can view your comments [1] and a <strong>Redo</strong> label [2] in the List View Dashboard.</p>
+<p>Reassigning an assignment will not change a student's due dates or availability dates for that assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

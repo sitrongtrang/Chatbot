@@ -1,0 +1,53 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_10ce0fda-8684-4435-849f-7af57e27fcfd" class="text-block-content">
+    <p>A small Command Line Interface (CLI) tool is available for syncing data from the Canvas Data API.</p>
+<p>You can use the CLI through your terminal (OSX/Linux), command prompt (Windows), or through the Bash terminal in the Windows Linux Sub system. </p>
+<p>For complete details on using the CLI, refer to the <a href="https://data-access-platform-api.s3.amazonaws.com/client/index.html" target="_blank" rel="nofollow noopener noreferrer">Data Access Platform Client Library documentation.</a></p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download-the-canvas-data-2-command-line-interface-cli-tool" data-step-uuid="e2cad24a-a8b0-4035-aa70-6c5358173937">
+    <h2 id="download-the-canvas-data-2-command-line-interface-cli-tool" class="step-title screensteps-heading">Download the Canvas Data 2 Command Line Interface (CLI) Tool</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_657729b1-64cb-4955-8220-dea96e49c38a" class="text-block-content">
+    <p>You can download the Python package from <a href="https://pypi.org/project/instructure-dap-client/" target="_blank" rel="nofollow noopener noreferrer">Python Package Manager</a>. For installation, you may also need to specify extra features. For details, refer to the Installation section of the <a href="https://data-access-platform-api.s3.amazonaws.com/client/README.html#installation:~:text=from%20its%20usage.-,Installation,-%EF%83%81." target="_blank" rel="nofollow noopener noreferrer">Data Access Platform Client Library documentation</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="generate-api-credentials" data-step-uuid="0ba50944-d4ae-482c-bc44-ff9664ded978">
+    <h2 id="generate-api-credentials" class="step-title screensteps-heading">View Additional Resources</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b2b8182a-e08f-49bf-a100-6866b91a7b16" class="text-block-content">
+    <p>In addition to the <a href="https://data-access-platform-api.s3.amazonaws.com/client/README.html#installation:~:text=from%20its%20usage.-,Installation,-%EF%83%81." target="_blank" rel="nofollow noopener noreferrer">Data Access Platform Client Library documentation</a>, you can view the following videos:</p>
+<ul>
+<li><a href="https://drive.google.com/file/d/13rWE5uFOAgTWMjbZGSwAhCI-DKhIcjvj/view?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">Setting the environment variables on Mac OSX</a></li>
+<li><a href="https://drive.google.com/file/d/1YVNS2WPA3ckIeOeSv8xzCVLlYdkTcmdX/view" target="_blank" rel="nofollow noopener noreferrer">Using the CLI tool with environment variables set</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

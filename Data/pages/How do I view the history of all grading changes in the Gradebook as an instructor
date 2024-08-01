@@ -1,0 +1,193 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_122BD2E0-AAE2-0135-1680-06467EE270FA" class="text-block-content">
+    <p>You can view the history of all Gradebook changes in your course using the Gradebook History page. Gradebook History is a read-only log that allows you to see who graded each artifact. Options are available to filter grading history by student, grader, artifact, and date.</p>
+<p>For quizzes, you can view historical data for any regraded quizzes.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Gradebook history displays changes made within the last 365 days.</li>
+<li>Gradebook history will reflect any grade changes made to assignments with a manual posting policy, even if grades are not yet visible to students.</li>
+<li>If you have enabled the Final Grade Override feature option, you can filter by the Final Grade Overrides Only option. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="122BE730-AAE2-0135-1681-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/085/original/5a669f39-029c-4e71-98f9-8c7dc7040041.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_122C1160-AAE2-0135-1683-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_grading_history" data-step-uuid="122C2350-AAE2-0135-1684-06467EE270FA">
+    <h2 id="view_grading_history" class="step-title screensteps-heading">View Grading History</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/730/029/original/203fc750-5126-4c48-8ab6-7e42ed89c91f.png" srcset="" alt="View Grading History" height="261" width="292">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_122C4A00-AAE2-0135-1686-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Gradebook</strong> menu [1] and select the <strong>Gradebook History </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="expand_assignment" data-step-uuid="122C6AE0-AAE2-0135-1687-06467EE270FA">
+    <h2 id="expand_assignment" class="step-title screensteps-heading">View Gradebook History</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/812/797/original/19dafe7d-ee96-4ab5-b94e-e7e8d88e6440.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/812/797/medium/19dafe7d-ee96-4ab5-b94e-e7e8d88e6440.png" srcset="" alt="View Gradebook History" height="397" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_122C9310-AAE2-0135-1689-06467EE270FA" class="text-block-content">
+    <p>The Gradebook History page displays recent grade changes in the course. Each grade change lists the date of the change [1], the student whose grade was changed [2], the grader who changed the grade [3], and the artifact where the grade was changed [4]. </p>
+<p>Additionally, you can view a summary of the grade before it was changed [5], after it was changed [6], and the current grade for the assignment [7].</p>
+<p><strong>Note: </strong> If you are grading in a course where you can only interact with users in your same section, the Gradebook history page will only display results for users within your same section. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-moderated-assignments-in-gradebook-history" data-step-uuid="9b327178-71ca-40c5-9de3-b9b2c6ad744f">
+    <h3 id="view-moderated-assignments-in-gradebook-history" class="step-title screensteps-heading">View Anonymous Assignments in Gradebook History</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/812/800/original/49d009b8-ea17-417b-8943-ef33d043129b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/812/800/medium/49d009b8-ea17-417b-8943-ef33d043129b.png" srcset="" alt="View Moderated Assignments in Gradebook History" height="378" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9b81a2a8-0d39-48fe-b8dd-c1fc12f41f6f" class="text-block-content">
+    <p>Any grade changes related to an anonymously graded assignment do not include student names in the search results [1].</p>
+<p>If the anonymous grading option is removed from the assignment at a later time, the Gradebook History page displays an icon showing that the assignment was previously graded anonymously [2].</p>
+<p><strong>Note:</strong> Posting grades for an anonymous assignment will remove anonymity from the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-filters" data-step-uuid="122CA610-AAE2-0135-168A-06467EE270FA">
+    <h2 id="view-filters" class="step-title screensteps-heading">View Filters</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/820/452/original/28ad315a-3f1c-4e88-9cf8-738eb57f97c5_2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/820/452/medium/28ad315a-3f1c-4e88-9cf8-738eb57f97c5_2.png" srcset="" alt="View Filters" height="119" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_122CD060-AAE2-0135-168C-06467EE270FA" class="text-block-content">
+    <p>If you want to locate a specific grade change, you can filter grading history by student [1], grader [2], artifact [3], and start or end date [4]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="revert_grade" data-step-uuid="122CE4E0-AAE2-0135-168D-06467EE270FA">
+    <h2 id="revert_grade" class="step-title screensteps-heading">Filter by Name</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/812/807/original/b76b10a4-e137-494a-8c9e-c24717a776eb.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/812/807/medium/b76b10a4-e137-494a-8c9e-c24717a776eb.png" srcset="" alt="Filter by Name" height="269" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_122D0F00-AAE2-0135-168F-06467EE270FA" class="text-block-content">
+    <p>To filter grading history by student, grader, or artifact, start typing the name in the search filter[1]. Canvas will automatically populate matching names. Select the name from the results [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_reverted_grade" data-step-uuid="122D20F0-AAE2-0135-1690-06467EE270FA">
+    <h2 id="view_reverted_grade" class="step-title screensteps-heading">Filter by Date</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/812/810/original/825f087c-3c78-4db6-aaaa-9d08fb7b7611.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/812/810/medium/825f087c-3c78-4db6-aaaa-9d08fb7b7611.png" srcset="" alt="Filter by Date" height="361" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_122D46A0-AAE2-0135-1692-06467EE270FA" class="text-block-content">
+    <p>If you also want to filter grading history by start or end date, click the date field [1] and then select a date from the calendar [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-by-final-grade-overrides-only" data-step-uuid="ec9af5c2-5c7d-4739-89cf-7e27b9a9acb5">
+    <h2 id="filter-by-final-grade-overrides-only" class="step-title screensteps-heading">Filter by Final Grade Overrides Only</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/812/813/original/e69045a5-c7cd-45de-aee4-6ca3406c2aa6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/812/813/medium/e69045a5-c7cd-45de-aee4-6ca3406c2aa6.png" srcset="" alt="Filter by Final Grade Overrides Only" height="158" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fa0dd1ca-09b2-40a0-a395-1378d7143905" class="text-block-content">
+    <p>To filter the Gradebook History to display only final grade overrides, click the the <strong>Final Grade Overrides Only</strong> checkbox. The Final Grades Overrides checkbox only displays if you have enabled the Final Grade Override feature option.</p>
+<p>By default, the filter displays both assignment grade changes and override grade changes. If you filter by final grade override, you cannot filter by any other filters.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="apply-filter" data-step-uuid="122D5970-AAE2-0135-1693-06467EE270FA">
+    <h2 id="apply-filter" class="step-title screensteps-heading">Apply Filter</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/812/817/original/30c5e0e4-5ae9-4f69-8249-f925b1fa5804.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/812/817/medium/30c5e0e4-5ae9-4f69-8249-f925b1fa5804.png" srcset="" alt="Apply Filter" height="117" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_122D7FC0-AAE2-0135-1695-06467EE270FA" class="text-block-content">
+    <p>To apply your specified filters, click the <strong>Filter</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="return-to-gradebook" data-step-uuid="b0665e33-99e5-49c3-bc1b-738a6c850c5b">
+    <h2 id="return-to-gradebook" class="step-title screensteps-heading">Return to Traditional Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/677/015/original/ec1e4dd1-9d0a-4d37-a9dc-365da4e8cac2.png" srcset="" alt="Return to Gradebook" height="266" width="450">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f17962ca-0526-41c5-91d3-7c3b77daa096" class="text-block-content">
+    <p>To return to the gradebook, click the <strong>Gradebook History</strong> menu [1] and select the <strong>Traditional</strong> <strong>Gradebook </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

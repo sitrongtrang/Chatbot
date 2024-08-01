@@ -1,0 +1,213 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0A0D0200-1EE9-0135-E8C8-22000B5A851D" class="text-block-content">
+    <p>Once you have <a href="/t5/Instructor-Guide/How-do-I-start-a-conference/ta-p/1074" target="_blank">started a conference</a> or <a href="/t5/Instructor-Guide/How-do-I-join-a-conference-as-an-instructor/ta-p/961" target="_blank">joined a conference</a> as a moderator, you can use the <a href="/t5/Canvas-Basics-Guide/What-are-Conferences/ta-p/53" target="_blank">Conferences</a> interface to moderate and participate in the conference. Any user who starts a conference or an instructor who joins the conference will be given moderator permissions. Moderators can demote other moderators to viewers.</p>
+<p>The Conferences interface in this guide is displayed using BigBlueButton's conferencing system. This guide provides a basic overview of the Conferences interface. To learn more about specific features, view <a href="https://support.blindsidenetworks.com/hc/en-us/categories/360000379651-BigBlueButton" target="_blank" rel="nofollow noopener noreferrer">BigBlueButton's user documentation</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>It is recommended to use Chrome or Firefox browsers to access the Conferences interface. </li>
+<li>Screen sharing is not supported on Safari browsers.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_conferences_interface" data-step-uuid="401AA6F9-2006-43D6-89B8-6E562712FF5F">
+    <h2 id="view_conferences_interface" class="step-title screensteps-heading">View Conferences Interface</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/964/360/original/dccb6479-2e4a-4a25-9648-3e350acd5bbb.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/964/360/medium/dccb6479-2e4a-4a25-9648-3e350acd5bbb.png" srcset="" alt="View Conferences Interface" height="471" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0A0DCF00-1EE9-0135-E8CA-22000B5A851D" class="text-block-content">
+    <p>The Conferences interface contains a variety of tools to help you moderate and participate in your presentation. The interface consists of the following areas:</p>
+<ul>
+<li>User Menu [1]</li>
+<li>Presentation Window [2]</li>
+<li>Conference Tools [3]</li>
+<li>Options Menu [4]</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-user-list" data-step-uuid="349b0da2-b4a9-4ff4-88db-b1ad5abeaf21">
+    <h2 id="view-user-list" class="step-title screensteps-heading">View User Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/327/475/original/3e7cc3e3-02a4-46d5-a38c-d00384d24e6e.png" srcset="" alt="View User Menu" height="334" width="228">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8fdacc92-5764-4bc0-ada7-46bc8d7efc51" class="text-block-content">
+    <p>From the User Menu, you can view all the users in the conference [1]. Each user is represented by their display name in Canvas.</p><p>You can also chat with conference participants and contribute to shared notes. To open the conference chat, click the <strong>Public Chat</strong> link [2]. To open the Shared Notes, click the <strong>Shared Notes</strong> link [3].</p><p>The User Menu is open by default. To close the User Menu, click the <strong>Users</strong> icon [4].</p><p><strong>Note:</strong> If your institution uses BigBlueButton Premium Tier, Canvas user profile pictures may display as user avatars in BigBlueButton. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage-users" data-step-uuid="adf05c08-f382-45c3-8aeb-b6e9ed67e96e">
+    <h3 id="manage-users" class="step-title screensteps-heading">Manage Users</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/964/364/original/ebb9be74-aaa8-491e-9088-7da7311798f0.png" srcset="" alt="Manage Users" height="278" width="412">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2e0588a4-3d1e-42ff-842a-18b4ba1a3f64" class="text-block-content">
+    <p>To manage settings for all users, click the <strong>User Settings</strong> icon [1].</p>
+<p>To clear users' status icons, click the <strong>Clear all status icons</strong> link [2].</p>
+<p>To mute users, click the <strong>Mute all users</strong> or <strong>Mute all users except presenter</strong> links [3].</p>
+<p>To save user names, click the<strong> Save user names</strong> link [4]. </p>
+<p>To lock specific conference features for users, click the <strong>Lock viewers</strong> link [5]. To create breakout rooms, click the <strong>Create breakout rooms</strong> link [6].</p>
+<p>To write closed captions, click the <strong>Write closed captions</strong> link [7]. </p>
+<p>To chat with a user, remove a user from the conference, or promote a user to presenter or moderator, click the name of the user [8].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-presentation-window" data-step-uuid="af6f1c43-7b8a-411a-96d1-f308ce324ad0">
+    <h2 id="view-presentation-window" class="step-title screensteps-heading">View Presentation Window</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/964/367/original/968b1d5e-02e3-46e1-80ae-4eae24351153.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/964/367/medium/968b1d5e-02e3-46e1-80ae-4eae24351153.png" srcset="" alt="View Presentation Window " height="542" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_da1ac01c-4cb5-47a0-8e83-43515639294e" class="text-block-content">
+    <p>The Presentation Window displays the presentation that has been selected by a moderator or presenter [1]. To upload a new presentation file, start a poll, or share an external video, click the <strong>Add</strong> button [2].</p>
+<p>To begin recording the session, click the <strong>Start recording</strong> button [3].</p>
+<p>The Presentation Window also includes several tools that control how you can participate in the conference. To mute or unmute your microphone, click the <strong>Microphone</strong> button [4]. To leave or join the conference audio, click the <strong>Audio</strong> button [5].</p>
+<p>To enable your webcam, click the <strong>Webcam</strong> button [6]. If webcams are enabled, you can close the presentation window and display only webcams by clicking the <strong>Hide Presentation</strong> icon [7].</p>
+<p>To share your computer screen, click the <strong>Screen Share</strong> button [8].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="use-annotation-tools" data-step-uuid="777738b4-7130-49f0-ada6-b36b7bf59a47">
+    <h3 id="use-annotation-tools" class="step-title screensteps-heading">View Annotation Tools</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/964/370/original/5e64fe5c-52fc-41d4-847f-d7c3bccb2548.png" srcset="" alt="View Annotation Tools" height="317" width="369">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2210df2a-a5e4-43ca-8206-d5cdff969d5d" class="text-block-content">
+    <p>The Conferences interface includes several tools that you can use to annotate the presentation window. To pan a document that has been zoomed in, click the <strong>Pan</strong> icon [1].</p>
+<p>To view all annotation tools, click and the hold the Pan icon. In addition to the pan tool, you can also create text annotations [2], line annotations [3], or shape annotations [4].</p>
+<p>To use a pencil to draw in the presentation window, click the <strong>Pencil</strong> icon [5]. </p>
+<p>If an annotation is added to your presentation, you can select the annotation's thickness and color in Annotation Tools. </p>
+<p>To undo the most recent annotation, click the <strong>Undo</strong> icon [6]. To delete all annotations that you have created, click the <strong>Delete</strong> icon [7].</p>
+<p>To enable palm rejection, click the <strong>Palm Rejection</strong> icon [8].  </p>
+<p>To allow all users to use the annotation tools, click the <strong>Multiuser Whiteboard</strong> icon [9].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-options-menu" data-step-uuid="e83d2db6-9e7c-4995-ba9f-5977eeca8995">
+    <h2 id="open-options-menu" class="step-title screensteps-heading">Open Options Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/964/372/original/0e981456-c03b-4db4-b3fa-272b0815454a.png" srcset="" alt="Open Options Menu" height="313" width="189">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7c8f5a92-3a69-40fb-a6ed-723327eb11d6" class="text-block-content">
+    <p>To open the Options menu, click the <strong>Options</strong> icon [1].</p>
+<p>To view the conference in fullscreen mode, click the <strong>Make fullscreen</strong> link [2].</p>
+<p>To view information about the interface, click the <strong>About</strong> option [3]. To view help tutorials, click the <strong>Help</strong> link [4]. To view hotkeys, click the <strong>Keyboard shortcuts</strong> link [5].</p>
+<p>To end the conference, click the <strong>End meeting</strong> link [6]. To logout of the interface, click the <strong>Leave meeting</strong> link [7].</p>
+<p>To view your connection status, click the <strong>Connection status</strong> icon [8]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-settings-menu" data-step-uuid="2755d8d4-e7b1-496a-8167-503da62997e5">
+    <h2 id="view-settings-menu" class="step-title screensteps-heading">View Settings Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/964/374/original/43546422-580c-4a2a-9601-82dd6e2174fa.png" srcset="" alt="View Settings Menu" height="289" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8b0b33af-e1bf-49ad-9baf-9a8353c96e6d" class="text-block-content">
+    <p>To open the Settings menu, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage-application-settings" data-step-uuid="d7e1ea06-530e-48fd-a1ac-d3414d052f69">
+    <h3 id="manage-application-settings" class="step-title screensteps-heading">Manage Application Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/964/376/original/7217768c-85ed-4247-a689-e7e6a70198ba.png" srcset="" alt="Manage Application Settings" height="362" width="633">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_27a06fc8-678d-41c8-aa79-9f874f4c11c8" class="text-block-content">
+    <p>To manage applications settings, click the <strong>Application</strong> link [1].</p>
+<p>To manage animations that display when a user is speaking, click the <strong>Animations</strong> toggle [2].</p>
+<p>To manage microphone audio filters, click the <strong>Audio Filters for Microphone</strong> toggle [3]. </p>
+<p>To select the language for the interface, click the <strong>Application Language</strong> drop-down menu [4]. </p>
+<p>To adjust the font size, click the <strong>Decrease</strong> or <strong>Increase</strong> buttons [5].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage-notification-settings" data-step-uuid="a987dce6-8340-433d-833f-d97785f979be">
+    <h3 id="manage-notification-settings" class="step-title screensteps-heading">Manage Notification Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/964/384/original/eea4eaf3-6c81-4cae-86f4-9271f7f98855.png" srcset="" alt="Manage Notification Settings" height="316" width="614">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_baa2d479-0eed-4982-b1df-b9f4246ed7c6" class="text-block-content">
+    <p>To manage notification settings, click the <strong>Notifications</strong> link [1].</p>
+<p>To manage chat alerts, click the <strong>Chat Message Audio Alerts</strong> [2] and <strong>Popup Alerts</strong> toggles [3]. </p>
+<p>To manage user join alerts, click the <strong>User Join Audio Alerts</strong> [4] and <strong>Popup Alerts</strong> toggles [5]. </p>
+<p>Lastly, to manage raised hand alerts, click the <strong>Raise hand Audio Alerts</strong> [6] and <strong>Popup Alerts</strong> toggles [7]. </p>
+<p><strong>Note: </strong>Chat alerts only function within the same browser in which the Conferences interface is open.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage-data-savings-settings" data-step-uuid="5ed70c0d-6969-41a5-b0d8-aab14f5ceafa">
+    <h3 id="manage-data-savings-settings" class="step-title screensteps-heading">Manage Data Savings Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/964/380/original/34f50cd0-05cf-4ff3-b055-4fd962979d47.png" srcset="" alt="Manage Data Savings Settings" height="256" width="630">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_71fcf3d8-0951-416c-93d1-95d2412af6f1" class="text-block-content">
+    <p>To manage data saving settings, click the <strong>Data savings</strong> link [1].</p>
+<p>To enable or disable webcams, click the <strong>Enable webcams</strong> toggle [2]. </p>
+<p>To enable or disable desktop sharing, click the <strong>Enable desktop sharing</strong> toggle [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

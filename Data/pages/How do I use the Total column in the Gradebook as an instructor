@@ -1,0 +1,190 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_12804C10-AAE2-0135-1696-06467EE270FA" class="text-block-content">
+    <p>The Total column in the Gradebook displays a running total of all graded assignments in the course, including assignments with hidden grades.</p>
+<p>You can customize the Total column in your Gradebook. The Total column can be moved to the front of the Gradebook or sorted to display grades in an ascending or descending order. You can switch your students' total grades from a percentage to a point value in the Gradebook. By default, total grades are shown as a percentage with two decimal places. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Viewing total grades as a point value is available only if you use unweighted assignment groups in your course. When <a href="/t5/Instructor-Guide/How-do-I-weight-the-final-course-grade-based-on-assignment/ta-p/746" target="_blank">assignment groups are weighted</a>, points cannot be displayed for the total grade.</li>
+<li>Viewing the Total Column in the Gradebook may be restricted when multiple grading periods are enabled. This feature also limits viewing the total grade in the student Grades page.</li>
+<li>When Multiple Grading Periods are enabled in a course and grading periods are weighted, points cannot be displayed for the total grade.</li>
+<li>If you do not see the Total column, it may be hidden. Learn more about <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">view options in the Gradebook</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="12806170-AAE2-0135-1697-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/766/987/original/5503b5e5-26f0-4250-b657-66ab1bad3be3.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_12808AD0-AAE2-0135-1699-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_total_column_menu" data-step-uuid="12809DB0-AAE2-0135-169A-06467EE270FA">
+    <h2 id="open_total_column_menu" class="step-title screensteps-heading">Open Total Column Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/490/110/original/2aee472c-3b00-411a-b1ed-ca18794610e3.png" srcset="" alt="Open Total Column Menu" height="223" width="186">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1280C720-AAE2-0135-169C-06467EE270FA" class="text-block-content">
+    <p>Hover over the Total column header and click the <strong>More Options</strong> menu.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="sort-total-column" data-step-uuid="63ed0cc6-7447-4c3a-aa70-90261db7e77c">
+    <h2 id="sort-total-column" class="step-title screensteps-heading">Sort Total Column</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/490/112/original/c67eef37-e4a5-4236-bfb7-bf7ed8aa31f0.png" srcset="" alt="Sort Total Column" height="209" width="401">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9a2ac940-e9db-409a-a5f1-71982f660ba6" class="text-block-content">
+    <p>To sort the Gradebook by ascending or descending total grades, click the <strong>Sort by</strong> link [1], then select the <strong>Grade - Low to High</strong> or <strong>Grade - High to Low </strong>option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="switch_to_points" data-step-uuid="1280DC80-AAE2-0135-169D-06467EE270FA">
+    <h2 id="switch_to_points" class="step-title screensteps-heading">Switch to Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/290/919/original/f4de7395-70e1-4fd5-a82c-5c697cb5199f.png" srcset="" alt="Switch to Points" height="209" width="212">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_128106D0-AAE2-0135-169F-06467EE270FA" class="text-block-content">
+    <p>By default, total grades are shown as a percentage with two decimal places.</p>
+<p>If your course uses unweighted assignment groups, you can view your students' total grades as points. Click the <strong>Display as Points</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/768/030/original/5e780d76-2af4-4d9e-8658-0be920159e99.png" srcset="" alt="View Points Warning" height="239" width="355">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_12814450-AAE2-0135-16A2-06467EE270FA" class="text-block-content">
+    <p>Canvas confirms you want to switch the total grade view. If you do not want to see this warning message for your course again, click the <strong>Don't show...</strong> checkbox [1]. </p>
+<p>Click the <strong>Continue</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="switch_to_percentages" data-step-uuid="12818EA0-AAE2-0135-16A6-06467EE270FA">
+    <h3 id="switch_to_percentages" class="step-title screensteps-heading">Switch to Percentages</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/290/921/original/1f14179b-46c7-4c94-a210-729df619e0aa.png" srcset="" alt="Switch to Percentages" height="218" width="221">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1281B6B0-AAE2-0135-16A8-06467EE270FA" class="text-block-content">
+    <p>You can switch back to percentages by clicking the Total menu icon and selecting <strong>Display as Percentage</strong>. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="move-total-column" data-step-uuid="829c4c42-f38c-48fb-bc06-f22bd6f18b08">
+    <h2 id="move-total-column" class="step-title screensteps-heading">Move Total Column</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/290/924/original/35f76bca-90eb-4c21-87fe-7d41a7743934.png" srcset="" alt="Move Total Column" height="214" width="214">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6651af41-f008-4801-b253-81a367a96f7c" class="text-block-content">
+    <p>To move the Total column to the front of the Gradebook, click the <strong>Move to Front</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="message-students-who" data-step-uuid="c78c29ba-325c-46bc-a0f2-31feb13057ff">
+    <h2 id="message-students-who" class="step-title screensteps-heading">Message Students Who</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/290/927/original/2996f54b-fbe8-460b-afd9-12737e8c503d.png" srcset="" alt="Message Students Who" height="224" width="220">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7df9e701-6982-4090-b591-e03e69f07c20" class="text-block-content">
+    <p>To send a message to a group of students based on their grades, click the <strong>Message Students Who </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-message-category" data-step-uuid="f9dc40f5-e8b1-401d-a453-1241560a11c6">
+    <h2 id="select-message-category" class="step-title screensteps-heading">Select Message Recipients</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/490/928/original/f708c049-12ec-4531-ae9f-7acfd8b9ceda.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/490/928/medium/f708c049-12ec-4531-ae9f-7acfd8b9ceda.png" srcset="" alt="Select Message Category" height="667" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ff16617-d66d-4747-830d-dd3dab857f11" class="text-block-content">
+    <p>Select a group of users to receive the message. By default, the message is for students who have a <strong>Total grade higher than </strong>the Cutoff Value. </p>
+<p>To send the message to students whose total grade is lower than a number, click the <strong>For students who </strong>drop-down menu [1], and select the <strong>Total grade lower than </strong>option.</p>
+<p>Enter a percentage grade in the <strong>Cutoff Value </strong>field [2]. </p>
+<p>To select or deselect users with a given role, click the checkboxes in the <strong>Send Message To</strong> field [3]. </p>
+<p>To view, add, or remove specific users, click the <strong>Show all recipients </strong>link<strong> </strong>[4]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-message-content" data-step-uuid="21a3d4da-b17f-4009-b59d-28f97d3fdd76">
+    <h2 id="enter-message-content" class="step-title screensteps-heading">Enter Message Content</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/490/120/original/8c356444-96bf-43d7-bf5c-571d9256e867.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/490/120/medium/8c356444-96bf-43d7-bf5c-571d9256e867.png" srcset="" alt="Enter Message Details" height="667" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e4d81b6a-9bc7-4e9a-bcb4-1d25ebe8583f" class="text-block-content">
+    <p>By default, the subject is a message based on your selections. To edit the subject, enter a different subject in the <strong>Subject</strong> field [1].</p>
+<p>Type a message to the students in the <strong>Message</strong> field [2]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-attach-a-file-to-a-message-as-an-instructor/ta-p/599" target="_blank">attach a file to the message</a>, click the <strong>Attach</strong> button [3]. </p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-attach-a-media-comment-to-a-message-as-an-instructor/ta-p/598" target="_blank">create a media recording or upload a media file</a>, click the <strong>Media</strong> icon [4]. </p>
+<p>To send the message, click the <strong>Send </strong>button [5].</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Although one message most likely will be sent to multiple students at the same time, each student receives an individual message.</li>
+<li>You can also <a href="/t5/Instructor-Guide/How-do-I-send-a-message-to-students-from-the-Gradebook/ta-p/741" target="_blank">message students by individual gradebook assignments</a>.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

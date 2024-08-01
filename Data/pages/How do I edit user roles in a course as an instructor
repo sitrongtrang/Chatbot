@@ -1,0 +1,123 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_129DDFC0-2221-0135-70B3-22000BC102FE" class="text-block-content">
+    <p>Once <a href="/t5/Instructor-Guide/How-do-I-add-users-to-a-course/ta-p/1119" target="_blank">users have been added to your course</a>, you may be able to edit the enrollment type for a user in the course through the People page. This feature allows you to make modifications to course enrollment types without having to delete the existing enrollment. Role edits do not require the user to accept a new course invitation.</p>
+<p>If a user was added to the course with multiple roles, selecting a new role overwrites all the user's current enrollments with the new edited role. If a user is enrolled in multiple sections, the edited role applies to all sections.</p>
+<p><strong>Notes</strong>:</p>
+<ul>
+<li>If an observer is linked to a student, you cannot edit an observer role. Learn how to <a href="/t5/Instructor-Guide/How-do-I-link-a-student-to-an-observer-in-a-course/ta-p/1254" target="_blank">manage linked students</a>.</li>
+<li>Enrollments may be added by your institution's student information system (SIS). If an enrollment includes an SIS ID, you cannot edit an enrollment in the course. Additionally, editing a user role is a course permission. If you cannot edit user roles in your course, your institution has restricted this feature.</li>
+<li>For more information regarding permissions, see the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Course-Role-Permissions/ta-p/387080" target="_blank">Canvas Course Role Permissions</a> resource document.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_people" data-step-uuid="1bf44b88-afb1-44cc-98f1-1270b87e8f05">
+    <h2 id="open_people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/163/original/3b999ed0-01b9-4dcd-b785-214a83477732.png" srcset="" alt="Open People" height="239" width="157">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_129E1090-2221-0135-70B5-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>People</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="locate_user" data-step-uuid="93a9dece-5e00-4bd1-80b4-a5a2dacdbe1e">
+    <h2 id="locate_user" class="step-title screensteps-heading">Locate User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/782/832/original/92177c17-9709-4192-baca-d5a4b70495fa.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/782/832/medium/92177c17-9709-4192-baca-d5a4b70495fa.png" srcset="" alt="Locate User" height="67" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_129E6020-2221-0135-70B7-22000BC102FE" class="text-block-content">
+    <p><span style="color:rgb(49,49,49);">In the search field [1], search for the name of the user. You can also filter users by role in the </span><span style="color:rgb(49,49,49);"><strong>Roles</strong></span><span style="color:rgb(49,49,49);"> drop-down menu [2].</span></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_role" data-step-uuid="5708f21a-8906-40c6-a8bd-84a4998cc8cb">
+    <h2 id="edit_role" class="step-title screensteps-heading">Edit Role</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/250/737/original/01ec1fe6-6b22-42d9-985f-422dc52ced46.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/250/737/medium/01ec1fe6-6b22-42d9-985f-422dc52ced46.png" srcset="" alt="Edit Role" height="253" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_129E91F0-2221-0135-70B9-22000BC102FE" class="text-block-content">
+    <p>Click the user's <strong>Options</strong> icon [1], then select the <strong>Edit Role </strong>link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_course_role" data-step-uuid="38638426-3b35-4f30-a0c7-b81f5dd69480">
+    <h2 id="edit_course_role" class="step-title screensteps-heading">Edit Course Role</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/836/original/e44a507d-de4a-42a7-a675-a3725c794fbb.png" srcset="" alt="Edit Course Role" height="382" width="308">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_129F3AE0-2221-0135-70BB-22000BC102FE" class="text-block-content">
+    <p>Click the<strong> Role</strong> drop-down menu [1], then select the new role for the user [2]. </p>
+<p><strong>Note:</strong> Depending on your user permissions, you may not be able to select from all user roles in your course.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_multiple_roles" data-step-uuid="22a10511-c5ea-46fc-95f1-101b7181ab42">
+    <h3 id="edit_multiple_roles" class="step-title screensteps-heading">Edit Multiple Roles</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/830/original/324d1401-1497-4528-96a4-a308e0b1fa10.png" srcset="" alt="Edit Multiple Roles" height="315" width="306">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_129F6970-2221-0135-70BD-22000BC102FE" class="text-block-content">
+    <p>If a user has multiple roles in the course, selecting a new role overwrites all the user's current enrollments. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_role" data-step-uuid="2dd0f926-50d6-4275-a55d-f021b5864f8a">
+    <h2 id="update_role" class="step-title screensteps-heading">Update Role</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/782/834/original/e373d5b7-37ea-42b3-9cd1-771b0d593bb4.png" srcset="" alt="Update Role" height="66" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_129F9900-2221-0135-70BF-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Update</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

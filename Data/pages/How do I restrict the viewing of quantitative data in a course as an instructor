@@ -1,0 +1,93 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1D86A187-FDB1-45A0-9CD4-F2211B156B4A" class="text-block-content">
+    <p>In course settings, you can prevent students from viewing grades as points and allow them to view only letter grades and comments. When selected in <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">course settings</a>, the Restrict view of quantitative data checkbox limits the display of course quantitative (numeric) grading data. Students and observers can view only qualitative data, which includes letter grades and comments.</p>
+<p>Points are converted to a letter grade and points possible are hidden. All other grading information is visible.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If the course does not have a <a href="/t5/Instructor-Guide/How-do-I-use-grading-schemes-in-a-course/ta-p/870" target="_blank">custom grading scheme</a>, the Default Canvas Grading Scheme is used.</li>
+<li>When the quantitative data restriction setting is enabled, Admins, Instructors, and TAs can still see quantitative data.</li>
+<li>Restricting the view of quantitative data is partially supported with classic quizzes. When the quantitative data restriction setting is enabled, students and observers cannot view numeric scores on the Grades page, but they can still view numeric scores when <a href="/t5/Student-Guide/How-do-I-view-quiz-results-as-a-student/ta-p/335" target="_blank">viewing classic quiz result details</a>. </li>
+<li>The course setting is only available if your admin <a href="/t5/Admin-Guide/How-do-I-restrict-the-viewing-of-quantitative-data-in-an-account/ta-p/580317" target="_blank">enables it for the account</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="d2577c1e-f45f-4dc4-a586-3f33c78f9c9b">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/797/565/original/aed9add0-e45d-4d30-b58f-a7843eb6d4b3.png" srcset="" alt="Open Settings" height="275" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7b4fd5a0-87bc-468d-a2f6-6b53b02a5a0b" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_details" data-step-uuid="8045a9bf-b826-47ab-8efd-d85217bb0fd2">
+    <h2 id="open_course_details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/176/139/original/838f73e1-12b3-4572-9166-ec879236ee07.png" srcset="" alt="Open Course Details" height="82" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fae34045-6332-4487-af13-3d6359581c57" class="text-block-content">
+    <p>Click the <strong>Course Details</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_restriction_options" data-step-uuid="CE5218B9-2701-4F96-BB44-5CFDE6A72F02">
+    <h2 id="view_restriction_options" class="step-title screensteps-heading">View Quantitative Data Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/797/567/original/952cef4b-d1df-4860-b5d7-4e3be308b9c8.png" srcset="" alt="View Quantitative Data Options" height="56" width="502">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_DDF3C26A-FE8C-449B-8989-98A12AC846E4" class="text-block-content">
+    <p>In the Course Details tab, locate the Quantitative Data Options. To restrict students and observers from viewing quantitative data, click the <strong>Restrict view of quantitative data</strong> checkbox.</p>
+<p>By default, the Restrict view of quantitative data checkbox is not selected, meaning students and parents/observers can view numeric data as well as letter grades and comments. To retain this default for the course, do not select the checkbox. </p>
+<p><strong>Note:</strong> If the checkbox is selected and grayed out, your admin has locked the account-level setting.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_course_details" data-step-uuid="fbaf308a-67d3-4344-8f69-288a76df8b60">
+    <h2 id="update_course_details" class="step-title screensteps-heading">Update Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/797/569/original/f750db99-505e-48ab-ac34-1c6c1a358cd3.png" srcset="" alt="Update Course Details" height="65" width="211">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5893425e-79f8-4963-a616-7c56422122ee" class="text-block-content">
+    <p>Click the <strong>Update Course Details</strong> button. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

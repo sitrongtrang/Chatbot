@@ -1,0 +1,36 @@
+How do I use the Quizzes Index Page as an instructor
+Open Quizzes
+In Course Navigation, click the Quizzes link.
+View Quizzes Index Page
+The Quizzes Index page is designed with global settings at the top of the page, followed by the grouped Quiz types. Individual quizzes are nested within each Quiz type.
+View Quizzes Global Settings
+Global settings include searching for quizzes and adding new quizzes. You can also manage course quiz options in the Options menu.
+View Quizzes Options
+In the Options menu, you can manage course question banks.
+If your institution has enabled New Quizzes and you chose to save your quiz engine choice when creating a quiz, you can reset your saved choice. To reset your quiz engine choice, select the Reset quiz engine choice option in the options drop-down menu.
+View Quizzes Groups
+Quizzes groups can be expanded and collapsed by clicking the arrow next to the name.
+View New Quizzes Assessments
+If you are using the New Quizzes LTI in your course, the Quizzes page indicates a New Quizzes assessments with the New Quizzes icon. Quizzes created with the classic Canvas quiz tool are indicated with the Classic Quiz icon. Both quiz types can be used in the same course.
+For help with New Quizzes functionality, please see the New Quizzes chapter in the Instructor Guide. 
+View Individual Quiz
+Each quiz displays the quiz name, due date (if any), the number of points the quiz is worth, the number of questions in the quiz, and the quiz draft state status (published or unpublished).
+You can also set varied due dates for a quiz and create due dates according to course section. Varied due dates appear as multiple dates.
+Note: Due dates are not required for a quiz.
+View Availability Dates
+Quizzes can also include availability dates. Availability dates can make an assignment available for only a specific period of time.
+Manage Individual Quiz
+To manage an individual quiz, click the Options icon.
+In the Options drop-down menu, you can edit the quiz, open SpeedGrader, delete the quiz, migrate the quiz to New Quiz, send the quiz to another instructor, or copy the quiz to another course.
+Note: The migrate option is accessible if the New Quizzes feature option is enabled in your course.
+View SIS Quizzes
+If your institution has enabled a student information system (SIS) integration, you can tell if a quiz is set up to be sent to your institution's SIS. Quizzes can be enabled directly by clicking the sync icon next to a quiz. 
+Note: Some institutions may limit quiz names and/or require quiz due dates. If you try to enable an quiz and you receive an error message, the error will show which requirement needs to be resolved before the quiz can be enabled to be synced to your SIS.
+View MasteryPaths
+If you use MasteryPaths in your course, you can tell which items are set up in Modules as MasteryPaths or conditional content items.
+View Blueprint Course
+If your course includes Blueprint icons, your course is associated with a blueprint course. Blueprint Courses are courses managed as a template and may contain locked objects managed by a Canvas admin, course designer, or other instructor.
+The Course Details tab in Course Settings will tell you if your course is a blueprint course. Most commonly, your course will not be a blueprint course and you can only manage unlocked content in your course. If your course is a blueprint course, you can lock and sync course content to associated courses. 
+View Student View
+To view the quizzes index page as a student, click the View as Student button.
+Note: If the course navigation link for the page is disabled and hidden from students, the View as Student button does not display.

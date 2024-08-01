@@ -1,0 +1,224 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_b2442604-4a95-4471-b3c3-ec8bec4ce387" class="text-block-content">
+    <p>Within an individual blueprint course, you can lock and unlock course objects and sync content for the blueprint course. If you are not sure how objects were defined for the course, you can view them in the Course Settings Course Details tab. Attributes for locked objects may be changed in Course Settings at any time. </p>
+<p>If you enroll an instructor in a blueprint course, the instructor can also lock and unlock course objects. By default, objects in blueprint courses are unlocked. </p>
+<p><strong>Locked Objects</strong></p>
+<p>Locking an object in a course enforces the attributes defined in Course Settings. Any change to an attribute retroactively applies to all locked objects in the associated course. If an attribute is enabled for locked objects in the blueprint course, any locked attributes in the associated course that vary from locked attributes in the blueprint course will trigger unsynced changes in the blueprint course and override the associated course objects.</p>
+<p>Locking or unlocking an object applies immediately to all associated courses. However, the change will still be noted as an unsynced change and will not appear in the Sync History page until the sync is complete. Additionally, changes are not identified as an unsynced change until the page is refreshed. </p>
+<p><strong>Unlocked Objects</strong></p>
+<p>Objects that are unlocked can be managed by a course instructor like any other Canvas object. If the blueprint course is synced and the instructor has modified unlocked objects in the associated course, unlocked objects are not overwritten with the synced changes.</p>
+<p>Unlocked blueprint objects can be locked at any time. If you lock an unpublished object, and that object was previously removed from an associated course, the object will be replaced in the associated course.</p>
+<p><strong>Object Management</strong></p>
+<p>This article shows how to lock an object from the Assignments page. Objects can also be managed in the Files, Modules, Pages, and Quizzes. </p>
+<p>In Modules, only individual module items can be locked. Changes to the modules structure are triggered as part of a course sync. </p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_ff6b6dc7-311b-4f93-ace7-a0f2f9cc2b09" class="text-block-content">
+    <p><strong>Notes:</strong> </p>
+<ul>
+<li>You can only lock and unlock objects created in the blueprint course. Any new objects added to an associated course by an instructor does not include a blueprint icon and is not associated with the blueprint course.  </li>
+<li>You can only lock and unlock new quizzes if New Quizzes is enabled for your institution.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="4a118374-953a-426d-bd7f-cdefbe1aff6b">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fbee4e17-eea9-4a98-810c-cfa09d57bdc3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-courses" data-step-uuid="b886c4f3-f3f0-47ff-94e8-e3e7650080f5">
+    <h2 id="open-courses" class="step-title screensteps-heading">Open Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/970/original/06bfbd4d-fbeb-43ea-ae87-4db6d8509ba4.png" srcset="" alt="Open Courses" height="306" width="166">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9876c840-282b-480b-9213-1675561e4fcf" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Courses</strong> link. </p>
+<p><strong>Note:</strong> When you open an account, the account defaults to the Courses page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter_or_find_course" data-step-uuid="24af7e0f-c4fd-45ef-a1e7-a1c6a70a3b48">
+    <h2 id="filter_or_find_course" class="step-title screensteps-heading">Find Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/371/281/original/65372f18-77a5-4146-b591-be645faec39b.png" srcset="" alt="Find Course" height="101" width="741">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_20adef50-338a-407f-b7c3-7040c86ea787" class="text-block-content">
+    <p>To find the course in the account, use the filter and search options.</p>
+<p>To include only blueprint courses in your search results, click the <strong>Show only blueprint courses</strong> option. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="d02b26ef-6be8-49b2-98e8-c4c8493e432a">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Course Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/491/161/original/3412d08a-8a3e-4371-9fcc-d3a76e3db572.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/491/161/medium/3412d08a-8a3e-4371-9fcc-d3a76e3db572.png" srcset="" alt="Open Settings" height="160" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e3ea5220-c340-432e-96fa-7e98081ffe88" class="text-block-content">
+    <p>In the courses list, click the course <strong>Settings</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="3f7907b1-fe41-48de-8bd6-2dee339c9563">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/972/original/b6629b3e-90a1-4cd2-8a82-c49978c72929.png" srcset="" alt="Open Assignments" height="264" width="162">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_595767e2-7b9c-4bc0-b22d-5d77e4f08565" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+<p><strong>Note: </strong>Objects can also be managed in the Files, Modules, Pages, and Quizzes pages.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_icon_status" data-step-uuid="d62c3754-6b23-4de3-b52b-604ca7e539ed">
+    <h2 id="view_icon_status" class="step-title screensteps-heading">View Icon Status</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/348/original/5bb2d132-c562-4832-9f82-d970eedc02a0.png" srcset="" alt="View Icon Status" height="283" width="844">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0a6bf218-3d37-4377-92d0-97500c2e2efc" class="text-block-content">
+    <p>In any Index page, you can view the status of each object. White squares indicate the object is unlocked [1]. Blue squares with a lock icon indicate the object is locked [2]. </p>
+<p>By default, objects are unlocked. You can change the status of an object by toggling the lock and unlocked icons.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="lock_object" data-step-uuid="5efd31df-889d-4f66-a5e0-f1e3c76895a2">
+    <h3 id="lock_object" class="step-title screensteps-heading">Lock Object</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/264/472/original/1ff3e33f-e93a-476f-88f9-3c341fe3b90e.png" srcset="" alt="Lock Object" height="81" width="139">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_df1382cb-d8ee-419b-8da0-13395c96eae5" class="text-block-content">
+    <p>To lock an object, click the object’s unlocked icon. The hover text will confirm you want to lock the object. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unlock_object" data-step-uuid="1f29f093-0686-47b6-a34a-99e3ae1a90cd">
+    <h3 id="unlock_object" class="step-title screensteps-heading">Unlock Object</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/264/480/original/ce7b4729-9f5c-48d8-a629-d2ac6b75f501.png" srcset="" alt="Unlock Object" height="81" width="139">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_aa824ca8-a0dc-4866-b4fc-06afbdaa2de0" class="text-block-content">
+    <p>To unlock an object, click the object’s lock icon. The hover text will confirm you want to unlock the object. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_status_in_individual_object" data-step-uuid="a91612c9-64ee-4967-9a27-69987f55fd44">
+    <h2 id="view_status_in_individual_object" class="step-title screensteps-heading">View Status in Individual Object</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a685b9e8-ce8b-48e2-925e-d59deea2a307" class="text-block-content">
+    <p>Except within Files, blueprint status can be modified within individual objects.</p>
+<p>Files can only be locked or unlocked in the Files Index Page.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="lock_object_1" data-step-uuid="40efbed4-33ed-4e09-b016-22fb4f1853ef">
+    <h3 id="lock_object_1" class="step-title screensteps-heading">Lock Object</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/264/469/original/bfaaa287-9271-41f7-95e1-c53d74f642f4.png" srcset="" alt="Lock Object" height="200" width="726">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_df374d2a-9e6f-4f4e-8922-b39eb3e94ca1" class="text-block-content">
+    <p>To lock an unlocked object, click the <strong>Blueprint</strong> button. The button will change from gray to blue and indicate the object is locked.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unlock_object_1" data-step-uuid="0bb4a293-8bd1-45b6-a316-8f0f6d517b4a">
+    <h3 id="unlock_object_1" class="step-title screensteps-heading">Unlock Object</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/350/original/f6c9cd68-7440-4c61-81a7-b281d46caee5.png" srcset="" alt="Unlock Object" height="389" width="756">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2327e157-3773-4b6c-8827-628fcd33a374" class="text-block-content">
+    <p>Individual objects show the attributes that have been locked.</p>
+<p>To unlock a locked object, click the <strong>Locked</strong> button. The button will change from blue to gray and indicate the object is unlocked. The locked attributes banner will also be removed from the page. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_instructor_access" data-step-uuid="7cc2e798-8f83-484b-b529-184c0b250b7e">
+    <h2 id="view_instructor_access" class="step-title screensteps-heading">View Instructor Access</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/346/original/8235461c-3607-4907-ac00-cd7b14269392.png" srcset="" alt="View Locked Assignment" height="347" width="683">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81256da9-e6f6-4d54-88fc-818a3c663242" class="text-block-content">
+    <p>Instructors can view locked and unlocked icons in the Index page. However, they cannot manage the existing status of an object.</p>
+<p>For locked objects, the individual page displays the locked attributes selected in Course Settings, if any. Instructors cannot modify locked objects, so any attributes that are locked cannot be edited.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/264/468/original/e47da6a3-83e6-44d1-835f-4d2a9aa315d4.png" srcset="" alt="View Edit Page for Assignment" height="774" width="692">
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

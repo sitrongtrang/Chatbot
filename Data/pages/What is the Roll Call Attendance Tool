@@ -1,0 +1,149 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_EC342690-1E14-0135-A35E-22000BC102FE" class="text-block-content">
+    <p>The Attendance (Roll Call) tool is an external app (LTI) used for taking attendance in Canvas courses. The Attendance tool can be used for online or face-to-face courses. Enabled at the account level, the Roll Call Attendance tool can be used by all courses in the Canvas account.</p>
+<p>The Attendance tool always appears as a visible Course Navigation link, but it cannot be viewed by students, so hiding the link in Course Settings is not necessary. If instructors do not want to use the Attendance tool in their courses, no action is required. However, if you do use the Attendance tool, students can view their attendance report through the Roll Call Attendance submission details page.</p>
+<p><strong>Note</strong>: The Attendance tool must be enabled for your institution before it can be used in Canvas courses. If you are an admin, contact your Customer Success Manager for assistance.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_attendance" data-step-uuid="5405a7cf-af1c-486b-a722-91d63642e8a8">
+    <h2 id="view_attendance" class="step-title screensteps-heading">View Attendance</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/566/012/original/6ed7c166-b3be-4241-89c2-8044f5312c42.png" srcset="" alt="View Attendance" height="262" width="829">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC345F70-1E14-0135-A360-22000BC102FE" class="text-block-content">
+    <p>With the Attendance tool, instructors can keep track of course attendance by taking roll electronically. Instructors can choose to view the tool in a list or grid format and can customize the placement of each student in the seating chart. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_attendance_assignment" data-step-uuid="fd537c66-c62c-49a7-8419-afd565cbd40d">
+    <h2 id="view_attendance_assignment" class="step-title screensteps-heading">View Attendance Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/080/753/original/d45e9a72-827a-48af-bdb2-7ae686d05bde.png" srcset="" alt="View Attendance Assignment" height="213" width="675">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC348E40-1E14-0135-A362-22000BC102FE" class="text-block-content">
+    <p>When you take attendance using Roll Call, Canvas automatically adds Attendance as an assignment. The default point value for attendance is 100 points.</p>
+<p>To avoid Attendance calculation errors, <strong>never delete, rename, or unpublish</strong> the Attendance assignment.</p>
+<p><strong>Note: </strong>Although students cannot view the actual attendance tool, they can still view the attendance assignment in the Assignments page. This assignment cannot be hidden from students.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="take_attendance" data-step-uuid="f1d45a19-6d53-4539-8764-5724cd20889c">
+    <h2 id="take_attendance" class="step-title screensteps-heading">Take Attendance</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/566/000/original/13cb657a-fc48-4f2c-a2ef-a6db63317dd1.png" srcset="" alt="Take Attendance" height="399" width="724">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC34BF90-1E14-0135-A364-22000BC102FE" class="text-block-content">
+    <p>The status set for each student is associated with a percentage value. Statuses include present and on time, not present, late, and unmarked (excused absence).</p>
+<p>The Attendance tool also creates an assignment in the Gradebook and calculates attendance as a percentage of a student's grade.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_lateness_value" data-step-uuid="9152cae6-a8bc-4ab4-a14d-f91962f6f956">
+    <h3 id="view_lateness_value" class="step-title screensteps-heading">View Lateness Value</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/566/002/original/5c4b8258-4ac2-4181-a2e0-a8a777b08593.png" srcset="" alt="Adjust Lateness Value" height="134" width="512">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC34EBB0-1E14-0135-A366-22000BC102FE" class="text-block-content">
+    <p>By default, the value of being late is 80% of the present value. So if a student is late, the student will receive 80% for the day instead of the full 100%. The late value can be adjusted in Roll Call settings.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_gradebook_scores" data-step-uuid="aea5b0ff-eec1-43ad-9539-5b76aa4e869c">
+    <h2 id="view_gradebook_scores" class="step-title screensteps-heading">View Gradebook Scores</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/786/549/original/fafd8383-4598-4ca7-9905-6e9982a5474b.png" srcset="" alt="Roll Call Attendance Column in Gradebook" height="230" width="502">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC351DC0-1E14-0135-A368-22000BC102FE" class="text-block-content">
+    <p><span style="color:rgb(29,29,29);">In the Gradebook Attendance column, by default Canvas displays the assignment based on percentage of the point value. For instance, if the point value is 100, and roll call has been taken twice, a student with one present value (100%) and one lateness value (calculated at 80%) will have a score of 90 points, or 90%. </span></p>
+<p><span style="color:rgb(29,29,29);">The Attendance Gradebook column will update every time you take roll call in the Attendance tool. </span></p>
+<p><span style="color:rgb(29,29,29);"><strong>Note: </strong></span><span style="color:rgb(0,0,0);">Although students cannot view the actual attendance tool, if you are using attendance for grading, they can still view their attendance score in their Grades page and view their attendance report. You can prevent the assignment from triggering notifications by setting a </span><a href="https://community.canvaslms.com/docs/DOC-17329-41521116618" target="_blank"><span style="color:rgb(0,0,0);">manual posting policy for the assignment</span></a><span style="color:rgb(0,0,0);">.</span></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export_attendance_data" data-step-uuid="8DD0B1D0-B13F-4C84-9E07-A2F1963BFE5B">
+    <h2 id="export_attendance_data" class="step-title screensteps-heading">Export Attendance Data</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/566/014/original/ff53ad21-5d5f-4ad5-81cb-f50449c2cfed.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/566/014/medium/ff53ad21-5d5f-4ad5-81cb-f50449c2cfed.png" srcset="" alt="Contact Account Relationship Manager" height="410" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC354B20-1E14-0135-A36A-22000BC102FE" class="text-block-content">
+    <p>At both the account and course levels, the Attendance tool allows users to create attendance reports.</p>
+<p><strong>Note: </strong>Admins can also filter reports by SIS Course ID.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_and_manage_badges" data-step-uuid="2392635C-F883-4F7C-B596-9145431B3447">
+    <h2 id="create_and_manage_badges" class="step-title screensteps-heading">Create and Manage Badges</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/566/010/original/2570c59a-60ea-4423-94f7-26c3842517b7.png" srcset="" alt="Manager Account Badges" height="275" width="755">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC357A90-1E14-0135-A36C-22000BC102FE" class="text-block-content">
+    <p>At the account level, admins can create and manage badges used in the Attendance Tool. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="e4964907-5ca7-460c-a7fc-8606af83f7f2">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/566/004/original/1b37f148-8458-4099-b13b-3862b7a73bac.png" srcset="" alt="View Badges" height="313" width="379">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC35A860-1E14-0135-A36E-22000BC102FE" class="text-block-content">
+    <p>At the course level, any badges added by a Canvas admin automatically appear for the course. However, instructors can also create additional badges for their course as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

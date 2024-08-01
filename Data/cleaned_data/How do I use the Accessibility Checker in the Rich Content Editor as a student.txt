@@ -1,0 +1,14 @@
+How do I use the Accessibility Checker in the Rich Content Editor as a student
+View Accessibility Checker Notifications
+If any accessibility issues are detected within the Rich Content Editor, the Accessibility Checker display an indicator.
+To view accessibility issues, click the Accessibility Checker icon. 
+View Issues
+When an issue is detected, the Rich Content Editor highlights the affected area. The sidebar displays the accessibility attribute and an explanation of the error. To learn more about the accessibility attribute, click the Information icon.
+View Additional Issues
+If the Rich Content Editor contains more than one issue, you can view all issues by clicking the Previous or Next buttons.
+Apply Fix
+To correct an issue, complete the task as noted in the sidebar. For instance, if the issue requires that alt text be added to an image, the sidebar displays a text field for you to enter alt text.
+When you are finished with your changes, click the Apply button.
+The Accessibility Checker will apply the fix and display information for the next issue. Continue to review and fix any detected issues within the editor.
+Confirm Fix
+When all issues have been fixed, or if no issues are detected in the Rich Content Editor, the sidebar indicates that no issues exist and will close automatically.

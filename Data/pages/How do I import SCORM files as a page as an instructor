@@ -1,0 +1,212 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8019bbb5-f140-496a-88a6-2ec402a95aae" class="text-block-content">
+    <p>If your institution has enabled the SCORM LTI, you can upload SCORM ZIP files <a href="/t5/Instructor-Guide/How-do-I-import-SCORM-files-as-an-assignment/ta-p/673" target="_blank">as assignments</a> and as pages in your course (per the applicable package content). SCORM is a technical standard for many e-learning products and is often used to create course content. Once enabled, the SCORM Link will appear in the Course Navigation menu. SCORM packages are imported as External Tool Assignment submissions. </p>
+<p>To enable your SCORM content as a stand-alone HTML site, you may need to re-export your SCORM content.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>The SCORM LTI must be enabled in External Apps at the account level before it can be used in courses. If you are an administrator, please contact your Customer Success Manager for assistance.</li>
+<li>If you delete a SCORM page in Pages, you can still view the uploaded page by navigating to SCORM in Course Navigation. However, if you delete the uploaded page in SCORM, the page is also deleted from all other applicable Canvas locations. </li>
+<li>Canvas supports the following versions of SCORM: SCORM 1.2 and SCORM 2004 (2nd, 3rd, and 4th Edition).</li>
+<li>SCORM is not available in beta or test environments of Canvas.</li>
+<li>If a SCORM package is not updated to require signed launch links, users see an "ApiUseSignedLaunchLinks is true, but link was not signed" message when attempting to load their content instead of a media player. </li>
+<li>If SCORM packages are not updated to require signed launch links, the encrypted launch links can be copied, however, they are only valid for a few seconds after they're initially requested and users see a "Token has expired" or "Player could not load" message.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_scorm" data-step-uuid="f5775ef2-b27b-4ea4-80e1-08d2ca211e28">
+    <h2 id="open_scorm" class="step-title screensteps-heading">Open SCORM</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/934/702/original/4095ce12-fdf7-4eb3-8442-dba6348f709d.png" srcset="" alt="Open SCORM" height="233" width="147">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0f69df90-74da-467e-8134-dadc9bbdec11" class="text-block-content">
+    <p>In Course Navigation, click the <strong>SCORM </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload_file" data-step-uuid="12fcbe8a-7ed9-4ff3-b644-7771a97fe88d">
+    <h2 id="upload_file" class="step-title screensteps-heading">Upload File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/934/704/original/d86ddf17-423c-40ce-9d07-47992db3f7af.png" srcset="" alt="Upload File" height="254" width="644">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f53d1275-ae09-4a7c-93cc-bfeed85d8de9" class="text-block-content">
+    <p>Click the <strong>Upload </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_file" data-step-uuid="b1b47160-4b80-40e9-b1f4-14d0e0da61e9">
+    <h2 id="open_file" class="step-title screensteps-heading">Open File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/615/470/original/477bd6f5-ca7d-40f5-b3e2-0542d8a8432f.png" srcset="" alt="Open file" height="288" width="306">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1fdd51f2-8321-4a8f-a337-783bebdebb9c" class="text-block-content">
+    <p>Select the file from your computer [1] and click the <strong>Open </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_import_type" data-step-uuid="32a06afc-3ac3-42f2-913d-b0c41adc5c2e">
+    <h2 id="choose_import_type" class="step-title screensteps-heading">Choose Import Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/940/080/original/011bc157-9005-492b-99bc-03bf470443e5.png" srcset="" alt="Choose Import Type" height="126" width="752">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d8dfc487-018f-443e-a101-1d785c982ac4" class="text-block-content">
+    <p>Once the file is uploaded, select the object import type. Click the <strong>Choose Import Type </strong>menu [1] and select the <strong>Import as page</strong> option [2]. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The import type selected when importing a SCORM file is permanent and cannot be changed in Canvas.</li>
+<li>You can also <a href="/t5/Instructor-Guide/How-do-I-import-SCORM-files-as-an-assignment/ta-p/673" target="_blank">import a SCORM file as a graded or ungraded assignment</a>. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_file" data-step-uuid="009a292c-daf2-44bb-ae87-af5364c38651">
+    <h2 id="import_file" class="step-title screensteps-heading">Import File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/615/473/original/18850385-ba4d-4d4b-a15d-41ecb8ad712e.png" srcset="" alt="Import File" height="84" width="761">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a5f72652-d079-4ce8-ae0f-8b57bf30b0e5" class="text-block-content">
+    <p>Click the <strong>Go </strong>button.</p>
+<p><strong>Note:</strong> If content does not immediately load, your LTI tool may need to be reconfigured. Please contact your admin for assistance.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_file" data-step-uuid="61e43770-3fe9-4e2c-949b-c56a31b8632f">
+    <h2 id="view_file" class="step-title screensteps-heading">View File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/615/475/original/84dcf7b5-3369-44c0-9c04-3f381582ad46.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/615/475/medium/84dcf7b5-3369-44c0-9c04-3f381582ad46.png" srcset="" alt="View FIle" height="77" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0468279b-c3c7-4301-9119-511dd4916cc5" class="text-block-content">
+    <p>To view the page in Canvas or to <a href="/t5/Instructor-Guide/How-do-I-edit-a-page-in-a-course/ta-p/791" target="_blank">edit the page</a>, click the <strong>Assignment </strong>icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-page" data-step-uuid="92634fa4-08aa-49e0-8908-5a7e7be172bd">
+    <h3 id="view-page" class="step-title screensteps-heading">View Page</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/934/716/original/a5f2799a-864a-449c-aecc-8e3599a00916.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/934/716/medium/a5f2799a-864a-449c-aecc-8e3599a00916.png" srcset="" alt="View Page" height="614" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_325d854a-b0f5-4eb7-aada-86309685ade4" class="text-block-content">
+    <p>View the uploaded page as a course page. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_in_assignments" data-step-uuid="8425f4d2-4cab-441a-96ca-6f55715c9851">
+    <h3 id="view_in_assignments" class="step-title screensteps-heading">View in Pages</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/934/718/original/941358cf-9c31-4ced-9e08-a7d9874ecf97.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/934/718/medium/941358cf-9c31-4ced-9e08-a7d9874ecf97.png" srcset="" alt="View in Pages" height="231" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c6a1a1ed-a78a-40e2-8b62-1e9ab13c22ab" class="text-block-content">
+    <p>Imported SCORM pages also display on the Pages Index page. Once imported, you can <a href="/t5/Instructor-Guide/How-do-I-add-a-page-to-the-student-To-Do-list-as-an-instructor/ta-p/824" target="_blank">assign a to-do date</a> to the page and <a href="/t5/Instructor-Guide/How-do-I-add-course-content-as-module-items/ta-p/1157" target="_blank">add it as a module item</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="preview_file" data-step-uuid="9c4068ac-62d2-4312-b4f1-24fba1b2ab9b">
+    <h2 id="preview_file" class="step-title screensteps-heading">Preview File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/615/478/original/885ba92f-d98c-4bfd-b657-e6100d5650c1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/615/478/medium/885ba92f-d98c-4bfd-b657-e6100d5650c1.png" srcset="" alt="Preview File" height="77" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c067f676-b946-4e76-9fa3-7522ca129712" class="text-block-content">
+    <p>To preview the uploaded content, click the <strong>Preview </strong>icon. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="preview-page" data-step-uuid="32745b15-77d4-46e7-a0fd-44985d4835d4">
+    <h3 id="preview-page" class="step-title screensteps-heading">Preview Page</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/934/722/original/ba9e2a12-9662-4d2e-98f5-fac80d32d11b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/934/722/medium/ba9e2a12-9662-4d2e-98f5-fac80d32d11b.png" srcset="" alt="Preview Page" height="562" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f532d3fd-c89c-492d-9541-1142815a5b63" class="text-block-content">
+    <p>SCORM page previews display the files they appear for students in your course. </p>
+<p>To reset the test content, click the <strong>Reset </strong>button [1]. </p>
+<p>To close the preview window, click the <strong>Done </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete_file" data-step-uuid="aec9913e-85f3-46bd-87b4-e9aaee714b13">
+    <h2 id="delete_file" class="step-title screensteps-heading">Delete File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/615/481/original/c9e9c6ef-016e-44e4-a46a-5f6df23eddfd.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/615/481/medium/c9e9c6ef-016e-44e4-a46a-5f6df23eddfd.png" srcset="" alt="Delete File" height="77" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a10d2e18-0c6f-410d-95cd-9ce8caa09047" class="text-block-content">
+    <p>To delete a SCORM file, click the <strong>Delete </strong>icon.</p>
+<p><strong>Note: </strong>If you delete a SCORM page upload in Pages, you can still view the file on the SCORM page. Clicking the <strong>Assignment</strong> icon generates an error. However, if you delete the uploaded file in the SCORM page, the page is also deleted from all other applicable Canvas locations. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,234 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9E6C7F50-221C-0135-AF20-22000B5A851D" class="text-block-content">
+    <p>You can add your own questions to your quizzes. You can create various types of quiz questions. Individual questions can also be added to <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-a-question-group-to-randomize-quiz/ta-p/1032" target="_blank">question groups</a>.</p>
+<p>When a document is uploaded to the Rich Content Editor from a quiz, the file is saved to the Uploaded Media folder in Course Files and defaults to hidden status. Students can view the file when the quiz is made available to them. <a href="/t5/Instructor-Guide/How-do-I-restrict-files-and-folders-to-students-in-Canvas/ta-p/610" target="_blank">Learn more about file visibility</a>.</p>
+<p><strong>Note: </strong>When the Disable Classic Quiz Creation feature option is enabled, you cannot create new Classic Quizzes. However, existing Classic Quizzes can continue to be edited, imported, and migrated to New Quizzes.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="C20EA57F-31BB-454D-837E-3FF32521887E">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/560/original/e8cf31e9-472e-4a87-87d0-5a372c50facd.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6CB610-221C-0135-AF22-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_quiz" data-step-uuid="E580CA25-534E-4BC9-8AC2-0DA43EDE9169">
+    <h2 id="add_quiz" class="step-title screensteps-heading">Add Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/509/original/1f8df204-8f96-4429-91fe-4b2adb0ef6c6.png" srcset="" alt="Add Quiz" height="70" width="149">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6CE8A0-221C-0135-AF24-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Quiz</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-classic-quiz" data-step-uuid="f9db4bd7-157c-4b8a-8280-3d8414ca8d21">
+    <h3 id="add-classic-quiz" class="step-title screensteps-heading">Select Quiz Engine</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/787/074/original/2e19bf9d-a241-45c1-80dd-740796ae0a42.png" srcset="" alt="Select Quiz Engine" height="531" width="479">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5dd574f5-ad43-4d73-8cc1-3fbec64f55f5" class="text-block-content">
+    <p>If your course has New Quizzes enabled, you must select a quiz engine.</p>
+<p>To select New Quizzes, click the <strong>New Quizzes</strong> option [1].</p>
+<p>To create a classic quiz, click the <strong>Classic Quizzes</strong> option [2].</p>
+<p>To save your quiz engine selection for this course, click the <strong>Remember my choice for this course</strong> checkbox [3].</p>
+<p>Then click the <strong>Submit</strong> button [4].</p>
+<p><strong>Note:</strong> </p>
+<ul>
+<li>Learn more about <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz using New Quizzes</a>.</li>
+<li>You can reset your quiz engine choice from the Quiz Options menu at any time.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_quiz_details" data-step-uuid="5B909E32-4787-4063-AB27-7D5CAFAE531D">
+    <h2 id="edit_quiz_details" class="step-title screensteps-heading">Edit Quiz Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/046/797/original/726de5d2-8ccc-4e01-bb6a-c96c8edc2710.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/046/797/medium/726de5d2-8ccc-4e01-bb6a-c96c8edc2710.png" srcset="" alt="Edit Quiz Details" height="1489" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6D1C10-221C-0135-AF26-22000B5A851D" class="text-block-content">
+    <p>In the Details tab, enter the name of your quiz [1]. In the Rich Content Editor [2], introduce your quiz with formatted text, images, video, or sample math equations. You can even use the media commenting tool to record an introduction to the quiz. </p>
+<p>Complete the rest of the quiz details [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="4E278CC3-4C2D-4D00-8605-48B838E14B0B">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/455/original/5a3bde37-da03-4289-94c8-32b6ff510244.png" srcset="" alt="Add Question" height="257" width="671">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6D4DE0-221C-0135-AF28-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Questions</strong> tab [1]. Manually create a new quiz question by clicking the <strong>New Question</strong> button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="name_quiz_question" data-step-uuid="26fedfe8-6856-45c9-900e-1b4ab1d157b5">
+    <h3 id="name_quiz_question" class="step-title screensteps-heading">Name Quiz Question</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/046/801/original/d0ada4b4-1a97-4bc1-a657-c0ea1446b4c0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/046/801/medium/d0ada4b4-1a97-4bc1-a657-c0ea1446b4c0.png" srcset="" alt="Name Quiz Question" height="492" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6D7E20-221C-0135-AF2A-22000B5A851D" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field. Custom names can help you identify quiz questions more easily.</p>
+<p>Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_question_type" data-step-uuid="095246C7-FE46-4730-BE99-4D6FC42CE02C">
+    <h3 id="select_question_type" class="step-title screensteps-heading">Select Question Type</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/451/original/ca371a33-da13-4632-bbd4-b2929d66cb22.png" srcset="" alt="Select Question Type" height="72" width="587">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6DAFE0-221C-0135-AF2C-22000B5A851D" class="text-block-content">
+    <p>In the question type drop-down menu, you can create the following types of quiz questions:</p>
+<ul>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Multiple-Choice-quiz-question/ta-p/682" target="_blank">Multiple Choice</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-True-False-quiz-question/ta-p/927" target="_blank">True/False</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Fill-in-the-Blank-quiz-question/ta-p/889" target="_blank">Fill-in-the-Blank</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Fill-in-Multiple-Blanks-quiz-question/ta-p/923" target="_blank">Fill-in-Multiple-Blanks</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Multiple-Answers-quiz-question/ta-p/924" target="_blank">Multiple Answers</a></li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-create-a-Multiple-Dropdown-quiz-question/ta-p/916" target="_blank">Multiple Drop-down</a> (can be used for <a href="/t5/Instructor-Guide/How-do-I-create-Likert-scale-quiz-questions/ta-p/942" target="_blank">Likert scale</a>)</li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Matching-quiz-question/ta-p/918" target="_blank">Matching</a></li>
+<li><a href="/t5/Instructor-Guide/How-do-I-create-a-Numerical-Answer-quiz-question/ta-p/919" target="_blank">Numerical Answer</a></li>
+<li>Formula (<a href="/t5/Instructor-Guide/How-do-I-create-a-Simple-Formula-quiz-question/ta-p/1233" target="_blank">simple formula</a> and <a href="/t5/Instructor-Guide/How-do-I-create-a-Formula-quiz-question-with-a-single-variable/ta-p/920" target="_blank">single variable</a>)</li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-create-an-Essay-quiz-question/ta-p/909" target="_blank">Essay</a> </li>
+<li>
+<a href="/t5/Instructor-Guide/How-do-I-create-a-File-Upload-quiz-question/ta-p/652" target="_blank">File Upload</a> </li>
+</ul>
+<p> </p>
+<p>You can <a href="/t5/Instructor-Guide/How-do-I-link-course-content-to-a-quiz-question/ta-p/1155" target="_blank">link course content</a> to create Quiz questions, such as linking a diagram image. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set_point_value" data-step-uuid="7f58110c-cd93-4bc8-b4c9-e6fa8240cd19">
+    <h3 id="set_point_value" class="step-title screensteps-heading">Set Point Value</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/449/original/5c403094-f76f-4b9a-8476-dedb5bbe31d9.png" srcset="" alt="Set Point Value" height="72" width="587">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6DE020-221C-0135-AF2E-22000B5A851D" class="text-block-content">
+    <p>To set the point value for the question, enter the points in the <strong>pts </strong>field.</p>
+<p><strong>Note: </strong>Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="update_question" data-step-uuid="fce6a589-cc03-4802-96ee-2e1ef884a774">
+    <h3 id="update_question" class="step-title screensteps-heading">Update Question</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/461/140/original/8f7fd9da-fe4a-461c-8e4e-e79975d3f5bc.png" srcset="" alt="Update Question" height="53" width="216">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1e764d30-e2dc-4917-9cd7-d63e3da5880d" class="text-block-content">
+    <p>To save your question, click the <strong>Update Question </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_questions" data-step-uuid="e621acb9-1d5e-4e85-9051-8adfdb59a6cd">
+    <h2 id="view_questions" class="step-title screensteps-heading">View Questions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/466/original/d066e5f6-d592-4bbe-b256-bbc6cdfd88dd.png" srcset="" alt="View Questions" height="471" width="644">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6E1120-221C-0135-AF30-22000B5A851D" class="text-block-content">
+    <p>View the questions in your quiz. To view questions details, click the <strong>Show Question Details</strong> checkbox. </p>
+<p><strong>Note:</strong> Question details are not available in quizzes with more than 25 questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_quiz" data-step-uuid="29037fdf-202a-45ab-81ff-6148c2357ae5">
+    <h2 id="save_quiz" class="step-title screensteps-heading">Save Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/761/468/original/88b7803e-0be2-4fbe-9fef-2af81dbc34fc.png" srcset="" alt="Save Quiz" height="69" width="313">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6E4270-221C-0135-AF32-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save</strong> button to save your work and preview the quiz.</p>
+<p><strong>Note</strong>: You should not publish your quiz until it is your final product. If you are ready to publish your quiz and make it available to students, click the <strong>Save &amp; Publish</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="preview_and_publish_quiz" data-step-uuid="664BC0D1-64A9-48A9-81E9-F1D4C64755FE">
+    <h3 id="preview_and_publish_quiz" class="step-title screensteps-heading">Preview and Publish Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/511/original/e052c39e-2f39-4b45-af82-f307482de15e.png" srcset="" alt="Preview and Publish Quiz" height="176" width="637">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9E6E74B0-221C-0135-AF34-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Preview</strong> button [1] to see what students will see when they take the quiz. If the preview shows the quiz the way you want it, click the <strong>Publish </strong>button [2].</p>
+<p><strong>Note</strong>: Although you can make changes to the quiz after it is published, students who have already opened or completed the quiz will not see any of the changes, which may affect their grades. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

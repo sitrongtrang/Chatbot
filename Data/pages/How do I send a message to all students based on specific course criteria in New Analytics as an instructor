@@ -1,0 +1,169 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_d8f427c7-e1af-43f2-ae5c-b557917cfadd" class="text-block-content">
+    <p>When viewing a data comparison card, you can send a message to students whose grades or submissions are among three specific criterion: grades are within a specific percentage range, assignments are missing, or assignments are late. Message recipients are automatically populated based on selected criterion as well as any applied filters.</p>
+<p>Selection criteria is applied to student performance on all assignments. Individual student selection is based on student scores and submission status.</p>
+<p>Sent messages can be viewed within the Sent folder in the Conversations Inbox. Messages sent to more than one student are sent as individual messages. </p>
+<p>If needed, you can also <a href="/t5/Instructor-Guide/How-do-I-send-a-message-to-an-individual-student-in-New/ta-p/1187" target="_blank">send a message to an individual student</a>. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If you cannot view the New Analytics link in Course Navigation, you may have to make the link visible via the Navigation tab in Course Settings. If the New Analytics link is not available in the Navigation tab, your institution has disabled this feature.</li>
+<li>Data is refreshed in New Analytics every 24 hours. Please confirm the time the data was last updated in the course, as content may be outdated compared to recent course activity and student submissions. </li>
+<li>Students cannot view New Analytics.</li>
+<li>In order for New Analytics to display in Canvas, third-party cookies may need to be enabled in your browser settings.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_courses" data-step-uuid="7ba8f46b-486b-45a4-89e8-264124fcd61b">
+    <h2 id="open_courses" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/746/original/99c83ae9-9b12-42f9-b2e9-b795da78de66.png" srcset="" alt="Open Course" height="476" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c1d2f393-ed1c-42ad-9feb-7ba46bc9c1a4" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-new-analytics" data-step-uuid="d6849113-0836-496e-945d-e21bb8d55bde">
+    <h2 id="open-new-analytics" class="step-title screensteps-heading">Open New Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/040/original/ec0aa01f-bd59-4e25-bdd2-a5400f382810.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/040/medium/ec0aa01f-bd59-4e25-bdd2-a5400f382810.png" srcset="" alt="Open Analytics Beta" height="514" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_65ff58c0-0a83-47ee-9c81-e0910cd47b6a" class="text-block-content">
+    <p>To open New Analytics, click the <strong>New Analytics</strong> link in Course Navigation [1] or click the <strong>New Analytics</strong> button in the Course Home Page [2].</p>
+<p><strong>Note:</strong> If you cannot view the New Analytics link, you may have to make the link visible via the Navigation tab in Course Settings.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-course-grade-analytics" data-step-uuid="a1446239-239a-471c-a75c-2ebc8a228ad1">
+    <h2 id="open-course-grade-analytics" class="step-title screensteps-heading">Open Course Grade Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/118/042/original/0348a6f8-e8b7-44aa-aace-90a1841d69c5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/118/042/medium/0348a6f8-e8b7-44aa-aace-90a1841d69c5.png" srcset="" alt="Open Course Grade Analytics" height="224" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e31c2519-d0b2-40d8-8f46-e5264b8ef99b" class="text-block-content">
+    <p>To view course grade analytics, click the <strong>Course Grade</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="message-students-who" data-step-uuid="83bb13ae-df6d-42af-acbc-5c18b5bc0f3b">
+    <h2 id="message-students-who" class="step-title screensteps-heading">Message Students Who</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/690/038/original/3f4abe45-2509-413a-9113-1517380f2766.png" srcset="" alt="Message Students Who" height="127" width="782">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_581f22a9-02fe-47d1-a27b-628f3ba8969c" class="text-block-content">
+    <p>Message recipients are automatically populated based on selected criterion as well as any applied filters. </p>
+<p>If you want to filter analytics for a specific assignment, section, or student, search for and select the intended filter in the <strong>Filter</strong> field [1]. Then click the <strong>Message </strong>icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-criteria" data-step-uuid="e5f1a0eb-ccc6-4f8e-9255-5203c4b6f706">
+    <h2 id="select-criteria" class="step-title screensteps-heading">Select Criteria</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/780/974/original/ca3502f3-ffce-4d9b-ab6f-2f3b9967342b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/780/974/medium/ca3502f3-ffce-4d9b-ab6f-2f3b9967342b.png" srcset="" alt="Message Students Who" height="290" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a34bbba5-9226-4823-979e-d9fc609637cc" class="text-block-content">
+    <p>The Message Students Who window defaults to the Score Range criterion [1], which allows you to message students based on a specific current grade percentage range in the course. </p>
+<p>The Range field determines the specified percentage range [2], and the BCC field displays the number of students who fall within the specified range [3]. By default, the Range field displays 0 to 100%, so the BCC field includes all students in the course. Additionally, any filters in the analytics page automatically display as an intended recipient for the message. If no filters have been applied, the message displays as being sent to all sections.</p>
+<p>To select a new range, enter the minimum and maximum current grade percentage in the percentage fields [4]. The BCC field displays the updated number of students and/or sections who have grade percentages within the specified range [5].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/020/677/original/0c30fe08-6249-45cd-844e-342ff6a0fd2a.png" srcset="" alt="Select Missing or Late Submissions" height="251" width="683">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e859ad3f-4930-4c03-a7e1-9aff3c85f656" class="text-block-content">
+    <p>The Missing and Late criteria options do not include any additional criterion. Selected students are based on submission status, and the number of affected students displays in the BCC field. Again, any filters included in the analytics page also display as intended recipients.</p>
+<p><strong>Note: </strong>When you message students who are missing an assignment, New Analytics only shows students if the assignment due date has already passed.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="verify-recipients" data-step-uuid="11d3d4c0-5f8b-490a-8600-c17280b78fce">
+    <h2 id="verify-recipients" class="step-title screensteps-heading">Verify Recipients</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/026/539/original/11ebf294-0c13-4ed1-826b-bc4cbe51e1ee.png" srcset="" alt="Verify Recipients" height="346" width="683">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9c6fd5b5-0b7e-47de-92a9-4adcc54705ac" class="text-block-content">
+    <p>For any criterion, you can manage the users who will be sent the message, if needed. Click the link that includes the number of students [1], then view the expanded BCC field [2].</p>
+<p>To remove a student from the message, click the student's <strong>Remove</strong> icon [3].</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/020/682/original/4a5da97b-5703-4929-9a79-530b5c270105.png" srcset="" alt="Reset Names" height="242" width="683">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38fee758-d078-46a6-9497-40b3c6caad19" class="text-block-content">
+    <p>To reset student names back to the originally specified list, click the <strong>Reset Names</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="send-message" data-step-uuid="01fea4ac-f343-4b44-b59b-a8b54d6ec056">
+    <h2 id="send-message" class="step-title screensteps-heading">Send Message</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/020/686/original/41162be4-86b0-456f-9e5f-9c5ccee61d11.png" srcset="" alt="Send Message" height="335" width="675">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ef497e00-2e2d-4dec-975e-f84e6e71710e" class="text-block-content">
+    <p>In the <strong>Subject</strong> field [1], enter a subject for your message.</p>
+<p>In the <strong>Message</strong> field [2], enter the description of your message.</p>
+<p>Click the <strong>Send</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

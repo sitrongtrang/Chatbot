@@ -1,0 +1,107 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_69f6bc18-8614-4ecf-835c-e001cd371e4b" class="text-block-content">
+    <p>Multi-factor authentication adds security to user accounts in your institution by asking each user to verify his or her user account. You can enable multi-factor authentication for your institution by contacting your Customer Success Manager. You can request to enable multi-factor authentication with one of three options: required for admins, required for all users, or optional for all users.</p>
+<p>You must have a mobile device to set up multi-factor authentication for your user account. Your device must be able to send text (SMS) messages, or if you have a smartphone, you can download the Google Authenticator app for iPhone or Android.</p>
+<p><strong>Note:</strong> This lesson shows how to set up multi-factor authentication if it is an optional setting in your user account. However, if multi-factor authentication is <em>required </em>by your institution, you will be shown the multi-factor authentication page directly after you log in to Canvas.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-user-settings" data-step-uuid="c939965a-e157-429a-9867-059d51316196">
+    <h2 id="open-user-settings" class="step-title screensteps-heading">Open User Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/987/323/original/9e9a0637-9783-4739-b4a9-3e98c7e802d4.png" srcset="" alt="Open User Settings" height="672" width="455">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_10e218f8-e967-4866-9277-595b592fbb3b" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Account</strong> link [1], then click the <strong>Settings </strong>link [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-up-multi-factor-authentication" data-step-uuid="289c7164-f5de-416d-ba34-a874f2fa8741">
+    <h2 id="set-up-multi-factor-authentication" class="step-title screensteps-heading">Set Up Multi-Factor Authentication</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/129/863/original/3b40929d-8b6b-431d-9ddf-6954d5d327b5.png" srcset="" alt="Set Up Multi-Factor Authentication from User Settings" height="124" width="271">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a40aa0f3-ab19-41a0-a8a3-a745644f4c30" class="text-block-content">
+    <p>Click the <strong>Set Up Multi-Factor Authentication</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="verify-via-authenticator-app" data-step-uuid="7cd3647a-733a-488f-b017-34eb1578e5eb">
+    <h2 id="verify-via-authenticator-app" class="step-title screensteps-heading">Verify via Authenticator App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/677/279/original/fc84f59e-8115-4939-ab93-3fdfd64b95d7.png" srcset="" alt="Verify via Google Authenticator" height="691" width="655">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_972f1588-7143-4153-968b-121e22aa0275" class="text-block-content">
+    <p>To verify multi-factor authentication  a time-based one-time password (TOTP) authenticator app on iPhone or Android (ex: Google Authenticator, Microsoft Authenticator, Authy), download the app for your device. </p>
+<p>Use the app to scan and generate the QR code [1]. Enter the code in the <strong>Verification Code</strong> field [2].</p>
+<p>If you want multi-factor authentication to remember the computer you are using to log in to Canvas, click the <strong>Remember this computer</strong> checkbox [3].</p>
+<p>Click the <strong>Verify</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="verify-via-text-message" data-step-uuid="b705fcd9-9604-41ac-ae06-94e13e50de9c">
+    <h2 id="verify-via-text-message" class="step-title screensteps-heading">Verify via Text Message</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/677/281/original/3f7e0b89-ffaa-4489-8353-abe6d2886886.png" srcset="" alt="Verify via Text Message" height="691" width="655">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cf62e2f7-5e85-491c-a58c-ce292e6a078f" class="text-block-content">
+    <p>To verify multi-factor authentication via text message, enter your phone number [1] and select your carrier [2].  This is the number where your multi-factor verification code will be sent.</p>
+<p>Once you have set up your new phone number, or selected an existing phone number, click the <strong>Send </strong>button [3]. Your mobile device will receive a verification code. Enter the code in the <strong>Verification Code</strong> field [4].</p>
+<p>If you want multi-factor authentication to remember the computer you are using to log in to Canvas, click the <strong>Remember this computer</strong> checkbox [5].</p>
+<p>Click the <strong>Verify</strong> button [6].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-multi-factor-authentication" data-step-uuid="d6a48576-2529-4701-a94c-f71e59fadd29">
+    <h2 id="manage-multi-factor-authentication" class="step-title screensteps-heading">Manage Multi-Factor Authentication</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/129/861/original/3e5d28c0-33d6-4aad-93a4-ba63e59a1f39.png" srcset="" alt="Manage Multi-Factor Authentication" height="250" width="292">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3c2a4732-4cec-4c68-a339-e90934fcc668" class="text-block-content">
+    <p>Once multi-factor authentication is enabled, your User Settings page may display additional options to manage your authentication.</p>
+<p>You can choose to create multi-factor authentication codes to use as backup in case your authentication device is not available [1]. This option is available to all users with multi-factor authentication.</p>
+<p>If multi-factor authentication is <em>optional </em>for your account, you can also choose to reconfigure authentication [2] or disable authentication [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

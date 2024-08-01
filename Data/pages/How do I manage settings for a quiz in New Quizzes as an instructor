@@ -1,0 +1,269 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_29cd7208-851c-483b-bf1f-9c5ca41796e4" class="text-block-content">
+    <p>You can adjust delivery settings for a quiz in New Quizzes. These options adjust the way that a quiz is delivered to students.</p>
+<p>To edit the point total, assignment group, due date, availability dates, and the individual students and course sections who will receive the quiz, <a href="/t5/Instructor-Guide/How-do-I-edit-the-assignment-details-of-a-New-Quizzes-quiz/ta-p/582" target="_blank">edit the quiz from the Assignments page</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-quiz" data-step-uuid="d15d0be9-3ff1-45ab-9c98-6d145fef93a1">
+    <h2 id="open-quiz" class="step-title screensteps-heading">Open Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/147/969/original/e2423d6e-976f-4076-bee0-a765f964f1f7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/147/969/medium/e2423d6e-976f-4076-bee0-a765f964f1f7.png" srcset="" alt="Open Quiz" height="486" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b26dd86b-ff3d-4891-92bb-558d53fdedce" class="text-block-content">
+    <p>To manage settings for a quiz, find the quiz you want to open [1].</p>
+<p>To open the Build page, click the <strong>Options</strong> icon [2] and then click the <strong>Build</strong> link [3].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">create a new quiz</a>, click the <strong>Add Quiz</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="972756ce-4dcf-44ff-88c4-a339484d8038">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/806/245/original/734483f3-61fe-4b74-92ee-3e7b62d3795f.png" srcset="" alt="Open Settings" height="248" width="583">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c8e1272a-320f-48be-8c1a-2deaefda9bda" class="text-block-content">
+    <p>Click the <strong>Settings</strong> tab.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-warning-message_1" data-step-uuid="93b29097-74fb-4d17-a53f-89109b90caa8">
+    <h3 id="view-warning-message_1" class="step-title screensteps-heading">View Warning Message</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/233/148/original/98d9917e-03c4-4be7-8afd-a5620ce8b830.png" srcset="" alt="View Warning Message" height="151" width="847">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7425dbed-6aa9-4ad2-a79d-c9422cc1156a" class="text-block-content">
+    <p>If students have already submitted the quiz, a warning message will appear on the Delivery Settings page.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="shuffle-questions" data-step-uuid="23785beb-e99e-4142-89dc-8a36d4244a2b">
+    <h2 id="shuffle-questions" class="step-title screensteps-heading">Shuffle Questions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/132/548/original/930fc410-c31a-4561-9ad4-f388429dd1cf.png" srcset="" alt="Shuffle Questions" height="641" width="415">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cab93298-9934-4e6b-8798-25047daedd1a" class="text-block-content">
+    <p>To shuffle the order questions are displayed to students, click the <strong>Shuffle Questions</strong> button. If this setting is turned off, questions will display in the order you designate in the quiz.</p>
+<p><strong>Note:</strong> Item bank questions that have been added in a group will continue to be randomized within that group whether this setting is turned on or off.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="shuffle-answers" data-step-uuid="effd2de7-64e0-4a0e-8331-59d45c9e4284">
+    <h2 id="shuffle-answers" class="step-title screensteps-heading">Shuffle Answers</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/132/550/original/215b3a09-132e-4e09-bcd4-51b44b8633c3.png" srcset="" alt="Shuffle Answers" height="645" width="415">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f50177ca-1740-4e5d-b98e-ce2228533bd8" class="text-block-content">
+    <p>To shuffle the order answers are displayed to students for multiple choice, multiple answer, and matching quiz questions, click the <strong>Shuffle Answers</strong> button. If this setting is turned off, answers will display in the order you designate in the quiz questions.</p>
+<p><strong>Note:</strong> Shuffling answers does not guarantee the order is displayed differently to every student. Some students will receive the same answer order, depending on the number of answers for each question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="display-one-question-at-a-time" data-step-uuid="1bd39816-0ec2-46cf-8570-5dad806369e5">
+    <h2 id="display-one-question-at-a-time" class="step-title screensteps-heading">Display One Question at a Time</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/132/555/original/2894c97e-3f27-4e01-88c1-0f2687b6a477.png" srcset="" alt="Display One Question at a Time" height="678" width="501">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9cd71196-a985-455b-86db-4abc3086d57f" class="text-block-content">
+    <p>To display one question at a time to students, click the <strong>One Question at A Time </strong>button [1]. To allow students to backtrack to previous questions in a quiz, click the <strong>Allow Backtracking</strong> checkbox [2]. Allow Backtracking is enabled by default.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="require-student-access-code" data-step-uuid="a3068caa-60bc-4cf3-bc01-1211c0628c61">
+    <h2 id="require-student-access-code" class="step-title screensteps-heading">Require Student Access Code</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/132/561/original/eecf2514-8cde-45df-9426-6e1b8b44aa31.png" srcset="" alt="Require Student Access Code" height="762" width="438">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ad7cf63-a02c-4502-9dd9-7705f5e9848b" class="text-block-content">
+    <p>To require students to enter an access code to take a quiz, click the <strong>Require a student access code</strong> button [1]. Then enter the access code in the <strong>Password</strong> field [2]. To view a masked access code, click the <strong>Show access code </strong>checkbox [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-time-limit" data-step-uuid="43d9feef-c2d2-4c48-ae23-bea9e07f2d12">
+    <h2 id="set-time-limit" class="step-title screensteps-heading">Set Time Limit</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/132/569/original/cfffd11b-f202-4fd2-bbca-c8284d7c8386.png" srcset="" alt="Set Time Limit" height="760" width="448">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47817f93-845b-4d6d-9a7a-150d395a972f" class="text-block-content">
+    <p>To set a time limit for a quiz, click the <strong>Time Limit</strong> button [1]. Then enter the time limit using the <strong>Hours</strong> and <strong>Minutes</strong> fields [2].</p>
+<p><strong>Note:</strong> In progress quizzes automatically submit when the Availability date and time passes, even if there is time remaining.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-ip-addresses" data-step-uuid="c0b2e559-8abb-427e-b25e-ccc4a6191b92">
+    <h2 id="filter-ip-addresses" class="step-title screensteps-heading">Filter IP Addresses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/132/575/original/d3d82264-e7e7-4f86-9541-ad1e5dfc3e90.png" srcset="" alt="Filter IP Addresses" height="729" width="541">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a0ecbe0a-cf5b-4f53-ad91-7eaf3b2ea84d" class="text-block-content">
+    <p>To filter IP addresses for the quiz, click the <strong>Filter IP Addresses</strong> button [1]. Then enter the allowed IP ranges using the <strong>Allowed IP range</strong> fields [2]. To add multiple IP ranges, click the <strong>Add Allowed range</strong> link [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="allow-on-screen-calculator" data-step-uuid="e34e7458-c335-44c4-b60a-9346f6314a49">
+    <h2 id="allow-on-screen-calculator" class="step-title screensteps-heading">Allow On-Screen Calculator</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/132/579/original/03feca57-a7a7-4279-aa41-d36309dfaa6e.png" srcset="" alt="Allow On-Screen Calculator" height="733" width="415">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_55e308fe-875f-40b8-b3cc-ac6d3bd27c16" class="text-block-content">
+    <p>To enable an on-screen calculator for the entire quiz, click the <strong>Allow Calculator </strong>button [1]. Select either the <strong>Basic</strong> or <strong>Scientific</strong> calculator option [2]. The Basic calculator only displays numbers and basic mathematical functions (add, subtract, multiply, divide). The Scientific calculator displays more options for advanced calculations.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="allow-clearing-selection-for-multiple-choice-questions" data-step-uuid="1e35de44-585a-4eec-8194-1b62e597eaa5">
+    <h2 id="allow-clearing-selection-for-multiple-choice-questions" class="step-title screensteps-heading">Allow Clearing Selection for Multiple Choice Questions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/132/584/original/ff8e97c0-83e4-4078-b72a-53915e248043.png" srcset="" alt="Allow Clearing Selection for Multiple Choice Questions" height="637" width="441">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_18e44e7a-59c8-4bb5-8c78-562e26e79230" class="text-block-content">
+    <p>To allow students to clear a multiple choice answer, click the <strong>Allow clearing selection (Multiple Choice)</strong> button. If this setting is turned on, students can clear their answer to a multiple choice question after they've made a selection and leave the question unanswered. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="allow-multiple-attempts" data-step-uuid="cfb99f88-801c-43b3-8154-e362d3ec6da3">
+    <h2 id="allow-multiple-attempts" class="step-title screensteps-heading">Allow Multiple Attempts</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/809/671/original/dd21510f-e7a9-4279-968f-da452b2a9cd4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/809/671/medium/dd21510f-e7a9-4279-968f-da452b2a9cd4.png" srcset="" alt="Allow Multiple Attempts" height="547" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0dc4ff16-2874-4733-93e1-7513ebbd1777" class="text-block-content">
+    <p>To allow multiple attempts for a quiz, click the <strong>Allow multiple attempts </strong>button [1]. To assign which score to keep for student grades, select the option in the <strong>Score to keep</strong> drop-down menu [2]. You can choose to keep the highest score, average score, latest score, or first score.</p>
+<p><strong>Note:</strong> The Late Submission Policy is not supported when using multiple attempts in New Quizzes.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set-limited-attempts" data-step-uuid="fe913023-5b87-4455-b70d-cf9556d1694c">
+    <h3 id="set-limited-attempts" class="step-title screensteps-heading">Set Limited Attempts</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/809/673/original/6091ea24-33a5-4814-96a6-ff029842525e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/809/673/medium/6091ea24-33a5-4814-96a6-ff029842525e.png" srcset="" alt="Set Limited Attempts" height="179" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dc9dc9ad-e89a-4852-a68b-4495f173c6c2" class="text-block-content">
+    <p>By default, students will be allowed unlimited attempts when the <strong>Allow multiple attempts </strong>option is enabled. To set a limited number of attempts, select the <strong>Limited</strong> option [1]. Then select the number of attempts you want to allow [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set-waiting-period" data-step-uuid="09ef925a-d457-4534-a1e8-858df12ab8cc">
+    <h3 id="set-waiting-period" class="step-title screensteps-heading">Set Waiting Period</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/809/675/original/7c3df66a-1388-408e-90c6-7bc1f4236e78.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/809/675/medium/7c3df66a-1388-408e-90c6-7bc1f4236e78.png" srcset="" alt="Set Waiting Period" height="188" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6dd39d26-10f1-4c34-855a-db727db36b7f" class="text-block-content">
+    <p>To set a waiting period between attempts, click the <strong>Require time between attempts</strong> checkbox [1]. Then select the days [2], hours [3], and minutes [4] to require students to wait before they can begin a new attempt.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="build-on-last-attempt" data-step-uuid="976fe322-c6d4-4293-8459-0742b4f80559">
+    <h3 id="build-on-last-attempt" class="step-title screensteps-heading">Build on Last Attempt</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/809/677/original/7605c5b6-0bd5-40d6-a922-5b38fe1d2169.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/809/677/medium/7605c5b6-0bd5-40d6-a922-5b38fe1d2169.png" srcset="" alt="Build on Last Attempt" height="187" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0a578702-e376-4736-9260-2e1174c2b0de" class="text-block-content">
+    <p>To allow students to build on their last attempt by letting them reattempt incorrectly answered questions, click the <strong>Enable build on last attempt</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="hide-student-results" data-step-uuid="d9a41a8f-1604-4290-926c-28e9f330106d">
+    <h2 id="hide-student-results" class="step-title screensteps-heading">Hide Student Results</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/132/593/original/951aea15-9051-48c3-8bb1-3de559483351.png" srcset="" alt="Hide Student Results" height="907" width="632">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f8b97610-34a4-46ce-8ff3-b6a89fb3f59d" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-restrict-students-from-viewing-quiz-results-in-New/ta-p/1047" target="_blank">restrict students from viewing quiz results</a>, click the <strong>Restrict student result view</strong> button. </p>
+<p><strong>Note:</strong> Students can still see their quiz grades in the Gradebook when the Restrict student result view option is enabled. To completely hide grades from students, you need to <a href="/t5/Instructor-Guide/How-do-I-use-posting-policies-in-a-course/ta-p/928" target="_blank">enable a Manual posting policy</a> in the Gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,179 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7ac00ef4-5edd-4368-bbc4-fa83fd98a30f" class="text-block-content">
+    <p>You can bulk import outcomes for your course using a CSV file. A bulk import allows you to add new outcomes to your course or update the details of multiple outcomes at one time.</p>
+<p>The CSV file must be formatted correctly according to the <a href="https://canvas.instructure.com/doc/api/file.outcomes_csv.html" target="_blank" rel="nofollow noopener noreferrer">Outcomes Import Format Documentation</a>. <a href="https://s3.amazonaws.com/tr-learncanvas/files/outcomes/outcomes.csv" target="_blank" rel="nofollow noopener noreferrer">Download a sample outcomes.csv file</a> with one outcome group and six outcomes.</p>
+<p>After your CSV file has been processed, you will receive an email notification confirming a successful import or displaying errors with your file. If there were errors, the email will contain details about the first 100 errors including the row of the error and a short description.</p>
+<p>This lesson displays how to import outcomes in the classic Outcomes page view. If the Outcomes page in your course displays differently than the images in this lesson, learn how to <a href="/t5/Instructor-Guide/How-do-I-import-outcomes-into-a-course-in-Improved-Outcomes/ta-p/486359" target="_blank">import outcomes in a  course</a> within an account that has enabled the Improved Outcomes Management feature option.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Currently, only CSV files are supported. JSON files will be supported in a future release.</li>
+<li>Importing outcomes is a course permission. If you do not have permission to import outcomes, your institution has restricted this feature.</li>
+<li>In new outcomes, the vendor_guid field must not contain a colon.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="c6c7b00d-7b7b-45aa-ad73-cbc847ddb8f3">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/779/628/original/22ea7306-c158-466a-94fb-2eab17bff64b.png" srcset="" alt="Open Outcomes" height="267" width="148">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e4a49467-63df-4540-83a5-16bdbc294df6" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import-outcomes" data-step-uuid="bfee4102-e9e7-42c2-a513-0b5eef3aa919">
+    <h2 id="import-outcomes" class="step-title screensteps-heading">Import Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/378/380/original/93b04751-7233-44c2-824a-9e580219b359.png" srcset="" alt="Import Outcomes" height="82" width="508">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_177291e3-356f-4ca4-b939-1bc5864f33c1" class="text-block-content">
+    <p>Click the <strong>Import</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload-file" data-step-uuid="a80b59a3-914e-4bdd-a1cc-351ca3fa67c1">
+    <h2 id="upload-file" class="step-title screensteps-heading">Upload File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/450/174/original/f509e667-ef59-417e-a257-f49fb4ddaaa5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/450/174/medium/f509e667-ef59-417e-a257-f49fb4ddaaa5.png" srcset="" alt="Upload File" height="433" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7bd21ef3-67f2-44e5-8bfb-e1afc3cf212c" class="text-block-content">
+    <p>Drag and drop your CSV file to the upload area, or click in the upload area to choose a file from your computer.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-file" data-step-uuid="f6c429d3-a487-4a48-9e9a-032445ca1ac8">
+    <h2 id="open-file" class="step-title screensteps-heading">Open File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/450/168/original/4c46184c-b05f-49df-ad0c-b2be880ed19c.png" srcset="" alt="Open File" height="435" width="722">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b73024b5-22b8-4ac2-9114-f5065c3857d0" class="text-block-content">
+    <p>Locate the CSV file [1] and then click the <strong>Open</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-import-status" data-step-uuid="50489b88-d4d2-4e33-8eec-1bd2fb9bd2ba">
+    <h2 id="view-import-status" class="step-title screensteps-heading">View Import Status</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/384/542/original/d4641ada-c6c5-4af9-8869-218b91623bea.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/384/542/medium/d4641ada-c6c5-4af9-8869-218b91623bea.png" srcset="" alt="View Import Status" height="325" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dd3536b6-6706-4c17-8776-da385374e4c0" class="text-block-content">
+    <p>Canvas displays a loading page while the file uploads. Large CSV files may take time to import. You can leave the Outcomes page at any time without disrupting the import process.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-import-success" data-step-uuid="90deba84-f84d-45b5-9cee-3311be4b9b4f">
+    <h3 id="view-import-success" class="step-title screensteps-heading">View Import Success</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/384/544/original/59f93041-c199-4f60-8929-c85459077500.png" srcset="" alt="View Import Success" height="74" width="826">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9214a8df-ef03-4e9f-8ccb-746a424089b3" class="text-block-content">
+    <p>When the file has been successfully imported, Canvas displays a confirmation message. You will also receive an email that the import was successful.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="import-error" data-step-uuid="9bef95e3-de76-4838-b6ff-5795bae9895c">
+    <h3 id="import-error" class="step-title screensteps-heading">View Import Errors and Warnings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/384/541/original/49094a28-5130-4658-b6bd-c2c295d3f048.png" srcset="" alt="Import Error" height="95" width="827">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5be60998-0523-4d03-8a33-ba97f4f40a97" class="text-block-content">
+    <p>If the import was not successful, or if the import altered existing outcomes, Canvas displays an error message.</p>
+<p>The error message displays for outcome import errors and for outcome import warnings. </p>
+<p>You will receive an email with details about the first 100 errors and warnings. Each error or warning will include the CSV row number and a description of the error or warning. </p>
+<p>Import errors stop the import process entirely and need to be fixed before outcomes can be imported successfully. The following types of errors may occur in CSV files:</p>
+<ul>
+<li>Required headings are missing</li>
+<li>Other headings are placed after the ratings header</li>
+<li>Invalid headers are present</li>
+<li>Required fields are missing</li>
+<li>Import file contains no data</li>
+<li>Invalid UTF-8 string</li>
+</ul>
+<p>When an import warning occurs, Canvas skips the affected row and the import moves on. The following types of warnings may occur in CSV files:</p>
+<ul>
+<li>Rating tiers have missing points</li>
+<li>Rating tiers have invalid point values</li>
+<li>Rating tiers have points in wrong order</li>
+<li>Object type is incorrect</li>
+<li>Parent group refers to missing outcomes</li>
+<li>Parent groups are invalid</li>
+<li>Workflow state is invalid</li>
+<li>Calculation validation method not specified</li>
+<li>Group receives invalid fields</li>
+<li>Outcome edits are not within the same context</li>
+</ul>
+<p>Correct the errors in the CSV file according to the <a href="https://canvas.instructure.com/doc/api/file.outcomes_csv.html" target="_blank" rel="nofollow noopener noreferrer">Outcomes Import Format Documentation</a> and re-import the file.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcomes" data-step-uuid="cb9bae2a-2b6a-47dd-af9a-0da186111af2">
+    <h2 id="view-outcomes" class="step-title screensteps-heading">View Outcomes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/384/545/original/f28d6caf-1d5e-4c6a-921f-fc84485ffd85.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/384/545/medium/f28d6caf-1d5e-4c6a-921f-fc84485ffd85.png" srcset="" alt="View Outcomes" height="547" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_36495ae9-783d-4a5c-8568-3db679d133ac" class="text-block-content">
+    <p>View the outcomes imported into your course.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

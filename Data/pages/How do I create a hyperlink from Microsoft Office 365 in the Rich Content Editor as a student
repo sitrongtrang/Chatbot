@@ -1,0 +1,157 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_67F07ED0-D247-0137-7EA9-0E63FF21C970" class="text-block-content">
+    <p>If your course has enabled Microsoft Office 365, you can create a document, slide presentation, or spreadsheet in your OneDrive and then create a hyperlink to that document anywhere you can use the Rich Content Editor in Canvas. Several features in Canvas support the Rich Content Editor, including Announcements, Assignments, Discussions, Pages, and Quizzes.</p>
+<p>When files are linked in the Rich Content Editor, the link displays the exact name of the file. Please ensure your file names are correct before linking a file.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If you cannot view the Microsoft Office 365 option in the Rich Content Editor LTI Tools menu, you can still include your file by <a href="/t5/Student-Guide/How-do-I-create-hyperlinks-to-external-URLs-in-the-Rich-Content/ta-p/325" target="_blank">creating a hyperlink</a> or publishing your Microsoft Office 365 content to the web and pasting the embed code in the <a href="/t5/Student-Guide/How-do-I-use-the-HTML-view-in-the-Rich-Content-Editor-as-a/ta-p/326" target="_blank">HTML editor</a>.</li>
+<li>PDF files added through Microsoft Office 365 that cannot be previewed in Sharepoint are not supported to preview in Canvas. To preview the PDF files, you will need to add them to course files and link to them in the Rich Content Editor.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-new-rich-content-editor" data-step-uuid="67F09370-D247-0137-7EAA-0E63FF21C970">
+    <h2 id="open-new-rich-content-editor" class="step-title screensteps-heading">Open Rich Content Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/393/875/original/14bf7f93-dbdf-4cbb-b509-d6ba8c76ed62.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/393/875/medium/14bf7f93-dbdf-4cbb-b509-d6ba8c76ed62.png" srcset="" alt="Open Rich Content Editor" height="340" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67F0BA80-D247-0137-7EAC-0E63FF21C970" class="text-block-content">
+    <p>Open the Rich Content Editor when using one of the Canvas features which support the Editor.</p>
+<p><strong>Note:</strong> The Rich Content Editor supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press <strong>ALT+F8</strong> (PC keyboard) or <strong>Option+F8</strong> (Mac keyboard).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-apps" data-step-uuid="808ae7b8-9d34-484e-9c50-2df6c37fd54b">
+    <h2 id="open-apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/852/424/original/80e3c2df-6769-40be-bf98-e8362600f33a.png" srcset="" alt="Open Apps" height="189" width="809">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f9536ce2-c2ab-430e-8e80-69411278900a" class="text-block-content">
+    <p>You can view a list of external tools from the menubar. Click the <strong>Tools </strong>link [1]. Navigate to the <strong>Apps</strong> option [2], then select the <strong>View All </strong>option [3].</p>
+<p>Alternatively, you can view your apps from the toolbar. In the toolbar, click the <strong>App</strong> icon [4].</p>
+<p><strong>Note: </strong>To view the App icon, you may have to click the <strong>Options</strong> icon [5].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-recently-used-apps" data-step-uuid="42b2303a-16b5-4616-bc05-f525b79b348b">
+    <h3 id="view-recently-used-apps" class="step-title screensteps-heading">View Recently Used Apps</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/079/608/original/8195be3f-7baa-43a9-9c37-e81f92c12673.png" srcset="" alt="View Recently Used Apps" height="160" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_350d2a0d-39a3-49eb-9f57-1bb237c73b9c" class="text-block-content">
+    <p>If you have previously used an external app from the Rich Content Editor, you can quickly open recently used apps.</p>
+<p>To view recently used apps, click the <strong>App</strong> icon [1]. Then select the app you want to open [2].</p>
+<p>To view all apps, click the <strong>View All</strong> link [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_google_drive" data-step-uuid="67F103B0-D247-0137-7EB0-0E63FF21C970">
+    <h2 id="open_google_drive" class="step-title screensteps-heading">Open Microsoft Office 365</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/294/605/original/d4181427-3343-4b6a-9901-2b062eab4971.png" srcset="" alt="Open Microsoft Office 365" height="593" width="680">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67F12780-D247-0137-7EB2-0E63FF21C970" class="text-block-content">
+    <p>Click the<strong> Microsoft Office 365 </strong>link [1]. </p>
+<p>You can also filter menu options using the <strong>Search</strong> field [2]. </p>
+<p><strong>Note:</strong> If the Microsoft Office 365 link does not display, the LTI may not be enabled in your course. You can still include your file by <a href="/t5/Student-Guide/How-do-I-create-hyperlinks-to-external-URLs-in-the-Rich-Content/ta-p/325" target="_blank">creating a hyperlink</a> or publishing your content to the web and pasting the embed code in the <a href="/t5/Student-Guide/How-do-I-use-the-HTML-view-in-the-Rich-Content-Editor-as-a/ta-p/326" target="_blank">HTML editor</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="attach_file" data-step-uuid="67F13930-D247-0137-7EB3-0E63FF21C970">
+    <h2 id="attach_file" class="step-title screensteps-heading">Attach File</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/002/869/781/original/2b5fda29-15ec-4041-8764-5f4da0b13e85.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/002/869/781/medium/2b5fda29-15ec-4041-8764-5f4da0b13e85.png" srcset="" alt="Attach File" height="616" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67F15B70-D247-0137-7EB5-0E63FF21C970" class="text-block-content">
+    <p>Locate the file you want to link and click the checkbox next to the file name [1]. Click the <strong>Attach File </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-file-link" data-step-uuid="67F16E90-D247-0137-7EB6-0E63FF21C970">
+    <h2 id="view-file-link" class="step-title screensteps-heading">View File Link</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/857/266/original/f0f388bf-11db-4e3e-b43d-7d7faa7595a9.png" srcset="" alt="View File Link" height="337" width="794">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67F19630-D247-0137-7EB8-0E63FF21C970" class="text-block-content">
+    <p>View the file link in the Rich Content Editor</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_changes" data-step-uuid="67F1A960-D247-0137-7EB9-0E63FF21C970">
+    <h2 id="save_changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/878/498/original/fa12d4f6-a24e-4b4d-8abf-6c60fe7fe5d9.png" srcset="" alt="Save Changes" height="65" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67F1D740-D247-0137-7EBB-0E63FF21C970" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Note: </strong>When using the Rich Content Editor in Discussions, the Save button may appear as the Post Reply button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-content" data-step-uuid="67F1E880-D247-0137-7EBC-0E63FF21C970">
+    <h2 id="view-content" class="step-title screensteps-heading">View Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/869/787/original/65c7faa5-fa84-48d4-9247-dd7e238d6eb4.png" srcset="" alt="View Content" height="234" width="747">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67F20B60-D247-0137-7EBE-0E63FF21C970" class="text-block-content">
+    <p>View the content.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

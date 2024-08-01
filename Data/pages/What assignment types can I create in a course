@@ -1,0 +1,116 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0E5C18E0-1ED3-0135-F965-22000BC102FE" class="text-block-content">
+    <p>Canvas supports five assignment types: Assignments, Discussions, Quizzes, External Tools, and Not Graded.</p>
+<p>As an instructor, you can select an assignment type when creating an <a href="/t5/Instructor-Guide/How-do-I-create-an-assignment-shell-in-an-assignment-group/ta-p/974" target="_blank">assignment shell</a>. However, you can also create assignments within an assignment type by visiting each type's respective Index Page. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assignment" data-step-uuid="1E7198FF-2F75-4053-AE25-ED8A50E73EB9">
+    <h2 id="assignment" class="step-title screensteps-heading">Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/143/original/45ca6d03-17f9-4cff-835a-fd899e1db1ba.png" srcset="" alt="Assignment" height="402" width="509">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E5CE990-1ED3-0135-F967-22000BC102FE" class="text-block-content">
+    <p>An Assignment is a Canvas assignment that can be submitted online through text entry, file uploads, media recordings, external tools, URLs, or Canvas pages. Assignments appear on the Assignments Index Page, the Gradebook (graded only), the Syllabus, and on the User Dashboard (graded only).</p>
+<p>Not Graded assignments may include a due date, however points or grades are not given for completing the assignment.</p>
+<p>Assignments can be assigned to individual students, groups, or sections.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="8ba3c79a-6a1a-41eb-809a-d80e6dc9be09">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/164/585/original/dd9ba143-2200-4ae4-aecc-143698d4ecd4.png" srcset="" alt="Find Assignments" height="70" width="237">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E5D1D90-1ED3-0135-F969-22000BC102FE" class="text-block-content">
+    <p><span style="color:rgb(38,38,38);">Throughout Canvas, users can recognize assignments with the Assignment icon.</span></p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="discussion" data-step-uuid="39FE73F6-6813-49DD-9426-20BE90675D57">
+    <h2 id="discussion" class="step-title screensteps-heading">Discussion</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/147/original/198344f6-85c1-4ee8-9432-5a6409c10d03.png" srcset="" alt="Discussion" height="402" width="509">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E5D4ED0-1ED3-0135-F96B-22000BC102FE" class="text-block-content">
+    <p>A Discussion is a Canvas assignment that will grade student response to discussion topics. This assignment will appear on the Assignment Index Page (graded only), the <a href="https://community.canvaslms.com/docs/DOC-2710" target="">Discussions Index Page</a>, the Gradebook (graded only), the Syllabus, and on the User Dashboard (graded only).</p>
+<p>Discussions can be assigned to individual students, groups, or sections.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="17545c20-7938-4476-8760-6955be60cb19">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/164/587/original/9eb27a5c-e7ed-45ec-87ec-259fb401b0e0.png" srcset="" alt="Find Discussions" height="69" width="229">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E5D8060-1ED3-0135-F96D-22000BC102FE" class="text-block-content">
+    <p><span style="color:rgb(38,38,38);">Throughout Canvas, users can recognize discussions with the Discussion icon.</span></p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="quiz" data-step-uuid="38F46AF3-00E1-4294-8E40-952658E252CF">
+    <h2 id="quiz" class="step-title screensteps-heading">Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/751/159/original/19d9024e-21f5-4679-b26c-0b8d0085289e.png" srcset="" alt="Quiz" height="401" width="509">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E5DB270-1ED3-0135-F96F-22000BC102FE" class="text-block-content">
+    <p>A Quiz is a Canvas assignment that can be used to conduct a survey or assess a student's comprehension of course content. This assignment will appear on the Assignments Index Page (graded only), the <a href="https://community.canvaslms.com/docs/DOC-2890" target="">Quizzes Index Page,</a> the Gradebook (graded only), the Syllabus, and on the User Dashboard (graded only).</p>
+<p>Quizzes can be assigned to individual students or sections; they cannot be assigned to groups.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="4f608916-134a-4d81-ad75-5a25abf70f2b">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/164/589/original/e044d632-ab1c-4a25-9ab6-c9dc0493d61e.png" srcset="" alt="Find Quizzes" height="70" width="237">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E5DE460-1ED3-0135-F971-22000BC102FE" class="text-block-content">
+    <p><span style="color:rgb(38,38,38);">Throughout Canvas, users can recognize quizzes with the Quiz icon.</span></p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,114 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0D900600-AAE2-0135-15EB-06467EE270FA" class="text-block-content">
+    <p>You can view the grades for inactive and concluded student enrollments in the Gradebook. However, depending on the enrollment type, you may not be able to perform certain actions. Learn more about enrollments types in the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Enrollment-Status-Comparison/ta-p/387055" target="_blank">Canvas Enrollment Status Comparison resource document</a>.</p>
+<p>For concluded student enrollments, all content in the Gradebook is read only and cannot be changed. Grades can also be viewed when viewing concluded enrollments in the People page. </p>
+<p>For inactive student enrollments, grades can still be edited. However, inactive students cannot access the course, so they cannot view grades or receive any submission comments or feedback. </p>
+<p><strong>Note</strong>: Inactive and concluded enrollments also show in <a href="/t5/Instructor-Guide/How-do-I-export-grades-in-the-Gradebook/ta-p/809" target="_blank">downloaded CSV files</a> and SpeedGrader assignment submissions.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="0D9055B0-AAE2-0135-15EC-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/766/993/original/9985f8ab-c266-4695-a591-73e4c6ca75a0.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D907BE0-AAE2-0135-15EE-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-student-name-menu" data-step-uuid="3171fee2-4bd9-4c59-835b-b09124055550">
+    <h2 id="open-student-name-menu" class="step-title screensteps-heading">Open Student Name Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/259/548/original/75747ae2-f869-4b9b-9e2f-b1c698cab026.png" srcset="" alt="Open Student Name Menu" height="307" width="392">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c879ef92-a300-4692-8c80-f93995c870e0" class="text-block-content">
+    <p>Hover over the Student Name column header and click the<strong> Options</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_gradebook_settings" data-step-uuid="0D90C360-AAE2-0135-15EF-06467EE270FA">
+    <h2 id="open_gradebook_settings" class="step-title screensteps-heading">Show Inactive Enrollments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/126/original/2d9493e8-06b5-4994-9a2e-bd436f3ab4c2.png" srcset="" alt="Show Inactive Enrollments" height="314" width="392">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D90E870-AAE2-0135-15F1-06467EE270FA" class="text-block-content">
+    <p>To view inactive enrollments, select the <strong>Inactive enrollments </strong>link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_grades" data-step-uuid="0D90FB80-AAE2-0135-15F2-06467EE270FA">
+    <h3 id="view_grades" class="step-title screensteps-heading">View Inactive Enrollments</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/134/original/cac23fff-0428-4b78-80c2-1e1fedf23812.png" srcset="" alt="View Inactive Enrollments" height="314" width="386">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0D911ED0-AAE2-0135-15F4-06467EE270FA" class="text-block-content">
+    <p>View the inactive student in the Gradebook. You will be able to edit the grades. However, the student will not able to access the course to view the grades or any submission comments or feedback.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="show-concluded-enrollments" data-step-uuid="cd13a704-dcc2-4116-b539-7d9620bfed44">
+    <h2 id="show-concluded-enrollments" class="step-title screensteps-heading">Show Concluded Enrollments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/130/original/44759a04-1af6-4dd6-870b-286a9c21d12f.png" srcset="" alt="Show Concluded Enrollments" height="307" width="392">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ed035ba9-41ab-469e-ab37-6628157f741d" class="text-block-content">
+    <p>To view concluded enrollments, select the <strong>Concluded enrollments </strong>link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-concluded-enrollments" data-step-uuid="2eb1dc8b-e54a-4e85-a7e4-aa8ee70936d0">
+    <h3 id="view-concluded-enrollments" class="step-title screensteps-heading">View Concluded Enrollments</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/242/128/original/ffa87031-e96f-4b12-b178-2ea780a0cc3d.png" srcset="" alt="View Concluded Enrollments" height="314" width="386">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b5d9f2b2-a78a-4e3e-98a1-0f9d364d6d3e" class="text-block-content">
+    <p>View the concluded student in the Gradebook. You will not be able to edit the grades. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

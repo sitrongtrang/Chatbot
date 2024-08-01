@@ -1,0 +1,148 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_43C872C0-1D7F-0135-4712-22000AB760A3" class="text-block-content">
+    <p>Terms create a default set of participation start and end dates that apply to any course added to that term. Terms can be added manually or created through SIS imports. Once a user is added to a course, terms set default dates for when users can participate in courses assigned to that term. User participation is limited to published courses.</p>
+<p>Canvas always includes a default term, which cannot be removed or renamed.</p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/Terms-Admins/ta-p/383431" target="_blank">View a video about Terms</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Not all courses within a term conform to the term dates, as course or section start dates may override the term dates. Course or section overrides may be before or after the start of the term.</li>
+<li>Only admins can view the Terms page in Canvas. Instructors can view term dates in <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">Course Settings</a>. Make sure students in your institution are aware of term dates for your institution.</li>
+<li>Terms in consortium accounts are inherited from the parent account. Child consortium accounts cannot view or change terms.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="b90bfef3-f6b4-4ae9-a407-b212252b0b99">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a075023e-03ef-4913-be6a-f3964d74ac22" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_terms" data-step-uuid="5b8d8b7c-30fa-4cd1-9530-5b7eaffaf042">
+    <h2 id="open_terms" class="step-title screensteps-heading">Open Terms</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/798/033/original/a766597e-e0b2-4c9d-ba84-b4e9f0524943.png" srcset="" alt="Open Terms" height="281" width="166">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_282ad4dd-1e35-492b-afc7-8e306a7e1735" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Terms </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-term" data-step-uuid="55afee2d-6dd5-4dc1-9acb-5a5d01dddc26">
+    <h2 id="add-term" class="step-title screensteps-heading">Add Term</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/853/original/f4417259-e388-45f5-8986-dcddabab1036.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/853/medium/f4417259-e388-45f5-8986-dcddabab1036.png" srcset="" alt="Add Term" height="88" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7e1304bf-af43-4b09-8a65-c53bf863bcf6" class="text-block-content">
+    <p>To <a href="/t5/Admin-Guide/How-do-I-add-a-new-term-in-an-account/ta-p/222" target="_blank">add a new term</a>, click the <strong>Add New Term</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="default_user_dates" data-step-uuid="D90E98DB-B3C6-45AD-A15B-92EBF72E8D9F">
+    <h2 id="default_user_dates" class="step-title screensteps-heading">View Terms</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/855/original/49d3ff96-a903-4521-a685-710e7a34405c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/855/medium/49d3ff96-a903-4521-a685-710e7a34405c.png" srcset="" alt="View Terms" height="258" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43C8A9A0-1D7F-0135-4714-22000AB760A3" class="text-block-content">
+    <p>The Terms page displays all terms that have been created in your account. Terms can be created manually or via SIS Import.</p>
+<p>To search for a term, enter the term name in the <strong>Search by term name</strong> field [1] and click the <strong>Search</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-term-details" data-step-uuid="842daa29-f74b-4df4-b975-bd11d8d18118">
+    <h2 id="view-term-details" class="step-title screensteps-heading">View Term Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/857/original/8aed6b65-9fc9-425f-97b4-59d635569d54.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/857/medium/8aed6b65-9fc9-425f-97b4-59d635569d54.png" srcset="" alt="View Terms" height="111" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_af3831d1-36b7-4050-9536-2cb8d403f620" class="text-block-content">
+    <p>For each term, you can view all the details created in that term. </p>
+<p>You can view the name of the term [1], the term SIS ID (if applicable) [2], the <a href="/t5/Admin-Guide/How-do-I-view-grading-periods-in-an-account/ta-p/179" target="_blank">grading period set</a> associated with the term (if applicable) [3], and the number of courses within the term [4].</p>
+<p>You can also view the term dates [5] and specific user role access dates [6].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="custom_user_dates" data-step-uuid="6321532f-82bb-455a-863e-49a7b90ca2bc">
+    <h3 id="custom_user_dates" class="step-title screensteps-heading">View Custom User Dates</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/859/original/107a8402-7489-40bc-8f75-17d4e90b3b8a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/859/medium/107a8402-7489-40bc-8f75-17d4e90b3b8a.png" srcset="" alt="Custom User Dates" height="100" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43C9D490-1D7F-0135-4716-22000AB760A3" class="text-block-content">
+    <p>If specific user access dates have been added for the term, you can view the dates within each user role.</p>
+<p><strong>Note: </strong>SIS imports cannot specify specific dates for each user group. Those dates must be changed manually.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-terms" data-step-uuid="9511a213-38da-4d93-8998-3abf4f06269a">
+    <h2 id="manage-terms" class="step-title screensteps-heading">Manage Terms</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/680/861/original/fc782ec0-3097-4df4-b583-cd90334fcdd7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/680/861/medium/fc782ec0-3097-4df4-b583-cd90334fcdd7.png" srcset="" alt="View Terms" height="185" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a79ece23-1ccd-42c4-a877-d41b4f77bc81" class="text-block-content">
+    <p>To edit a term, click the <strong>Edit</strong> icon [1]. To delete a term, click the <strong>Delete </strong>icon [2].</p>
+<p><strong>Note</strong>: You cannot delete a term that contains courses.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

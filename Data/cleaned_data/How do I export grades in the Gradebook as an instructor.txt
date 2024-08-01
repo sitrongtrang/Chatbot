@@ -1,0 +1,36 @@
+How do I export grades in the Gradebook as an instructor
+00:00:How do I export grades in the Gradebook?
+00:03:In Course Navigation, click the Grades link.
+00:07:Click the Export button.
+00:10:Click the Export Current Gradebook View link.
+00:13:If you are using grading periods and want all grading periods included in your CSV file, click the Export Entire Gradebook link.
+00:21:If you navigate away from the page during the export, the CSV file will appear as a previous download in the Export menu so it can be downloaded again. The Gradebook allows you to view a previous export. If you made changes to the Gradebook after exporting a file and want to export a new file, click the Export link again.
+00:42:Edit the scores in Microsoft Excel. Make sure to save the file as a CSV file type. Once you have made changes, you can upload it to your course.
+00:53:This guide covered how to export grades in the Gradebook.
+Open Grades
+In Course Navigation, click the Grades link.
+Export Scores
+Click the Export button, then click the Export Current Gradebook View link.
+If you are using grading periods and want all grading periods included in your CSV file, click the Export Entire Gradebook link.
+When the export is completed, Canvas downloads the CSV file automatically to your computer. 
+View Exported Scores
+If you navigate away from the page during the export, the CSV file will appear as a previous download in the Export menu so it can be downloaded again. The Gradebook allows you to view a previous export.
+If you made changes to the Gradebook after exporting a file and want to export a new file, click the Export link again.
+Notes: 
+Gradebook export files include the date and time of the download to differentiate between multiple exports. The export filename format is YYYY-MM-DDTHHMM, followed by the course name.
+Gradebook export files automatically save to your user files in an Unfiled folder.
+Edit Scores
+Edit the scores in Microsoft Excel. Make sure to save the file as a CSV file type.
+Once you have made changes, you can upload it to your course. 
+View Read-Only Columns
+The CSV download includes read-only columns displaying current and final scores. These columns display for each assignment group in a course and for final course grades. 
+Current Points: Reflects points for graded assignments
+Final Points: Reflects points for all assignments
+Current Score: Reflects scores for graded, posted assignments
+Unposted Current Score: Reflects scores for graded assignments and includes hidden assignments
+Final Score: Reflects overall score including unsubmitted assignments as zero but excluding hidden assignments
+Unposted Final Score: Reflects total score, including unsubmitted assignments as zero and hidden assignments
+Current Grade: Reflects course grade based on graded, posted assignments
+Unposted Current Grade: Reflects course grade based on graded assignments, including hidden assignments but excluding unsubmitted assignments
+Final Grade: Reflects overall course grade including unsubmitted assignments as zero but excluding hidden assignments
+Unposted Final Grade: Reflects overall course grade, including unsubmitted assignments as zero and hidden assignments

@@ -1,0 +1,200 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0E442970-AAE2-0135-1612-06467EE270FA" class="text-block-content">
+    <p>You can use a CSV file to upload changes to the Gradebook. You can upload information for existing assignments, or you can also use a CSV file to create new assignments in the Gradebook. New assignments will automatically be published in your course. If you do not know how to save a file in a CSV format, please check the documentation for the program you are using to create your Gradebook changes (e.g., Excel).</p>
+<p>If you create a column for a new assignment, Canvas will ask how you want to import the assignment. New assignments upload with the following settings: </p>
+<ul>
+<li>Assignment Group: Assignments</li>
+<li>Submission Type: No submission</li>
+<li>Due date for: Everyone </li>
+</ul>
+<p> <strong>Notes:</strong></p>
+<ul>
+<li>The Gradebook CSV file downloads complete/incomplete assignments as full or no credit (e.g. for a 10-point assignment, 10 or 0). Scores with full or partial credit upload as a complete assignment; scores with zero upload as an incomplete assignment. </li>
+<li>CSV file uploads can create assignments and update grades; they cannot update any other area of the Gradebook, such as assignment status, comments, or grade posting policies.</li>
+<li>Letter Grade and GPA Scale assignments do not support any entries that are not part of the assignment's grading scheme.</li>
+<li>All changes made to non-read-only columns are included in the upload. However, read-only columns are automatically ignored in the upload.</li>
+<li>When multiple grading periods is enabled, CSV file uploads cannot create new assignments. Currently new assignments must be created in the Canvas interface. Additionally, CSV files are verified against grading period close dates; grades cannot be changed for any assignment in a closed grading period.</li>
+<li>An upload will not recognize assignments names containing the text Current Score, Current Points, Final Score, Final Points, or Final Grade.</li>
+<li>To upload changes to the Gradebook with student or assignment names containing special characters, please ensure the file is saved as a UTF-8 CSV.</li>
+<li>CSV file uploads ignore reserved column names as well as hidden and deleted custom columns. Reserved column names include Student, ID, SIS User ID, SIS Login ID, Section, Integration ID, and Root Account.</li>
+<li>Grade changes to Classic Quiz submissions may display as fudge points in SpeedGrader.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="" data-step-uuid="0E457AC0-AAE2-0135-1613-06467EE270FA">
+    
+        <div class="step screensteps-section screensteps-depth-2" id="view_example_csv_file" data-step-uuid="0E458FE0-AAE2-0135-1614-06467EE270FA">
+    <h3 id="view_example_csv_file" class="step-title screensteps-heading">Create CSV File</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/585/144/original/24784bb0-45ee-4e18-afba-e2cf90bb2db3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/585/144/medium/24784bb0-45ee-4e18-afba-e2cf90bb2db3.png" srcset="" alt="View Example CSV File" height="266" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E45BE00-AAE2-0135-1616-06467EE270FA" class="text-block-content">
+    <p>For new files, save the file as Grades-Course_Name.csv. </p>
+<p><strong>Required columns and order</strong></p>
+<ul>
+<li>Student Name</li>
+<li>Student ID</li>
+<li>SIS User ID (only required if you use SIS)</li>
+<li>SIS Login ID (only required if you use SIS)</li>
+<li>Section</li>
+<li>Assignment (this can be for an existing assignment or a new assignment; retain IDs for existing assignments)</li>
+</ul>
+<p><strong>Note:</strong> If you don't want to create a new CSV file, you can always <a href="/t5/Instructor-Guide/How-do-I-export-grades-in-the-Gradebook/ta-p/809" target="_blank">download the CSV</a> from Canvas, change it, and re-upload the same file and the changes you made will appear in Canvas once you re-upload the CSV file.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_gradebook" data-step-uuid="0E45D8F0-AAE2-0135-1617-06467EE270FA">
+    <h2 id="open_gradebook" class="step-title screensteps-heading">Open Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/072/original/21747163-4e75-46e8-a0b1-de38255a8acc.png" srcset="" alt="Open Gradebook" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E460BA0-AAE2-0135-1619-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload_scores" data-step-uuid="0E462350-AAE2-0135-161A-06467EE270FA">
+    <h2 id="upload_scores" class="step-title screensteps-heading">Upload Scores</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/729/872/original/6d9a01a6-814a-469f-afbc-e48f4b9a7948.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/729/872/medium/6d9a01a6-814a-469f-afbc-e48f4b9a7948.png" srcset="" alt="Upload Scores" height="214" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E465260-AAE2-0135-161C-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Import</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_file" data-step-uuid="0E466460-AAE2-0135-161D-06467EE270FA">
+    <h2 id="choose_file" class="step-title screensteps-heading">Choose File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/729/870/original/399f4735-2b35-4b19-88df-eeaaa40dcc7d.png" srcset="" alt="Choose File" height="266" width="628">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E468A00-AAE2-0135-161F-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Choose File</strong> or Browse button (depending on your browser).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_file" data-step-uuid="0E469B60-AAE2-0135-1620-06467EE270FA">
+    <h2 id="open_file" class="step-title screensteps-heading">Open File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/585/152/original/f6f4687a-9090-402f-92f5-d8ce292b60eb.png" srcset="" alt="Open File" height="343" width="710">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E46C240-AAE2-0135-1622-06467EE270FA" class="text-block-content">
+    <p>Locate the CSV file [1] then click the <strong>Open</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload_data" data-step-uuid="0E46D6B0-AAE2-0135-1623-06467EE270FA">
+    <h2 id="upload_data" class="step-title screensteps-heading">Upload Data</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/770/063/original/2736d64b-b2ca-44d3-9e3e-a81ec906ce51.png" srcset="" alt="Upload Data" height="66" width="153">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E46FE80-AAE2-0135-1625-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Upload Data </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="upload_new_data" data-step-uuid="0E471360-AAE2-0135-1626-06467EE270FA">
+    <h3 id="upload_new_data" class="step-title screensteps-heading">Upload New Data</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/770/075/original/9f1c978c-f57c-46d7-b97d-03733b57846c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/770/075/medium/9f1c978c-f57c-46d7-b97d-03733b57846c.png" srcset="" alt="Upload New Data" height="309" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E473AB0-AAE2-0135-1628-06467EE270FA" class="text-block-content">
+    <p>If you add a new column to the CSV file and then upload the file, Canvas will ask you what you want to do with the new column. In the drop-down menu, choose the <strong>A new assignment</strong> option [1]. Then assign the number of points possible [2]. Click the <strong>Continue</strong> button [3].</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>When multiple grading periods is enabled, CSV file uploads cannot create new assignments.</li>
+<li>New assignments created via a CSV file upload are automatically published and maintain the course posting policy.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_changes" data-step-uuid="0E474DF0-AAE2-0135-1629-06467EE270FA">
+    <h2 id="save_changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/254/525/original/bf9cfd94-9552-4995-b13e-bde0a492ba1e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/254/525/medium/bf9cfd94-9552-4995-b13e-bde0a492ba1e.png" srcset="" alt="Save Changes" height="375" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E4778C0-AAE2-0135-162B-06467EE270FA" class="text-block-content">
+    <p>Review the changes made to your Gradebook [1]. Any changes that will result in a lower grade than the previous version are highlighted in red [2].</p>
+<p>If you upload assignments with no grade changes, they will be hidden from the upload [3]. </p>
+<p>Click the <strong>Save Changes</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_updated_gradebook" data-step-uuid="0E478BC0-AAE2-0135-162C-06467EE270FA">
+    <h2 id="view_updated_gradebook" class="step-title screensteps-heading">View Updated Gradebook</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/796/018/original/fce09767-e2cf-4dd8-9cbe-b9ca40877717.png" srcset="" alt="View Updated Gradebook" height="316" width="657">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E47B460-AAE2-0135-162E-06467EE270FA" class="text-block-content">
+    <p>View the updated data in the Gradebook.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

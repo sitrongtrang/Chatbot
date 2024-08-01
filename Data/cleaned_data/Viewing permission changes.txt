@@ -1,0 +1,18 @@
+Viewing permission changes
+Review Additional Considerations
+You can use the account permissions or course permissions documents to review any additional considerations that specific permissions have.
+Alternatively, Additional Considerations are displayed on the admin permissions page, when you click the title of a permission.
+Note: 
+It is recommended you make any changes in the beta or test environments and confirm they match what you expect to prevent users from getting unintended permissions.
+New Permissions Delay
+If you provide new permissions to a role, there is a delay of up to 30 minutes before users with the role will receive it. If you need to confirm a role’s new permissions, there is a method to skip this delay.
+Note: 
+Removing permissions does not have this delay and will be unavailable to the user immediately.
+Act As User
+After you’ve added a permission to a role, you will need to act as a user with that newly adjusted role.
+In Account Navigation, click the People link, and search for the user.
+Click the name of the user to go to their profile.
+In their profile, click the Act as User link.
+As the user, in Global Navigation, click the Account link, then the Settings link.
+Click the Edit Settings button. You can change the language or the time zone. This has the effect of updating their permissions, after which, you can confirm if they have the permissions you are expecting.
+Removing permissions does not have this delay, and will be unavailable to the user immediately.

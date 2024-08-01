@@ -1,0 +1,126 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A695D5A0-F3A8-0139-27F0-12F2183ABDFB" class="text-block-content">
+    <p>If you cannot <a href="/t5/Instructor-Guide/How-do-I-find-an-existing-outcome-to-add-to-a-course-in-Improved/ta-p/486363" target="_blank">find an outcome</a> to use in your course, you can create a new outcome.</p>
+<p>Outcomes can be included in <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-in-a-course/ta-p/842" target="_blank">assignment rubrics</a> as an easy way to assess mastery of learning objectives. When you create a learning outcome, you should also define a criterion that can be used when building assignment rubrics. Define as many rubric columns as you need, and specify a point threshold that will be used to define mastery of this outcome.</p>
+<p>This lesson displays how to create outcomes in a course within an account that has enabled the Improved Outcomes Management feature option. If the Outcomes page in your course displays differently than the images in this lesson, learn how to <a href="/t5/Instructor-Guide/How-do-I-create-an-outcome-for-a-course/ta-p/862" target="_blank">create outcomes</a><a href="https://canvas.screenstepslive.com/admin/v2/internal_links/1136008?type=article&amp;site_id=2204" target="_blank" rel="nofollow noopener noreferrer"> </a>in the classic Outcomes page view.</p>
+<p>In order to use Improved Outcomes Management, you course must also use course-wide mastery scales and calculations. Because of this, you cannot add criterion ratings, mastery levels, and calculation methods for individual outcomes in Improved Outcomes Management.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="A695EC00-F3A8-0139-27F1-12F2183ABDFB">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/828/160/original/45b865e5-5af4-4763-bbb3-dd55c7bedd95.png" srcset="" alt="Open Outcomes" height="274" width="154">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6962250-F3A8-0139-27F3-12F2183ABDFB" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_outcome" data-step-uuid="A6963AD0-F3A8-0139-27F4-12F2183ABDFB">
+    <h2 id="add_outcome" class="step-title screensteps-heading">Add Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/819/158/original/66797df6-89f0-4847-8d17-4c116b56beda.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/819/158/medium/66797df6-89f0-4847-8d17-4c116b56beda.png" srcset="" alt="Add Outcome" height="102" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A6966C90-F3A8-0139-27F6-12F2183ABDFB" class="text-block-content">
+    <p>Click the <strong>Create</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_outcome" data-step-uuid="A6968B10-F3A8-0139-27F7-12F2183ABDFB">
+    <h2 id="create_outcome" class="step-title screensteps-heading">Create Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/117/245/original/704d3ecb-ca61-4381-8dbc-c80868406f8f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/117/245/medium/704d3ecb-ca61-4381-8dbc-c80868406f8f.png" srcset="" alt="Create Outcome" height="675" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A696BEC0-F3A8-0139-27F9-12F2183ABDFB" class="text-block-content">
+    <p>Enter a name for the outcome in the <strong>Name</strong> field [1]. This is the official name of the outcome that will also appear in the <a href="/t5/Instructor-Guide/How-do-I-use-the-Learning-Mastery-Gradebook-to-view-outcome/ta-p/775" target="_blank">Learning Mastery Gradebook.</a></p>
+<p>If you allow students to view Learning Mastery scores on the Grades page, they will see the name of the outcome. However, you may want to create a custom, <a href="/t5/Instructor-Guide/How-do-I-create-custom-course-outcome-names-for-students/ta-p/653" target="_blank">friendly name</a>. To create a friendly name for student view, enter a name in the <strong>Friendly Name </strong>field [2].  </p>
+<p><a href="https://community.canvaslms.com/t5/Instructor-Guide/tkb-p/Instructor#RichContentEditor" target="">Use the Rich Content Editor</a> to enter a description in the <strong>Description</strong> field [3]. To create a friendly description for parent or student view, enter a description in the <strong>Friendly Description</strong> field [4]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="proficiency-rating" data-step-uuid="6d80c037-5819-4eb2-8dab-afa479acfd17">
+    <h3 id="proficiency-rating" class="step-title screensteps-heading">Modify Mastery Scale</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/828/437/original/0c78638b-c1d2-43fa-ba18-07bf4d35e3f9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/828/437/medium/0c78638b-c1d2-43fa-ba18-07bf4d35e3f9.png" srcset="" alt="Modify Mastery Scale" height="491" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_01d6c61b-ae52-4607-bea4-0004afbb70dc" class="text-block-content">
+    <p>If you have the permission to edit mastery scales, you can make changes to the <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-scales-in-a-course/ta-p/429018" target="_blank">default mastery scale</a> in the <strong>Mastery </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="modify-mastery-calculation-method" data-step-uuid="51f1a6f7-0410-4f92-8d04-5f7862b298ec">
+    <h3 id="modify-mastery-calculation-method" class="step-title screensteps-heading">Modify Mastery Calculation Method</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/828/439/original/a95f1bc4-5b24-473f-aa98-9b962be19dcc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/828/439/medium/a95f1bc4-5b24-473f-aa98-9b962be19dcc.png" srcset="" alt="Modify Mastery Calculation Method" height="376" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5fa8c8d9-29ef-4774-93c2-7120e266d78a" class="text-block-content">
+    <p>If you have the permission to edit outcome proficiency calculations, you can make changes to <a href="/t5/Instructor-Guide/How-do-I-manage-outcome-mastery-calculations-in-a-course/ta-p/429019" target="_blank">calculation methods</a> in the <strong>Calculation</strong> tab. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_outcome" data-step-uuid="A69776D0-F3A8-0139-2802-12F2183ABDFB">
+    <h2 id="view_outcome" class="step-title screensteps-heading">View Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/819/164/original/89981862-5dfe-4a02-90cc-c3073c35e6d2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/819/164/medium/89981862-5dfe-4a02-90cc-c3073c35e6d2.png" srcset="" alt="View Outcomes" height="520" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A697A490-F3A8-0139-2804-12F2183ABDFB" class="text-block-content">
+    <p>View the created outcome.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

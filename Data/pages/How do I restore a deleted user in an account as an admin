@@ -1,0 +1,114 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_d6ec7f51-0e9c-452f-9084-c2d0184e16b9" class="text-block-content">
+    <p>As an admin, you can restore a deleted user. You must know the User ID number to restore the user. The User ID can be found by viewing the number at the end of the browser URL of a page view in the deleted user (e.g. account.instructure.com/users/XXXXXX).</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="8e1de7eb-fdca-469b-a1ba-5755ae2e1efd">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_58c58461-8a47-475a-a1d0-2e88a5c073f2" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_admin_tools" data-step-uuid="73985132-08f3-4873-a4bf-332c3c501a4f">
+    <h2 id="open_admin_tools" class="step-title screensteps-heading">Open Admin Tools</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png" srcset="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png 2.0x, https://media.screensteps.com/image_assets/assets/005/796/780/original_lowres/open-admin-tools.png" alt="Open Admin Tools" height="282" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a155f65f-0adc-4aef-9b51-29884e954e2a" class="text-block-content">
+    <p>Click the <strong>Admin Tools</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-user" data-step-uuid="4173559f-8960-43ef-8d3c-4c527914a252">
+    <h2 id="select-user" class="step-title screensteps-heading">Select Restore Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/086/486/original/bb1c2a7e-0e3b-4b8c-8cf2-0ffd5789f519.png" srcset="" alt="Select User" height="559" width="350">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_30b53157-20d6-43a2-97fa-48323c8c3848" class="text-block-content">
+    <p>In the Restore Content<strong> </strong>tab, click the <strong>Select a restore type </strong>drop-down menu [1] and select the <strong>Users </strong>option<strong> </strong>[2].</p>
+<p>You can also <a href="/t5/Admin-Guide/How-do-I-restore-a-deleted-course-in-an-account/ta-p/91" target="_blank">restore deleted courses</a> [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search-user-id" data-step-uuid="7be9c797-7d43-4a7a-bd4f-b26ce64dcdc1">
+    <h2 id="search-user-id" class="step-title screensteps-heading">Search User ID</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/077/851/original/bcd3e9eb-e9fe-4d7b-9d23-bf6115b29c32.png" srcset="" alt="Search User ID" height="182" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0e738176-25e5-46dc-b07d-341b9ecbf6d6" class="text-block-content">
+    <p>In the <strong>User ID </strong>field [1], enter the user ID of the user you want to restore. Click the <strong>Find </strong>button [2].</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="restore-user" data-step-uuid="e6d2c358-7bec-4040-adc5-39ec47056562">
+    <h2 id="restore-user" class="step-title screensteps-heading">Restore User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/077/853/original/74507955-f2c0-45a1-ae3a-2021dc1cc487.png" srcset="" alt="Restore User" height="592" width="672">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1c497075-45ba-41bc-9ec9-af2fe79189bd" class="text-block-content">
+    <p>When the user is displayed, click the <strong>Restore </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-user-undelete" data-step-uuid="fa0f9bfe-494e-4146-8195-5a0a3a7731d4">
+    <h2 id="confirm-user-undelete" class="step-title screensteps-heading">Confirm User Restore</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/077/855/original/7928d827-711e-4679-a1d2-bd6985c0b339.png" srcset="" alt="Confirm User Restpre" height="582" width="517">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_120cd93e-1376-4033-953b-5973fce8296b" class="text-block-content">
+    <p>Canvas confirms you have restored your user.</p>
+<p>To view the user, click the <strong>View User </strong>button. </p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

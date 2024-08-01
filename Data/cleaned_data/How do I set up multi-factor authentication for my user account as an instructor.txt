@@ -1,0 +1,19 @@
+How do I set up multi-factor authentication for my user account as an instructor
+Open User Settings
+In Global Navigation, click the Account link, then click the Settings link.
+Set Up Multi-Factor Authentication
+Click the Set Up Multi-Factor Authentication button.
+Verify via Authenticator App
+To verify multi-factor authentication a time-based one-time password (TOTP) authenticator app on iPhone or Android (ex: Google Authenticator, Microsoft Authenticator, Authy), download the app for your device. 
+Use the app to scan and generate the QR code. Enter the code in the Verification Code field.
+If you want multi-factor authentication to remember the computer you are using to log in to Canvas, click the Remember this computer checkbox.
+Click the Verify button.
+Verify via Text Message
+To verify multi-factor authentication via text message, enter your phone number and select your carrier. This is the number where your multi-factor verification code will be sent.
+Once you have set up your new phone number, or selected an existing phone number, click the Send button. Your mobile device will receive a verification code. Enter the code in the Verification Code field.
+If you want multi-factor authentication to remember the computer you are using to log in to Canvas, click the Remember this computer checkbox.
+Click the Verify button.
+Manage Multi-Factor Authentication
+Once multi-factor authentication is enabled, your User Settings page may display additional options to manage your authentication.
+You can choose to create multi-factor authentication codes to use as backup in case your authentication device is not available. This option is available to all users with multi-factor authentication.
+If multi-factor authentication is optional for your account, you can also choose to reconfigure authentication or disable authentication. 

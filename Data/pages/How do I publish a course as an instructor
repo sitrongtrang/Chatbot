@@ -1,0 +1,116 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_27F714C0-1F05-0135-A9D6-22000B5A851D" class="text-block-content">
+    <p>If you have permission to publish your course, you can publish your course from the Dashboard, the Course Home Page sidebar, the Course Settings sidebar, or the <a href="/t5/Instructor-Guide/How-do-I-use-the-Course-Setup-Checklist/ta-p/1139" target="_blank">Course Setup Checklist</a>. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>You must publish a course before students can access it and its contents. Students cannot see unpublished courses and content.</li>
+<li>Publishing a course is a course permission. If you cannot publish your course, your institution has restricted this feature.</li>
+<li>Publishing your course will send invitations to any users who were manually added to your course. Users added via SIS import will not receive an invitation. </li>
+<li>Course invitations will not be sent until after the course start date. (The start date is commonly the term date, unless the term is being overridden by a specific course or section date in Course Settings.)</li>
+<li>If you are using a Free-for-Teacher account, you cannot publish a course until you have verified your email address.</li>
+<li>If your course has been published and includes grades, you cannot modify the course's published status.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="publish-in-dashboard" data-step-uuid="3856d352-ed84-4354-9e08-5d696fa9cc7e">
+    <h2 id="publish-in-dashboard" class="step-title screensteps-heading">Publish in Dashboard</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/855/754/original/953dc364-2978-456e-bc89-01425c516afc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/855/754/medium/953dc364-2978-456e-bc89-01425c516afc.png" srcset="" alt="Publish in Dashboard" height="641" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d964dd4a-5b5a-4f08-981f-0af700529297" class="text-block-content">
+    <p>Locate the <strong>Unpublished Courses</strong> section in the Dashboard [1].</p>
+<p>Find the course you want to publish and click the <strong>Publish</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="publish-in-course" data-step-uuid="f4c3b901-317e-470a-b6e2-c70968af0341">
+    <h2 id="publish-in-course" class="step-title screensteps-heading">Publish in Course</h2>
+        <div class="step screensteps-section screensteps-depth-2" id="open_course" data-step-uuid="0869563c-1145-4820-aba4-1ee6a4a6615f">
+    <h3 id="open_course" class="step-title screensteps-heading">Open Course</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/952/798/original/575b7320-541d-474b-92b4-9bf125955c20.png" srcset="" alt="Open Course" height="545" width="460">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3d2a9f4d-fdd2-4dc4-a23c-132e1df3fde7" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1]. Your courses will be organized by published courses [2] and unpublished courses [3]. To open an unpublished course, click the name of the course [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="publish_course" data-step-uuid="643bb8a6-19ce-4707-b8f5-c8bef8e7dec1">
+    <h3 id="publish_course" class="step-title screensteps-heading">Publish Course</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/911/980/original/df5f5d79-c51e-4218-b419-c99787156826.png" srcset="" alt="Publish Course" height="323" width="266">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_27FB25B0-1F05-0135-A9DA-22000B5A851D" class="text-block-content">
+    <p>The course status displays in the Course Home Page sidebar and the <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">Course Settings sidebar</a>.</p>
+<p>To publish your course, click the <strong>Publish</strong> button.</p>
+<p><strong>Note: </strong>On smaller screens, the sidebar may display beneath other page content. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_confirmation" data-step-uuid="33FA9ABE-3E5D-4628-8493-236056731A3D">
+    <h3 id="view_confirmation" class="step-title screensteps-heading">View Confirmation</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/749/356/original/40138966-a621-4893-be17-1d299feb48c4.png" srcset="" alt="View Confirmation" height="70" width="507">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_27FC1570-1F05-0135-A9DC-22000B5A851D" class="text-block-content">
+    <p>A message will appear at the top of your screen confirming the publishing of your course.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unpublish_course" data-step-uuid="5add6b9c-9921-4a93-ad01-28517be4a4af">
+    <h3 id="unpublish_course" class="step-title screensteps-heading">Unpublish Course</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/009/091/original/bfd3451e-9dde-4379-801a-045e8a9657c0.png" srcset="" alt="Unpublish Course" height="303" width="277">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_27FCE8E0-1F05-0135-A9DE-22000B5A851D" class="text-block-content">
+    <p>If you need to unpublish your course, click the <strong>Unpublish</strong> button in the sidebar. Students who already received course invitations will not be able to access your course.</p>
+<p>Once your course contains a graded submission, the course status will no longer display in the sidebar and you will no longer be able to unpublish your course. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

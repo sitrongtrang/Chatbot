@@ -1,0 +1,245 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_530717ca-8725-45f6-8fdc-09160276137f" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can create a Fill in the Blank question in New Quizzes. Fill in the Blank questions can have multiple blank spaces and include various answer types.</p>
+<p>Each blank space is given a point value calculated by dividing the total points possible by the number of blank spaces. Correct answer choices are awarded this point value and no points are subtracted for incorrect answers. For example, a Fill in the Blank question with four blanks that is worth 1 point would assign a point value of 0.25 to each blank. If a student selects two correct answers and two incorrect answers, they would be awarded a total of 0.50 points for the question.</p>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate Fill in the Blank questions</a> to create a new question.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="923d8133-e24b-4f7b-ac10-919682d91cb9">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/160/975/original/644e0702-6065-4ca2-b988-51d9fb3c1679.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/160/975/medium/644e0702-6065-4ca2-b988-51d9fb3c1679.png" srcset="" alt="Add Question" height="259" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_43ec7a40-a035-4406-9598-9f58f4f2003d" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="998a760d-865a-4f52-a2cb-d76b86ca1a15">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add Fill in the Blank Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/160/977/original/67be084f-3594-45d7-8380-e56356d0bde4.png" srcset="" alt="Add Fill in the Blank Question" height="400" width="460">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_57c463f1-5c2b-484d-9261-c1926deb2eea" class="text-block-content">
+    <p>Click the <strong>Add Fill in the Blank</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-details" data-step-uuid="0927d09b-0abe-4e38-b7f3-8800f6faeda0">
+    <h2 id="add-question-details" class="step-title screensteps-heading">Add Question Title and Stem</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/308/290/original/0bb06f64-4c3a-4e80-a6a3-26786e1a82fa.png" srcset="" alt="Add Question Title and Stem" height="201" width="816">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ad9c17ed-a9bd-40a6-8fa6-c54f5f4f9592" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Question Stem</strong> field [2], add the question stem. The question stem contains additional instructions and information for your Fill in the Blank question. </p>
+<p>Enter a statement and surround a word with backticks to indicate where a user will fill in the answer (e.g., "Roses are `red`, violets are `blue`"). You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your question stem.</p>
+<p><strong>Note:</strong> To create a backtick using a U.S. keyboard, press the `(backtick) key located below the escape key.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-answer-type" data-step-uuid="a287c000-bbf5-4b74-a913-4cb1c806f55e">
+    <h2 id="select-answer-type" class="step-title screensteps-heading">Select Answer Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/160/981/original/ea72c333-c341-429c-95a9-cf6e032fd896.png" srcset="" alt="Select Answer Type" height="254" width="437">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e2afd310-7cac-4bf3-b785-3d6f9392c78d" class="text-block-content">
+    <p>In the <strong>Answer Type</strong> menu [1], select the answer type to use for a blank space. Fill in the Blank answer types are Open Entry [2], Dropdown [3], or Word Bank [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-text-match" data-step-uuid="3ef6802a-f5d2-4a13-87cf-fc2139a9e0a3">
+    <h3 id="select-text-match" class="step-title screensteps-heading">Select Text Match</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/160/983/original/b435f1e1-66b4-4cca-aa0c-dae5b9fa8219.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/160/983/medium/b435f1e1-66b4-4cca-aa0c-dae5b9fa8219.png" srcset="" alt="Select Text Match" height="226" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f8f2f395-a06b-479a-8af9-4bfdb05a915b" class="text-block-content">
+    <p>For Open Entry answer types, you will need to select a Text Match option from the <strong>Text Match</strong> menu. The following options are available:</p>
+<ul>
+<li>
+<strong>Contains </strong>[1]:<strong> </strong>Allows for the text to exist anywhere in student responses. However, student answers must match the specified spelling and case. For example, if the blank is "panda", an answer of "It's a panda" will be marked correct, while an answer of "Panda" will be marked incorrect.</li>
+<li>
+<strong>Close Enough </strong>[2]: Uses Levenshtein Distance to determine if the response is close enough to the correct answer. <a href="https://en.wikipedia.org/wiki/Levenshtein_distance" target="_blank" rel="nofollow noopener noreferrer">Levenshtein Distance</a> is the number of single-character edits needed to change one word to another. You can choose to ignore case.</li>
+<li>
+<strong>Exact Match</strong> [3]: Requires case and spelling to match exactly.</li>
+<li>
+<strong>Specify Correct Answers </strong>[4]: Specifies that each acceptable response use regular expressions for a custom match.</li>
+<li>
+<strong>Regular Expression Match </strong>[5]: Requires using specialized text strings that describe search patterns. The following step includes a few examples of basic concepts used in regular expressions. Regular expressions are not recommended for beginners and cannot be explained in full in this guide. To begin learning more about regular expressions, <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="nofollow noopener noreferrer">read the Regular Expression Wikipedia entry</a>.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="regular-expression-match-examples" data-step-uuid="3b09d740-e470-4aec-94e6-d5135983f313">
+    <h4 id="regular-expression-match-examples" class="step-title screensteps-heading">Regular Expression Match Examples</h4>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4d33ceb8-90e9-422e-a720-ad9365cc4803" class="text-block-content">
+    <p>You can use the question mark (?) to indicate zero or one occurrences of the preceding element, the asterisk (*) to indicate zero or more occurrences of the preceding element, and the plus sign (+) to indicate one or more occurrences of the preceding element. For example, colou?r matches both "color" and "colour"; "ab*c" matches "ac", "abc", "abbc", etc.; "ab+c" matches "abc", "abbc", "abbbc", etc.</p>
+<p>You can use a vertical bar (|) to separate alternatives, such as "gray|grey".</p>
+<p>You can use parentheses ("()") to define the scope and precedence of the operators. For example, gr(a|e)y matches "gray" and "grey".</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-possible-choices" data-step-uuid="5ff87501-d45f-4323-84e9-dbf339242440">
+    <h3 id="select-possible-choices" class="step-title screensteps-heading">Select Possible Choices</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/160/985/original/475c763b-540e-4538-850b-89a9a47ee926.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/160/985/medium/475c763b-540e-4538-850b-89a9a47ee926.png" srcset="" alt="Select Possible Choices" height="246" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f9206aa5-a821-4ee9-8a9a-f31e9a03b983" class="text-block-content">
+    <p>For Dropdown answer types, enter the answer choices in the <strong>Possible Choices</strong> fields [1]. Click the button next to the correct answer [2].</p>
+<p>To add additional answers, click the <strong>Add Answer</strong> link [3]. To delete an answer, click the <strong>Delete</strong> icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-word-bank" data-step-uuid="40dec1c8-103a-41fc-87c9-be55ee5ef5ea">
+    <h3 id="select-word-bank" class="step-title screensteps-heading">Select Word Bank</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/160/987/original/8d718aad-edc1-4b06-8b1b-f152c8a79a23.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/160/987/medium/8d718aad-edc1-4b06-8b1b-f152c8a79a23.png" srcset="" alt="Select Possible Choices" height="497" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f28a5c3d-0d30-4aa8-b637-b2d6a162eec8" class="text-block-content">
+    <p>For Word Bank answer types, enter the answer choices in the <strong>Correct Answer</strong> fields [1]. Enter words in the <strong>Word Bank Distractors</strong> section [2].</p>
+<p>To add additional distractor words, click the <strong>Add Distractor</strong> link [3]. To delete a distractor word, click the <strong>Delete</strong> icon [4].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-options" data-step-uuid="38f55f04-4485-4890-8152-1c233057f29b">
+    <h2 id="set-options" class="step-title screensteps-heading">Set Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/160/992/original/33c7bc81-1561-4011-bb22-47d1b17ed78d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/160/992/medium/33c7bc81-1561-4011-bb22-47d1b17ed78d.png" srcset="" alt="Set Options" height="253" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97ff2638-178f-407e-97a8-6cfebc4140a3" class="text-block-content">
+    <p>To reuse word bank choices, click the <strong>Allow word bank choices to be reused</strong> checkbox [1]. To allow students to use an on-screen calculator for this question, click the <strong>Show on-screen calculator</strong> checkbox [2]. </p>
+<p>If you select this option, you can enable a basic calculator [3] or scientific calculator [4]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="1deb485b-8ff6-4c70-81bb-1a296b0a3f3a">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/160/997/original/f1ab854f-8932-40b5-9658-171f49a9c2c2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/160/997/medium/f1ab854f-8932-40b5-9658-171f49a9c2c2.png" srcset="" alt="Align to Outcome" height="198" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_edf7a3d1-b51e-475e-b6cf-29f7ff61b87b" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="4db4e5ea-94ad-4a94-9de5-f96d3604f15a">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/006/160/999/original/19691460-7ff3-4798-9535-220414180493.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/006/160/999/medium/19691460-7ff3-4798-9535-220414180493.png" srcset="" alt="Add to Item Bank" height="116" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ac7006f-6dc3-4773-b188-08826356ef75" class="text-block-content">
+    <p>If you want to save a question to use in other quizzes, you can add it to an item bank.</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add a question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note:</strong> After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="9d3d6186-1f9b-4777-9f13-65c8808b2c62">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value and Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/161/001/original/c953e84d-c123-4ead-a6d2-6b1edb15e050.png" srcset="" alt="Add Point Value and Feedback" height="185" width="733">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3b7b0509-b054-49e8-b4e6-ba610bec8283" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-feedback-to-a-question-in-New-Quizzes/ta-p/591" target="_blank">leave feedback for students</a>, click the <strong>Feedback</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="21ea8980-1b67-42d6-acee-5affa17fef41">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/161/003/original/56545e7e-d845-483f-8637-6d7abb809d15.png" srcset="" alt="Save Question" height="84" width="195">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_90b173e9-017a-40ba-b0b9-d4824978a140" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

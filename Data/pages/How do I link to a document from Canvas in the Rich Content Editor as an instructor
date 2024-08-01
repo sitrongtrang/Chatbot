@@ -1,0 +1,185 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_87f01f1e-0624-45ff-9e2c-ec58b94a6d63" class="text-block-content">
+    <p>You can use the Rich Content Editor to insert hyperlinks to document files stored in your course, user, and group files.</p>
+<p>By default, documents linked display an icon that allows users to preview the document in the Rich Content Editor. You can disable the in-line preview or open the in-line preview automatically.</p>
+<p><strong>Notes: </strong>If you set a file as <a href="/t5/Instructor-Guide/How-do-I-restrict-files-and-folders-to-students-in-Canvas/ta-p/610" target="_blank">not visible to students in Course Files</a> and link to that file in the Rich Content Editor, students will be able to view that file using the link in the Rich Content Editor.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-new-rich-content-editor" data-step-uuid="60bd1f5a-7f15-48e8-8750-b1730af0470c">
+    <h2 id="open-new-rich-content-editor" class="step-title screensteps-heading">Open Rich Content Editor</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/393/863/original/97874299-0555-496f-91d1-13a68cab3ae3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/393/863/medium/97874299-0555-496f-91d1-13a68cab3ae3.png" srcset="" alt="Open Rich Content Editor" height="340" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_93fb8e34-b204-422a-8ba8-18ef76f59e19" class="text-block-content">
+    <p>Open the Rich Content Editor when creating or editing an announcement, assignment, discussion, page, quiz, or syllabus.</p>
+<p><strong>Note:</strong> The Rich Content Editor supports keyboard shortcuts. To view the Keyboard Shortcuts menu, click the Keyboard icon or press <strong>ALT+F8</strong> (PC keyboard) or <strong>Option+F8</strong> (Mac keyboard).</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="prepare_links" data-step-uuid="09889347-6cdb-4712-956d-b4e3d2557055">
+    <h2 id="prepare_links" class="step-title screensteps-heading">Select Link Location</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/853/170/original/7948617e-a8a8-4add-a1c5-c1388e6e1327.png" srcset="" alt="Select Link Location" height="353" width="737">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dafb2b06-a1ae-4237-aa7f-b6c9f9e86b49" class="text-block-content">
+    <p>To insert a link displaying the name of the file, click to place your cursor in the location in the Rich Content Editor where you want the link to appear [1].</p>
+<p>To insert a hyperlink to a course content item, select the text for your hyperlink [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_links_tab" data-step-uuid="960055b4-a7b3-429a-9730-a14b533c691c">
+    <h2 id="open_links_tab" class="step-title screensteps-heading">Open Documents</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/300/442/original/449a9f59-a671-478b-8dc1-231440ec615c.png" srcset="" alt="Group Project Requirements: Biology 101 " height="413" width="748">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0359c074-388d-4abf-ba61-64e48c296a42" class="text-block-content">
+    <p>In the toolbar, click the <strong>Documents </strong>icon [1]. To view the Documents icon, you may have to click the <strong>Options</strong> icon [2].  </p>
+<p>To view course documents, click the <strong>Course Documents </strong>option [3]. To view your user documents, click the <strong>User Documents</strong> option [4].</p>
+<p>If you open the Rich Content Editor from a group, you can view uploaded group documents by clicking the <strong>Group Documents</strong> option [5].</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-and-sort-files" data-step-uuid="6644b848-a1cd-40d4-ae72-d9c0380f1171">
+    <h2 id="view-and-sort-files" class="step-title screensteps-heading">View and Sort Files</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/917/708/original/07e646a1-c68a-4555-bb7e-eab57e3cf3cb.png" srcset="" alt="View and Sort Files" height="478" width="494">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e453f344-90a0-4a1e-90ee-9961fffbb128" class="text-block-content">
+    <p>By default, the Add menu displays all files in your selected file source [1]. </p>
+<p>To sort the displayed files by image, document, or media file type, click the <strong>Type </strong>drop-down menu [2]. </p>
+<p>To sort the displayed files by date added or alphabetically, click the <strong>Sort by </strong>drop-down menu [3].</p>
+<p>To search for a document, enter the file name in the <strong>Search</strong> field [4]. You must enter at least three characters for search results to display.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-file" data-step-uuid="07545487-8dbf-4152-846c-7ad512d54873">
+    <h2 id="select-file" class="step-title screensteps-heading">Select File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/917/706/original/e7f42280-b536-4b4e-81f5-010b15286c63.png" srcset="" alt="Select File" height="478" width="490">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_519e27be-bf2a-4a1b-8bfc-b4dfffbc2328" class="text-block-content">
+    <p>Click the name of the file you want to link in the Rich Content Editor.</p>
+<p><strong>Note:</strong> The text will flash before turning into the hyperlink.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_link" data-step-uuid="0ebc3f10-9dff-47af-a962-dbec7aa8302a">
+    <h2 id="view_link" class="step-title screensteps-heading">View Link</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/853/660/original/0561f4e0-3f84-453d-93af-e627aace229e.png" srcset="" alt="View Link" height="404" width="815">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_444648b5-891f-4b44-97be-d5d05ad9c5ee" class="text-block-content">
+    <p>View the link displaying the name of the file [1] or the hyperlinked text [2].</p>
+<p>To manage options for the link, click the link title [3] and click the <strong>Link</strong> <strong>Options</strong> link [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-link-options" data-step-uuid="b74dd8f5-737e-4765-a963-ef2aabaf4792">
+    <h3 id="view-link-options" class="step-title screensteps-heading">View Link Options</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/526/848/original/30bffdc0-c40d-4769-8abe-cc73f138bdd6.png" srcset="" alt="View Link Options" height="593" width="327">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dcc3f787-a2e0-4d58-9919-85e9a9879745" class="text-block-content">
+    <p>You can edit the link text in the <strong>Text</strong> field [1] or link URL in the <strong>Link</strong> field [2].</p>
+<p>To disable users from seeing a file preview, select <strong>Disable Preview</strong> option [3].</p>
+<p>You can choose to display a file preview in a pop-up window or in-line preview when the link is clicked. You can also choose to expand an in-line preview by default. </p>
+<p>To allow users to view a file preview in a pop-up window when the link is clicked, select the <strong>Preview in overlay</strong> option [4]. </p>
+<p>To allow users to view an in-line preview when the link is clicked, click the <strong>Preview inline</strong> option [5]. To expand the in-line preview by default, click the <strong>Expand preview by Default</strong> checkbox [6].   </p>
+<p>To save link options, click the <strong>Done</strong> button [7].</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Inline preview is not supported in the Canvas beta environment.</li>
+<li>Inline preview is not supported in Edit mode.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_changes" data-step-uuid="1dabe2e9-9084-4090-bf47-a510409c7951">
+    <h2 id="save_changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/039/291/original/803b042e-cdb0-409b-97d6-3969ff5de17a.png" srcset="" alt="Save Changes" height="68" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_361872cc-23eb-4449-9a34-98be5b54509b" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>The assignment, discussion, pages, and quizzes details pages display a <strong>Save &amp; Publish</strong> button. </li>
+<li>The Syllabus page displays an <strong>Update Syllabus</strong> button. </li>
+<li>Discussion replies display a <strong>Post Reply</strong> button.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_content" data-step-uuid="974b5822-a96f-4079-9148-0ffa37ab6f96">
+    <h2 id="view_content" class="step-title screensteps-heading">View Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/207/623/original/a6d565eb-e8f6-491c-b275-e6c95d9c9e6c.png" srcset="" alt="View Content" height="235" width="786">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_13099cb0-9c66-48e9-ac5f-f2330101bf14" class="text-block-content">
+    <p>View the content.  </p>
+<p>To preview the file, click the file link [1]. <a href="/t5/Instructor-Guide/How-do-I-create-hyperlinks-to-external-URLs-in-the-Rich-Content/ta-p/872" target="_blank">Links to external URLs</a> display an <strong>Open</strong> icon [2]. </p>
+<p>To download the linked file, click the <strong>Download</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

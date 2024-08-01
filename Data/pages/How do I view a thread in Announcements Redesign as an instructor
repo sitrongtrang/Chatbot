@@ -1,0 +1,161 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7ec34959-e625-4ed4-afa7-0bb3b6f759e7" class="text-block-content">
+    <p>Announcements Redesign supports threaded replies to announcements when replies are enabled. You can view threaded replies in the Thread sidebar. </p>
+<p>When responding to a user in a thread, you can quote a threaded reply. </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_discussions" data-step-uuid="e0ebc565-c3b9-412b-923a-5ed6976375aa">
+    <h2 id="open_discussions" class="step-title screensteps-heading">Open Announcements</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/724/711/original/fe79678e-d4d4-4810-8709-fd8bd1569299.png" srcset="" alt="Open Announcements" height="226" width="165">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e76fdb70-7d95-4dd7-9cf7-816df90b235e" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Announcements</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_discussion" data-step-uuid="30676320-5fdd-4acf-b109-407e99f3144b">
+    <h2 id="open_discussion" class="step-title screensteps-heading">Open Announcement</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/537/169/original/2d518bc5-e7fd-49d5-b265-580adb52f265.png" srcset="" alt="Open Announcement" height="287" width="855">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f7b00391-97e0-4649-bf14-3ad8600e7b03" class="text-block-content">
+    <p>Click the name of the announcement [1].</p>
+<p><strong>Note: </strong>If the announcement has replies, you can view the number of unread replies and the number of replies [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_threaded_discussion" data-step-uuid="97141231-53d7-4044-a1a4-28706b63ac05">
+    <h2 id="view_threaded_discussion" class="step-title screensteps-heading">Open Threaded Replies</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/537/171/original/dbac0b10-5fd5-4a0b-8fa4-dddae6c5bdbf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/537/171/medium/dbac0b10-5fd5-4a0b-8fa4-dddae6c5bdbf.png" srcset="" alt="Open Threaded Replies" height="571" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_33ef87aa-7d67-48c9-bb35-8bfb76c4e7e6" class="text-block-content">
+    <p>If course users have replied to an announcement reply, you can view the reply thread by clicking <strong># of replies</strong> link [1].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-threaded-replies" data-step-uuid="6274f770-bae4-412f-9496-9147cbaceef2">
+    <h2 id="view-threaded-replies" class="step-title screensteps-heading">View Threaded Replies</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/537/173/original/108fdae8-efdb-4686-a23c-a9f6a85d73cc.png" srcset="" alt="View Threaded Replies" height="578" width="839">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3ecdd163-f72c-4990-8c31-0b69742a3385" class="text-block-content">
+    <p>Threaded replies expand and display [1]. View the name of the user who posted the reply as well as the date and time the reply was posted [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage-threaded-reply" data-step-uuid="0a27dad1-c3ce-4f8e-a3ba-310b19261e11">
+    <h2 id="manage-threaded-reply" class="step-title screensteps-heading">Manage Threaded Reply</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/537/175/original/7b1e8388-910a-46f1-87b4-c0c2a9a8187b.png" srcset="" alt="Manage Threaded Reply" height="541" width="827">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_67f1de6f-694c-4997-a7a3-620e4b109d13" class="text-block-content">
+    <p>To manage a threaded reply, click the reply <strong>Options</strong> icon [1]. Then select one of the following menu options:</p>
+<ul>
+<li>
+<strong>Mark as Read </strong>[2]: Mark this reply as read.</li>
+<li>
+<strong>Mark Thread as Read</strong> [3]: Mark the whole thread as read.</li>
+<li>
+<strong>Mark Thread as Unread</strong> [4]: Mark the whole thread as unread.</li>
+<li>
+<strong>Go to Parent</strong> [5]: Select the top reply in the thread.</li>
+<li>
+<strong>Edit</strong> [6]: Edit the reply.</li>
+<li>
+<strong>Quote Reply</strong> [7]: Start a reply by including a copy of the reply.</li>
+<li>
+<strong>Delete</strong> [8]: Delete the reply.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="quote-threaded-reply" data-step-uuid="73e858b8-7aec-4364-a828-2d851d6a3fd8">
+    <h2 id="quote-threaded-reply" class="step-title screensteps-heading">Quote Reply</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/537/177/original/6da7c940-9a5a-4787-9f97-7a850739453b.png" srcset="" alt="Quote Reply" height="541" width="827">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fac81fae-e383-46b0-a448-7211b216c384" class="text-block-content">
+    <p>To create a reply that includes quoted text from another reply, click the reply's <strong>Options</strong> icon [1]. Then click the <strong>Quote Reply</strong> option [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="post-a-message" data-step-uuid="bd99595d-6e3d-495e-a16e-8196b890f16a">
+    <h3 id="post-a-message" class="step-title screensteps-heading">Create Reply</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/537/179/original/b9328e46-d306-42e7-9a73-007cf201f1d7.png" srcset="" alt="Create Reply" height="630" width="804">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d8c438cd-1d17-4293-b561-e462173026bd" class="text-block-content">
+    <p>The <strong>Include quoted reply in message</strong> toggle displays and is enabled by default [2]. To exclude quoted text from your reply, click the toggle off.  </p>
+<p>To enter your reply, links, photos, equations, and/or media, or <a href="/t5/Instructor-Guide/How-do-I-mention-a-user-in-an-announcement-reply-in/ta-p/485661" target="_blank">@mention course users</a>, use the <a href="/t5/Canvas-Basics-Guide/What-is-the-Rich-Content-Editor/ta-p/12" target="_blank">Rich Content Editor</a> [1].</p>
+<p>To post your reply, click the<strong> Reply</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_your_reply_1" data-step-uuid="8b2aae90-a4fa-4ef2-865f-a783493a953f">
+    <h3 id="view_your_reply_1" class="step-title screensteps-heading">View Your Reply</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/537/181/original/db2a9da9-5a2b-4204-9b1d-600602adc17c.png" srcset="" alt="View Your Reply" height="592" width="679">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e6d17b76-bd4e-466d-b3c2-2b7940dbfb02" class="text-block-content">
+    <p>View your reply that includes the quoted reply.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

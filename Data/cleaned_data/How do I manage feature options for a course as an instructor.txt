@@ -1,0 +1,29 @@
+How do I manage feature options for a course as an instructor
+Open Course Settings
+In Course Navigation, click the Settings link.
+Open Feature Options Tab
+Click the Feature Options tab.
+View Feature Options
+In the Feature Options tab, a list of available feature options displays. Features are only available if they are enabled for your institutions account by an admin.
+Each course feature includes a feature description. Click the arrow icon next to the feature to expand the feature box and display the description.
+Filter Feature Options
+To filter by all features, enabled features or disabled features, click the Filter drop-down menu.
+Search Feature Options
+To search for a feature option, type a keyword in the Search field. 
+View Feature Tags
+Feature tags help identify the state of each feature. A feature with no label means the feature is stable and ready for use in your production environment. 
+Features may also include a Feature Preview tag, which means the feature is in active development. You can opt-in to the feature and join the Community user group to help improve the feature through direct feedback. Access to the user group is noted in the description of the feature option.
+View Feature States
+Each feature displays a feature state as set by your admin.
+Enabled features display an Enabled icon.
+Disabled features display a Disabled icon. 
+Notes: 
+Features states that have been locked by an admin will not display in the course Feature Options list. 
+Course features are activated on a course-by-course basis.
+Manage Feature States
+To enable or disable an unlocked feature, click the feature's State icon.
+To enable the feature, click the Enabled option.
+To disable the feature, click the Disabled option.
+Notes:
+Features states that have been locked by an admin will not display in the course Feature Options list.
+Depending on feature functionality, when you enable a feature to On, Canvas may display a warning message asking to confirm your option, as some course features may have unintended consequences if turned Off.

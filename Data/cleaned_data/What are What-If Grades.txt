@@ -1,0 +1,13 @@
+What are What-If Grades
+View Current Grade
+Canvas is always calculating two grades for students: the current grade (based on graded assignments) and the total grade (based on all assignments). 
+When students view their grades, the current grade displays. The current grade is calculated by adding up the graded assignments according to their weight in the course grading scheme. The current grade is calculated with the Calculate based only on graded assignments checkbox selected.
+Note: If an instructor has hidden total grades in Course Settings, students cannot view their current grade or any percentages in assignment groups.
+View Total Grade
+To view the total grade in the course based on all assignments, students can de-select the Calculate based only on graded assignments checkbox.
+The total grade displays. The total grade is calculated by adding up all the assignments according to their weight in the course grading scheme. If a course is using weighted assignment groups, students can also see how each assignment is weighted in the course.
+Note: If an instructor has hidden total grades in Course Settings, students cannot view their total grades or any percentages in assignment groups. However, toggling the calculation checkbox still affects individual assignments, such as if an assignment group contains a drop rule. 
+Enter What-If Grades
+The What-If tool allows students to calculate their total grade by entering hypothetical grades for any assignment. To test a different score for an assignment, students can click an assignment grade and enter a score in the score column. 
+View Updated Total
+Students can view the hypothetical What-If score and the newly calculated total.

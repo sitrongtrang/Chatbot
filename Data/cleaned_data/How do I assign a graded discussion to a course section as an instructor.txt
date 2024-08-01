@@ -1,0 +1,46 @@
+How do I assign a graded discussion to a course section as an instructor
+Open Discussions
+In Course Navigation, click the Discussions link.
+Add Discussion
+Click the Add Discussion button.
+Enter Discussion Details
+Enter a topic title and discussion details. 
+Select Posting Preference
+Select the All Sections option in the Post to drop-down. This option allows you to set the discussion as a graded discussion and assign the discussion to course sections in the Assign To section. 
+Set Graded Discussion
+Click the Graded checkbox.
+Enter Grading Details
+Enter the number of points possible. Select the Grading Type and Assignment Group, and assign Peer Reviews, if any. 
+Assign to Section
+By default, Canvas will set your assignment for everyone in your course. To create the assignment for a specific section, click the Everyone remove icon, then start to type in the name of a section. When the section name appears, click the name. Lists are not scrollable. 
+You can include more than one section in the To field as long as the section is to be assigned the same due and availability dates.
+Edit Due and Availability Dates
+In the date fields, add your preferred date(s) with the following options:
+Due: Set the date and time that the Assignment is due. The due date will already be populated for you if you created an assignment shell, but you can change it if necessary. 
+Available From: Set the date and time when the Assignment will become available.
+Until: Set the date and time when the Assignment will no longer be available.
+Note: Beneath the Due Date and Availability date fields, Canvas will display the time zone date and time according to context. If you manage courses in a time zone other than your local time zone and create or edit a due date for an assignment, the course and local times are displayed for reference.
+Add Additional Dates
+To add another section with a different due date and availability dates, click the Add button. 
+Remove Dates
+You can also delete additional dates by clicking the remove icon next to the appropriate date.
+Save and Publish
+If you are ready to publish your assignment, click the Save & Publish button. If you want to create a draft of your assignment and publish it later, click the Save button.
+View Due Date Warning
+If you do not add course sections to the assignment, you will see a warning message asking you if you want to add those sections. 
+You can click the Continue button if you don't want to add any sections to the assignment, or click the Go Back button to go back and add additional sections. 
+Note: This warning message will not appear if Everyone or all course sections are assigned to the assignment.
+View Date Error
+If you submit an invalid string of due dates and try to save the assignment, Canvas generates an error notification. Such invalid entries include not unlocking the assignment before it is due, not placing the due date inside the range of availability dates, or assigning a date that is outside the course or term dates. 
+Correct the date and then update the assignment again. 
+Notes: 
+If the course does not include specified course start and end dates, Canvas validates the graded discussion against the term date set for the course.
+If your course is using Multiple Grading Periods, the Assign field validates the due date against the closed grading period and requires the discussion due date to be past the date of the closed grading period.
+View Graded Discussion Dates
+To view users and due dates for the discussion, click the Show Due Dates link.
+View the dates assigned to the graded discussion.
+View Dates in Discussions Redesign
+To view due dates and availability dates for a discussion in Discussions Redesign, click the Show Due Dates link.
+View the dates assigned to the graded discussion.
+View Assignments Page
+On the Assignments Page, the graded discussion shows there are multiple users and dates assigned to the discussion. Hover over the text to view date availability. 

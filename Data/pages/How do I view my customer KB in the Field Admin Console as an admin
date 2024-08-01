@@ -1,0 +1,135 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_ce525882-6cc8-4c4b-a4f6-e6dd898f4ef4" class="text-block-content">
+    <p>As a field admin, you can view and edit your customer knowledge base (KB) from the Field Admin Console. Customer KBs allow you to share institution-specific details that help agents assist users with support cases.</p>
+<p><strong>Note: </strong>Field Admin Console features may vary based on account and user settings. Based on the permissions for your role, you may not be able to view or use the features described in this lesson.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-customer-kbs" data-step-uuid="923eb611-85a6-4588-8cf6-0481d7773cc2">
+    <h2 id="open-customer-kbs" class="step-title screensteps-heading">Open Customer KBs</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/628/430/original/fc84161b-573a-4ddc-8c90-d26d3574ff87.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/628/430/medium/fc84161b-573a-4ddc-8c90-d26d3574ff87.png" srcset="" alt="Open Customer KBs" height="277" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4b6532a4-8aac-4728-beb5-4ffaef39ffc6" class="text-block-content">
+    <p>From the Field Admin Console home page, click the <strong>Customer KB</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="b0e0d9bb-1c0a-4cb7-bbfd-7b79e821098c">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account KB</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/628/433/original/acad27a8-bae7-49e7-9267-52f0ece92eb5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/628/433/medium/acad27a8-bae7-49e7-9267-52f0ece92eb5.png" srcset="" alt="Open Account" height="278" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f6837ac5-4ef2-4daf-85f5-b3857f57ec78" class="text-block-content">
+    <p>Click the name of the account that includes the KBs you want to view [1].</p>
+<p>To filter the accounts that display on the page, click the <strong>Filter</strong> icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-kb-entries" data-step-uuid="db917693-1376-463e-b5cc-2c4b0d500ba1">
+    <h2 id="view-kb-entries" class="step-title screensteps-heading">View KB Entries</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/144/313/original/cad3f3fc-4ca9-40c9-9227-838db12a8119.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/144/313/medium/cad3f3fc-4ca9-40c9-9227-838db12a8119.png" srcset="" alt="View KB Entries" height="286" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_63f90156-d018-412c-9546-af1d70fce822" class="text-block-content">
+    <p>To view details for an entry, click the name of the entry.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-entry-details" data-step-uuid="e81936f2-7470-46b5-82e2-7a1acae821b8">
+    <h2 id="view-entry-details" class="step-title screensteps-heading">View Entry Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/187/766/original/4d0a4857-b70e-4e7e-8c78-7431c5901075.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/187/766/medium/4d0a4857-b70e-4e7e-8c78-7431c5901075.png" srcset="" alt="View Entry Details" height="535" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_077f340a-68b1-4841-949e-9e94732587d9" class="text-block-content">
+    <p>Each KB entry contains the following details:</p>
+<ul>
+<li>Entry name [1]</li>
+<li>Affected roles [2]</li>
+<li>Default case handling [3]: provides additional details, text, and keywords that support agents can use when handling a case related to the entry</li>
+<li>Update request [4]: includes any details that should be added to the entry. When these updates are addressed, click the <strong>Details Updated</strong> checkbox [5].</li>
+<li>User who created the entry [6]</li>
+<li>User who last modified the entry [7]</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit-entry" data-step-uuid="892e3839-df8b-415d-b77d-8c541bf4a5ec">
+    <h2 id="edit-entry" class="step-title screensteps-heading">Edit Entry</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/187/769/original/a90f0613-dc82-41b9-a12d-c7366e2ea560.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/187/769/medium/a90f0613-dc82-41b9-a12d-c7366e2ea560.png" srcset="" alt="Edit Entry" height="215" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_78baf002-b4e5-4368-b57e-fe78572130e1" class="text-block-content">
+    <p>To edit an entry field, click the <strong>Edit</strong> icon [1]. </p>
+<p>To edit an entire KB entry, click the <strong>Edit</strong> button [2]. To delete a KB entry, click the <strong>Delete</strong> button [3]. To clone a KB entry, click the <strong>Clone</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-kb-details" data-step-uuid="b869a2ae-d2f1-4fdb-bb6d-92391ef6f544">
+    <h2 id="view-kb-details" class="step-title screensteps-heading">View KB Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/187/772/original/b246f83c-0652-4346-b24a-ba636477caf1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/187/772/medium/b246f83c-0652-4346-b24a-ba636477caf1.png" srcset="" alt="View KB Details" height="861" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4de4f1a5-2d00-4467-bd2f-0c558a9d152c" class="text-block-content">
+    <p>To view the details for your customer KB, click the Details tab [1]. Details include alerts [2], contact information [3], prime directives [4], account terminology [5], case routing [6], and account information [7].</p>
+<p>To edit the KB details, click the <strong>Edit</strong> icon [8].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

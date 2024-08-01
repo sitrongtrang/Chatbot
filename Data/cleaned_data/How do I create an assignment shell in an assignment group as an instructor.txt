@@ -1,0 +1,15 @@
+How do I create an assignment shell in an assignment group as an instructor
+Open Assignments 
+In Course Navigation, click the Assignments link.
+Add Assignment
+In an assignment group header, click the Add icon.
+Enter Assignment Details
+Set the Assignment type by selecting the type drop-down menu, enter the Assignment title in the Name field, click the Calendar icon to select a due date or manually enter a due date, and enter the number of points for the assignment in the points field. 
+If your institution has enabled a student information system (SIS) integration, you can enable the assignment to sync to the SIS by selecting the Sync to SIS checkbox.
+Save Assignment
+To edit the assignment details, click the More Options button. 
+If you want to save your assignment shell and edit the details later, click the Save button.
+View Due Date Error
+Due dates are verified against course data. If you have set a due date that is not allowed, Canvas displays information about the error.
+Correct the date and then save the assignment again. 
+Note: If the error relates to a course end date, and the course does not include specified course start and end dates, Canvas validates the assignment against the term date for the course.

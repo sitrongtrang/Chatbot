@@ -1,0 +1,35 @@
+How do I view my favorite courses in the Card View Dashboard as a student
+View Course Cards
+By default, active course cards are automatically added by Canvas and display up to 20 courses. 
+Dashboard courses are ordered alphabetically by course name and your role in the course; nicknames and course codes do not apply to course ordering. Courses with instructor roles are listed first, followed by TA roles and student roles. 
+Note: If you want to remove the default course card setting, you can customize the course list and manually select your favorite courses to display in the Dashboard. When you favorite at least one course, the Dashboard will only display favorited courses. Canvas will also continue to automatically favorite new published course enrollments.
+View Card Details
+Course cards show an overview of course information including the course name, course code, and term.
+Each card can include up to four tabs, which represent the four main Canvas features for student course activity: Assignments, Announcements, Discussions, and Files. These tabs mimic visibility and order in Course Navigation, so for instance, if an instructor hides the Announcements link, the Announcements tab will not display on the course card.
+An unread icon on the Discussions or Announcements tab indicates that there is a new discussion or announcement in the course. The number in the icon indicates the number of new items.
+Create Nickname
+If one of your courses includes a long or confusing name, you can create a nickname for your course. Most courses are created using Student Information Systems (SIS) that generate course names based on terms, departments, and section numbers, and courses with similar names may be hard to distinguish.
+Course nicknames appear in the Dashboard, Course Navigation Menu, course breadcrumbs, and notification emails.
+A course nickname does not affect the course name at the account or course level; it only changes the name of the course for the individual user who created the nickname.
+If you need to know the original name of the course, you can hover over the nickname and the original name will appear. Additionally, the course code is not affected and always displays on the course card for course reference.
+Notes:
+This feature does not currently apply to the global Grades page and Dashboard sidebar elements such as the To Do list.
+Course nicknames are limited to 59 characters.
+Manage Nickname
+To add a nickname, click the Options icon, then type the name in the nickname field. Click the Apply button.
+To remove a nickname, open the card options and remove the nickname. The Nickname field will display the original name of the course.
+Change Course Color
+Course cards can help you organize your courses by customizing the color, which is synced with the color shown for the course in the Calendar. To change the color, click the card's Options icon, then select a new color. The check mark indicates the selected color, and the hex color code displays in the text field. If you want to use a color not shown in the window, you can enter the color's hex code directly in the text field. The hex field will display a warning icon if the hex code is not valid. Additionally, any variation of white is not accepted as a course color.
+Click the Apply button.
+Note: If you change the color for a course in the Calendar, the color also updates in the Dashboard.
+Move Course Cards
+You can also move a course card to another location in the Dashboard or remove a card from the Dashboard. Click the Options icon and select the Move tab. Depending on the placement of the existing card, you can move the card to the top of the Dashboard, ahead or behind a specific card, or to the bottom of the Dashboard. 
+Once a dashboard card has been reordered, new courses added to the Dashboard always display at the end of all existing courses.
+To remove the course card from the Dashboard, click the Unfavorite option.
+Note: The Unfavorite option only displays if you previously selected favorite courses.
+Drag and Drop Course Cards
+You can also manually drag and drop a course card to another location in the Dashboard. Click a course card and drag it to the desired location. 
+View Color Overlay
+Some courses may include an image for the course behind the course color. By default, course cards with an image include a color overlay. To remove the color overlay from all course cards that contain an image, click the Options icon and then deselect the Color Overlay option.
+Remove Color Overlay
+When the Color Overlay is removed, the course color will display as a circle behind the card's Options icon. 

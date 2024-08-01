@@ -1,0 +1,122 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A152ADB0-1CB4-0135-6064-22000B5A851D" class="text-block-content">
+    <p>You can manually add courses in your account in the Courses page. Watch a <a href="https://community.canvaslms.com/t5/Video-Guide/Courses-Admins/ta-p/383903" target="_blank">video about courses</a>.</p>
+<p>If a course template has been selected in your account, content from the selected course will be copied into your new course. Course copies may not include all content. For more details, please view <a href="https://community.canvaslms.com/docs/DOC-10713" target="_blank">the course import lesson</a>. Creating a course from a course template does not impact file quotas.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Courses added manually in Canvas are not linked back to SIS data and are not affected by SIS imports.  </li>
+<li>To link a manually created course with an SIS ID, <a href="/t5/Admin-Guide/How-do-I-change-the-start-and-end-dates-for-a-course-section-as/ta-p/210" target="_blank">edit the details for a course section</a>.</li>
+<li>Courses can also be added through SIS Imports. Courses added manually in Canvas are not linked back to any SIS data (though they could be by associating an SIS ID) and are not affected by SIS imports.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="3F4EC250-44A7-40F0-9CB1-FC760019E788">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A15383F0-1CB4-0135-6066-22000B5A851D" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-courses" data-step-uuid="d1723f06-1388-4d4e-866d-6ae7b00a2fe5">
+    <h2 id="open-courses" class="step-title screensteps-heading">Open Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/828/original/c4225859-f3ce-47d3-b7a6-034a0fe54267.png" srcset="" alt="Open Courses" height="306" width="166">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a4c2558a-6c3e-4c28-80bd-1221928acc5b" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Courses</strong> link. </p>
+<p><strong>Note:</strong> When you open an account, the account defaults to the Courses page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_new_course" data-step-uuid="250BE8BD-48BA-455C-8819-5F71846CE43A">
+    <h2 id="add_new_course" class="step-title screensteps-heading">Add Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/994/590/original/80bdb2a7-59f6-4945-9b0b-cd5941b6f38d.png" srcset="" alt="Add Course" height="68" width="141">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A154DA40-1CB4-0135-6068-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Course</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_new_course_details" data-step-uuid="2D5CFF40-4BF9-44FE-87BF-7D4C190DC0C0">
+    <h2 id="add_new_course_details" class="step-title screensteps-heading">Add Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/072/889/original/c2da4f1f-a002-47bf-8719-bfcebc681f52.png" srcset="" alt="Add Course Details" height="512" width="516">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A155CD00-1CB4-0135-606A-22000B5A851D" class="text-block-content">
+    <p>In the <strong>Course Name</strong> field [1], create a name for the course.</p>
+<p>In the <strong>Reference Code </strong>field [2], create a reference code for the course. The reference code is also known as the short name or course code and is displayed at the top of the Course Navigation Menu and as part of a student's course card in the dashboard. The code is also referenced in the account Courses page.</p>
+<p>In the <strong>Subaccount</strong> menu [3], select a sub-account for the course. You can type the name of a sub-account to search sub-accounts or select a sub-account from the drop-down menu. Menu options are based on the sub-accounts already created in your account. </p>
+<p>In the <strong>Enrollment Term</strong> menu [4], select the term you want to associate with the course. You can type the name of a term to search terms or select a term from the drop-down menu. Menu options are based on the terms already created in your account. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_course" data-step-uuid="b02e612b-3e22-4296-9639-22a2fe4e5a22">
+    <h2 id="add_course" class="step-title screensteps-heading">Add Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/994/594/original/24a3119b-5c05-4fed-a95c-c34ed2c29772.png" srcset="" alt="Add Course" height="68" width="220">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A156CBC0-1CB4-0135-606C-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Add Course</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-new-course" data-step-uuid="b7f50383-a508-4291-b6aa-725ad0edbd6e">
+    <h2 id="open-new-course" class="step-title screensteps-heading">Open New Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/006/994/597/original/f6067ff1-bebe-47b5-ac6f-ececa942c3c0.png" srcset="" alt="Open New Course" height="73" width="826">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6a5b6d76-0146-4fb1-929e-4a759d0958b0" class="text-block-content">
+    <p>View the success message. To open the course, click the <strong>Go to the new course</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

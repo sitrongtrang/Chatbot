@@ -1,0 +1,86 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_dc12da26-ee4f-49dd-8481-f61dd60409a5" class="text-block-content">
+    <p>You can duplicate a New Quizzes quiz in your course. When a quiz is duplicated, the word Copy is added to the end of the quiz name.</p>
+<p>Duplicating a quiz defaults the copied quiz to an unpublished status. All items in the quiz are duplicated including the name, description, instructions, questions and answers, point values, and quiz settings, except for the following situations:</p>
+<ul>
+<li>Copied quizzes are always assigned to everyone in the course; differentiated quizzes are not retained for individual users, groups, or sections.</li>
+<li>If a differentiated quiz includes an Everyone Else date, the copied quiz retains the Everyone Else due date, if any.</li>
+<li>If a differentiated quiz does not include an Everyone Else date, the copied quiz does not include a due date.</li>
+</ul>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Quizzes created using Classic Quizzes cannot be duplicated.</li>
+<li>Except for New Quizzes quizzes, assignments configured as an external tool submission type cannot be duplicated.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-quizzes" data-step-uuid="4a858a75-a2ad-49b5-938a-9ab30d225126">
+    <h2 id="open-quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/514/748/original/80d9e539-da0a-4eae-a877-ffe4162c72a2.png" srcset="" alt="Open Quizzes" height="459" width="194">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45050c0e-508c-4df8-a718-44578defec51" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+<p><strong>Note:</strong> You can also access quizzes from the Assignments page. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="duplicate-assessment" data-step-uuid="5d453d38-5f26-4a3a-be0c-1c975860fd1e">
+    <h2 id="duplicate-assessment" class="step-title screensteps-heading">Duplicate Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/147/864/original/d2f1ea55-6459-486e-9be3-61ea21c392d1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/147/864/medium/d2f1ea55-6459-486e-9be3-61ea21c392d1.png" srcset="" alt="Duplicate Quiz" height="279" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41ae26cb-8a87-43bc-9383-e89a58513db8" class="text-block-content">
+    <p>Locate the New Quizzes quiz you want to duplicate and click the <strong>Options</strong> icon [1]. Click the <strong>Duplicate</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-duplicate" data-step-uuid="4a5c2dbc-5a0d-4ac0-8b42-19b5c8506603">
+    <h2 id="view-duplicate" class="step-title screensteps-heading">View Duplicate</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/529/262/original/c0ba6658-c9d5-4c46-ad39-3ad61c87289f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/529/262/medium/c0ba6658-c9d5-4c46-ad39-3ad61c87289f.png" srcset="" alt="View Duplicate" height="141" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9fdc3d3b-8483-4533-9ca9-3bc3002314d1" class="text-block-content">
+    <p>View the quiz duplicate in your course.</p>
+<p><strong>Note:</strong> If applicable to your course, the Quizzes page displays any Blueprint Course or Sync to SIS icons after the page is refreshed.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

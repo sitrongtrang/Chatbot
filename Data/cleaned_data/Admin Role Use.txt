@@ -1,0 +1,37 @@
+Admin Role Use
+Admin Role Use
+The main uses of the Admin role are to allow a user to create and moderate terms, upload and manage SIS data, manage account- and course-level features, and manage course-level user roles and permissions. Depending upon the institution, Admins may also access and manage Canvas courses with permissions similar to those of the Teacher role.
+Administrators may be added to an account or to a subaccount with specific account-level permissions configured to best fit their roles. For example, an academic advisor may be added to a Canvas subaccount with access to view SIS, account, and course data and with restricted access to courses and course content. 
+In general, Admin permissions and account configurations reflect an institution’s structure. Administrative user roles and permissions may be configured to meet the needs of an institution’s administrative needs. A user can only be added as an Admin to an account by another administrator. 
+Admin Access in Canvas
+An institution may modify admin permissions based on user roles. To learn more about Admin participation in Canvas, view the Canvas Administrator Guide. 
+Admins can:
+Act as users
+Add and remove other other administrators for the account
+Add and remove course designers, observers, students, teachers, and teacher assistants to courses
+Add, edit, and delete events on the course calendar
+Create and manage course templates
+Create student collaborations and web conferences
+Generate observer pairing codes for students
+Import, manage, and read SIS data
+Manage account-level settings and features, developer keys, external applications (LTIs) permissions, storage quotas, and webhooks
+Manage courses (including Blueprint courses), course sections, global announcements, and student groups
+Manage learning outcomes and rubrics and view and link to question banks
+Modify login details for users
+Send messages to individual course members and to all members in a course
+View account- and course-level statistics, account and course analytics pages, and usage reports for courses
+View and comment on student submissions and moderate and post to discussions
+View and manage alerts, assignments, notifications, quizzes, and all other course content
+View course and grade change logs
+View the list of courses, change course states, and undelete courses
+View the answer matrix in Quiz Submission Logs
+View the list of users in a course and view the group pages of all student groups
+View, moderate, and edit grades
+The following permissions never apply to subaccounts:
+Act as users
+Manage Blueprint courses
+Manage developer keys and SIS data
+Access View Notification tab in Admin Tools
+Admin Role Limitations
+Some account-level permissions are locked by default and cannot be changed by anyone. Other permissions may be locked by administrators within an institution.
+Administrators who are given any course level role such as student or teacher in a course may still be able to view admin features and options. To avoid permission conflicts, admins should create a separate account.

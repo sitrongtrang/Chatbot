@@ -1,0 +1,184 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_D70020B0-2229-0135-75EB-22000BC102FE" class="text-block-content">
+    <p>You can create a quiz question that requires a numerical answer, such as questions for a math course. </p>
+<p><strong>Note</strong>: If you need help adding a mathematical formula in the Rich Content Editor, please see the <a href="/t5/Instructor-Guide/How-do-I-use-the-math-Equation-Editor-in-the-Rich-Content-Editor/ta-p/816" target="_blank">Math Equation Editor lesson</a>.  </p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="1782A2A8-DD28-45E2-A815-0B380D5CD8C6">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/414/original/7c74928b-6d95-4470-aee6-dc3a945c1507.png" srcset="" alt="Add Question" height="246" width="698">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D70052E0-2229-0135-75ED-22000BC102FE" class="text-block-content">
+    <p>With the <strong>Questions</strong> tab [1] selected inside a new quiz, click the <strong>New Question </strong>button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_name_type_and_points" data-step-uuid="59f9075c-23d3-4940-910f-dc51b7e38038">
+    <h2 id="set_name_type_and_points" class="step-title screensteps-heading">Set Name, Type, and Points</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/396/original/91f5a74e-d628-445c-92b4-bff76349a11a.png" srcset="" alt="Set Name, Type, and Points" height="64" width="619">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D7009730-2229-0135-75EF-22000BC102FE" class="text-block-content">
+    <p>Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field [1]. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).</p>
+<p>Click the drop-down menu and select the Numerical Answer question type [2].</p>
+<p>Enter number of points the question is worth (quiz totals are calculated based on combined total of questions) [3].</p>
+<p><strong>Note:</strong> Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_question_details" data-step-uuid="140C5F56-7DF3-4E9E-8FBD-135DB36EF345">
+    <h2 id="enter_question_details" class="step-title screensteps-heading">Enter Question Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/049/315/original/d164b060-81a5-453b-94f2-fe7d2479834e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/049/315/medium/d164b060-81a5-453b-94f2-fe7d2479834e.png" srcset="" alt="Enter Question Details" height="456" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D700CE00-2229-0135-75F1-22000BC102FE" class="text-block-content">
+    <p>Type your question into the Rich Content Editor. You can also use the Rich Content Editor to include video, images, math equations, or flash activities. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_numerical_answers" data-step-uuid="8e15ad98-6546-4eeb-be57-aedbb6e9bd46">
+    <h2 id="enter_numerical_answers" class="step-title screensteps-heading">Enter Numerical Answers</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/133/602/original/73f2b353-40d1-45bc-b297-a14fb578fbd9.png" srcset="" alt="Enter Numerical Answers" height="404" width="769">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D7010E50-2229-0135-75F3-22000BC102FE" class="text-block-content">
+    <p>In the answer drop-down menu, select one of three answer formats:</p>
+<p><strong>Exact answer</strong> [1]: Enter the exact answer with the exact error margin allowed. For example, if the answer were 2.12 with a 0.01 margin of error, the quiz accepts any response between 2.11 and 2.13 (inclusively). By default, the margin is 0.</p>
+<p><strong>Answer in the Range</strong> [2]: Enter the range of answers that can be accepted as correct, such as answers between 8 and 10.</p>
+<p><strong>Answer with Precision</strong> [3]: Enter the answer with the precision number. The precision number is how many digits are expected in the answer. Precision answers can be negative numbers and may include trailing zeroes. However, student responses will be marked as correct if they omit the trailing zeroes, as long as all preceding digits are correct.</p>
+<p>By default, the precision number is 10, but answers can be rounded to a precision of up to 16 in standard or exponential format (e.g. 1e+26). Answers are accepted with or without the <em><strong>e</strong></em> exponent and are formatted according to the configured precision. Any numerical entries past 16 are truncated for grading and comparison. If any of the potential answers to a numerical question are a precision answer, then the student answer fields will accept precision answers.</p>
+<p>If none of the possible answers are precision answers, the student answer fields round to four decimal places.</p>
+<p>To delete an answer, click the <strong>Delete </strong>icon [4]. To add another answer, click the <strong>Add Another Answer </strong>link [5].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_feedback_text" data-step-uuid="75841ce0-509c-4351-995f-89a59a8b9a56">
+    <h2 id="enter_feedback_text" class="step-title screensteps-heading">Enter Feedback Text</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/490/981/original/e0f78564-4983-4405-b3c7-792f5d355efc.png" srcset="" alt="Enter Feedback Text" height="428" width="733">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D7013DC0-2229-0135-75F5-22000BC102FE" class="text-block-content">
+    <p>You can choose to give students feedback in the answer comments fields. To leave feedback for a specific answer, click the comment field beneath the answer [1]. </p>
+<p>You can also create general answer comments for the quiz question as a whole [2]. Students who select the correct answer will see the feedback in the green comment field. Students who select any incorrect answer will see the feedback in the red comment field. All students will see the feedback in the blue comment field.</p>
+<p><strong>Note:</strong> Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.   </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="68e0a5d6-61c9-4a82-8348-68892f18af7e">
+    
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/049/317/original/63e425af-821f-42de-a255-3466f1dcbed1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/049/317/medium/63e425af-821f-42de-a255-3466f1dcbed1.png" srcset="" alt="Add Feedback Text" height="1003" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D7016CC0-2229-0135-75F7-22000BC102FE" class="text-block-content">
+    <p>Each text box can be expanded in size by clicking and dragging the handle at the bottom-right of the text box.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_question" data-step-uuid="54C536DA-659C-4A83-9042-3226D9609457">
+    <h2 id="update_question" class="step-title screensteps-heading">Update Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/402/original/ab9f86bd-72be-407d-9011-98f943c0e93e.png" srcset="" alt="Update Question" height="52" width="214">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D7019DB0-2229-0135-75F9-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Update Question </strong>button.</p>
+<p>Add additional <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">individual questions</a> as needed. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_numerical_answer_question" data-step-uuid="8C7B9341-15EA-459C-9B5C-34D5702450DD">
+    <h2 id="student_view_for_numerical_answer_question" class="step-title screensteps-heading">Student View for Numerical Answer Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/406/original/535a6dfc-5387-4c1a-a17b-d079cc671f0e.png" srcset="" alt="Student View for Numerical Answer Question" height="226" width="804">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D701CE00-2229-0135-75FB-22000BC102FE" class="text-block-content">
+    <p>This is what students see when they encounter a Numerical Answer question in a quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_numerical_answer_correct_answer" data-step-uuid="A5B7419F-29B1-45DB-B16B-10B87847D633">
+    <h2 id="student_view_for_numerical_answer_correct_answer" class="step-title screensteps-heading">Student View for Numerical Answer Correct Answer</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/408/original/724c147b-a24e-416a-94e1-e3ac79ed6abd.png" srcset="" alt="Student View for Numerical Answer Correct Answer" height="289" width="822">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D7020980-2229-0135-75FD-22000BC102FE" class="text-block-content">
+    <p>If you allow students to see the correct answers, they will see correct responses in gray [1]. If the answer was correct, the student will see a green flag [2] indicating the answer was correct.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view_for_numerical_answer_incorrect_answer" data-step-uuid="E189A39C-B4C8-4951-9411-3847D0C85F95">
+    <h2 id="student_view_for_numerical_answer_incorrect_answer" class="step-title screensteps-heading">Student View for Numerical Answer Incorrect Answer</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/764/404/original/cf14cdf6-76ca-4519-88ed-d8d222a0cbc7.png" srcset="" alt="Student View for Numerical Answer Incorrect Answer" height="295" width="821">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D70243F0-2229-0135-75FF-22000BC102FE" class="text-block-content">
+    <p>If you allow students to see the correct answers, they will see correct responses and allowable margin error [1]. If the answer was incorrect, the student will see a red flag indicating the answer was incorrect [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

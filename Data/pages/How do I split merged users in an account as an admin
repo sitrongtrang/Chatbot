@@ -1,0 +1,134 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7afbf1b9-a169-4e66-81f3-1f252ca68658" class="text-block-content">
+    <p>If user accounts have been merged previously, you can split them using the Split Merged Users option on the account-level Users page.</p>
+<p>You can split previously merged users within 180 days of the user merge. However, merged users cannot be fully restored to their previous state. If the Split Merged Users option does not display, the 180-day limit has expired and the user can no longer be split from the previous merge. Users can also be split using the <a href="https://canvas.instructure.com/doc/api/users.html#method.users.split" target="_blank" rel="nofollow noopener noreferrer">Canvas Users API</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="26d24785-070e-4b51-9f40-e0b2aff8178c">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a9ba228b-cadc-4502-a352-d1c1148cff31" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-people" data-step-uuid="2ba9ae55-4a2f-465c-a743-b8edcab30d92">
+    <h2 id="open-people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/947/062/original/e3e1c78f-968d-4c80-9b50-ccf49c5f5411.png" srcset="" alt="Open People" height="298" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d9e0faff-60ed-4bfb-833e-10dfbc10969e" class="text-block-content">
+    <p>In Account Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find-user" data-step-uuid="9bfeb303-fa0a-4eb7-9f2c-8a37cf47edf8">
+    <h2 id="find-user" class="step-title screensteps-heading">Find User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/076/220/original/find-user.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png" srcset="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png 2.0x, https://media.screensteps.com/image_assets/assets/008/076/220/medium_lowres/find-user.png" alt="Find User" height="103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e1dd92ba-968d-42d4-8048-14571b7d9ecd" class="text-block-content">
+    <p>Use the filter and search options to find the user in the account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-user-profile" data-step-uuid="02b6894c-495e-4bf8-920a-c2a648df91b8">
+    <h2 id="open-user-profile" class="step-title screensteps-heading">Open User Profile</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/961/121/original/ff79e070-65d8-48f8-a402-bc4a48eec684.png" srcset="" alt="Open User Profile" height="290" width="575">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1d643fde-47d1-4ad3-8de1-15842173909c" class="text-block-content">
+    <p>In the search results, click the user's name.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="merge_user" data-step-uuid="02b78a2e-488b-4dcd-852b-ca582726c644">
+    <h2 id="merge_user" class="step-title screensteps-heading">Split Merged Users</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/013/596/original/79d08cd8-d72e-4729-b932-a207542c2cdb.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/013/596/medium/79d08cd8-d72e-4729-b932-a207542c2cdb.png" srcset="" alt="Split Merged Users " height="303" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b2028069-f7af-4517-a897-79cdbd3811ad" class="text-block-content">
+    <p>Click the <strong>Split Merged Users</strong> link.</p>
+<p><strong>Note:</strong> If the Split Merged Users option does not displayed, the 180-day limit has expired and the user can no longer be split from the previous merge.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="merge_user_accounts" data-step-uuid="c175ed0a-db68-427f-8f34-c51bfe4831af">
+    <h2 id="merge_user_accounts" class="step-title screensteps-heading">Split Merged User Accounts</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/947/070/original/9ff8b10b-1c48-4659-8a58-14f5cd6b3f34.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/947/070/medium/9ff8b10b-1c48-4659-8a58-14f5cd6b3f34.png" srcset="" alt="Split Merged User Accounts " height="232" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_969de15c-1388-4627-9af2-59a09270b19e" class="text-block-content">
+    <p>Click the <strong>Split</strong> button.</p>
+<p><strong>Note:</strong> You can split previously merged users within 180 days of the user merge. However, merged users cannot be fully restored to their previous state.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-confirmation" data-step-uuid="f8cc7afa-007a-4ea1-889b-5ea897df2e2f">
+    <h2 id="view-confirmation" class="step-title screensteps-heading">View Confirmation</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/947/072/original/9fb1546a-d227-444c-8c70-9c1029cc93c4.png" srcset="" alt="View Confirmation " height="238" width="440">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_28e7ebb0-a17f-4fb1-89f9-927e123c1fcb" class="text-block-content">
+    <p>To view the split user accounts, click the user's name [1]. To return to the user's profile, click the <strong>OK</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,115 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_EC386350-CC1D-0137-00EB-0E63FF21C970" class="text-block-content">
+    <p>The Rich Content Editor includes an accessibility tool that detects common accessibility errors within the editor. You can use the Accessibility Checker to design course content while considering accessibility attributes. This tool only verifies content created within the Rich Content Editor. You may use other accessibility tools to verify additional content in Canvas.</p>
+<p>All accessibility components retain the parameters set by your institution's Theme Editor template. The Accessibility Checker verifies the following accessibility rules:</p>
+<ul>
+<li>Adjacent links: Adjacent links with the same URL should be a single link. This rule verifies link errors where the link text may include spaces and break the link into multiple links.</li>
+<li>Heading paragraphs: Headings should not contain more than 120 characters.</li>
+<li>Image alt text: Images should include an alt attribute describing the image content.</li>
+<li>Image alt filename: Image filenames should not be used as the alt attribute describing the image content. Currently, files uploaded directly to Canvas create a redirect that does not properly verify image filenames.</li>
+<li>Image alt length: Alt attribute text is recommended to contain fewer than 120 characters.</li>
+<li>Large text contrast: Text larger than 18pt (or bold 14pt) should display a minimum contrast ratio of 3:1.</li>
+<li>Lists: Lists should be formatted as lists.</li>
+<li>Sequential headings: Heading levels should not be skipped (e.g. H2 to H4). However, the tool does not check if the first header starts with H2 or whether the headings are sequential with the rest of the content in the page. Tables do not begin with H1, which is designated for the page title.</li>
+<li>Small text contrast: Text smaller than 18pt (or bold 14pt) should display a minimum contrast ratio of 4.5:1.</li>
+<li>Table captions: Tables should include a caption describing the contents of the table.</li>
+<li>Table header scope: Table headers should specify scope and the appropriate structure.</li>
+<li>Table header: Tables should include at least one header.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-accessibility-checker-notifications" data-step-uuid="2263d500-ee13-43d8-9f33-4afba7f48261">
+    <h2 id="view-accessibility-checker-notifications" class="step-title screensteps-heading">View Accessibility Checker Notifications</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/011/939/original/9ad27e65-1ba0-474d-b2b3-3fe7a7507e29.png" srcset="" alt="View Accessibility Checker Notifications" height="517" width="836">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_26ac7c7a-4a25-4cdb-90ad-ddc33e476956" class="text-block-content">
+    <p>If any accessibility issues are detected within the Rich Content Editor, the Accessibility Checker display an indicator [1].</p>
+<p>To view accessibility issues, click the <strong>Accessibility Checker</strong> icon [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-accessibility-checker" data-step-uuid="EC38E820-CC1D-0137-00F2-0E63FF21C970">
+    <h2 id="view-accessibility-checker" class="step-title screensteps-heading">View Issues</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/852/316/original/1da5b787-6994-4b61-a490-d70ee6f91ba6.png" srcset="" alt="View Issues" height="459" width="804">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC390CA0-CC1D-0137-00F4-0E63FF21C970" class="text-block-content">
+    <p>When an issue is detected, the Rich Content Editor highlights the affected area [1]. The sidebar displays the accessibility attribute [2] and an explanation of the error [3]. To learn more about the accessibility attribute, click the <strong>Information</strong> icon [4].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-additional-issues" data-step-uuid="EC391F80-CC1D-0137-00F5-0E63FF21C970">
+    <h3 id="view-additional-issues" class="step-title screensteps-heading">View Additional Issues</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/793/085/original/7491ca98-0977-440c-aaed-9b44ccc75064.png" srcset="" alt="View Additional Issues" height="444" width="329">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC394360-CC1D-0137-00F7-0E63FF21C970" class="text-block-content">
+    <p>If the Rich Content Editor contains more than one issue [1], you can view all issues by clicking the <strong>Previous </strong>or <strong>Next </strong>buttons [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="apply-fix" data-step-uuid="EC3956A0-CC1D-0137-00F8-0E63FF21C970">
+    <h2 id="apply-fix" class="step-title screensteps-heading">Apply Fix</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/870/224/original/5c387cfc-b9b9-437b-87e3-3954c46cea3e.png" srcset="" alt="Apply Fix" height="415" width="304">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC397B70-CC1D-0137-00FA-0E63FF21C970" class="text-block-content">
+    <p>To correct an issue, complete the task as noted in the sidebar [1]. For instance, if the issue requires that alt text be added to an image, the sidebar displays a text field for you to enter alt text.</p>
+<p>When you are finished with your changes, click the <strong>Apply</strong> button [2].</p>
+<p>The Accessibility Checker will apply the fix and display information for the next issue. Continue to review and fix any detected issues within the editor.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-fix" data-step-uuid="EC398EB0-CC1D-0137-00FB-0E63FF21C970">
+    <h2 id="confirm-fix" class="step-title screensteps-heading">Confirm Fix</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/196/138/original/18a3eb31-435c-491e-8329-12f6541390e0.png" srcset="" alt="Confirm Fix" height="508" width="320">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EC39B2F0-CC1D-0137-00FD-0E63FF21C970" class="text-block-content">
+    <p>When all issues have been fixed, or if no issues are detected in the Rich Content Editor, the sidebar indicates that no issues exist and will close automatically.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

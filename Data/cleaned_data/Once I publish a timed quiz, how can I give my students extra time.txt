@@ -1,0 +1,40 @@
+Once I publish a timed quiz, how can I give my students extra time
+Open Quizzes
+In Course Navigation, click the Quizzes link.
+Open Quiz
+Click the name of the quiz.
+Moderate this Quiz
+Click the Moderate This Quiz link.
+Moderate Quiz
+To moderate a quiz for one student, locate the student and click the Edit icon. You can also filter students in your course by using the Search People field.
+Moderate Quiz For Multiple Students
+If you want to select multiple students, click the checkbox next to each of their names. If you want to select all students, click the top checkbox. Click Change Extensions for [#] Selected Students button.
+Add Extra Time on Attempt
+Type the number of extra minutes in the Extra Time on Every Attempt field. Extra time can only be added in full-minute increments.
+If you are adding time for multiple students, the student extension box will apply the extra time for all selected students.
+If the student hasn't taken the quiz, the extra time will be added to the student's initial attempt and additional attempts. Learn more about managing extra attempts.
+Notes: 
+The Extra Time on Every Attempt field only displays for quizzes with a time limit.
+Quiz availability dates still apply when moderating a quiz. If the Until date passes when students are taking the quiz with extended time, the quiz auto-submits even if the student's time extension has not expired.
+Add Extra Time on Current Attempt
+If a student is currently taking the quiz while you are viewing the Moderate Quiz page, you can extend the quiz time as part of their current attempt.
+For current attempts, the remaining time will display next to a clock icon. 
+To extend the time on the quiz, click the clock icon.
+Note: You can only extend the time for one current quiz attempt at a time.
+Extend Quiz Time
+Canvas will show you what time the quiz began, and what time it is scheduled to end.
+In the minutes field, enter the number of extra minutes you want to give the student as part of their current attempt. The maximum time you can extend a current attempt is 1440 minutes (24 hours).
+In the time drop-down menu, choose whether you want to add those minutes to the current time or the current (scheduled) end time.
+If you want to end the quiz in relation to the current time, select the now option in the drop-down menu. 
+As an example, a student started a 20-minute quiz at 11:30 am; the quiz is set to end at 11:50 am. You moderated this quiz at 11:40, meaning that 10 minutes have gone by. However, you want to have the quiz end at 11:45. Since the current time is 11:40, you need to end the quiz in 5 minutes. Enter the number 5 in the minutes field, and select the now option in the drop-down menu.
+If you want to end the quiz in relation to the current end time of the quiz, select the current end time option in the drop-down menu. 
+As an example, a student started a 20-minute quiz at 11:30 am; the quiz is set to end at 11:50 am. You moderated this quiz at 11:30, meaning it was nearly the same time that the student started the quiz, and you want to extend the quiz to end at noon. If the current end time is 11:50 am and you want to extend it by 10 minutes, enter the number 10 in the minutes field, and select the current end time option in the drop-down menu. 
+Note: Quiz availability dates still apply when moderating a quiz. If the Until date passes when students are taking the quiz with extended time, the quiz auto-submits even if the student's time extension has not expired.
+Extend Time
+Click the Extend Time button.
+Less Time Warning
+Changing the time in relation to the Now option might mean that the student will have less time than was originally on the clock. In our example, the student still had 10 minutes remaining when the instructor moderated the quiz. Changing the time to 5 minutes means the student has 5 fewer minutes to take the quiz. 
+If you want to change this option, click the Cancel button. Otherwise, click the OK button. 
+Verify Extension
+View student time extensions on the Moderate Quiz page. 
+Note: Once you finish moderating a quiz, you can unpublish the quiz and all moderations will be saved. You can then continue to edit the quiz prior to publishing it for your students to access.

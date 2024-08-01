@@ -1,0 +1,181 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_77540610-1E4A-0135-0354-22000BC102FE" class="text-block-content">
+    <p>You can create an online assignment that embeds a document directly from your Microsoft Office 365 (OneDrive) folder. Accepted assignment types are Microsoft Word, PowerPoint, and Excel.</p>
+<p>When students open the assignment, Office 365 will create a copy of the file as the student’s submission. Students can open the document and make changes per the assignment instructions. When they are ready to submit the assignment, they can return to the Canvas assignment page and submit the assignment. The copied document is also added to the student’s OneDrive folder for the course. You can also view each student's document copy in SpeedGrader for grading.</p>
+<p>Submitted assignments are converted to a PDF to show the assignment at the time of submission. If students made any changes to their assignment, they will have to resubmit it for the changes to be visible in SpeedGrader.</p>
+<p>The Microsoft Office 365 LTI currently includes a few limitations when creating assignments:</p>
+<ul>
+<li>You cannot use Microsoft Office 365 files in an external tool for group assignments.</li>
+<li>If you want to use a Canvas rubric for the assignment, you must <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058" target="_blank">add the rubric</a> before setting the External Tool submission type. Create the assignment with any other submission type, save the assignment, add the rubric, and then edit the assignment to select the External Tool. </li>
+<li>If you want your assignment to be moderated, you must <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">set up the moderated assignment</a> before setting the External Tool submission type. If you need to return to the moderate page after the External Tool is added, open the assignment and add /moderate after the assignment URL.</li>
+</ul>
+<p><a href="https://community.canvaslms.com/t5/Student-Guide/How-do-I-submit-a-cloud-assignment-with-Microsoft-Office-365/ta-p/299" target="_blank">Learn how students submit Microsoft 365 cloud assignments.</a></p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="d249a9b2-e2f8-4a6f-a9f9-d1e03f71c294">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/744/601/original/f415bfeb-1a27-45ae-aa80-1a56d4a48c2f.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77543A80-1E4A-0135-0356-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="6e767dcb-d4cc-43a4-a20a-a593349d1c8d">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/258/477/original/f39df0c4-4ff8-435b-9e2f-d994ab36c82c.png" srcset="" alt="Add Assignment" height="72" width="305">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77546DD0-1E4A-0135-0358-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment_details" data-step-uuid="bdb24bce-0c80-4317-9932-32ab3c3da8d9">
+    <h2 id="add_assignment_details" class="step-title screensteps-heading">Add Assignment Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/948/905/original/a38cfee6-30ef-4720-9ad7-10c66ad4331a.png" srcset="" alt="Add Assignment Details" height="207" width="562">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7754AF60-1E4A-0135-035A-22000BC102FE" class="text-block-content">
+    <p>Enter the number of points for the assignment [1], select the Assignment Group [2], and select the grading type from the <strong>Display Grade as</strong> menu [3]. </p>
+<p><strong>Note: </strong>When adding a Microsoft Office 365 assignment it overwrites the title and description in the assignment settings.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_submission_type" data-step-uuid="109fcad5-e36f-4782-8d38-dc517fcde1c1">
+    <h2 id="select_submission_type" class="step-title screensteps-heading">Select Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/781/175/original/f589b461-ce49-4227-aac4-caf0f5a44334.png" srcset="" alt="Select Submission Type" height="92" width="545">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7754DF70-1E4A-0135-035C-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Submission Type</strong> drop-down menu, select the <strong>External Tool </strong>option.</p>
+<p><strong>Note:</strong> If you want to use a Canvas rubric for the assignment, you must <a href="/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058" target="_blank">add the rubric</a> before setting the External Tool submission type. Additionally, if you want to apply moderated grading, you must <a href="/t5/Instructor-Guide/How-do-I-add-a-moderated-assignment-to-be-graded-by-multiple/ta-p/605" target="_blank">set up moderated grading</a> before setting the External Tool submission type.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_external_tool" data-step-uuid="c7eb178f-cd31-46e3-9f95-9e215f73703a">
+    <h2 id="find_external_tool" class="step-title screensteps-heading">Find External Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/781/181/original/5043fb71-9d9b-4a0f-b139-a8c9581750d5.png" srcset="" alt="Find External Tool" height="291" width="527">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77550E80-1E4A-0135-035E-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Find</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="configure_external_tool" data-step-uuid="928d7ee8-2fa8-43d3-b215-651b3fe27012">
+    <h2 id="configure_external_tool" class="step-title screensteps-heading">Configure External Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/716/130/original/b23a78b2-27db-4f15-a038-c79dadaaab31.png" srcset="" alt="Configure External Tool" height="405" width="400">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77554340-1E4A-0135-0360-22000BC102FE" class="text-block-content">
+    <p>Locate and select Office 365 Cloud Assignment [1].</p>
+<p>If you want the assignment to load in a new tab, click the <strong>Load in a new tab</strong> checkbox [2]. Click the <strong>Select</strong> button [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="attach_file" data-step-uuid="484a40d3-4864-4ddb-a6f8-6a28f206a37d">
+    <h3 id="attach_file" class="step-title screensteps-heading">Attach File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/384/106/original/837520bd-5f5e-44f8-907a-34bbf82c11f2.png" srcset="" alt="Attach File" height="434" width="828">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_775574C0-1E4A-0135-0362-22000BC102FE" class="text-block-content">
+    <p>Locate and select the file you want to link to the assignment [1]. Click the <strong>Attach File</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_tool" data-step-uuid="4d30d9d4-34a7-442a-9fab-21a932ab348c">
+    <h2 id="select_tool" class="step-title screensteps-heading">Select Tool</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/781/185/original/ca47d3c6-b486-43a4-9a23-5a1dd62cef4e.png" srcset="" alt="Select Tool" height="405" width="403">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7755A610-1E4A-0135-0364-22000BC102FE" class="text-block-content">
+    <p>In the External Tool window, view the URL for your assignment file [1]. To select a different file, click the Office 365 link again. </p>
+<p>If you want the assignment to load in a new tab, click the <strong>Load in a new tab</strong> checkbox [2]. </p>
+<p>Click the <strong>Select </strong>button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="fb87e7bf-3e4a-4fe9-ba04-62ecd5636e1b">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/781/173/original/fcd5f2d9-ad80-4093-9ef0-fa38d5507f9e.png" srcset="" alt="Save and Publish" height="86" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7755DA30-1E4A-0135-0366-22000BC102FE" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment" data-step-uuid="3d53e81c-9820-4928-8cea-de20f8f4f242">
+    <h2 id="view_assignment" class="step-title screensteps-heading">View Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/715/849/original/6c16a377-2299-4114-a56b-0da31a99f288.png" srcset="" alt="View Assignment" height="741" width="640">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77560C70-1E4A-0135-0368-22000BC102FE" class="text-block-content">
+    <p>View the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,204 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BCDCE780-1EFE-0135-3729-22000BC102FE" class="text-block-content">
+    <p>You can import prior content from Moodle exports into Canvas. </p>
+<p><strong>Note</strong>: Moodle Lessons are not supported by Canvas import.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="6af24ce0-8ebc-4edb-b36f-6bd252a97975">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/782/original/4d4f9d95-b3a4-4a47-96bd-f4b096fc26b5.png" srcset="" alt="Open Settings" height="241" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDD1C50-1EFE-0135-372B-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_content_into_course" data-step-uuid="bfeca474-97f3-4423-a1c9-c57550d7384e">
+    <h2 id="import_content_into_course" class="step-title screensteps-heading">Import Content into Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/145/original/7b088db3-3a28-4f72-b95e-b46dee317002.png" srcset="" alt="Import Content into Course" height="439" width="265">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDD4D50-1EFE-0135-372D-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Import Course Content</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_content_type" data-step-uuid="9e8db84e-8d38-4a23-981c-d2aa034767ae">
+    <h2 id="select_content_type" class="step-title screensteps-heading">Select Content Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/153/original/4a641b35-6248-4463-97a8-aff43ad0dbfa.png" srcset="" alt="Select Content Type" height="114" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDD83E0-1EFE-0135-372F-22000BC102FE" class="text-block-content">
+    <p>In the Content Type drop-down menu, select the <strong>Moodle 1.9/2.x .zip file</strong> option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="choose_file" data-step-uuid="1C2487B6-A437-4423-856B-C056121E0319">
+    <h2 id="choose_file" class="step-title screensteps-heading">Choose File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/158/original/33a38ca9-5f79-4fe1-b86f-1c3ee1a42f98.png" srcset="" alt="Choose File" height="164" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDDB540-1EFE-0135-3731-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Choose File </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="open_file" data-step-uuid="93AACEC3-02CD-40BF-8D21-02268A5DC392">
+    <h3 id="open_file" class="step-title screensteps-heading">Open File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/573/250/original/a2762d13-9d3c-4e84-b19e-244e32802b62.png" srcset="" alt="Open File" height="481" width="531">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDDE6A0-1EFE-0135-3733-22000BC102FE" class="text-block-content">
+    <p>Find and click the Moodle .zip or .mbz file you want to import [1]. Click the <strong>Open </strong>button<strong> </strong>[2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_question_bank" data-step-uuid="7f343211-c609-4ce6-8540-a5d541b923ef">
+    <h2 id="select_question_bank" class="step-title screensteps-heading">Select Question Bank</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/170/original/c291d210-051a-45b0-857d-09fde76e8abc.png" srcset="" alt="Select Question Bank" height="69" width="463">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDE1800-1EFE-0135-3735-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Default Question bank</strong> drop-down menu, select the Question bank you want to use for your question bank from Moodle.  </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="create_question_bank" data-step-uuid="fa67bff9-ddaf-4aed-a601-4787e83a8b2d">
+    <h3 id="create_question_bank" class="step-title screensteps-heading">Create Question Bank</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/149/original/7338a095-d905-43eb-aa0c-6a7e50dce06e.png" srcset="" alt="Create Question Bank" height="96" width="585">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDE4E60-1EFE-0135-3737-22000BC102FE" class="text-block-content">
+    <p>If you do not have a question bank you want to use, you can <a href="/t5/Instructor-Guide/How-do-I-create-a-question-bank-in-a-course/ta-p/1228" target="_blank">create a new question bank</a>. In the drop-down menu, select the <strong>Create new question bank </strong>option.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_migration_content" data-step-uuid="460adc96-96d7-4fc4-ae53-bb758ed2c2b9">
+    <h2 id="select_migration_content" class="step-title screensteps-heading">Select Migration Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/181/original/6058a9a2-962b-4a08-9cbd-876d23ec87a1.png" srcset="" alt="Select Migration Content" height="78" width="296">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDE7F00-1EFE-0135-3739-22000BC102FE" class="text-block-content">
+    <p>To import all content from the course, select the <strong>All Content </strong>radio button [1]. </p>
+<p>If you want to <a href="/t5/Instructor-Guide/How-do-I-select-specific-content-as-part-of-a-course-import/ta-p/1091" target="_blank">select specific content</a>, click the <strong>Select specific content</strong> radio button [2].</p>
+<p><strong>Note: </strong>If you select the specific content option, you are required to select the content you want to import after you review the remaining page options. After you start importing the content, the import selection cannot be canceled.  </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="adjust_events_and_due_dates" data-step-uuid="652637dd-d58c-4443-bfb2-f84a0d2fa1d7">
+    <h2 id="adjust_events_and_due_dates" class="step-title screensteps-heading">Adjust Events and Due Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/167/original/a6c0f12b-d556-4839-bc34-6b4ae1d9b648.png" srcset="" alt="Adjust Events and Due Dates" height="48" width="291">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDEAF60-1EFE-0135-373B-22000BC102FE" class="text-block-content">
+    <p>If you want to <a href="/t5/Instructor-Guide/How-do-I-adjust-events-and-due-dates-in-a-course-import/ta-p/1090" target="_blank">adjust the due dates</a> associated with the course events and assignments, click the <strong>Adjust events and due dates</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-content-import-warning-message" data-step-uuid="6d9331a0-8fe9-43c2-89a1-6ad7f1b960a1">
+    <h2 id="view-content-import-warning-message" class="step-title screensteps-heading">View Content Import Warning Message</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/938/053/original/294f89eb-10f7-4618-9d84-dfb7556191c7.png" srcset="" alt="View Content Import Warning Message " height="120" width="582">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_80bfe4c1-4ad4-4553-b585-1b1ae08857da" class="text-block-content">
+    <p>When importing content, a message displays explaining that importing the same course content or export package more than once overwrites any existing content in the course.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="import_course" data-step-uuid="2502643a-ddc6-4c34-b8d1-898b394cf4c2">
+    <h2 id="import_course" class="step-title screensteps-heading">Import Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/567/529/original/a0a39057-3cf1-45c9-a851-1468b410fb6d.png" srcset="" alt="Import Course" height="111" width="687">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDEE000-1EFE-0135-373D-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Import </strong>button [1]. </p>
+<p>A progress indicator displays the upload status by percentage [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_current_jobs" data-step-uuid="fc330582-0fbb-4a5c-9903-501b7c4b9d9b">
+    <h2 id="view_current_jobs" class="step-title screensteps-heading">View Current Jobs</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/173/original/bd3c696a-4150-427b-b700-3d3fdb8a07b9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/173/medium/bd3c696a-4150-427b-b700-3d3fdb8a07b9.png" srcset="" alt="View Current Jobs" height="177" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BCDF0ED0-1EFE-0135-373F-22000BC102FE" class="text-block-content">
+    <p>The Current Jobs section displays the status of your import. Running reports display a progress bar indicating the time remaining to complete the import [1].</p>
+<p>If you chose to select specific content in your course, the current job will show as Waiting for Select [2], which means you must <a href="/t5/Instructor-Guide/How-do-I-select-specific-content-as-part-of-a-course-import/ta-p/1091" target="_blank">select the content you want to import</a>.</p>
+<p>The import may also display other status indicators as part of the import process. Learn more about <a href="/t5/Instructor-Guide/How-do-I-view-the-status-of-current-and-prior-course-imports/ta-p/1077" target="_blank">course import statuses</a>.</p>
+<p>View the content from any completed imports by accessing any link in Course Navigation.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

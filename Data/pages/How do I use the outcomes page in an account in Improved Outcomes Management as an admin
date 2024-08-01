@@ -1,0 +1,164 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_d3e7f967-e0f3-4dff-a55d-6ff815ea15c8" class="text-block-content">
+    <p>The Improved Outcomes Management feature option provides an improved user interface for managing outcomes in your account.</p>
+<p>Outcomes are used to track mastery in an account or course. From the account outcomes page, you can create and manage outcomes, create outcome groups, import outcomes, and manage rubrics for an account.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If your Outcomes page looks different than this guide, your institution does not have the Improved Outcomes Management feature option enabled. Please refer to the <a href="/t5/Admin-Guide/How-do-I-use-the-outcomes-page-in-an-account/ta-p/173" target="_blank">Outcomes guides</a> for more information.</li>
+<li>The Account and Course Level Outcome Mastery Scales feature option must also be enabled to set mastery scales and calculation methods.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-account" data-step-uuid="0333a60e-1b2b-4ad2-88b4-2e3be3532863">
+    <h2 id="open-account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_05fd5044-e5d8-42c1-bd54-5c1f25238c3e" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-outcomes" data-step-uuid="580e326b-e333-466f-8933-7f7ef30f87e0">
+    <h2 id="open-outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/832/788/original/cda2108d-b74e-42f3-821e-ad4d0eb5101c.png" srcset="" alt="Open Outcomes" height="282" width="160">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_062db4f6-1e28-41bb-ae66-3d5db096d521" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcomes" data-step-uuid="c3281ec1-ba5d-4bef-8a22-9f152f3d07c4">
+    <h2 id="view-outcomes" class="step-title screensteps-heading">View Outcomes</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/726/255/original/f5cd3e5a-b655-48e7-94f5-aea2e0ceccc9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/726/255/medium/f5cd3e5a-b655-48e7-94f5-aea2e0ceccc9.png" srcset="" alt="View Outcomes" height="555" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dbcd3847-4c97-4458-a52b-2ec5109548e0" class="text-block-content">
+    <p>On the Outcomes page, you can view and manage outcomes and outcomes groups [1], mastery scale settings [2], and calculation method settings [3].</p>
+<p>To <a href="/t5/Admin-Guide/How-do-I-import-outcomes-for-an-account/ta-p/267" target="_blank">import</a> an outcome, click the <strong>Import</strong> button [4].</p>
+<p>To <a href="/t5/Admin-Guide/How-do-I-create-an-outcome-for-an-account-in-Improved-Outcomes/ta-p/486334" target="_blank">create</a> a new outcome, click the <strong>Create</strong> button [5].</p>
+<p>To <a href="/t5/Admin-Guide/How-do-I-find-an-existing-outcome-to-add-to-an-account/ta-p/254" target="_blank">find an outcome</a>, including State and Common Core Standards, click the <strong>Find</strong> button [6].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcome-group-options" data-step-uuid="fdf0e10c-abd7-4591-95d3-4bc109bf9c0f">
+    <h2 id="view-outcome-group-options" class="step-title screensteps-heading">View Outcome Group Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/947/629/original/d8205e98-8d72-449c-b9df-56745ee31561.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/947/629/medium/d8205e98-8d72-449c-b9df-56745ee31561.png" srcset="" alt="View Outcome Group Options" height="310" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ee59b0aa-a0ef-483b-97da-5e9998d93ab4" class="text-block-content">
+    <p>To view options for managing outcomes groups, select an outcome group from the Outcome Groups sidebar [1].</p>
+<p>In the Outcomes area, click the <strong>Options</strong> icon for the outcome group [2].</p>
+<p>To edit the outcome group, click the <strong>Edit</strong> option [3].</p>
+<p>To remove the outcome group and all outcomes within the group, click the <strong>Remove</strong> option [4].</p>
+<p>To move the outcome group to another group, click the <strong>Move</strong> option [5].</p>
+<p>To add outcomes, click the <strong>Add Outcomes</strong> option [6].</p>
+<p>To import outcomes to the outcome group, click the <strong>Import Outcomes</strong> option [7].</p>
+<p>To view the outcome group's description, click the <strong>View Description</strong> option [8].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-outcome-options" data-step-uuid="1c3967e4-6b4b-438d-b3f1-77c53a14423a">
+    <h2 id="view-outcome-options" class="step-title screensteps-heading">View Outcome Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/727/575/original/1c036108-76c9-4673-bfbf-0acf66f99830.png" srcset="" alt="View Outcome Options" height="244" width="796">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b8ce0d2e-3ab6-455d-baec-f771f00823bf" class="text-block-content">
+    <p>To view options for managing an individual outcome, click the <strong>Options</strong> icon for the outcome [1].</p>
+<p>To edit the outcome, click the <strong>Edit</strong> option [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-view-all-aligned-items-in-Improved-Outcomes-Management/ta-p/546237" target="_blank">view the assignments aligned to the outcome</a>, click the <strong>Alignments </strong>link [3].</p>
+<p>To move the outcome to another outcome group, click the <strong>Move</strong> option [4].</p>
+<p>To remove the outcome, click the <strong>Remove</strong> option [5]. If the outcome is already associated with assignments in your account, you will not be able to remove the outcome.</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-mastery-settings" data-step-uuid="6d8f1f24-b727-4448-8760-b1581ba2a9b5">
+    <h2 id="view-mastery-settings" class="step-title screensteps-heading">View Mastery Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/726/261/original/7568f4fd-bdac-4642-b6fd-51aa0d16f885.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/726/261/medium/7568f4fd-bdac-4642-b6fd-51aa0d16f885.png" srcset="" alt="View Mastery Settings" height="561" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0b26cc8a-b248-44af-a484-3ad97c9f1264" class="text-block-content">
+    <p>To view the <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-scales-in-an-account/ta-p/429017" target="_blank">default mastery scale</a> for all courses within your account, click the <strong>Mastery</strong> tab [1].</p>
+<p>To set the mastery level in the scale, select the desired level in the <strong>Mastery</strong> column [2].</p>
+<p>To add or modify the mastery level description, enter a description in the <strong>Description</strong> field [3].</p>
+<p>To modify the point value associated with the mastery level, enter a point value in the <strong>Points</strong> field [4].</p>
+<p>To change the color associated with the mastery level, click the <strong>Change</strong> link or color selector in the <strong>Color</strong> column [5].</p>
+<p>To remove a mastery level from the scale, click the <strong>Remove</strong> icon for the level you want to remove [6].</p>
+<p>To add a mastery level to the scale, click the <strong>Add Mastery Level</strong> button [7].</p>
+<p>To save your changes to the mastery scale, click the <strong>Save Mastery Scale</strong> button [8].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-calculation-settings" data-step-uuid="4e80a5a2-5fd0-4e64-b31b-d3065f10d793">
+    <h2 id="view-calculation-settings" class="step-title screensteps-heading">View Calculation Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/726/263/original/53e4bf60-793f-4843-93a4-547c94ba71a7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/726/263/medium/53e4bf60-793f-4843-93a4-547c94ba71a7.png" srcset="" alt="View Calculation Settings" height="404" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3036e47e-cc44-4cd4-afc9-14fead1b033d" class="text-block-content">
+    <p>To view the <a href="/t5/Admin-Guide/How-do-I-manage-outcome-mastery-calculations-in-an-account/ta-p/429016" target="_blank">default mastery calculation</a> method for your account, click the <strong>Calculation</strong> tab [1].</p>
+<p>To change the default mastery calculation method, select a method from the <strong>Mastery Calculation</strong> drop-down menu [2].</p>
+<p>Some calculation methods may require additional settings.</p>
+<p>To save the mastery calculation settings, click the <strong>Save Mastery Calculation</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

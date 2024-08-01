@@ -1,0 +1,117 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0f5043eb-d4e4-491c-b112-d9ce1feca094" class="text-block-content">
+    <p>As an admin, you can allow instructors to sync data from the People page in a Canvas course to Microsoft Teams. Once course sync has been enabled at the account level, instructors can enable automatic sync and complete a manual sync from their Course Settings page.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Granting access to your Microsoft tenant should be completed by the Microsoft 365 admin at your institution.</li>
+<li>Microsoft Teams course sync only supports one Microsoft tenant per Canvas account. Multi-tenant sync is not supported.</li>
+<li>Microsoft Teams course sync does not support syncing course sections and groups.</li>
+<li>Microsoft Teams course sync does not support syncing for courses that have more than 20,000 enrollments or more than 100 users with any role in Canvas other than student.</li>
+<li>Child consortium accounts cannot access the Course Settings Notifications tab.</li>
+<li>For the Microsoft Teams sync to work properly, there must be a user with the Teacher, TA, and/or Designer role in Canvas matching an Owner in Teams.</li>
+<li>Microsoft Teams course sync is currently a defaulted on feature. To manage this feature, learn how to manage feature options in the <a href="/t5/Admin-Guide/How-do-I-manage-feature-options-for-an-account/ta-p/204" target="_blank">account features lesson</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-settings" data-step-uuid="1fd0de27-e3e0-4c85-807d-c4c1e1b2f4d8">
+    <h2 id="open-settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/561/213/original/e1f5c0e0-a0f6-4391-aba5-b34f29c41d77.png" srcset="" alt="Open Settings" height="293" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1993c34e-1a10-4165-ac0c-e4f4d5cfc084" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-integrations" data-step-uuid="18979524-6f91-4146-96e0-15911c403215">
+    <h2 id="open-integrations" class="step-title screensteps-heading">Open Integrations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/991/384/original/d3e7dafe-03f5-4070-bba6-5d2317c03aac.png" srcset="" alt="Open Integrations" height="266" width="845">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4d9abfb9-0159-4679-b8d9-9aab4ec78d0c" class="text-block-content">
+    <p>From the Account Settings page, click the <strong>Integrations</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-microsoft-teams-details" data-step-uuid="b44ed871-57d0-40d0-a378-e4213308c9cf">
+    <h2 id="enter-microsoft-teams-details" class="step-title screensteps-heading">Enter Microsoft Teams Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/611/925/original/43efa44f-3b17-4a33-b0c3-f92aa492f763.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/611/925/medium/43efa44f-3b17-4a33-b0c3-f92aa492f763.png" srcset="" alt="Enter Microsoft Teams Details" height="320" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0aa97846-cd27-4c9b-a9d2-ee9e6187709b" class="text-block-content">
+    <p>Enter your Azure Active Directory tenant name in the <strong>Tenant Name</strong> field [1].</p>
+<p>Select the attribute to use when associating a Canvas user with a Microsoft user in the <strong>Login Attribute</strong> drop-down menu [2]. You can select the user's default Canvas email, unique user ID (such as the user's login_id or Canvas API's pseudonymunique_id),  SIS user ID, and integration ID.</p>
+<p>If the <strong>Suffix</strong> field is populated [3], the entered text attaches to the Login Attribute.</p>
+<p>Select the attribute to use to match a Canvas user to a Microsoft user in the <strong>Active Directory Lookup Attribute</strong> drop-down menu [4]. You can select user principal name (UPN), primary email address (mail), and email alias (mailNickname).</p>
+<p>To update the details, click the <strong>Update Settings</strong> button [5].</p>
+<p><strong>Note:</strong> When the Email login attribute is selected, only the user's primary Canvas email address is used in the course sync.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable-sync" data-step-uuid="b5df61ac-6265-4b50-8956-2443b3278424">
+    <h2 id="enable-sync" class="step-title screensteps-heading">Enable Sync</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/611/927/original/090ddd92-3d3f-4aaf-a7f1-68146da6eb5a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/611/927/medium/090ddd92-3d3f-4aaf-a7f1-68146da6eb5a.png" srcset="" alt="Enable Sync" height="383" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_77144cc5-86ae-43b3-9df7-4ff565699b93" class="text-block-content">
+    <p>To enable Microsoft Teams sync in your Canvas account, click the <strong>Sync</strong> button [1]. Then click the <strong>Grant tenant access</strong> link [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="log-in-to-microsoft" data-step-uuid="6547c7e1-b8a7-40a7-947e-8e2fa6f6ce4b">
+    <h3 id="log-in-to-microsoft" class="step-title screensteps-heading">Log In to Microsoft</h3>
+  </div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/561/221/original/e64fcfdb-d349-417e-b981-944fa4798707.png" srcset="" alt="Log In to Microsoft" height="443" width="473">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6cc5e135-6a57-4331-9430-5abbbcca81d8" class="text-block-content">
+    <p>Use your Microsoft credentials to log in to your Microsoft Teams account. Logging in to your account grants Canvas access to your Microsoft tenant.</p>
+<p><strong>Note: </strong>Granting access to your Microsoft tenant should be completed by the Microsoft 365 admin at your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

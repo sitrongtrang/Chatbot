@@ -1,0 +1,105 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8E022E10-22D3-0135-FC21-22000BC102FE" class="text-block-content">
+    <p>As an instructor, you may be able to restrict student access to your course before or after the <a href="/t5/Instructor-Guide/How-do-I-change-the-start-and-end-dates-for-a-course/ta-p/452354" target="_blank">course participation dates</a>. By default, course participation dates are limited to term dates. You can restrict students from viewing the course before or after term dates. Or, if your course has set course participation dates, you can restrict students from viewing the course before or after the set course dates. For more information, view the interactive <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Student-Course-Visibility-and-Participation-Flowchart/ta-p/387094" target="_blank">Student Course Visibility and Participation flowchart</a>. </p>
+<p>Please be aware that the settings for student access are already set by your institutional admin. If settings are available to you, you can modify them for your course. If settings are locked, you cannot change the settings for your course.</p>
+<p><strong>Restrict students from viewing course before term or course start date</strong>: When a student enrolls in a future course, the course displays in the Future Enrollments section in the student's Courses list. Once a course is published, the course displays an invitation to join the course. When students join a future course, they can view course content at any time before the course begins. If your course participation dates are limited to term dates, you can restrict students from viewing course content before the term start date by enabling the Restrict students from viewing course before term start date option. If your course participation dates are limited to set course dates, you can restrict students from viewing course content before the course start date by enabling the Restrict students from viewing course before course start date option. Course dates override term dates. If the course start date is after the term start date, you must enable this option if you want to restrict access before the course start date. If course participation is limited to set course participation dates and a start date has not been added, students can access the course prior to term start date. </p>
+<p><strong>Restrict students from viewing course after term or course end date</strong>: Once a course has concluded, students can still view the course but all content is displayed in a read-only state. If your course participation dates are limited to term dates, you can restrict students from viewing course content after the term end date by enabling the Restrict students from viewing course after term end date option. If your course participation dates are limited to set course dates, you can restrict students from viewing course content after the course end date by enabling the Restrict students from viewing course after course end date option. Course dates override term dates. If the course end date is after the term start date, you must enable this option if you want to restrict access after the course end date. If course participation is limited to set course participation dates and an end date has not been added, students can access the course after the term end date. </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Although any <a href="/t5/Instructor-Guide/How-do-I-change-the-start-and-end-dates-for-a-course-section-as/ta-p/1265" target="_blank">changed section dates</a> override course dates, student access restrictions cannot be set at the section level, and restriction options apply to all sections within the course.</li>
+<li>Restricting student access does not apply to users who do not have course enrollments and are accessing the course through <a href="/t5/Instructor-Guide/How-do-I-customize-visibility-options-for-course-content/ta-p/814" target="_blank">Public or Institution visibility options</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="5a9f8e70-3be5-4227-89a9-9e376761ace4">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/751/170/original/ace66570-1496-4adc-9fe3-266e80dabdeb.png" srcset="" alt="Open Settings" height="275" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E026670-22D3-0135-FC23-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_restriction_options" data-step-uuid="4b50f6bd-2c78-4e32-9db7-666a7dcf5797">
+    <h2 id="view_restriction_options" class="step-title screensteps-heading">Set Restriction Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/285/883/original/28c5233f-03b6-4e26-b77e-5482c9f20b1c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/285/883/medium/28c5233f-03b6-4e26-b77e-5482c9f20b1c.png" srcset="" alt="Set Restriction Options" height="249" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E0297C0-22D3-0135-FC25-22000BC102FE" class="text-block-content">
+    <p>Courses may be assigned to the Default Term or a specific term [1]. By default, students will be able to participate in the course within the term dates [2]. However, your course may allow students to participate within course dates [3] and have set <a href="/t5/Instructor-Guide/How-do-I-change-the-start-and-end-dates-for-a-course/ta-p/452354" target="_blank">course start and end dates</a> [4]. </p>
+<p>By default, student access checkboxes are not selected, meaning students can view courses before and after term or set course dates. To retain this default for the course, do not select any checkboxes. </p>
+<p>To restrict students from viewing a link to the course before the term start date, click the <strong>Restrict students from viewing course before term start date</strong> checkbox [5]. </p>
+<p>To restrict students from viewing a link to the course before the set course start date, click the <strong>Restrict students from viewing course before course start date</strong> checkbox [6]. If the course start date is blank, students can access the course before the term start date.</p>
+<p>To restrict students from accessing the course after the term end date, click the <strong>Restrict students from viewing course after term end date</strong> checkbox [7]. </p>
+<p>To restrict students from accessing the course after the set course end date, click the <strong>Restrict students from viewing course after course end date</strong> checkbox [8]. If the course end date is blank, students can access the course after the term end date.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="change_student_access" data-step-uuid="39c518e1-29ab-4686-ac19-f4ed1f3f7b8b">
+    <h2 id="change_student_access" class="step-title screensteps-heading">Change Student Access</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E02B040-22D3-0135-FC26-22000BC102FE" class="text-block-content">
+    <p>The default checkbox settings are passed down from the account level. By default, student access checkboxes are not selected, meaning students can view and access courses before and after course participation dates. </p>
+<p>Depending on your admin, the student access setting may vary in your course. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_locked_setting" data-step-uuid="78b53938-afb1-437b-8dbe-8bfdb8219779">
+    <h3 id="view_locked_setting" class="step-title screensteps-heading">View Locked Setting</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/221/897/original/bc2096ef-6ea7-40c1-9341-66263a90e28a.png" srcset="" alt="View Locked Setting" height="78" width="461">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E02DF10-22D3-0135-FC28-22000BC102FE" class="text-block-content">
+    <p>If your admin has locked one or more settings, locked settings are grayed out and cannot be changed. </p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/221/899/original/0bd1f430-b676-435c-ac39-1152781d9dc8.png" srcset="" alt="View Unlocked Settings" height="78" width="462">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8E030F00-22D3-0135-FC2A-22000BC102FE" class="text-block-content">
+    <p>If your admin has not locked one or more settings, you can change the settings for your course as necessary. If any settings are already selected, the selection indicates the default for the entire institution.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

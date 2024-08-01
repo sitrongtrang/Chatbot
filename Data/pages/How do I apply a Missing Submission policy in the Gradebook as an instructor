@@ -1,0 +1,154 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_10f98ed6-1ec2-41dc-aa38-b0cb616c39b0" class="text-block-content">
+    <p>The Missing Submission policy lets you automatically apply a grade for all missing submissions in the Gradebook. A submission is labeled missing when the due date has passed and it has not been submitted. Only submissions with a status of Missing will be affected by the Missing Submission policy. The Missing Submission policy is set per course.</p>
+<p>The Missing Submission policy allows you to define a grade that will be granted for missing submissions as a percentage of the total points possible. The percent entered is multiplied by the total points possible on the assignment and the resulting value will be awarded to missing submissions. For example, if the Missing submission grade is set to 20% and the assignment is worth 10 points, all missing submissions for that assignment will be awarded a grade of 2 points (10 points possible x 20% = 2 points awarded). To award all missing submissions with a grade of 0, the Missing submission grade can be set to 0%.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>If a submission is received after the due date, the Missing label will be automatically replaced by the Late label. However, any label can be manually removed in the Grade Detail Tray.  </li>
+<li>When a missing assignment is submitted, the new submission must be updated in the gradebook or the grade will not change. </li>
+<li>Setting a Missing Submission policy affects all assignments in a course, including assignments with due dates in the past. To exclude a specific assignment, mark the submission as something other than Missing in the Grade Detail Tray.</li>
+<li>Applying a missing submission policy will not affect previously graded missing submissions. Therefore, the Missing Submission policy should be set up when a course is created prior to creating assignments.</li>
+<li>The Missing Submission policy will not affect submissions in closed grading periods or submissions for concluded enrollments.</li>
+<li>The Missing Submission policy will not be automatically applied to No Submission, On Paper, or External Tool assignments with the exception of New Quizzes quizzes. However, a Missing label can be added in the Grade Detail Tray.</li>
+<li>If a Missing Submission policy is applied in a course, missing submissions for Complete/Incomplete assignments will be awarded an Incomplete grade with a score of 0, regardless of the Missing submission grade value.</li>
+<li>Disabling a course Missing Submission policy does not revert grades that were submitted when the policy was enabled.</li>
+<li>The Missing Submission Policy will not apply to unpublished assignments.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-grades" data-step-uuid="6c7e1e45-9ae6-4f5f-9fbd-6389dfe478a6">
+    <h2 id="open-grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/052/original/426838cb-0ec8-47af-85a1-0ad57016190f.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d7b7ab48-d6e8-402c-907d-07b2b8656a07" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-gradebook-settings" data-step-uuid="05006801-1614-4178-8593-7c9564478a02">
+    <h2 id="open-gradebook-settings" class="step-title screensteps-heading">Open Gradebook Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/729/819/original/cde28152-5cce-4c6f-881b-b00b2ce5aba1.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/729/819/medium/cde28152-5cce-4c6f-881b-b00b2ce5aba1.png" srcset="" alt="Open Gradebook Settings" height="60" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_397cd9db-72c4-4c2b-a142-1f2ed91853b1" class="text-block-content">
+    <p>Click the <strong>Settings</strong> icon. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-late-policies" data-step-uuid="303244ac-df87-44b3-80d9-c7bfb44fa0c2">
+    <h2 id="view-late-policies" class="step-title screensteps-heading">View Late Policies</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/729/821/original/a9cdc5e1-8fac-4e4f-b252-c91f8d2f9d97.png" srcset="" alt="View Late Policies" height="132" width="764">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6d6eb7de-3612-41f4-a079-da6f11a22886" class="text-block-content">
+    <p>In Gradebook Settings, view the <strong>Late Policies</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="apply-missing-submission-policy" data-step-uuid="1b83bbe0-3e18-4d42-8807-efd6260fc3c1">
+    <h2 id="apply-missing-submission-policy" class="step-title screensteps-heading">Apply Missing Submission Policy</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/908/270/original/e2ec4caa-f12a-4bce-b641-efd10685392b.png" srcset="" alt="Apply Missing Submission Policy" height="272" width="424">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_96b392d5-d49e-4ada-9387-7bfcf9e5fd9a" class="text-block-content">
+    <p>Click the <strong>Automatically apply grade for missing submissions</strong> checkbox. Selecting this checkbox will automatically apply the grade you set for any missing submissions in the course. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-missing-submission-percentage" data-step-uuid="20c89548-e549-4d4c-b7b3-e99324ad4fd7">
+    <h2 id="select-missing-submission-percentage" class="step-title screensteps-heading">Set Missing Submission Percentage</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/908/272/original/2664f346-1778-4298-8232-348ef159c745.png" srcset="" alt="Select Missing Submission Percentage" height="272" width="424">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e10c24de-7e1f-49c9-ad27-2f83ce418817" class="text-block-content">
+    <p>Set a percentage in the <strong>Grade percentage for missing submissions</strong> field. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update-missing-submission-policy" data-step-uuid="e03c4260-6cba-4f68-abc8-043e8d9d10e7">
+    <h2 id="update-missing-submission-policy" class="step-title screensteps-heading">Apply Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/908/274/original/b33fc273-a6f8-4290-be30-7a29b39a9447.png" srcset="" alt="Apply Settings" height="70" width="240">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3938a22b-3315-4662-bfda-eeca254aceba" class="text-block-content">
+    <p>Click the <strong>Apply Settings</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-grades" data-step-uuid="aa4c1824-f1b3-4905-9d42-e3d151951089">
+    <h2 id="view-grades" class="step-title screensteps-heading">View Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/795/857/original/c3d497b4-338d-4620-a734-cc7cad25703a.png" srcset="" alt="View Grades" height="346" width="389">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ad4d3131-9444-4b24-ad09-2d05b45c3023" class="text-block-content">
+    <p>View the affected grades in the Gradebook.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-grade-detail-tray" data-step-uuid="571ffac1-4539-4fb3-a9d0-474d85659f4d">
+    <h3 id="view-grade-detail-tray" class="step-title screensteps-heading">View Grade Detail Tray</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/245/884/original/a289fa2d-2883-4d4b-9a3f-3324d4a049c6.png" srcset="" alt="View Grade Detail Tray" height="611" width="323">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9e61c404-cdc5-48bf-a6cd-c2eec12cc69e" class="text-block-content">
+    <p>In the Grade Detail Tray, you can view details about the submission. When a submission applies to a missing policy, the Grade Detail Tray displays the given grade. To remove the late penalty from a submission, enter a grade in the grade field. Once a grade has been manually assigned, the Missing submission policy no longer applies and the label is automatically removed.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

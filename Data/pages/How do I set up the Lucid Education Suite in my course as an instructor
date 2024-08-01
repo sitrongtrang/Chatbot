@@ -1,0 +1,199 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_fad99430-52ec-4f3f-871a-e19133f4ab1b" class="text-block-content">
+    <p>The Lucid Education Suite includes apps such as <a href="https://help.lucid.co/hc/en-us/articles/11970952773652-Welcome-to-Lucidchart" target="_blank" rel="nofollow noopener noreferrer">Lucidchart</a> and <a href="https://help.lucid.co/hc/en-us/articles/11973407023636-Welcome-to-Lucidspark" target="_blank" rel="nofollow noopener noreferrer">Lucidspark</a>. By default, the Lucid Education Suite is enabled in all Canvas instances hosted in the US.</p>
+<p>When accessing Lucid for the first time, you must verify course information and connect your Lucid account to your Canvas account before Lucid can be used in your course. Similarly, <a href="/t5/Student-Guide/How-do-I-set-up-the-Lucid-Education-Suite-in-my-course-as-a/ta-p/606361" target="_blank">students must verify information and connect their Lucid and Canvas accounts before using Lucid in C...</a>. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>If your Canvas instance is hosted in a non-US region, contact your Customer Success Manager to enable Lucid.</li>
+<li>When testing the Lucid integration, authenticate or create your own account. You should not test the integration when masquerading as any other user.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-lucid" data-step-uuid="64df73d4-b915-4abe-b919-5992a4579e42">
+    <h2 id="open-lucid" class="step-title screensteps-heading">Open Lucid</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/404/700/original/d8ba6d42-d270-4c31-adf2-62e1fd8efbea.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/404/700/medium/d8ba6d42-d270-4c31-adf2-62e1fd8efbea.png" srcset="" alt="Open Lucid" height="89" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2d43092e-384b-4853-83ce-27cb5b08967e" class="text-block-content">
+    <p>When using Lucid for the first time, either to <a href="/t5/Instructor-Guide/How-do-I-embed-a-Lucid-document-in-the-Rich-Content-Editor-as-an/ta-p/606357" target="_blank">embed a Lucid document</a> or <a href="/t5/Instructor-Guide/How-do-I-create-a-Lucid-assignment/ta-p/606354" target="_blank">create a Lucid submission assignment</a>, you must verify information before Lucid can be used in your course.</p>
+<p>To access Lucid from Rich Content Editor, click the <strong>Lucid</strong> icon [1].</p>
+<p><strong>Note: </strong>To view the Lucid icon, you may have to click the <strong>Options </strong>icon [2]. If the icon still does not display, Lucid may not be enabled for your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="verify-course-information" data-step-uuid="0917f183-19fa-402a-a293-8e692375e490">
+    <h2 id="verify-course-information" class="step-title screensteps-heading">Verify Course Information</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/390/943/original/6f3435c9-7ccf-4701-b568-3d69c08d2662.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/390/943/medium/6f3435c9-7ccf-4701-b568-3d69c08d2662.png" srcset="" alt="Verify Course Information" height="508" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ec8e0dda-b8e1-42a6-8140-9507e92bf1fe" class="text-block-content">
+    <p>When using Lucid for the first time, you must verify information before Lucid can be used in your course. </p>
+<p>Review your role [1] and indicate if your course includes users under 13 years of age [2]. Then click the <strong>Next</strong> button [3].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="request-coppa-consent" data-step-uuid="2f201b3a-eccb-4d09-a87e-d043e72efbb8">
+    <h3 id="request-coppa-consent" class="step-title screensteps-heading">Request COPPA Consent</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/390/946/original/ef41add2-84c7-4775-9789-0e563b38cb1a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/390/946/medium/ef41add2-84c7-4775-9789-0e563b38cb1a.png" srcset="" alt="Request COPPA Consent" height="508" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_17f3060f-95a0-4403-b4fb-6c3632bcead0" class="text-block-content">
+    <p>If users in your course are under 13 years of age, <a href="https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa" target="_blank" rel="nofollow noopener noreferrer">Children's Online Privacy Protection Rule </a>(COPPA) consent must be given by your institution prior to use.</p>
+<p>To request Lucid to contact your institution for COPPA consent, enter your email in the <strong>Email</strong> field [1]. Then click the <strong>Contact Lucid</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="connect-lucid-to-canvas" data-step-uuid="75871755-904a-4ea3-9fd8-d9a8c905344d">
+    <h2 id="connect-lucid-to-canvas" class="step-title screensteps-heading">Connect Lucid to Canvas</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/390/948/original/9f92e67d-be0a-428d-8913-3b8bf8fc843a.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/390/948/medium/9f92e67d-be0a-428d-8913-3b8bf8fc843a.png" srcset="" alt="Connect Lucid to Canvas" height="508" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_22078fef-06a1-4d9c-b4eb-43ec563d341c" class="text-block-content">
+    <p>After confirmation that users are over the age of 13 or COPPA consent has been given, you can connect your Lucid account to your Canvas account by clicking the <strong>Connect</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="log-in-to-lucid" data-step-uuid="4ec5a3c0-b3f5-4d04-816c-78386d5c8ea3">
+    <h2 id="log-in-to-lucid" class="step-title screensteps-heading">Log In to Lucid</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/390/950/original/47020533-cd25-4823-a713-6c652ba50693.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/390/950/medium/47020533-cd25-4823-a713-6c652ba50693.png" srcset="" alt="Log In to Lucid" height="508" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_91d116f4-5ee9-481a-9a08-d672027d4de4" class="text-block-content">
+    <p>If you have an existing Lucid account, click the <strong>Log in</strong> button to sign in [1]. A new browser tab opens in which you can sign in to your account.</p>
+<p>If you do not have a Lucid account, click the <strong>Sign up</strong> button and follow prompts to sign up for a free Lucid account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-lucid-connection" data-step-uuid="0aac8fc7-df19-4e1c-af10-82d588096a72">
+    <h2 id="confirm-lucid-connection" class="step-title screensteps-heading">Confirm Lucid Connection</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/390/952/original/a2ffb692-3d8a-48e1-b1d2-ffa8c346c45c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/390/952/medium/a2ffb692-3d8a-48e1-b1d2-ffa8c346c45c.png" srcset="" alt="Confirm Lucid Connection" height="558" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c7eb094d-3b5e-44b9-97ec-9c13415d5adc" class="text-block-content">
+    <p>After logging in to Lucid, connect your Lucid and Canvas accounts by clicking the <strong>Connect to Lucid</strong> button. </p>
+<p><strong>Note:</strong> To view this page after logging in to Lucid, you may need to refresh your Canvas browser tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm-lucid-education-plan" data-step-uuid="e9ef6f5c-e4f6-4ec7-afc2-1efae4321ec5">
+    <h2 id="confirm-lucid-education-plan" class="step-title screensteps-heading">Confirm Lucid Educational Plan</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/390/954/original/ea943dbc-c850-410a-a034-7c8d9039ebcb.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/390/954/medium/ea943dbc-c850-410a-a034-7c8d9039ebcb.png" srcset="" alt="Confirm Lucid Educational Plan" height="558" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f40d33db-3ce0-40d5-b627-90602ffa635c" class="text-block-content">
+    <p>Your Lucid account is upgraded to a free educational plan. To acknowledge, click the <strong>Continue</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="connect-canvas-to-lucid" data-step-uuid="81fe8969-dfed-44ea-9154-5e97708609d8">
+    <h2 id="connect-canvas-to-lucid" class="step-title screensteps-heading">Connect Canvas to Lucid</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/398/416/original/83ab210a-f3cc-4f42-81c7-28fe4df43633.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/398/416/medium/83ab210a-f3cc-4f42-81c7-28fe4df43633.png" srcset="" alt="Connect Canvas to Lucid" height="493" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6fc31dd1-2292-4036-ad0f-781d8bf4f63c" class="text-block-content">
+    <p>To complete the connection between your Canvas and Lucid accounts, click the <strong>Get Started</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="grant-account-access" data-step-uuid="a24bfb64-d282-4be6-b5ad-5d54c6d89230">
+    <h2 id="grant-account-access" class="step-title screensteps-heading">Grant Account Access</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/398/464/original/4a6a486e-4b9d-4774-839e-014e5eed3fa2.png" srcset="" alt="Grant Account Access" height="1148" width="853">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_46f2df63-5a81-42a8-b6c7-19dee442f202" class="text-block-content">
+    <p>A new browser tab displays. After reviewing the request for access, click the <strong>Grant Access</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-lucid" data-step-uuid="93d5e639-4db0-42cf-b9a0-ffbaaf6f5c9b">
+    <h2 id="view-lucid" class="step-title screensteps-heading">View Lucid in Canvas</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/390/956/original/f691dee0-bc2d-40c1-a71f-918bdac64db0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/390/956/medium/f691dee0-bc2d-40c1-a71f-918bdac64db0.png" srcset="" alt="View Lucid in Canvas" height="505" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_65bcde5e-8350-4087-b58c-cfe553b8e2cd" class="text-block-content">
+    <p>Once your Lucid and Canvas accounts are connected, you can view existing Lucid documents [1] and search existing documents [2]. </p>
+<p>To <a href="https://help.lucid.co/hc/en-us/articles/11970952773652-Welcome-to-Lucidchart#create-lucidchart-document" target="_blank" rel="nofollow noopener noreferrer">create a new Lucidchart document</a> or <a href="https://help.lucid.co/hc/en-us/articles/11973407023636-Welcome-to-Lucidspark#create-a-lucidspark-board" target="_blank" rel="nofollow noopener noreferrer">new Lucidspark board</a>, click the <strong>Add New</strong> button [3].</p>
+<p>Learn more about <a href="https://help.lucid.co/hc/en-us/articles/11970952773652-Welcome-to-Lucidchart" target="_blank" rel="nofollow noopener noreferrer">Lucidchart</a> and <a href="https://help.lucid.co/hc/en-us/articles/11973407023636-Welcome-to-Lucidspark" target="_blank" rel="nofollow noopener noreferrer">Lucidspark</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

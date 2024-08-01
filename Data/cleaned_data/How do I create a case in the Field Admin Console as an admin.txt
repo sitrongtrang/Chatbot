@@ -1,0 +1,15 @@
+How do I create a case in the Field Admin Console as an admin
+Create New Case
+In the Field Admin Console home page, click the Create Support Ticket button.
+Select Instance
+Select the instance in which you are creating the case using the Which Instance for this Case? dropdown. Then click the Next button. 
+Escalate SIS Case
+If your instance is authorized to escalate SIS cases, a SIS escalation prompt displays. 
+Learn more about creating a SIS escalation case.
+Add Case Details
+Enter a subject for the case in the Subject field and a description in the Description field.
+To add an attachment to the case, drag and drop files or click the Upload Files button. 
+To submit your case, click the Next button. 
+View Case
+When submitted successfully, your case number displays. 
+To view full case details, click the Next button.

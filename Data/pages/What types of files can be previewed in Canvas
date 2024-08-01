@@ -1,0 +1,375 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_5B12B410-2167-0135-D4B7-22000AB760A3" class="text-block-content">
+    <p>Canvas supports a variety of document types that can be converted in Canvas. If the submitted file is an assignment and Canvas DocViewer supported file type, the file will be rendered by <a href="/t5/Instructor-Guide/How-do-I-add-annotated-comments-in-student-submissions-using/ta-p/694" target="_blank">DocViewer in SpeedGrader</a>. If the submitted file is not an assignment or a DocViewer supported file type, the file will be rendered by Google Previewer. If your file upload does not display a preview, try uploading it as a different file type.</p>
+<p>Canvas supports previews for documents up to 100 MB and 999 pages. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>SpeedGrader may take up to ten minutes after an assignment is submitted to display a document that supports DocViewer.</li>
+<li>Files over 30 MB need to be downloaded to view.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="document-preview-files" data-step-uuid="70da3624-da2f-4b5e-b745-01cdea156b2e">
+    <h2 id="document-preview-files" class="step-title screensteps-heading">Document Preview Files</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e96f180a-ea6a-4e9d-906c-d2b8b5758ef3" class="text-block-content">
+    <p>The following file types are supported for Canvas DocViewer:</p>
+  </div>
+</div>
+ 
+      <div class="screensteps-table">
+  <table style="width:100%;"><tbody>
+<tr>
+<td>.doc</td>
+<td>.ods<br>
+</td>
+<td>.sxc<br>
+</td>
+</tr>
+<tr>
+<td>.docx</td>
+<td>.odt<br>
+</td>
+<td>.sxi<br>
+</td>
+</tr>
+<tr>
+<td style="">.key</td>
+<td style="">.pages</td>
+<td style="">.sxw</td>
+</tr>
+<tr>
+<td style="">.numbers</td>
+<td style="">.pdf</td>
+<td style="">.txt</td>
+</tr>
+<tr>
+<td style="width:33.2828%;">.odf<br>
+</td>
+<td style="width:33.2828%;">.ppt<br>
+</td>
+<td style="width:33.3839%;">.xlsx<br>
+</td>
+</tr>
+<tr>
+<td>.odg<br>
+</td>
+<td>.pptx<br>
+</td>
+<td>.xls<br>
+</td>
+</tr>
+<tr>
+<td>.odp<br>
+</td>
+<td>.rtf<br>
+</td>
+<td><br></td>
+</tr>
+</tbody></table>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b70922c9-22c6-4b11-b2f7-bb81e9feb2dd" class="text-block-content">
+    <p><strong>Notes: </strong></p>
+<ul>
+<li>HTML located within a text file (.txt) cannot be previewed or annotated in DocViewer and must be downloaded to view the content.</li>
+<li>Audio and video located within Powerpoint files (.ppt/.pptx) cannot be previewed in DocViewer and must be downloaded to view the content.</li>
+<li>In the Canvas Teacher and Canvas Student apps, OpenDocument files (.ods/.odt) cannot be previewed in DocViewer. However, if the user has a third party app installed on the device, they can use that app to view OpenDocument formats.</li>
+<li>To preview Apple iWork files (.pages, .numbers, and .key), your Canvas account must be located within the United States. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="document-preview-fonts_1" data-step-uuid="82310811-07cc-4f1f-8f29-ed79988c56bb">
+    <h2 id="document-preview-fonts_1" class="step-title screensteps-heading">Document Preview Fonts</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_60ce98be-1da8-4ba7-a535-2329bc433cd6" class="text-block-content">
+    <p>The following fonts are supported for Canvas DocViewer:</p>
+  </div>
+</div>
+ 
+      <div class="screensteps-table">
+  <table style="width:100%;"><tbody>
+<tr>
+<td style="vertical-align:top;width:32.9577%;">
+<div><strong>AR PL UMing<br></strong></div>
+<div style="margin-left:20px;">Light (CN, HK, TW, TWE)</div>
+</td>
+<td style="vertical-align:top;width:33.5554%;">
+<strong>DejaVu Sans</strong><div style="margin-left:20px;">Extra Light</div>
+<div style="margin-left:20px;">Book</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Oblique</div>
+<div style="margin-left:20px;">Bold Oblique</div>
+<div style="margin-left:20px;">Condensed</div>
+</td>
+<td style="vertical-align:top;width:33.3814%;">
+<strong>IPA Mincho</strong><div style="margin-left:20px;">Regular</div>
+</td>
+</tr>
+<tr>
+<td style="width:32.9577%;vertical-align:top;">
+<div><strong>AR PL UKai<br></strong></div>
+<div style="margin-left:20px;">Book (CN, HK, TW, TWE)</div>
+</td>
+<td style="width:33.5554%;vertical-align:top;">
+<strong>DejaVu Sans Condensed</strong><div style="margin-left:20px;">Book</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Oblique</div>
+<div style="margin-left:20px;">Bold Oblique</div>
+<div style="margin-left:20px;">Condensed</div>
+<div style="margin-left:20px;">Condensed Bold</div>
+<div style="margin-left:20px;">Condensed Oblique</div>
+<div style="margin-left:20px;">Condensed Bold Oblique</div>
+</td>
+<td style="width:33.3814%;vertical-align:top;">
+<strong>Times New Roman</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Bold Italic</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:32.9577%;">
+<strong>Arial</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold Italic</div>
+</td>
+<td style="vertical-align:top;width:33.5554%;">
+<strong>Georgia</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Bold Italic</div>
+</td>
+<td style="vertical-align:top;width:33.3814%;">
+<strong>Verdana</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Bold Italic</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:32.9577%;">
+<strong>Arial Narrow</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold Italic</div>
+</td>
+<td style="vertical-align:top;width:33.5554%;">
+<strong>IPAP Mincho</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="vertical-align:top;width:33.3814%;">
+<strong>Un Batang</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+<br>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:32.9577%;">
+<strong>Arial Unicode</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+</td>
+<td style="vertical-align:top;width:33.5554%;">
+<strong>IPA Gothic</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="vertical-align:top;width:33.3814%;">
+<strong>Un Dinaru</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Light</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:32.9577%;">
+<strong>Calibri</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold Italic</div>
+</td>
+<td style="vertical-align:top;width:33.5554%;">
+<strong>IPAP Gothic</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="vertical-align:top;width:33.3814%;">
+<strong>Un Dotum</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:32.9577%;">
+<strong>DejaVu Serif</strong><div style="margin-left:20px;">Book</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold Italic</div>
+</td>
+<td style="vertical-align:top;width:33.5554%;">
+<strong>Meiryo</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="vertical-align:top;width:33.3814%;">
+<strong>Un Graphic</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:top;width:32.9577%;">
+<strong>Dotum</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="vertical-align:top;width:33.5554%;">
+<strong>M Hei PRC</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="vertical-align:top;width:33.3814%;">
+<strong>Un Gungseo</strong><div style="margin-left:20px;">Regular</div>
+<br>
+</td>
+</tr>
+<tr>
+<td style="width:32.9577%;vertical-align:top;">
+<strong>Cambria</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold Italic</div>
+</td>
+<td style="width:33.5554%;vertical-align:top;">
+<strong>M Hei HK Medium</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="width:33.3814%;vertical-align:top;">
+<strong>Un Pilgi</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+<br>
+</td>
+</tr>
+<tr>
+<td style="width:32.9577%;vertical-align:top;">
+<strong>Cambria Math</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="width:33.5554%;vertical-align:top;">
+<strong>MingLiu</strong><br>    Regular<br><br>
+</td>
+<td style="width:33.3814%;vertical-align:top;">
+<strong>Wingdings 1</strong><div style="margin-left:20px;">Regular</div>
+<br>
+</td>
+</tr>
+<tr>
+<td style="width:32.9577%;vertical-align:top;">
+<strong>Comic Sans</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Bold</div>
+</td>
+<td style="width:33.5554%;vertical-align:top;">
+<strong>Monotype Sorts</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="width:33.3814%;vertical-align:top;">
+<strong>Wingdings 2</strong><div style="margin-left:20px;">Regular</div>
+<br>
+</td>
+</tr>
+<tr>
+<td style="width:32.9577%;vertical-align:top;">
+<strong>Courier New</strong><div style="margin-left:20px;">Regular</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Bold Italic</div>
+</td>
+<td style="width:33.5554%;vertical-align:top;">
+<strong>Palace Script MT</strong><div style="margin-left:20px;">Regular</div>
+</td>
+<td style="width:33.3814%;vertical-align:top;">
+<strong>Wingdings 3</strong><div style="margin-left:20px;">Regular</div>
+<br>
+</td>
+</tr>
+<tr>
+<td style="width:32.9577%;vertical-align:top;">
+<strong>DejaVu Serif Condensed</strong><div style="margin-left:20px;">Book</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Italic</div>
+<div style="margin-left:20px;">Bold Italic</div>
+<div style="margin-left:20px;">Condensed</div>
+<div style="margin-left:20px;">Condensed Bold</div>
+<div style="margin-left:20px;">Condensed Italic</div>
+<div style="margin-left:20px;">Condensed Bold Italic</div>
+</td>
+<td style="width:33.5554%;vertical-align:top;">
+<strong>SimSun</strong><br>   Regular</td>
+<td style="width:33.3814%;vertical-align:top;"><br></td>
+</tr>
+<tr>
+<td style="width:32.9577%;">
+<strong>DejaVu Sans Mono</strong><div style="margin-left:20px;">Book</div>
+<div style="margin-left:20px;">Oblique</div>
+<div style="margin-left:20px;">Bold</div>
+<div style="margin-left:20px;">Bold Oblique</div>
+<br>
+</td>
+<td style="width:33.5554%;vertical-align:top;">
+<strong>Symbol</strong><div style="margin-left:20px;">Regular</div>
+<br>
+</td>
+<td><br></td>
+</tr>
+</tbody></table>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="image-preview-files" data-step-uuid="90812805-01cc-4c14-b176-d318e0160db2">
+    <h2 id="image-preview-files" class="step-title screensteps-heading">Image Preview Files</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_acf053a0-9003-4950-8a2a-7cb8e2f9c702" class="text-block-content">
+    <p>The following image files are supported for Canvas DocViewer:</p>
+  </div>
+</div>
+ 
+      <div class="screensteps-table">
+  <table style="width:100%;"><tbody>
+<tr>
+<td style="width:33.2821%;">.bmp</td>
+<td style="width:33.3845%;">.png<br>
+</td>
+<td style="width:33.2821%;">.tiff</td>
+</tr>
+<tr>
+<td>.jpeg</td>
+<td>.svg</td>
+<td><br></td>
+</tr>
+<tr>
+<td style="">.jpg<br>
+</td>
+<td style="">.tif</td>
+<td style=""><br></td>
+</tr>
+</tbody></table>
+</div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5db15569-38d4-4e5f-8701-c9f5399b66ad" class="text-block-content">
+    <p><strong>Note:</strong> TIF and TIFF file previews are not native to most browsers and may not preview in Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

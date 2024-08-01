@@ -1,0 +1,242 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_8958f9cd-6484-42c1-bb16-eaca10c8755e" class="text-block-content">
+    <p>When <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz</a>, you can create a Hot Spot question in New Quizzes. Hot Spot questions allow teachers to upload images and have their students identify a specific area in that image.</p>
+<p>The following image types can be used for Hot Spot questions:</p>
+<ul>
+<li>BMP</li>
+<li>GIF</li>
+<li>JPG/JPEG</li>
+<li>PNG</li>
+</ul>
+<p>You can also <a href="/t5/Instructor-Guide/How-do-I-duplicate-an-individual-question-in-New-Quizzes/ta-p/404516" target="_blank">duplicate Hot Spot questions</a> to create a new question.</p>
+<p><strong>Note:</strong> Hot spot questions are not accessible for users who require keyboard-only access or screen readers.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question" data-step-uuid="684ae83b-89b3-4a15-83f3-0b68becbb109">
+    <h2 id="add-question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/890/646/original/587bbcbb-f8b7-4f0c-a435-3011a958fbee.png" srcset="" alt="Add Question" height="415" width="719">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7f637bbf-1112-4456-b07f-f20607261bac" class="text-block-content">
+    <p>To create a question, click the <strong>Add</strong> button anywhere in the quiz.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-categorization-question" data-step-uuid="3b904b48-a8e7-4017-bbfb-cb3cb848622d">
+    <h2 id="add-categorization-question" class="step-title screensteps-heading">Add Hot Spot Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/776/044/original/1dae6727-85c3-47ec-beaa-7c6f4cb628a4.png" srcset="" alt="Add Hot Spot Question" height="555" width="758">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eb57c1c5-b619-46af-9bb3-8da6ec142aef" class="text-block-content">
+    <p>Click the <strong>Add Hot Spot</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-question-details" data-step-uuid="1b6ac821-3f8b-47ca-a3f9-283bf9d07a78">
+    <h2 id="add-question-details" class="step-title screensteps-heading">Add Question Title and Stem</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/726/317/original/4343b1bd-e5d6-4d83-b2d1-d646905420a1.png" srcset="" alt="Add Question Title and Stem" height="347" width="720">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_315c5453-12ba-4ab5-9a13-3e69d7d21f8f" class="text-block-content">
+    <p>In the <strong>Question Title</strong> field [1], add a question title. Question titles are optional and are not visible to students.</p>
+<p>In the <strong>Question Stem</strong> field [2], add the question stem. The question stem contains the question and, if necessary, additional instructions and information. You can <a href="/t5/Instructor-Guide/How-do-I-use-the-menubar-in-the-Rich-Content-Editor-as-an/ta-p/931" target="_blank">use the Rich Content Editor</a> to format and add content to your question stem.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="upload-image" data-step-uuid="aa17efbf-c1e2-4366-a411-56358935114c">
+    <h2 id="upload-image" class="step-title screensteps-heading">Upload Image</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/840/original/f0acd5d5-af3a-4890-b4b5-9b7a12bc3854.png" srcset="" alt="Upload Image" height="165" width="803">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ee5581f1-f1f8-4a0b-9795-6d7f8adc01b3" class="text-block-content">
+    <p>To upload an image for the Hot Spot question, drag and drop the image [1] or select a file by clicking the <strong>Browse</strong> link [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="draw-hot-spot" data-step-uuid="bb548e4a-df0d-4e50-abf9-b5fb9de08adc">
+    <h2 id="draw-hot-spot" class="step-title screensteps-heading">Draw Hot Spot</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/692/915/original/4d298401-d5ab-4775-b32b-db40a3d08181.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/692/915/medium/4d298401-d5ab-4775-b32b-db40a3d08181.png" srcset="" alt="Draw Hot Spot" height="658" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_eba4837e-9ccc-43c8-94c2-fa02f33eba21" class="text-block-content">
+    <p>You can use one of three shapes to draw the hot spot: square [1], circle [2], and polygon [3].</p>
+<p>To delete a hot spot and create a new one, click a shape tool or the image.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="use-square-or-circle-tool" data-step-uuid="47bc143a-ed05-405f-a6f3-f9eac99fbc94">
+    <h3 id="use-square-or-circle-tool" class="step-title screensteps-heading">Use Square or Circle Tool</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/052/639/original/2ad7355c-3635-4631-8048-4e197acb9a4e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/052/639/medium/2ad7355c-3635-4631-8048-4e197acb9a4e.png" srcset="" alt="Use Square or Circle Tool" height="608" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_62c5fb16-9b52-4d15-8642-61aa7fba21db" class="text-block-content">
+    <p>To create a square or circle hot spot, click the shape [1] then drag the shape over the hot spot [2]. To complete the shape, click your mouse.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="use-polygon-tool" data-step-uuid="81b06250-1cb7-4aa3-beda-b1ae860238a8">
+    <h3 id="use-polygon-tool" class="step-title screensteps-heading">Use Polygon Tool</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/052/632/original/ce1efd5c-9461-4e6d-9ef2-bb8c043032a2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/052/632/medium/ce1efd5c-9461-4e6d-9ef2-bb8c043032a2.png" srcset="" alt="Use Polygon Tool" height="608" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_42338f26-03e6-4786-bcdf-86724dcfbb90" class="text-block-content">
+    <p>To create a polygon hot spot, click the polygon shape [1]. Click the image then drag the tool around the image to create each side of the polygon [2]. To end one side of the polygon, click your mouse. To close the hot spot area, double click your mouse at any time.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="expand-image" data-step-uuid="26ed5198-cc99-4108-b7c8-7f08e6777d7b">
+    <h2 id="expand-image" class="step-title screensteps-heading">Expand Image</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/052/637/original/04cc8944-2c1b-487f-a862-53ec3d5bfb4a.png" srcset="" alt="Expand Image" height="150" width="432">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8c385b02-1876-48ed-b404-97344c99de62" class="text-block-content">
+    <p>To expand the image when creating a hot spot, click the <strong>Expand</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/692/914/original/238ef585-765d-4be4-95cc-cf78c6638ddf.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/692/914/medium/238ef585-765d-4be4-95cc-cf78c6638ddf.png" srcset="" alt="View Expanded Image" height="558" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3a90381f-65f0-4dde-a8bb-c7e6e78614fd" class="text-block-content">
+    <p>From the expanded view, you can use any shape to create a hot spot [1]. To save the hot spot, click the <strong>Done </strong>button [2]. To return to the quiz question, click the <strong>Close</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set-options" data-step-uuid="87c2727f-5456-4385-bd04-bcae9a6f661a">
+    <h2 id="set-options" class="step-title screensteps-heading">Set Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/303/330/original/bdd8bf2f-b4fc-4086-a9b4-42eabd53da72.png" srcset="" alt="Set Options" height="352" width="628">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cdf2c558-c4b9-4eb6-95b2-29393f294dd8" class="text-block-content">
+    <p>To allow students to use an on-screen calculator for this question, click the <strong>Show on-screen calculator</strong> checkbox [1].</p>
+<p>If you select this option, you can choose either a basic calculator [2] or scientific calculator [3]. The basic calculator displays numbers and basic math functions (add, subtract, multiply, divide). The scientific calculator displays more options for advanced calculations.</p>
+<p><strong>Note:</strong> The on-screen calculator option is intended to be used while displaying one question at a time. If the quiz does not display one question at a time, students may be able to use the calculator for all questions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="align-to-outcome" data-step-uuid="fc8434f6-2a1f-4ec8-98d9-b6a22a9748b4">
+    <h2 id="align-to-outcome" class="step-title screensteps-heading">Align to Outcome</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/834/original/2796ad31-4f31-4c86-9cb3-4fb614e58cc2.png" srcset="" alt="Align to Outcome" height="319" width="780">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_658667dd-2d43-4be4-9bdd-02c52a4c906c" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-align-an-outcome-to-a-quiz-question-in-New-Quizzes/ta-p/778" target="_blank">align the question to an outcome,</a> click anywhere in the <strong>Align to Outcomes</strong> section.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-to-item-bank" data-step-uuid="b2a134b2-b7df-4238-8315-172a4dc6f1f5">
+    <h2 id="add-to-item-bank" class="step-title screensteps-heading">Add to Item Bank</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/830/original/ec351ef1-32eb-46aa-9b23-24ec891675c8.png" srcset="" alt="Add to Item Bank" height="129" width="775">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_27cc17c4-d20a-4f22-acdc-e79b22800ef0" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-add-content-to-an-item-bank-in-New-Quizzes/ta-p/587" target="_blank">add the question to an item bank</a>, click the <strong>Add to Bank</strong> link.</p>
+<p><strong>Note: </strong>After a question has been added to an item bank, it can only be edited in the item bank. You can still set unique point values and options in the quiz for an item bank question.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-point-value-and-feedback" data-step-uuid="1b02ebe0-d6d8-48d6-b95e-5e78faaef5ed">
+    <h2 id="add-point-value-and-feedback" class="step-title screensteps-heading">Add Point Value and Feedback</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/289/836/original/37e1db97-ae26-4872-b92a-37c60524c78a.png" srcset="" alt="Add Point Value and Feedback" height="274" width="795">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_483ed61b-8615-4fb9-b44e-650b6d6329c7" class="text-block-content">
+    <p>To customize the point value for the question, type the point value in the <strong>Points</strong> field [1] or use the arrows to increase or decrease the point value [2].</p>
+<p>To <a href="/t5/Instructor-Guide/How-do-I-add-feedback-to-a-question-in-New-Quizzes/ta-p/591" target="_blank">leave feedback for students</a>, click the <strong>Feedback</strong> icon [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-question" data-step-uuid="ac18c4f7-b093-49eb-9cb3-0270024c9af0">
+    <h2 id="save-question" class="step-title screensteps-heading">Save Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/890/664/original/8652ed91-4b29-4774-aa6a-ed27527bed27.png" srcset="" alt="Save Question" height="63" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f6649314-eab6-4dc7-81b8-16fd999f5e7f" class="text-block-content">
+    <p>To save the question, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,22 @@
+How do I manage KB update requests in the Field Admin Console as an admin
+Open Update Request
+KB update requests display in the KB Update Requests list. To open an update request, click the name of the request.
+To view all update requests, click the View All link.
+View Update Request
+KB update details display in the Update Request section.
+ View the request date and time in the Update Request Date field. View the KB addition suggestion from Canvas Support in the Update Request field.
+Edit KB Entry
+KB updates can be made in the Canvas Support Details section.
+To edit your KB entry, click the Edit icon for any field.
+Enter Case Handling Details
+Enter updates to your KB entry in the Default Case Handling fields:
+The Details for Canvas Support field displays any relevant information for how Canvas Support should handle related cases.
+The Key Words field displays any related terms or words that users might use when submitting a case related to the KB entry.
+The Details for your users field displays a scripted response that support agents can use when responding to related cases.
+KB entry fields will display a highlighted border once any changes have been made. To undo edits, click the Undo icon.
+Save Changes
+To remove the KB entry from the KB Update Requests list on the home page, click the Details Updated checkbox.
+To save your changes, click the Save button.
+Notes: 
+Checking the Details Updated checkbox and saving your changes will also clear all content from the Update Requests fields.
+When viewing your KB, Canvas support agents will be able to view when the last change was made to the entry.

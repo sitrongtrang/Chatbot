@@ -1,0 +1,151 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_14103571-0d8e-411f-ab9c-7317efe1f547" class="text-block-content">
+    <p>You can share an item bank with another user in New Quizzes or to another Canvas course. Item banks can only be shared with users with a teacher, TA, or admin role.</p>
+<p>You can choose to share an item bank with view or edit access. Sharing an item bank with view access only allows the user you share with to view the item bank. Sharing an item bank with edit access gives users full access to the item bank, including adding items to the bank, sharing or removing users from the bank, and deleting the bank.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Canvas Admins can also manage access to item banks for an entire account.</li>
+<li>Instructors can share an item bank to the current course while <a href="/t5/Instructor-Guide/How-do-I-create-an-item-bank-in-New-Quizzes/ta-p/593" target="_blank">creating the item bank</a>.</li>
+<li>If given the permission by your institution, you can share item banks with sub-accounts.</li>
+<li>Item banks shared to a course are only viewable to admins or instructors enrolled in the course.</li>
+<li>Item banks shared to a user display in each of the courses in which they are enrolled as an instructor or TA.</li>
+<li>When a course is copied that includes a new quiz with an item bank, the item bank is shared with the new course automatically. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-item-banks" data-step-uuid="58bda424-173f-473a-8494-0f67d0b79f22">
+    <h2 id="open-item-banks" class="step-title screensteps-heading">Open Item Banks</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/226/978/original/f4740ce1-560d-4cbe-98ee-b0b6c46d7449.png" srcset="" alt="Open Item Banks" height="209" width="163">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_90cd9298-cccd-4afb-acfe-5b08f1df7f5b" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Item Banks</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="share-item-bank" data-step-uuid="363cd30e-fc53-40e6-9bd2-72dd3942916b">
+    <h2 id="share-item-bank" class="step-title screensteps-heading">Share Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/945/920/original/11ec84cc-ef42-4203-86e6-984dc14d6e71.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/945/920/medium/11ec84cc-ef42-4203-86e6-984dc14d6e71.png" srcset="" alt="Share Item Bank" height="316" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_be5173c9-86be-4507-922e-d09ee8d370b2" class="text-block-content">
+    <p>Locate the item bank you want to share [1], then click the <strong>Share</strong> icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find-user" data-step-uuid="73703005-337c-422a-8647-0f8edb209e98">
+    <h2 id="find-user" class="step-title screensteps-heading">Share With Users</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/226/983/original/21996b96-e0b5-430e-9bed-2cc6d30e5035.png" srcset="" alt="Share With Users" height="456" width="771">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_fa6224bd-e7f1-4d91-8144-1a02b2f1306c" class="text-block-content">
+    <p>Enter the name of the user you want to share the item bank with in the <strong>Share With</strong> field [1]. Then click the name of the user [2]. You can add multiple users in the Share With field.</p>
+<p>To set access rights for the item bank, click the <strong>Access</strong> drop-down menu [3]. You can share the item bank with view access, which only allows the user you share with to view the item bank, or edit access, which allows the user you share with to view and edit the item bank.</p>
+<p>To share the item bank with the selected course, click the <strong>Add</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="share-with-course" data-step-uuid="e8b52533-b1d2-4551-94b6-ab14da88db38">
+    <h2 id="share-with-course" class="step-title screensteps-heading">Share with Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/396/753/original/796d2258-a663-4e21-9cd9-516b0a19035e.png" srcset="" alt="Share with Course" height="455" width="690">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6dd64d22-ff69-4d37-8391-eb86bd3d60a6" class="text-block-content">
+    <p>Enter the name of the course you want to share the item bank with in the <strong>Share With</strong> field [1]. Then click the name of the course [2]. You can add multiple courses in the Share With field.</p>
+<p>To set access rights for the item bank, click the <strong>Access</strong> drop-down menu [3]. You can share the item bank with view access, which only allows the course you share with to view the item bank, or edit access, which allows the course you share with to view and edit the item bank.</p>
+<p>To share the item bank with the selected course, click the <strong>Add</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="share-with-sub-account" data-step-uuid="77d1846d-8f5c-4bb3-9976-729909fe81f3">
+    <h2 id="share-with-sub-account" class="step-title screensteps-heading">Share with Accounts</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/396/756/original/c6b4c301-c59c-4b79-8106-b6eda4d9e440.png" srcset="" alt="Share with Sub-account" height="465" width="695">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1f48b783-9e41-419d-82d6-31455c221218" class="text-block-content">
+    <p>If given the permission by your institution, you can share item banks with sub-accounts.</p>
+<p>Enter the name of the course you want to share the item bank with in the <strong>Share With</strong> field [1]. Then click the name of the sub-account [2]. You can add multiple sub-accounts in the Share With field.</p>
+<p>To set access rights for the item bank, click the <strong>Access</strong> drop-down menu [3]. You can share the item bank with view access, which only allows the sub-account you share with to view the item bank, or edit access, which allows the sub-account you share with to view and edit the item bank.</p>
+<p>To share the item bank with the selected sub-account, click the <strong>Add</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-users" data-step-uuid="c7735f3b-ac18-41db-877d-c2b3cdc50a89">
+    <h2 id="view-users" class="step-title screensteps-heading">View Currently Shared With</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/396/759/original/5eafcce5-a04c-4b14-9573-7c3a5ca1fd90.png" srcset="" alt="View Currently Shared With" height="431" width="708">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bd433cdd-ace1-4217-9b27-c6a2f72526b2" class="text-block-content">
+    <p>View the users, courses, and accounts who can view or manage the item bank [1].</p>
+<p>To edit the item bank access, click the <strong>Access</strong> drop-down [2].</p>
+<p>To remove a user's access from the item bank, click the <strong>Remove</strong> icon [3].</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>You can remove any user from an item bank, including yourself.</li>
+<li>If you accidentally remove a user or course from an item bank, you can share with them again.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-changes" data-step-uuid="a077a36f-5226-427d-904a-e1778089bd33">
+    <h2 id="save-changes" class="step-title screensteps-heading">Save Changes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/396/764/original/f1241150-9d82-45c1-bf1a-014a2e717c4e.png" srcset="" alt="Save Changes" height="62" width="91">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7d6d8643-18f5-4c74-af5a-6934ff8585a1" class="text-block-content">
+    <p>To save your changes and return to your item banks, click the <strong>Close</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

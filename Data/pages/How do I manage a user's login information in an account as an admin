@@ -1,0 +1,166 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_140C51F0-1D81-0135-016E-22000AB760A3" class="text-block-content">
+    <p>You can manually manage a user's login information in an account. You can create a new login for a user to access Canvas through your Canvas URL and also delete logins.</p>
+<p>If you have permission, you can also edit passwords for existing user logins. If you cannot view the password field for a user's existing login, you cannot edit the user's password. For assistance with this feature, please contact your Customer Success Manger. Users need to reset their passwords through the institution's password management system.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>New or updated login information is not automatically sent to the student. Changes need to be communicated to the student. For security, login information should not be sent through email and should be communicated verbally.</li>
+<li>If your account manages user information through a student information system (SIS), changes will also have to be made in the SIS. Any changes made in Canvas will not be passed back to the SIS.</li>
+<li>A student's login displays in the secondary ID field in the Gradebook. If a student has multiple logins, the secondary ID corresponds to whatever login is listed first in the user details page unless the login includes an SIS ID. A login associated with an SIS ID regardless of position is displayed in the Gradebook as the secondary ID and the People page as the login ID.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="6f5a0feb-6169-4788-87e0-9cbf23a06cb5">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_140C86F0-1D81-0135-0170-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-people" data-step-uuid="8469f11d-afe3-4a83-a730-ee789d7ff592">
+    <h2 id="open-people" class="step-title screensteps-heading">Open People</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/755/395/original/59a3b177-c463-4464-9ce9-51c59096b183.png" srcset="" alt="Open People" height="298" width="158">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_876cd947-32b4-4d8e-b5d9-a1f4014cd423" class="text-block-content">
+    <p>In Account Navigation, click the <strong>People </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find-user" data-step-uuid="dc36b2b0-5fe4-431d-ab19-9db84826a404">
+    <h2 id="find-user" class="step-title screensteps-heading">Find User</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/076/220/original/find-user.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png" srcset="https://media.screensteps.com/image_assets/assets/008/076/220/medium/find-user.png 2.0x, https://media.screensteps.com/image_assets/assets/008/076/220/medium_lowres/find-user.png" alt="Find User" height="103" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f1e81186-5e36-4d93-a4ec-23a047da12e7" class="text-block-content">
+    <p>Use the filter and search options to find the user in the account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-user-profile" data-step-uuid="9b004e61-0fdd-4c83-93cb-2f3fc33e54ae">
+    <h2 id="open-user-profile" class="step-title screensteps-heading">Open User Profile</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/971/989/original/f68b630c-72ab-43b5-b5bf-ed1243186dee.png" srcset="" alt="Open User Profile" height="164" width="596">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38809ea0-471c-4e5e-8921-e7a487fe643f" class="text-block-content">
+    <p>In the search results, click the user's name.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_login" data-step-uuid="f61b71ed-90a8-4511-95c2-e5304c29fd53">
+    <h2 id="add_login" class="step-title screensteps-heading">Add Login</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/013/528/original/ccde16c9-155c-4902-9717-e69e954102b0.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/013/528/medium/ccde16c9-155c-4902-9717-e69e954102b0.png" srcset="" alt="Add Login" height="526" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_140D17D0-1D81-0135-0176-22000AB760A3" class="text-block-content">
+    <p>To add a new login, click the <strong>Add Login </strong>link.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/082/604/original/2c126a20-f2ee-4c63-bb01-02f5dd73bcc4.png" srcset="" alt="Add Login" height="373" width="386">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_140D4B60-1D81-0135-0178-22000AB760A3" class="text-block-content">
+    <p>In the <strong>Login </strong>field [1], create a login for the user. The login can be a username or email and contain letters, numbers, or the following symbol characters:  - _ = +.</p>
+<p>In the <strong>SIS ID</strong> field [2], you can add an SIS ID.</p>
+<p>In the <strong>Integration ID </strong>field [3], you can add an integration ID (secondary SIS ID).</p>
+<p>In the <strong>Password</strong> field [4], create a password for the user. Then confirm the password [5]. </p>
+<p>Click the <strong>Add Login </strong>button [6].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_login" data-step-uuid="79b871c7-3ee2-4526-b1af-72b27cb5d198">
+    <h2 id="edit_login" class="step-title screensteps-heading">Edit Login</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/013/530/original/7ebecf1e-3367-41d2-ab38-4418d36c223e.png" srcset="" alt="Edit Login" height="581" width="823">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_140D7DD0-1D81-0135-017A-22000AB760A3" class="text-block-content">
+    <p>To edit an existing login, click the <strong>Edit</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="update_login" data-step-uuid="923e1dbd-cae0-43df-a781-04bd492b755f">
+    <h3 id="update_login" class="step-title screensteps-heading">Update Login</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/082/606/original/3f920456-8f3e-4648-ab53-8753ca425e57.png" srcset="" alt="Update Login" height="373" width="387">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_140DB1B0-1D81-0135-017C-22000AB760A3" class="text-block-content">
+    <p>Update any login details as necessary. </p>
+<p>When you are done, click the <strong>Update Login </strong>button [2].</p>
+<p><strong>Note:</strong> If you cannot view the password fields, you do not have permission to manage existing user passwords. The user must reset their password through the institution's password management system.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="delete_login" data-step-uuid="1f915392-5a01-4217-ba1b-4037c176f234">
+    <h2 id="delete_login" class="step-title screensteps-heading">Delete Login</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/013/532/original/ceecdc03-9d9a-4169-860f-a1e3794952a7.png" srcset="" alt="Delete Login" height="564" width="823">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_140DE860-1D81-0135-017E-22000AB760A3" class="text-block-content">
+    <p>To delete a login, click the <strong>Delete </strong>icon.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

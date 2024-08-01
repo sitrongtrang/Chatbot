@@ -1,0 +1,213 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_2B97C080-0372-0135-4074-22000BC102FE" class="text-block-content">
+    <p>You can manually configure an external app in your course. However, <a href="/t5/Instructor-Guide/How-do-I-configure-an-external-app-for-a-course-using-a-URL/ta-p/884" target="_blank">configuring an external app by URL</a> is more common.</p>
+<p>To learn more about configuring external apps, visit the <a href="https://www.eduappcenter.com/docs/basics/index" target="_blank" rel="nofollow noopener noreferrer">Edu App Center</a>.</p>
+<p><a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-External-Apps-LTI-Tools/ta-p/57" target="_blank">Learn more about External Apps</a>.</p>
+<p><strong>Note:</strong> Manually configuring an external app is a course permission. If you cannot configure an external app, your institution has restricted this feature.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="E1DDDBDE-13D4-42CC-B91B-D6CC7DDA156A">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/763/078/original/35ade0fd-d47d-4603-9d3a-97a8c02065c5.png" srcset="" alt="Open Settings" height="250" width="178">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9928A0-0372-0135-4076-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_apps" data-step-uuid="AFB0653C-3CDB-4338-A978-280FD750B6DA">
+    <h2 id="open_apps" class="step-title screensteps-heading">Open Apps</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/722/original/83f9a302-1213-4c01-803c-e283432c7d19.png" srcset="" alt="Open Apps" height="81" width="528">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9A1270-0372-0135-4078-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Apps </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_app_configurations" data-step-uuid="38be53e1-9d31-4647-a0ff-5da0b315e8f3">
+    <h2 id="view_app_configurations" class="step-title screensteps-heading">View App Configurations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/726/original/dfd43dac-9847-45c5-8585-9e6b1c497a49.png" srcset="" alt="View App Configurations" height="249" width="662">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9A4400-0372-0135-407A-22000BC102FE" class="text-block-content">
+    <p>To configure an app, click the <strong>View App Configurations</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_app" data-step-uuid="481371D6-1A86-4765-9AFD-D20BA1AFBAD5">
+    <h2 id="add_app" class="step-title screensteps-heading">Add App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/734/original/fea2809d-1037-4df5-8239-f381935c9397.png" srcset="" alt="Add App" height="182" width="725">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9A70B0-0372-0135-407C-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Add App </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_configuration_type" data-step-uuid="69228FFF-FDB2-4255-B373-303BED05A3BB">
+    <h2 id="set_configuration_type" class="step-title screensteps-heading">Set Configuration Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/728/original/115f327d-0038-49c7-9fd9-da21cb95d796.png" srcset="" alt="Set Configuration Type" height="89" width="692">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9B63C0-0372-0135-407E-22000BC102FE" class="text-block-content">
+    <p>Select the <strong>Configuration Type</strong> drop-down menu and set the configuration type to <strong>Manual Entry</strong>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_app_details" data-step-uuid="71EF67AE-ED57-4343-97EA-2CAB39ADEE63">
+    <h2 id="add_app_details" class="step-title screensteps-heading">Add App Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/724/original/365a1718-418c-42a4-bdc7-7e55448866e4.png" srcset="" alt="Add App Details" height="151" width="688">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9B9870-0372-0135-4080-22000BC102FE" class="text-block-content">
+    <p>Enter the name of the app in the <strong>Name</strong> field [1]. Enter the consumer key in the <strong>Consumer Key</strong> field [2] and the shared secret in the <strong>Shared Secret</strong> field [3]. This key and shared secret will be provided by the vendor or (if using the <a href="https://www.eduappcenter.com/" target="_blank" rel="nofollow noopener noreferrer">Edu App Center</a>) provided by the website. </p>
+<p><strong>Note: </strong>There are some apps that do not require a consumer key or shared secret, so pay attention to the configuration directions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_launch_url_and_domain" data-step-uuid="20754337-946D-45F1-BC38-ABF75BFFB5D2">
+    <h2 id="add_launch_url_and_domain" class="step-title screensteps-heading">Add Launch URL and Domain</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/736/original/a69d5bb9-696c-4944-aaf5-d99818b90228.png" srcset="" alt="Add Launch URL and Domain" height="155" width="687">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9BCCE0-0372-0135-4082-22000BC102FE" class="text-block-content">
+    <p>In the <strong>Launch URL</strong> field [1], enter the Launch URL (source of the iframe for the link) to match the app to Canvas. Example: <a href="https://www.launchurl.com" target="_blank" rel="nofollow noopener noreferrer">https://www.launchurl.com</a></p>
+<p>You can choose to enter a domain in the <strong>Domain</strong> field [2]. The domain is optional and may be included with or replace launch URL. Type the appropriate URL or domain in the Domain field. Example: domain.com</p>
+<p><strong>Note: </strong>URLs must be iframe enabled and accept POST requests. Additionally, apps are configured and recommended to be entered as secure links (HTTPS). </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_privacy" data-step-uuid="6CD60E8A-3E7C-437C-8F47-010141EA8AE5">
+    <h2 id="set_privacy" class="step-title screensteps-heading">Set Privacy</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/612/017/original/63cc4c07-0c3c-4ec8-b463-8fd9fd554a30.png" srcset="" alt="Set Privacy" height="172" width="412">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9BFCD0-0372-0135-4084-22000BC102FE" class="text-block-content">
+    <p>Select the Privacy drop-down menu to set the privacy settings:</p>
+<ul>
+<li>
+<strong>Anonymous: </strong>No identifying information about the user will be sent to the vendor [1].</li>
+<li>
+<strong>Email Only:</strong> The user's email is the only identifying information sent to the vendor [2].</li>
+<li>
+<strong>Name Only: </strong>The user's name is the only identifying information sent to the vendor [3].</li>
+<li>
+<strong>Public</strong>: Various identifying information (name, email, Canvas ID, SIS ID of the course, SIS ID of the user, etc.) is sent to the vendor [4].</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_custom_fields_and_descriptions" data-step-uuid="0B133F3D-1E33-4B00-938C-74D1B9BFAA9C">
+    <h2 id="add_custom_fields_and_descriptions" class="step-title screensteps-heading">Add Custom Fields and Descriptions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/730/original/2ad73105-b0e5-4faa-9ba5-204fe446ef57.png" srcset="" alt="Add Custom Fields and Descriptions" height="365" width="699">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9C2CF0-0372-0135-4086-22000BC102FE" class="text-block-content">
+    <p>Type a custom field in <strong>Custom Fields</strong> [1]. Type a description of the app in the <strong>Description</strong> field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="submit_app" data-step-uuid="E0A77032-1B98-42EF-85A0-F26D41A6F011">
+    <h2 id="submit_app" class="step-title screensteps-heading">Submit App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/788/732/original/01ed723d-fb30-414b-8f34-9f142c4ef576.png" srcset="" alt="Submit App" height="69" width="189">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2B9C6A20-0372-0135-4088-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>Submit</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="verify-app" data-step-uuid="9a444f4d-11db-448e-943a-5756385e8b0f">
+    <h3 id="verify-app" class="step-title screensteps-heading">Verify App</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/255/172/original/78066a2e-315d-4ab4-9a8c-1208b92a88af.png" srcset="" alt="Verify App" height="209" width="706">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_69ad2a13-23bb-4c73-94e6-b0f202cb4cff" class="text-block-content">
+    <p>If the app has already been added in the account, Canvas verifies that you still want to install the app. To continue, click the <strong>Yes, Install Tool</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-app" data-step-uuid="2b30c099-e1c9-4470-915a-2d1e45689282">
+    <h2 id="view-app" class="step-title screensteps-heading">View App</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/481/492/original/2ba8d3ee-f7c2-4fd0-ab89-7124f66aad63.png" srcset="" alt="View App" height="577" width="703">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_401b003c-1d29-4988-b68d-2a487f27798f" class="text-block-content">
+    <p>View the linked app. To manage the app, click the <strong>Settings</strong> icon [1]. </p>
+<p>To edit the app, click the <strong>Edit</strong> link [2]. To <a href="/t5/Instructor-Guide/How-do-I-manage-external-app-placements-for-a-course/ta-p/469483" target="_blank">manage where the app displays in Canvas</a>, click the <strong>Placements</strong> link [3]. To delete the app, click the <strong>Delete</strong> link [4].</p>
+<p><strong>Note:</strong> When you click the Placements link, you may see a No Placements Enabled message. This message indicates that the app does not have any specified placements within Canvas. However, the app will still work as intended.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

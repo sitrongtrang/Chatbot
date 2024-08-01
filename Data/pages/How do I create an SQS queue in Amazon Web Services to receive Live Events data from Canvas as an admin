@@ -1,0 +1,263 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_c8e3ee52-c771-4a48-bba2-89faa681df42" class="text-block-content">
+    <p>To receive data from Canvas you will need to set up and maintain a queue in Amazon Web Services. Additionally, you will need to grant the appropriate permissions for the queue to receive data.</p>
+<p>After you set up a queue with the appropriate permissions, you can subscribe to events in Data Services and begin receiving data.</p>
+<p><strong>Notes</strong>:</p>
+<ul>
+<li>FIFO queues are not currently supported.</li>
+<li>When setting up an SQS queue you can enable long polling in a standard queue. Long Polling helps eliminate the number of empty responses and false empty responses. For more information about long polling, please see the <a href="https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long-polling.html#sqs-long-polling" target="_blank" rel="nofollow noopener noreferrer">Amazon SQS Long Polling documentation</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-amazon-sqs-console" data-step-uuid="3ad4d7d2-9b8d-41d2-bf6d-cbaf5ae6d925">
+    <h2 id="open-amazon-sqs-console" class="step-title screensteps-heading">Open Amazon SQS Console</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/825/327/original/2c925b39-dc75-4484-9bb2-5b9aeaa2eb66.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/825/327/medium/2c925b39-dc75-4484-9bb2-5b9aeaa2eb66.png" srcset="" alt="Open Amazon SQS Console" height="217" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c3cc0c44-b3e2-4e66-b7f5-ffbc0ff2d9f2" class="text-block-content">
+    <p>In the Amazon Web Services console, open the Simple Queue Service (SQS) console by typing the name in the <strong>Services</strong> field [1]. When Simple Queue Service displays in the list, click the name [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-new-queue" data-step-uuid="5b46710a-cebf-47f0-983e-1ad16a447c12">
+    <h2 id="create-new-queue" class="step-title screensteps-heading">Create New Queue</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/825/325/original/15944a2d-81ad-401c-8212-77916a390422.png" srcset="" alt="Create New Queue" height="283" width="336">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_48f8071c-f7d3-4f1b-aa3a-42df3553faaa" class="text-block-content">
+    <p>In the Amazon SQS console, click the <strong>Create queue</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-standard-queue" data-step-uuid="21be0d4c-6679-4914-a462-d5f0a46faee1">
+    <h2 id="select-standard-queue" class="step-title screensteps-heading">Select Standard Queue</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/825/321/original/fad9aeac-cc36-41af-b56e-2b75d8f509b4.png" srcset="" alt="Select Standard Queue" height="297" width="662">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_23dfb9e5-e68e-4e0b-948b-bf7456fbeb9a" class="text-block-content">
+    <p>In the Type section, select the <strong>Standard</strong> option.</p>
+<p><strong>Note</strong>: FIFO Queues are not currently supported.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-queue-name" data-step-uuid="0d363857-e771-4523-bdc6-270052826a8f">
+    <h2 id="enter-queue-name" class="step-title screensteps-heading">Enter Queue Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/825/319/original/9dfa2779-ae6a-479b-8cdf-eb4d56bf8885.png" srcset="" alt="Enter Queue Name" height="116" width="658">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b1fb9181-a33e-4669-8d61-5fe4e46d4fba" class="text-block-content">
+    <p>Enter a name for the queue. The name of the queue must begin with <em>canvas-live-events</em>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-configuration-details" data-step-uuid="caa0995a-e16d-4234-81a8-5fe67f1515b6">
+    <h2 id="enter-configuration-details" class="step-title screensteps-heading">Enter Configuration Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/825/317/original/f408af1a-68d2-44ce-824e-c0a1658fc3d3.png" srcset="" alt="Enter Configuration Details" height="468" width="702">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_26c4cc9f-0c76-426c-b13f-6a2e883d4f6e" class="text-block-content">
+    <p>Enter the <strong>Configuration</strong> details. You can enter your preferences for visibility timeout [1], delivery delay [2], receive message wait time [3], message retention period [4], and maximum message size [5]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter-permission-details" data-step-uuid="f313632d-cc71-40a9-9ff9-67209207ce1b">
+    <h2 id="enter-permission-details" class="step-title screensteps-heading">Enter Access Policy Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/825/315/original/1fc4198c-5b24-4805-ae54-767d5f277e40.png" srcset="" alt="Enter Permission Details" height="704" width="769">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76a2bc7d-bf2a-4586-a6c5-32379e2558d0" class="text-block-content">
+    <p>Enter the details for your access policy.</p>
+<p>In the Choose method section, select the <strong>Basic</strong> option [1].</p>
+<p>In the Define who can send messages to the queue<strong> </strong>section, select the <strong>Only the specified AWS accounts, IAM users and roles </strong>option [2].</p>
+<p>In the account ID field, enter the account number <strong>636161780776 </strong>[3]. This account number is required for the queue to receive Live Events data.</p>
+<p>You can also select who will receive messages in the <strong>Define who can receive messages from the queue </strong>section [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-queue" data-step-uuid="a3672f94-b127-4557-939c-b497b63b1d8c">
+    <h2 id="save-queue" class="step-title screensteps-heading">Save Queue</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/825/323/original/bc1849d0-9542-4a15-b32a-c083483f5bd5.png" srcset="" alt="Save Queue" height="393" width="708">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e4e61f26-5f16-4359-9bcf-c684738dcbe4" class="text-block-content">
+    <p>You can add additional details in <strong>Encryption</strong> settings [1], <strong>Dead-letter queue</strong> settings [2], and <strong>Tags</strong> settings [3]. All of these settings are optional.</p>
+<p>To create your queue, click the <strong>Create queue</strong> button  [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-queue-permission" data-step-uuid="1bd7ddaf-8a32-4b68-a1be-8d3de5500988">
+    <h2 id="view-queue-permission" class="step-title screensteps-heading">View Queue Permission</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/016/594/original/e7ec5893-888a-4367-beb9-7c06a0bf868b.png" srcset="" alt="View Queue Permission" height="225" width="764">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_48078f02-6cad-4d40-8bf0-76d4f8fa2fcd" class="text-block-content">
+    <p>In the queue details area, the permission will display in the Permissions tab.</p>
+<p>To edit the permission, click the <strong>Edit</strong> icon [1]. To delete the permission, click the <strong>Delete</strong> icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="using-sse-setting-with-your-sqs" data-step-uuid="1fcb14f7-13a4-4be4-b301-cee3ec536441">
+    <h2 id="using-sse-setting-with-your-sqs" class="step-title screensteps-heading">Using SSE setting with your SQS (Optional)</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_47b569ba-62c6-4eeb-8128-a0180cd503b8" class="text-block-content">
+    <p>Canvas Live Events service supports SSE enabled on SQS, in order for SSE to be used the following setup needs to be enabled on the customer SQS :</p>
+<p>1. Create a CMK or custom key with this policy, which can be generated by following the steps for creating a CMK, and during step 4 (Define Key Usage Permissions), clicking “Add another AWS Account” and entering the Instructure account number 636161780776.</p>
+<pre><code>{
+ "Id": "key-consolepolicy-3",
+ "Version": "2012-10-17",
+ "Statement": [
+ {
+ "Sid": "Enable IAM User Permissions",
+ "Effect": "Allow",
+ "Principal": {
+ "AWS": "arn of the customer account root"
+ },
+ "Action": "kms:*",
+ "Resource": "*"
+ },
+ {
+ "Sid": "Allow access for Key Administrators",
+ "Effect": "Allow",
+ "Principal": {
+ "AWS": "arn of admin user"
+ },
+ "Action": [
+ "kms:Create*",
+ "kms:Describe*",
+ "kms:Enable*",
+ "kms:List*",
+ "kms:Put*",
+ "kms:Update*",
+ "kms:Revoke*",
+ "kms:Disable*",
+ "kms:Get*",
+ "kms:Delete*",
+ "kms:TagResource",
+ "kms:UntagResource",
+ "kms:ScheduleKeyDeletion",
+ "kms:CancelKeyDeletion"
+ ],
+ "Resource": "*"
+ },
+ {
+ "Sid": "Allow use of the key",
+ "Effect": "Allow",
+ "Principal": {
+ "AWS": [
+ "arn of admin user",
+ "arn:aws:iam::636161780776:root" // instructure account
+ ]
+ },
+ "Action": [
+ "kms:Encrypt",
+ "kms:Decrypt",
+ "kms:ReEncrypt*",
+ "kms:GenerateDataKey*",
+ "kms:DescribeKey"
+ ],
+ "Resource": "*"
+ },
+ {
+ "Sid": "Allow attachment of persistent resources",
+ "Effect": "Allow",
+ "Principal": {
+ "AWS": [
+ "arn of admin user",
+ "arn:aws:iam::636161780776:root" // instructure account
+ ]
+ },
+ "Action": [
+ "kms:CreateGrant",
+ "kms:ListGrants",
+ "kms:RevokeGrant"
+ ],
+ "Resource": "*",
+ "Condition": {
+ "Bool": {
+ "kms:GrantIsForAWSResource": "true"
+ }
+ }
+ }
+ ]
+}??????????????????????????????????????????????????????????????????????????????</code></pre>
+<p>2. Create an SQS queue, and enable SSE. Provide the ARN of the newly-created CMK.</p>
+<p>3. Create a new IAM policy, that grants access to the queue and the key, the policy needs to look exactly like this:</p>
+<pre><code>{
+ "Version": "2012-10-17",
+ "Statement": [{
+ "Effect": "Allow",
+ "Action": [
+ "kms:GenerateDataKey",
+ "kms:Decrypt"
+ ],
+ "Resource": "CMK arn"
+ }, {
+ "Effect": "Allow",
+ "Action": [
+ "sqs:SendMessage",
+ "sqs:SendMessageBatch"
+ ],
+ "Resource": "queue arn"
+ }]???????????????????????????????????????????????????</code></pre>
+<p>4. Create a new IAM user and attach the above policy. Save the access key and secret key, and provide them to us as part of the subscription.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

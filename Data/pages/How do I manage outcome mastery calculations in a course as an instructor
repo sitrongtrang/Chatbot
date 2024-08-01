@@ -1,0 +1,217 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E7820100-218D-0139-9D6E-12F2183ABDFB" class="text-block-content">
+    <p>If enabled by your institution, you can manage outcome mastery calculations for all outcomes in your course. Changes made to a mastery calculation will apply to all rubrics with outcomes in your course that have not already been used for student assessment. Changes to mastery calculations only apply to the course from where they are managed.</p>
+<p>If course-wide mastery calculations have not been enabled in your course, mastery scale calculations <a href="/t5/Instructor-Guide/How-do-I-create-an-outcome-for-a-course/ta-p/862" target="_blank">must be managed independently</a> in each outcome. To request course-level outcome calculations in your course, contact your Canvas administrator.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_outcomes" data-step-uuid="E7821750-218D-0139-9D6F-12F2183ABDFB">
+    <h2 id="open_outcomes" class="step-title screensteps-heading">Open Outcomes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/828/160/original/45b865e5-5af4-4763-bbb3-dd55c7bedd95.png" srcset="" alt="Open Outcomes" height="274" width="154">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E78239E0-218D-0139-9D71-12F2183ABDFB" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Outcomes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-mastery-scales" data-step-uuid="2a8163b3-4de5-4f8e-beed-b3d48a6d2814">
+    <h2 id="open-mastery-scales" class="step-title screensteps-heading">Open Calculation Methods</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/833/006/original/577dd03c-ad5d-4e3b-80a8-d00ce36852ad.png" srcset="" alt="Open Calculation Methods" height="144" width="442">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a8bcfc7d-4a2c-45aa-a964-d49183828ae5" class="text-block-content">
+    <p>Click the <strong>Calculation</strong> tab.</p>
+<p><strong>Note:</strong> If the Calculation tab does not display in the Outcomes page, course-level outcome mastery calculations have not been enabled by your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-mastery-scale" data-step-uuid="704d61a0-736e-4399-8033-3c84611ca871">
+    <h2 id="view-mastery-scale" class="step-title screensteps-heading">Select Calculation Method</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/800/286/original/14e94b70-4e03-4bc3-9760-6bd119124ac2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/800/286/medium/14e94b70-4e03-4bc3-9760-6bd119124ac2.png" srcset="" alt="Select Calculation Method" height="408" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5a31ad84-f99a-4e3a-9ab4-a8d70a01edc2" class="text-block-content">
+    <p>To select a mastery calculation method, click the <strong>Mastery Calculation</strong> drop-down menu [1]. You can select one of four calculation methods: Weighted Average [2], Decaying Average [3], n Number of Times [4], Most Recent Score [5], Highest Score [6], and Average [7].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="726cc988-914d-4244-9d86-c2f9dde2dfa1">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/833/017/original/992791b1-ce13-4635-a3d1-46e17b1eea96.png" srcset="" alt="Read Only View" height="374" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_52c3c309-4d35-4926-b7ba-b1acdab55f6e" class="text-block-content">
+    <p>If you are unable to edit the mastery calculation, you do not have permission to edit the mastery calculation in your course. For assistance managing your mastery calculation, contact your Canvas administrator.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-weighted-average" data-step-uuid="f93caa36-9d57-42a1-aebd-4fe0d59361e7">
+    <h2 id="select-weighted-average" class="step-title screensteps-heading">Select Weighted Average</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/800/290/original/56ebe0cd-3626-4d5a-b620-ed9f389d6bb2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/800/290/medium/56ebe0cd-3626-4d5a-b620-ed9f389d6bb2.png" srcset="" alt="Select Weighted Average" height="303" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a891ec06-dcd1-4938-97c5-1d6ab01fa9c3" class="text-block-content">
+    <p>To average assessment item scores with a greater weight for the most recent assessment item, select the <strong>Weighted Average</strong> option [1].</p>
+<p>The Weighted Average calculation splits the total percentage between the most recent assessment item and an average of all prior assessment items. For example, you can set the most recent submission to be weighted at 40% of the total and prior items to be weighted at 60% of the total.</p>
+<p>Enter the percentage to use for the most recent result in the <strong>Parameter</strong> field [2]. You can also increase or decrease the parameter by using the <strong>Arrow</strong> icons [3]. The Parameter field accepts whole numbers between 1 and 99. By default, the parameter is set to 65%. The remaining amount is used to weigh prior scores.</p>
+<p>In the <strong>Example</strong> section [4], the calculation updates based on your select parameter. The average is rounded to the next two decimals. If there is only one result, the single score will be displayed.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-decaying-average" data-step-uuid="e9626119-da94-4ab9-9b08-69e8b7df835b">
+    <h2 id="select-decaying-average" class="step-title screensteps-heading">Select Decaying Average</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/087/587/original/05b32496-409a-4a8d-bfec-550dad6b68b7.png" srcset="" alt="Select Decaying Average" height="202" width="328">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2f644e75-af55-4299-b5df-26a5c8fe5fbf" class="text-block-content">
+    <p>To average assessment item scores with a greater weight for the most recent assessment item, select the <strong>Decaying Average</strong> option [1].</p>
+<p>The Decaying Average calculation uses a formula to determine proficiency based on students' average scores, giving more weight to the most recent scored. To determine the weight given to the most recent score, the formula uses a decay rate. The higher the formula's decay rate, the more heavily the most recent assessment is weighted. </p>
+<p>By default, the decay weight is set to 65% in the <strong>Parameter</strong> field [2]. However, you can adjust the rate to any percentage between 50% and 99% using the <strong>Arrow</strong> icons [3]. Between two assessments, the most recent assessment gets 65% weight and the first gets 35%. For each additional assessment, the sum of the previous score calculations decay by an additional 35%.</p>
+<p>For example, a student has scores of 1, 2, 3, 4 (scores listed chronologically from oldest to most recent):</p>
+<p>(1 × .35) + (2 × .65) = X</p>
+<p>(X × .35) + (3 × .65) = Y</p>
+<p>(Y × .35) + (4 × .65) = Z  (this being the current standard score; 3.48)</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-n-number-of-times" data-step-uuid="c628d56e-6bef-4e9a-b629-1208622f9087">
+    <h2 id="select-n-number-of-times" class="step-title screensteps-heading">Select n Number of Times</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/999/774/original/c50655be-24e4-4098-9d07-51e05e3317f9.png" srcset="" alt="Select n Number of Times" height="373" width="760">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_15934f93-4b6c-4d7a-a221-fad86bccaa9b" class="text-block-content">
+    <p>To set a number of times that a student must meet or exceed mastery on a set amount of aligned items, select the <strong>n Number of Times</strong> option [1].</p>
+<p>Enter the number of times mastery must be achieved in the <strong>Parameter</strong> field [2]. You can also increase or decrease the parameter by using the <strong>Arrow</strong> icons [3]. The Parameter field accepts numbers between 1 and 5.</p>
+<p>Any scores that do not meet mastery are not used in the calculation.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-most-recent-score" data-step-uuid="a1615201-9838-419b-a018-51ff41c54c85">
+    <h2 id="select-most-recent-score" class="step-title screensteps-heading">Select Most Recent Score</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/999/777/original/ca223c9f-a364-4744-b535-d42c55f157c8.png" srcset="" alt="Select Most Recent Score" height="276" width="532">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f9e0aa02-67d9-4a3b-9e16-428653a580af" class="text-block-content">
+    <p>To select the score for the recently graded item, select the <strong>Most Recent Score</strong> option [1].</p>
+<p>You can view an example of the Most Recent Score calculation in the <strong>Example</strong> section [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-highest-score" data-step-uuid="4f9abe49-ac19-4bd7-905f-6f6559ed0f7e">
+    <h2 id="select-highest-score" class="step-title screensteps-heading">Select Highest Score</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/999/778/original/86267147-7658-4257-83f2-a441091a7d9e.png" srcset="" alt="Select Highest Score" height="279" width="548">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1e7d4609-7b0d-424d-99c4-22a96326691e" class="text-block-content">
+    <p>To select the highest score from all assessment items, select the <strong>Highest Score</strong> option [1].</p>
+<p>You can view an example of the Highest Score calculation in the <strong>Example</strong> section [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-average" data-step-uuid="e259b724-5482-4abb-aa7a-f370f50d3b22">
+    <h2 id="select-average" class="step-title screensteps-heading">Select Average</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/749/647/original/a2359774-37da-4a3d-baf0-fc8b8da20a98.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/749/647/medium/a2359774-37da-4a3d-baf0-fc8b8da20a98.png" srcset="" alt="Select Average" height="329" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4475663a-b847-470c-9bd6-ef50e47e3e6d" class="text-block-content">
+    <p>To select the average score from all assessment items, select the <strong>Average</strong> option [1].</p>
+<p>You can view an example of the Average calculation in the <strong>Example</strong> section [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-calculation-method" data-step-uuid="184506ca-27e4-4420-abb0-c9d556e8583b">
+    <h2 id="save-calculation-method" class="step-title screensteps-heading">Save Calculation Method</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/999/810/original/2d97f76d-d21f-4963-8f35-7282b2bd8b24.png" srcset="" alt="Save Calculation Method" height="66" width="232">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_15f9a69d-19f6-4f35-b7a7-d70e0fa2d392" class="text-block-content">
+    <p>To save your calculation method, click the <strong>Save Mastery Calculation</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="confirm-calculation-changes" data-step-uuid="754a07c6-fdc3-47e9-963a-021705affda9">
+    <h3 id="confirm-calculation-changes" class="step-title screensteps-heading">Confirm Calculation Changes</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/999/812/original/48776fab-83e7-49d4-a304-89171cba6408.png" srcset="" alt="Confirm Calculation Changes" height="216" width="479">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d3d4a4c0-1fd8-4f99-8fbc-096a68852829" class="text-block-content">
+    <p>To confirm your changes to the mastery calculation, click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

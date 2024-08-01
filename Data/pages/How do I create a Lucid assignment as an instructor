@@ -1,0 +1,134 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9d956b72-3656-400a-8468-f7e1b82cee3b" class="text-block-content">
+    <p>When you <a href="/t5/Instructor-Guide/How-do-I-add-or-edit-details-in-an-assignment/ta-p/971" target="_blank">create or edit assignment details</a>, you can choose to use Lucid Education Suite as a submission type. The Lucid submission type enables students to connect to and submit Lucidchart or Lucidspark documents. <a href="https://help.lucid.co/hc/en-us/articles/11970952773652-Welcome-to-Lucidchart" target="_blank" rel="nofollow noopener noreferrer">Lucidchart</a> is an intelligent diagramming application that allows you to visualize complex ideas, systems, and processes. <a href="https://help.lucid.co/hc/en-us/articles/11973407023636-Welcome-to-Lucidspark" target="_blank" rel="nofollow noopener noreferrer">Lucidspark</a> is a virtual whiteboard application that enables teams to ideate, design, and build better ideas.</p>
+<p>With your Canvas account, you get free full access to the Lucid Education Suite for visual collaboration. Before accessing Lucid from within Canvas, you must <a href="/t5/Instructor-Guide/How-do-I-set-up-the-Lucid-Education-Suite-in-my-course-as-an/ta-p/606355" target="_blank">set up and connect your free Lucid account</a>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>You can also create online Text Entry assignments where students can <a href="/t5/Student-Guide/How-do-I-embed-a-Lucid-document-in-the-Rich-Content-Editor-as-a/ta-p/606360" target="_blank">embed Lucid documents</a> in the Rich Content Editor.</li>
+<li>Learn more about using <a href="https://help.lucid.co/hc/en-us/articles/11970952773652-Welcome-to-Lucidchart" target="_blank" rel="nofollow noopener noreferrer">Lucidchart</a> or <a href="https://help.lucid.co/hc/en-us/articles/11973407023636-Welcome-to-Lucidspark" target="_blank" rel="nofollow noopener noreferrer">Lucidspark</a>.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="b5942136-d508-4036-9249-401e6bea1bc1">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/393/766/original/080c3e8f-1772-49fd-870e-978def91f456.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9da6d716-64da-4293-b04b-2c1bf88324e3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="2de2cf96-6c21-40da-b082-b28c47bf9b8c">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/393/768/original/7ba1a0de-3295-4bf0-a7d4-e1d27b385d77.png" srcset="" alt="Add Assignment" height="71" width="319">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a9f3c7a2-486a-48b5-87df-3fd3ef115d1e" class="text-block-content">
+    <p>Click the <strong>Add Assignment</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_submission_type" data-step-uuid="e48220cf-0c41-4354-a632-70033115ef3e">
+    <h2 id="select_submission_type" class="step-title screensteps-heading">Select External Tool Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/393/770/original/cd8d592c-39b3-4276-bfd4-7599711ce83d.png" srcset="" alt="Select Submission Type" height="218" width="535">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4991ffe7-36d9-4f4c-a810-00a97b876d41" class="text-block-content">
+    <p>In the <strong>Submission Type</strong> drop-down menu, select the <strong>Lucid </strong>option. </p>
+<p><strong>Note: </strong>To select an external tool directly from the Submission Type drop-down menu, your institution must set Submission Type Selection as a <a href="/t5/Admin-Guide/How-do-I-configure-an-LTI-key-for-an-account/ta-p/140" target="_blank">placement option for the external tool in the Developer Keys page</a>.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-lucid-app" data-step-uuid="f1823b51-1f00-418a-9545-564bf392fcbf">
+    <h3 id="select-lucid-app" class="step-title screensteps-heading">Select Lucid App</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/396/552/original/d38166de-e2b7-4c8d-a46e-961962ff3be2.png" srcset="" alt="Select Lucid App" height="202" width="529">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ed11e1fc-b7af-478e-80df-b3804910fb91" class="text-block-content">
+    <p>To select a Lucid app, click the <strong>Lucid</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/396/108/original/da6c19cd-aaa5-4fc2-85e6-44063a19d92b.png" srcset="" alt="Select Lucidspark or Lucidchart" height="663" width="829">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6159c3a5-6be8-4a02-a081-b872d7c7dd19" class="text-block-content">
+    <p>Select <strong>Lucidspark</strong> [1] or <strong>Lucidchart</strong> [2] as the submission type. Then click the <strong>Next </strong>button [3].</p>
+<p><strong>Note: </strong>If you have not yet connected to your free Lucid account, you must <a href="/t5/Instructor-Guide/How-do-I-set-up-the-Lucid-Education-Suite-in-my-course-as-an/ta-p/606355" target="_blank">set up and connect your free account.</a></p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="load-tool-in-a-new-tab" data-step-uuid="461b1bd1-fddf-46ae-b35b-f9598038e90d">
+    <h2 id="load-tool-in-a-new-tab" class="step-title screensteps-heading">Load Tool in New Tab</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/393/772/original/26d3ef1b-7394-4470-82f5-663846962427.png" srcset="" alt="Load Tool in New Tab" height="202" width="529">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_651b5d73-90db-4d5d-8b9e-ab04e25af66e" class="text-block-content">
+    <p>To load the assignment in a new tab, click the <strong>Load This Tool In A New Tab</strong> checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="dfcb1658-72dc-48b8-9aa9-1d3c30a07583">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/393/774/original/afd85565-93aa-4832-9869-0a799331a113.png" srcset="" alt="Save and Publish" height="95" width="307">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_46d2debb-4c40-4f0e-b767-f3354c2199e8" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>To complete a Lucid assignment, students must first <a href="/t5/Student-Guide/How-do-I-set-up-the-Lucid-Education-Suite-in-my-course-as-a/ta-p/606361" target="_blank">set up and connect their free Lucid student account</a>.</li>
+<li>Students can <a href="/t5/Student-Guide/How-do-I-submit-a-Lucid-document-for-a-Lucid-assignment/ta-p/606359" target="_blank">view and complete the Lucid assignment</a> directly in Canvas. </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

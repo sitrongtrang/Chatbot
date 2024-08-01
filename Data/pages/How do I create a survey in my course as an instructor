@@ -1,0 +1,209 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3840EDD0-221D-0135-38C5-22000AB760A3" class="text-block-content">
+    <p>You can use surveys to receive feedback from your students or give them some extra points by responding to a survey. Graded surveys appear in the Syllabus, Gradebook, Calendar, and To Do Lists.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Student Analysis for surveys must be downloaded as a CSV file. Item Analysis is not available for surveys.</li>
+<li>Graded surveys do not support the use of fudge points to manually add or remove points from a student's overall quiz score.</li>
+<li>The anonymous option can be enabled or disabled before or after a survey has received submissions, allowing a user with sufficient permissions to see a student's identity and responses. To collect fully anonymous survey responses, you may want to use a third-party survey tool.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="B8382F8C-E55D-4A3F-872D-1F559DD54278">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/809/original/8b391b6c-2968-4eeb-99a0-150edeb25983.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_384120D0-221D-0135-38C7-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_quiz" data-step-uuid="4E417F96-5363-4879-9945-1BCA9B0FC9F1">
+    <h2 id="add_quiz" class="step-title screensteps-heading">Add Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/898/original/725dbc24-efcc-4eca-838f-31b8fb1e108c.png" srcset="" alt="Add Quiz" height="74" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38415500-221D-0135-38C9-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Quiz </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-classic-quiz" data-step-uuid="58bba642-0a66-48d5-99a2-9bedf8fccf57">
+    <h3 id="add-classic-quiz" class="step-title screensteps-heading">Select Quiz Engine</h3>
+  </div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/787/566/original/9c556014-a79a-4e51-8deb-251cb9f97481.png" srcset="" alt="Select Quiz Engine" height="531" width="478">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dd7a9d79-38c5-4762-8238-8a19749a93c9" class="text-block-content">
+    <p>If your course has New Quizzes enabled, you must select a quiz engine. </p>
+<p>Surveys must be created using classic quizzes. To create a survey using classic quizzes, click the <strong>Classic Quizzes</strong> option [1]. </p>
+<p>Then click the <strong>Submit</strong> button [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_survey_information" data-step-uuid="E4C1C483-F8C6-40F8-9086-5A26C565649A">
+    <h2 id="create_survey_information" class="step-title screensteps-heading">Add Survey Details</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/052/191/original/b06d3130-5abc-4466-a175-78a9ac63f9f6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/052/191/medium/b06d3130-5abc-4466-a175-78a9ac63f9f6.png" srcset="" alt="Add Survey Details" height="330" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38434890-221D-0135-38D3-22000AB760A3" class="text-block-content">
+    <p>Give your survey a name [1], and complete any survey instructions in the text box [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_quiz_type" data-step-uuid="F762C0E7-A101-430A-84EA-C1901F139E48">
+    <h2 id="select_quiz_type" class="step-title screensteps-heading">Select Survey Type</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/052/193/original/48b1b748-41dd-4852-a8a8-5cb4980acab2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/052/193/medium/48b1b748-41dd-4852-a8a8-5cb4980acab2.png" srcset="" alt="Select Quiz Type" height="531" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38418680-221D-0135-38CB-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Quiz Type </strong>drop-down menu [1] and select the survey type you want to create [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_survey_options" data-step-uuid="0CF0EFDD-65F6-4B76-AD8C-7D85522FE45B">
+    <h2 id="select_survey_options" class="step-title screensteps-heading">Select Survey Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/411/original/5c290f6e-17fc-4c23-88ac-6d0b6f8b55b9.png" srcset="" alt="Select Survey Options" height="897" width="633">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3841EBC0-221D-0135-38CF-22000AB760A3" class="text-block-content">
+    <p>Place your survey in an assignment group [1], assign your survey a score [2], and complete the survey options [3]. </p>
+<p>Within surveys, you have all the regular <a href="/t5/Instructor-Guide/What-options-can-I-set-in-a-quiz/ta-p/683" target="_blank">quiz options</a>, but you can also keep submissions anonymous [4]. This anonymous option applies to both graded and ungraded surveys and can be enabled and disabled before or after survey submissions.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_availability_dates" data-step-uuid="589072A1-B23C-488B-959C-34DF70DF0EE4">
+    <h2 id="select_availability_dates" class="step-title screensteps-heading">Select Availability Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/424/original/7345c694-07d3-46a6-8f9a-f9f0a48f55d4.png" srcset="" alt="Select Availability Dates" height="355" width="470">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38431580-221D-0135-38D1-22000AB760A3" class="text-block-content">
+    <p>You can also set a due date and available from/until dates for your survey.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_question" data-step-uuid="A2EE31E2-9930-4804-917F-DD8449E2F615">
+    <h2 id="add_question" class="step-title screensteps-heading">Add Question</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/388/original/0a0fa34d-02ca-4ce4-98dd-e3748d9b1eb6.png" srcset="" alt="Add Question" height="257" width="650">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38437E30-221D-0135-38D5-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Questions</strong> tab [1]. Manually create a new survey question by clicking the <strong>New Question</strong> button [2]. To find out what kind of options are available for questions, please see the <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">question type</a> lesson in the Instructor guide.</p>
+<p><strong>Note</strong>: If you include a file upload question on an anonymous survey, the downloaded files will include the student's name in the file name. To preserve anonymity on a survey, do not include file upload questions.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="name_survey_question" data-step-uuid="a5a8398f-a318-44f0-b850-a0d06634d510">
+    <h3 id="name_survey_question" class="step-title screensteps-heading">Name Survey Question</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/636/431/original/b199ee09-d38a-491b-ae61-696b8dd0cc0f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/636/431/medium/b199ee09-d38a-491b-ae61-696b8dd0cc0f.png" srcset="" alt="Name Survey Question" height="403" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3843AE30-221D-0135-38D7-22000AB760A3" class="text-block-content">
+    <p>Survey questions are not automatically numbered for instructors. To add a custom name to your survey question, enter the name in the question text field. Custom names can help you identify survey questions more easily.</p>
+<p>Regardless of the question name, students always see survey questions in numerical order (i.e. Question 1, Question 2).</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="create_likert_quantitative_scale_questions" data-step-uuid="46D0F699-3920-4D41-BF9D-39D2D90497E8">
+    <h3 id="create_likert_quantitative_scale_questions" class="step-title screensteps-heading">Create Likert (Quantitative) Scale Questions</h3>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3843C6A0-221D-0135-38D8-22000AB760A3" class="text-block-content">
+    <p>If you're interested in creating questions that involve a quantitative scale, you can create a Likert scale question using the Multiple Dropdowns question type. Please reference the <a href="/t5/Instructor-Guide/How-do-I-create-Likert-scale-quiz-questions/ta-p/942" target="_blank">Likert scale lesson </a>for more information.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_survey" data-step-uuid="3d854737-a28c-4681-a447-cc3409277dcf">
+    <h2 id="save_survey" class="step-title screensteps-heading">Save Survey</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/766/404/original/ec8ab498-49b4-4984-aa91-e3ff75b0f4d9.png" srcset="" alt="Save Survey" height="64" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3843FB50-221D-0135-38DA-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Save</strong> button to save your work and preview the survey.</p>
+<p><strong>Note</strong>: You should not publish your survey until it is your final product. If you are ready to publish your survey and make it available to students, click the <strong>Save &amp; Publish</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="preview_and_publish_quiz" data-step-uuid="b91e36f6-43bc-47d5-a0fa-d3652272d777">
+    <h3 id="preview_and_publish_quiz" class="step-title screensteps-heading">Preview and Publish Quiz</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/896/original/7c2279d4-95a3-4d6f-bbc5-58b4626e0ff3.png" srcset="" alt="Preview and Publish Quiz" height="159" width="632">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_38442B90-221D-0135-38DC-22000AB760A3" class="text-block-content">
+    <p>To preview the survey, click the <strong>Preview</strong> button [1]. When you are ready for students to see the survey in the course, click the <strong>Publish</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

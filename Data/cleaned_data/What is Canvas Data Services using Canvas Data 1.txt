@@ -1,0 +1,20 @@
+What is Canvas Data Services using Canvas Data 1
+Canvas Data 1 will be deprecated on December 31, 2023. Canvas Data 1 guides will be removed from the Community end of June 2024.Learn more about accessing data using Canvas Data 2.
+Canvas Data Services
+As an admin, you may choose to install Canvas Data Services in your account. Canvas Data services allows you to configure data streams to access Live Events data from Canvas. Data stream configuration requires an Amazon SQS or HTTPS URL.
+Canvas Data Files
+Admins can use Canvas Data schemas and APIs to get insight on topics such as accreditation, improving course design, assessing student engagements, and enabling student intervention. 
+As part of the Canvas Data Portal, the Canvas Data schema includes documentation that explains all the table data that is exported from Canvas. Relevant files can be compared and used to answer questions such as:
+‪Which departments/courses/teachers are fully adopting the LMS tool?
+‪What makes a successful department/course/instructor?
+‪Which courses are being retaken?
+‪How can our institution improve student retention?
+‪Which learning objects are actually used by students?
+‪How much time do successful students spend on the course?
+‪When should an instructor intervene with a student?
+‪What courses fit a student’s learning style?
+‪How are students doing in the course (current and historical)?
+How can students plan to be more effective?
+ODBC Analytics Tools
+Canvas Data files can be used to create visual analysis using queries and reports in ODBC analytics tools.
+ Common tools include Excel (using Amazon Redshift), Tableau, R, and SQL Workbench/J. Most other ODBC and Java database connectivity (JDBC) PostgresSQL clients should support the data, but pgAdmin is not supported.

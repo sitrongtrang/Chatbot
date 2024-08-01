@@ -1,0 +1,45 @@
+Canvas Data 2 Technical Frequently Asked Questions
+What does the timestamp 'ts' mean in the 'meta' field of the query result-set?
+ts is a last modified timestamp (or commit time) for the record in the table. When a new record is inserted into a table hosted by CD2, it is assigned the time of insertion. When that record is later updated, the timestamp is refreshed to match the time when the update took place. Finally, when the record is eventually deleted, the timestamp reflects the time of deletion.
+How do 'since' and 'until' relate to 'ts' in the result-set?
+since and until are filters on the commit time (or last modified timestamp). All records in the result-set are in range of since and until.
+Can I get duplicate records of the same key in the result-set?
+No; keys in the result-set of a snapshot or incremental query are always unique.
+How do I turn an incremental query result-set into a SQL statement?
+You would probably want to use an INSERT-or-UPDATE statement. In PostgreSQL, this looks like as follows:
+INSERT INTO ... (...)
+VALUES (...)
+ON CONFLICT (...)
+DO UPDATE SET ...
+What do I do with records in the result-set that have a 'key' but no 'value'?
+Output records that have a key field but no value field correspond to deleted records. The data is no longer available in Instructure's systems, and should also be deleted from your local copy. These records are also marked with an action of D in meta.
+What does '__cd2_oversized_truncated__' mean? (Some of the fields/columns can have this as a value.)
+__cd2_oversized_truncated__  is a special placeholder (string constant) that indicates that the original data was too large to include in the result, usually several MBs in size. Unfortunately, it is not possible to recover the value of these fields/columns. However, such large values are typically the result of a mistake (e.g. a student copying a binary Word document into a plain text field), and seldom carry valuable information useful for analytics.
+How do I capture the state of the database at some point in time?
+CD2 doesn't support point-in-time queries, you cannot reconstruct a previous historical state of the database, you can only synchronize your local copy to the most up-to-date state kept by Instructure.
+How do I get all data from the beginning of time to a specific date?
+Unfortunately, this is not supported by CD2. CD2 lets you bring your local database in sync with the current database state at Instructure. If a record has been updated or deleted in the source database in Instructure's domain, you cannot retrieve the previous versions of that record. However, records are available indefinitely so long as they exist in Instructure's systems, they don't fade away over time. For example, you should be able to get all courses a student has applied to, or all assignments they have submitted, because they all appear as different records, not versions of the same record.
+How do I get a stream of all record transitions?
+CD2 lets you bring your database to the latest state but doesn't (reliably) return interim states. Even if you try to poll the CD2 API query job endpoint with a short interval, multiple change data capture events to the same record will be coalesced into a single change, and only that single change will be returned in the incremental query result-set. CD2's output cannot serve as a change log of all database transitions, only as a means to bring your local database up-to-date with the latest state in Instructure's systems.
+Troubleshooting
+I got an HTTP 4xx status code as a response.
+An HTTP 4xx class error (e.g. HTTP 400 Bad request) is a permanent error. To learn more about why your request was rejected, check the payload of the HTTP response. The HTTP body should be an application/json media type and contain an object with the error property. This includes information on why the request was rejected.
+Some of my queries return a result-set in which 'meta' has a field called 'action' with values 'U' and 'D'. However, other queries don't have this field.
+Incremental queries have the field action in meta, which specifies if a record was upserted (inserted or updated) or deleted. If a record is upserted, you would typically use an INSERT-or-UPDATE SQL statement in your database to update the record. If a record is deleted, you would use the DELETE SQL statement to remove the record.
+Snapshot queries don't have action because it would be a redundant field. Snapshot queries assume your database is empty, and all records are to be inserted. You would typically use a COPY or INSERT statement to populate the database.
+When I try to load a result-set with CSV format into another tool, I get an unexpected end of line error.
+CSV output in CD2 complies with RFC 4180. Section 2.6 of this specification, which talks about how newlines in values are represented, is often inadequately implemented in tools. Specifically, if a value has an embedded newline character, the output should be enclosed in double quotes, but the newline character should be represented verbatim (not as an escape sequence). However, tools often assume that a record always fits a single line, which is not the case under these circumstances.
+The sample PostgreSQL create script has 'CREATE TYPE ... AS (...)' but my data warehouse or database engine does not support this syntax.
+The reference PostgreSQL script to create the database has so-called nested types. Not all database engines have nested types. If your engine doesn't support them, you can use the more generic SQL type json. json allows you to insert arbitrary nested structures as JSON data. However, you may not be able to filter on json columns as effectively as other column types.
+I am getting an error that there is no data available for the range, or the range is out of bounds.
+Make sure you properly chain your incremental queries. You should always use the until timestamp of the previous incremental query (or the at timestamp of your initial snapshot query) as the since timestamp of the next incremental query. You shouldn't specify arbitrary values for these parameters, only re-use those returned by a previous response.
+It seems that I cannot provide an 'until' timestamp unless I also provide a 'since' timestamp.
+Timestamps since and until are means of chaining incremental queries. You should always use the until timestamp of the previous incremental query as the since timestamp of the next incremental query. CD2 stores only the latest state of any record, until cannot be used to reconstruct the state of a record at a past point in time.
+Some part or sequence numbers are missing in the set of files returned by CD2 API.
+CD2 API may return S3 objects that don't have contiguous sequence numbers, e.g. part1, part2, part5 may be present whereas part3 and part4 may be missing. This is not an error.
+File names, in general, are informative. You shouldn't make any assumptions based on the file name pattern.
+The files that the CD2 API is returning are generated by independently executing concurrent tasks. Depending on the execution context, input parameters, etc. a task may find several records that match the query, or it may fail to find any record. Furthermore, a task may be killed while it's processing records and it's workload might be delegated to another task. Therefore, the numbers may not be contiguous, which explains why you might have a part1 and a part5 but no part4.
+Some files returned by CD2 API are empty (possibly except for the header).
+Each output file produced by the CD2 API may contain zero or more records. An integration script should be able to handle the case when the file contains no records.
+The files that the CD2 API is returning are generated by independently executing concurrent tasks. Depending on the execution context, input parameters, etc. a task may find several records that match the query, or it may fail to find any record. If no records are matched, an empty file is returned.
+Empty files are handled automatically by the official CD2 client library.

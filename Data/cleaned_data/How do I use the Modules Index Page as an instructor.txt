@@ -1,0 +1,49 @@
+How do I use the Modules Index Page as an instructor
+Open Modules
+In Course Navigation, click the Modules link.
+View Modules Index Page
+The Modules Index Page is designed with global settings at the top of the page followed by individual modules. Course content items are nested within each module.
+Note: The Modules Index Page supports keyboard shortcuts. To view a window with a list of keyboard navigation shortcuts, press the Shift+Question Mark keys simultaneously on your keyboard.
+View Modules Global Settings
+Global settings include collapsing or expanding all modules, viewing a student’s progress in a module, bulk publishing and unpublishing modules and module items, and adding new modules.
+Notes: 
+The Collapse All button displays if one or more modules are expanded. The Expand All button displays if all modules are collapsed. 
+If a user with a course enrollment collapses or expands one or more modules, the Modules Index Page retains the state of each module when they return to the page.
+View Modules
+In Modules, you can view all the modules in your course. Modules are organized by order of progression. 
+Modules house the content items within each module. By default, modules are expanded and show all items in the module. To collapse the module, click the collapse arrow.
+Note: If you choose to collapse or expand one or more modules, the Modules Index Page retains the state of each module.
+View Module Header
+Each module header contains the name of the module.
+The header may also contain module prerequisites and module requirements. 
+Manage Module Settings
+The icons on the right side of the module name control the entire module. You can publish an entire module and all items, publish modules only, or unpublish modules and all items and add a new content item to the module. 
+In the Options drop-down menu, you can edit a module, which allows you to rename the module, lock modules, set prerequisites, and set modules requirements. 
+You can also move the module, move module items, delete the module, or duplicate the module. 
+Reorder Modules
+You can reorder a module by hovering over the drag handle next to the name of the module and dragging the module to the desired location.
+View Module Icons
+Modules can be filled with different types of content. Each module item also includes an icon with its type: 
+Page: a page of content to read
+Discussion: a course discussion
+Quiz: a course quiz
+Assignment: a course assignment
+Link or External Tool: an external link or tool to view outside of the course
+File: a file to download or view
+View Individual Module Item
+Each module contains module content items that may display the item name, the due date, the number of points, the module requirement, and the module item's draft state status. A module may also include non-graded items, such as pages and non-graded discussions. If a To-Do date was added to a non-graded item, the date will display next to the module item.
+Manage Individual Module Item
+For each individual module content item, you can use the options drop-down menu, edit the content item, open SpeedGrader, duplicate the item if the item supports duplication, remove the content item from the module, move the item, to indent the item up to 5 levels (or remove an indent) to send the content to another user or copy to another course.
+Note: The Mastery Paths setting can be managed in your course if the setting has been enabled by your institution.
+Reorder Module Item
+You can also reorder a module item by hovering over the drag handle next to the name of the item and dragging the item to the desired location.
+View MasteryPaths
+If you use MasteryPaths in your course, you can view the Modules page and tell which module items are set up for MasteryPaths.
+View Blueprint Course
+If your course includes Blueprint icons, your course is associated with a blueprint course. Blueprint Courses are courses managed as a template and may contain locked objects managed by a Canvas admin, course designer, or other instructor. Like with draft state icons, Modules displays the object status as also shown in the object's respective index page. 
+The Course Details tab in Course Settings will tell you if your course is a blueprint course. Most commonly, your course will not be a blueprint course and you can only manage unlocked content in your course. If your course is a blueprint course, you can lock and sync course content to associated courses. 
+View Scheduled Page Publication
+If enabled by your institution, you can schedule when a page will be published and can view when a page is scheduled to publish.
+View Student View
+To view the modules index page as a student, click the View as Student button.
+Note: If the course navigation link for the page is disabled and hidden from students, the View as Student button does not display.

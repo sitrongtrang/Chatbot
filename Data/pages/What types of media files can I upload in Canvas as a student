@@ -1,0 +1,89 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0E0810A0-222F-0135-B288-22000BC102FE" class="text-block-content">
+    <p>Canvas can upload specific image, video, and audio files as user content. </p>
+<p>When you upload audio and media files using the media tool in the <a href="/t5/Canvas-Basics-Guide/What-is-the-Rich-Content-Editor/ta-p/12" target="_blank">Rich Content Editor</a>, Canvas converts files up to 500 MB. If a file exceeds the 500 MB limit, you can host the file through an external source such as YouTube and embed it using the Rich Content Editor. To learn more about available options for using media files in Canvas, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Media-Comparison/ta-p/387074" target="_blank">Canvas Media Comparison resource document</a>.</p>
+<p>When you <a href="/t5/Student-Guide/How-do-I-upload-a-file-to-my-user-or-group-files/ta-p/506" target="_blank">upload a file to your group or user files</a>, Canvas converts the file into a format supported by your browser. However, Canvas does not support uploading files larger than 5 GB to your user files. Media playback is determined according to browser, so if you cannot view the file, you may need to try to view the file in another browser. </p>
+<p>Canvas files have quota limits set for user (personal) files and group files. Files uploaded directly to your user files or group files count against each specific quota, except for uploading a profile picture. Files uploaded using the Rich Content Editor count toward your user storage quota. However, <a href="/t5/Student-Guide/How-do-I-upload-a-file-as-an-assignment-submission-in-Canvas/ta-p/274" target="_blank">files uploaded as an assignment submission</a> do not count toward your user quota. </p>
+<p><strong>Note:</strong> Depending on your instructor's preferences, you may be able to use YouTube and other media URLs in assignment submissions and discussion posts.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="supported_image_formats" data-step-uuid="4742209f-fdff-4377-af1d-134f808a9289">
+    <h2 id="supported_image_formats" class="step-title screensteps-heading">Supported Image Formats</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E083430-222F-0135-B289-22000BC102FE" class="text-block-content">
+    <p>Canvas will accept the following image files:</p>
+<ul>
+<li>BMP - Windows Bitmap</li>
+<li> GIF - Graphics Interchange Format</li>
+<li>JPEG - Joint Photographic Experts Group</li>
+<li>PNG - Portable Network Graphics</li>
+<li>SVG - Scalable Vector Graphics</li>
+<li>TIFF - Adobe Systems</li>
+</ul>
+<p><strong>Note:</strong> While TIFF files can be uploaded to file storage, they will not display within any area of Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="supported_video_formats" data-step-uuid="198B1604-1B10-40F8-805A-28207B56C61C">
+    <h2 id="supported_video_formats" class="step-title screensteps-heading">Supported Video Formats</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E084BD0-222F-0135-B28A-22000BC102FE" class="text-block-content">
+    <p>The Canvas media player supports H.264 video playback. Canvas accepts the following video files for playback:</p>
+<ul>
+<li>FLV – Flash Video</li>
+<li> ASF – Windows Media</li>
+<li>QT – Apple QuickTime</li>
+<li> MOV – Apple QuickTime</li>
+<li> MPG – Digital Video Format </li>
+<li>MPEG – Digital Video Format</li>
+<li> AVI – Digital Video Format</li>
+<li> M4V – Digital Video Format </li>
+<li>WMV – Windows Media </li>
+<li>MP4 – Digital Video Format </li>
+<li>3GP – Multimedia Mobile Format</li>
+</ul>
+<p> For tips about media compressions and playback quality, view Vimeo's <a href="http://vimeo.com/help/compression" target="_blank" rel="nofollow noopener noreferrer">Video Compression Guidelines</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="supported_audio_formats" data-step-uuid="b7927e71-5990-4ac9-b491-c063135adad3">
+    <h2 id="supported_audio_formats" class="step-title screensteps-heading">Supported Audio Formats</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0E086250-222F-0135-B28B-22000BC102FE" class="text-block-content">
+    <p>Canvas accepts the following audio files for playback:</p>
+<ul>
+<li> MP3 – Digital Audio Format </li>
+<li>WMA – Windows media audio</li>
+<li>MWV – Windows Media     </li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,130 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_BD179900-1D60-0135-E997-22000AB760A3" class="text-block-content">
+    <p>You can create account-level roles in Canvas. </p>
+<p>Account roles are granted to each Canvas admin and define the type of access each admin has in the account. You can create custom account-level roles depending on the needs of your institution. </p>
+<p>Once a role is created, you can <a href="/t5/Admin-Guide/How-do-I-add-an-admin-to-an-account/ta-p/212" target="_blank">add administrative users</a> and <a href="/t5/Admin-Guide/How-do-I-set-permissions-for-an-account-level-role/ta-p/213" target="_blank">manage account-level permissions</a>.</p>
+<p><strong>Note: </strong>When you change a permission, it can sometimes take 30 minutes or longer for that permission to take effect. If the expected changes do not appear immediately, try again after some time has passed.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="f2859397-aeb9-40dd-aba7-2bf0b093fcbf">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BD17C960-1D60-0135-E999-22000AB760A3" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_permissions" data-step-uuid="CCD456A6-FDBA-4364-858E-14124E6BB3CE">
+    <h2 id="open_permissions" class="step-title screensteps-heading">Open Permissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/536/original/62f61175-8503-479d-bb7e-303d09e04f3b.png" srcset="" alt="Open Permissions" height="300" width="180">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BD17F980-1D60-0135-E99B-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Permissions </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account_roles" data-step-uuid="5CAF1D54-C34B-44B8-A426-B57E21932FFB">
+    <h2 id="open_account_roles" class="step-title screensteps-heading">Open Account Roles</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/802/376/original/2d156fe1-3899-4b54-95d7-85b4728e4015.png" srcset="" alt="Open Account Roles" height="88" width="306">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BD1828C0-1D60-0135-E99D-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Account Roles</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_role" data-step-uuid="B2B286ED-CAB4-4156-99FB-0554E4693720">
+    <h2 id="add_role" class="step-title screensteps-heading">Add Role </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/802/378/original/390bbbc3-022e-4d92-8d0c-10c10b7404d5.png" srcset="" alt="Add Role " height="70" width="128">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BD185960-1D60-0135-E99F-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Role</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_role_name" data-step-uuid="4602545B-0B4A-4ADD-85B5-B00F238AD36B">
+    <h2 id="add_role_name" class="step-title screensteps-heading">Add Role Name</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/802/395/original/9cec5944-2148-4858-8c4d-e4631e5077c6.png" srcset="" alt="Add Role Name" height="227" width="327">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BD1889B0-1D60-0135-E9A1-22000AB760A3" class="text-block-content">
+    <p>In the Role Name field, type the name of the new role.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_role" data-step-uuid="18c68772-63e7-4503-b2d2-3d8a716ef2bd">
+    <h2 id="save_role" class="step-title screensteps-heading">Save Role</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/802/396/original/af37cbae-d58f-4769-856b-706e8ffeb67a.png" srcset="" alt="Save Role" height="70" width="170">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_baccaede-46b1-4b0f-ae46-bfabcf0517e5" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_account_role" data-step-uuid="E5A73F94-B6DB-4EE0-A363-A5268ABE0163">
+    <h2 id="view_account_role" class="step-title screensteps-heading">View Account Role</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/813/400/original/ff83881f-ed27-4e43-817b-d30cbc4f4b56.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/813/400/medium/ff83881f-ed27-4e43-817b-d30cbc4f4b56.png" srcset="" alt="View Account Role" height="299" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BD18B810-1D60-0135-E9A3-22000AB760A3" class="text-block-content">
+    <p>View the new account-level role.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

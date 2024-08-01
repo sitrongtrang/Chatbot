@@ -1,0 +1,135 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_E86ABDF0-2165-0135-576D-22000AB760A3" class="text-block-content">
+    <p>If the copyright and license information requirement is enabled in your course, you have to set a usage right (copyright) for each file you upload to your course. Usage rights must be assigned to files before files can be published to the course. If a file or multiple files are located in a folder, you can <a href="/t5/Instructor-Guide/How-do-I-set-usage-rights-and-user-access-for-a-course-file/ta-p/898" target="_blank">set usage rights through folders</a>.</p>
+<p><strong>Note:</strong> You can manage course file usage rights through the File Copyright course details setting. To manage usage rights, learn how to <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">set course details.</a></p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_files" data-step-uuid="6e2ed0b6-7f9b-4a89-a116-5fb925005f9e">
+    <h2 id="open_files" class="step-title screensteps-heading">Open Files</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/765/571/original/96236672-45bd-4158-954e-cca6674afb7c.png" srcset="" alt="Open Files" height="265" width="171">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E86AECB0-2165-0135-576F-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Files </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_usage_rights" data-step-uuid="7e022ef2-8632-4641-b006-c230b9b20d64">
+    <h2 id="manage_usage_rights" class="step-title screensteps-heading">Manage Usage Rights</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/906/541/original/e1766c46-4a65-45a0-840b-d479fda9707c.png" srcset="" alt="Manage Usage Rights" height="459" width="774">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E86B1D30-2165-0135-5771-22000AB760A3" class="text-block-content">
+    <p>Click the line item for the file [1]. Click the <strong>Options</strong> icon [2] and the <strong>Manage Usage Rights</strong> link [3]. You can also click the file's warning icon [4], or the Files toolbar <strong>Manage Usage Rights </strong>link [5]. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select_usage_right" data-step-uuid="84b1eed5-a29d-4b92-b1ef-abad512d102d">
+    <h3 id="select_usage_right" class="step-title screensteps-heading">Select Usage Right</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/716/612/original/c71950a7-fc39-4fc8-ae5a-faed740e6521.png" srcset="" alt="Select Usage Right" height="750" width="772">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E86B4B00-2165-0135-5773-22000AB760A3" class="text-block-content">
+    <p>In the <strong>Usage Right</strong> drop-down menu [1], select one of five usage rights. If you are an instructor and are not sure which usage right applies to your file, please consult your institutional admin for guidance:</p>
+<ul>
+<li>I hold the copyright (original content created by you)</li>
+<li>I have obtained permission to use the file (authorized permission by the author)</li>
+<li>The material is in the public domain (explicitly assigned to public domain, cannot be copyrighted, or is no longer protected by copyright)</li>
+<li>The material is subject to an exception - e.g. fair use, the right to quote, or others under applicable copyright laws (excerpt or summary used for commentary, news reporting, research, or analysis in education)</li>
+<li>The material is licensed under <a href="https://creativecommons.org/licenses/" target="" rel="nofollow noopener noreferrer">Creative Commons</a>; this option also requires setting a specific Creative Commons license</li>
+</ul>
+<p>If known, enter the copyright holder information in the <strong>Copyright Holder</strong> field [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set_file_access" data-step-uuid="9f5310b9-188d-4c43-9d50-67bcef3852ca">
+    <h3 id="set_file_access" class="step-title screensteps-heading">Set File Availability</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/707/310/original/ccae0f8e-7e81-45c2-ac74-5ac4edc08691.png" srcset="" alt="Set File Availability" height="198" width="245">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E86B7A10-2165-0135-5775-22000AB760A3" class="text-block-content">
+    <p>You can also set availability to the file. By default, the file is unpublished. You can also publish the file or <a href="/t5/Instructor-Guide/How-do-I-restrict-files-and-folders-to-students-in-Canvas/ta-p/610" target="_blank">restrict access</a>.</p>
+<p>To select file availability, click the radio button next to the access type. You can change the access at any time. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="set-file-visibility" data-step-uuid="6953c530-28be-41ff-beb0-e19b0f8f0f81">
+    <h3 id="set-file-visibility" class="step-title screensteps-heading">Set File Visibility</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/707/314/original/36ef9a25-df53-4899-8ca0-a65fc02dc283.png" srcset="" alt="Set File Visibility" height="270" width="298">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_97bde431-13c3-45c6-8315-e80f1408ea59" class="text-block-content">
+    <p>In Course Settings, visibility defaults to course visibility. However, for individual files, the default is whatever the instructor selected in <a href="/t5/Instructor-Guide/How-do-I-customize-visibility-options-for-course-content/ta-p/814" target="_blank">Course Settings</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_file" data-step-uuid="7423ff2b-29f1-4647-8659-e1df22fb2d6e">
+    <h2 id="save_file" class="step-title screensteps-heading">Save File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/779/817/original/e9afce7c-172f-480e-ab03-3a65a0287295.png" srcset="" alt="Save File" height="71" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E86BAAD0-2165-0135-5777-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_file" data-step-uuid="dd0e465d-7195-424a-b81e-1096c0e500e6">
+    <h2 id="view_file" class="step-title screensteps-heading">View File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/441/278/original/eacb16eb-8f31-40b9-9f6d-790e77c4dd1b.png" srcset="" alt="View File" height="231" width="755">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_E86BDC40-2165-0135-5779-22000AB760A3" class="text-block-content">
+    <p>View the updated file.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

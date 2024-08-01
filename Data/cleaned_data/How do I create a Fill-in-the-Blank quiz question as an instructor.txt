@@ -1,0 +1,32 @@
+How do I create a Fill-in-the-Blank quiz question as an instructor
+Add Question
+With the Questions tab selected inside a new quiz, click the New Question button.
+Set Name, Type, and Points
+Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).
+Click the drop-down menu and select the Fill In the Blank question type.
+Enter number of points the question is worth (quiz totals are calculated based on combined total of questions).
+Note: Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.
+Edit Fill-In-the-Blank Question Details
+To build a Fill-in-the-Blank question, you will need to enter the following details:
+The question text (use the Rich Content Editor to include video, images, math equations, or flash activities)
+Text for the possible answers
+Text for the answer comments under each answer (possible answers are all green and/or at the end of the question)
+Enter Possible Answers
+Currently, fill-in-the-blank answers are not case sensitive. The only way a student will get the answer incorrect is if it is left blank or the answer is misspelled. You can click Add Another Answer to add as many different versions of the correct answer as possible if you desire. Possible answers are limited to 80 characters.
+Notes: 
+In order to receive credit for a correct response, students must enter their answer exactly as it has been entered by the instructor, including any additional spaces in the Possible Answer field.
+If a student does not enter any of the possible answers but still submits a valid response, instructors may need to manually grade the quiz to restore points that they lost.
+Enter Feedback Text
+You can choose to give students feedback in the answer comments fields. To leave feedback for a specific answer, click the comment field beneath the answer. 
+You can also create general answer comments for the quiz question as a whole. Students who select the correct answer will see the feedback in the green comment field. Students who select any incorrect answer will see the feedback in the red comment field. All students will see the feedback in the blue comment field.
+Note: Any applicable feedback is visible as soon as a quiz is submitted and cannot be hidden from students.
+Each text box can be expanded in size by clicking and dragging the handle at the bottom-right of the text box.
+Update Question
+Click the Update Question button.
+Add additional individual questions as needed. 
+Student View for Fill-in-the-Blank Question
+This is what students see when they encounter a Fill-in-the-blank question in a quiz.
+Student View for Fill-in-the-Blank Feedback Correct Answer
+Students will see if their answer is correct as indicated by the green flag. If you allow students to see the correct answers, they will see all of the potentially correct responses (if any) indicated by the gray flag after submitting the quiz.
+Student View for Fill-in-the-Blank Feedback Incorrect Answer
+Students will see if their answer is incorrect as indicated by the red flag. If you allow students to see the correct answers, they will see all of the potentially correct responses indicated by the gray flag after submitting the quiz.

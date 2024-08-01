@@ -1,0 +1,27 @@
+How do I manage admin users in the Canvas Data 1 Portal as an admin
+Canvas Data 1 will be deprecated on December 31, 2023. Canvas Data 1 guides will be removed from the Community end of June 2024. Learn more about accessing data using Canvas Data 2.
+Open Account
+Click the Admin link, then click the name of the account.
+Open Canvas Data Portal
+In Account Navigation, click the Canvas Data Portal link.
+View Users
+In the Credentials Portal, you can view the users who has been given access to the Canvas Data Portal. 
+Any admin who does not have access but who has tried to view the portal also appears in the list. 
+User information includes the admin's name and admin's user ID.
+Note: Canvas support agents who have managed support cases in your data portal may also display in the Manage Users list.
+View Permissions
+User information also displays permissions based on your institution's Canvas Data subscription.
+In permissions, the no label means that the user cannot perform the listed permission. A yes label means that the user has access to perform the permission.
+An account may include up to five available permissions:
+Manage Users—can add other Canvas Data users for the account
+Grant Admin Permissions—can allow Canvas Data users to add other Canvas Data users
+Connect to Redshift—can generate credentials to connect to Redshift (hosted accounts only)
+Manage IP Address Whitelist—can manage the IP whitelist (hosted accounts only)
+Flat File Download—can download flat files from Canvas Data
+Manage Users
+To edit a user, click the Edit button. To delete a user, click the Delete button.
+Note: You cannot edit or delete information for your own account.
+Add User
+To add a new admin, scroll down the page to the Add New User section.
+Enter the Canvas ID and the Full Name of the admin. Select the checkbox(es) for the permission(s) you want to enable for the user. 
+Click the Create User button. 

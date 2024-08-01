@@ -1,0 +1,132 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A7D20730-1EE3-0135-26B3-22000BC102FE" class="text-block-content">
+    <p>You can join a conference that has already been started by the conference host. Instructors will be given moderator permissions when they join a conference started by another user.</p>
+<p>To use your microphone, you must give Conferences access to your microphone settings. As part of joining the conference, you must verify these settings in your browser.</p>
+<p><strong>Note: </strong>The Course Navigation link for your web conferencing tool reflects the name of the web conferencing tool. The link may display as BigBlueButton, Adobe Connect, or the name of the web conferencing tool your institution uses.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_conferences" data-step-uuid="345EB3D8-6288-4BD7-AF0A-FD41940A97BC">
+    <h2 id="open_conferences" class="step-title screensteps-heading">Open Conferences</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/957/711/original/006000b0-76e3-4c90-a38d-62a7ded233a2.png" srcset="" alt="Open Conferences" height="239" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7D28D60-1EE3-0135-26B5-22000BC102FE" class="text-block-content">
+    <p>In Course Navigation, click the link for your web conferencing tool. The link name reflects the conferencing tool used by your institution. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="join_conference" data-step-uuid="18C2DF88-C396-45DC-8231-1C814F81E7DE">
+    <h2 id="join_conference" class="step-title screensteps-heading">Join Conference</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/168/341/original/44dbda0f-cdd9-4f75-89a0-14266bdc9497.png" srcset="" alt="Join Conference" height="128" width="808">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7D2BE40-1EE3-0135-26B7-22000BC102FE" class="text-block-content">
+    <p>Next to the conference you want to join, click the <strong>Join </strong>button.</p>
+<p><strong>Note:</strong> You cannot join a conference until the conference host has started the conference.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="join_the_audio" data-step-uuid="ea0c9eb3-e418-4afb-8815-9682942eabfb">
+    <h3 id="join_the_audio" class="step-title screensteps-heading">Join Audio</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/377/845/original/17d407cb-85f6-4aa1-b365-e1a80a0775ac.png" srcset="" alt="Join Audio" height="276" width="559">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c7dd8691-35d5-4dd1-a58d-53f61f72913d" class="text-block-content">
+    <p>To use your microphone during the conference, click the <strong>Microphone</strong> icon [1]. To join the conference without enabling a microphone, click the <strong>Listen only</strong> icon [2]. You will be able to change your audio preference after you've joined the conference. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="chrome_microphone_permissions" data-step-uuid="4abeb96b-ed6d-48b4-829c-51dad8f94c52">
+    <h4 id="chrome_microphone_permissions" class="step-title screensteps-heading">View Chrome Microphone Permissions</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/377/836/original/30506e1a-bdee-44de-b984-767966b474da.png" srcset="" alt="Chrome Microphone Permissions" height="262" width="627">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2c67c0a4-732b-46db-9844-219d066cfc5b" class="text-block-content">
+    <p>To enable a microphone in a Chrome browser, click the <strong>Allow </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="firefox_microphone_permissions" data-step-uuid="d5dcca32-7be7-4ad4-be4c-5d58c0c0ee40">
+    <h4 id="firefox_microphone_permissions" class="step-title screensteps-heading">View Firefox Microphone Permissions</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/377/840/original/49b6bfda-c1ea-4d05-872c-656b8afd4fd4.png" srcset="" alt="Firefox Microphone Permissions" height="328" width="730">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ac9b44d7-9169-48d5-b8d6-a1df7a9757ca" class="text-block-content">
+    <p>To enable a microphone in a Firefox browser, select your microphone in the <strong>Microphone to share</strong> menu [1]. Then click the <strong>Allow</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="audio_test" data-step-uuid="4ce4360a-3f71-484a-a1f9-a8dc96dbdaa7">
+    <h3 id="audio_test" class="step-title screensteps-heading">Audio Test</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/377/843/original/4ad1f984-5d1f-47c2-b718-fc6be3cfe217.png" srcset="" alt="Audio Test" height="236" width="602">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b92029f8-e46c-4c1e-8162-05c255e8b808" class="text-block-content">
+    <p>To ensure your audio is working correctly, complete the private audio echo test. Speak a few words and if you hear audio, click the <strong>Yes</strong> icon [1]. To choose a different microphone and repeat the audio test, click the <strong>No</strong> icon [2].</p>
+<p><strong>Note:</strong> It is recommended that you use a headset with a microphone for the best audio experience.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_conference" data-step-uuid="f1ea67ad-5a31-43cb-8727-3e64d77f3368">
+    <h2 id="view_conference" class="step-title screensteps-heading">View Conference</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/964/382/original/7c9253e2-5650-406b-872a-956fa09347d7.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/964/382/medium/7c9253e2-5650-406b-872a-956fa09347d7.png" srcset="" alt="View Conference" height="481" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7D3FA50-1EE3-0135-26C3-22000BC102FE" class="text-block-content">
+    <p>View the conference.</p>
+<p>Learn how to <a href="/t5/Instructor-Guide/How-do-I-use-the-Conferences-interface-as-a-moderator-or/ta-p/1072" target="_blank">use the Conferences interface</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,191 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_99708030-222C-0135-DC06-22000B5A851D" class="text-block-content">
+    <p>You can make a quiz available to all your students before or after the due date by setting availability dates. Availability date settings can be used for both New Quizzes and Classic Quizzes.</p>
+<p><strong>Note:</strong> If you are looking to change quiz dates for individual students, you can <a href="/t5/Instructor-Guide/How-do-I-assign-a-quiz-to-an-individual-student/ta-p/714" target="_blank">assign a quiz to an individual student</a> or <a href="/t5/Instructor-Guide/How-do-I-assign-a-quiz-to-a-course-section/ta-p/907" target="_blank">assign a quiz to a course section</a>. Additionally, you may be able to <a href="/t5/Instructor-Guide/How-do-I-bulk-update-due-dates-and-availability-dates-as-an/ta-p/1195" target="_blank">edit due and availability dates for multiple quizzes</a> at one time from the Assignments Index page.</p>
+<p>Quizzes have an autosubmit feature tied to the Until (lock) date, which may affect student submissions. Only quiz attempts that have been started are auto-submitted. Common quiz scenarios and date results include the following:  </p>
+<ul>
+<li>
+<em>No dates</em>: quiz is never marked late and autosubmitted at course conclude (see course settings)</li>
+<li>
+<em>Due date only</em>: quiz is marked late at Due date and autosubmitted at course conclude (see course settings)</li>
+<li>
+<em>Due date with Until date</em>: quiz is marked late at Due date and autosubmitted at Until date </li>
+<li>
+<em>Time limit</em>: quiz is autosubmitted when time expires. The time limit will still expire if a student navigates away from the quiz. The quiz will autosubmit when the student navigates to the quiz page again.</li>
+<li>
+<em>Time limit with Until date</em>: quiz is autosubmitted when time expires unless the Until date expires first </li>
+</ul>
+<p> </p>
+<p><strong>Student View</strong></p>
+<p>When students view a quiz, they are able to see the details of the quiz. <em>Quiz details do not show due and availability dates in relation to the current time</em>. However, <em>within</em> the quiz, Canvas notifies students regarding any upcoming quiz deadlines: </p>
+<ul>
+<li>For quizzes with a Due date, the browser displays a notification banner to let students know when the quiz will be marked late (30 minutes prior, 5 minutes prior, and 1 minute prior). </li>
+<li>For quizzes that are close to autosubmitting (using an Until date or the natural course conclude date), the browser displays a notification banner to let students know when the quiz will autosubmit (30 minutes prior, 5 minutes prior, 1 minute prior, and 10 seconds prior). </li>
+<li>For timed quizzes, the browser displays a notification banner if students are not able to complete the quiz in the full allotted time period. The quiz sidebar also displays a timer indicating how many minutes remain to complete the quiz. For example, if a 60-minute quiz has an Until date of 11:59 pm and a student begins the quiz at 11:30 pm, the student will only have 30 minutes to complete the quiz. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="C246F821-CB67-4C6C-BBC2-2780E626411F">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/692/original/ea691796-0ed6-44a9-bd25-b19244086ff9.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9970B500-222C-0135-DC08-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_quiz" data-step-uuid="7755AD99-FC72-4C3B-8E78-E4014FF6E031">
+    <h2 id="add_quiz" class="step-title screensteps-heading">Add Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/751/original/cec3ed63-491f-45d3-a944-0254a174db2b.png" srcset="" alt="Add Quiz" height="62" width="144">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9970E930-222C-0135-DC0A-22000B5A851D" class="text-block-content">
+    <p>To add a new quiz, click the <strong>Add Quiz</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add-classic-quiz" data-step-uuid="6a1dcfeb-7e8a-4f8d-85f2-474b816e66c2">
+    <h3 id="add-classic-quiz" class="step-title screensteps-heading">Select Quiz Engine</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/787/584/original/2ce3bc1c-9bd7-49a8-858a-790137217c1c.png" srcset="" alt="Select Quiz Engine" height="531" width="478">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cbde4e68-add4-478d-845d-e5742b7a02fc" class="text-block-content">
+    <p>If your course has New Quizzes enabled, you must select a quiz engine.</p>
+<p>To select New Quizzes, click the <strong>New Quizzes</strong> option [1].</p>
+<p>To create a classic quiz, click the <strong>Classic Quizzes</strong> option [2].</p>
+<p>Then click the <strong>Submit</strong> button [3].</p>
+<p><strong>Note:</strong> Learn more about <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-using-New-Quizzes/ta-p/1173" target="_blank">creating a quiz using New Quizzes</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_quiz" data-step-uuid="AF8E31A9-4A3B-4758-A017-F2816400C2DA">
+    <h2 id="edit_quiz" class="step-title screensteps-heading">Edit Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/630/953/original/9557e991-ce51-4873-b55e-9ca20ac83c32.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/630/953/medium/9557e991-ce51-4873-b55e-9ca20ac83c32.png" srcset="" alt="Edit Quiz" height="413" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99712110-222C-0135-DC0C-22000B5A851D" class="text-block-content">
+    <p>To edit the settings of an existing quiz, locate the quiz [1]. Classic Quizzes display an empty Quiz icon [2]. New Quizzes display a filled quiz icon [3]. </p>
+<p>To edit the quiz, click the <strong>Options</strong> icon [4], and select the <strong>Edit</strong> option [5]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_availability_dates" data-step-uuid="B450A918-BA7A-4519-8809-6AE8C5CAF722">
+    <h2 id="view_availability_dates" class="step-title screensteps-heading">View Availability Dates</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/102/391/original/af372e99-1acc-474c-a3b7-209bd64e853c.png" srcset="" alt="View Availability Dates" height="357" width="462">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9971E330-222C-0135-DC10-22000B5A851D" class="text-block-content">
+    <p>View the availability date options for your quiz:</p>
+<ol>
+<li>
+<strong>Available From: </strong>the date and time when the Assignments will become available to students. If no time is set, this date defaults to 12:00 am for the course time zone.</li>
+<li>
+<strong>Until: </strong>the date and time when students can no longer submit the assignment. If a date does not include a time, the listed date defaults to the <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">course's default due time</a>.</li>
+</ol>
+<p>When the assignment is published, blank availability date fields allow the assignment to be viewed throughout the entire course. </p>
+<p><strong>Note: </strong>If you have set section override dates in your course, you may need to select a course section and set availability dates that fall within the section override dates.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_available_from_date" data-step-uuid="D0F5707B-28A5-441E-8403-136750123A2A">
+    <h2 id="set_available_from_date" class="step-title screensteps-heading">Set Available From Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/102/379/original/b76d556a-d702-4c70-bc20-aba874174dd7.png" srcset="" alt="Set Available From Date" height="552" width="462">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_997214A0-222C-0135-DC12-22000B5A851D" class="text-block-content">
+    <p>To set an Available From date, click the calendar icon [1] and select the date [2] and time [3]. Click the <strong>Done</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_until_date" data-step-uuid="8F941335-D7DA-4FC7-8E24-040ED8465238">
+    <h2 id="set_until_date" class="step-title screensteps-heading">Set Until Date</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/102/394/original/d74be3c2-3759-4e6c-b345-d29025881396.png" srcset="" alt="Set Until Date" height="527" width="536">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_997247F0-222C-0135-DC14-22000B5A851D" class="text-block-content">
+    <p>To set an Until date, click the calendar icon [1] and select the date [2] and time [3]. Click the <strong>Done </strong>button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_quiz" data-step-uuid="8649C154-7C49-4BCC-A844-68E921A63B69">
+    <h2 id="save_quiz" class="step-title screensteps-heading">Save Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/102/388/original/2473503b-9557-45e0-ac2c-1e731baa3e90.png" srcset="" alt="Save Quiz" height="67" width="180">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_99727A50-222C-0135-DC16-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+<p><strong>Note</strong>: If you edited an existing quiz, any saved changes will automatically be updated.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_quiz" data-step-uuid="2C0784D3-1339-44EF-8BE5-DD5CA87FB7C5">
+    <h2 id="view_quiz" class="step-title screensteps-heading">View Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/102/397/original/f3140d64-4f47-4799-80c4-8c2d41145251.png" srcset="" alt="View Quiz" height="593" width="781">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9972AEF0-222C-0135-DC18-22000B5A851D" class="text-block-content">
+    <p>View the quiz and the dates you have made the quiz available to students.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

@@ -1,0 +1,136 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_A7545940-222F-0135-B781-22000B5A851D" class="text-block-content">
+    <p>Once you publish a quiz and make it available to your students, you can make changes to the quiz. Original quiz data is retained as part of any existing student submissions. However, students who have already opened or completed the quiz will not see any changes you make, which may affect their grades. These types of changes include adding new questions or deleting questions from the original quiz.</p>
+<p>Additionally, if you change only the point value of the quiz, the student's submitted quiz will show the updated point value, but the current grade won't change in the Gradebook.</p>
+<p>If you only need to make changes to existing quiz questions, after editing the quiz you can use <a href="/t5/Instructor-Guide/What-options-can-I-use-to-regrade-a-quiz-in-a-course/ta-p/1093" target="_blank">quiz regrade</a> to edit certain types of quizzes, or you can add <a href="/t5/Instructor-Guide/How-do-I-adjust-the-point-value-for-an-entire-quiz-using-fudge/ta-p/939" target="_blank">fudge points</a> to individual student quiz scores using SpeedGrader. You can also <a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-how-do-I-use-the-Moderate-Quiz-page/ta-p/761" target="_blank">moderate the quiz</a> to give additional attempts.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Changing the until date for a published quiz will not alter the auto-submit time for students with in-progress submissions.</li>
+<li>Making a change to a quiz while there is an active attempt in session allows students to receive additional time to take their quiz.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_quizzes" data-step-uuid="22CF8C07-4F00-45AD-87B4-4D82473C4A9A">
+    <h2 id="open_quizzes" class="step-title screensteps-heading">Open Quizzes</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/706/original/4e6e4f3f-6239-4872-a5b5-87a357aa5e9e.png" srcset="" alt="Open Quizzes" height="241" width="156">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7548FA0-222F-0135-B783-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Quizzes</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_quiz" data-step-uuid="62182F97-0FB9-498D-ACC1-C2DDDF7CE795">
+    <h2 id="edit_quiz" class="step-title screensteps-heading">Edit Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/252/929/original/799f063e-7133-404a-95d4-2fd42d1b581a.png" srcset="" alt="Edit Quiz" height="258" width="804">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7551A50-222F-0135-B785-22000B5A851D" class="text-block-content">
+    <p>Locate the quiz you want to edit and click the <strong>Settings</strong> icon [1]. Click the <strong>Edit</strong> link [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="169E5252-BC29-42DB-B1D0-76C24C54FD06">
+    
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/805/original/5a6bd916-f1c1-4193-832e-c263ac4d1df0.png" srcset="" alt="Edit Quiz Settings or Questions" height="180" width="595">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A7554F80-222F-0135-B787-22000B5A851D" class="text-block-content">
+    <p>To edit <a href="/t5/Instructor-Guide/What-options-can-I-set-in-a-quiz/ta-p/683" target="_blank">quiz settings,</a> click the <strong>Details</strong> tab [1]. To edit quiz questions, click the <strong>Questions</strong> tab [2]. </p>
+<p>Make the required edits to your quiz. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="notify_students" data-step-uuid="8941C345-1FE5-4104-B0E6-6618EEA8B042">
+    <h2 id="notify_students" class="step-title screensteps-heading">Notify Students</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/413/original/950c3c65-f15a-4415-966e-13dc7e73f798.png" srcset="" alt="Notify Students" height="66" width="689">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A75581B0-222F-0135-B789-22000B5A851D" class="text-block-content">
+    <p>Once you have edited the quiz, you can notify the students in your course that the quiz has changed by selecting the <strong>Notify users this quiz has changed</strong> checkbox. The notification will be sent to any students who have enabled the Course Content option in their <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Notifications/ta-p/387041" target="_blank">notification settings</a>, including students who have already completed the quiz. </p>
+<p><strong>Note: </strong>If you change the due date of the quiz, students who have enabled the Due Date option in their notification settings receive a notification, regardless of whether you select the quiz change notification checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_quiz" data-step-uuid="AB4B76FF-9F6B-4BB0-AEDD-5202867F5D41">
+    <h2 id="save_quiz" class="step-title screensteps-heading">Save Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/765/415/original/9b6d353b-41ec-4ced-8d3c-d71bb35af221.png" srcset="" alt="Save Quiz" height="70" width="195">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A755B3C0-222F-0135-B78B-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_it_now" data-step-uuid="60674167-43a5-44d8-b622-262c58dd567f">
+    <h2 id="save_it_now" class="step-title screensteps-heading">Save It Now</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/247/811/original/c2bb3bbd-f38e-47d0-9e30-59f9f69f0b18.png" srcset="" alt="Save It Now" height="154" width="767">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A755E4A0-222F-0135-B78D-22000B5A851D" class="text-block-content">
+    <p>If you exit the quiz without saving, Canvas will display a message indicating you have made changes to the questions in the quiz that cannot be viewed by students. To ensure students are seeing the most current version of the quiz, click the <strong>Save It Now</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="moderate_this_quiz" data-step-uuid="68bed032-6e79-4be2-a97b-3f09d921aab2">
+    <h2 id="moderate_this_quiz" class="step-title screensteps-heading">Moderate This Quiz</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/247/809/original/23a36b6c-d3f4-40f8-9b4f-662ec2b93600.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/247/809/medium/23a36b6c-d3f4-40f8-9b4f-662ec2b93600.png" srcset="" alt="Moderate This Quiz" height="164" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_A75614E0-222F-0135-B78F-22000B5A851D" class="text-block-content">
+    <p>You can also moderate the quiz to grant students extra attempts, grant extra time for timed quizzes, and manually unlock quiz attempts. To <a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-how-do-I-use-the-Moderate-Quiz-page/ta-p/761" target="_blank">moderate the quiz</a>, click the <strong>Moderate This Quiz</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

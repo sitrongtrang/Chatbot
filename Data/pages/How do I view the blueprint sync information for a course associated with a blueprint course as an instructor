@@ -1,0 +1,119 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_c78b66a0-083a-4bd5-a5de-97023143ae42" class="text-block-content">
+    <p>If your content index pages include Blueprint icons, your course is associated with a blueprint course. Blueprint Courses are courses managed as a template, and changes to locked objects can be synced from the blueprint course to your course at any time. However, you can <a href="/t5/Instructor-Guide/How-do-I-manage-content-for-a-course-associated-with-a-blueprint/ta-p/1282" target="_blank">manage any unlocked course content</a> in your course. </p>
+<p>You can view the latest information about a blueprint sync in Course Settings. The blueprint information contains details about the content or other attributes changed in your course.</p>
+<p><strong>Note: </strong>To be notified of synced updates from a blueprint course, enable the Blueprint sync notification in User Settings.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course" data-step-uuid="9993f25e-eedf-4399-895d-058be5edf094">
+    <h2 id="open_course" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/743/original/3541bd4b-1a81-42d7-94ca-f7d76ab6f3a8.png" srcset="" alt="Open Course" height="541" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2e945636-fe58-4bd2-9456-f4379703dff4" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="f0ebbfb9-c48c-4173-9d49-f93e53f67e9d">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/759/211/original/be6f50f2-6215-41e4-9f7e-93e45773469b.png" srcset="" alt="Open Settings" height="251" width="205">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2cd5021b-b64b-4755-b3de-b155b507297d" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-blueprint-information" data-step-uuid="02f88d33-1000-4df4-896d-96dd3a118d1c">
+    <h2 id="open-blueprint-information" class="step-title screensteps-heading">Open Blueprint Information</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/263/377/original/cd89e684-cd45-4644-a6c0-2801e93a37dc.png" srcset="" alt="Open Blueprint Information" height="161" width="280">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2f71c938-fd17-4675-a571-ebb7a581cf75" class="text-block-content">
+    <p>In the sidebar, click the <strong>Blueprint Information</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-sync-information" data-step-uuid="a4dae40b-772f-43b4-96e2-3538459911e7">
+    <h2 id="view-sync-information" class="step-title screensteps-heading">View Sync Information</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/259/670/original/26cbabd7-5268-4fed-bd7b-29eee95c7df4.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/259/670/medium/26cbabd7-5268-4fed-bd7b-29eee95c7df4.png" srcset="" alt="View Blueprint Information" height="366" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f026a5fe-60cb-4ca5-9cac-990e74e9e674" class="text-block-content">
+    <p>The Blueprint Information page shows information from the last blueprint sync. The page displays the name and course ID of the blueprint course [1] and the name and course ID of your associated course [2]. </p>
+<p>You can also view the date and time of the sync [3] and the number of changes [4].</p>
+<p>If a message was included as part of the notification, the message is displayed above the list of synced changes.</p>
+<p>For a course association made by an admin, sync information will also show the date and time the sync was made, but no details will be included related to the sync.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-sync-details" data-step-uuid="59d4d76b-76cf-42ed-8c29-9725a250aed5">
+    <h3 id="view-sync-details" class="step-title screensteps-heading">View Sync Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/672/original/f4f8ec11-bd10-402e-82eb-731786d5e2b2.png" srcset="" alt="View Blueprint Information" height="370" width="738">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5df940fe-8bb5-475e-b2e6-94331a5cb56e" class="text-block-content">
+    <p>The Blueprint Information page shows the specific content that has been synced. Each content object shows the synced status of the object (locked or unlocked) and the name of the object [1], the object type [2], the change applied [3], and whether or not the sync was applied [4].</p>
+<p>Content changes can be created, updated, or deleted. <em>Updated </em>changes indicate any change to existing content.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="close-blueprint-information" data-step-uuid="1c710988-65aa-4643-99e9-46067932d293">
+    <h3 id="close-blueprint-information" class="step-title screensteps-heading">Close Blueprint Information</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/674/original/1ef78e2a-d75d-4aa4-aaba-f1275f9d34b1.png" srcset="" alt="Close Blueprint Information" height="63" width="87">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_07486347-0a89-4d35-a00f-36c39af6c7dc" class="text-block-content">
+    <p>When you are finished with the Blueprint Information page, click the <strong>Done </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

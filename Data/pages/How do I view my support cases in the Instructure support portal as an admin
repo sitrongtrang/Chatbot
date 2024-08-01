@@ -1,0 +1,95 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_f9a1530a-46b9-4fa4-bd6c-59f8ba09c817" class="text-block-content">
+    <p>As a field admin, you can view and manage cases using the Cases table. The Cases table displays all open cases in your account but can be filtered to display cases that meet specific criteria.</p>
+<p>You can <a href="/t5/Admin-Guide/How-do-I-log-in-to-the-Field-Cloud-Admin-Console/ta-p/237" target="_blank">log in to the Field Admin Console</a> at adminconsole.canvaslms.com.</p>
+<p><strong>Note: </strong>Field Admin Console features may vary based on account and user settings. Based on the permissions for your role, you may not be able to view or use the features described in this lesson.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-cases" data-step-uuid="455af724-ef85-44a9-ad6a-6d64ecd02a7a">
+    <h2 id="open-cases" class="step-title screensteps-heading">Open Cases</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/629/390/original/9176adec-9646-4132-a85c-f55c93e53349.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/629/390/medium/9176adec-9646-4132-a85c-f55c93e53349.png" srcset="" alt="Open Cases" height="120" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1280451c-c5ff-4f4e-983b-577691ef4338" class="text-block-content">
+    <p>In the Field Admin Console home page, click the <strong>Cases</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-cases" data-step-uuid="806f5163-0bcd-4723-9e85-afc2db6d8bd1">
+    <h2 id="view-cases" class="step-title screensteps-heading">View Cases</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/629/393/original/e89cf021-60b2-4aae-9906-c8f5bba6c321.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/629/393/medium/e89cf021-60b2-4aae-9906-c8f5bba6c321.png" srcset="" alt="View Cases" height="228" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c62ec403-481d-4c43-bc11-bbfb4b96327d" class="text-block-content">
+    <p>The Cases page displays the Cases table, which lists open cases from accounts you manage. Each case displays a case number [1], status [2], subject [3], user who created the case [4], date of last modification [5], date and time the case was opened [6], owner name [7], and account name [8]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter-cases-table" data-step-uuid="74530e66-0b08-4ac0-99f1-7fb30e334f17">
+    <h2 id="filter-cases-table" class="step-title screensteps-heading">Filter Cases Table</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/053/238/original/c62dbcb2-f2c2-4aee-b40c-3adcd54c5be9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/053/238/medium/c62dbcb2-f2c2-4aee-b40c-3adcd54c5be9.png" srcset="" alt="Filter Cases Table" height="149" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_76b81fb2-31a6-4607-8cc4-7918b4ff27eb" class="text-block-content">
+    <p>To filter the Cases table, click the <strong>Filter</strong> menu [1]. You can filter cases by Instructure product, status, cases created today, cases assigned to you, recently viewed cases, or triaged cases.</p>
+<p>To pin a filter as the default view for the Cases page, click the <strong>Pin</strong> icon [2].</p>
+<p>To search the Cases table, click the <strong>Search</strong> field [3]. To refresh the table, click the <strong>Refresh</strong> button [4].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-case" data-step-uuid="4b89fa08-2bb8-4ebb-8d79-23a98ecf6f89">
+    <h2 id="open-case" class="step-title screensteps-heading">Open Case</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/191/503/original/31acbae0-dd43-46f4-8f78-556206d3d7f5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/191/503/medium/31acbae0-dd43-46f4-8f78-556206d3d7f5.png" srcset="" alt="Open Case" height="190" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4670b529-d3e0-40a7-8754-25ec2000084e" class="text-block-content">
+    <p>To <a href="/t5/Admin-Guide/How-do-I-manage-an-individual-case-in-the-Field-Admin-Console/ta-p/120" target="_blank">open a case</a>, click the case number.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

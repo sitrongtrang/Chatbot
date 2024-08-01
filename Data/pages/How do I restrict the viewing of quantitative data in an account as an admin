@@ -1,0 +1,124 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_D6004EB7-02E8-48C1-B5CE-5B04A33F3776" class="text-block-content">
+    <p>When selected, the Restrict view of quantitative data setting allows instructors to limit the view of quantitative (numeric) grading data <a href="/t5/Instructor-Guide/How-do-I-restrict-the-viewing-of-quantitative-data-in-a-course/ta-p/580321" target="_blank">in a course</a>. Students and observers only see qualitative data, which includes letter grades and comments. </p>
+<p>Points are converted to a letter grade and points possible are hidden. All other grading information is visible.</p>
+<p>When locked, the setting restricts the view of quantitative data in all new courses.</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>You can enable and lock the setting for sub-accounts and courses. If the setting is unlocked, instructors can choose to enable it in Course Settings. If the setting is locked, instructors cannot disable the setting in a course. </li>
+<li>If the account or course does not have a custom grading scheme, the Default Canvas Grading Scheme is used.</li>
+<li>When the setting is enabled, Admins, Instructors, and TAs can still see quantitative data.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="FA75443D-2E59-4CB1-BF7F-173DC1DBEB8F">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8746DB53-1CD8-4FFC-8308-820659D9EBB2" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account_settings" data-step-uuid="9E00749C-F626-4C18-9DEF-FA84C1DDF02E">
+    <h2 id="open_account_settings" class="step-title screensteps-heading">Open Account Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/756/375/original/81063932-7e70-4db4-9777-9fc4ba78a1a7.png" srcset="" alt="Open Account Settings" height="282" width="188">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CEBC50C5-0B97-49D3-99EE-7740B867C2D9" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_restriction_options" data-step-uuid="8F2A93D3-10D6-441E-A47B-073834374CD0">
+    <h2 id="view_restriction_options" class="step-title screensteps-heading">View Restriction Options</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/797/149/original/6c79932b-887d-49f8-85bc-f1fa8c614dc0.png" srcset="" alt="View Restriction Options" height="89" width="384">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D9AC1649-920D-4E98-97EA-73DE1AD237A6" class="text-block-content">
+    <p>In the Account Settings tab, locate the <strong>Restrict view of quantitative data</strong> option.</p>
+<p>By default, the Restrict view of quantitative data checkbox is not selected, meaning students and observers can view numeric data as well as letter grades and comments. Additionally, the option to restrict the view of quantitative data in a course is unavailable.</p>
+<p>To retain this default for the entire institution, do not select the checkbox. </p>
+<p><strong>Note: </strong>The quantitative data restriction checkbox is for<em> all new courses</em> created in the account after the setting is enabled.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="allow-restriction-of-quantitative-data-in-courses" data-step-uuid="4c96713c-d4ab-46c3-8b06-1fd0908ba7fd">
+    <h2 id="allow-restriction-of-quantitative-data-in-courses" class="step-title screensteps-heading">Allow Restriction of Quantitative Data in Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/159/812/original/1ec012b9-77e5-4124-81dd-b8883d03c5ca.png" srcset="" alt="Allow Restriction of Quantitative Data in Courses" height="99" width="439">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f3fed2bd-2ba4-40b8-9e29-00979e18e6a5" class="text-block-content">
+    <p>To allow users to <a href="/t5/Instructor-Guide/How-do-I-restrict-the-viewing-of-quantitative-data-in-a-course/ta-p/580321" target="_blank">restrict the view of quantitative data in a course</a>, select the <strong>Restrict view of quantitative data</strong> checkbox. </p>
+<p>When restricted in a course, students and observers only see qualitative data, which includes letter grades and comments.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="restrict_students_after_end_date" data-step-uuid="82EC87F3-5E73-41F3-8147-C21C792AAEE9">
+    <h2 id="restrict_students_after_end_date" class="step-title screensteps-heading">Restrict View of Quantitative Data in New Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/159/814/original/539574f6-ff17-4964-8b52-807b477d1536.png" srcset="" alt="Restrict View of Quantitative Data in New Courses" height="93" width="511">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D1607408-D625-4324-85A9-846554B64DEC" class="text-block-content">
+    <p>To set a default for new courses and sub-accounts in the entire account so students and observers cannot view quantitative data, which includes numeric data and points, click the <strong>Restrict view of quantitative data </strong>checkbox [1]. Then click the<strong> Lock this setting for sub-accounts and courses</strong> checkbox [2]. </p>
+<p>When both options are selected, students and observers in new courses only see qualitative data, which includes letter grades and comments.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_settings" data-step-uuid="5A404424-70CC-4F53-ADD0-64234908E6CC">
+    <h2 id="update_settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/392/original/f1a3270f-9d8a-48ac-a397-a576007b6b6b.png" srcset="" alt="Update Settings" height="75" width="174">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5C267F57-C3BA-487D-85BB-76E58BB0E19D" class="text-block-content">
+    <p>Click the <strong>Update Settings </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

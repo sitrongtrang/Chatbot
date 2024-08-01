@@ -1,0 +1,267 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_62fce223-5efc-405f-a42e-cf7bf2fba449" class="text-block-content">
+    <p>As an admin, you can associate active courses with a blueprint course. Associated courses receive synced updates from the blueprint course. Once a course is associated with a blueprint course, it cannot be associated with any other blueprint course. </p>
+<p>Associated courses must reside in the same or a lower subaccount than where the blueprint course resides. In each associated course, the name of the blueprint course is displayed in the Course Settings page, and users with permission to manage the blueprint course can access the blueprint course through a direct link.</p>
+<p>Content that can be managed by an instructor is not overwritten when the Blueprint Course is synced to associated courses, and new content that is added to any associated course is also not affected.</p>
+<p>After a course is associated with a blueprint course, the blueprint course will create an initial sync that included all course content and course settings. You can choose to associate courses after all course content is created, or you can associate courses immediately and sync the blueprint course later when the blueprint content is complete.</p>
+<p><strong>Concluded Courses</strong></p>
+<p>Courses that are associated with a blueprint course and have been concluded will continue to receive any synced changes from the blueprint course. The status of a course does not affect the blueprint sync. If a concluded course should not receive synced changes from the blueprint course, the course should be removed as an associated course.</p>
+  </div>
+</div>
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1bdee4e4-166d-444e-a7e2-32f8ed2cf13a" class="text-block-content">
+    <p><strong>Notes:</strong></p>
+<ul>
+<li>Only admins can associate courses to a blueprint course. Any instructor who is enrolled in the blueprint course can make changes and sync content to associated courses but cannot control the course association.</li>
+<li>LTI tools may be affected in associated courses. After the course syncs, verify the settings for LTI tools are configured correctly in associated courses.</li>
+<li>If a course's association with a blueprint course is removed, the course will no longer receive synced updates and course content will no longer be locked. Content synced from the blueprint course will remain in the course after the association is removed.</li>
+<li>Blueprint courses do not sync certain course settings to associated courses, including term, and course format.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="37485460-1b97-417d-afb0-1290b4eae5b2">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f97894ae-ea06-445d-b5fb-416f7890d808" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin </strong>link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-courses" data-step-uuid="4e757ffa-c85e-4fb7-bf68-a8799a91a1d1">
+    <h2 id="open-courses" class="step-title screensteps-heading">Open Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/747/887/original/06bfbd4d-fbeb-43ea-ae87-4db6d8509ba4.png" srcset="" alt="Open Courses" height="306" width="166">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f4b37337-9a1e-4bc5-8e67-59331a1437b0" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Courses</strong> link. </p>
+<p><strong>Note:</strong> When you open an account, the account defaults to the Courses page.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter_or_find_course" data-step-uuid="9bbb83ad-79a0-42bb-a0b4-71c2b3293a56">
+    <h2 id="filter_or_find_course" class="step-title screensteps-heading">Find Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/371/235/original/1a32e9de-7376-433d-a620-4effa1b829d2.png" srcset="" alt="Find Course" height="104" width="747">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ce1eb07a-fc9e-4bc9-be97-bfef35585653" class="text-block-content">
+    <p>To find courses in the account that are blueprint courses, click the <strong>Show only blueprint courses</strong> option. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="6fafabc4-afd8-4b18-a127-ce8eac309b97">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Course Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/491/133/original/30d56f09-ff56-432c-bb38-42502b5a792b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/491/133/medium/30d56f09-ff56-432c-bb38-42502b5a792b.png" srcset="" alt="Open Settings" height="160" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_04fa35f2-92a1-4faa-bf5c-aa89f08e60d6" class="text-block-content">
+    <p>In the courses list, click the course <strong>Settings</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_blueprint_sidebar" data-step-uuid="ca571462-6502-4401-b919-864251824a64">
+    <h2 id="open_blueprint_sidebar" class="step-title screensteps-heading">Open Associations</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/341/350/original/a174ec4f-f499-40cd-a9ed-edaa1f69833c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/341/350/medium/a174ec4f-f499-40cd-a9ed-edaa1f69833c.png" srcset="" alt="Open Home Page Blueprint Sidebar" height="346" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a7eba2aa-0ede-46e2-bde8-c2e3cf6134b4" class="text-block-content">
+    <p>In the Course Home Page, click the Blueprint sidebar tab [1], then click the <strong>Associations</strong> link [2].</p>
+<p><strong>Note: </strong>You can access the Blueprint sidebar from any Course Navigation page</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="filter_courses" data-step-uuid="50f275d9-0696-4ba5-aa7f-a7504377c691">
+    <h2 id="filter_courses" class="step-title screensteps-heading">Filter Courses</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/259/297/original/15229503-b007-4890-ae1f-7447cdb7486c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/259/297/medium/15229503-b007-4890-ae1f-7447cdb7486c.png" srcset="" alt="View Search Filter" height="178" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a1800e6c-3e1b-4de1-af0a-2208a5e8066a" class="text-block-content">
+    <p>The Associations page displays any courses that are associated with the blueprint course. Once a course is associated with a blueprint course, it cannot be associated with any other blueprint course.</p>
+<p>To filter courses by term, click the <strong>Terms</strong> drop-down menu [1]. To filter courses by subaccount, click the <strong>Subaccount</strong> drop-down menu [2]. </p>
+<p>You can also locate a specific course in the search field [3]. Enter the title, short name (course code), or SIS ID for a course. Course nicknames are not supported in the search field. Deleted courses do not display in search results.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_search_results" data-step-uuid="a5fd609a-74ce-4714-8bba-066441a458ac">
+    <h3 id="view_search_results" class="step-title screensteps-heading">View Search Results</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/318/714/original/b4999696-d658-4590-bfac-a0ce85be5d49.png" srcset="" alt="View Search Results" height="354" width="795">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5d685f3e-9f4a-42bd-8e8f-ed05324cd34c" class="text-block-content">
+    <p>Once a term or subaccount is selected, the Courses list will expand and display all results in the selected term or subaccount. If an entry is added to the search field, the list will update with any relevant search results.</p>
+<p>Search results display the course title [1], short name (course code) [2], term [3], SIS ID [4], and any teacher (instructor) enrollments [5].</p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Search results will display up to 100 courses. If you wish to associate more than 100 courses at a time, consider creating a <a href="/t5/Admin-Guide/How-do-I-format-CSV-text-files-for-uploading-SIS-data-into-a/ta-p/216" target="_blank">CSV file</a> to upload using the <a href="/t5/Admin-Guide/How-do-I-import-SIS-data-to-a-Canvas-account/ta-p/98" target="_blank">SIS import tool</a>. </li>
+<li>If six or more teachers are associated to a course, the Teacher(s) column displays the number of teachers [6].</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_courses" data-step-uuid="594ba9dd-8944-4d0e-8e5e-84ae8b5c5aea">
+    <h2 id="add_courses" class="step-title screensteps-heading">Add Courses</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/341/347/original/f900b58a-8437-477e-85e5-9ac67b565634.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/341/347/medium/f900b58a-8437-477e-85e5-9ac67b565634.png" srcset="" alt="Add Courses" height="651" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_81e92687-8a6b-4688-a894-ab7cf285de6e" class="text-block-content">
+    <p>To associate a course with the blueprint course, click the checkbox next to the course title [1]. You can select multiple courses at one time, or you can select all courses by clicking the <strong>Select All Courses</strong> checkbox [2]. </p>
+<p>Current associated courses and courses to be added display in the <strong>Associated Courses</strong> section [3]. To remove a course as an association, click the <strong>Remove</strong> icon [4].</p>
+<p>To publish courses selected for association, click the <strong>Publish upon association</strong> checkbox [5].</p>
+<p><strong>Note:</strong> The Publish upon association checkbox will only publish courses in the To be Added list and will not publish courses that were already associated.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_unsynced_warning" data-step-uuid="d3e9fc10-4ca8-4e62-8a06-befd19ceec27">
+    <h3 id="view_unsynced_warning" class="step-title screensteps-heading">View Unsynced Warning</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/259/303/original/e9ef51dd-251a-4b08-8062-497cb736592b.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/259/303/medium/e9ef51dd-251a-4b08-8062-497cb736592b.png" srcset="" alt="View Unsynced Warning" height="100" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8ab925ed-2665-4f87-a260-e603744f28b8" class="text-block-content">
+    <p>If you have unsynced changes in your blueprint course when you are associating a course, Canvas generates a warning to let you know the the unsynced changes will be synced to all associated courses.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_courses" data-step-uuid="90cf1c80-6b71-495f-a5c7-b0be6eb2944a">
+    <h2 id="save_courses" class="step-title screensteps-heading">Save Courses</h2>
+  </div>
+
+      <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/341/351/original/83499255-1a33-41e2-a0aa-96395e5d14d3.png" srcset="" alt="Save Courses" height="66" width="377">
+  </div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_a01323e9-38e1-4dd1-bc47-f14ea9298cf5" class="text-block-content">
+    <p>Click the <strong>Save</strong> button.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="confirm_courses" data-step-uuid="8d88e7e7-864d-43e4-ab3e-8acab4b80527">
+    <h2 id="confirm_courses" class="step-title screensteps-heading">Confirm Courses</h2>
+  </div>
+
+      <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/309/original/4536c61c-138e-492e-bb5f-a58555a8f6f0.png" srcset="" alt="View Confirmation Message" height="77" width="827">
+  </div>
+
+    <div class="step-instructions screensteps-textblock">
+  <div id="text-content_f542dff5-1d56-486a-b90d-66a272200333" class="text-block-content">
+    <p>View your associated changes were saved.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="modify_associations" data-step-uuid="76db49c1-4483-4a64-b002-d92cf2021a8d">
+    <h2 id="modify_associations" class="step-title screensteps-heading">Modify Associations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/316/672/original/617559fe-f7cb-4bcd-bc7b-418b2bc35848.png" srcset="" alt="Remove Courses" height="299" width="795">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2192dfa3-bf3c-46c2-b998-1f6a3b49686b" class="text-block-content">
+    <p>You can add and save additional associated courses, if necessary. </p>
+<p>To remove a course, click the <strong>Remove</strong> icon.</p>
+  </div>
+</div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/307/original/446dde9d-85fd-4841-80ca-1f98dd2824d1.png" srcset="" alt="Close Associations" height="65" width="87">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_86f775ae-cbef-4eb8-9c03-746f554a98ca" class="text-block-content">
+    <p>When you are finished with course associations, click the <strong>Done</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sync" data-step-uuid="c70b311b-0fd5-4497-ac64-e153b8d9f997">
+    <h2 id="view_sync" class="step-title screensteps-heading">View Sync</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/259/305/original/95057b9b-d98d-45f4-854a-dc16d2f7054b.png" srcset="" alt="View Associations Sync" height="359" width="319">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_dccf8d26-bd16-4e53-a74e-cb20d6f58513" class="text-block-content">
+    <p>After a course is associated with a blueprint course, the blueprint course will create an initial sync that includes all course content and course setting.</p>
+<p>Once a sync has started, the sidebar shows the sync status as long as you are viewing the page. You can leave the page, but know that the the sync may take a while to process. </p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>If you immediately view an associated course and don’t see any updates, the sync may still be in process. To confirm sync completion, enable the Blueprint sync notification in User Settings.</li>
+<li>Sync history will show the date and time the sync was made but no details will be included related to the sync.</li>
+<li>Only BluePrint master course content will sync with associated courses. Content that was manually added or copied using a different format will not sync.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

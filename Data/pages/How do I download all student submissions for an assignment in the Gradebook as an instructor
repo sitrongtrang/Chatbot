@@ -1,0 +1,126 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0DBEB200-AAE2-0135-15F5-06467EE270FA" class="text-block-content">
+    <p>If you want to download all student submissions for an assignment, you can download them from the Gradebook in a bulk download. All submissions are downloaded as a single ZIP file that you can use to grade submissions on your computer offline. If a student has resubmitted an assignment, only the most recent submission will be included in the ZIP file. You can also download assignments from the assignment page.</p>
+<p>Bulk downloads can be used for the following submission types: file uploads, text entries (displayed as HTML files), website URLs (displayed as HTML files), and Google Docs submissions.</p>
+<p>In bulk downloads, Canvas automatically amends the file name for each submission type:</p>
+<ul>
+<li>For group assignments, the file name will include the name of the assigned group.</li>
+<li>For individual student assignments, the file name will include the name of the student (last name first). </li>
+<li>When anonymous grading is enabled, student names are not included in the names of downloaded files.</li>
+</ul>
+<p> </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>After downloading student files, you can <a href="/t5/Instructor-Guide/How-do-I-upload-all-student-submissions-for-an-assignment-in-the/ta-p/798" target="_blank">re-upload all student submissions</a> in the Gradebook. However, you cannot change the names of the submission files. Otherwise Canvas will not be able to recognize the files that should be replaced.</li>
+<li>Students with concluded enrollments are not included in the submissions download.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="0DBEC7B0-AAE2-0135-15F6-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/034/original/c9670cf3-ad3a-49a5-80cf-af86aeca600a.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0DBEEC10-AAE2-0135-15F8-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment" data-step-uuid="0DBF02F0-AAE2-0135-15F9-06467EE270FA">
+    <h2 id="open_assignment" class="step-title screensteps-heading">Open Assignment Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/615/393/original/2f1526ab-2ba7-4140-989f-c71b44af11ad.png" srcset="" alt="Open Assignment" height="275" width="303">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0DBF2C70-AAE2-0135-15FB-06467EE270FA" class="text-block-content">
+    <p>Hover over the assignment column header and click the <strong>Options</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_submissions" data-step-uuid="0DBF4170-AAE2-0135-15FC-06467EE270FA">
+    <h2 id="download_submissions" class="step-title screensteps-heading">Download Submissions</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/305/646/original/2396e263-7b95-4094-9b58-c60d57aea998.png" srcset="" alt="Download Submissions" height="434" width="381">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0DBF6DB0-AAE2-0135-15FE-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Download Submissions</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_progress" data-step-uuid="0DBF8110-AAE2-0135-15FF-06467EE270FA">
+    <h2 id="view_progress" class="step-title screensteps-heading">View Progress</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/769/793/original/11ea072c-0e08-43c0-8eb7-3c71ce29cd3e.png" srcset="" alt="View Progress" height="257" width="308">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0DBFA740-AAE2-0135-1601-06467EE270FA" class="text-block-content">
+    <p>View the progress of the file compression by tracking the progress bar.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_file" data-step-uuid="0DBFBC70-AAE2-0135-1602-06467EE270FA">
+    <h2 id="download_file" class="step-title screensteps-heading">Download File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/769/791/original/74daeab7-5e6c-42ca-a946-6b0efd071fae.png" srcset="" alt="Download File" height="278" width="309">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0DBFE530-AAE2-0135-1604-06467EE270FA" class="text-block-content">
+    <p>When the file is finished processing, download the file by clicking the <strong>Click here to download</strong> link [1]. Canvas will also include the size of the download file as part of the link for your reference.</p>
+<p>To close the download window, click the <strong>Close</strong> icon [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-zip-file" data-step-uuid="8bf870c2-6da6-431b-b988-919d4042b576">
+    <h2 id="open-zip-file" class="step-title screensteps-heading">Open ZIP File</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/627/269/original/bd0d6944-daad-46b7-b952-4b02d03f85d0.png" srcset="" alt="Open ZIP File" height="345" width="628">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4d0b83e3-74e9-4301-9976-eecedfd8df67" class="text-block-content">
+    <p>Once the file has been downloaded, locate the ZIP file on your computer [1]. To open the file, either double click to open it (Mac users) or right-click the file and select Extract All (PC users).</p>
+<p>When the file expands, click the submissions folder [2] to view the assignment submissions [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

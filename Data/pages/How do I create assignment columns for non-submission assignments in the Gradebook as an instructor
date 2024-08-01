@@ -1,0 +1,126 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1B0642E0-AAE2-0135-175E-06467EE270FA" class="text-block-content">
+    <p>Columns in the <a href="/t5/Instructor-Guide/How-do-I-use-the-Gradebook/ta-p/701" target="_blank">Gradebook</a><a href="/t5/Canvas-Basics-Guide/What-are-Grades-and-the-Gradebook/ta-p/49" target="_blank"> </a>are only created by adding an assignment in Canvas. If you need to create a column in the Gradebook to use for manual grading, you can create a No Submission or On Paper assignment submission type. </p>
+<ul>
+<li>
+<em>No Submission</em> assignments are when you do not want students to submit an assignment in Canvas. This assignment type can be used to create extra columns in the Gradebook, create an assignment that involves multiple scores, or give extra credit.</li>
+<li>
+<em>On Paper</em> assignments are when you want students to submit an assignment to you but not through Canvas. This assignment type applies to traditional face-to-face courses or hybrid courses when you want the assignment turned in during class, but you still want to create a column in the Canvas Gradebook for grading purposes. When students view the assignment, they see that the assignment will be submitted on paper.</li>
+</ul>
+<p>To create multiple columns at once, you can <a href="/t5/Instructor-Guide/How-do-I-import-grades-in-the-Gradebook/ta-p/807" target="_blank">upload changes to the Gradebook.</a></p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>The Gradebook will display unpublished assignments, but you cannot enter grades for unpublished assignments. </li>
+<li>Not Graded assignment types will not appear in the Gradebook.</li>
+<li>For a zero point assignment to factor into a student's grade, you must add at least one additional graded assignment with a positive point value. This additional assignment can be in any assignment group.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="1B0657D0-AAE2-0135-175F-06467EE270FA">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/012/original/fc2de0ea-8bbe-4053-b309-c41c056ced3c.png" srcset="" alt="Open Assignments" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1B068310-AAE2-0135-1761-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_assignment" data-step-uuid="1B069970-AAE2-0135-1762-06467EE270FA">
+    <h2 id="add_assignment" class="step-title screensteps-heading">Add Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/767/852/original/34ab03af-fb8b-40bd-af4b-757497d8cbe9.png" srcset="" alt="Add Assignment" height="71" width="852">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1B06BF20-AAE2-0135-1764-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Add Assignment </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_assignment_details" data-step-uuid="1B06D1A0-AAE2-0135-1765-06467EE270FA">
+    <h2 id="enter_assignment_details" class="step-title screensteps-heading">Enter Assignment Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/240/606/original/0ed1aede-43cc-4ed7-b327-f2ec7cf04cb2.png" srcset="" alt="Enter Assignment Details" height="645" width="851">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1B06F600-AAE2-0135-1767-06467EE270FA" class="text-block-content">
+    <p>Enter a name [1] and description [2] for your assignment, as well as any other assignment details [3].</p>
+<p><strong>Note</strong>: No Submission and On Paper assignments still appear to students on their Assignments page. To avoid confusion, it is best to make a note in the description about the assignment so students will know whether or not a submission is required and if so, how they are supposed to submit it.  </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_submission_type" data-step-uuid="1B070C10-AAE2-0135-1768-06467EE270FA">
+    <h2 id="set_submission_type" class="step-title screensteps-heading">Set Submission Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/394/228/original/b047c44a-4170-4693-8d3c-5325cd8bdec2.png" srcset="" alt="Set Submission Type" height="151" width="523">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1B0735D0-AAE2-0135-176A-06467EE270FA" class="text-block-content">
+    <p>In the Submission Type drop-down menu, select the <strong>No Submission </strong>option [1] or <strong>On Paper </strong>option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_and_publish" data-step-uuid="1B074930-AAE2-0135-176B-06467EE270FA">
+    <h2 id="save_and_publish" class="step-title screensteps-heading">Save and Publish</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/767/854/original/c4480abf-8dda-4712-9ab6-a8833e50a747.png" srcset="" alt="Save and Publish" height="83" width="310">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1B076E50-AAE2-0135-176D-06467EE270FA" class="text-block-content">
+    <p>If you are ready to publish your assignment, click the <strong>Save &amp; Publish</strong> button [1]. If you want to create a draft of your assignment and publish it later, click the <strong>Save</strong> button [2].</p>
+<p><strong>Note:</strong> Along with published assignments, the Gradebook will display unpublished assignments by default, but you can not enter grades for unpublished assignments.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="student_view" data-step-uuid="1B07FB80-AAE2-0135-1774-06467EE270FA">
+    <h2 id="student_view" class="step-title screensteps-heading">Student View</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/138/175/original/7a430d9a-fb3b-4d9e-afa2-5c6020410e83.png" srcset="" alt="Student View" height="178" width="706">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1B0822A0-AAE2-0135-1776-06467EE270FA" class="text-block-content">
+    <p>When students view a no submission or on-paper assignment, they will not see the <strong>Submit Assignment</strong> button. They can view the details and point value for the assignment. The Submitting section will indicate whether the submission is on-paper or if no submission is required.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

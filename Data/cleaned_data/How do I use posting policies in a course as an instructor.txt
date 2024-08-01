@@ -1,0 +1,30 @@
+How do I use posting policies in a course as an instructor
+View Posting Policies Flowchart
+This flowchart outlines how posting policies work for instructors in their courses. You should select a course posting policy based on your general grade posting preference. You can then set posting policies for individual assignments as needed.
+You can also hide previously posted grades, especially if you need to fix errors or if grades were posted erroneously. 
+When students have set grade notification settings, they will receive notifications when grades are posted, as indicated in the flowchart. 
+You can also view this flowchart as an interactive PDF.
+Set a Course Posting Policy
+By default, Canvas courses have an Automatic posting policy. Assignment grades, grading comments and submission annotations are visible to students as soon as grades are entered in the Gradebook or submitted in SpeedGrader.
+Alternatively, you can select a Manual posting policy for your course. Assignment grades, grading comments and submission annotations are hidden from students until manually posted. Submission Annotations alone will not trigger the option to post grades; a grade or grading comment would need to be entered. Students can see peer review comments when assignment grades are hidden. However, students can only see instructor comments if the instructor posts grades or submission comments.
+Learn how to select a course posting policy. 
+Set an Assignment Posting Policy
+You can also select grade posting policies for individual assignments. When you set an individual assignment posting policy, the course posting policy is overridden for that assignment. 
+For example, if you use an Automatic course posting policy, you may wish to hide assignment grades for a specific assignment until all submissions are graded. You can set a Manual posting policy for the assignment, and grades will remain hidden from student view until you manually post them in your course.
+Learn how to select an assignment posting policy.
+Post Hidden Grades
+When you are ready to make grades visible to students, you can post grades and/or submission comments for a specific assignment. You can post grades for everyone in the course, or you can post only grades for graded submissions.
+When you post grades for everyone, ungraded submissions display no grade. 
+When you post grades for graded submissions and/or submission comments, any ungraded assignment grades that are updated later will remain hidden until manually posted. 
+If you make updates to posted grades, students can view these updates and, depending on their notification settings, may receive a grade-change notification. 
+Learn about posting grades for an assignment. Learn about posting grades for an assignment from SpeedGrader.
+Hide Posted Grades
+If you need to hide grades that have already posted for students to view, you can Hide Grades in the gradebook. Hiding grades only affects grades that were previously entered. 
+Learn about hiding assignment grades. Learn about hiding grades for an assignment from SpeedGrader.
+Notes: 
+When you hide grades, the assignment retains its posting policy. If you add assignment grades for additional students to an assignment with an automatic posting policy, those grades display for students.
+After hiding grades, if you want to hide additional student grades for the assignment, set the assignment posting policy to Manual. 
+View Gradebook Posting Policy Icons
+Assignments with a manual posting policy display a Manual label. When you enter grades for manual posting policy assignments, the gradebook displays a Visibility icon. Students cannot see their assignment grade until you post them. Additionally, when an assignment grade is hidden for a student, the Total column displays a Visibility icon.
+Student View
+When assignment grades are hidden, the student grades page displays a Visibility icon. Posted grades display in place of the icon.

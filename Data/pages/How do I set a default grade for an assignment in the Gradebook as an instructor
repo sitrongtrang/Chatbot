@@ -1,0 +1,124 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_09F1EB40-AAE2-0135-1590-06467EE270FA" class="text-block-content">
+    <p>If you want to set a default grade for a certain assignment, use the assignment drop-down menu. Default grades can either be applied to all students or only students who have not yet received a grade. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>When Multiple Grading Periods are enabled in a course, you cannot set a default grade for any assignment that has at least one student in a closed grading period.</li>
+<li>When Moderated Grading is enabled for an assignment, the Set Default Grade option is not available before grades are released.</li>
+<li>Submission status is not factored into default grade application.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_grades" data-step-uuid="09F201E0-AAE2-0135-1591-06467EE270FA">
+    <h2 id="open_grades" class="step-title screensteps-heading">Open Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/767/050/original/8f5b7b39-c250-49bb-9738-44a47d3769ef.png" srcset="" alt="Open Grades" height="230" width="181">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09F22A80-AAE2-0135-1593-06467EE270FA" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Grades</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment_drop_down_menu" data-step-uuid="09F23EC0-AAE2-0135-1594-06467EE270FA">
+    <h2 id="open_assignment_drop_down_menu" class="step-title screensteps-heading">Open Assignment Menu</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/615/611/original/ae2ee01f-35f7-4540-8d5a-0b675b3f2f51.png" srcset="" alt="Open Assignment Drop-down Menu" height="271" width="373">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09F26B10-AAE2-0135-1596-06467EE270FA" class="text-block-content">
+    <p>Hover over the assignment column header and click the<strong> Options</strong> icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="set_default_grade" data-step-uuid="09F27ED0-AAE2-0135-1597-06467EE270FA">
+    <h2 id="set_default_grade" class="step-title screensteps-heading">Set Default Grade</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/305/710/original/ad1ccc62-a8e3-4f64-9229-ff8bdde89de9.png" srcset="" alt="Set Default Grade" height="405" width="448">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09F2A6D0-AAE2-0135-1599-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>Set Default Grade</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create_default_grades" data-step-uuid="09F2B950-AAE2-0135-159A-06467EE270FA">
+    <h2 id="create_default_grades" class="step-title screensteps-heading">Create Default Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/615/609/original/42225968-4924-4ea1-a0fb-42cf1ce3f2cc.png" srcset="" alt="Create Default Grades" height="379" width="356">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09F2E380-AAE2-0135-159C-06467EE270FA" class="text-block-content">
+    <p>Type the default grade value in the <strong>Grade Value</strong> field  [1]. If you would like to overwrite existing grades for the assignment, select the <strong>Overwrite already-entered grades</strong> checkbox [2].</p>
+<p>Click the <strong>Set Default Grade</strong> button [3]. </p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>If the Grade Value field is left empty and the Overwrite already-entered grades checkbox is checked, all assignment grades will be removed.</li>
+<li>A default grade will be assigned to students regardless of submission status.</li>
+<li>To have all assignments default grade set as missing type mi into the grade value field.</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="verify_default_grades" data-step-uuid="09F2F680-AAE2-0135-159D-06467EE270FA">
+    <h2 id="verify_default_grades" class="step-title screensteps-heading">Verify Default Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/767/968/original/aa1a607a-d1cd-48f4-a8b7-e95d5441234d.png" srcset="" alt="Verify Default Grades" height="100" width="493">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09F31D90-AAE2-0135-159F-06467EE270FA" class="text-block-content">
+    <p>Click the <strong>OK</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_new_grades" data-step-uuid="09F33300-AAE2-0135-15A0-06467EE270FA">
+    <h2 id="view_new_grades" class="step-title screensteps-heading">View New Grades</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/615/607/original/7095b6ce-0488-416d-a293-7c057ca5be1b.png" srcset="" alt="View New Grades" height="273" width="373">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_09F35BB0-AAE2-0135-15A2-06467EE270FA" class="text-block-content">
+    <p>Default grades are automatically entered for all students who do not have a grade. Grades can be changed by clicking the default grade and typing in an updated score.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

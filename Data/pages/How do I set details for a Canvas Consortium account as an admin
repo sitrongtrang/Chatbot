@@ -1,0 +1,357 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7DFEF56B-987C-4B51-AAEE-6256D2F1098A" class="text-block-content">
+    <p><em><strong>This lesson applies to institutions involved in a Canvas Consortium.</strong></em></p>
+<p>As an admin, the Account Settings tab contains multiple settings you can manage in your Canvas Consortium account.</p>
+<p>In a Canvas Consortium account, the Account Settings Inheritance policy allows parent account admins to configure account settings in the parent account which are inherited in child accounts.</p>
+<p>Not all settings and options are available to child account admins. The following restrictions apply to child account admins:</p>
+<ul>
+<li>Child account admins cannot manage the following account options and restriction settings: Default Time Zone, Allow Self-Enrollment, Login Label, Trusted HTTP referrers,  Students can opt-in to receiving scores in email notifications, and Restrict students from viewing quiz questions after course end date.</li>
+<li>Child account admins can only enable Equella, Turnitin, Analytics, and User Avatars.</li>
+<li>Child account admins cannot customize links for the help dialog box by default.</li>
+<li>Child account admins cannot enable web services by default.</li>
+<li>Child account admins cannot choose who can create new courses by default.</li>
+<li>Child account admins cannot enable personal pronouns within a child account.</li>
+</ul>
+<p><strong>Note: </strong>This lesson indicates the settings that you can manage for your entire consortium. Additional integrations may be available with the assistance of your Customer Success Manager.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="F03F0F6C-8AA5-46C9-81B2-0E2148750A55">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/950/191/original/e37d262f-b528-4f4b-9236-9acfb6493ea8.png" srcset="" alt="Open Account" height="675" width="462">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_B87838B9-6AD3-4673-810C-A08EC52532F8" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="705E7E9D-409A-4538-8B72-DEB6C84379CB">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/281/892/original/e6dca6b8-dc37-477b-89e9-b3df6270f054.png" srcset="" alt="Open Settings" height="282" width="182">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AC2E6DC3-5D0C-4E83-9BA4-2369B73A1080" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_settings" data-step-uuid="8217CEBC-ECEF-4FAA-95E7-730A5B828A9C">
+    <h2 id="view_settings" class="step-title screensteps-heading">View Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/577/055/original/9e0b9ed2-c1cb-40ac-962a-9ab63ffa01d3.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/577/055/medium/9e0b9ed2-c1cb-40ac-962a-9ab63ffa01d3.png" srcset="" alt="View Settings" height="70" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_EF88B77A-1C5D-4438-8A6B-E81ECEBE197C" class="text-block-content">
+    <p>Account Settings defaults to the Settings tab. Here you can view all the details available to you in your account.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_account_settings" data-step-uuid="0C92B090-11E3-4F96-B4C3-54BD6D0CEEEF">
+    <h2 id="view_account_settings" class="step-title screensteps-heading">View Account Settings</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/281/894/original/7e29341e-faf2-450f-8ef9-3db366d90912.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/281/894/medium/7e29341e-faf2-450f-8ef9-3db366d90912.png" srcset="" alt="View Account Settings" height="576" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6C9B0941-74FB-4AD1-95FC-183D9F151C02" class="text-block-content">
+    <p>The Account Settings section allows you to specify settings for the entire consortium account, including account name [1], default language [2], default time zone [3], Multi-Factor Authentication [4] and <a href="/t5/Admin-Guide/What-user-enrollment-and-registration-options-are-available-in/ta-p/256" target="_blank">self-enrollment</a> [5]. </p>
+<p>You can also specify trusted URLs at the parent account [6]. This option allows accounts to have custom login pages hosted on different domains but still keep the authenticity token.</p>
+<p>You can set a default view for the Dashboard using the <strong>Default View for Dashboard</strong> drop-down menu [7]. Default options include Recent Activity, List View, and Card View. The setting defaults to the Card View. Specifying a default view applies to all new account users. Once a user has selected a different view, the default no longer applies. If you want to apply the selected default view to all users in the account, click the <strong>Overwrite all users’ existing default dashboard preferences</strong> checkbox [8]. However, users can change their dashboard view at any time in the dashboard options menu.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-maintenance-window" data-step-uuid="801F731C-DE43-4F28-918D-8AB7B014CAF8">
+    <h3 id="view-maintenance-window" class="step-title screensteps-heading">View Maintenance Window</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/281/897/original/e661dca2-1e3f-4b94-849b-97926c06d528.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/281/897/medium/e661dca2-1e3f-4b94-849b-97926c06d528.png" srcset="" alt="View Maintenance Window" height="117" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ADAF3B94-CF58-42F1-B6CF-E6833B5D465E" class="text-block-content">
+    <p>The Default Time Zone settings also display the maintenance windows for your account. You can expect that all maintenance for your account will occur during your maintenance window, unless emergency maintenance is required. Even though the windows are two hours each, your expected downtime shouldn't last for more than a few minutes. It is also possible that maintenance will not be necessary during your scheduled maintenance windows.</p>
+<p>You can view the regular cadence when your maintenance windows take place [1] as well as the specific date and time of your next maintenance window [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_restriction_settings" data-step-uuid="854FBD56-2FC0-432A-A64D-2ABF1744F9E2">
+    <h3 id="view_restriction_settings" class="step-title screensteps-heading">View Restriction Settings</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/281/899/original/fe2e9555-5b40-4253-827c-61f472fbe130.png" srcset="" alt="View Restriction Settings" height="730" width="666">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_2FA6E504-8E9A-4A8D-BEF3-D97BCF5C68FD" class="text-block-content">
+    <p>You can also manage restriction settings for the entire consortium account. </p>
+<p>If you do not want instructors to be able to rename their courses, click the <strong>Don't let teachers rename their courses</strong> checkbox [1]. </p>
+<p>If you do not  want instructors to <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-change-the-start-and-end-dates-for-a-course/ta-p/452354" target="_blank">modify course availability dates</a>, click the <strong>Don't let teachers modify course availability dates</strong> checkbox [2]. This checkbox does not display in the Account Setting page for child accounts.</p>
+<p>To allow students to opt-in to receive scores as part of grading notifications, click the <strong>Students can opt-in to receiving scores in email notifications</strong> checkbox [3]. When this option is enabled, the user's Notification Settings page displays an opt-in checkbox in the Course Activities Grading section. If you enable this option but disable it at a later time, the checkbox will be removed from the notifications page, and anyone who has opted in will no longer receive scores in grading notifications.</p>
+<p>To allow students to be included in global surveys, click the <strong>Include students in global surveys</strong> checkbox [4].</p>
+<p>If you do not want students to be able to view quiz questions after their course has concluded, click the <strong>Restrict students from viewing quiz questions after course end date </strong>checkbox [5]. </p>
+<p>You can choose to <a href="/t5/Admin-Guide/How-do-I-restrict-student-access-before-or-after-a-course-date/ta-p/169" target="_blank">restrict student access</a> to view courses before the course start date [6].</p>
+<p>If you choose to restrict students from accessing courses before the start date, you can also restrict students from viewing future courses in their enrollments list [7].</p>
+<p>You can also choose to <a href="/t5/Admin-Guide/How-do-I-restrict-student-access-before-or-after-a-course-date/ta-p/169" target="_blank">restrict student access</a> to view courses after the course end date [8].</p>
+<p>You can also <a href="/t5/Admin-Guide/How-do-I-disable-announcement-replies-for-all-courses-in-an/ta-p/264" target="_blank">disable comments on announcements</a> in all courses [9]. </p>
+<p>To allow students to download course content and view content offline for all courses, select the <strong>Allow students to download course content and view offline</strong> checkbox [10]. Alternatively, if you'd prefer to allow students to download course content and view content offline for specific courses, you can <a href="/t5/Colder-Storage/What-feature-options-are-currently-available-for-an-entire/td-p/260084" target="_blank">enable the ePub Exporting feature option</a> for the course. </p>
+<p>You can require that <a href="/t5/Admin-Guide/How-do-I-manage-file-copyright-settings-for-an-account/ta-p/187" target="_blank">copyright and license information be provided for files</a> before they are published [11].</p>
+<p>You can also <a href="/t5/Admin-Guide/How-do-I-disable-Canvas-media-uploads-in-the-Rich-Content-Editor/ta-p/398261" target="_blank">disable Canvas media uploads</a> in the Rich Content Editor [12].</p>
+<p>You can allow the option to split student names into two separate columns and show first and last names separately in the Gradebook [13].</p>
+<p>Institutions can increase the list of displayed calendars from 10 to 15. This checkbox applies to all users in the account [14].</p>
+<p><strong>Note: </strong>Settings managed in the parent account are inherited and locked at the child account.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-slack-api-key" data-step-uuid="44DDA1C7-02DF-4701-9644-3732D8973DE2">
+    <h2 id="view-slack-api-key" class="step-title screensteps-heading">View Slack API Key</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/300/570/original/25896dcb-90bb-4d62-84e4-ebe09fc70265.png" srcset="" alt="View Slack API Key" height="145" width="379">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3F86F5FB-6CB3-42EB-B63B-BBD55E8B748F" class="text-block-content">
+    <p>You can add a Slack API key in Account Settings to allow users to receive notifications in Slack. The Slack API Key is generated from an app created using the Slack API. To add a new Slack API key, type the Bot User OAuth Access Token copied from Slack in the <strong>New Slack Api Key</strong> field.</p>
+<p>Learn more about <a href="/t5/Admin-Guide/How-do-I-enable-Slack-for-an-account/ta-p/224" target="_blank">creating a Slack App for your institution</a>.</p>
+<p><strong>Note: </strong>Creating a Slack App and generating an Access Token requires that you are also an admin user in Slack.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-personal-pronouns" data-step-uuid="A008910B-063D-4C67-9C5A-ECF67F7C05E6">
+    <h2 id="view-personal-pronouns" class="step-title screensteps-heading">View Personal Pronouns</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/655/415/original/4436ee75-3ee8-42d1-aaf5-deb0ef20b805.png" srcset="" alt="View Personal Pronouns" height="180" width="560">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C38E7E24-793F-4FAB-A5A8-004486F24BDE" class="text-block-content">
+    <p>The Personal Pronouns section allows you to <a href="/t5/Admin-Guide/How-do-I-enable-personal-pronouns-in-an-account/ta-p/185" target="_blank">enable and customize personal pronoun options in your account</a>. When enabled, users can select a pronoun to display after their username in several areas in Canvas.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_quiz_ip_address_filters" data-step-uuid="5B076E2D-D900-4068-8663-2BE63FA816DD">
+    <h2 id="view_quiz_ip_address_filters" class="step-title screensteps-heading">View Quiz IP Address Filters</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/262/original/48eb919a-bd7f-4d58-9f8b-cacbc893997a.png" srcset="" alt="View Quiz IP Address Filters" height="167" width="621">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_FB3FA19F-D763-4E56-86D8-5B870262DD65" class="text-block-content">
+    <p>The Quiz IP Address filter allows an admin to create a predefined list of IP addresses or address ranges, making it easier for instructors to select a valid setting when creating a quiz. Since this is often used by an organization to limit tests to an on-campus testing center, it is recommended that you use a descriptive name that associates your filter with that location.</p>
+<p>Filters can be a comma-separated list of addresses, or an address followed by a mask (i.e., 192.168.217.1/24 or 192.168.217.1/255.255.255.0). For more information on these masks, view the <a href="http://bit.ly/cnvs-ip-filter" target="_blank" rel="nofollow noopener noreferrer">IP Filtering in Canvas PDF</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_features" data-step-uuid="716EA3D9-0D2B-4C0C-B786-726AECFB1203">
+    <h2 id="view_features" class="step-title screensteps-heading">View Features</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/281/901/original/9b8510d2-21ed-4530-b00a-800648a409f9.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/281/901/medium/9b8510d2-21ed-4530-b00a-800648a409f9.png" srcset="" alt="View Features" height="343" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_32B1A90F-06D8-4B49-85EC-28E2177C51DD" class="text-block-content">
+    <p>The Features section lets you enable or disable specific built-in Canvas functionality.</p>
+<p>To allow child accounts to use the Canvas for Elementary interface, click the <strong>Canvas for Elementary</strong> checkbox [1]</p>
+<p>To allow admins to manage user login information and change a user's password, click the <strong>Password setting by admins</strong> checkbox [2]. This option is best for institutions that do not use a student information system to manage student data. </p>
+<p>To allow parent account admins to view notifications that have been sent to a specific user, click the <strong>Admins can view notifications</strong> checkbox [3].</p>
+<p>The Faculty Journal allows teachers to make private notes about student progress that are available beyond a single course. To manage the Faculty Journal for the account, click the <strong>Faculty Journal</strong> checkbox [4]. </p>
+<p>To allow ePortfolios, click the <strong>ePortfolios</strong> checkbox [5].</p>
+<p>To allow SIS imports, click the <strong>SIS imports</strong> checkbox [6]. </p>
+<p>To include integration IDs in Gradebook exports, click the<strong> Include integration IDs in the gradebook exports </strong>checkbox [7]. </p>
+<p>To allow invitation previews, click the<strong> Invitation Previews</strong> checkbox [8].</p>
+<p>To allow alerts, click the <strong>Alerts</strong> checkbox [9]. </p>
+<p>To allow custom CSS or JavaScript to override default Canvas interface settings, click the <strong>Custom CSS/JavaScript overrides</strong> checkbox [10].  </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view-other-account-features" data-step-uuid="c81ff750-6576-43dc-b299-f04085ee2f8a">
+    <h3 id="view-other-account-features" class="step-title screensteps-heading">View Additional Features</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/281/903/original/6d9cf0af-8abd-4360-be78-54e7176209f6.png" srcset="" alt="View Additional Features" height="528" width="838">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e0919388-37e3-475f-ac7d-3ea6dfbbd637" class="text-block-content">
+    <p>To enable the <a href="/t5/Canvas-Basics-Guide/What-is-the-Scheduler/ta-p/11" target="_blank">scheduler</a>, click the <strong>Enable Schedule</strong>r checkbox [1].</p>
+<p>To enable user profiles which takes the place of the User Details page, click the <strong>Enable Profiles </strong>checkbox [2].</p>
+<p>To prevent users from navigating to Canvas in a web browser within the Canvas Parent app, click the <strong>Limit access to Canvas web from the Canvas Parent app</strong> checkbox [3]. </p>
+<p>To let child accounts use the <a href="https://canvas.screenstepslive.com/admin/v2/internal_links/418311?type=article&amp;site_id=10425" target="_blank" rel="nofollow noopener noreferrer">Theme Editor</a>, click the <strong>Let sub-accounts use the Theme Editor to customize their own branding </strong>checkbox [4].</p>
+<p>To allow users to be added to a course via email address without already having a Canvas user account, click the <a href="https://canvas.screenstepslive.com/admin/v2/internal_links/724372?type=article&amp;site_id=10425" target="_blank" rel="nofollow noopener noreferrer">Open Registration</a> checkbox [5].</p>
+<p>To allow users to <a href="https://community.canvaslms.com/t5/Student-Guide/How-do-I-change-the-settings-in-my-user-account-as-a-student/ta-p/423" target="_blank">edit their name as part of their user account settings</a>, click the <strong>Users can edit their name </strong>checkbox [6].</p>
+<p>To allow users to delete the institution-added email address in their user accounts and use a personal email address<strong>, </strong>click the <strong>Users can delete their institution-assigned email address </strong>checkbox [7]. If this feature is selected, also consider enabling the <a href="https://canvas.screenstepslive.com/admin/v2/internal_links/93420?type=article&amp;site_id=10425" target="_blank" rel="nofollow noopener noreferrer">non-institutional email notification</a>.</p>
+<p>To display the sender email address for user interaction notifications, click the <strong>Show the email address of sender for user interaction Notifications </strong>checkbox [8].</p>
+<p>To <a href="https://canvas.screenstepslive.com/admin/v2/internal_links/718932?type=article&amp;site_id=10425" target="_blank" rel="nofollow noopener noreferrer">show a searchable list of courses in the root account</a> when the public course index setting is enabled, click the <strong>Show a searchable list of courses in this root account with the "Include this course in the public course index" flag enabled </strong>checkbox [9].</p>
+<p>To allow push notifications for mobile device users, click the <strong>Enable push notifications to mobile devices</strong> checkbox[10].</p>
+<p>To allow users to integrate course content using <a href="https://canvas.screenstepslive.com/admin/v2/internal_links/41898?type=article&amp;site_id=10425" target="_blank" rel="nofollow noopener noreferrer">Equella</a>, click the <strong>Equella </strong>checkbox [11].</p>
+<p>To enable the Turnitin API, click the <strong>Turnitin</strong> checkbox [12]. </p>
+<p>To allow users in your account to receive surveys about Canvas, click the <strong>Account Surveys</strong> checkbox [13]. </p>
+<p>To enable analytics for the account, click the <strong>Analytics </strong>checkbox [14].</p>
+<p>To allow students to access beta and test instances, click the <strong>Beta and Test Access for Students</strong> checkbox [15]</p>
+<p>To allow users to upload a profile picture in their user accounts, click the <strong>User Avatars </strong>checkbox [16]. When this feature is enabled, you can <a href="https://canvas.screenstepslive.com/admin/v2/internal_links/73703?type=article&amp;site_id=10425" target="_blank" rel="nofollow noopener noreferrer">manage profile pictures</a> for all users. </p>
+<p>When the User Avatars checkbox is selected, the <strong>Enable Gravatar </strong>checkbox is also selected by default [17]. A Gravatar is a globally recognized avatar associated for a user in any website that supports Gravatars. When Gravatars are enabled in an account, users can import their Gravatar when selecting a profile picture in their user settings page. Gravatars are associated with the users Gravatar email address. When Gravatars are disabled, the From Gravatar tab is not included as an option in the Select Profile Picture window.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_sis_grade_export_settings" data-step-uuid="2C571A74-5238-4E45-AF8F-0E56006B60F2">
+    <h2 id="view_sis_grade_export_settings" class="step-title screensteps-heading">View SIS Grade Export Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/245/533/original/3d5323f2-8e7e-48f8-9468-cbd7691255e0.png" srcset="" alt="View SIS Grade Export Settings" height="231" width="512">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_FF3AB412-1A75-4B5E-85C7-17869D41BE92" class="text-block-content">
+    <p>If you've integrated your account with a student information system (SIS), depending on your institution's configuration, you can either <a href="/t5/Admin-Guide/How-do-I-enable-student-information-system-SIS-submissions-for/ta-p/252" target="_blank">configure SIS submissions</a> for your entire consortium account or <a href="/t5/Admin-Guide/How-do-I-manage-student-information-system-SIS-integration/ta-p/103" target="_blank">manage SIS integration settings</a>. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="View-Custom-Links-to-Include-in-the-Help-Dialog-Po" data-step-uuid="55A328EF-63DB-49B8-AA35-EF09DAD316DF">
+    <h2 id="View-Custom-Links-to-Include-in-the-Help-Dialog-Po" class="step-title screensteps-heading">View Help Menu Options</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/791/264/original/bbe50557-310e-4490-8106-e6660e0201f6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/791/264/medium/bbe50557-310e-4490-8106-e6660e0201f6.png" srcset="" alt="View Help Menu Options" height="400" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_FA504790-2826-40AF-B2CD-5353652DBC56" class="text-block-content">
+    <p>As a consortium account admin, you can <a href="/t5/Admin-Guide/How-do-I-customize-the-Canvas-Help-Menu-for-an-account/ta-p/127" target="_blank">customize the Help menu</a> that appears in Canvas for all users. You can also add custom help links for your institution and have them display to all or specific user roles.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-similarity-detection-platform" data-step-uuid="480538C2-C0DC-41CA-B593-B6840F6765F7">
+    <h2 id="view-similarity-detection-platform" class="step-title screensteps-heading">View Similarity Detection Platform</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/427/886/original/819e1b2d-b384-4b14-8273-3a78b2f3d75f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/427/886/medium/819e1b2d-b384-4b14-8273-3a78b2f3d75f.png" srcset="" alt="View Similarity Detection Platform" height="232" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CA1A636B-DCA5-44CB-99B1-A483244715A7" class="text-block-content">
+    <p>The Similarity Detection Platform section displays for all accounts and is used for plagiarism LTI tool integrations. </p>
+<p>If your account has installed at least one plagiarism LTI tool, any content you include in the Similarity Pledge text field will display to students [1]. Similarity pledges require students to check a box acknowledging they agree with the pledge information, which usually asks them to verify their work is their own and that any sources have been properly cited.</p>
+<p>You can also set the originality score default for the entire account in the <strong>Students can see originality score </strong>drop-down menu [2]. You can set the report to generate immediately upon assignment submission, after an assignment is graded, after an assignment due date, or never. The account default is not required and can be changed at any other level. Subaccounts can set a separate default from the account, and individual assignments within a course can set their own originality preferences as well. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-course-template" data-step-uuid="9E324376-80E6-4128-BEFD-C9BD19EB29CC">
+    <h2 id="view-course-template" class="step-title screensteps-heading">View Course Template</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/359/456/original/18e02a4a-18d9-46e4-8a37-6bcb5f8bbdcb.png" srcset="" alt="View Course Template" height="171" width="414">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_D81E6803-903E-4E23-B95E-CC89A790D171" class="text-block-content">
+    <p>If a course has been <a href="/t5/Admin-Guide/How-do-I-enable-a-course-as-a-course-template/ta-p/463700" target="_blank">designated as a course template</a>, you can <a href="/t5/Admin-Guide/How-do-I-select-a-course-template-in-an-account/ta-p/463701" target="_blank">select the template</a> to be used for all new courses in the consortium account or child account(s).</p>
+<p><strong>Note: </strong>Course templates are not inherited into child consortium accounts.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_web_services" data-step-uuid="D49DF7EA-C9BB-4F64-858C-06D5021272AB">
+    <h2 id="view_web_services" class="step-title screensteps-heading">View Web Services</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/359/458/original/0d4d5810-1638-477a-a481-cfda36899a4a.png" srcset="" alt="View Web Services" height="264" width="225">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5D8D0D42-0BE8-46DD-BA81-DA0D21E4DB78" class="text-block-content">
+    <p>The Enabled Web Services section displays <a href="/t5/Admin-Guide/How-do-I-enable-web-services-for-an-account/ta-p/250" target="_blank">third-party integrations</a> that can be enabled for a consortium account. These integrations can be used to extend the functionality of a user's Canvas profile. For example, when a user connects their Twitter account to their Canvas user profile, Canvas can send that user private Twitter messages about new assignments, quizzes, messages, etc. This is all configurable in the user's Notification Settings.</p>
+<p><strong>Note: </strong>If you enable the Google Apps LTI for your entire consortium, you do not need to enable the Google Drive web service for your students.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_who_can_create_new_courses" data-step-uuid="1F09ED3F-5D20-418E-8F13-4F3E3C48E754">
+    <h2 id="view_who_can_create_new_courses" class="step-title screensteps-heading">View Who Can Create New Courses</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/886/313/original/8d335db5-c8dc-468a-9a17-6c3f0b2c1db2.png" srcset="" alt="View Who Can Create New Courses" height="349" width="588">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_BF7ED0E7-D817-492D-9899-8A1E4D98588D" class="text-block-content">
+    <p>You can choose who can create new courses within your account in addition to consortium account administrators. This setting allows the selected user(s) to create new course shells by clicking the Create a New Course button in the Dashboard.</p>
+<p>You can allow teachers [1], students [2], and/or users with no enrollments [3] to create courses in your account.</p>
+<p>You can also manage where new courses created by teachers and students can be placed. To allow courses to be created in any account where a teacher or student has an active enrollment, click the <strong>Allow creation anywhere the user has active enrollments </strong>checkbox [4]. To allow courses to only be created in the Manually-Created Courses sub-account, click the <strong>Allow creation only in the Manually-Created Courses sub-account </strong>checkbox [5].</p>
+<p><strong>Note:</strong> Account administrators can always create courses.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_settings" data-step-uuid="D4046346-7EBE-4758-BF84-878480CB060B">
+    <h2 id="update_settings" class="step-title screensteps-heading">Update Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/359/462/original/2366d9eb-2ffd-45be-8562-306c255f6347.png" srcset="" alt="Update Settings" height="66" width="168">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_823C4DE0-C6F2-4B2F-B61B-7DC2381C0F3B" class="text-block-content">
+    <p>Click the <strong>Update Settings </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

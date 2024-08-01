@@ -1,0 +1,24 @@
+How do I manage external app placements for an account as an admin
+Open Account
+Click the Admin link, then click the name of the account.
+Open Settings
+In Account Navigation, click the Settings link.
+Open Apps
+Click the Apps tab.
+View App Configurations 
+To configure an app, click the View App Configurations button.
+Open Placements
+Locate the external app you want to manage. Then click the Settings button and select the Placements option.
+Note: When you click the Placements link, you may see a No Placements Enabled message. This message indicates that the app does not have any specified placements within Canvas.
+View Placements
+The App Placements menu displays all placements for the external app. An active placement displays the Checkmark icon. An inactive placement displays the X icon.
+Depending on the LTI tool, the following app placement categories can be viewed in the App Placements Menu:
+Assignment Selection: Configure an LTI tool to be selectable as an assignment during assignment creation or editing.
+Editor Button: Configure an LTI tool to display as a button in the Rich Content Editor.
+Homework Submissions: Configure an LTI tool to display when a student is submitting content for an assignment. When a tool is configured, users will see an additional tab during assignment submission for assignments that accept online submissions.
+Link Selection: Configure an LTI tool to select LTI to launch URLs as module items.
+Navigation: Configure an LTI tool to display as a link in the navigation for a course, account, or user.
+Migration Selection: Configure an LTI tool to display in the Course Imports menu of a course.
+Manage Placement
+To disable an active placement, click the Checkmark icon. To enable an inactive placement, click the X icon.
+To close the App Placements menu, click the Close button.

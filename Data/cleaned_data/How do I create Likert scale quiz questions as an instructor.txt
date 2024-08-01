@@ -1,0 +1,39 @@
+How do I create Likert scale quiz questions as an instructor
+Create Survey
+After clicking the Quizzes link, either create or edit a quiz. Make sure the quiz type is set as either a Graded or Ungraded Survey.
+Add Question
+With the Questions tab selected inside a new quiz, click the New Question button.
+Set Name, Type, and Points
+Quiz questions are not automatically numbered for instructors. To add a custom name to your quiz question, enter the name in the question text field. Custom names can help you identify quiz questions more easily. Regardless of the question name, students always see quiz questions in numerical order (i.e. Question 1, Question 2).
+Click the drop-down menu and select the Multiple Dropdowns question type.
+Enter number of points the question is worth (quiz totals are calculated based on combined total of questions).
+Note: Quiz point values support up to two decimal places. Entering more than two decimal places will round the point value to the nearest hundredth.
+Add a Table 
+After adding in any preliminary instructions, click the table icon in the Rich Content Editor and choose two columns and as many rows as you need (one per statement) to contain the entire Likert scale of items. In this example, there are three rows.
+Note:To view the Table icon, you may have to click the Options icon. 
+Add Likert Items as Statements and Answer Choice Boxes
+Each row of the table will be a distinct Likert item, which is a statement with answer choice boxes, and users can select how strongly they agree or disagree with that statement. 
+Create a name for the answer choice boxes, and use square brackets to frame the answer choice boxes. In this example, we made expectations, feedback, and answered questions the reference words to create answer choices for the three statements and set them up as [expectations], [feedback], and [answered-questions].
+Note: Likert items cannot contain spaces. You can separate multiple word Likert items with hyphens. 
+Add Responses as Possible Answers for Each Likert Item
+Each Likert item needs to have its own listing of responses as possible answers. 
+Select each Possible Response and add as many Answers as possible, with consistent Answer Text. You will have to input the Answer Text for each answer choice box. For example, [expectations], [feedback], and [answered-questions] will all need to have each possible response added separately. 
+Select the first reference item from the drop-down list. Then fill in the Likert responses. The standard five-point Likert responses are:
+Strongly disagree
+Disagree
+Neither agree nor disagree
+Agree
+Strongly agree
+Learn more about multiple dropdown questions. 
+When you are finished, select the second reference item and repeat the process of filling in the Likert responses. 
+Repeat this process until all reference items are associated with Likert response options.
+Enter Feedback Text
+You can also create general answer comments for the survey question as a whole. All students will see the feedback in the blue comment field as soon as they submit the quiz. 
+Update Question
+Click the Update Question button.
+Add additional individual questions as needed. 
+Student View for Question
+This is what the question will look like in a quiz. Each statement will show the drop-down menu with the Likert statements. Students can select their opinion that goes along with each statement. 
+Make sure each statement has every possible answer response added correctly.
+Student View for Responses
+When you view the quiz results, Canvas will show you the answers each student selected. Students will also be able to see their answer choices if you allow them to see their responses.

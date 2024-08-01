@@ -1,0 +1,88 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_193AA5C0-22CF-0135-BBEF-22000AB760A3" class="text-block-content">
+    <p>If your institution has enabled offline content, you can allow users in your course to <a href="/t5/Instructor-Guide/How-do-I-view-course-content-offline-as-an-HTML-file-as-an/ta-p/737" target="_blank">download course content as an HTML file</a> in the Modules page. This feature supports courses that use complex HTML or dynamic linking to downloaded files. Users can view the HTML file on a computer any time.</p>
+<p>Exports are based on modules. To use this feature, you must allow students to view modules in the course, either by displaying the Modules link in Course Navigation or enabling modules as the Course Home Page layout. </p>
+<p>Course content export packages include all course files, pages, and embedded files added to a module and are viewable as long as the user has permission. Content items locked by modules or by date are not included in offline content and show that the content is not available. Export packages do not include media files embedded from course files.</p>
+<p>Exported content does not expire, so please ensure your institution has specific online user agreement guidelines as exported content files cannot be managed by the institution. When exporting content, users are notified that they may not reproduce or communicate any of the content in the course, including files exported from the course, without the prior written permission of their institution.</p>
+<p><strong>Note:</strong> If your course does not display the Offline Content option, your institution has not enabled this feature. However, you may be able to allow course content to be downloaded as an ePub file and <a href="/t5/Instructor-Guide/How-do-I-change-the-format-of-a-course-ePub-export-file/ta-p/935" target="_blank">manage the ePub export format</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="a6975854-41e1-46e4-b4a0-b1090a150fe5">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/751/original/7ec5d171-4df5-4e95-bb4a-5ed5f92f30ef.png" srcset="" alt="Open Settings" height="271" width="166">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_193B4CB0-22CF-0135-BBF1-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_details" data-step-uuid="03b8eb9d-fa47-4de3-b6c9-acc0f84774c1">
+    <h2 id="open_course_details" class="step-title screensteps-heading">Open Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/176/139/original/838f73e1-12b3-4572-9166-ec879236ee07.png" srcset="" alt="Open Course Details" height="82" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_193B8620-22CF-0135-BBF3-22000AB760A3" class="text-block-content">
+    <p>Click the Course Details tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enable_offline_content" data-step-uuid="3ef94277-31ba-42d6-9f87-2c06b858bfdb">
+    <h2 id="enable_offline_content" class="step-title screensteps-heading">Enable Offline Content</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/595/719/original/3944d60d-0a81-4d1b-a0d9-3552656cf43f.png" srcset="" alt="Enable Offline Content" height="45" width="535">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_193D5E30-22CF-0135-BBF5-22000AB760A3" class="text-block-content">
+    <p>Locate the Offline Course section. Click the <strong>Allow course content to be downloaded and viewed offline</strong> checkbox.</p>
+<p><strong>Note: </strong>This checkbox may already enabled by your institution.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="update_course_details" data-step-uuid="fb160cbc-200c-404f-8653-bc6a222b3653">
+    <h2 id="update_course_details" class="step-title screensteps-heading">Update Course Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/749/original/3dfc24a8-269b-473b-9e2f-96aa20d5e157.png" srcset="" alt="Update Course Details" height="66" width="213">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_193D9990-22CF-0135-BBF7-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Update Course Details </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

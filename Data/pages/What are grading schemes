@@ -1,0 +1,99 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_7E1FCF90-1E13-0135-A4BE-22000B5A851D" class="text-block-content">
+    <p>A grading scheme is a set of criteria that measures varying levels of achievement in a course. Account-level grading schemes are grading schemes that can be defined at the account or sub-account level for the entire institution. On a course level, instructors can apply grading schemes to both students' final grades and individual assignments. Without a grading scheme, scores are not measured against any specific standard. </p>
+<p><a href="https://community.canvaslms.com/t5/Video-Guide/Grading-Schemes-Admins/ta-p/383872" target="_blank">View a video about Grading Schemes.</a></p>
+<p><strong>Notes</strong>:</p>
+<ul>
+<li>Account-level grading schemes automatically appear within all courses in the account. When an instructor links a grading scheme created at the account level, the grading scheme is linked, not imported, as a new scheme on the course level. Grading schemes imported from the account level can only be modified by users with grading scheme permissions. </li>
+<li>Grading schemes created at the account level automatically appear on the sub-account level. </li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="common_grading_schemes" data-step-uuid="7c50840d-ac30-4013-872d-0feac9d4eb5b">
+    <h2 id="common_grading_schemes" class="step-title screensteps-heading">Common Grading Schemes</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7E203910-1E13-0135-A4BF-22000B5A851D" class="text-block-content">
+    <p>Grading schemes are built based on percentage ranges, and each percentage range is assigned a name value. You can create any type of grading scheme by editing the name and percentage range for each item.</p><p>Notes about Grading Schemes:</p><ul>
+<li>Grading schemes only support two decimal places.</li>
+<li>The only scores allowed in the Gradebook are those defined in the grading scheme.</li>
+<li>Gradebook entries that are not specifically defined in the grading scheme display a dash.</li>
+<li>A grading scheme in use can be archived and then restored to an active state.</li>
+<li>An archived grading scheme cannot be leveraged in the future by a course or assignment unless the scheme is restored.</li>
+<li>The default Canvas grading scheme cannot be archived.</li>
+<li>When copying or exporting a course, archived default grading schemes are not copied or exported.</li>
+<li>Editing the name and description of grading schemes currently in use does not allow edits to percentages or points in the grading scheme.</li>
+<li>A grading scheme established at the course level cannot be deleted, archived, or edited at the account level.</li>
+<li>A grading scheme created at the account level cannot be deleted, archived, or edited at the course level.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="letter_grades" data-step-uuid="8dd07bd7-52b7-4e83-864b-0c29c2268fa1">
+    <h3 id="letter_grades" class="step-title screensteps-heading">Letter Grades</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/257/501/original/b8eb84e3-316f-47dd-99e4-4b0468cf0347.png" srcset="" alt="Letter Grades" height="650" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7E207EB0-1E13-0135-A4C1-22000B5A851D" class="text-block-content">
+    <p>Letter Grades is the most traditional type of grading scheme and is the default format for new grading schemes. Remember, only supported scores are allowed in the Gradebook, so if you build a letter grade scheme with name values for only A, B, and C, you cannot enter a score that converts to an A- or B+.</p>
+<p>In the Gradebook, scores are inputted by point value, percentage, or letter grade. For instance, if an assignment is worth 10 points and the student earns 9, you can input 9 or 90% (which will display as an A- as defined in the percentage range). You can also input an A- directly.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="gpa_scale" data-step-uuid="0c3f2e79-fbd5-4c81-a094-72b465191ac8">
+    <h3 id="gpa_scale" class="step-title screensteps-heading">GPA Scale</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/257/503/original/3de224d1-c02a-45e6-b29a-6555446c90eb.png" srcset="" alt="GPA Scale" height="650" width="480">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7E20BA30-1E13-0135-A4C3-22000B5A851D" class="text-block-content">
+    <p>GPA Scale Grading is designed for schools that use a 4.0 scale (or 5.0/6.0). GPA Scale calculations may vary by institution. This scheme is similar to the Letter Grade scheme, but letter grades can also be used. Remember, only supported scores are allowed in the Gradebook, so if you build a GPA scheme with name values for only 4.0 and 3.9, you cannot enter a score of 3.95.</p>
+<p>In the Gradebook, scores are inputted by percentage or GPA value. For instance, if an assignment is worth 10 points and the student earns 9, you can input 90% (which will display as a 3.7 as defined in the percentage range). You can also input 3.7 directly. Inputting a 9 will not work.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="performance" data-step-uuid="aaeb5050-2e0c-488f-a599-2dbda26e8402">
+    <h3 id="performance" class="step-title screensteps-heading">Performance</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/008/257/505/original/a870bc8c-22cb-4ee4-af8d-dee04f2d3af8.png" srcset="" alt="Performance" height="487" width="483">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7E20F070-1E13-0135-A4C5-22000B5A851D" class="text-block-content">
+    <p>Performance grading schemes are based on a standard of individual performance. Remember, only supported scores are allowed in the Gradebook, so if you build a performance scheme with the name values of only Excellent and Poor, you cannot enter a score of Good. <span style="color:rgb(26,26,26);"> </span></p>
+<p>In the Gradebook, scores are inputted by points, percentage, or performance value. For instance, if an assignment is worth 10 points and the student earns 9, you can input 9 or 90% (which will display as Excellent as defined in the percentage range). You can also input <em>Excellent</em> directly.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

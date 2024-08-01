@@ -1,0 +1,88 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_641B2420-22D5-0135-FDE7-22000BC102FE" class="text-block-content">
+    <p>The beta environment allows you to explore new features before they reach production. The beta environment is overwritten with data from the production environment every Saturday. Any work or content you add to your beta environment will be overwritten every week.</p>
+<p>If you want to keep up on the latest beta features in Canvas, visit the <a href="https://community.canvaslms.com/community/answers/releases" target="_blank">Release Notes</a> page in the Canvas Community.</p>
+<p>The beta environment is separate from the test environment, which is overwritten with data from the production environment every third Saturday of the month. The test environment allows you to test using your real data without ruining the experience for your users. Learn more about the <a href="https://community.canvaslms.com/docs/DOC-1384-what-is-the-canvas-release-schedule-for-beta-production-and-test-environments" target="_blank">different Canvas environments</a>.  </p>
+<p>Notes about the Beta Environment:</p>
+<ul>
+<li>All users can access the Canvas beta environment, but students cannot access course content beyond the Dashboard; if you want to allow students to view all course content, please contact your local Admin.</li>
+<li>Notifications, including course invitations and report downloads, cannot be sent in the beta environment.</li>
+<li>Canvas DocViewer can be used in the beta environment, but new and updated DocViewer features are not available for testing.</li>
+<li>Canvas Commons can be used in the beta environment, but new and updated Commons features are not available for testing.</li>
+<li>New Quizzes can be used in the beta environment, but reports, statistics, item bank search, and item bank tagging are not currently supported.</li>
+<li>Any changes you want to keep in the beta environment must be made directly within the production environment before beta is reset.</li>
+<li>LTI tools (External Apps) are typically not available outside the production environment. LTI tools may display in the beta environment, but often they are only configured for the production environment. Using production-configured LTI tools in the beta environment will affect live data. If you have permission to edit LTI tools, you can confirm the configuration for a specific LTI tool in your course or account. Please contact your Customer Success Manager for specific questions.</li>
+<li>Feature option settings are not copied from the production environment. Feature options must be managed individually in the beta environment.</li>
+<li>Viewing your recent Canvas course page view history is not supported in the Canvas beta environment.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="access_beta_environment" data-step-uuid="210FF9C4-6C46-4F73-A5C2-0405DE30CE56">
+    <h2 id="access_beta_environment" class="step-title screensteps-heading">Access Beta Environment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/596/409/original/Access_Your_Beta_Environment.png" srcset="" alt="Access Beta Environment" height="33" width="289">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_641B5C60-22D5-0135-FDE9-22000BC102FE" class="text-block-content">
+    <p>To log in to your beta environment, type <strong>[organization name].beta.instructure.com </strong>into the URL field. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_test_installation_message" data-step-uuid="4746dff8-f8a4-4594-9772-507b204d88a4">
+    <h2 id="view_test_installation_message" class="step-title screensteps-heading">View Test Installation Message</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/003/856/721/original/d69445fc-0b80-4bec-9e55-fa46b4620880.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/003/856/721/medium/d69445fc-0b80-4bec-9e55-fa46b4620880.png" srcset="" alt="View Test Installation Message" height="442" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_641B8DB0-22D5-0135-FDEB-22000BC102FE" class="text-block-content">
+    <p>Users in the beta environment will see the Test Installation bar across the bottom of the screen indicating the user is in a Canvas Test Installation. Beta environments reset every Saturday and any content created in this environment will be deleted. If you want to save any course content created in your beta environment, you can export your course. </p>
+<p><strong>Note:</strong> To hide the Test Installation bar, click the close icon.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="manage_canvas_features" data-step-uuid="2d739068-44e4-4fee-a037-47a1de696605">
+    <h2 id="manage_canvas_features" class="step-title screensteps-heading">Manage Canvas Features</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/991/027/original/991087f9-c110-48e5-a72b-3197c30fce34.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/991/027/medium/991087f9-c110-48e5-a72b-3197c30fce34.png" srcset="" alt="Manage Canvas Features" height="668" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_641BBD60-22D5-0135-FDED-22000BC102FE" class="text-block-content">
+    <p>Some new features may be released as opt-in only and will not appear until you enable them in your beta environment. You can view these features in the <strong>Feature Options</strong> tab within Course Settings. Learn how to manage new features for an <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">individual course</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

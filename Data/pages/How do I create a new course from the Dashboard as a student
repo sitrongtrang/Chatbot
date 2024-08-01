@@ -1,0 +1,108 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_861FCBD0-2AB9-013A-AFFF-12F2183ABDFB" class="text-block-content">
+    <p>If allowed by your institution, you can create a new course from your Canvas Dashboard. New courses are created as course shells which can host course content and enrollments for your institution. If enabled by your institution, you may be able to select a sub-account for your new course. If this feature is not enabled, your new course will be added to your institution's Manually-Created Courses sub-account.</p>
+<p>When you create a course from the Dashboard, you are automatically added to the course as an instructor. No other enrollments exist in the course, though you may be able to <a href="/t5/Instructor-Guide/How-do-I-add-users-to-a-course/ta-p/1119" target="_blank">add users</a> to a new course. Additionally, new courses do not contain course content unless your institution is using a course template.</p>
+<p>Alternatively, you can create a new course to use as a sandbox. A sandbox is a course without student enrollments where you can create, modify, and preview course content and structure  without student interference. You can then share or import your sandbox content into live courses. </p>
+<p><strong>Note</strong>: If you are not able to start a course as shown in these instructions, your institution has disabled this feature. For assistance creating a new course, contact your Canvas Admin.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-dashboard" data-step-uuid="6225fb8b-7572-4612-a686-ca2d4f8d4976">
+    <h2 id="open-dashboard" class="step-title screensteps-heading">Open Dashboard</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/888/936/original/bdbeeef1-d886-4f3e-a19b-1c3c595eba9c.png" srcset="" alt="Open Dashboard" height="591" width="100">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_13973529-ccdf-4027-a51b-395ba51c0951" class="text-block-content">
+    <p>In the Global Navigation Menu, click the <strong>Dashboard</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="manage-view-setting" data-step-uuid="0b1fcc3f-9b4a-4469-a495-3524fa21e1ee">
+    <h3 id="manage-view-setting" class="step-title screensteps-heading">Manage View Setting</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/888/938/original/cc3e565b-b531-4a1c-b562-f860a412aba8.png" srcset="" alt="Manage View Setting" height="322" width="820">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_daeb83aa-fe34-4b3a-837b-d71aefc8cbdf" class="text-block-content">
+    <p>You can only create new courses from the Card View or Recent Activity view of the Dashboard.</p>
+<p>To change your Dashboard view, click the <strong>Options</strong> icon [1]. The click the <strong>Card View</strong> option [2] or <strong>Recent Activity</strong> option [3].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="start_a_new_course" data-step-uuid="861FE480-2AB9-013A-B000-12F2183ABDFB">
+    <h2 id="start_a_new_course" class="step-title screensteps-heading">Create New Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/910/965/original/ef991ffc-2e2a-4957-94b1-30da2965ad19.png" srcset="" alt="Create New Course" height="897" width="275">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_86200EF0-2AB9-013A-B002-12F2183ABDFB" class="text-block-content">
+    <p>In the Dashboard sidebar, click the <strong>Start a New Course</strong> button. You may need to scroll down to see this button.</p>
+<p><strong>Note: </strong>If you do not see this button in Canvas, your institution has disabled this feature. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_course_details" data-step-uuid="862021B0-2AB9-013A-B003-12F2183ABDFB">
+    <h2 id="add_course_details" class="step-title screensteps-heading">Add Course Details </h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/888/598/original/7c68df53-4588-4db3-a4c9-1bdeb60e30b2.png" srcset="" alt="Add Course Details " height="351" width="481">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_86204AC0-2AB9-013A-B005-12F2183ABDFB" class="text-block-content">
+    <p>In the <strong>Which account will this course be associated with?</strong> drop-down menu, select the account where you want the course to be organized [1]. You can only select accounts that contain courses where you have active enrollments. If this drop-down menu does not display, your institution has restricted the option for students to select accounts for new courses.</p>
+<p>In the <strong>Course Name </strong>field [2], enter the name for your course. A course code is automatically created based on the first string of connected characters in the course name. If allowed by your institution, the course code can be changed in Course Settings.</p>
+<p>To create the course, click the <strong>Create</strong> button [3]. To cancel course creation, click the <strong>Cancel</strong> button [4].</p>
+<p><strong>Note:</strong> Course content license and course visibility options are set to private by default. These options can be changed in Course Settings.</p>
+<p> </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_course" data-step-uuid="86205DF0-2AB9-013A-B006-12F2183ABDFB">
+    <h2 id="view_course" class="step-title screensteps-heading">View Course</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/888/940/original/9d2dbe36-4250-4497-bcc6-daf746ec9557.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/888/940/medium/9d2dbe36-4250-4497-bcc6-daf746ec9557.png" srcset="" alt="View Course" height="419" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_862089F0-2AB9-013A-B008-12F2183ABDFB" class="text-block-content">
+    <p>View the new course. Depending on your institution's preference, you can use either the <a href="/t5/Instructor-Guide/How-do-I-use-the-Course-Setup-Checklist/ta-p/1139" target="_blank">Course Setup Checklist</a> or the <a href="/t5/Instructor-Guide/How-do-I-use-the-Canvas-course-setup-tutorial-as-an-instructor/ta-p/1013" target="_blank">Canvas Course Setup Tutorial</a> to populate your course.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

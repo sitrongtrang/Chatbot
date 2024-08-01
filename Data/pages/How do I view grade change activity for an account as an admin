@@ -1,0 +1,137 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_C5163D90-1CA9-0135-6FC1-22000AB760A3" class="text-block-content">
+    <p>As an admin, you can view grade change activity for your account without having to access the API or grade history page. You can view grade changes by grader and by student. You can also view grade change logs for specific courses and assignments using the course and assignment IDs. </p>
+<p><strong>Note:</strong> Grade change activity in Admin Tools cannot be viewed by sub-account admins.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="cda24ea4-e618-4bf6-9382-9b827cd4cb42">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_209b85b0-59dd-4a91-b53a-678c5addbe69" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_admin_tools" data-step-uuid="caaf0641-064a-4f90-b843-fdf3187408fe">
+    <h2 id="open_admin_tools" class="step-title screensteps-heading">Open Admin Tools</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png" srcset="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png 2.0x, https://media.screensteps.com/image_assets/assets/005/796/780/original_lowres/open-admin-tools.png" alt="Open Admin Tools" height="282" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C51675F0-1CA9-0135-6FC3-22000AB760A3" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Admin Tools </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_logging" data-step-uuid="40883285-2e92-4e77-b57e-741b3e4b5c38">
+    <h2 id="open_logging" class="step-title screensteps-heading">Open Logging</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/043/828/original/8d183728-3ad2-4127-9ff9-f81980f55ccd.png" srcset="" alt="Open Logging" height="287" width="519">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C516A830-1CA9-0135-6FC5-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Logging</strong> tab. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_log_type" data-step-uuid="147289e1-13c0-433d-b337-1f481e1fb4bf">
+    <h2 id="select_log_type" class="step-title screensteps-heading">Select Log Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/043/830/original/98ded72d-66a8-4ae3-8041-ef49c939d2ee.png" srcset="" alt="Select Log Type" height="283" width="513">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C516DD20-1CA9-0135-6FC7-22000AB760A3" class="text-block-content">
+    <p>From the log type drop-down menu, select the <strong>Grade Change Activity </strong>option. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search_for_grade_change" data-step-uuid="d6ba8556-0982-4075-aa44-8625d44a1b79">
+    <h2 id="search_for_grade_change" class="step-title screensteps-heading">Search for Grade Change</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/915/978/original/32d7a880-0637-424c-a32e-8a649f4c0e34.png" srcset="" alt="Search for Grade Change" height="474" width="520">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C5170F90-1CA9-0135-6FC9-22000AB760A3" class="text-block-content">
+    <p>To view grade change activity results, search using one or more search parameters. </p>
+<ol>
+<li>
+<strong>Grader </strong>allows you to search by grader name (e.g. instructor or TA)</li>
+<li>
+<strong>Student</strong> allows you to search by student name</li>
+<li>
+<strong>Course Id</strong> allows you to search by course. You can locate your course id number at the end of your course URL (i.e. canvas.instructure.com/courses/XXXXXX).</li>
+<li>
+<strong>Assignment Id</strong> allows you to search by assignment. You can locate your assignment id number at the end of your course URL (i.e. canvas.instructure.com/courses/assignments/XXX).</li>
+<li>
+<strong>From/To Date </strong>allows you to narrow your search parameters by date range.</li>
+</ol>
+<p><strong>Note</strong>: When typing an individual's name into either the grader or student field, Canvas will automatically generate a list of matching names. Canvas will not accept entries in the grader and student fields that are not selected from the drop-down list of Canvas users. Currently, the assignment and course id can only be searched if the id is known.  </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_grade_change_activity" data-step-uuid="2747d410-4ec2-4bd1-ac2b-4c42bbe3dacf">
+    <h2 id="view_grade_change_activity" class="step-title screensteps-heading">View Grade Change Activity</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/915/980/original/7a78f01d-96e5-4cb1-97a8-e9bcbf2332e9.png" srcset="" alt="View Grade Change Activity" height="748" width="782">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_C51743A0-1CA9-0135-6FCB-22000AB760A3" class="text-block-content">
+    <p>Enter search criteria in the appropriate field(s) [1] and click the <strong>Find </strong>button [2]. Canvas will display any applicable results for the criteria entered. In the example above, the search generated all activity based on the grader and student [3]. Results include:</p>
+<ul>
+<li>The <strong>Date</strong> the grade was changed</li>
+<li>The <strong>Time</strong> the grade was changed</li>
+<li>The previously assigned grade it was changed <strong>From</strong>; the dash (-) indicates there was no previously assigned grade and an EX indicates the assignment was excused</li>
+<li>The new grade it was changed <strong>To</strong>
+</li>
+<li>The <strong>Grader</strong> who assigned the grade change</li>
+<li>The <strong>Student</strong> who received the grade change </li>
+<li>The <strong>Course </strong>in which the grade was changed</li>
+<li>The <strong>Assignment</strong> for which the grade was changed </li>
+<li>Whether or not the grader selected the Hide Student Names (<strong>Anonymous</strong>) option in SpeedGrader settings</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

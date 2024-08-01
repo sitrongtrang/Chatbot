@@ -1,0 +1,147 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_3B8EC880-1CA6-0135-A98B-22000B5A851D" class="text-block-content">
+    <p>Within Admin Tools, admins can view the login/logout activity of users within their institution. Log activity is organized by date with the most recent activity at the top of the list.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>Canvas will only register a user’s logout when the Logout button is clicked in the User Account menu. Closing the browser window does not create a logout request.</li>
+<li>Logging activity will only show activity that took place within the past year.</li>
+<li>Login and logout activity in Admin Tools cannot be viewed by sub-account admins.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_account" data-step-uuid="473baf10-be56-47a0-b149-27df154ef074">
+    <h2 id="open_account" class="step-title screensteps-heading">Open Account</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/740/original/167b4d34-2e3f-4046-9aed-39673e67bdab.png" srcset="" alt="Open Account" height="542" width="453">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ad270e5e-ad3e-4d41-b711-9cfb5a13ad78" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Admin</strong> link [1], then click the name of the account [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_admin_tools" data-step-uuid="7be73c20-d91a-4246-bfb4-252a5a05e824">
+    <h2 id="open_admin_tools" class="step-title screensteps-heading">Open Admin Tools</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png" srcset="https://media.screensteps.com/image_assets/assets/005/796/780/original/open-admin-tools.png 2.0x, https://media.screensteps.com/image_assets/assets/005/796/780/original_lowres/open-admin-tools.png" alt="Open Admin Tools" height="282" width="177">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B8EFE40-1CA6-0135-A98D-22000B5A851D" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Admin Tools </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_logging" data-step-uuid="378f5fad-a5dc-45a1-a360-5c9d1fdc6b1e">
+    <h2 id="open_logging" class="step-title screensteps-heading">Open Logging</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/043/807/original/d36ebf0f-8137-4e51-b5c3-5839d9afdb35.png" srcset="" alt="Open Logging" height="283" width="527">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B8F31F0-1CA6-0135-A98F-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Logging </strong>tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_log_type" data-step-uuid="c660603a-0a01-47cb-b207-295d07f20596">
+    <h2 id="select_log_type" class="step-title screensteps-heading">Select Log Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/043/809/original/af9df927-da90-4c3d-808c-21e141514e1a.png" srcset="" alt="Select Log Type" height="289" width="504">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B8F62B0-1CA6-0135-A991-22000B5A851D" class="text-block-content">
+    <p>From the log type drop-down menu, select the <strong>Login / Logout Activity </strong>option.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="search_for_user" data-step-uuid="47399e32-8770-4ce0-804d-264c3213be39">
+    <h2 id="search_for_user" class="step-title screensteps-heading">Search for User</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/471/298/original/5f56e2db-8ea8-4c69-9971-82c983f7cddf.png" srcset="" alt="Search for User" height="244" width="752">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B8F9500-1CA6-0135-A993-22000B5A851D" class="text-block-content">
+    <p>Type the name of the user in the search field [1], then click the <strong>Find</strong> button [2]. Click the user's name [3]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="enter_date_range" data-step-uuid="78e24155-40c2-4e2b-9691-1e2b8acc0a1f">
+    <h2 id="enter_date_range" class="step-title screensteps-heading">Enter Date Range</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/471/303/original/d3543e31-fe3b-41d9-86df-57098e6cb6b1.png" srcset="" alt="Enter Date Range" height="484" width="411">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_901cb9ca-53b6-492e-8989-a2a8351d9e59" class="text-block-content">
+    <p>Create the date range you want to search. You can enter dates in the From Date and To Date date fields [1], or you can use the calendar icon to select dates [2]. Then click the <strong>Find</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="find_logging_activity" data-step-uuid="1dcd93c4-9c57-4941-9194-342e41cf2a36">
+    <h2 id="find_logging_activity" class="step-title screensteps-heading">Find Logging Activity</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/791/523/original/2bce117d-c703-47e9-b086-eb8553826c9a.png" srcset="" alt="Click Find Button" height="75" width="103">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B9004D0-1CA6-0135-A997-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Find </strong>button<strong>.</strong></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_logging_activity" data-step-uuid="eda615d9-c410-4267-afcb-e6c6c4ed7c22">
+    <h2 id="view_logging_activity" class="step-title screensteps-heading">View Logging Activity</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/471/299/original/10570d4c-88a9-4296-9b21-2865519d0c54.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/471/299/medium/10570d4c-88a9-4296-9b21-2865519d0c54.png" srcset="" alt="View Logging Activity" height="251" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3B903860-1CA6-0135-A999-22000B5A851D" class="text-block-content">
+    <p>View the login/logout activity for the user.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

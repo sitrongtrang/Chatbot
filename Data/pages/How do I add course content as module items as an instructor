@@ -1,0 +1,177 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_CDEF14D0-2206-0135-3DA9-22000AB760A3" class="text-block-content">
+    <p>You can add new or existing content items in Canvas to a module. You can also add an item to multiple modules, or multiple iterations of an item to one module.</p>
+<p>When you add items to a Module, please be aware that the status of the Module overrides the state of the individual module items. You may want to consider leaving all Module items in an unpublished state until you are ready to publish the entire Module. Learn more about <a href="/t5/Instructor-Guide/How-do-I-publish-or-unpublish-a-module-as-an-instructor/ta-p/571" target="_blank">publishing or unpublishing a module</a>.</p>
+<p><strong>Notes</strong>: </p>
+<ul>
+<li>Canvas will accept most media files as uploads. However, not all media files can be played within Canvas. </li>
+<li>Uploaded files are automatically published and also display in Course Files. When adding a restricted file type to a Module, please be aware that restricted files act as published files and may be viewable to students. Learn more about <a href="/t5/Instructor-Guide/How-do-I-restrict-files-and-folders-to-students-in-Canvas/ta-p/610" target="_blank">restricting files in Canvas</a>.</li>
+<li>Numerous module items may affect performance. Modules supports up to 100 module items in the <a href="/t5/Instructor-Guide/How-do-I-use-modules-to-view-the-progress-of-students-in-a/ta-p/973" target="_blank">student progress page</a>.</li>
+<li>If your course requires you to set usage rights for a file, you must set the usage right before you can publish the file in a module.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="F31BB264-6B27-4546-AD64-862EC673D4DC">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/085/original/1f887656-6d14-482c-9f84-9a00f3fc6573.png" srcset="" alt="Open Modules" height="246" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDEF48C0-2206-0135-3DAB-22000AB760A3" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_module_item" data-step-uuid="8436BC86-D5E1-4410-B11B-275F194F1256">
+    <h2 id="add_module_item" class="step-title screensteps-heading">Add Module Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/375/210/original/d41e2647-a895-45a5-92a9-6b8cc5b53fe6.png" srcset="" alt="Add Module Item" height="309" width="854">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDEF7E70-2206-0135-3DAD-22000AB760A3" class="text-block-content">
+    <p>To add an item, click the <strong>Add Item</strong> icon [1], or drag and drop to add files to an empty module [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_item_to_module" data-step-uuid="895312A1-B079-40AB-94B5-3B5DB09E73C3">
+    <h2 id="add_item_to_module" class="step-title screensteps-heading">Add Item to Module</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/726/236/original/855c8777-921d-4581-95a1-081ca2a9d412.png" srcset="" alt="Add Item to Module" height="496" width="660">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDEFBA80-2206-0135-3DAF-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add</strong> drop-down menu and select one of the following item types:</p>
+<ul>
+<li>Assignment</li>
+<li><a href="/t5/Instructor-Guide/How-do-I-add-a-quiz-as-a-module-item/ta-p/452355" target="_blank">Quiz</a></li>
+<li>File (<a href="/t5/Instructor-Guide/What-types-of-files-can-be-previewed-in-Canvas/ta-p/607" target="_blank">document</a> and <a href="/t5/Instructor-Guide/What-types-of-media-files-can-I-upload-in-Canvas-as-an/ta-p/1142" target="_blank">media</a> file types)</li>
+<li>Page</li>
+<li>Discussion</li>
+</ul>
+<p> <strong>Notes:</strong> </p>
+<ul>
+<li>Canvas will accept most media files as uploads. However, not all media files can be played within Canvas.</li>
+<li>When adding content using the add drop-down menu it loads the first 200 assignments, 400 quizzes, 200 discussions, and 100 external tools.</li>
+</ul>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_new_item" data-step-uuid="EF2CA37A-84BA-43F7-8847-BB7586E80EA5">
+    <h3 id="add_new_item" class="step-title screensteps-heading">Add New Item</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/726/234/original/cc0b393c-7f34-4450-a7b1-6f278d8706bf.png" srcset="" alt="Add New Item" height="523" width="685">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDEFFBC0-2206-0135-3DB1-22000AB760A3" class="text-block-content">
+    <p>If you want to add a new item, click the <strong>[New]</strong> link [1] and type a name in the name field [2].</p>
+<p>Depending on the item type, when adding new content you may be asked to complete additional fields.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-3" id="upload-file" data-step-uuid="8d87d347-678f-490c-9127-410bfb50ed19">
+    <h4 id="upload-file" class="step-title screensteps-heading">Upload File</h4>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/005/083/279/original/17fbd5fe-de51-4bc2-b72d-f945b1bcb98a.png" srcset="" alt="Upload File" height="395" width="783">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_435a5212-6c4c-4823-93ef-2100890d85ef" class="text-block-content">
+    <p>If you are adding a file to a module, you can upload a new file by clicking the <strong>Create File(s)</strong> link [1]. Uploaded files are automatically published and also display in Course Files.</p>
+<p>To select a file from your computer, click the <strong>Choose File(s)</strong> button [2]. If enabled by your institution, you may be able to select multiple files.</p>
+<p>To select a destination folder for your uploaded file, select an option in the <strong>Folder</strong> drop-down menu [3].</p>
+<p>If an uploaded file is a duplicate of an existing file, Canvas displays a prompt asking if the file should be overwritten, renamed, or skipped.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="add_existing_item" data-step-uuid="6CE15B56-44D2-45E9-8BA3-5860B757F8D4">
+    <h3 id="add_existing_item" class="step-title screensteps-heading">Add Existing Item</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/726/238/original/d35e0c8b-d0b9-4222-baa1-9aff2b3fe6ba.png" srcset="" alt="Add Existing Item" height="523" width="685">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDF03D60-2206-0135-3DB3-22000AB760A3" class="text-block-content">
+    <p>If you have already created the item you want to add, click the name of the item. To select more than one item press Shift and select the first and last item in the list you would like to add.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="indent_item" data-step-uuid="24A5BD8F-3CB1-406B-8BE6-12AC98E12094">
+    <h2 id="indent_item" class="step-title screensteps-heading">Indent Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/589/original/b466a470-a632-4427-a50e-c6a04a0f8151.png" srcset="" alt="Indent Item" height="124" width="342">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDF07810-2206-0135-3DB5-22000AB760A3" class="text-block-content">
+    <p>Choose the <strong>Indentation</strong> drop-down menu to indent the item inside of the module.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_item" data-step-uuid="AFB483E2-F092-4617-B710-81399FB84DCB">
+    <h2 id="add_item" class="step-title screensteps-heading">Add Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/595/original/74b88c94-92e7-4c4e-8500-6102eed33e64.png" srcset="" alt="Add Item" height="71" width="184">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDF0D0A0-2206-0135-3DB7-22000AB760A3" class="text-block-content">
+    <p>Click the <strong>Add Item</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_module_item" data-step-uuid="8E23E533-34C8-4566-ABBF-FA177FB82D0D">
+    <h2 id="view_module_item" class="step-title screensteps-heading">View Module Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/374/551/original/dea8007d-9166-4173-96a0-742429c563ce.png" srcset="" alt="View Module Item" height="541" width="855">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CDF12390-2206-0135-3DB9-22000AB760A3" class="text-block-content">
+    <p>View the selected module item.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

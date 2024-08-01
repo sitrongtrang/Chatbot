@@ -1,0 +1,67 @@
+How do I use SpeedGrader as an instructor
+View SpeedGrader
+SpeedGrader includes several areas to help you locate and view student submissions, grade submissions, and add comments to submissions.
+View SpeedGrader Menu Icons
+The SpeedGrader menu includes several tools and resources to assist with grading assignments. 
+The left side of the menu includes general settings and options. 
+To return to the Gradebook, click the Gradebook icon.
+To post or hide the assignment, click the Visibility icon.
+To view SpeedGrader settings, click the Settings icon. SpeedGrader settings include: 
+Options, which allows you to select student list sorting options and enable anonymous grading.
+Keyboard Shortcuts, which opens a list of keyboard shortcuts for SpeedGrader. You can also press the Shift+Question Mark keys simultaneously.
+Help, which opens the Instructor SpeedGrader guides. 
+Note: When moderated grading is enabled for an assignment, final graders (moderators) will also view a Moderation Page button, which will allow them to view the Grade Summary Page for the moderated assignment.
+View Assignment Details
+The center of the menu bar includes assignment information and overall grading information. Assignment information includes the name of the assignment, assignment due date, and the name of the course. 
+To view the assignment details, click the name of the assignment. The assignment details page also lets you download all student submissions for the assignment. 
+To return to the Course Home Page, click the name of the course.
+Grading information includes assignment statistics, including the number of assignments that have been graded out of the total number of students in the course and the average score and percentage. You can use this information to keep track of your grading progress.
+View Student List
+The right side of the menu bar includes the student list for the assignment. SpeedGrader opens the assignment for the first student listed in the student list, arranged alphabetically by last name. If you have activated student view, the Test Student will be shown at the end of the student list. The student list also displays the status of each student's submission. You can also use the student list to find student submissions.
+View Student Submission
+Once you have selected a student, the student's submission displays in the preview window.
+Depending on the assignment and submission type, the SpeedGrader preview window varies. For example, a website URL submission type will appear in the main body of SpeedGrader with the option to open the URL in a new tab. Some website URL submissions cannot be viewed in Canvas and must be viewed in a new tab. Media submissions may display as an embedded file in SpeedGrader or only display as a downloadable file.
+To provide comments on document submissions, you can:
+Use Canvas DocViewer to mark up .pdf, .doc/.docx, and .ppt/.pptx assignments directly in SpeedGrader. SpeedGrader may take up to ten minutes after an assignment is submitted to display a document that supports DocViewer.
+Download the submission, put feedback on the document, and re-upload the submission.
+Note: When the Allow Multiple file AGS submissions count as one submission is enabled, students can select multiple files to be uploaded to a third-party assignment in Canvas. However, some third-party tools may not be built to accommodate this feature.
+View Uploading Submissions
+If a Google Drive or Microsoft Office 365 assignment upload is queued for submission, an Uploading image displays in place of the student submission. An Uploading icon also displays next to the assignment link. 
+View Failed Submission Uploads
+When a Google Drive or Microsoft Office 365 assignment submission fails to upload, or when viewing an unsupported file type in SpeedGrader, an Upload Failed image displays. Failed submission uploads display an Upload Failed icon next to the assignment link. 
+View Enrollment Notice
+SpeedGrader displays assignment submissions according to the current Gradebook settings for inactive enrollments and concluded enrollments. If an assignment includes a submission from an inactive or concluded student, a notice appears at the top of the SpeedGrader window. 
+For group assignments where students are graded as a group, the group displays as long as there is at least one active student in the group. If there are no active students in the group, the group displays if one group member aligns with the enrollment settings in the Gradebook. For group assignments where students are graded individually, individual student submissions display according to the enrollment settings in the Gradebook.
+Inactive student submissions can still be graded in SpeedGrader, but students do not receive any notifications about their assignment and cannot view course grades.
+Concluded student submissions are read-only; they cannot be graded or receive comments.
+Note: If a student does not have a submission for the assignment, the student may have been deactivated or concluded before being able to submit the assignment.
+View Closed Grading Period
+If your course uses multiple grading periods, a notice appears at the top of the SpeedGrader window if an assignment is in a closed grading period. Assignments in a closed grading period cannot be edited.
+View Sidebar
+The SpeedGrader sidebar provides all the submission details for the student shown in the student list. However, submission details are not shown when an assignment is graded anonymously.
+In the sidebar, you can also download submission files, grade assignments, leave comments, reassign assignments, and view submission status.
+Download Submission Files
+In the SpeedGrader sidebar, you can view the submission details, including the date and time of the submission; if an assignment was resubmitted, you can view previous versions of the submission. 
+You can also download the submission file by clicking the link.
+Grade Assignment
+Complete the assessment of the submission by entering a grade in the Grade field or using a rubric, if available, by clicking the View Rubric button. 
+Leave Comments
+In the Assignment Comments section of the SpeedGrader sidebar, you can type feedback comments or insert a comment from the Comment Library.
+You can attach files to comments, record or upload media, or translate spoken comments into text using Chrome's speech recognition feature.
+You can also download all submission comments.
+Note: Assignment comments also display as a new thread in Conversations. 
+Reassign Assignment
+In the SpeedGrader sidebar, you can reassign an assignment. To reassign the assignment to the student, submit at least one comment to the student's submission. Then click the Reassign Assignment button.
+To resubmit the assignment, a student can view the assignment as a To Do item in their List View Dashboard. 
+View Submission Status
+In the SpeedGrader sidebar, you can view the student's assignment submission status.
+To edit the submission status, click the Edit button. Available statuses include Late, Missing, Excused, and None.
+View Assignment for Next Student
+Once you grade the submission, the student's assignment indicator changes to a check mark, indicating the submission has been graded.
+You can view the next student's submission by clicking the arrow button next to the student list.
+View Group Assignments
+When evaluating group assignments, the student list displays the name of each group, unless the group assignment is graded individually. Evaluating group assignments is the same process as individual students. You can mark up documents directly or download them for feedback, enter grades and view the rubric, and post and view comments. Learn more about grading group assignments. 
+View Anonymous Assignments
+If an assignment or quiz was set to have anonymous grading, the student list displays all student names generically. The student list order does not match the order in the Gradebook and is randomized for each assignment.
+If an assignment is not anonymous, you can hide student names in SpeedGrader for anonymous grading at any time.
+Note: Graded discussions cannot be anonymous.

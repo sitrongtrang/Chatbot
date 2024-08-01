@@ -1,0 +1,26 @@
+How do I view the history of all grading changes in the Gradebook as an instructor
+Open Grades
+In Course Navigation, click the Grades link.
+View Grading History
+Click the Gradebook menu and select the Gradebook History link.
+View Gradebook History
+The Gradebook History page displays recent grade changes in the course. Each grade change lists the date of the change, the student whose grade was changed, the grader who changed the grade, and the artifact where the grade was changed. 
+Additionally, you can view a summary of the grade before it was changed, after it was changed, and the current grade for the assignment.
+Note:  If you are grading in a course where you can only interact with users in your same section, the Gradebook history page will only display results for users within your same section. 
+View Anonymous Assignments in Gradebook History
+Any grade changes related to an anonymously graded assignment do not include student names in the search results.
+If the anonymous grading option is removed from the assignment at a later time, the Gradebook History page displays an icon showing that the assignment was previously graded anonymously.
+Note: Posting grades for an anonymous assignment will remove anonymity from the assignment.
+View Filters
+If you want to locate a specific grade change, you can filter grading history by student, grader, artifact, and start or end date. 
+Filter by Name
+To filter grading history by student, grader, or artifact, start typing the name in the search filter. Canvas will automatically populate matching names. Select the name from the results. 
+Filter by Date
+If you also want to filter grading history by start or end date, click the date field and then select a date from the calendar. 
+Filter by Final Grade Overrides Only
+To filter the Gradebook History to display only final grade overrides, click the the Final Grade Overrides Only checkbox. The Final Grades Overrides checkbox only displays if you have enabled the Final Grade Override feature option.
+By default, the filter displays both assignment grade changes and override grade changes. If you filter by final grade override, you cannot filter by any other filters.
+Apply Filter
+To apply your specified filters, click the Filter button. 
+Return to Traditional Gradebook
+To return to the gradebook, click the Gradebook History menu and select the Traditional Gradebook link.

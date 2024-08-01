@@ -1,0 +1,26 @@
+How do I moderate ePortfolios as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open ePortfolio Moderation
+In Account Navigation, click the ePortfolio Moderation link. 
+Note: The ePortfolio Moderation link is only visible to admins with the Users - Moderate Content permission.
+View ePortfolio Moderation
+From the ePortfolio Moderation page, you can manage ePortfolios in your account that have been identified as spam. Each ePortfolio displays the author, name, visibility status, and moderation status. ePortfolios will have one of the following moderation statuses:
+Needs review: flagged as possible spam - Instructure's systems have identified this ePortfolio as possible spam and it needs administrator review. It is only visible to the original author and administrators.
+Marked as spam - An administrator has reviewed this ePortfolio and marked it as spam. It is only visible to the original author and administrators.
+Marked as safe - An administrator has reviewed this ePortfolio and marked it as safe. It is visible to its original intended audience.
+Note: ePortfolios marked as safe only display on this page if the ePortfolio is part of an author's account with at least one ePortfolio marked as spam and all ePortfolios have not yet been resolved.
+Review ePortfolio
+To review an ePortfolio, click the name of the ePortfolio.
+To open a user's profile, click the name of the user. From the the profile page, you can manage login information or delete a user.
+Note: Removing users via SIS upload does not delete their associated ePortfolios. However, deleting a user account in your Canvas account also deletes their associated ePortfolio. 
+View Flagged ePortfolio
+An ePortfolios flagged as possible spam will display a warning message that it is only visible to admins and the author.
+To mark the portfolio as safe, click the Mark as Safe button.
+To mark the portfolio as spam, click the Confirm as Spam button.
+View Spam ePortfolio
+An ePortfolio marked as spam will display a warning message that it is only visible to admins and the author. Authors cannot edit ePortfolios marked as spam.
+To mark the ePortfolio as safe, click the Mark as Safe button.
+View Safe ePortfolio
+Admins can mark any ePortfolio as spam, even if the ePortfolio is not listed on the ePortfolio Moderation page.
+To mark an ePortfolio as spam, navigate to the ePortfolio and click the Mark as Spam button.

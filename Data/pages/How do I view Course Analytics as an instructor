@@ -1,0 +1,241 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_557E0A00-1BB5-0135-F55E-22000BC102FE" class="text-block-content">
+    <p>Course analytics will show you activity, assignment submissions, grades, and students. You can view analytics in both active and concluded courses. You can also view published <a href="/t5/Instructor-Guide/Once-I-publish-a-quiz-what-kinds-of-quiz-statistics-are/ta-p/659" target="_blank">quiz statistics</a>. </p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The Analytics features displayed in this lesson will be removed in a future release and will be replaced by New Analytics. View more information on <a href="https://community.canvaslms.com/docs/DOC-18531-679521201713" target="_blank">using New Analytics</a>.</li>
+<li>Viewing analytics is a course permission. If you cannot view analytics, your institution has restricted this feature.</li>
+<li>The Analytics button only displays once students have been enrolled and students have started to participate in the course.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_courses" data-step-uuid="2ae47e0f-165d-426a-a96e-1a53708c6308">
+    <h2 id="open_courses" class="step-title screensteps-heading">Open Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/949/746/original/99c83ae9-9b12-42f9-b2e9-b795da78de66.png" srcset="" alt="Open Course" height="476" width="454">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_557E3F40-1BB5-0135-F560-22000BC102FE" class="text-block-content">
+    <p>In Global Navigation, click the <strong>Courses</strong> link [1], then click the name of the course [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_course_analytics" data-step-uuid="AA7308CC-ED00-43C3-B1FD-103CAA34F39F">
+    <h2 id="open_course_analytics" class="step-title screensteps-heading">Open Course Analytics</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/547/original/7bfe7a43-5abd-499c-9cd9-9c839bc0b56b.png" srcset="" alt="Open Course Analytics" height="247" width="273">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_557E7290-1BB5-0135-F562-22000BC102FE" class="text-block-content">
+    <p>Click the <strong>View Course Analytics</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_analytics_graphs" data-step-uuid="c32c1def-eec4-4724-b972-65cb99727443">
+    <h2 id="view_analytics_graphs" class="step-title screensteps-heading">View Analytics Graphs</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/551/original/df6a561c-ba2d-419a-893b-dc105d0a71dc.png" srcset="" alt="View Analytics Graphs" height="77" width="216">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_557EA580-1BB5-0135-F564-22000BC102FE" class="text-block-content">
+    <p>By default, analytics are shown in a graph format. There are three types of graphs: Activity by Date, Submissions, and Grades.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_activity_by_date" data-step-uuid="ac17395f-069d-426f-b29b-e2c8464cb985">
+    <h3 id="view_activity_by_date" class="step-title screensteps-heading">View Activity by Date</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/553/original/acd0de9b-cd76-4584-bc8f-cdf383505a8e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/553/medium/acd0de9b-cd76-4584-bc8f-cdf383505a8e.png" srcset="" alt="View Activity by Date" height="207" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_557ED8D0-1BB5-0135-F566-22000BC102FE" class="text-block-content">
+    <p>The Activity by Date graph shows all course activity for all users in the course. The x-axis represents the course dates, while the y-axis represents the number of page views. Dark blue bars represent participation in the course. If a date only includes page views, the bar only displays as light blue.</p>
+<p>The graph changes the bar display according to the length of time. Activity that is less than six months old displays bars as daily activity, at six months bars are displayed as weekly activity, and at approximately a year bars are displayed as monthly activity. Browser window size, zoom level, and screen resolution may also change how the bars display.</p>
+<p>To view the details of the bar graph, hover over the specific bar you want to view. The weekly view shows the first and last date for the week; the monthly view shows the month and the year.</p>
+<p>The following user actions will generate analytics course participation:</p>
+<ul>
+<li>Announcements: posts an announcement (instructor)</li>
+<li>Announcements: posts a new comment to an announcement</li>
+<li>Assignments: updates an assignment's settings or description (instructor)</li>
+<li>Assignments: submits an assignment (student)</li>
+<li>Calendar: updates a calendar event's settings or description (instructor)</li>
+<li>Collaborations: loads a collaboration to view/edit a document</li>
+<li>Conferences: joins a web conference</li>
+<li>Discussions: posts a new comment to a discussion</li>
+<li>Pages: creates a wiki page</li>
+<li>Quizzes: submits a quiz (student)</li>
+<li>Quizzes: starts taking a quiz (student)</li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_submissions" data-step-uuid="8598d82a-80ec-44c3-843c-32f007f7ea3c">
+    <h3 id="view_submissions" class="step-title screensteps-heading">View Submissions</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/541/original/3178a719-7ed4-4495-9d82-b4458282bc9d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/541/medium/3178a719-7ed4-4495-9d82-b4458282bc9d.png" srcset="" alt="View Submissions" height="207" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_557F0CB0-1BB5-0135-F568-22000BC102FE" class="text-block-content">
+    <p>The Submissions Graph shows the status of each assignment in the course. The x-axis represents the assignments, while the y-axis represents the percentage of submissions for all students in the course. </p>
+<p>The green rounded shape at the bottom of the bar indicates how many students submitted the assignment on time [1]. The yellow straight-edge shape indicates how many students submitted the assignment late/past due [2]. The red rounded shape at the top of the bar indicates how many students have not submitted the assignment [3].</p>
+<p>To view the details of the bar graph, hover over the specific bar you want to view. The details include the assignment title, the due date (if any), and the percentage of late, on time, and missing submissions. </p>
+<p><strong>Note</strong>: The bars will only extend to the edge of the dates available for the course, even if there is an assignment or quiz that extends beyond the course start and end dates. The graph will include a note graph explaining there are assignments outside of the course dates.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_grades" data-step-uuid="45cba234-405f-4918-8e32-0ee7a7284268">
+    <h3 id="view_grades" class="step-title screensteps-heading">View Grades</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/537/original/470656b4-b8be-4af9-a8fa-45e859d9c214.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/537/medium/470656b4-b8be-4af9-a8fa-45e859d9c214.png" srcset="" alt="View Grades" height="277" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_557F4520-1BB5-0135-F56A-22000BC102FE" class="text-block-content">
+    <p>The Grades graph shows the median, high, and low scores for an assignment. The x-axis represents each assignment, while the y-axis represents the number of points for an assignment. The vertical blue line extends from the lowest score to the highest score [1]. The blue box extends from the 25th to 75th percentile [2]. The horizontal black line shows the median score for the assignment [3]. Gray lines indicate hidden assignments [4].</p>
+<p>To view the details of the bar graph, hover over the specific bar you want to view. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_analytics_tables" data-step-uuid="964d81f8-a785-46f3-8740-060be3237c92">
+    <h2 id="view_analytics_tables" class="step-title screensteps-heading">View Analytics Tables</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/784/533/original/76bf5f5e-4e6c-4316-8a4b-71ac60ab78c4.png" srcset="" alt="View Analytics Tables" height="77" width="217">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_557F78E0-1BB5-0135-F56C-22000BC102FE" class="text-block-content">
+    <p>To view analytics without hovering over graph columns, you can view all data in a table format. To switch to the table format, click the Analytics icon. The icon will switch from the left side to the right, indicating the current analytics view. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_table_data" data-step-uuid="df045b5e-7f5c-4390-9ac7-fb245442304c">
+    <h3 id="view_table_data" class="step-title screensteps-heading">View Table Data</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/531/original/6be6bfac-5e2e-4800-98f5-d3bd34563af2.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/531/medium/6be6bfac-5e2e-4800-98f5-d3bd34563af2.png" srcset="" alt="View Table Data" height="206" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_557FAFB0-1BB5-0135-F56E-22000BC102FE" class="text-block-content">
+    <p>Tables apply to every graph in its respective page, and each column defines the data within its respective graph. Graphical data is displayed by column. </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="" data-step-uuid="457d1a31-177e-476f-9c6a-0d594138696a">
+    
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/535/original/34391b17-1bc0-49db-a3b0-5596e5dc88d6.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/535/medium/34391b17-1bc0-49db-a3b0-5596e5dc88d6.png" srcset="" alt="View Table Pagination" height="234" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_557FEDC0-1BB5-0135-F570-22000BC102FE" class="text-block-content">
+    <p>Each table is paginated to 30 entries per page; additional pages can be viewed by advancing to the next page.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_student_analytics" data-step-uuid="27c678db-8746-4c34-b41f-b20db29c29df">
+    <h2 id="view_student_analytics" class="step-title screensteps-heading">View Student Analytics</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/911/399/original/1414936a-a499-47e6-87a9-3db0e641c4c8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/911/399/medium/1414936a-a499-47e6-87a9-3db0e641c4c8.png" srcset="" alt="View Student Analytics" height="345" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_558020F0-1BB5-0135-F572-22000BC102FE" class="text-block-content">
+    <p>Student Analytics are always shown in a table format and displays an overview of student participation in the course.</p>
+<p>You can view the student name [1], page views [2], participations [3], and submissions [4]. </p>
+<p>The Submissions column shows how many published and graded assignments each student has submitted in the course. Submissions are broken down according to how many submissions were on time [5], late [6], and missing [7]. Note that an assignment only counts as missing if the due date has passed and it has not been submitted. </p>
+<p>You can also view a student's current score percentage [8], which is their total score in the course.</p>
+<p>The analytics table is paginated so you can view more students if you continue to scroll down the page.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="sort_student_analytics" data-step-uuid="7c0fff22-2388-4461-a63e-42de47b6897c">
+    <h3 id="sort_student_analytics" class="step-title screensteps-heading">Sort Student Analytics</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/529/original/0105f99d-2cba-4b96-a301-d6890a4a5847.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/529/medium/0105f99d-2cba-4b96-a301-d6890a4a5847.png" srcset="" alt="Sort Student Analytics" height="198" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_55805540-1BB5-0135-F574-22000BC102FE" class="text-block-content">
+    <p>You can sort student analytics in ascending or descending order by student name, page views, participations, and current score. These filters allow you to evaluate student performance according to your preference.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_student_analytics_1" data-step-uuid="ae7cab6e-8fd8-4d71-b0a2-87ba86b23461">
+    <h3 id="view_student_analytics_1" class="step-title screensteps-heading">View Student Analytics</h3>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/784/545/original/59a17bad-a5bf-49a7-af20-192f423d3f3c.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/784/545/medium/59a17bad-a5bf-49a7-af20-192f423d3f3c.png" srcset="" alt="View Student Analytics" height="198" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_558095E0-1BB5-0135-F576-22000BC102FE" class="text-block-content">
+    <p>To <a href="/t5/Instructor-Guide/How-do-I-view-analytics-for-a-student-in-a-course/ta-p/969" target="_blank">view analytics for a specific student</a>, click the name of the student.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

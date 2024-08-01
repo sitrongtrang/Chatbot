@@ -1,0 +1,109 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_AD061060-1EFD-0135-F6A2-22000B5A851D" class="text-block-content">
+    <p>You can export a Canvas course to give to someone in another Canvas account, to upload to another institution's account at a later date, or to create a copy as a backup on your local computer. You can <a href="/t5/Instructor-Guide/How-do-I-import-a-Canvas-course-export-package/ta-p/795" target="_blank">import an export file</a> into Canvas at any time.</p>
+<p>Exports are packaged as IMSCC ZIP files, which can only be opened by programs that support Common Cartridge files. You can also change the extension from .imscc to .zip and treat it as any other ZIP file.</p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>Canvas exports do not include backups of student interactions and grades. Grades can be exported separately as a comma separated values (CSV) file. </li>
+<li>Some external app LTI tools such as Google Drive and Office 365 do not retain tool configurations in exported courses. You may consider <a href="/t5/Instructor-Guide/How-do-I-copy-content-from-another-Canvas-course-using-the/ta-p/1012" target="_blank">copying the course</a> instead.</li>
+<li>Canvas does not support course export files over 50 GB. Courses over 50 GB in size will not export and will display an error message when you attempt to export.</li>
+<li>Canvas for Elementary export packages retain the Canvas for Elementary theme.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_settings" data-step-uuid="c9b19d9d-41cb-455a-b5a9-89178ed369b5">
+    <h2 id="open_settings" class="step-title screensteps-heading">Open Settings</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/758/801/original/15309478-bedd-49a6-8053-8bb5b5b57d68.png" srcset="" alt="Open Settings" height="241" width="172">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AD064A00-1EFD-0135-F6A4-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Settings </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="export_course" data-step-uuid="2B084313-4B7F-4F87-81E5-8FB3C896F077">
+    <h2 id="export_course" class="step-title screensteps-heading">Export Course</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/743/610/original/54204c5c-d070-4677-ba05-131b3596e0dc.png" srcset="" alt="Export Course" height="442" width="277">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AD0683C0-1EFD-0135-F6A6-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Export Course Content</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select_export_type" data-step-uuid="CF57C719-7331-4E10-A169-B5871736B4C9">
+    <h2 id="select_export_type" class="step-title screensteps-heading">Select Export Type</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/743/612/original/56870ea8-fd36-4584-8afc-47ba5d165a58.png" srcset="" alt="Select Export Type" height="339" width="404">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AD06BD90-1EFD-0135-F6A8-22000B5A851D" class="text-block-content">
+    <p>In the Export Type heading, click the <strong>Course</strong> radio button [1]. Click the <strong>Create Export</strong> button [2].</p>
+<p><strong>Note</strong>: If you have previously exported the course, Canvas will display prior exports under the Content Exports heading.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_export_process" data-step-uuid="0ADA26E6-A323-468C-A61A-404D3D89DF48">
+    <h2 id="view_export_process" class="step-title screensteps-heading">View Export Process</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/000/743/614/original/23a529b1-631d-4060-874d-2a88ef13e49e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/000/743/614/medium/23a529b1-631d-4060-874d-2a88ef13e49e.png" srcset="" alt="View Export Process" height="299" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AD06F150-1EFD-0135-F6AA-22000B5A851D" class="text-block-content">
+    <p>View the progress bar. Exporting a course in Canvas may take a few minutes, depending on its size. You will receive an email when the export is complete.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="download_new_export" data-step-uuid="10E19B69-5E35-424E-97D2-EE86270A93BB">
+    <h2 id="download_new_export" class="step-title screensteps-heading">Download New Export</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/805/803/original/e77025bf-0da7-4201-81b0-35dbf4baeab6.png" srcset="" alt="Download New Export" height="220" width="455">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_AD072540-1EFD-0135-F6AC-22000B5A851D" class="text-block-content">
+    <p>When your download is ready, click the <strong>New Export </strong>link.</p>
+<p><strong>Note</strong>: Content exports expire after 30 days and can no longer be downloaded.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

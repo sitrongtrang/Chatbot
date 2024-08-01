@@ -1,0 +1,29 @@
+How do I hide or post assignment grades in SpeedGrader as an instructor
+Open SpeedGrader
+Open SpeedGrader from any assignment, graded discussion, or quiz.
+View Visibility Icons
+The Visibility icon indicates if assignment grades are hidden or posted. Assignment visibility can be determined by course posting policies or assignment posting policies.
+If assignment grades are posted for the assignment, the icon displays as the Posted Visibility icon. If assignment grades are hidden, the icon displays as the Hidden Visibility icon.
+Hide Grades
+To hide assignment grades, click the Posted Visibility icon and select the Hide Grades option.
+Note: Students will be unable to view their grades until the assignment is posted.
+Select Sections
+To hide grades for specific sections, click the Specific Sections button. Then select the sections where you want to hide grades.
+Note: You cannot hide grades for specific sections in anonymous assignments.
+Hide Grades
+Click the Hide button.
+Student View: Hidden Assignment
+The Visibility icon will display next to the title of the assignment on the Grades page. If a student tries to click on the icon, a popup dialog informs the student that the instructor has not posted the grade for this assignment.
+Post Grades
+To post assignment grades, click the Hidden Visibility icon and select the Post Grades option.
+Select Posting Option
+To make grades visible to all students, click the Everyone option. When the Everyone option is selected, the Visibility icon will be removed from the grades page for all students, including students with ungraded submissions. An assignment notification will also be sent to all students. 
+To post grades to students with graded submissions, click the Graded option. When the Graded option is selected, the Visibility icon will only be removed from the grades page for students with graded submissions. Assignment notifications will only be sent to students with graded submissions. 
+Notes: 
+Grades can only be posted to everyone in anonymous assignments.
+If a manual posting policy is set for an assignment and grades are posted to everyone, the manual posting policy will become inactive and future grades will be posted automatically.
+Select Sections
+To post grades for specific sections, click the Specific Section button. Then select the sections where you want to post grades.
+Note: You cannot post grades for specific sections in anonymous assignments.
+Post Grades
+Click the Post button.

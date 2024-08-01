@@ -1,0 +1,191 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_80858944-3196-4d1c-afd2-ce78a28877f9" class="text-block-content">
+    <p>As an admin, you can create an account-level item bank. You can add content to an item bank by importing a QTI file or manually creating questions.</p>
+<p>Once an item bank is created, it can be shared with an entire institution, sub-accounts, or with individual users. <a href="/t5/Admin-Guide/How-do-I-manage-New-Quizzes-item-banks-shared-with-an-account/ta-p/469503" target="_blank">Learn more about managing New Quizzes item banks in your account.</a></p>
+<p><strong>Notes:</strong> </p>
+<ul>
+<li>In order to view all account item banks, users must have the Item Banks - account manage permission.</li>
+<li>To share item banks with sub-accounts, users must have the Item Banks - share with sub-account permission.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-item-banks" data-step-uuid="299a3a70-27ad-4922-9e3b-e0fa60072c87">
+    <h2 id="open-item-banks" class="step-title screensteps-heading">Open Item Banks</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/488/504/original/d8b919ca-f225-46a5-bfdb-eaeb535ee000.png" srcset="" alt="Open Item Banks" height="253" width="153">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_df01c8fc-95cb-4817-afe2-9d131028c227" class="text-block-content">
+    <p>In Account Navigation, click the <strong>Item Banks</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-item-bank" data-step-uuid="8525bd89-2698-47de-b865-4c0511492c9a">
+    <h2 id="add-item-bank" class="step-title screensteps-heading">Add Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/942/659/original/c97c9af7-785a-4b7c-9432-a5a08c08a743.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/942/659/medium/c97c9af7-785a-4b7c-9432-a5a08c08a743.png" srcset="" alt="Add Item Bank" height="298" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9ffe9bfa-f80a-48de-91f3-6aa7b77cdd60" class="text-block-content">
+    <p>Click the <strong>Add Bank</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-bank-name" data-step-uuid="4a863426-3d9f-46c4-86f7-f644aee0ac80">
+    <h3 id="enter-bank-name" class="step-title screensteps-heading">Enter Bank Name</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/488/511/original/1000a43a-ed9e-448a-85af-e792144621ec.png" srcset="" alt="Enter Bank Name" height="283" width="479">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e2169e25-e671-4a03-a4f0-fcf10e11c7f2" class="text-block-content">
+    <p>In the <strong>Bank Name</strong> field, enter a name for your item bank [1]. Then click the <strong>Create Bank</strong> button [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-item-bank" data-step-uuid="26c5d339-e7ac-416b-b511-2590e9de3ef6">
+    <h2 id="view-item-bank" class="step-title screensteps-heading">View Item Bank</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/942/661/original/a8697eed-24bb-4312-b8db-274c718427a5.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/942/661/medium/a8697eed-24bb-4312-b8db-274c718427a5.png" srcset="" alt="View Item Bank" height="288" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e2aebd23-ae2d-482a-a0f5-8406aa8cc3c8" class="text-block-content">
+    <p>View your item bank. To open your item bank, click the name of the bank.</p>
+<p><a href="/t5/Admin-Guide/How-do-I-manage-New-Quizzes-item-banks-shared-with-an-account/ta-p/469503" target="_blank">Learn how to manage item banks from the Item Banks page.</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-questions-via-qti-import" data-step-uuid="31f4d293-7f8e-44c5-92eb-8a9906e516cf">
+    <h2 id="add-questions-via-qti-import" class="step-title screensteps-heading">Import Content</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/472/649/original/12cef375-48dd-4a6e-b16e-61a9b5f00b3f.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/472/649/medium/12cef375-48dd-4a6e-b16e-61a9b5f00b3f.png" srcset="" alt="Import Content" height="187" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_28fabe64-5095-4e7d-bde9-6c6a84e37729" class="text-block-content">
+    <p>If you have not added any content to your item bank, you can import content to your item bank from a QTI file.</p>
+<p>To import a QTI file, click the <strong>Options</strong> icon [1] and click the <strong>Import Content</strong> option [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-qti-file" data-step-uuid="617afc7b-0cde-43b4-b303-d2e43ab74dc0">
+    <h3 id="select-qti-file" class="step-title screensteps-heading">Select QTI File</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/488/521/original/9fdcbe50-c5b7-48db-9f02-34081bd583f6.png" srcset="" alt="Select QTI File" height="296" width="478">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ad36a6da-5829-4486-971b-a6c10ca1d977" class="text-block-content">
+    <p>To add a QTI file, drag and drop the file into the <strong>Drag &amp; Drop here</strong> field [1] or click the <strong>Browse</strong> button to select a file from your computer [2].</p>
+<p>To import the file, click the <strong>Import</strong> button [3].</p>
+<p><strong>Note:</strong> New Quizzes only supports imports from QTI 1.2 and 2.x versions. However, some QTI 1.2 and 2.x 3rd party packages include software-specific item types which may not be supported.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-new-question" data-step-uuid="6e9354f9-9a3b-4b72-8a1e-d0aeb99f7959">
+    <h2 id="add-new-question" class="step-title screensteps-heading">Add New Question</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/005/468/228/original/f7759ffd-ad3b-4767-b625-f9810ec36161.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/005/468/228/medium/f7759ffd-ad3b-4767-b625-f9810ec36161.png" srcset="" alt="Add New Question" height="244" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_7239d7d8-9705-4d24-851d-5433fbd95d28" class="text-block-content">
+    <p>To create a new question in your item bank, click the <strong>Add New</strong> button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-question-type" data-step-uuid="f8b5e56d-4491-44eb-bd25-0b96ee0d553a">
+    <h3 id="select-question-type" class="step-title screensteps-heading">Select Question Type</h3>
+  </div>
+ 
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/488/526/original/20663b25-978e-4641-a879-9db10e897fbe.png" srcset="" alt="Select Question Type" height="387" width="665">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_1c669a77-2dca-4254-baac-dc71a9c371a3" class="text-block-content">
+    <p>To create a new question, click the button for the question type [1] or <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-insert-stimulus-content-in-New-Quizzes/ta-p/573" target="_blank">add stimulus content</a> [2]<strong>.</strong></p>
+<p>The following question types are available in New Quizzes:</p>
+<ul>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Categorization-question-in-New-Quizzes/ta-p/972" target="_blank">Categorization</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-an-Essay-question-in-New-Quizzes/ta-p/980" target="_blank">Essay</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-File-Upload-assessment-question-using-New/ta-p/962" target="_blank">File Upload</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Fill-in-the-Blank-question-in-New-Quizzes/ta-p/985" target="_blank">Fill in the Blank</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Formula-question-in-New-Quizzes/ta-p/956" target="_blank">Formula</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Hot-Spot-question-in-New-Quizzes/ta-p/976" target="_blank">Hot Spot</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Matching-question-in-New-Quizzes/ta-p/981" target="_blank">Matching</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Multiple-Answer-question-in-New-Quizzes/ta-p/977" target="_blank">Multiple Answer</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Multiple-Choice-question-in-New-Quizzes/ta-p/984" target="_blank">Multiple Choice</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Numeric-question-in-New-Quizzes/ta-p/986" target="_blank">Numeric</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-an-Ordering-question-in-New-Quizzes/ta-p/979" target="_blank">Ordering</a></li>
+<li><a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-True-or-False-question-in-New-Quizzes/ta-p/572" target="_blank">True or False</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-item-bank-questions" data-step-uuid="5b3e0c88-b087-4476-afe1-65f4b1758757">
+    <h2 id="view-item-bank-questions" class="step-title screensteps-heading">View Item Bank Questions</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/488/528/original/0eb39fea-f455-42fd-a10d-e23724d3717e.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/488/528/medium/0eb39fea-f455-42fd-a10d-e23724d3717e.png" srcset="" alt="View Item Bank Questions" height="489" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_26e4c314-908d-4859-a5c8-09d44197c9d8" class="text-block-content">
+    <p>View your item bank questions [1]. To edit a question, click the <strong>Edit</strong> icon [2].</p>
+<p>To <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-move-or-copy-a-question-from-one-item-bank-to-another/ta-p/584" target="_blank">copy or move a question to another item bank</a>, click the <strong>Copy</strong> icon [3]. </p>
+<p>To delete a question, click the <strong>Delete</strong> icon [4]. </p>
+<p>To view more details about a question, click the <strong>Details</strong> icon [5].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

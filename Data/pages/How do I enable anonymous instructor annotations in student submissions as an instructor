@@ -1,0 +1,106 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_15c39edc-01ce-4658-9b39-bb3d28166588" class="text-block-content">
+    <p>When creating an assignment, you can enable anonymous instructor annotations in DocViewer supported submissions. When students view a submission with anonymous instructor annotations in DocViewer, comments do not display an instructor's name.</p>
+<p>This option only affects comments added in DocViewer in the SpeedGrader submission window. Comments added in the Speedgrader sidebar are not anonymous. </p>
+<p><strong>Notes: </strong></p>
+<ul>
+<li>Anonymous instructor annotations is currently a course opt-in feature. To enable this feature, learn how to manage feature options in the <a href="/t5/Instructor-Guide/How-do-I-manage-feature-options-for-a-course/ta-p/710" target="_blank">course features lesson</a>. </li>
+<li>Anonymous Instructor Annotations is not associated with the Anonymous Grading feature and displays as an option in all assignments.</li>
+<li>If you select this checkbox after student submissions are received, any annotations already made in DocViewer will not be anonymous. Ensure this checkbox is selected before allowing students to submit assignments.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="ad859180-4ce1-4c84-83ec-e7543b22d894">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/742/894/original/a9652870-435b-401f-852b-a4c44337a49d.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8ac91b2a-6f7b-4ebd-a6a9-4607f0d219ee" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignment" data-step-uuid="65a258ec-01b9-4f96-8acf-097fe4d84ff6">
+    <h2 id="open_assignment" class="step-title screensteps-heading">Open Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/173/879/original/8e977ab6-9208-4108-aa21-3db275d3b786.png" srcset="" alt="Open Assignment" height="220" width="741">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_50492d20-1435-488a-8159-252f56e49646" class="text-block-content">
+    <p>To open an existing assignment, click the Assignment name [1].</p>
+<p>To create a new assignment, click the <strong>Add Assignment </strong>button [2].</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="edit_assignment" data-step-uuid="417d5b83-1776-4695-adf3-cdc7bc71cdaa">
+    <h3 id="edit_assignment" class="step-title screensteps-heading">Edit Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/943/734/original/5e3655a7-310d-4822-a921-3b5859815089.png" srcset="" alt="Edit Assignment" height="58" width="202">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b93ee856-a6d9-4d9a-9937-b196674a5b12" class="text-block-content">
+    <p>Click the <strong>Edit </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="select-anonymous-instructor-annotations" data-step-uuid="bdc6df9f-67a3-48b8-b2c8-87b9d0b7c7d9">
+    <h2 id="select-anonymous-instructor-annotations" class="step-title screensteps-heading">Enable Anonymous Instructor Annotations</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/389/502/original/aaac8bd2-1e21-40fd-bca3-e5e0e10f6180.png" srcset="" alt="Enable Anonymous Instructor Annotations" height="80" width="532">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c5d35da8-6cd1-40b4-85a6-14904ea9c46e" class="text-block-content">
+    <p>Select the Anonymous Instructor Annotations checkbox.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_assignment" data-step-uuid="3b889726-10fa-4c1a-9887-c1fbd28b4445">
+    <h2 id="save_assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/943/728/original/d087d55e-cd95-40dc-a915-679aad14edd9.png" srcset="" alt="Save Assignment" height="97" width="753">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ea554f39-6b46-4419-8fc7-aaa2e7325e44" class="text-block-content">
+    <p>If you want to notify users about any future assignment changes, click the <strong>Notify users that this content has changed</strong> checkbox [1]. Click the <strong>Save </strong>button [2]. </p>
+<p><strong>Note:</strong> If your assignment has not yet been published, the assignment will show the <strong>Save &amp; Publish</strong> button [3]. The Save button will create a draft of your assignment so you can publish it later.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

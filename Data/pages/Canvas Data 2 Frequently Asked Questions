@@ -1,0 +1,139 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_1dceb0f0-1968-4e65-92dd-730d1977de39" class="text-block-content">
+    <p>This document includes some of the most frequently asked questions about Canvas Data 2 (CD2).</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="what-is-canvas-data-2" data-step-uuid="2e4d9a78-d0dc-4b2a-ac6a-3bb4b9fa5d13">
+    <h2 id="what-is-canvas-data-2" class="step-title screensteps-heading">What is Canvas Data 2?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_8b15292e-1ecd-4dd9-8b6c-bfafb1b007d9" class="text-block-content">
+    <p>The goal of Canvas Data 2 (API) is to provide efficient access to data for download collected across various educational products in bulk with high fidelity and low latency. </p>
+<p>Canvas Data 2 is not an analytics or reporting tool but it is built to share high-fidelity source data to power schools' analytics and custom reporting initiatives.</p>
+<p>Data is referenced as datasets and provides more granular data than the Canvas Data star schema.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-do-i-get-started-with-canvas-data-2" data-step-uuid="463312df-5c19-4595-ba0c-77185e051da2">
+    <h2 id="how-do-i-get-started-with-canvas-data-2" class="step-title screensteps-heading">How do I get started with Canvas Data 2?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_551577fd-109a-456d-876b-657762e72d03" class="text-block-content">
+    <p>Canvas Data 2 datasets will be accessible via Application Programming Interface (API) and Command-line interface (CLI) or by leveraging our CLI Python Libraries. </p>
+<p>To learn more, visit <a href="/t5/Admin-Guide/How-do-I-set-up-Canvas-Data-2-with-an-API-client-Postman/ta-p/560959" target="_blank">How do I set up Canvas Data 2 with an API client (Postman)?</a> and <a href="/t5/Admin-Guide/How-do-I-use-the-Canvas-Data-2-Command-Line-Interface-CLI-Tool/ta-p/560952" target="_blank">How do I use the Canvas Data 2 Command Line Interface (CLI) Tool?</a></p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-to-report-bugs-issues" data-step-uuid="63e6402d-b604-4f6f-9cef-f4ac5cc38166">
+    <h2 id="how-to-report-bugs-issues" class="step-title screensteps-heading">How to report bugs/issues?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_e223eb7a-7248-4b62-bd3a-777e9245f203" class="text-block-content">
+    <p>Send an e-mail to: <a href="mailto:canvasdatahelp@instructure.com" target="_blank" rel="nofollow noopener noreferrer">canvasdatahelp@instructure.com.</a></p>
+<p>We cannot guarantee an exact response time but we are aiming for within 48 hours.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="can-i-use-canvas-data-2-with-the-existing-canvas-data-1-product" data-step-uuid="60e77248-6b98-485d-8b6b-79b9f3a38340">
+    <h2 id="can-i-use-canvas-data-2-with-the-existing-canvas-data-1-product" class="step-title screensteps-heading">Is my Canvas Data 1 access suspended as I opt-in for Canvas Data 2?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ef274446-ad90-4343-b726-23d19e8a4791" class="text-block-content">
+    <p>Canvas Data 1 (CD1) access won’t be immediately revoked as a customer gets onboarded to Canvas Data 2.  We acknowledge that some transition time is required as your institution will need to implement data transformation and manipulation tooling because the schemas and download files for Canvas Data 1 and Canvas Data 2 are different. </p>
+<p>Nevertheless, the aim has to be to fully transition to Canvas Data 2 as Canvas Data 1 will be deprecated by the end of 2023.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="when-will-canvas-data-1-be-deprecated" data-step-uuid="2511ed0a-68f0-4b34-a234-0fe52c5ea5ec">
+    <h2 id="when-will-canvas-data-1-be-deprecated" class="step-title screensteps-heading">When will Canvas Data 1 be deprecated?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_6f021e33-0e98-4b45-b161-8061b4166718" class="text-block-content">
+    <p>We are planning to maintain Canvas Data 1 for at least six but not more than twelve months from the time Canvas Data 2 is marked as Generally Available. This will be the period during which customers migrate from Canvas Data 1 to Canvas Data 2.</p>
+<p><strong>Note:</strong> Data warehousing services hosted by Instructure Professional Services will be transitioned to Canvas Data 2 prior to the sunset of Canvas Data 1.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="is-all-the-data-from-canvas-data-1-also-available-via-canvas-data-2" data-step-uuid="30aa92de-e4ef-43cd-94b8-d0b1ca3b7ace">
+    <h2 id="is-all-the-data-from-canvas-data-1-also-available-via-canvas-data-2" class="step-title screensteps-heading">Is all the data from Canvas Data 1 also available via Canvas Data 2?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_bd070ff0-a3f0-41e4-b944-6f50bd417272" class="text-block-content">
+    <p>In terms of Canvas data yes and even more. Apache weblogs aka “requests” table are available in Canvas Data 2.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="will-canvas-data-2-give-me-access-to-data-from-the-requests-table" data-step-uuid="457cae31-a23e-4e09-a10d-4cde44117f16">
+    <h2 id="will-canvas-data-2-give-me-access-to-data-from-the-requests-table" class="step-title screensteps-heading">Will Canvas Data 2 give me access to data from the Requests Table?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_45f470be-1ec6-442a-925a-dbbdd23b707b" class="text-block-content">
+    <p>Yes. Data from the weblogs are available in Canvas Data 2. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="what-is-the-expected-data-freshness-going-to-be-for-canvas-data-2" data-step-uuid="757e18d0-4d4d-4693-bbdf-4cd80bd3873e">
+    <h2 id="what-is-the-expected-data-freshness-going-to-be-for-canvas-data-2" class="step-title screensteps-heading">What is the expected data freshness going to be for Canvas Data 2?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_95ba8df2-7f4f-4d1c-b2c8-592b7411a7dd" class="text-block-content">
+    <p>Less than 4 hours from the time data is written to the application databases.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-to-add-canvas-data-2-easily-to-postman" data-step-uuid="824fd90d-b8f8-47c9-8070-8c92e02abbea">
+    <h2 id="how-to-add-canvas-data-2-easily-to-postman" class="step-title screensteps-heading">How to add Canvas Data 2 easily to Postman?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_d32563b7-f9db-44b0-982c-5ec2a7ea25e8" class="text-block-content">
+    <p>If you are using Postman client then it is good to know that if you download the OpenAPI spec, it can be directly <a href="https://learning.postman.com/docs/integrations/available-integrations/working-with-openAPI/" target="_blank" rel="nofollow noopener noreferrer">imported </a>into Postman (and some other API clients have similar features).</p>
+<p>Otherwise you can use the <a href="/t5/Admin-Guide/How-do-I-set-up-Canvas-Data-2-with-an-API-client-Postman/ta-p/560959" target="_blank">reference Postman collection</a> as a quick start.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="how-to-get-the-schema" data-step-uuid="2a735077-8db6-44de-8e88-9360e90c7435">
+    <h2 id="how-to-get-the-schema" class="step-title screensteps-heading">How do I get the schema?</h2>
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_c8e1f101-0a9d-4946-9e2c-1c9cf9330df5" class="text-block-content">
+    <p>Either by the schema endpoint (API or CLI) or by downloading the <a href="https://api-gateway.instructure.com/doc/" target="_blank" rel="nofollow noopener noreferrer">OpenAPI spec</a>. The top-level object is a mapping between Canvas table names and their JSON schema.</p>
+<p>Additionally, you might also want to consult any or all of the resources below:</p>
+<ul>
+<li><a href="https://data-access-platform-api.s3.eu-central-1.amazonaws.com/erd/index.html" target="_blank" rel="nofollow noopener noreferrer">Entity relationship diagram</a></li>
+<li><a href="https://data-access-platform-api.s3.amazonaws.com/sql/postgresql.sql" target="" rel="nofollow noopener noreferrer">PostgreSQL schema</a></li>
+</ul>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

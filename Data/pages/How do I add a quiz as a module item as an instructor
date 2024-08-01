@@ -1,0 +1,176 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_41AAC4E0-6283-0139-2828-12F2183ABDFB" class="text-block-content">
+    <p>You can add an existing quiz or a create a new quiz in a course module. When creating a new quiz, you can select the New Quizzes or Classic Quizzes quiz engine.</p>
+<p>When you add items to a module, please be aware that the status of the module overrides the state of the individual module items. You may want to consider leaving all module items in an unpublished state until you are ready to publish the entire module. Learn more about <a href="/t5/Instructor-Guide/How-do-I-publish-or-unpublish-a-module-as-an-instructor/ta-p/571" target="_blank">publishing or unpublishing a module</a>.</p>
+<p><strong>Note</strong>: Numerous module items may affect performance. Modules supports up to 100 module items in the <a href="/t5/Instructor-Guide/How-do-I-use-modules-to-view-the-progress-of-students-in-a/ta-p/973" target="_blank">student progress page</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="41AADF50-6283-0139-2829-12F2183ABDFB">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/085/original/1f887656-6d14-482c-9f84-9a00f3fc6573.png" srcset="" alt="Open Modules" height="246" width="159">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AB0B70-6283-0139-282B-12F2183ABDFB" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_module_item" data-step-uuid="41AB2C50-6283-0139-282C-12F2183ABDFB">
+    <h2 id="add_module_item" class="step-title screensteps-heading">Add Module Item</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/385/445/original/b1472e00-8d67-4019-b5e1-602fa4131948.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/385/445/medium/b1472e00-8d67-4019-b5e1-602fa4131948.png" srcset="" alt="Add Module Item" height="310" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AB7370-6283-0139-282E-12F2183ABDFB" class="text-block-content">
+    <p>To add an item, click the <strong>Add</strong> icon [1], or drag and drop to add files to an empty module [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_item_to_module" data-step-uuid="41ABA390-6283-0139-282F-12F2183ABDFB">
+    <h2 id="add_item_to_module" class="step-title screensteps-heading">Add Item to Module</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/196/474/original/d808a574-1ccf-4e90-98b9-edf81b822ccd.png" srcset="" alt="Add Item to Module" height="350" width="750">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AC0D40-6283-0139-2831-12F2183ABDFB" class="text-block-content">
+    <p>In the <strong>Add</strong> drop-down menu [1], select the <strong>Quiz</strong> option [2].</p>
+<p><strong>Note:</strong> When adding a quiz to a module, the Add Quiz drop-down menu only loads the first 400 quizzes.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_new_item" data-step-uuid="41AC3C30-6283-0139-2832-12F2183ABDFB">
+    <h2 id="add_new_item" class="step-title screensteps-heading">Create New Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/196/476/original/5cb6b806-bc2a-4c50-8dd4-0c6060f34565.png" srcset="" alt="Create New Quiz" height="277" width="623">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AC70E0-6283-0139-2834-12F2183ABDFB" class="text-block-content">
+    <p>To create a new quiz, click the <strong>Create Quiz</strong> link.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="select-quiz-engine" data-step-uuid="812ab1d5-d500-400a-8aa1-3312cb084671">
+    <h3 id="select-quiz-engine" class="step-title screensteps-heading">Select Quiz Engine</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/196/478/original/77c8afc8-e14d-4aa5-b037-bf47aaf75212.png" srcset="" alt="Select Quiz Engine" height="253" width="341">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_ecfd8cdf-43e3-4c8b-8f64-cb1fbad755a1" class="text-block-content">
+    <p>To create the quiz using New Quizzes, click the <strong>New Quizzes</strong> option [1].</p>
+<p>To create a quiz using Classic Quizzes, click the <strong>Classic Quizzes</strong> option [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="enter-quiz-details" data-step-uuid="71c30be9-b06f-4c71-9210-de4356fe36cc">
+    <h3 id="enter-quiz-details" class="step-title screensteps-heading">Enter Quiz Details</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/196/480/original/392c6118-4933-4670-b037-8db0cecbd95f.png" srcset="" alt="Enter Quiz Details" height="253" width="368">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_3518ad52-4812-42c9-85e7-8abcd65ed00c" class="text-block-content">
+    <p>In the <strong>Quiz Name</strong> field [1], enter the name of the quiz. In the <strong>Group</strong> drop-down menu [2], select the assignment group where the quiz will be added.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_existing_item" data-step-uuid="41ACE020-6283-0139-2838-12F2183ABDFB">
+    <h2 id="add_existing_item" class="step-title screensteps-heading">Add Existing Quiz</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/196/482/original/acd5867c-9c4c-4119-a1ee-e07fd3ec527e.png" srcset="" alt="Add Existing Item" height="523" width="685">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AD1550-6283-0139-283A-12F2183ABDFB" class="text-block-content">
+    <p>To add an existing quiz, click the name of the quiz [1]. Classic quizzes include the word <strong>(classic)</strong> at the end of the title [2].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="indent_item" data-step-uuid="41AD37D0-6283-0139-283B-12F2183ABDFB">
+    <h2 id="indent_item" class="step-title screensteps-heading">Indent Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/589/original/b466a470-a632-4427-a50e-c6a04a0f8151.png" srcset="" alt="Indent Item" height="124" width="342">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AD8BE0-6283-0139-283D-12F2183ABDFB" class="text-block-content">
+    <p>In the <strong>Indentation</strong> drop-down menu, select how many levels you want the quiz to be indented in the module. You can select one level, two levels, three levels, or no identation.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add_item" data-step-uuid="41ADA6E0-6283-0139-283E-12F2183ABDFB">
+    <h2 id="add_item" class="step-title screensteps-heading">Add Item</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/772/595/original/74b88c94-92e7-4c4e-8500-6102eed33e64.png" srcset="" alt="Add Item" height="71" width="184">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41ADE390-6283-0139-2840-12F2183ABDFB" class="text-block-content">
+    <p>Click the <strong>Add Item</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_module_item" data-step-uuid="41ADF680-6283-0139-2841-12F2183ABDFB">
+    <h2 id="view_module_item" class="step-title screensteps-heading">View Module Item</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/817/094/original/14e746f8-21f8-443e-9ebf-147ac39bd0dc.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/817/094/medium/14e746f8-21f8-443e-9ebf-147ac39bd0dc.png" srcset="" alt="View Module Item" height="352" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_41AE1B60-6283-0139-2843-12F2183ABDFB" class="text-block-content">
+    <p>View the quiz. A classic quiz displays an empty quiz icon [1]. To <a href="/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248" target="_blank">edit a classic quiz</a>, click the name of the quiz [2].</p>
+<p>A quiz created in New Quizzes displays a filled quiz icon [3]. To <a href="/t5/Instructor-Guide/How-do-I-edit-the-assignment-details-of-a-New-Quizzes-quiz/ta-p/582" target="_blank">edit assignment details for the quiz</a>, click the name of the quiz. To <a href="/t5/Instructor-Guide/How-do-I-edit-a-quiz-in-New-Quizzes/ta-p/992" target="_blank">edit quiz questions</a>, click the <strong>Options</strong> icon [5] and click the <strong>Build</strong> link [6].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

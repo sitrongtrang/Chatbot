@@ -1,0 +1,127 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_0e5886aa-b5b1-4d34-b312-f72a7d838450" class="text-block-content">
+    <p>You can create a macro in the Field Admin Console. Macros allow you to apply set changes to any case in a few clicks. You can apply a macro when you <a href="/t5/Admin-Guide/How-do-I-manage-an-individual-case-in-the-Field-Admin-Console/ta-p/120" target="_blank">view an individual case</a>.</p>
+<p><strong>Note: </strong>Field Admin Console features may vary based on account and user settings. Based on the permissions for your role, you may not be able to view or use the features described in this lesson.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open-macros" data-step-uuid="497adb42-cbc1-451f-bdce-548d58f6d0fe">
+    <h2 id="open-macros" class="step-title screensteps-heading">Open Macros </h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/007/629/421/original/05defbf5-f7b3-410c-98a8-f88c777bf950.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/007/629/421/medium/05defbf5-f7b3-410c-98a8-f88c777bf950.png" srcset="" alt="Open Macros " height="119" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_cb10ba5b-7d4e-45e6-9d5d-c6cb2581eff6" class="text-block-content">
+    <p>To open the Macros page, click the <strong>Macros</strong> tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="create-new-macro" data-step-uuid="36b25094-a677-4b0d-ab7e-50770593b08e">
+    <h2 id="create-new-macro" class="step-title screensteps-heading">Create New Macro</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/602/938/original/d815d80a-97a8-4557-93e4-ed767815ac50.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/602/938/medium/d815d80a-97a8-4557-93e4-ed767815ac50.png" srcset="" alt="Create New Macro" height="166" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_b11b3273-f436-4e47-a453-c714eeeb824a" class="text-block-content">
+    <p>To create a new macro, click the <strong>New</strong> button.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="add-macro-details" data-step-uuid="dc98056f-b1ca-41a5-9696-c4aa62ff86ea">
+    <h2 id="add-macro-details" class="step-title screensteps-heading">Add Macro Details</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/004/295/521/original/8fb60e9f-9d92-4015-960e-c4bb3566b616.png" srcset="" alt="Add Macro Details" height="766" width="709">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_5fb04b4a-78b0-422a-826f-d76e02fa1333" class="text-block-content">
+    <p>Enter the details for the macro. Macro details include:</p>
+<ul>
+<li>
+<strong>Name</strong> [1]</li>
+<li>
+<strong>Account</strong> [2]: displays the account where macro can be used. To remove an account, click the Remove icon [3].</li>
+<li>
+<strong>Transfer</strong> [4]: transfers cases to designated field admin</li>
+<li>
+<strong>Status</strong> [5]: designates case status, which can be set to open, new, pending, on hold, solved, or closed as duplicate.</li>
+<li>
+<strong>Canvas Component Section</strong> [6]: describes whether the case relates to an entire account, a specific course, a Canvas user, an LTI or integration, or a non-Canvas issue.</li>
+<li>
+<strong>Canvas Component Affected</strong> [7]: describes the feature in Canvas where the bug or issue comes from.</li>
+<li>
+<strong>Canvas Component Action</strong> [8]: describes the action that led to the case creation.</li>
+<li>
+<strong>Disable Notifications</strong> [9]: prevents notification emails from sending to Case Owner, Case Contact, and Case CC.</li>
+<li>
+<strong>Chatter Comment</strong> [10]: adds comment to every case</li>
+</ul>
+<p>To learn more about options available for the Canvas Components fields, view the <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Field-Admin-Console-Canvas-Components/ta-p/387087" target="_blank">Canvas Component resource document</a>.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save-macro" data-step-uuid="d908187c-90d3-4de7-b2b0-a08afb9d6446">
+    <h2 id="save-macro" class="step-title screensteps-heading">Save Macro</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/543/150/original/621e5db7-0160-43fa-acb3-6a6a2915cdb0.png" srcset="" alt="Save Macro" height="82" width="279">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_0703c9bf-a11d-40fa-8e37-63b70cc2dac0" class="text-block-content">
+    <p>To save your macro, click the <strong>Save</strong> button [1]. To save your macro and begin creating a new macro, click the <strong>Save &amp; New</strong> button [2].</p>
+<p>To delete your macro, click the <strong>Cancel</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view-macro" data-step-uuid="2be0929e-5bf5-442a-9add-b8ee3df11d09">
+    <h2 id="view-macro" class="step-title screensteps-heading">View Macro</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/004/295/524/original/0f17ea7d-e2f9-4617-b66c-5741bfefa08d.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/004/295/524/medium/0f17ea7d-e2f9-4617-b66c-5741bfefa08d.png" srcset="" alt="View Macro" height="462" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_4b3590a2-a260-4d22-998b-7f92ba58e80c" class="text-block-content">
+    <p>View the macro.</p>
+<p>To edit the macro, click the <strong>Edit</strong> button [1]. To delete your macro, click the <strong>Delete</strong> button [2]. To duplicate your macro, click the <strong>Clone</strong> button [3].</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

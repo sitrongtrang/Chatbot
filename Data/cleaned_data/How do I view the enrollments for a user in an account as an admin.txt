@@ -1,0 +1,26 @@
+How do I view the enrollments for a user in an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open People
+In Account Navigation, click the People link.
+Find User
+Use the filter and search options to find the user in the account.
+Open User Profile
+In the search results, click the user's name.
+View Enrollments
+Enrollments are located in the Enrollments section. Enrollments are separated into courses and groups. 
+If a user has been added to an account, the Enrollments section will also display a list of accounts where the user resides.
+View Course Details
+The Courses section shows all courses where the user is enrolled.
+Each course includes the course name, the term where the course resides, the user's enrollment status, and the user's role.
+To access the course, click the name of the course.
+View Group Details
+The Groups section shows all groups where the user is enrolled.
+Each group includes the group name and the name of the course or account where the group resides.
+To access the group, click the name of the group.
+Note: To unenroll a user from a group, you must open the account or course and manage the user's enrollment.
+View Account Details
+The Accounts section shows all accounts where the user is enrolled as an account admin.
+To access the account, click the name of the account.
+Unenroll User
+To unenroll a user from a course, group, or account, locate the appropriate section in the enrollments list. Next to the course, group, or account where you want to unenroll the user, click the Delete icon then click the OK button. The user will no longer have access to the course, group, or account.

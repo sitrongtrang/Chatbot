@@ -1,0 +1,142 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_CB65E300-1ED1-0135-A44C-22000B5A851D" class="text-block-content">
+    <p>As an instructor, you can publish or unpublish an assignment in a course. Unpublished assignments are invisible to students and excluded from grade calculations. You can manage the state of all assignments on the Assignments Index Page, or you can manage each assignment individually. </p>
+<p><strong>Note:</strong> If you use Modules in your course and add an Assignment to a Module, please be aware that the state of the Module overrides the state of all module items. You may want to consider leaving Assignments unpublished until you are ready to publish the entire Module. For more information please see the <a href="/t5/Instructor-Guide/How-do-I-publish-or-unpublish-a-module-as-an-instructor/ta-p/571" target="_blank">Modules Draft State lesson</a>.</p>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_assignments" data-step-uuid="4260594e-8e12-4f09-8122-b7d5137cb864">
+    <h2 id="open_assignments" class="step-title screensteps-heading">Open Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/744/620/original/40f49e83-d30c-4b28-9861-0c14f77f76df.png" srcset="" alt="Open Assignments" height="271" width="169">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CB661AA0-1ED1-0135-A44E-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Assignments </strong>link. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_status_of_all_assignments" data-step-uuid="59fb7dc1-430f-4477-8b68-e95bbe18bb18">
+    <h2 id="view_status_of_all_assignments" class="step-title screensteps-heading">View Status of All Assignments</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/251/711/original/11754738-ec15-43f3-a75d-f2786725d11d.png" srcset="" alt="View Status of All Assignments" height="129" width="118">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CB664CD0-1ED1-0135-A450-22000B5A851D" class="text-block-content">
+    <p>On the Assignments Index page, you can view the status of each assignment. Green icons indicate the assignment is published [1]. Gray icons indicate unpublished assignments [2]. You can change the status of an assignment by toggling the published and unpublished icons.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="publish_an_assignment" data-step-uuid="5a58870f-c49d-4f91-8281-7255779cb2b3">
+    <h3 id="publish_an_assignment" class="step-title screensteps-heading">Publish an Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/251/704/original/9c3505b1-4e3b-499e-82de-9458602fa112.png" srcset="" alt="Publish an Assignment" height="129" width="104">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CB668060-1ED1-0135-A452-22000B5A851D" class="text-block-content">
+    <p>To publish an assignment, click the assignment’s unpublished icon. The hover text will confirm you want to publish the assignment.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unpublish_an_assignment" data-step-uuid="77b74b4f-c215-4ada-abdc-a04c77996681">
+    <h3 id="unpublish_an_assignment" class="step-title screensteps-heading">Unpublish an Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/007/122/338/original/2c10f5b3-2b12-4db2-a535-746dbce84479.png" srcset="" alt="Unpublish an Assignment" height="163" width="331">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CB66B3A0-1ED1-0135-A454-22000B5A851D" class="text-block-content">
+    <p>To unpublish an assignment, hover over the assignment's published icon and view its status. If the assignment can be unpublished, the hover text will confirm you want to unpublish the assignment [1]. Click the icon to confirm.</p>
+<p>Assignments with student submissions cannot be unpublished, and the hover text will notify you accordingly [2].</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_status_within_an_individual_assignment" data-step-uuid="6474d112-f822-4eaa-bde7-d526c364a1ee">
+    <h2 id="view_status_within_an_individual_assignment" class="step-title screensteps-heading">View Status within an Individual Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/023/739/original/e67520a5-630b-4d2c-b11b-95d6984307e5.png" srcset="" alt="View Staus within an Individual Assignment" height="307" width="814">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CB66E840-1ED1-0135-A456-22000B5A851D" class="text-block-content">
+    <p>Within individual assignments, the assignment status is shown next to the assignment name. </p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="publish_an_assignment_1" data-step-uuid="58097e32-285a-4554-8a9e-4938f9e90ce8">
+    <h3 id="publish_an_assignment_1" class="step-title screensteps-heading">Publish an Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/023/741/original/9ef11f69-4cd8-4630-8df4-58805534bf62.png" srcset="" alt="Publish an Assignment" height="167" width="819">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CB672220-1ED1-0135-A458-22000B5A851D" class="text-block-content">
+    <p>To publish an assignment, click the assignment’s <strong>Publish</strong> button. The button will change from gray to green.  </p>
+  </div>
+</div>
+ 
+  </div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="unpublish_an_assignment_1" data-step-uuid="4fe4d9b8-a8e5-487f-8179-3d5478b8cb24">
+    <h3 id="unpublish_an_assignment_1" class="step-title screensteps-heading">Unpublish an Assignment</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/001/023/744/original/963a191c-be3e-4c32-89d7-0f6829c595d0.png" srcset="" alt="Publish an Assignment" height="170" width="819">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CB6755D0-1ED1-0135-A45A-22000B5A851D" class="text-block-content">
+    <p>To unpublish an assignment, hover over the published button for the assignment and view its status. If the assignment can be unpublished, the hover text will confirm you want to unpublish the assignment, and the button will change from green to red. Click the button to confirm. </p>
+<p>Assignments with student submissions cannot be unpublished.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assignments_student_view" data-step-uuid="8da2fe9a-96fd-4576-87a5-2ca0390e3205">
+    <h2 id="assignments_student_view" class="step-title screensteps-heading">Assignments Student View</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/171/731/original/d82b6965-6c9b-4182-9f8d-92ce16ea06b3.png" srcset="" alt="Assignments Student View" height="377" width="767">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_CB678B40-1ED1-0135-A45C-22000B5A851D" class="text-block-content">
+    <p>Students cannot see any of the actions involved with publish status, such as published and unpublished icons and setting icons. Students will only see published assignments, which are posted in gray text.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>

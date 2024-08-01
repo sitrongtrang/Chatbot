@@ -1,0 +1,28 @@
+How do I view grade change activity for an account as an admin
+Open Account
+In Global Navigation, click the Admin link, then click the name of the account.
+Open Admin Tools
+In Account Navigation, click the Admin Tools link.
+Open Logging
+Click the Logging tab. 
+Select Log Type
+From the log type drop-down menu, select the Grade Change Activity option. 
+Search for Grade Change
+To view grade change activity results, search using one or more search parameters. 
+Grader allows you to search by grader name (e.g. instructor or TA)
+Student allows you to search by student name
+Course Id allows you to search by course. You can locate your course id number at the end of your course URL (i.e. canvas.instructure.com/courses/XXXXXX).
+Assignment Id allows you to search by assignment. You can locate your assignment id number at the end of your course URL (i.e. canvas.instructure.com/courses/assignments/XXX).
+From/To Date allows you to narrow your search parameters by date range.
+Note: When typing an individual's name into either the grader or student field, Canvas will automatically generate a list of matching names. Canvas will not accept entries in the grader and student fields that are not selected from the drop-down list of Canvas users. Currently, the assignment and course id can only be searched if the id is known. 
+View Grade Change Activity
+Enter search criteria in the appropriate field(s) and click the Find button. Canvas will display any applicable results for the criteria entered. In the example above, the search generated all activity based on the grader and student. Results include:
+The Date the grade was changed
+The Time the grade was changed
+The previously assigned grade it was changed From; the dash (-) indicates there was no previously assigned grade and an EX indicates the assignment was excused
+The new grade it was changed To
+The Grader who assigned the grade change
+The Student who received the grade change 
+The Course in which the grade was changed
+The Assignment for which the grade was changed 
+Whether or not the grader selected the Hide Student Names (Anonymous) option in SpeedGrader settings

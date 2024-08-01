@@ -1,0 +1,139 @@
+<div class="lia-message-body-content">
+			
+				
+					
+					
+						<template id="article_translations" data-translation-clipboard-copy="Click to copy" data-translation-clipboard-copied="Copied to clipboard!">
+</template>
+
+
+    <div class="step-instructions screensteps-textblock screensteps-wrapper--introduction screensteps-wrapper">
+  <div id="text-content_9CA60BE0-2212-0135-D6B5-22000B5A851D" class="text-block-content">
+    <p>By default, assignments in Canvas are assigned to Everyone, which means all students will be able to view the item in their Modules page. Once you have <a href="/t5/Instructor-Guide/How-do-I-add-conditional-content-to-a-Mastery-Path-source-item/ta-p/854" target="_blank">added conditional assignments</a> to a Mastery Path, you must designate the assignment for conditional release by assigning it to Mastery Paths. Mastery Path assignments only display to students whose scores fall in a range that releases the assignment to them.</p>
+<p>To confirm that all conditional content items have been assigned to Mastery Paths correctly, you can use the Test Student to view the students' Modules page by <a href="/t5/Instructor-Guide/How-do-I-view-a-course-as-a-test-student-using-Student-View/ta-p/1122" target="_blank">enabling Student View</a>. The only course items that should be visible to the Test Student are items assigned to Everyone. Therefore, if the Test Student can view a conditional item without having completed any coursework, the assignment may not have been edited and assigned to Mastery Paths.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>The Mastery Paths setting can be <a href="/t5/Instructor-Guide/How-do-I-set-details-for-a-course/ta-p/1037" target="_blank">managed in your course</a> if the setting has been <a href="/t5/Admin-Guide/How-do-I-set-details-for-an-account/ta-p/194" target="_blank">enabled by your institution</a>.</li>
+<li>For quick reference, assignment and quiz pages display user assignments. User assignments cannot be viewed from the modules page until the assignment has been assigned to multiple students. </li>
+<li>Due dates for conditional items are not applied when the item is released to students. To add due dates for conditional items, wait until all students have completed the initial assignment and then <a href="/t5/Instructor-Guide/How-do-I-assign-an-assignment-to-an-individual-student/ta-p/717" target="_blank">add due dates to the conditional items</a>.</li>
+<li>Files, External URLs, and External Tool module items cannot be used as conditional items in Mastery Paths.</li>
+<li>If your course has a large number of students and/or if a Mastery Path has a large number of associated conditional items, students may experience a delay before they are assigned a path.</li>
+</ul>
+  </div>
+</div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_modules" data-step-uuid="76d3c3c0-f25e-4b27-b4e2-43696751aa24">
+    <h2 id="open_modules" class="step-title screensteps-heading">Open Modules</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/002/764/182/original/2ac1d5f3-d141-43d6-9d50-d0c3e2d8de9f.png" srcset="" alt="Open Modules" height="248" width="164">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9CA75B60-2212-0135-D6B7-22000B5A851D" class="text-block-content">
+    <p>In Course Navigation, click the <strong>Modules </strong>link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="open_masterypaths" data-step-uuid="77e25c2e-4897-4865-af8e-f6a154894169">
+    <h2 id="open_masterypaths" class="step-title screensteps-heading">Open Mastery Paths</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/008/151/754/original/4f919357-1fcd-4032-8166-8741c80a59d8.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/008/151/754/medium/4f919357-1fcd-4032-8166-8741c80a59d8.png" srcset="" alt="Open Mastery Paths" height="192" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9CA83DA0-2212-0135-D6B9-22000B5A851D" class="text-block-content">
+    <p>Locate the Mastery Paths item and click the <strong>Mastery Paths</strong> link.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="edit_assignment" data-step-uuid="f972d6b9-46a4-4644-9340-db052aef87d2">
+    <h2 id="edit_assignment" class="step-title screensteps-heading">Edit Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/168/274/original/8a799ef0-8080-4036-a2fa-ff154c47d2da.png" srcset="" alt="Edit Assignment" height="251" width="670">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9CA9CB90-2212-0135-D6BB-22000B5A851D" class="text-block-content">
+    <p>For each assignment in each range, click the options menu [1] and click the <strong>Edit </strong>link [2]. The assignment will open in a new browser tab.</p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="assign_to_masterypaths" data-step-uuid="ee8f7d49-d844-45db-ade0-fb47b1cd78b1">
+    <h2 id="assign_to_masterypaths" class="step-title screensteps-heading">Assign to Mastery Paths</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/662/original/e986de4a-e71d-4245-abd2-8b9fb9d922e0.png" srcset="" alt="Assign to MasteryPaths" height="266" width="490">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9CAAAE30-2212-0135-D6BD-22000B5A851D" class="text-block-content">
+    <p>In the assignment's Assign field, click the <strong>Everyone </strong>remove icon [1], then click the text field. Select the <strong>Mastery Paths </strong>option [2]. </p>
+  </div>
+</div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="save_assignment" data-step-uuid="2b46fc3c-bed3-4430-855d-f173d7a2cfaf">
+    <h2 id="save_assignment" class="step-title screensteps-heading">Save Assignment</h2>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/003/168/273/original/58896d19-a017-4d53-8e0d-ad01545f3b3a.png" srcset="" alt="Save Assignment" height="69" width="309">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9CAB8410-2212-0135-D6BF-22000B5A851D" class="text-block-content">
+    <p>Click the <strong>Save </strong>button.</p>
+  </div>
+</div>
+ 
+        <div class="step screensteps-section screensteps-depth-2" id="view_section_warning" data-step-uuid="d033bc16-60de-4825-a7db-64bb7b5c0512">
+    <h3 id="view_section_warning" class="step-title screensteps-heading">View Section Warning</h3>
+        <div class="image screensteps-image">
+      <img src="https://media.screensteps.com/image_assets/assets/000/792/658/original/c06c614c-d977-482e-91f4-5c4bc16d6fad.png" srcset="" alt="View Section Warning" height="244" width="309">
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9CAC6300-2212-0135-D6C1-22000B5A851D" class="text-block-content">
+    <p>Canvas displays a warning message asking you if you want to add additional sections. For Mastery Paths, you can disregard this warning. Click the <strong>Continue </strong>button.</p>
+  </div>
+</div>
+ 
+  </div>
+ 
+  </div>
+
+      <div class="step screensteps-section screensteps-depth-1" id="view_assignment" data-step-uuid="825ccb96-f00c-4070-a960-f2679f90f3de">
+    <h2 id="view_assignment" class="step-title screensteps-heading">View Assignment</h2>
+        <div class="image screensteps-image">
+      <a href="https://media.screensteps.com/image_assets/assets/001/008/558/original/1272f8ee-518c-4c78-9966-ea4832794ece.png" class="screensteps-image-zoom" target="_blank" rel="nofollow noopener noreferrer">
+        <img src="https://media.screensteps.com/image_assets/assets/001/008/558/medium/1272f8ee-518c-4c78-9966-ea4832794ece.png" srcset="" alt="View Assignment" height="490" width="855">
+      </a>
+  </div>
+ 
+      <div class="step-instructions screensteps-textblock">
+  <div id="text-content_9CAD5850-2212-0135-D6C3-22000B5A851D" class="text-block-content">
+    <p>View the Mastery Path assignment.</p>
+<p>The assignment will only display in a student's Modules page if the student's score in the Mastery Path source item releases the assignment to the student.</p>
+  </div>
+</div>
+ 
+  </div>
+					
+				
+			
+			
+			
+				
+			
+			
+			
+			
+			
+			
+		</div>
