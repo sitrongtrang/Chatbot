@@ -15,4 +15,4 @@ __pycache__/
 .env
 
 # Ignore model files
-*.gguf
+Models/
